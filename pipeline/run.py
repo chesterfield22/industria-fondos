@@ -6,6 +6,7 @@ import fx, base, maestro, publish, metrics
 
 ad, base_dir, out = sys.argv[1], sys.argv[2], sys.argv[3]
 T = sys.argv[4] if len(sys.argv) > 4 else None
+os.makedirs(base_dir, exist_ok=True); os.makedirs(out, exist_ok=True)
 ref = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'ref')
 fx.build(os.path.join(ad, 'cotizaciones', 'dolares'), os.path.join(base_dir, 'fx.csv'))
 base.build(os.path.join(ad, 'finanzas', 'fci', 'fondos'), base_dir, os.path.join(base_dir, 'fx.csv'))
