@@ -1,0 +1,56 @@
+name: actualizar-datos
+
+on:
+  schedule:
+    - cron: '30 1 * * 2-6'   # 22:30 ART lunes a viernes
+    - cron: '0 13 * * 1-5'   # 10:00 ART: completa fondos que reportan tarde a CNV
+  workflow_dispatch:
+    inputs:
+      fecha_corte:
+        description: 'Fecha de corte (AAAA-MM-DD). Vacío = última fecha completa'
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-datos
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Dependencias
+        run: pip install -r requirements.txt
+
+      - name: Descargar históricos (ArgentinaDatos, réplica planilla diaria CNV)
+        run: |
+          git clone --depth 1 --filter=blob:none --no-checkout https://github.com/enzonotario/esjs-argentina-datos-api ad
+          cd ad
+          git sparse-checkout init --cone
+          git sparse-checkout set datos/v1/finanzas/fci/fondos datos/v1/cotizaciones/dolares/bolsa datos/v1/cotizaciones/dolares/contadoconliqui datos/v1/cotizaciones/dolares/mayorista
+          git checkout main
+
+      - name: Pipeline
+        run: python pipeline/run.py ad/datos/v1 base salida ${{ github.event.inputs.fecha_corte }}
+
+      - name: Publicar en rama data (sin historial, se reemplaza en cada corrida)
+        run: |
+          mkdir -p salida/base && cp base/*.parquet base/fx.csv salida/base/
+          cp README.md salida/ 2>/dev/null || true
+          cd salida
+          git init -q -b data
+          git config user.name "industria-fondos-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -q -m "datos $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -q --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" data
