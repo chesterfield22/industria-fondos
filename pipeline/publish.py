@@ -6,6 +6,8 @@ salida/
   gerentes.csv        AUM, suscripciones, share por sociedad gerente (+ tipo bancaria/independiente)
   gerentes_tipo.csv   AUM por gerente x tipo de FCI;  gerentes_subtipo.csv  AUM por gerente x subtipo
   gerentes_segmento.csv  gerente x segmento (Total / tipo / subtipo): AUM, share en el segmento, suscripciones
+  gerentes_iol.csv    idem con IOL separado de Adcap ('IOL' y 'Adcap ex IOL')
+  iol_adcap_diario.csv / iol_adcap_mensual.csv   participación de IOL en Adcap y posición en el ranking
   tipo_gerente.csv    bancarias vs independientes
   ranking.csv         clases (fondos >= ARS 1.000 M): rendimientos por horizonte y posición en su subtipo, vol, honorarios
   clases.csv          catálogo de clases activas (para el selector de fondo)
@@ -18,6 +20,7 @@ import os, sys, json, glob, shutil
 import numpy as np, pandas as pd, duckdb
 sys.path.insert(0, os.path.dirname(__file__))
 from metrics import compute, HZ
+import iol
 
 
 def w(df, path, nd=6):
@@ -31,6 +34,7 @@ def publish(base_dir, out, T=None):
     T = pd.Timestamp(meta['fecha_corte'])
     mrows = [('fecha_corte', meta['fecha_corte']), ('ultima_fecha_datos', meta['ultima_fecha_datos']),
              ('ultima_fecha_completa', meta['ultima_fecha_completa']), ('clases_con_dato', meta['clases_con_dato_T']),
+             ('cobertura_aum', round(meta['cobertura_aum_T'], 6)),
              ('aum_arrastrado_pct', round(meta['aum_stale_pct'], 6)), ('fx_usado', 'A3500'),
              ('a3500', meta['fx_T']['a3500']), ('mep', meta['fx_T']['mep']), ('ccl', meta['fx_T']['ccl']),
              ('generado_utc', pd.Timestamp.now(tz='UTC').strftime('%Y-%m-%d %H:%M')),
@@ -48,6 +52,8 @@ def publish(base_dir, out, T=None):
     w(r['ger_tipo'].reset_index(), os.path.join(out, 'gerentes_tipo.csv'))
     w(r['ger_sub'].reset_index(), os.path.join(out, 'gerentes_subtipo.csv'))
     w(r['ger_seg'], os.path.join(out, 'gerentes_segmento.csv'))
+    w(r['ger_iol'], os.path.join(out, 'gerentes_iol.csv'))
+    iol.publish(base_dir, out, T)
     w(r['tipo_ger'][['tipo_gerente', 'aum_total_m'] + [f'susc_{h}_m' for h in HZ]], os.path.join(out, 'tipo_gerente.csv'))
     RK = r['ranking'].copy()
     RK['aum_clase_m'] = RK.aum_ars / 1e6; RK['aum_fondo_m'] = RK.aum_fondo_ars / 1e6

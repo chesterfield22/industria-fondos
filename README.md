@@ -11,6 +11,9 @@ Base: `https://raw.githubusercontent.com/chesterfield22/industria-fondos/data/`
 | `meta.csv` | fecha de corte, cobertura, tipos de cambio, fuentes |
 | `segmentos.csv` | AUM, suscripciones netas (1d, 7d, MTD, 30d, 90d, YTD, 365d) y rendimientos por tipo/subtipo (esquema 1816) |
 | `gerentes.csv`, `gerentes_tipo.csv`, `gerentes_subtipo.csv`, `tipo_gerente.csv` | sociedades gerentes, bancarias vs independientes |
+| `gerentes_segmento.csv` | gerente × segmento (Total / tipo / subtipo): posición, AUM, share, suscripciones |
+| `gerentes_iol.csv` | idem con IOL como gerente separado de Adcap (`IOL`, `Adcap ex IOL`) |
+| `iol_adcap_diario.csv`, `iol_adcap_mensual.csv` | AUM de IOL y de Adcap (clases ARS, clases USD, total), participación de IOL y posición en el ranking de gerentes |
 | `ranking.csv` | clases de fondos con AUM ≥ ARS 1.000 M: rendimientos, posición en su subtipo, volatilidad 90d, rend/vol, honorarios |
 | `clases.csv` | catálogo de clases activas (selector) |
 | `aum_diario.csv`, `flujo_diario.csv` | series diarias por tipo (ARS M) |
@@ -22,7 +25,7 @@ Base: `https://raw.githubusercontent.com/chesterfield22/industria-fondos/data/`
 
 - **Suscripciones netas** (por clase y día): `AUM_t − AUM_{t−1} × VCP_t / VCP_{t−1}`. Se suman clases y días; los flujos de clases USD se convierten a pesos al tipo de cambio de cada día.
 - **Rendimientos** por horizonte: `VCP_T / VCP_base − 1`, con base = último VCP ≤ T − h días corridos (MTD: último del mes anterior; YTD: último del año anterior). Segmentos: promedio ponderado por AUM, neto de comisiones. Verificado contra el informe 1816 del 02/11/2026 (28 de 28 rendimientos de clase idénticos).
-- **Fecha de corte**: última fecha hábil con ≥ 97% de las clases reportadas (la CNV recibe reportes tardíos; la corrida de las 10:00 completa el día anterior). Clases que no reportaron T arrastran su último dato (máx. 7 días) y se informa el % de AUM arrastrado.
+- **Fecha de corte**: última fecha hábil con ≥ 97% de las clases reportadas y ≥ 98,5% del AUM esperado (la CNV recibe reportes tardíos; la corrida de las 10:00 completa el día anterior). Clases que no reportaron T arrastran su último dato (máx. 7 días) y se informa el % de AUM arrastrado.
 - **Tipo de cambio**: A3500 (BCRA, Com. A 3500) por defecto; también MEP y CCL. El informe 1816 usa un tipo de cambio propio (≈ 1.613 al 02/11/2026, no publicado).
 - **Segmentación**: subtipos 1816 tomados del propio informe (≈ 97% del AUM), regla por categoría CAFCI para categorías unívocas, y para el resto el subtipo cuyo rendimiento diario (120 ruedas) más se parece. Correcciones manuales en `ref/segmento_manual.csv` (fondo_id, subtipo).
 - **Tipo de gerente** (bancaria / independiente): tomado del informe 1816; manuales en `ref/gerente_tipo_manual.csv`.
