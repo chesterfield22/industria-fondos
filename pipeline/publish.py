@@ -14,7 +14,7 @@ salida/
   aum_diario.csv      AUM diario por tipo (ARS M), último año
   flujo_diario.csv    suscripciones netas diarias por tipo (ARS M), último año
   fx.csv              A3500, MEP, CCL diarios
-  serie/<clase_id>.csv  historia completa por clase: fecha, vcp, aum, suscripciones netas, rend diario
+  serie/<clase_id>.csv  historia por clase: fecha, vcp, aum, suscripciones_netas, rend_diario (moneda de la clase), aum_ars, susc_ars (A3500 diario)
 """
 import os, sys, json, glob, shutil
 import numpy as np, pandas as pd, duckdb
@@ -68,9 +68,11 @@ def publish(base_dir, out, T=None):
         RK[f'pos_{h}'] = RK[f'pos_{h}'].astype('Int64')
     RK.to_csv(os.path.join(out, 'ranking.csv'), index=False, date_format='%Y-%m-%d')
     sn = r['snap']
-    cat = sn[['clase_id', 'clase', 'fondo', 'gerente', 'tipo_gerente', 'tipo', 'subtipo', 'moneda', 'aum', 'aum_ars', 'fecha_dato', 'origen_segmento']].copy()
+    cat = sn[['clase_id', 'clase', 'fondo', 'gerente', 'tipo_gerente', 'tipo', 'subtipo', 'moneda', 'aum', 'aum_ars', 'fecha_dato',
+              'origen_segmento', 'hon_gd'] + [f'r_{h}' for h in HZ] + ['vol_90d', 'rend_vol']].copy()
     cat['aum_ars_m'] = cat.aum_ars / 1e6
-    cat = cat.drop(columns=['aum_ars']).sort_values('aum_ars_m', ascending=False).round({'aum': 2, 'aum_ars_m': 2})
+    cat = cat.drop(columns=['aum_ars']).sort_values('aum_ars_m', ascending=False).round(
+        {'aum': 2, 'aum_ars_m': 2, 'hon_gd': 4, 'vol_90d': 6, 'rend_vol': 4, **{f'r_{h}': 8 for h in HZ}})
     cat.to_csv(os.path.join(out, 'clases.csv'), index=False, date_format='%Y-%m-%d')
     for k in ('aum_diario', 'flujo_diario'):
         x = r[k].reset_index().rename(columns={'index': 'fecha'})
@@ -85,9 +87,16 @@ def publish(base_dir, out, T=None):
     con.register('act', pd.DataFrame({'clase_id': act}))
     allr = con.sql(f"""select d.clase_id, d.fecha, d.vcp, d.aum, d.flujo, d.rend from read_parquet('{base_dir}/clases_diario_*.parquet') d
                        join act using (clase_id) where d.fecha <= '{T.date()}' order by d.clase_id, d.fecha""").df()
+    # aum_ars / susc_ars: clases USD a pesos al A3500 de cada día (mismo criterio que los agregados)
+    mon = pd.read_parquet(os.path.join(base_dir, 'clases_meta.parquet')).drop_duplicates('clase_id').set_index('clase_id').moneda
+    a35 = fx.set_index('fecha').a3500
+    allr['fecha'] = pd.to_datetime(allr.fecha)
+    k = np.where(allr.clase_id.map(mon).eq('USD'), allr.fecha.map(a35), 1.0)
+    allr['aum_ars'] = allr.aum * k
+    allr['susc_ars'] = allr.flujo * k
     for cid, g in allr.groupby('clase_id', sort=False):
         g = g.drop(columns='clase_id').rename(columns={'flujo': 'suscripciones_netas', 'rend': 'rend_diario'})
-        g = g.round({'vcp': 6, 'aum': 2, 'suscripciones_netas': 2, 'rend_diario': 8})
+        g = g.round({'vcp': 6, 'aum': 2, 'suscripciones_netas': 2, 'rend_diario': 8, 'aum_ars': 2, 'susc_ars': 2})
         g.to_csv(os.path.join(sd, f'{cid}.csv'), index=False, date_format='%Y-%m-%d')
     print('publicado', out, '| fecha corte', T.date(), '| series:', len(act))
     return r
