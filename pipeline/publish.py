@@ -7,6 +7,7 @@ salida/
   gerentes_tipo.csv   AUM por gerente x tipo de FCI;  gerentes_subtipo.csv  AUM por gerente x subtipo
   gerentes_segmento.csv  gerente x segmento (Total / tipo / subtipo): AUM, share en el segmento, suscripciones
   gerentes_iol.csv    idem con IOL separado de Adcap ('IOL' y 'Adcap ex IOL')
+  gerentes_iol_sin_mm.csv  idem, excluyendo gerentes con al menos un Money Market (posición y share dentro de ese universo)
   iol_adcap_diario.csv / iol_adcap_mensual.csv   participación de IOL en Adcap y posición en el ranking
   tipo_gerente.csv    bancarias vs independientes
   ranking.csv         clases (fondos >= ARS 1.000 M): rendimientos por horizonte y posición en su subtipo, vol, honorarios
@@ -35,7 +36,7 @@ def publish(base_dir, out, T=None):
     mrows = [('fecha_corte', meta['fecha_corte']), ('ultima_fecha_datos', meta['ultima_fecha_datos']),
              ('ultima_fecha_completa', meta['ultima_fecha_completa']), ('clases_con_dato', meta['clases_con_dato_T']),
              ('cobertura_aum', round(meta['cobertura_aum_T'], 6)),
-             ('aum_arrastrado_pct', round(meta['aum_stale_pct'], 6)), ('fx_usado', 'A3500'),
+             ('aum_arrastrado_pct', round(meta['aum_stale_pct'], 6)), ('gerentes_con_money_market', meta['gerentes_con_mm']), ('fx_usado', 'A3500'),
              ('a3500', meta['fx_T']['a3500']), ('mep', meta['fx_T']['mep']), ('ccl', meta['fx_T']['ccl']),
              ('generado_utc', pd.Timestamp.now(tz='UTC').strftime('%Y-%m-%d %H:%M')),
              ('fuente_fondos', 'CNV planilla diaria de cuotapartes (via ArgentinaDatos)'),
@@ -53,16 +54,20 @@ def publish(base_dir, out, T=None):
     w(r['ger_sub'].reset_index(), os.path.join(out, 'gerentes_subtipo.csv'))
     w(r['ger_seg'], os.path.join(out, 'gerentes_segmento.csv'))
     w(r['ger_iol'], os.path.join(out, 'gerentes_iol.csv'))
+    w(r['ger_iol_sin_mm'], os.path.join(out, 'gerentes_iol_sin_mm.csv'))
     iol.publish(base_dir, out, T)
     w(r['tipo_ger'][['tipo_gerente', 'aum_total_m'] + [f'susc_{h}_m' for h in HZ]], os.path.join(out, 'tipo_gerente.csv'))
     RK = r['ranking'].copy()
     RK['aum_clase_m'] = RK.aum_ars / 1e6; RK['aum_fondo_m'] = RK.aum_fondo_ars / 1e6
     rk_cols = ['clase_id', 'clase', 'fondo', 'gerente', 'tipo_gerente', 'tipo', 'subtipo', 'moneda', 'aum_clase_m', 'aum_fondo_m'] + \
               sum([[f'r_{h}', f'pos_{h}'] for h in HZ], []) + ['vol_90d', 'rend_vol', 'hon_gd', 'hon_gerente', 'hon_depositaria',
-                                                              'fecha_dato', 'origen_segmento']
+                                                              'fecha_dato', 'origen_segmento'] + \
+              [f'susc_{h}_m' for h in HZ]          # columnas nuevas siempre al final: el Sheet ubica por nombre
+    for h in HZ:
+        RK[f'susc_{h}_m'] = RK[f'f_{h}'] / 1e6
     RK = RK.sort_values(['subtipo', 'aum_clase_m'], ascending=[True, False])[rk_cols]
     rnd = {'aum_clase_m': 2, 'aum_fondo_m': 2, 'vol_90d': 6, 'rend_vol': 4, 'hon_gd': 4, 'hon_gerente': 4, 'hon_depositaria': 4}
-    rnd.update({f'r_{h}': 8 for h in HZ})
+    rnd.update({f'r_{h}': 8 for h in HZ}); rnd.update({f'susc_{h}_m': 2 for h in HZ})
     RK = RK.round(rnd)
     for h in HZ:
         RK[f'pos_{h}'] = RK[f'pos_{h}'].astype('Int64')

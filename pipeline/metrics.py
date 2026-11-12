@@ -55,6 +55,9 @@ def fecha_corte(base_dir, min_n=0.97, min_aum=0.985, dias=70):
     return n.index.max(), (ok.max() if len(ok) else n.index.max()), n, cov
 
 
+SUSC = [f'susc_{h}_m' for h in HZ]
+
+
 def es_iol(df):
     """IOL = fondos de Adcap cuyo nombre empieza con 'IOL ' (Cash Management, Dólar Ahorro Plus, Portafolio Potenciado)."""
     return df.gerente.eq('Adcap') & df.fondo.fillna('').str.startswith('IOL ')
@@ -76,9 +79,9 @@ def ger_seg(snap):
         if key == 'subtipo':
             x = x[x.segmento != x.tipo]          # T+1 / Sin clasificar: subtipo == tipo, ya están como Tipo
         g = x.groupby(['segmento', 'gerente', 'tipo_gerente']).agg(
-            aum_m=('aum_ars', 'sum'), susc_1d_m=('f_1d', 'sum'), susc_30d_m=('f_30d', 'sum'),
-            susc_YTD_m=('f_YTD', 'sum'), n_fondos=('fondo_id', 'nunique')).reset_index()
-        for c in ('aum_m', 'susc_1d_m', 'susc_30d_m', 'susc_YTD_m'):
+            aum_m=('aum_ars', 'sum'), n_fondos=('fondo_id', 'nunique'),
+            **{f'susc_{h}_m': (f'f_{h}', 'sum') for h in HZ}).reset_index()
+        for c in ['aum_m'] + SUSC:
             g[c] = g[c] / 1e6
         g = g[g.aum_m > 0]
         g['share'] = g.aum_m / g.groupby('segmento').aum_m.transform('sum')
@@ -86,7 +89,12 @@ def ger_seg(snap):
         g['nivel'] = nivel
         gl.append(g)
     GL = pd.concat(gl, ignore_index=True).sort_values(['nivel', 'segmento', 'aum_m'], ascending=[True, True, False])
-    return GL[['nivel', 'segmento', 'pos', 'gerente', 'tipo_gerente', 'aum_m', 'share', 'susc_1d_m', 'susc_30d_m', 'susc_YTD_m', 'n_fondos']]
+    return GL[['nivel', 'segmento', 'pos', 'gerente', 'tipo_gerente', 'aum_m', 'share'] + SUSC + ['n_fondos']]
+
+
+def gerentes_con_mm(snap):
+    """Gerentes con al menos un fondo Money Market (tipo 1816: MM ARS Clásico, MM ARS Dinámico o MM USD Clásico) con AUM > 0."""
+    return set(snap.loc[snap.tipo.eq('Money Market') & (snap.aum_ars > 0), 'gerente'])
 
 
 def compute(base_dir, out_dir, T=None, fx_col='a3500'):
@@ -168,7 +176,10 @@ def compute(base_dir, out_dir, T=None, fx_col='a3500'):
     GS = snap.groupby(['gerente', 'subtipo']).aum_ars.sum().unstack(fill_value=0) / 1e6
     TG = snap.groupby('tipo_gerente').apply(agg).reset_index()
     GL = ger_seg(snap)
-    GLI = ger_seg(snap.assign(gerente=split_iol(snap), tipo_gerente=np.where(es_iol(snap), 'Independiente', snap.tipo_gerente)))
+    SP = snap.assign(gerente=split_iol(snap), tipo_gerente=np.where(es_iol(snap), 'Independiente', snap.tipo_gerente))
+    GLI = ger_seg(SP)
+    con_mm = gerentes_con_mm(SP)                       # universo sin gerentes con Money Market (IOL como gerente separado)
+    GLM = ger_seg(SP[~SP.gerente.isin(con_mm)])
     # ---------------- ranking por clase (umbral AUM fondo >= 1.000 M ARS, como 1816)
     snap['aum_fondo_ars'] = snap.groupby('fondo_id').aum_ars.transform('sum')
     RK = snap[snap.aum_fondo_ars >= 1e9].copy()
@@ -185,8 +196,8 @@ def compute(base_dir, out_dir, T=None, fx_col='a3500'):
     bd = aum_tipo.index[aum_tipo.index.dayofweek < 5]
     meta_out = dict(fecha_corte=str(T.date()), ultima_fecha_datos=str(ult.date()), ultima_fecha_completa=str(completa.date()),
                     clases_con_dato_T=int(ncl.get(T, 0)), cobertura_aum_T=float(cov.get(T, np.nan)), aum_stale_pct=float(snap.loc[snap.stale, 'aum_ars'].sum() / snap.aum_ars.sum()),
-                    fx=fx_col, fx_T={c: float(fxT[c]) for c in ('a3500', 'mep', 'ccl')})
-    return dict(seg=S, ger=G, ger_tipo=GT, ger_sub=GS, ger_seg=GL, ger_iol=GLI, tipo_ger=TG, ranking=RK, snap=snap,
+                    gerentes_con_mm=len(con_mm), fx=fx_col, fx_T={c: float(fxT[c]) for c in ('a3500', 'mep', 'ccl')})
+    return dict(seg=S, ger=G, ger_tipo=GT, ger_sub=GS, ger_seg=GL, ger_iol=GLI, ger_iol_sin_mm=GLM, tipo_ger=TG, ranking=RK, snap=snap,
                 aum_diario=aum_tipo.loc[bd] / 1e6, flujo_diario=fl_tipo.reindex(bd).fillna(0) / 1e6, meta=meta_out)
 
 

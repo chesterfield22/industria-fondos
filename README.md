@@ -13,6 +13,7 @@ Base: `https://raw.githubusercontent.com/chesterfield22/industria-fondos/data/`
 | `gerentes.csv`, `gerentes_tipo.csv`, `gerentes_subtipo.csv`, `tipo_gerente.csv` | sociedades gerentes, bancarias vs independientes |
 | `gerentes_segmento.csv` | gerente × segmento (Total / tipo / subtipo): posición, AUM, share, suscripciones |
 | `gerentes_iol.csv` | idem con IOL como gerente separado de Adcap (`IOL`, `Adcap ex IOL`) |
+| `gerentes_iol_sin_mm.csv` | idem `gerentes_iol.csv`, excluyendo gerentes con al menos un fondo Money Market (posición y share dentro de ese universo) |
 | `iol_adcap_diario.csv`, `iol_adcap_mensual.csv` | AUM de IOL y de Adcap (clases ARS, clases USD, total), participación de IOL y posición en el ranking de gerentes |
 | `ranking.csv` | clases de fondos con AUM ≥ ARS 1.000 M: rendimientos, posición en su subtipo, volatilidad 90d, rend/vol, honorarios |
 | `clases.csv` | catálogo de clases activas (selector) |

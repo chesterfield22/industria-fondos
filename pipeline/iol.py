@@ -13,6 +13,7 @@ Columnas (millones):
   pos_iol, pos_adcap_ex_iol               posición por AUM total si IOL fuera gerente separado
   pos_adcap                               posición real de Adcap (con IOL)
   n_gerentes                              gerentes con AUM > 0 ese día (con IOL separado)
+  pos_iol_sin_mm, n_gerentes_sin_mm, share_iol_sin_mm   idem en el universo sin gerentes con Money Market
 """
 import os
 import numpy as np, pandas as pd, duckdb
@@ -57,6 +58,14 @@ def serie(base_dir, T, desde='2022-01-01'):
     o['pos_adcap_ex_iol'] = Rs.get('Adcap ex IOL')
     o['pos_adcap'] = Rn.get('Adcap')
     o['n_gerentes'] = (Gs > 0).sum(axis=1)
+    # universo sin gerentes con Money Market: se excluye, cada día, al gerente con algún MM con AUM > 0 ese día
+    gs = split_iol(mm).values
+    es_mm = mm.tipo.eq('Money Market').values
+    con_mm = (Pa.loc[:, es_mm].T.groupby(gs[es_mm]).sum().T > 0).reindex(columns=Gs.columns, fill_value=False)
+    Gm = Gs.where(~con_mm & (Gs > 0))
+    o['pos_iol_sin_mm'] = Gm.rank(axis=1, ascending=False, method='min').get('IOL')
+    o['n_gerentes_sin_mm'] = Gm.notna().sum(axis=1)
+    o['share_iol_sin_mm'] = Gm.get('IOL') / Gm.sum(axis=1)
     o = o[o.adcap_tot_ars_m.notna()]
     o.loc[o.iol_tot_ars_m <= 0, ['pos_iol']] = np.nan
     o.index.name = 'fecha'
@@ -69,7 +78,7 @@ def publish(base_dir, out, T):
     for df, f in ((o, 'iol_adcap_diario.csv'), (mens, 'iol_adcap_mensual.csv')):
         x = df.reset_index()
         for c in x.columns:
-            if c.startswith('pos_') or c == 'n_gerentes':
+            if c.startswith('pos_') or c.startswith('n_gerentes'):
                 x[c] = x[c].astype('Int64')
         x.round({c: (6 if c.startswith('share') else 2) for c in x.columns if c != 'fecha'}) \
          .to_csv(os.path.join(out, f), index=False, date_format='%Y-%m-%d')
