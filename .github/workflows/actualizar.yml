@@ -2,13 +2,22 @@ name: actualizar-datos
 
 on:
   schedule:
-    - cron: '30 1 * * 2-6'   # 22:30 ART lunes a viernes
-    - cron: '0 13 * * 1-5'   # 10:00 ART: completa fondos que reportan tarde a CNV
+    # La CNV recibe la planilla del día D ~20:20 (incompleta, ~85% del AUM) y la revisada (completa) entre
+    # las 13 y las 16 del día hábil siguiente. GitHub suele demorar los cron horas: se programan varias corridas.
+    - cron: '30 18 * * 1-5'  # 15:30 ART: primera oportunidad de la planilla revisada
+    - cron: '0 20 * * 1-5'   # 17:00 ART
+    - cron: '30 21 * * 1-5'  # 18:30 ART
+    - cron: '30 1 * * 2-6'   # 22:30 ART: primera versión del día
+    - cron: '0 13 * * 1-5'   # 10:00 ART
   workflow_dispatch:
     inputs:
       fecha_corte:
         description: 'Fecha de corte (AAAA-MM-DD). Vacío = última fecha completa'
         required: false
+      publicar:
+        description: 'Publicar en la rama data (si/no). "no" = corrida de prueba'
+        required: false
+        default: 'si'
 
 permissions:
   contents: write
@@ -32,7 +41,10 @@ jobs:
       - name: Dependencias
         run: pip install -r requirements.txt
 
-      - name: Descargar históricos (ArgentinaDatos, réplica planilla diaria CNV)
+      - name: "Descargar históricos (ArgentinaDatos: respaldo e historia)"
+        id: ad
+        continue-on-error: true
+        timeout-minutes: 15
         run: |
           git clone --depth 1 --filter=blob:none --no-checkout https://github.com/enzonotario/esjs-argentina-datos-api ad
           cd ad
@@ -40,12 +52,22 @@ jobs:
           git sparse-checkout set datos/v1/finanzas/fci/fondos datos/v1/cotizaciones/dolares/bolsa datos/v1/cotizaciones/dolares/contadoconliqui datos/v1/cotizaciones/dolares/mayorista
           git checkout main
 
-      - name: Pipeline
+      - name: Base anterior publicada (respaldo si ArgentinaDatos no está disponible)
+        if: steps.ad.outcome != 'success'
+        continue-on-error: true
+        run: |
+          git clone -q --depth 1 --filter=blob:none --no-checkout -b data "https://github.com/${{ github.repository }}" prevdata
+          cd prevdata && git sparse-checkout set base && git checkout -q data
+
+      - name: Pipeline (CNV fuente principal)
+        env:
+          PREV_BASE: prevdata/base
         run: python pipeline/run.py ad/datos/v1 base salida ${{ github.event.inputs.fecha_corte }}
 
       - name: Publicar en rama data (sin historial, se reemplaza en cada corrida)
+        if: github.event.inputs.publicar != 'no'
         run: |
-          mkdir -p salida/base && cp base/*.parquet base/fx.csv salida/base/
+          mkdir -p salida/base && cp base/*.parquet base/fx.csv base/cnv_info.json salida/base/
           cp README.md salida/ 2>/dev/null || true
           cd salida
           git init -q -b data

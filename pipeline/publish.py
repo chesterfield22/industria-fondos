@@ -28,6 +28,20 @@ def w(df, path, nd=6):
     df.to_csv(path, index=False, float_format=f'%.{nd}f', date_format='%Y-%m-%d')
 
 
+def cnv_info(base_dir):
+    p = os.path.join(base_dir, 'cnv_info.json')
+    return json.load(open(p)) if os.path.exists(p) else {}
+
+
+def fuente_fondos(base_dir):
+    i = cnv_info(base_dir)
+    p = os.path.join(base_dir, 'fuente_historia.txt')
+    hist = open(p).read() if os.path.exists(p) else 'ArgentinaDatos'
+    if i.get('ok'):
+        return f"CNV planilla diaria de cuotapartes (últimas {i['planillas']} fechas, directo) + historia {hist}"
+    return f"{hist} (CNV no disponible: {i.get('error', 's/d')})"
+
+
 def publish(base_dir, out, T=None):
     os.makedirs(out, exist_ok=True)
     r = compute(base_dir, out, T)
@@ -39,7 +53,9 @@ def publish(base_dir, out, T=None):
              ('aum_arrastrado_pct', round(meta['aum_stale_pct'], 6)), ('gerentes_con_money_market', meta['gerentes_con_mm']), ('fx_usado', 'A3500'),
              ('a3500', meta['fx_T']['a3500']), ('mep', meta['fx_T']['mep']), ('ccl', meta['fx_T']['ccl']),
              ('generado_utc', pd.Timestamp.now(tz='UTC').strftime('%Y-%m-%d %H:%M')),
-             ('fuente_fondos', 'CNV planilla diaria de cuotapartes (via ArgentinaDatos)'),
+             ('fuente_fondos', fuente_fondos(base_dir)),
+             ('cnv_ultima_planilla', cnv_info(base_dir).get('ultima_fecha') or ''),
+             ('cnv_recibida', cnv_info(base_dir).get('recibida') or ''),
              ('fuente_a3500', open(os.path.join(base_dir, 'fx_fuente.txt')).read() if os.path.exists(os.path.join(base_dir, 'fx_fuente.txt')) else 's/d'),
              ('fuente_mep_ccl', 'ArgentinaDatos / dolarapi (venta)')]
     pd.DataFrame(mrows, columns=['clave', 'valor']).to_csv(os.path.join(out, 'meta.csv'), index=False)

@@ -1,4 +1,5 @@
-"""Construye la base histórica diaria por clase desde los archivos de ArgentinaDatos (réplica de la planilla diaria CNV).
+"""Construye la base histórica diaria por clase: CNV (planilla diaria, fuente principal para los días recientes)
+sobre la historia de ArgentinaDatos (o la base anterior publicada, si ArgentinaDatos no está disponible).
 
 Salida: data/base/clases_diario_<año>.parquet  (fecha, clase_id, vcp, aum, flujo, rend, flag)
         data/base/clases_meta.parquet         (metadatos por clase: fondo, gerente, moneda, honorarios, etc.)
@@ -122,11 +123,59 @@ def clean_flows(df, moneda, fx=None):
     return d
 
 
-def build(src_fondos, out_dir, fx_csv=None):
+def read_prev(prev_dir):
+    """Respaldo si ArgentinaDatos no está disponible: base publicada en la corrida anterior (rama data)."""
+    meta = pd.read_parquet(os.path.join(prev_dir, 'clases_meta.parquet'))
+    d = pd.concat([pd.read_parquet(f, columns=['fecha', 'clase_id', 'vcp', 'aum'])
+                   for f in sorted(glob.glob(os.path.join(prev_dir, 'clases_diario_*.parquet')))], ignore_index=True)
+    d['fecha'] = pd.to_datetime(d.fecha); d['clase_id'] = d.clase_id.astype(str)
+    g = dict(tuple(d.groupby('clase_id')))
+    return {str(m['clase_id']): (m, g[str(m['clase_id'])].drop(columns='clase_id').sort_values('fecha').reset_index(drop=True))
+            for m in meta.to_dict('records') if str(m['clase_id']) in g}
+
+
+def merge_cnv(parts, filas, meta_cnv):
+    """CNV es la fuente principal: sus observaciones reemplazan a las de la historia para la misma clase y fecha.
+    Clases que sólo están en CNV se agregan con los metadatos de la planilla."""
+    if filas is None or filas.empty:
+        return parts, 0, 0
+    por_cnv = {}
+    for m, _ in parts.values():
+        if m.get('codigo_cnv') and m.get('fondo_id'):
+            por_cnv.setdefault(str(m['codigo_cnv']), str(m['fondo_id']))
+    mc = meta_cnv.set_index('clase_id')
+    reemplazos = nuevas = 0
+    for k, g in filas.groupby('clase_id'):
+        g = g.drop(columns='clase_id')
+        if k in parts:
+            m, df = parts[k]
+            prev = df.set_index('fecha')
+            comun = prev.index.intersection(g.fecha)
+            reemplazos += int((~np.isclose(prev.loc[comun, 'vcp'].values, g.set_index('fecha').loc[comun, 'vcp'].values)).sum())
+            df = pd.concat([df[~df.fecha.isin(g.fecha)], g], ignore_index=True).sort_values('fecha').reset_index(drop=True)
+            m = {**m, 'fecha_ultima': df.fecha.max(), 'n_obs': len(df)}
+        else:
+            r = mc.loc[k]
+            cod = r.get('codigo_cnv')
+            m = dict(slug=f'cnv-{k}', clase_id=k, fondo_id=por_cnv.get(str(cod), f'cnv-{cod}'), clase=r['nombre'],
+                     administradora=r.get('gerente'), depositaria=r.get('depositaria'), tipo_renta=r.get('tipo_renta'),
+                     region=r.get('region'), horizonte=r.get('horizonte'), benchmark=None, moneda_raw=r['moneda'],
+                     plazo_liq=r.get('plazo_liq'), inversion_min=r.get('inversion_min'), codigo_cnv=cod,
+                     hon_gerente=r.get('hon_gerente'), hon_depositaria=r.get('hon_depositaria'), gastos=r.get('gastos'),
+                     com_ingreso=r.get('com_ingreso'), com_egreso=r.get('com_egreso'), fecha_ultima=g.fecha.max(),
+                     n_obs=len(g), moneda=r['moneda'])
+            df = g.sort_values('fecha').reset_index(drop=True)
+            nuevas += 1
+        parts[k] = (m, df)
+    return parts, reemplazos, nuevas
+
+
+def build(src_fondos, out_dir, fx_csv=None, cnv_filas=None, cnv_meta=None, prev_dir=None):
+    """Historia: ArgentinaDatos (o, si no está, la base anterior publicada) + CNV como fuente principal reciente."""
     os.makedirs(out_dir, exist_ok=True)
     fx = pd.read_csv(fx_csv, index_col=0, parse_dates=True).a3500 if fx_csv and os.path.exists(fx_csv) else None
     metas, parts = [], {}
-    dirs = sorted(glob.glob(os.path.join(src_fondos, '*')))
+    dirs = sorted(glob.glob(os.path.join(src_fondos, '*'))) if src_fondos and os.path.isdir(src_fondos) else []
     for i, dp in enumerate(dirs):
         m, df = read_class(dp)
         if m is None:
@@ -136,6 +185,13 @@ def build(src_fondos, out_dir, fx_csv=None):
         if k in parts and (parts[k][1].fecha.max(), len(parts[k][1])) >= (df.fecha.max(), len(df)):
             continue
         parts[k] = (m, df)
+    historia = 'ArgentinaDatos'
+    if len(parts) < 1000:
+        if not (prev_dir and os.path.exists(os.path.join(prev_dir, 'clases_meta.parquet'))):
+            raise RuntimeError('Sin historia: ArgentinaDatos no disponible y no hay base anterior')
+        parts = read_prev(prev_dir); historia = 'base anterior publicada (ArgentinaDatos no disponible)'
+    parts, reemp, nuevas = merge_cnv(parts, cnv_filas, cnv_meta)
+    print(f'historia: {historia} | CNV: {0 if cnv_filas is None else len(cnv_filas)} obs, {reemp} VCP distintos reemplazados, {nuevas} clases nuevas')
     allrows = []
     for k, (m, df) in parts.items():
         d = clean_flows(df, m['moneda'], fx)
@@ -148,6 +204,7 @@ def build(src_fondos, out_dir, fx_csv=None):
     for y, g in base.groupby(base.fecha.dt.year):
         g.drop(columns=[]).to_parquet(os.path.join(out_dir, f'clases_diario_{y}.parquet'), index=False, compression='zstd')
     meta.to_parquet(os.path.join(out_dir, 'clases_meta.parquet'), index=False)
+    open(os.path.join(out_dir, 'fuente_historia.txt'), 'w').write(historia)
     print(f'clases={len(meta)} filas={len(base):,} desde={base.fecha.min().date()} hasta={base.fecha.max().date()} '
           f'flag1={int((base.flag == 1).sum())} quiebres={int((base.flag == 2).sum())}')
     return base, meta
