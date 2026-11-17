@@ -46,7 +46,10 @@ SELECT * FROM read_parquet('https://raw.githubusercontent.com/chesterfield22/ind
 WHERE clase_id = '3697' ORDER BY fecha DESC LIMIT 10;
 ```
 
-Fuentes: CNV (planilla diaria de cuotapartes) vía [ArgentinaDatos](https://github.com/enzonotario/esjs-argentina-datos-api); BCRA (A3500); ArgentinaDatos/dolarapi (MEP, CCL); 1816 (segmentación y tipo de gerente).
+Fuentes:
+- **Fondos (principal):** planilla diaria de cuotapartes descargada directo de la CNV (`pipeline/cnv.py`): últimas 10 fechas, la versión más reciente de cada una. La CNV recibe la planilla del día D ~20:20 (incompleta) y la revisada el día hábil siguiente entre las 13 y las 16; las corridas de 15:30, 17:00 y 18:30 ART la toman el mismo día. `meta.csv` informa `fuente_fondos`, `cnv_ultima_planilla` y `cnv_recibida`.
+- **Fondos (historia y respaldo):** [ArgentinaDatos](https://github.com/enzonotario/esjs-argentina-datos-api) (réplica de la misma planilla desde 2020). Si la CNV falla, la corrida sigue sólo con ArgentinaDatos; si ArgentinaDatos falla, usa la base publicada anterior en la rama `data` más la CNV.
+- BCRA (A3500); ArgentinaDatos/dolarapi (MEP, CCL); 1816 (segmentación y tipo de gerente).
 
 ## Google Sheets "Industria Fondos"
 
