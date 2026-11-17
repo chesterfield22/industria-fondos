@@ -40,3 +40,15 @@ for host in HOSTS:
             s = json.dumps(ficha, ensure_ascii=False)
             for m in re.finditer(r'"(cartera|carteras|composicion|activos)"', s, re.I):
                 print('  >>', s[m.start(): m.start() + 600]); break
+
+
+# Segunda prueba: rutas directas de ficha con ids conocidos (fondo/clase de ArgentinaDatos = ids CAFCI)
+for host in HOSTS:
+    for fid, cid in ((1301, 3697), (1570, 5100), (193, 734)):
+        for path in (f'/fondo/{fid}/clase/{cid}/ficha', f'/fondo/{fid}/clase/{cid}', f'/fondo/{fid}'):
+            o = get(host + path)
+            if o:
+                keys(o)
+                s = json.dumps(o, ensure_ascii=False)
+                m = re.search(r'"(cartera|carteras|composicion)"', s, re.I)
+                if m: print('  >>', s[m.start(): m.start() + 800])
