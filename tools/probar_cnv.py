@@ -1,43 +1,29 @@
-"""Prueba: ¿la CNV publica la cartera semanal de cada FCI de forma accesible? Explora el sitio de la CNV."""
 import re, urllib.request, urllib.error, urllib.parse
-H = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/124 Safari/537.36', 'Accept': '*/*'}
-seen = set()
-
-def get(url):
+H = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) Chrome/124 Safari/537.36', 'Accept': '*/*'}
+def get(url, data=None):
     try:
-        with urllib.request.urlopen(urllib.request.Request(url, headers=H), timeout=60) as r:
-            b = r.read(); ct = r.headers.get('Content-Type', '')
-            print(f'{r.status} {len(b):>9,}B {ct[:30]:30} {r.geturl()}'); return b.decode('utf-8', 'ignore'), r.geturl()
+        req = urllib.request.Request(url, headers=H, data=data)
+        with urllib.request.urlopen(req, timeout=60) as r:
+            b = r.read(); print(f'{r.status} {len(b):>9,}B {r.headers.get("Content-Type","")[:28]:28} {r.geturl()}')
+            return b.decode('utf-8', 'ignore'), r.geturl()
     except urllib.error.HTTPError as e:
-        print(f'HTTP {e.code} {url} {e.read()[:120]!r}')
+        print(f'HTTP {e.code} {url}')
     except Exception as e:
-        print(f'ERR {type(e).__name__}: {str(e)[:120]} {url}')
-    return None, url
-
-def links(html, base, pat):
-    out = []
-    for h in re.findall(r'(?:href|src|action)=["\']([^"\']+)', html, re.I):
-        u = urllib.parse.urljoin(base, h)
-        if re.search(pat, u, re.I) and u not in seen:
-            seen.add(u); out.append(u)
-    return out
-
-START = ['https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion',
-         'https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/Fondos',
-         'https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/FondosComunesInversion',
-         'https://www.cnv.gov.ar/SitioWeb/Entidades/Fondos',
-         'https://aif2.cnv.gov.ar/presentations/publicview',
-         'https://www.cnv.gov.ar/SitioWeb/']
-PAT = r'fondo|fci|cartera|composici|planilla|aif'
-for u in START:
-    html, base = get(u)
-    if not html: continue
-    ls = links(html, base, PAT)
-    print('   links:', len(ls))
-    for l in ls[:40]: print('     ', l)
-    for l in [x for x in ls if re.search(r'cartera|composici', x, re.I)][:10]:
-        h2, b2 = get(l)
-        if h2:
-            for x in links(h2, b2, r'cartera|composici|\.xls|descarg|download')[:20]: print('        ->', x)
-    for m in re.finditer(r'.{80}(cartera|Composici).{120}', html, re.I | re.S):
-        print('   txt:', re.sub(r'\s+', ' ', m.group(0))[:200]); break
+        print(f'ERR {type(e).__name__}: {str(e)[:100]} {url}')
+    return '', url
+def show(html, pats, n=6, w=260):
+    for p in pats:
+        for i, m in enumerate(re.finditer(p, html, re.I | re.S)):
+            if i >= n: break
+            s = max(0, m.start() - 60); print('   ['+p+']', re.sub(r'\s+', ' ', html[s:s + w]))
+B = 'https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/'
+h, _ = get(B + 'Busqueda')
+show(h, [r'<form', r'url\s*:', r'\$\.(get|post|ajax)', r'fetch\(', r'href="[^"]*(Detalle|Fondo)[^"]*"'])
+h, _ = get(B + 'CuotaPartes')
+show(h, [r'href="[^"]*\.(xls|xlsx|zip|csv)', r'url\s*:', r'Planilla'])
+h, _ = get('https://aif2.cnv.gov.ar/Presentations/publicview/F6E483C6-2DEC-4A6E-A290-B4A522633F37')
+show(h, [r'<title', r'<h\d', r'href="[^"]+"'], n=8)
+for q in ('IOL', 'IOL%20Cash'):
+    for path in (f'Busqueda?q={q}', f'Busqueda?nombre={q}', f'BuscarFondos?nombre={q}', f'Busqueda/Buscar?texto={q}'):
+        h, _ = get(B + path)
+        if h: show(h, [r'IOL[^<]{0,80}', r'href="[^"]*(Detalle|Fondo/)[^"]*"'], n=4)
