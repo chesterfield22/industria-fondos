@@ -6,6 +6,16 @@ Fuentes (en orden de prioridad):
   3. regla por categoría CAFCI : fondos de categoría unívoca (Mercado de Dinero, PyMEs, Infraestructura, ASG)
   4. correlación de rendimientos: fondo sin clasificar -> segmento cuyo rendimiento diario (120 ruedas) más se parece
 Cada fondo queda con 'origen_segmento' para auditar.
+
+Identificador de fondo: Código CNV (único por fondo en la planilla oficial). El fondoId de ArgentinaDatos mezcla espacios
+de numeración (p. ej. 1470 = Axis Pesos y Axis IMSA Pymes), por eso no se usa para agrupar clases.
+
+Clase de referencia por fondo (una por fondo para rankings), en orden de prioridad:
+  1. ref/clase_ref_manual.csv  : (codigo_cnv, clase_id) elegida por el usuario
+  2. informe 1816               : la cuota que lista el último informe (map1816.csv)
+  3. regla                      : entre clases con suscripción mínima <= ARS 50 M (criterio 1816) y >= 5% del AUM del fondo,
+                                  la de menor honorario G+D; empate -> mayor AUM. Replica la elección 1816 en ~71% de los
+                                  fondos multiclase (mayor AUM: ~65%).
 """
 import os, re, sys, unicodedata, difflib
 import numpy as np, pandas as pd
@@ -131,8 +141,33 @@ def corr_classify(base, meta_f, seg_ref, unclassified, window=120):
     return pd.DataFrame(res, columns=['fondo_id', 'subtipo', 'rmse'])
 
 
+def cod_fondo(meta):
+    c = meta.codigo_cnv.astype(str).str.strip().str.replace(r'\.0$', '', regex=True)
+    ok = c.str.fullmatch(r'\d+')
+    return pd.Series(np.where(ok, c, 'ad-' + meta.fondo_id.astype(str)), index=meta.index)
+
+
+MIN_REF_ARS = 50e6    # 1816: no se consideran cuotas con suscripción mínima > ARS 50 M
+MIN_REF_SHARE = 0.05  # y, en la regla, clases con al menos 5% del AUM del fondo
+
+
+def regla_ref(c, fx):
+    """c: clases activas con fondo_id, clase_id, moneda, aum, inversion_min, hon_gerente, hon_depositaria.
+    Devuelve Serie fondo_id -> clase_id según la regla (paso 3)."""
+    c = c.copy()
+    k = np.where(c.moneda == 'USD', fx, 1.0)
+    c['aum_ars'] = c.aum * k
+    c['min_ars'] = pd.to_numeric(c.inversion_min, errors='coerce').fillna(0) * k
+    c['hon'] = c.hon_gerente.fillna(0) + c.hon_depositaria.fillna(0)
+    c['eleg'] = (c.min_ars <= MIN_REF_ARS) & (c.aum_ars >= MIN_REF_SHARE * c.groupby('fondo_id').aum_ars.transform('sum'))
+    c = c.sort_values(['fondo_id', 'eleg', 'hon', 'aum_ars'], ascending=[True, False, True, False])
+    return c.drop_duplicates('fondo_id').set_index('fondo_id').clase_id
+
+
 def build(base_dir, ref_dir, fecha_ref):
     meta = pd.read_parquet(os.path.join(base_dir, 'clases_meta.parquet'))
+    meta['fondo_id_ad'] = meta.fondo_id
+    meta['fondo_id'] = cod_fondo(meta)
     import duckdb
     con = duckdb.connect()
     last = con.sql(f"""select clase_id, arg_max(aum, fecha) aum_ref from read_parquet('{base_dir}/clases_diario_*.parquet')
@@ -152,10 +187,23 @@ def build(base_dir, ref_dir, fecha_ref):
     fondo_seg = mm.groupby('fondo_id').subtipo.agg(lambda s: s.value_counts().index[0])
     meta['subtipo'] = meta.fondo_id.map(fondo_seg)
     meta['origen_segmento'] = np.where(meta.subtipo.notna(), 'informe 1816', None)
-    # fondos sin segmento: clase de referencia = la de mayor AUM
     meta = meta.merge(last, on='clase_id', how='left')
-    ref = meta.sort_values('aum_ref', ascending=False).drop_duplicates('fondo_id')[['fondo_id', 'clase_id']].rename(columns={'clase_id': 'ref_clase'})
-    meta = meta.merge(ref, on='fondo_id', how='left')
+    # clase de referencia por fondo: manual > informe 1816 > regla
+    fxv = pd.read_csv(os.path.join(base_dir, 'fx.csv'), parse_dates=['fecha']).set_index('fecha').a3500
+    fxv = float(fxv[fxv.index <= pd.Timestamp(fecha_ref)].dropna().iloc[-1])
+    act = meta[meta.aum_ref > 0]
+    ref = regla_ref(act.rename(columns={'aum_ref': 'aum'}), fxv).rename('ref_clase').to_frame().assign(ref_origen='regla')
+    r16 = mm[mm.clase_id.isin(act.clase_id)].merge(last, on='clase_id').sort_values('aum_ref', ascending=False) \
+        .drop_duplicates('fondo_id').set_index('fondo_id').clase_id
+    ref.loc[ref.index.isin(r16.index), 'ref_clase'] = r16.reindex(ref.index).dropna()
+    ref.loc[ref.index.isin(r16.index), 'ref_origen'] = 'informe 1816'
+    man_r = os.path.join(ref_dir, 'clase_ref_manual.csv')
+    if os.path.exists(man_r):
+        mr = pd.read_csv(man_r, dtype=str, comment='#').dropna(subset=['codigo_cnv', 'clase_id'])
+        mr = mr[mr.clase_id.isin(meta.clase_id)].set_index('codigo_cnv').clase_id
+        ref.loc[ref.index.isin(mr.index), 'ref_clase'] = mr.reindex(ref.index).dropna()
+        ref.loc[ref.index.isin(mr.index), 'ref_origen'] = 'manual'
+    meta = meta.merge(ref, left_on='fondo_id', right_index=True, how='left')
     fondos = meta.drop_duplicates('fondo_id')
     unc = fondos[fondos.subtipo.isna() & ~fondos.tipo_renta.isin(EXCLUIR)]
     seg_ref = mm.groupby('subtipo').clase_id.apply(list).to_dict()

@@ -180,9 +180,20 @@ def compute(base_dir, out_dir, T=None, fx_col='a3500'):
     GLI = ger_seg(SP)
     con_mm = gerentes_con_mm(SP)                       # universo sin gerentes con Money Market (IOL como gerente separado)
     GLM = ger_seg(SP[~SP.gerente.isin(con_mm)])
-    # ---------------- ranking por clase (umbral AUM fondo >= 1.000 M ARS, como 1816)
+    # ---------------- ranking: un fondo = una fila (su clase de referencia); umbral AUM fondo >= 1.000 M ARS, como 1816
     snap['aum_fondo_ars'] = snap.groupby('fondo_id').aum_ars.transform('sum')
-    RK = snap[snap.aum_fondo_ars >= 1e9].copy()
+    snap['n_clases_fondo'] = snap.groupby('fondo_id').clase_id.transform('size')
+    for h in HZ:                                   # suscripciones del fondo completo (todas sus clases)
+        snap[f'ffondo_{h}'] = snap.groupby('fondo_id')[f'f_{h}'].transform(lambda x: x.sum(min_count=1))
+    ref = snap.loc[snap.clase_id == snap.ref_clase].drop_duplicates('fondo_id').set_index('fondo_id').clase_id
+    sin = snap.loc[~snap.fondo_id.isin(ref.index)]  # la clase de referencia no tiene dato a T: regla sobre las activas
+    if len(sin):
+        import maestro
+        alt = maestro.regla_ref(sin, float(fxT[fx_col]))
+        ref = pd.concat([ref, alt])
+        snap.loc[snap.fondo_id.isin(alt.index), 'ref_origen'] = 'regla (ref. sin dato)'
+    snap['es_ref'] = snap.clase_id.isin(ref.values)
+    RK = snap[snap.es_ref & (snap.aum_fondo_ars >= 1e9)].copy()
     for h in HZ:
         RK[f'pos_{h}'] = RK.groupby('subtipo')[f'r_{h}'].rank(ascending=False, method='min')
     # ---------------- serie diaria de industria (últimos 400 días)
