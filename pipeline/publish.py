@@ -10,7 +10,7 @@ salida/
   gerentes_iol_sin_mm.csv  idem, excluyendo gerentes con al menos un Money Market (posición y share dentro de ese universo)
   iol_adcap_diario.csv / iol_adcap_mensual.csv   participación de IOL en Adcap y posición en el ranking
   tipo_gerente.csv    bancarias vs independientes
-  ranking.csv         un fondo por fila (clase de referencia; fondos >= ARS 1.000 M): rendimientos, posición en su subtipo, vol, honorarios, suscripciones del fondo
+  ranking.csv         un fondo por fila (clase de referencia; todos los fondos, posiciones dentro de >= ARS 1.000 M): rendimientos, posición en su subtipo, vol, honorarios, suscripciones del fondo
   clases.csv          catálogo de clases activas (para el selector de fondo)
   aum_diario.csv      AUM diario por tipo (ARS M), último año
   flujo_diario.csv    suscripciones netas diarias por tipo (ARS M), último año
@@ -78,12 +78,16 @@ def publish(base_dir, out, T=None):
     rk_cols = ['clase_id', 'clase', 'fondo', 'gerente', 'tipo_gerente', 'tipo', 'subtipo', 'moneda', 'aum_clase_m', 'aum_fondo_m'] + \
               sum([[f'r_{h}', f'pos_{h}'] for h in HZ], []) + ['vol_90d', 'rend_vol', 'hon_gd', 'hon_gerente', 'hon_depositaria',
                                                               'fecha_dato', 'origen_segmento'] + \
-              [f'susc_{h}_m' for h in HZ] + ['n_clases_fondo', 'ref_origen', 'codigo_cnv']  # nuevas al final: el Sheet ubica por nombre
+              [f'susc_{h}_m' for h in HZ] + ['n_clases_fondo', 'ref_origen', 'codigo_cnv'] + \
+              [f'aum0_{h}_m' for h in HZ] + [f'susc_{h}_pct' for h in HZ]   # nuevas al final: el Sheet ubica por nombre
     for h in HZ:
         RK[f'susc_{h}_m'] = RK[f'ffondo_{h}'] / 1e6   # suscripciones netas del fondo (todas las clases)
+        RK[f'aum0_{h}_m'] = RK[f'aum0fondo_{h}'] / 1e6  # AUM del fondo en la fecha base del plazo (ARS al tipo de cambio de esa fecha)
+        a0 = RK[f'aum0fondo_{h}']
+        RK[f'susc_{h}_pct'] = (RK[f'ffondo_{h}'] / a0).where(a0 >= 1e6)   # sin AUM inicial relevante (fondo nuevo): vacío
     RK = RK.sort_values(['subtipo', 'aum_clase_m'], ascending=[True, False])[rk_cols]
     rnd = {'aum_clase_m': 2, 'aum_fondo_m': 2, 'vol_90d': 6, 'rend_vol': 4, 'hon_gd': 4, 'hon_gerente': 4, 'hon_depositaria': 4}
-    rnd.update({f'r_{h}': 8 for h in HZ}); rnd.update({f'susc_{h}_m': 2 for h in HZ})
+    rnd.update({f'r_{h}': 8 for h in HZ}); rnd.update({f'susc_{h}_m': 2 for h in HZ}); rnd.update({f'aum0_{h}_m': 2 for h in HZ}); rnd.update({f'susc_{h}_pct': 6 for h in HZ})
     RK = RK.round(rnd)
     for h in HZ:
         RK[f'pos_{h}'] = RK[f'pos_{h}'].astype('Int64')

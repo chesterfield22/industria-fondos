@@ -183,8 +183,9 @@ def compute(base_dir, out_dir, T=None, fx_col='a3500'):
     # ---------------- ranking: un fondo = una fila (su clase de referencia); umbral AUM fondo >= 1.000 M ARS, como 1816
     snap['aum_fondo_ars'] = snap.groupby('fondo_id').aum_ars.transform('sum')
     snap['n_clases_fondo'] = snap.groupby('fondo_id').clase_id.transform('size')
-    for h in HZ:                                   # suscripciones del fondo completo (todas sus clases)
+    for h in HZ:                                   # suscripciones y AUM inicial del fondo completo (todas sus clases)
         snap[f'ffondo_{h}'] = snap.groupby('fondo_id')[f'f_{h}'].transform(lambda x: x.sum(min_count=1))
+        snap[f'aum0fondo_{h}'] = snap.groupby('fondo_id')[f'aum0_{h}'].transform(lambda x: x.sum(min_count=1))
     ref = snap.loc[snap.clase_id == snap.ref_clase].drop_duplicates('fondo_id').set_index('fondo_id').clase_id
     sin = snap.loc[~snap.fondo_id.isin(ref.index)]  # la clase de referencia no tiene dato a T: regla sobre las activas
     if len(sin):
@@ -193,9 +194,11 @@ def compute(base_dir, out_dir, T=None, fx_col='a3500'):
         ref = pd.concat([ref, alt])
         snap.loc[snap.fondo_id.isin(alt.index), 'ref_origen'] = 'regla (ref. sin dato)'
     snap['es_ref'] = snap.clase_id.isin(ref.values)
-    RK = snap[snap.es_ref & (snap.aum_fondo_ars >= 1e9)].copy()
+    # todos los fondos (el Sheet filtra por AUM mínimo); posiciones de rendimiento dentro de fondos >= 1.000 M, como 1816
+    RK = snap[snap.es_ref].copy()
+    big = RK.aum_fondo_ars >= 1e9
     for h in HZ:
-        RK[f'pos_{h}'] = RK.groupby('subtipo')[f'r_{h}'].rank(ascending=False, method='min')
+        RK[f'pos_{h}'] = RK[big].groupby('subtipo')[f'r_{h}'].rank(ascending=False, method='min')
     # ---------------- serie diaria de industria (últimos 400 días)
     dd = d[d.fecha > T - pd.Timedelta(days=400)].merge(m[['clase_id', 'tipo', 'subtipo']], on='clase_id')
     dd['aum_ars'] = dd.aum * dd.k

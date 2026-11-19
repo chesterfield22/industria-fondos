@@ -6,6 +6,8 @@ Salida: data/base/clases_diario_<año>.parquet  (fecha, clase_id, vcp, aum, fluj
 
 Reglas de calidad (sin recortar historia válida):
   - flujo_t = AUM_t - AUM_{t-1} * VCP_t / VCP_{t-1}   (por clase, observaciones consecutivas)
+  - primer dato de una clase nueva (posterior al inicio de la historia): flujo = AUM (todo es suscripción). Así un cambio
+    de clase dentro del fondo (p. ej. Lombard Renta en Pesos A -> B el 17/11/2026) neta ~0 en vez de un rescate falso
   - se anula flujo y rendimiento del día si |rend| > umbral (10% ARS / 5% USD) o AUM_t/AUM_{t-1} ~ x1000 (error de unidad)
   - clases duplicadas (mismo claseId en dos slugs) -> se conserva la serie más reciente/larga
 """
@@ -13,6 +15,7 @@ import json, glob, os, sys
 import numpy as np, pandas as pd
 
 RMAX = {'ARS': 0.10, 'USD': 0.05}
+INICIO_HISTORIA = pd.Timestamp('2020-01-10')   # la historia arranca el 02/01/2020: antes de esto, primer dato != clase nueva
 MONEDA = {'Peso Argentino': 'ARS', 'Dólar Estadounidense': 'USD', 'Dolar Estadounidense': 'USD',
           'Dólar Estadounidense Billete': 'USD', 'Real': 'BRL', 'Euro': 'EUR'}
 
@@ -120,6 +123,8 @@ def clean_flows(df, moneda, fx=None):
     bad = (d.rend.abs() > RMAX.get(moneda, 0.05)) | q.between(900, 1100) | q.between(1 / 1100, 1 / 900)
     d['flag'] = np.where(d.fecha.isin(brk_dates), 2, np.where(bad, 1, 0)).astype('int8')
     d.loc[d.flag > 0, ['flujo', 'rend']] = np.nan
+    if len(d) and d.fecha.iloc[0] > INICIO_HISTORIA and d.aum.iloc[0] > 0:
+        d.loc[d.index[0], 'flujo'] = d.aum.iloc[0]    # clase nueva: su AUM inicial entra como suscripción
     return d
 
 
