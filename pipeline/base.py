@@ -6,6 +6,7 @@ Salida: data/base/clases_diario_<año>.parquet  (fecha, clase_id, vcp, aum, fluj
 
 Reglas de calidad (sin recortar historia válida):
   - flujo_t = AUM_t - AUM_{t-1} * VCP_t / VCP_{t-1}   (por clase, observaciones consecutivas)
+  - días sin patrimonio informado no cortan la serie de flujos: el flujo se mide contra el último AUM informado
   - primer dato de una clase nueva (posterior al inicio de la historia): flujo = AUM (todo es suscripción). Así un cambio
     de clase dentro del fondo (p. ej. Lombard Renta en Pesos A -> B el 17/11/2026) neta ~0 en vez de un rescate falso
   - se anula flujo y rendimiento del día si |rend| > umbral (10% ARS / 5% USD) o AUM_t/AUM_{t-1} ~ x1000 (error de unidad)
@@ -118,13 +119,19 @@ def clean_flows(df, moneda, fx=None):
     else:
         brk_dates = set()
     d['rend'] = d.vcp / d.vcp.shift(1) - 1
-    d['flujo'] = d.aum - d.aum.shift(1) * (1 + d.rend)
+    # flujo entre observaciones con AUM informado (un día sin patrimonio no corta la serie: el flujo se mide al volver)
+    v = d.aum.notna()
+    av, vv = d.aum[v], d.vcp[v]
+    d['flujo'] = np.nan
+    d.loc[v, 'flujo'] = av - av.shift(1) * vv / vv.shift(1)
     q = d.aum / d.aum.shift(1)
     bad = (d.rend.abs() > RMAX.get(moneda, 0.05)) | q.between(900, 1100) | q.between(1 / 1100, 1 / 900)
     d['flag'] = np.where(d.fecha.isin(brk_dates), 2, np.where(bad, 1, 0)).astype('int8')
     d.loc[d.flag > 0, ['flujo', 'rend']] = np.nan
-    if len(d) and d.fecha.iloc[0] > INICIO_HISTORIA and d.aum.iloc[0] > 0:
-        d.loc[d.index[0], 'flujo'] = d.aum.iloc[0]    # clase nueva: su AUM inicial entra como suscripción
+    if v.any():
+        i0 = v.idxmax()                                # primer día con AUM informado
+        if d.fecha[i0] > INICIO_HISTORIA and d.aum[i0] > 0 and d.flag[i0] == 0:
+            d.loc[i0, 'flujo'] = d.aum[i0]             # clase nueva: su AUM inicial entra como suscripción
     return d
 
 
