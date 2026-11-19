@@ -15,7 +15,7 @@ Base: `https://raw.githubusercontent.com/chesterfield22/industria-fondos/data/`
 | `gerentes_iol.csv` | idem con IOL como gerente separado de Adcap (`IOL`, `Adcap ex IOL`) |
 | `gerentes_iol_sin_mm.csv` | idem `gerentes_iol.csv`, excluyendo gerentes con al menos un fondo Money Market (posición y share dentro de ese universo) |
 | `iol_adcap_diario.csv`, `iol_adcap_mensual.csv` | AUM de IOL y de Adcap (clases ARS, clases USD, total), participación de IOL y posición en el ranking de gerentes |
-| `ranking.csv` | clases de fondos con AUM ≥ ARS 1.000 M: rendimientos, posición en su subtipo, volatilidad 90d, rend/vol, honorarios |
+| `ranking.csv` | un fondo por fila (fondos con AUM ≥ ARS 1.000 M), con su clase de referencia: manual (`ref/clase_ref_manual.csv`) > cuota del informe 1816 > regla (mínimo ≤ ARS 50 M, ≥ 5% del AUM del fondo, menor honorario G+D). Rendimientos, posición, volatilidad y honorarios de esa clase; AUM y suscripciones del fondo completo. Fondo = Código CNV |
 | `clases.csv` | catálogo de clases activas (selector) |
 | `aum_diario.csv`, `flujo_diario.csv` | series diarias por tipo (ARS M) |
 | `fx.csv` | A3500, MEP, CCL |
