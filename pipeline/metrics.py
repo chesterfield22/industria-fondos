@@ -80,16 +80,20 @@ def ger_seg(snap):
             x = x[x.segmento != x.tipo]          # T+1 / Sin clasificar: subtipo == tipo, ya están como Tipo
         g = x.groupby(['segmento', 'gerente', 'tipo_gerente']).agg(
             aum_m=('aum_ars', 'sum'), n_fondos=('fondo_id', 'nunique'),
-            **{f'susc_{h}_m': (f'f_{h}', 'sum') for h in HZ}).reset_index()
-        for c in ['aum_m'] + SUSC:
+            **{f'susc_{h}_m': (f'f_{h}', 'sum') for h in HZ},
+            **{f'aum0_{h}_m': (f'aum0_{h}', 'sum') for h in HZ}).reset_index()
+        for c in ['aum_m'] + SUSC + [f'aum0_{h}_m' for h in HZ]:
             g[c] = g[c] / 1e6
+        for h in HZ:                               # suscripciones como % del AUM al inicio del plazo (vacío si < ARS 1 M)
+            g[f'susc_{h}_pct'] = (g[f'susc_{h}_m'] / g[f'aum0_{h}_m']).where(g[f'aum0_{h}_m'] >= 1)
         g = g[g.aum_m > 0]
         g['share'] = g.aum_m / g.groupby('segmento').aum_m.transform('sum')
         g['pos'] = g.groupby('segmento').aum_m.rank(ascending=False, method='min').astype(int)
         g['nivel'] = nivel
         gl.append(g)
     GL = pd.concat(gl, ignore_index=True).sort_values(['nivel', 'segmento', 'aum_m'], ascending=[True, True, False])
-    return GL[['nivel', 'segmento', 'pos', 'gerente', 'tipo_gerente', 'aum_m', 'share'] + SUSC + ['n_fondos']]
+    return GL[['nivel', 'segmento', 'pos', 'gerente', 'tipo_gerente', 'aum_m', 'share'] + SUSC + ['n_fondos'] +
+              [f'aum0_{h}_m' for h in HZ] + [f'susc_{h}_pct' for h in HZ]]   # nuevas al final: el Sheet ubica por nombre
 
 
 def gerentes_con_mm(snap):
