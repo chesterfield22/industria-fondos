@@ -91,15 +91,29 @@ def _spikes(x, L, back, k_max=5):
     return drop, brk
 
 
-def fix_currency(d, moneda, fx):
+MIN_TRAMO_USD = 2e4   # un salto ~xFX desde (o hacia) un nivel menor a USD 20 mil es una suscripción/rescate real, no moneda
+
+
+def fix_currency(d, moneda, fx, anclado=False):
     """Corrige tramos de AUM informados en otra moneda: saltos de AUM cuyo tamaño ~ tipo de cambio (A3500 +-35%).
-    Se normaliza cada tramo a la moneda de la clase. Devuelve d corregido y cantidad de tramos corregidos."""
+    - Un salto desde/hacia un nivel < USD 20 mil no se toma como cambio de moneda (clase casi vacía que recibe o
+      devuelve dinero real: p. ej. Schroder Retorno Total Cuatro B pasó de USD 1 mil a 1,25 M el 07/04/2025).
+    - anclado=True: los últimos datos vienen de la planilla CNV validada (patrimonio = cuotapartes x VCP), así que el
+      tramo final está en la moneda correcta y se normaliza el resto respecto de él. Si no, la moneda correcta es el
+      nivel más bajo (USD).
+    Devuelve d corregido y cantidad de tramos corregidos."""
     a = d.aum.values.astype(float)
     if len(a) < 6 or fx is None or moneda != 'USD':   # solo clases USD: el error observado es AUM informado en pesos
         return d, 0
     f = fx.reindex(d.fecha).ffill().bfill().values
     lq = np.log(np.where(a > 0, a, np.nan)); j = np.diff(lq, prepend=np.nan)
     cut = np.where(np.abs(np.abs(j) - np.log(f)) < np.log(1.35))[0]
+    if len(cut):                                   # nivel previo y posterior al salto (mediana de hasta 5 obs válidas)
+        def lado(c, antes):
+            w = a[max(0, c - 5):c] if antes else a[c:c + 5]
+            w = w[np.isfinite(w) & (w > 0)]
+            return np.median(w) if len(w) else np.nan
+        cut = np.array([c for c in cut if min(lado(c, True), lado(c, False)) >= MIN_TRAMO_USD])
     bounds = np.r_[0, cut, len(a)]
     if len(cut) and np.diff(bounds).min() < 3:     # tramos de < 3 obs: los maneja el filtro de picos
         cut = np.array([c for c, l, r in zip(cut, np.diff(bounds)[:-1], np.diff(bounds)[1:]) if l >= 3 and r >= 3])
@@ -112,14 +126,14 @@ def fix_currency(d, moneda, fx):
     lvl = np.zeros(seg.max() + 1)
     for k, c in enumerate(cut, start=1):
         lvl[k] = lvl[k - 1] + (1 if j[c] > 0 else -1)
-    # la moneda correcta: USD -> el nivel más bajo; ARS -> el nivel más alto
-    target = lvl.min() if moneda == 'USD' else lvl.max()
+    # la moneda correcta: el tramo final si está anclado a la CNV; si no, el nivel más bajo (USD)
+    target = lvl[seg[-1]] if anclado else lvl.min()
     adj = (lvl[seg] - target)          # cuántas veces hay que dividir (+) o multiplicar (-) por FX
     d = d.copy(); d['aum'] = a / np.power(f, adj)
     return d, len(cut)
 
 
-def clean_flows(df, moneda, fx=None):
+def clean_flows(df, moneda, fx=None, anclado=False):
     """Limpieza:
     1) picos transitorios de VCP (salto >40% que revierte en <=5 ruedas) o de AUM (x5 que revierte) -> se elimina la observación
     2) saltos permanentes de VCP >40% (rebase/cambio de unidad) -> 'quiebre' (flag=2): sin rendimiento ni flujo ese día, y
@@ -128,7 +142,7 @@ def clean_flows(df, moneda, fx=None):
     4) AUM x1000 / /1000 -> flag=1"""
     d = df.dropna(subset=['vcp']).copy()
     d = d[d.vcp > 0].reset_index(drop=True)
-    d, ncur = fix_currency(d, moneda, fx)
+    d, ncur = fix_currency(d, moneda, fx, anclado)
     if len(d) > 2:
         dv, bv = _spikes(d.vcp.values, np.log(1.4), np.log(1.1))
         a = d.aum.where(d.aum > 0).values
@@ -153,6 +167,14 @@ def clean_flows(df, moneda, fx=None):
     bad = (d.rend.abs() > RMAX.get(moneda, 0.05)) | q.between(900, 1100) | q.between(1 / 1100, 1 / 900)
     d['flag'] = np.where(d.fecha.isin(brk_dates), 2, np.where(bad, 1, 0)).astype('int8')
     d.loc[d.flag > 0, ['flujo', 'rend']] = np.nan
+    # clase que se activa o se vacía: si el AUM previo es 0, todo el AUM es suscripción (aunque el VCP salte, p. ej. de
+    # 1.000 al valor de la clase vieja en un cambio de clase: Lombard Ahorro Plus A -> B el 17/11/2026); si el AUM queda
+    # en 0, el rescate es todo el AUM previo
+    prev = av.shift(1).reindex(d.index)
+    act = v & (prev == 0) & (af > 0)
+    vac = v & (prev > 0) & (af == 0)
+    d.loc[act, 'flujo'] = af[act]
+    d.loc[vac & d.flujo.isna(), 'flujo'] = -prev[vac & d.flujo.isna()]
     if v.any():
         i0 = v.idxmax()                                # primer día con AUM informado
         if d.fecha[i0] > INICIO_HISTORIA and d.aum[i0] > 0 and d.flag[i0] == 0:
@@ -230,8 +252,9 @@ def build(src_fondos, out_dir, fx_csv=None, cnv_filas=None, cnv_meta=None, prev_
     parts, reemp, nuevas = merge_cnv(parts, cnv_filas, cnv_meta)
     print(f'historia: {historia} | CNV: {0 if cnv_filas is None else len(cnv_filas)} obs, {reemp} VCP distintos reemplazados, {nuevas} clases nuevas')
     allrows = []
+    cnv_ids = set() if cnv_filas is None else set(cnv_filas.clase_id.astype(str))
     for k, (m, df) in parts.items():
-        d = clean_flows(df, m['moneda'], fx)
+        d = clean_flows(df, m['moneda'], fx, anclado=str(k) in cnv_ids)
         d['clase_id'] = k
         allrows.append(d)
         metas.append(m)

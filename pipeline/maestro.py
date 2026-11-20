@@ -17,7 +17,7 @@ Clase de referencia por fondo (una por fondo para rankings), en orden de priorid
                                   la de menor honorario G+D; empate -> mayor AUM. Replica la elección 1816 en ~71% de los
                                   fondos multiclase (mayor AUM: ~65%).
 """
-import os, re, sys, unicodedata, difflib
+import os, glob, re, sys, unicodedata, difflib
 import numpy as np, pandas as pd
 
 TIPO = {'MM ARS Clásico': 'Money Market', 'MM ARS Dinámico': 'Money Market', 'MM USD Clásico': 'Money Market', 'T+1': 'T+1',
@@ -69,6 +69,56 @@ def aum_err(aum, aum16):
     if not np.isfinite(aum) or aum16 <= 0:
         return np.inf
     return min(abs(v - aum16) / aum16 for v in (aum, aum / FX1816, aum * FX1816))
+
+
+TOL_AUM = 0.02   # emparejamiento por patrimonio a la fecha del informe: clase y fondo dentro de +-2%
+
+
+def match_1816_aum(meta, d16, last, m16):
+    """Emparejamiento cuota del informe -> clase, validado con el patrimonio a la fecha del informe.
+    A = emparejamiento por nombre (match_1816). B = clases cuyo AUM y el de su fondo coinciden con los del informe (+-2%),
+    la de nombre más parecido. Se usa A si su AUM de clase y de fondo coinciden; si no, B cuando el nombre o el gerente lo
+    respaldan (cambios de nombre o de gerente: Galileo Pymes -> Delta, Gainvest -> StoneX); si no hay B, A como antes.
+    Las clases USD se comparan en USD y en pesos al tipo de cambio implícito del informe."""
+    A = match_1816(meta, last, m16)
+    c = meta[['clase_id', 'fondo_id', 'clase', 'moneda', 'administradora']].merge(d16, on='clase_id')
+    c = c[c.aum > 0].copy().set_index('clase_id', drop=False)
+    c['key'] = c.clase.map(norm2)
+    m16 = m16.copy(); m16['key'] = m16.cuota.map(norm2)
+    # tipo de cambio implícito: cuotas USD emparejadas por nombre, informadas en pesos (ratio ~ 800-3.000)
+    ex = A.dropna(subset=['clase_id']).merge(c[c.moneda == 'USD'][['aum']], left_on='clase_id', right_index=True)
+    r = ex.aum_cuota_m * 1e6 / ex.aum
+    r = r[(r > 800) & (r < 3000)]
+    fx16 = float(r.median()) if len(r) >= 5 else np.nan
+    usd = (c.moneda == 'USD').values
+    c['ars'] = np.where(usd, c.aum * fx16, c.aum)
+    c['usd'] = np.where(usd, c.aum, np.nan)
+    c['f_ars'] = c.fondo_id.map(c.groupby('fondo_id').ars.sum(min_count=1))
+    c['f_usd'] = c.fondo_id.map(c.assign(u=np.where(usd, c.aum, c.aum / fx16)).groupby('fondo_id').u.sum(min_count=1))
+    c['adm'] = c.administradora.map(lambda a: norm(short_admin(a)))
+    out = []
+    for i, q in m16.iterrows():
+        a_c, a_f = q.aum_cuota_m * 1e6, q.aum_fci_m * 1e6
+        e = pd.Series(np.inf, index=c.index)
+        if a_c > 0 and a_f > 0:
+            e_ars = np.maximum(abs(c.ars / a_c - 1), abs(c.f_ars / a_f - 1))
+            e_usd = np.maximum(abs(c.usd / a_c - 1), abs(c.f_usd / a_f - 1))
+            e = np.fmin(e_ars.fillna(np.inf), e_usd.fillna(np.inf))
+        ka = A.loc[i, 'clase_id']
+        if pd.notna(ka) and e.get(ka, np.inf) <= TOL_AUM:
+            out.append(dict(i=i, clase_id=ka, como='nombre + AUM', err_aum=float(e[ka]))); continue
+        cand = c[e <= TOL_AUM]
+        if len(cand):
+            sim = cand.key.map(lambda k: difflib.SequenceMatcher(None, k, q.key).ratio())
+            g = norm(q.gerente)
+            ger = cand.adm.map(lambda a: bool(g) and (g in a or a in g))
+            score = sim + 0.3 * ger
+            j = score.idxmax()
+            if sim[j] >= 0.6 or (sim[j] >= 0.3 and ger[j]):
+                out.append(dict(i=i, clase_id=j, como='AUM' + (' + nombre' if sim[j] >= 0.6 else ' + gerente'), err_aum=float(e[j]))); continue
+        out.append(dict(i=i, clase_id=ka, como=A.loc[i, 'como'] if pd.notna(ka) else A.loc[i, 'como'], err_aum=A.loc[i, 'err_aum']))
+    res = pd.DataFrame(out).set_index('i').sort_index()
+    return m16.drop(columns=['key']).join(res), fx16
 
 
 def match_1816(meta, last, m16):
@@ -172,8 +222,31 @@ def build(base_dir, ref_dir, fecha_ref):
     con = duckdb.connect()
     last = con.sql(f"""select clase_id, arg_max(aum, fecha) aum_ref from read_parquet('{base_dir}/clases_diario_*.parquet')
                        where fecha <= '{fecha_ref}' and fecha >= cast('{fecha_ref}' as date) - interval 10 day and aum > 0 group by 1""").df()
-    m16 = pd.read_csv(os.path.join(ref_dir, 'map1816.csv'))
-    mt = match_1816(meta, last, m16)
+    # informes 1816: ref/informes_1816/map_AAAAMMDD.csv (uno por informe, fechado). Cada uno se empareja con el patrimonio
+    # a su fecha; para cada fondo vale el informe más reciente en que aparece (los fondos chicos no figuran en todos)
+    maps = sorted(glob.glob(os.path.join(ref_dir, 'informes_1816', 'map_*.csv')))
+    if not maps:
+        maps = [os.path.join(ref_dir, 'map1816.csv')]
+    mts = []
+    for k, path in enumerate(maps):
+        m16 = pd.read_csv(path)
+        f16 = str(m16.fecha.dropna().iloc[0]) if 'fecha' in m16 and m16.fecha.notna().any() else None
+        r = None
+        if f16:
+            d16 = con.sql(f"""select clase_id, arg_max(aum, fecha) aum from read_parquet('{base_dir}/clases_diario_*.parquet')
+                              where fecha = '{f16}' group by 1""").df()
+            if len(d16) > 1000:
+                r, fx16 = match_1816_aum(meta, d16, d16.rename(columns={'aum': 'aum_ref'}), m16)
+                print(f'1816 {f16}: TC implícito {fx16:.1f} | ' + str(r.como.value_counts().to_dict()))
+        if r is None:
+            r = match_1816(meta, last, m16)
+        mts.append(r.assign(informe=f16 or os.path.basename(path), orden=k))
+    mt = pd.concat(mts, ignore_index=True)
+    # por fondo, el informe más reciente: se descartan las cuotas de informes anteriores de fondos que figuran en uno posterior
+    fid = mt.clase_id.map(meta.set_index('clase_id').fondo_id)
+    ult = mt.assign(f=fid).dropna(subset=['f']).groupby('f').orden.transform('max')
+    mt = mt.loc[ult.index[mt.loc[ult.index, 'orden'] == ult].tolist() + mt.index[fid.isna()].tolist()].sort_index()
+    mt = mt[mt.clase_id.notna() | (mt.orden == mt.orden.max())]   # sin emparejar: sólo las del informe más reciente (log)
     # gerente corto: por administradora (moda de las clases emparejadas)
     mm = mt.dropna(subset=['clase_id']).merge(meta[['clase_id', 'fondo_id', 'administradora']], on='clase_id')
     adm_short = mm.groupby('administradora').gerente.agg(lambda s: s.value_counts().index[0]).to_dict()

@@ -64,6 +64,16 @@ jobs:
           PREV_BASE: prevdata/base
         run: python pipeline/run.py ad/datos/v1 base salida ${{ github.event.inputs.fecha_corte }}
 
+      - name: Salida de prueba como artefacto (corridas con publicar = no)
+        if: github.event.inputs.publicar == 'no'
+        uses: actions/upload-artifact@v4
+        with:
+          name: salida-prueba
+          path: |
+            salida/*.csv
+            base/maestro.parquet
+          retention-days: 3
+
       - name: Publicar en rama data (sin historial, se reemplaza en cada corrida)
         if: github.event.inputs.publicar != 'no'
         run: |

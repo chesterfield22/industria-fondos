@@ -91,14 +91,14 @@ def ger_seg(snap):
     """gerente x segmento en formato largo (Total / tipo / subtipo): AUM, share y posición en el segmento, suscripciones."""
     gl = []
     for nivel, key in (('Total', None), ('Tipo', 'tipo'), ('Subtipo', 'subtipo')):
-        x = snap.assign(segmento='Total' if key is None else snap[key])
+        x = snap.assign(segmento='Total' if key is None else snap[key], aum_usd_cls=np.where(snap.moneda == 'USD', snap.aum, 0.0))
         if key == 'subtipo':
             x = x[x.segmento != x.tipo]          # T+1 / Sin clasificar: subtipo == tipo, ya están como Tipo
         g = x.groupby(['segmento', 'gerente', 'tipo_gerente']).agg(
-            aum_m=('aum_ars', 'sum'), n_fondos=('fondo_id', 'nunique'),
+            aum_m=('aum_ars', 'sum'), aum_usd_m=('aum_usd_cls', 'sum'), n_fondos=('fondo_act', 'nunique'),
             **{f'susc_{h}_m': (f'f_{h}', 'sum') for h in HZ},
             **{f'aum0_{h}_m': (f'aum0_{h}', 'sum') for h in HZ}).reset_index()
-        for c in ['aum_m'] + SUSC + [f'aum0_{h}_m' for h in HZ]:
+        for c in ['aum_m', 'aum_usd_m'] + SUSC + [f'aum0_{h}_m' for h in HZ]:
             g[c] = g[c] / 1e6
         for h in HZ:                               # suscripciones como % del AUM al inicio del plazo (vacío si < ARS 1 M)
             g[f'susc_{h}_pct'] = (g[f'susc_{h}_m'] / g[f'aum0_{h}_m']).where(g[f'aum0_{h}_m'] >= 1)
@@ -109,7 +109,8 @@ def ger_seg(snap):
         gl.append(g)
     GL = pd.concat(gl, ignore_index=True).sort_values(['nivel', 'segmento', 'aum_m'], ascending=[True, True, False])
     return GL[['nivel', 'segmento', 'pos', 'gerente', 'tipo_gerente', 'aum_m', 'share'] + SUSC + ['n_fondos'] +
-              [f'aum0_{h}_m' for h in HZ] + [f'susc_{h}_pct' for h in HZ]]   # nuevas al final: el Sheet ubica por nombre
+              [f'aum0_{h}_m' for h in HZ] + [f'susc_{h}_pct' for h in HZ] + ['aum_usd_m']]
+    # columnas nuevas siempre al final (el Sheet ubica por nombre). aum_usd_m: AUM de las clases USD en dólares, sin TC
 
 
 def gerentes_con_mm(snap):
@@ -136,10 +137,17 @@ def compute(base_dir, out_dir, T=None, fx_col='a3500'):
     d['flujo_ars'] = d.flujo * d.k
     # ---- foto a T por clase
     last = d[(d.fecha > T - pd.Timedelta(days=7)) & (d.aum > 0)].sort_values('fecha').groupby('clase_id').tail(1)
+    # clases que se vaciaron dentro del plazo más largo: entran con AUM 0 para que sus rescates cuenten (si no, un
+    # cambio de clase dentro de un fondo suma la suscripción de la clase nueva y pierde el rescate de la vieja)
+    hmax = base_date(T, 365)
+    viejas = d[(d.fecha > hmax) & d.flujo.abs().gt(0) & ~d.clase_id.isin(last.clase_id)].clase_id.unique()
+    vacias = d[d.clase_id.isin(viejas)].sort_values('fecha').groupby('clase_id').tail(1).assign(aum=0.0)
+    last = pd.concat([last, vacias], ignore_index=True)
     snap = last[['clase_id', 'fecha', 'vcp', 'aum']].rename(columns={'fecha': 'fecha_dato'})
-    snap['stale'] = snap.fecha_dato < T
+    snap['stale'] = (snap.fecha_dato < T) & (snap.aum > 0)
     fxT = fx.loc[T]
     snap = snap.merge(m, on='clase_id', how='left')
+    snap['fondo_act'] = snap.fondo_id.where(snap.aum > 0)
     snap['aum_ars'] = np.where(snap.moneda == 'USD', snap.aum * fxT[fx_col], snap.aum)
     for c in ('a3500', 'mep', 'ccl'):
         snap[f'aum_ars_{c}'] = np.where(snap.moneda == 'USD', snap.aum * fxT[c], snap.aum)
@@ -183,7 +191,7 @@ def compute(base_dir, out_dir, T=None, fx_col='a3500'):
         for h in HZ:
             x = g[f'rars_{h}']; ok = x.notna() & wts.notna()
             o[f'rend_{h}'] = np.average(x[ok], weights=wts[ok]) if ok.any() else np.nan
-        o['n_fondos'] = g.fondo_id.nunique(); o['n_clases'] = len(g)
+        o['n_fondos'] = g.fondo_act.nunique(); o['n_clases'] = int((g.aum > 0).sum())
         o['aum_stale_pct'] = g.loc[g.stale, 'aum_ars'].sum() / g.aum_ars.sum() if g.aum_ars.sum() else np.nan
         return pd.Series(o)
     seg = snap.groupby(['tipo', 'subtipo']).apply(agg).reset_index()
@@ -207,12 +215,13 @@ def compute(base_dir, out_dir, T=None, fx_col='a3500'):
     GLM = ger_seg(SP[~SP.gerente.isin(con_mm)])
     # ---------------- ranking: un fondo = una fila (su clase de referencia); umbral AUM fondo >= 1.000 M ARS, como 1816
     snap['aum_fondo_ars'] = snap.groupby('fondo_id').aum_ars.transform('sum')
-    snap['n_clases_fondo'] = snap.groupby('fondo_id').clase_id.transform('size')
+    snap['n_clases_fondo'] = snap.aum.gt(0).groupby(snap.fondo_id).transform('sum')
     for h in HZ:                                   # suscripciones y AUM inicial del fondo completo (todas sus clases)
         snap[f'ffondo_{h}'] = snap.groupby('fondo_id')[f'f_{h}'].transform(lambda x: x.sum(min_count=1))
         snap[f'aum0fondo_{h}'] = snap.groupby('fondo_id')[f'aum0_{h}'].transform(lambda x: x.sum(min_count=1))
-    ref = snap.loc[snap.clase_id == snap.ref_clase].drop_duplicates('fondo_id').set_index('fondo_id').clase_id
-    sin = snap.loc[~snap.fondo_id.isin(ref.index)]  # la clase de referencia no tiene dato a T: regla sobre las activas
+    act = snap.aum > 0
+    ref = snap.loc[act & (snap.clase_id == snap.ref_clase)].drop_duplicates('fondo_id').set_index('fondo_id').clase_id
+    sin = snap.loc[act & ~snap.fondo_id.isin(ref.index)]  # la clase de referencia no tiene dato a T: regla sobre las activas
     if len(sin):
         import maestro
         alt = maestro.regla_ref(sin, float(fxT[fx_col]))

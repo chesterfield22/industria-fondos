@@ -76,24 +76,28 @@ def publish(base_dir, out, T=None):
     w(r['tipo_ger'][['tipo_gerente', 'aum_total_m'] + [f'susc_{h}_m' for h in HZ]], os.path.join(out, 'tipo_gerente.csv'))
     RK = r['ranking'].copy()
     RK['aum_clase_m'] = RK.aum_ars / 1e6; RK['aum_fondo_m'] = RK.aum_fondo_ars / 1e6
+    # AUM en dólares de las clases USD (en su moneda, sin tipo de cambio): de la clase de referencia y del fondo
+    RK['aum_clase_usd_m'] = np.where(RK.moneda == 'USD', RK.aum / 1e6, np.nan)
+    RK['aum_fondo_usd_m'] = RK.fondo_id.map(r['snap'].loc[r['snap'].moneda == 'USD'].groupby('fondo_id').aum.sum() / 1e6)
     rk_cols = ['clase_id', 'clase', 'fondo', 'gerente', 'tipo_gerente', 'tipo', 'subtipo', 'moneda', 'aum_clase_m', 'aum_fondo_m'] + \
               sum([[f'r_{h}', f'pos_{h}'] for h in HZ], []) + ['vol_90d', 'rend_vol', 'hon_gd', 'hon_gerente', 'hon_depositaria',
                                                               'fecha_dato', 'origen_segmento'] + \
               [f'susc_{h}_m' for h in HZ] + ['n_clases_fondo', 'ref_origen', 'codigo_cnv'] + \
-              [f'aum0_{h}_m' for h in HZ] + [f'susc_{h}_pct' for h in HZ]   # nuevas al final: el Sheet ubica por nombre
+              [f'aum0_{h}_m' for h in HZ] + [f'susc_{h}_pct' for h in HZ] + \
+              ['aum_clase_usd_m', 'aum_fondo_usd_m']   # nuevas al final: el Sheet ubica por nombre
     for h in HZ:
         RK[f'susc_{h}_m'] = RK[f'ffondo_{h}'] / 1e6   # suscripciones netas del fondo (todas las clases)
         RK[f'aum0_{h}_m'] = RK[f'aum0fondo_{h}'] / 1e6  # AUM del fondo en la fecha base del plazo (ARS al tipo de cambio de esa fecha)
         a0 = RK[f'aum0fondo_{h}']
         RK[f'susc_{h}_pct'] = (RK[f'ffondo_{h}'] / a0).where(a0 >= 1e6)   # sin AUM inicial relevante (fondo nuevo): vacío
     RK = RK.sort_values(['subtipo', 'aum_clase_m'], ascending=[True, False])[rk_cols]
-    rnd = {'aum_clase_m': 2, 'aum_fondo_m': 2, 'vol_90d': 6, 'rend_vol': 4, 'hon_gd': 4, 'hon_gerente': 4, 'hon_depositaria': 4}
+    rnd = {'aum_clase_m': 2, 'aum_fondo_m': 2, 'aum_clase_usd_m': 4, 'aum_fondo_usd_m': 4, 'vol_90d': 6, 'rend_vol': 4, 'hon_gd': 4, 'hon_gerente': 4, 'hon_depositaria': 4}
     rnd.update({f'r_{h}': 8 for h in HZ}); rnd.update({f'susc_{h}_m': 2 for h in HZ}); rnd.update({f'aum0_{h}_m': 2 for h in HZ}); rnd.update({f'susc_{h}_pct': 6 for h in HZ})
     RK = RK.round(rnd)
     for h in HZ:
         RK[f'pos_{h}'] = RK[f'pos_{h}'].astype('Int64')
     RK.to_csv(os.path.join(out, 'ranking.csv'), index=False, date_format='%Y-%m-%d')
-    sn = r['snap']
+    sn = r['snap'][r['snap'].aum > 0]     # catálogo: sólo clases con AUM
     cat = sn[['clase_id', 'clase', 'fondo', 'gerente', 'tipo_gerente', 'tipo', 'subtipo', 'moneda', 'aum', 'aum_ars', 'fecha_dato',
               'origen_segmento', 'hon_gd'] + [f'r_{h}' for h in HZ] + ['vol_90d', 'rend_vol']].copy()
     cat['aum_ars_m'] = cat.aum_ars / 1e6

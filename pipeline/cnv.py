@@ -147,6 +147,13 @@ def descargar(dias=10, min_clases=1500):
             parts.append(d)
             print(f'  CNV {doc.fecha.date()} recibida {doc.recibido} {nombre}: {int((d.fecha == doc.fecha).sum())} clases con dato del día')
         allf = pd.concat(parts, ignore_index=True).sort_values('_orden')
+        # patrimonio validado: debe ser cuotapartes x VCP / 1000 (VCP por mil cuotapartes). Si difiere > 50% (moneda o
+        # unidad mal informada), se usa el implícito
+        imp = allf.cuotapartes * allf.vcp / 1000
+        malo = (imp > 0) & (allf.aum > 0) & ((allf.aum / imp).sub(1).abs() > 0.5)
+        if malo.any():
+            print(f'  CNV: {int(malo.sum())} patrimonios corregidos por cuotapartes x VCP')
+        allf['aum'] = np.where(malo, imp, allf.aum)
         filas = allf.drop_duplicates(['clase_id', 'fecha'], keep='last')[['fecha', 'clase_id', 'vcp', 'aum']]
         meta = allf.drop_duplicates('clase_id', keep='last').drop(columns=['fecha', 'vcp', 'aum', 'cuotapartes', '_orden'])
         last = docs.iloc[-1]

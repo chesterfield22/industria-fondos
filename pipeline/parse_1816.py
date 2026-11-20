@@ -59,6 +59,8 @@ def main(pdf, out):
                                  aum_fci_m=parts[3].replace('.', '').replace(',', '.')))
             elif len(parts) >= 5 and NUM.match(parts[1]) and NUM.match(parts[2]):
                 pend.append((p, tipo, sub, parts))   # nombre y gerente pegados (nombre truncado con '..')
+    m = re.search(r'Datos (?:del|al) (\d{1,2})/(\d{1,2})/(\d{4})', page_text(pdf, 1))
+    fecha = f'{m.group(3)}-{int(m.group(2)):02d}-{int(m.group(1)):02d}' if m else ''
     known = sorted({r['gerente'] for r in rows}, key=len, reverse=True)
     for p, tipo, sub, parts in pend:
         g = next((k for k in known if parts[0].endswith(' ' + k)), None)
@@ -69,6 +71,8 @@ def main(pdf, out):
             continue
         rows.append(dict(pagina=p, tipo=tipo, subtipo=sub, cuota=cuota, gerente=g,
                          aum_cuota_m=parts[1].replace('.', '').replace(',', '.'), aum_fci_m=parts[2].replace('.', '').replace(',', '.')))
+    for r in rows:
+        r['fecha'] = fecha          # fecha de los datos del informe: el emparejamiento compara AUM a esa fecha
     with open(out, 'w', newline='', encoding='utf-8') as f:
         w = csv.DictWriter(f, fieldnames=list(rows[0].keys())); w.writeheader(); w.writerows(rows)
     print(len(rows), 'cuotas')
