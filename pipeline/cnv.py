@@ -14,7 +14,7 @@ en las mismas unidades ("Valor (mil cuotapartes)") y el patrimonio en la moneda 
 
 Nada de esto es una API documentada: ante cualquier falla se devuelve vacío y la corrida sigue con ArgentinaDatos.
 """
-import io, re, json, time, html, urllib.request, urllib.parse
+import io, os, re, json, time, html, urllib.request, urllib.parse
 import numpy as np, pandas as pd
 
 LIST_URL = 'https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/CuotaPartes'
@@ -136,16 +136,32 @@ def descargar(dias=10, min_clases=1500):
     info = dict(ok=False, error='', planillas=0, ultima_fecha=None, recibida=None)
     try:
         docs = listar().tail(dias)
-        parts, metas = [], []
-        for _, doc in docs.iterrows():
-            nombre, x = bajar_excel(doc.url)
-            d = parse_excel(x)
-            if len(d) < min_clases:
-                raise RuntimeError(f'CNV: planilla {nombre} con sólo {len(d)} clases')
+        parts, ok_docs, fallas, seguidas = [], [], [], 0
+        limite = time.time() + float(os.environ.get('CNV_MAX_SEG', 600))   # tope total de tiempo para la CNV
+        # de la más reciente a la más vieja: si la CNV está lenta o se cae a mitad de camino, lo más nuevo ya está
+        for _, doc in docs.iloc[::-1].iterrows():
+            if time.time() > limite or seguidas >= 3:
+                fallas.append(f'{doc.fecha.date()}: sin intentar ({"tiempo" if time.time() > limite else "3 fallas seguidas"})')
+                continue
+            try:
+                nombre, x = bajar_excel(doc.url)
+                d = parse_excel(x)
+                if len(d) < min_clases:
+                    raise RuntimeError(f'planilla {nombre} con sólo {len(d)} clases')
+            except Exception as e:                       # una planilla que falla no invalida las demás
+                seguidas += 1
+                fallas.append(f'{doc.fecha.date()}: {type(e).__name__}: {str(e)[:80]}')
+                print(f'  CNV {doc.fecha.date()} falló ({type(e).__name__}); se sigue con las demás')
+                continue
+            seguidas = 0
             d = d[d.fecha >= doc.fecha - pd.Timedelta(days=10)]          # datos propios de días cercanos
             d['_orden'] = doc.recibido
-            parts.append(d)
+            parts.append(d); ok_docs.append(doc)
             print(f'  CNV {doc.fecha.date()} recibida {doc.recibido} {nombre}: {int((d.fecha == doc.fecha).sum())} clases con dato del día')
+        if not parts:
+            raise RuntimeError('ninguna planilla disponible: ' + ' | '.join(fallas)[:180])
+        info['fallas'] = fallas
+        docs = pd.DataFrame(ok_docs).sort_values('fecha')
         allf = pd.concat(parts, ignore_index=True).sort_values('_orden')
         # patrimonio validado: debe ser cuotapartes x VCP / 1000 (VCP por mil cuotapartes). Si difiere > 50% (moneda o
         # unidad mal informada), se usa el implícito
