@@ -37,7 +37,7 @@ CAND = {
     ('Mercado de Dinero', 'ARS'): ['MM ARS Clásico'], ('Mercado de Dinero', 'USD'): ['MM USD Clásico'],
     ('PyMEs', 'ARS'): ['PYME'], ('PyMes', 'ARS'): ['PYME'], ('Infraestructura', 'ARS'): ['INFRA'], ('Infraestructura', 'USD'): ['INFRA'], ('ASG', 'ARS'): ['ASG'],
 }
-EXCLUIR = ('Fondos Cerrados', 'Cerrado', 'RG900')  # fuera del universo 1816 (fondos abiertos)
+EXCLUIR = ('Fondos Cerrados', 'Cerrado')  # fuera del universo 1816 (los RG900 sí están en el informe: Pionero Renta Pesos, Delta Performance)
 
 
 def norm(s):

@@ -22,8 +22,8 @@ else:
 filas, meta_cnv, info = cnv.descargar(dias=int(os.environ.get('CNV_DIAS', 10)))
 json.dump(info, open(os.path.join(base_dir, 'cnv_info.json'), 'w'))
 base.build(os.path.join(ad, 'finanzas', 'fci', 'fondos'), base_dir, fx_csv, filas, meta_cnv, prev)
-completa = str(metrics.fecha_corte(base_dir)[1].date())
-m, mt = maestro.build(base_dir, ref, T or completa)
+Tc = T or str(metrics.corte(base_dir)[0].date())        # misma fecha que usará publish
+m, mt = maestro.build(base_dir, ref, Tc)
 m.to_parquet(os.path.join(base_dir, 'maestro.parquet'), index=False)
 mt.to_csv(os.path.join(out if os.path.isdir(out) else base_dir, 'match1816_log.csv'), index=False)
 publish.publish(base_dir, out, T)

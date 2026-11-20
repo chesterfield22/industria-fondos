@@ -6,7 +6,8 @@ Salida: data/base/clases_diario_<año>.parquet  (fecha, clase_id, vcp, aum, fluj
 
 Reglas de calidad (sin recortar historia válida):
   - flujo_t = AUM_t - AUM_{t-1} * VCP_t / VCP_{t-1}   (por clase, observaciones consecutivas)
-  - días sin patrimonio informado no cortan la serie de flujos: el flujo se mide contra el último AUM informado
+  - días sin patrimonio informado (hasta 5 ruedas) no cortan la serie de flujos: el flujo se mide contra el último AUM
+    informado; un hueco más largo es una clase vacía y el rescate se registra el primer día sin patrimonio
   - primer dato de una clase nueva (posterior al inicio de la historia): flujo = AUM (todo es suscripción). Así un cambio
     de clase dentro del fondo (p. ej. Lombard Renta en Pesos A -> B el 17/11/2026) neta ~0 en vez de un rescate falso
   - se anula flujo y rendimiento del día si |rend| > umbral (10% ARS / 5% USD) o AUM_t/AUM_{t-1} ~ x1000 (error de unidad)
@@ -16,7 +17,29 @@ import json, glob, os, sys
 import numpy as np, pandas as pd
 
 RMAX = {'ARS': 0.10, 'USD': 0.05}
-INICIO_HISTORIA = pd.Timestamp('2020-01-10')   # la historia arranca el 02/01/2020: antes de esto, primer dato != clase nueva
+INICIO_HISTORIA = pd.Timestamp('2020-01-10')
+GAP_MAX = 5          # ruedas sin patrimonio que se puentean; más largo = clase vacía (AUM 0)
+
+
+def _aum_flujos(aum):
+    """AUM para medir flujos: huecos (NaN) de más de GAP_MAX ruedas después del primer dato -> 0."""
+    a = aum.copy()
+    nan = a.isna().values
+    if not nan.any() or nan.all():
+        return a
+    first = int(np.argmax(~nan))
+    i, n = first, len(a)
+    while i < n:
+        if nan[i]:
+            j = i
+            while j < n and nan[j]:
+                j += 1
+            if j - i > GAP_MAX:
+                a.iloc[i:j] = 0.0
+            i = j
+        else:
+            i += 1
+    return a   # la historia arranca el 02/01/2020: antes de esto, primer dato != clase nueva
 MONEDA = {'Peso Argentino': 'ARS', 'Dólar Estadounidense': 'USD', 'Dolar Estadounidense': 'USD',
           'Dólar Estadounidense Billete': 'USD', 'Real': 'BRL', 'Euro': 'EUR'}
 
@@ -119,9 +142,11 @@ def clean_flows(df, moneda, fx=None):
     else:
         brk_dates = set()
     d['rend'] = d.vcp / d.vcp.shift(1) - 1
-    # flujo entre observaciones con AUM informado (un día sin patrimonio no corta la serie: el flujo se mide al volver)
-    v = d.aum.notna()
-    av, vv = d.aum[v], d.vcp[v]
+    # flujo entre observaciones con AUM informado: un hueco corto sin patrimonio (<= GAP_MAX ruedas) no corta la serie
+    # (el flujo se mide al volver); un hueco largo es una clase vacía: AUM 0 desde el primer día sin patrimonio
+    af = _aum_flujos(d.aum)
+    v = af.notna()
+    av, vv = af[v], d.vcp[v]
     d['flujo'] = np.nan
     d.loc[v, 'flujo'] = av - av.shift(1) * vv / vv.shift(1)
     q = d.aum / d.aum.shift(1)

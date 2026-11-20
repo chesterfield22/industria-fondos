@@ -34,8 +34,13 @@ def load(base_dir):
     return d, m, fx
 
 
-def fecha_corte(base_dir, min_n=0.97, min_aum=0.985, dias=70):
-    """Última fecha hábil 'completa': clases reportadas >= 97% de la mediana de 10 ruedas previas Y AUM reportado
+MIN_N, MIN_AUM = 0.95, 0.985          # corte definitivo
+PRE_N, PRE_AUM = 0.85, 0.80           # corte preliminar (como 1816: el resto de las clases arrastra su último dato)
+MODO_CORTE = os.environ.get('MODO_CORTE', 'preliminar')   # 'preliminar' (más reciente) o 'definitivo'
+
+
+def fecha_corte(base_dir, min_n=MIN_N, min_aum=MIN_AUM, dias=70):
+    """Última fecha hábil 'completa': clases reportadas >= 95% de la mediana de 10 ruedas previas Y AUM reportado
     >= 98,5% del AUM esperado (último dato de cada clase con antigüedad <= 7 días, en ARS al A3500).
     Devuelve (última fecha con datos, última completa, n clases por día, cobertura de AUM por día)."""
     d = duckdb.sql(f"""select fecha, clase_id, aum from read_parquet('{base_dir}/clases_diario_*.parquet')
@@ -53,6 +58,17 @@ def fecha_corte(base_dir, min_n=0.97, min_aum=0.985, dias=70):
     ref = n.rolling(10, min_periods=3).median().shift(1)
     ok = n.index[(n >= min_n * ref) & (cov >= min_aum)]
     return n.index.max(), (ok.max() if len(ok) else n.index.max()), n, cov
+
+
+def corte(base_dir):
+    """Fecha de corte por defecto y su estado. Preliminar: el día más reciente con >= 85% de las clases y >= 80% del AUM
+    esperado (la planilla de la CNV del día D llega a la noche incompleta; la revisada, al día hábil siguiente, la reemplaza)."""
+    ult, completa, n, cov = fecha_corte(base_dir)
+    ref = n.rolling(10, min_periods=3).median().shift(1)
+    pre = n.index[(n >= PRE_N * ref) & (cov >= PRE_AUM) & (n.index > completa)]
+    if MODO_CORTE == 'preliminar' and len(pre):
+        return pre.max(), 'preliminar'
+    return completa, 'definitivo'
 
 
 SUSC = [f'susc_{h}_m' for h in HZ]
@@ -105,7 +121,12 @@ def compute(base_dir, out_dir, T=None, fx_col='a3500'):
     os.makedirs(out_dir, exist_ok=True)
     d, m, fx = load(base_dir)
     ult, completa, ncl, cov = fecha_corte(base_dir)
-    T = pd.Timestamp(T) if T else completa   # por defecto: última fecha con cobertura completa
+    Td, estado = corte(base_dir)
+    if T:
+        T = pd.Timestamp(T)
+        estado = 'definitivo' if T <= completa else 'preliminar'
+    else:
+        T = Td
     m = m[~m.subtipo.isin(['Fuera de universo'])].copy()
     d = d[d.clase_id.isin(m.clase_id) & (d.fecha <= T)]
     mon = m.set_index('clase_id').moneda
@@ -213,7 +234,7 @@ def compute(base_dir, out_dir, T=None, fx_col='a3500'):
     fl_tipo = dd.groupby(['fecha', 'tipo']).flujo_ars.sum().unstack(fill_value=0); fl_tipo['Total'] = fl_tipo.sum(axis=1)
     bd = aum_tipo.index[aum_tipo.index.dayofweek < 5]
     meta_out = dict(fecha_corte=str(T.date()), ultima_fecha_datos=str(ult.date()), ultima_fecha_completa=str(completa.date()),
-                    clases_con_dato_T=int(ncl.get(T, 0)), cobertura_aum_T=float(cov.get(T, np.nan)), aum_stale_pct=float(snap.loc[snap.stale, 'aum_ars'].sum() / snap.aum_ars.sum()),
+                    clases_con_dato_T=int(ncl.get(T, 0)), estado_corte=estado, cobertura_aum_T=float(cov.get(T, np.nan)), aum_stale_pct=float(snap.loc[snap.stale, 'aum_ars'].sum() / snap.aum_ars.sum()),
                     gerentes_con_mm=len(con_mm), fx=fx_col, fx_T={c: float(fxT[c]) for c in ('a3500', 'mep', 'ccl')})
     return dict(seg=S, ger=G, ger_tipo=GT, ger_sub=GS, ger_seg=GL, ger_iol=GLI, ger_iol_sin_mm=GLM, tipo_ger=TG, ranking=RK, snap=snap,
                 aum_diario=aum_tipo.loc[bd] / 1e6, flujo_diario=fl_tipo.reindex(bd).fillna(0) / 1e6, meta=meta_out)

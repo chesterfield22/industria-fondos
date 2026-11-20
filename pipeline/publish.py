@@ -49,6 +49,7 @@ def publish(base_dir, out, T=None):
     T = pd.Timestamp(meta['fecha_corte'])
     mrows = [('fecha_corte', meta['fecha_corte']), ('ultima_fecha_datos', meta['ultima_fecha_datos']),
              ('ultima_fecha_completa', meta['ultima_fecha_completa']), ('clases_con_dato', meta['clases_con_dato_T']),
+             ('estado_corte', meta['estado_corte']),
              ('cobertura_aum', round(meta['cobertura_aum_T'], 6)),
              ('aum_arrastrado_pct', round(meta['aum_stale_pct'], 6)), ('gerentes_con_money_market', meta['gerentes_con_mm']), ('fx_usado', 'A3500'),
              ('a3500', meta['fx_T']['a3500']), ('mep', meta['fx_T']['mep']), ('ccl', meta['fx_T']['ccl']),
