@@ -101,8 +101,9 @@ def publish(base_dir, out, T=None):
     cat = sn[['clase_id', 'clase', 'fondo', 'gerente', 'tipo_gerente', 'tipo', 'subtipo', 'moneda', 'aum', 'aum_ars', 'fecha_dato',
               'origen_segmento', 'hon_gd'] + [f'r_{h}' for h in HZ] + ['vol_90d', 'rend_vol']].copy()
     cat['aum_ars_m'] = cat.aum_ars / 1e6
+    cat['aum_m_clase'] = cat.aum / 1e6          # AUM en la moneda de la clase (USD M para clases USD), al final
     cat = cat.drop(columns=['aum_ars']).sort_values('aum_ars_m', ascending=False).round(
-        {'aum': 2, 'aum_ars_m': 2, 'hon_gd': 4, 'vol_90d': 6, 'rend_vol': 4, **{f'r_{h}': 8 for h in HZ}})
+        {'aum': 2, 'aum_ars_m': 2, 'aum_m_clase': 4, 'hon_gd': 4, 'vol_90d': 6, 'rend_vol': 4, **{f'r_{h}': 8 for h in HZ}})
     cat.to_csv(os.path.join(out, 'clases.csv'), index=False, date_format='%Y-%m-%d')
     for k in ('aum_diario', 'flujo_diario'):
         x = r[k].reset_index().rename(columns={'index': 'fecha'})
