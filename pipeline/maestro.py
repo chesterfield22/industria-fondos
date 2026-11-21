@@ -165,29 +165,44 @@ def match_1816(meta, last, m16):
     return m16.drop(columns=['key']).join(res)
 
 
-def corr_classify(base, meta_f, seg_ref, unclassified, window=120):
-    """Asigna segmento por mínima distancia (RMSE) entre rendimientos diarios del fondo y del segmento."""
-    piv = base.pivot_table(index='fecha', columns='clase_id', values='rend')
-    piv = piv.iloc[-window:]
+def corr_classify(base, meta_f, seg_ref, unclassified, window=250, k=3, min_obs=60):
+    """Fondos que no figuran en el informe 1816: subtipo de los k fondos clasificados por 1816 cuyo rendimiento diario
+    (250 ruedas) más se correlaciona con el suyo, dentro de los subtipos posibles para su tipo de renta y moneda.
+    Validado contra los fondos que sí figuran en 1816: 54% de acierto (distancia a la mediana del segmento, 120 ruedas:
+    48%). Fondos con menos de 60 ruedas: distancia (RMSE) a la mediana de cada segmento."""
+    piv = base.pivot_table(index='fecha', columns='clase_id', values='rend').iloc[-window:]
+    lab = {i: s for s, ids in seg_ref.items() for i in ids if i in piv.columns}
     seg_series = {}
     for seg, ids in seg_ref.items():
         cols = [i for i in ids if i in piv.columns]
         if cols:
             seg_series[seg] = piv[cols].median(axis=1)
+    ref_ids = [i for i in lab if piv[i].count() >= min_obs]
+    R = piv[ref_ids]
     res = []
     for _, f in unclassified.iterrows():
         cands = CAND.get((f.tipo_renta, f.moneda), [])
         if len(cands) == 1:                      # categoría unívoca: no hace falta correlación
             res.append((f.fondo_id, cands[0], 0.0)); continue
-        cands = [s for s in cands if s in seg_series]
-        if f.ref_clase not in piv.columns or not cands:
+        if f.ref_clase not in piv.columns:
             res.append((f.fondo_id, None, None)); continue
         x = piv[f.ref_clase]
-        if x.count() < 40:
+        if x.count() >= min_obs:
+            with np.errstate(divide='ignore', invalid='ignore'):
+                cc = R.corrwith(x)
+            cc = cc[R.notna().mul(x.notna(), axis=0).sum() >= min_obs]
+            cc = cc.drop(f.ref_clase, errors='ignore').dropna()
+            cc = cc[cc.index.map(lab).isin(cands)]
+            if len(cc):
+                top = cc.sort_values(ascending=False).head(k)
+                vote = top.groupby(top.index.map(lab)).sum()
+                res.append((f.fondo_id, vote.idxmax(), float(1 - top.max()))); continue
+        cands = [s for s in cands if s in seg_series]
+        if x.count() < 20 or not cands:
             res.append((f.fondo_id, None, None)); continue
         d = {s: float(np.sqrt(((x - seg_series[s]) ** 2).mean())) for s in cands}
         best = min(d, key=d.get)
-        res.append((f.fondo_id, best, d[best]))
+        res.append((f.fondo_id, best, d[best] + 1e-9))
     return pd.DataFrame(res, columns=['fondo_id', 'subtipo', 'rmse'])
 
 
@@ -277,11 +292,15 @@ def build(base_dir, ref_dir, fecha_ref):
         ref.loc[ref.index.isin(mr.index), 'ref_clase'] = mr.reindex(ref.index).dropna()
         ref.loc[ref.index.isin(mr.index), 'ref_origen'] = 'manual'
     meta = meta.merge(ref, left_on='fondo_id', right_index=True, how='left')
-    fondos = meta.drop_duplicates('fondo_id')
+    fondos = meta.drop_duplicates('fondo_id').copy()
+    # moneda del fondo para clasificarlo = la de su clase de referencia (la de más AUM), no la de la primera clase listada
+    # (MAF Renta Balanceada: clases D y E en USD vacías, clase U en pesos -> iba a RM y Otros USD)
+    mon_ref = fondos.ref_clase.map(meta.set_index('clase_id').moneda)
+    fondos['moneda'] = mon_ref.fillna(fondos.moneda)
     unc = fondos[fondos.subtipo.isna() & ~fondos.tipo_renta.isin(EXCLUIR)]
     seg_ref = mm.groupby('subtipo').clase_id.apply(list).to_dict()
     base = con.sql(f"""select fecha, clase_id, rend from read_parquet('{base_dir}/clases_diario_*.parquet')
-                       where fecha > cast('{fecha_ref}' as date) - interval 200 day and fecha <= '{fecha_ref}'""").df()
+                       where fecha > cast('{fecha_ref}' as date) - interval 400 day and fecha <= '{fecha_ref}'""").df()
     cc = corr_classify(base, fondos, seg_ref, unc)
     cc = cc.dropna(subset=['subtipo']).set_index('fondo_id')
     fill = meta.fondo_id.map(cc.subtipo)
