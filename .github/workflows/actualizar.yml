@@ -4,10 +4,13 @@ on:
   schedule:
     # La CNV recibe la planilla del día D ~20:20 (incompleta, ~85% del AUM) y la revisada (completa) entre
     # las 13 y las 16 del día hábil siguiente. GitHub suele demorar los cron horas: se programan varias corridas.
+    - cron: '30 15 * * 1-5'  # 12:30 ART: la revisada a veces llega antes del mediodía
+    - cron: '0 17 * * 1-5'   # 14:00 ART
     - cron: '30 18 * * 1-5'  # 15:30 ART: primera oportunidad de la planilla revisada
     - cron: '0 20 * * 1-5'   # 17:00 ART
     - cron: '30 21 * * 1-5'  # 18:30 ART
-    - cron: '30 1 * * 2-6'   # 22:30 ART: primera versión del día
+    - cron: '30 1 * * 2-6'   # 22:30 ART: primera versión del día (corte preliminar)
+    - cron: '45 2 * * 2-6'   # 23:45 ART: por si la primera versión llega tarde (p. ej. 22:46 el 12/11)
     - cron: '0 13 * * 1-5'   # 10:00 ART
   workflow_dispatch:
     inputs:

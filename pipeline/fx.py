@@ -14,16 +14,29 @@ import urllib.request
 BCRA = 'https://api.bcra.gob.ar/estadisticascambiarias/v1.0/Cotizaciones/USD?fechadesde={d}&fechahasta={h}'
 
 
+def hoy_art():
+    """fecha de hoy en Argentina (UTC-3). GitHub corre en UTC: después de las 21 ART 'hoy' en UTC ya es mañana y la API
+    del BCRA responde 400 a fechas futuras (eso dejaba al A3500 en el respaldo)."""
+    return (dt.datetime.utcnow() - dt.timedelta(hours=3)).date()
+
+
 def a3500_bcra(desde='2019-12-01', hasta=None):
-    hasta = hasta or dt.date.today().isoformat()
+    hasta = min(pd.Timestamp(hasta or hoy_art()), pd.Timestamp(hoy_art()))
     out = []
     d0 = pd.Timestamp(desde)
-    while d0 <= pd.Timestamp(hasta):  # la API limita el rango: se pide por años
-        d1 = min(d0 + pd.DateOffset(years=1) - pd.Timedelta(days=1), pd.Timestamp(hasta))
+    while d0 <= hasta:  # la API limita el rango: se pide por años
+        d1 = min(d0 + pd.DateOffset(years=1) - pd.Timedelta(days=1), hasta)
         url = BCRA.format(d=d0.date(), h=d1.date())
         req = urllib.request.Request(url, headers={'User-Agent': 'industria-fondos/1.0'})
-        with urllib.request.urlopen(req, timeout=60) as r:
-            js = json.load(r)
+        for k in range(3):
+            try:
+                with urllib.request.urlopen(req, timeout=60) as r:
+                    js = json.load(r)
+                break
+            except Exception:
+                if k == 2:
+                    raise
+                import time; time.sleep(5 * (k + 1))
         for x in js.get('results', []):
             for det in x.get('detalle', []):
                 if det.get('codigoMoneda') == 'USD':
@@ -54,6 +67,13 @@ def build(ad_dolares_path, out_csv, usar_bcra=True):
         if not usar_bcra:
             raise RuntimeError('BCRA deshabilitado')
         a3500 = a3500_bcra()
+        try:   # el BCRA publica el A3500 del día a la tarde: los días hábiles posteriores a su último dato, del respaldo
+            resp = a3500_respaldo(ad_dolares_path)
+            extra = resp[resp.index > a3500.index.max()]
+            if len(extra):
+                a3500 = pd.concat([a3500, extra]); src = f'BCRA (+ respaldo ArgentinaDatos desde {extra.index.min().date()})'
+        except Exception:
+            pass
     except Exception as e:  # respaldo documentado
         print('A3500: BCRA no disponible ->', e, '| se usa respaldo ArgentinaDatos mayorista desplazado')
         a3500 = a3500_respaldo(ad_dolares_path); src = 'ArgentinaDatos mayorista (desplazado 1 rueda)'
