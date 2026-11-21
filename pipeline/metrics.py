@@ -44,7 +44,7 @@ def fecha_corte(base_dir, min_n=MIN_N, min_aum=MIN_AUM, dias=70):
     >= 98,5% del AUM esperado (último dato de cada clase con antigüedad <= 7 días, en ARS al A3500).
     Devuelve (última fecha con datos, última completa, n clases por día, cobertura de AUM por día)."""
     d = duckdb.sql(f"""select fecha, clase_id, aum from read_parquet('{base_dir}/clases_diario_*.parquet')
-                       where aum > 0 and fecha >= (select max(fecha) from read_parquet('{base_dir}/clases_diario_*.parquet')) - INTERVAL {dias} DAY""").df()
+                       where aum is not null and fecha >= (select max(fecha) from read_parquet('{base_dir}/clases_diario_*.parquet')) - INTERVAL {dias} DAY""").df()
     d['fecha'] = pd.to_datetime(d.fecha)
     mon = pd.read_parquet(os.path.join(base_dir, 'clases_meta.parquet')).drop_duplicates('clase_id').set_index('clase_id').moneda
     fx = pd.read_csv(os.path.join(base_dir, 'fx.csv'), index_col=0, parse_dates=True).a3500
@@ -52,9 +52,9 @@ def fecha_corte(base_dir, min_n=MIN_N, min_aum=MIN_AUM, dias=70):
     P = P[P.index.dayofweek < 5]
     usd = mon.reindex(P.columns).eq('USD').values
     P.loc[:, usd] = P.loc[:, usd].mul(fx.reindex(P.index).ffill(), axis=0)
-    esperado = P.ffill(limit=7).sum(axis=1)
+    esperado = P.ffill(limit=7).sum(axis=1)       # con los ceros incluidos: una clase que pasó a 0 no se espera
     cov = P.sum(axis=1) / esperado
-    n = P.notna().sum(axis=1)
+    n = (P > 0).sum(axis=1)
     ref = n.rolling(10, min_periods=3).median().shift(1)
     ok = n.index[(n >= min_n * ref) & (cov >= min_aum)]
     return n.index.max(), (ok.max() if len(ok) else n.index.max()), n, cov
@@ -72,6 +72,7 @@ def corte(base_dir):
 
 
 SUSC = [f'susc_{h}_m' for h in HZ]
+SUSC_U = [f'susc_usd_{h}_m' for h in HZ]   # vista en dólares: sólo clases USD, en USD
 
 
 def es_iol(df):
@@ -97,11 +98,15 @@ def ger_seg(snap):
         g = x.groupby(['segmento', 'gerente', 'tipo_gerente']).agg(
             aum_m=('aum_ars', 'sum'), aum_usd_m=('aum_usd_cls', 'sum'), n_fondos=('fondo_act', 'nunique'),
             **{f'susc_{h}_m': (f'f_{h}', 'sum') for h in HZ},
-            **{f'aum0_{h}_m': (f'aum0_{h}', 'sum') for h in HZ}).reset_index()
-        for c in ['aum_m', 'aum_usd_m'] + SUSC + [f'aum0_{h}_m' for h in HZ]:
+            **{f'aum0_{h}_m': (f'aum0_{h}', 'sum') for h in HZ},
+            **{f'susc_usd_{h}_m': (f'fu_{h}', 'sum') for h in HZ},
+            **{f'aum0_usd_{h}_m': (f'aum0u_{h}', 'sum') for h in HZ}).reset_index()
+        for c in ['aum_m', 'aum_usd_m'] + SUSC + [f'aum0_{h}_m' for h in HZ] + SUSC_U + [f'aum0_usd_{h}_m' for h in HZ]:
             g[c] = g[c] / 1e6
         for h in HZ:                               # suscripciones como % del AUM al inicio del plazo (vacío si < ARS 1 M)
             g[f'susc_{h}_pct'] = (g[f'susc_{h}_m'] / g[f'aum0_{h}_m']).where(g[f'aum0_{h}_m'] >= 1)
+            # vista en dólares: sólo clases USD (vacío si el AUM inicial en USD < 10 mil)
+            g[f'susc_usd_{h}_pct'] = (g[f'susc_usd_{h}_m'] / g[f'aum0_usd_{h}_m']).where(g[f'aum0_usd_{h}_m'] >= 0.01)
         g = g[g.aum_m > 0]
         g['share'] = g.aum_m / g.groupby('segmento').aum_m.transform('sum')
         g['pos'] = g.groupby('segmento').aum_m.rank(ascending=False, method='min').astype(int)
@@ -109,7 +114,8 @@ def ger_seg(snap):
         gl.append(g)
     GL = pd.concat(gl, ignore_index=True).sort_values(['nivel', 'segmento', 'aum_m'], ascending=[True, True, False])
     return GL[['nivel', 'segmento', 'pos', 'gerente', 'tipo_gerente', 'aum_m', 'share'] + SUSC + ['n_fondos'] +
-              [f'aum0_{h}_m' for h in HZ] + [f'susc_{h}_pct' for h in HZ] + ['aum_usd_m']]
+              [f'aum0_{h}_m' for h in HZ] + [f'susc_{h}_pct' for h in HZ] + ['aum_usd_m'] +
+              SUSC_U + [f'aum0_usd_{h}_m' for h in HZ] + [f'susc_usd_{h}_pct' for h in HZ]]
     # columnas nuevas siempre al final (el Sheet ubica por nombre). aum_usd_m: AUM de las clases USD en dólares, sin TC
 
 
@@ -136,7 +142,10 @@ def compute(base_dir, out_dir, T=None, fx_col='a3500'):
     d['k'] = np.where(d.usd, d.fx, 1.0)
     d['flujo_ars'] = d.flujo * d.k
     # ---- foto a T por clase
-    last = d[(d.fecha > T - pd.Timedelta(days=7)) & (d.aum > 0)].sort_values('fecha').groupby('clase_id').tail(1)
+    # último patrimonio informado de cada clase en la semana (incluido 0): una clase que pasó a 0 no arrastra su AUM
+    # anterior (en un cambio de clase, p. ej. Lombard Ahorro Plus A -> B el 17/11, el fondo se contaba dos veces 7 días)
+    last = d[(d.fecha > T - pd.Timedelta(days=7)) & d.aum.notna()].sort_values('fecha').groupby('clase_id').tail(1)
+    last = last[last.aum > 0]
     # clases que se vaciaron dentro del plazo más largo: entran con AUM 0 para que sus rescates cuenten (si no, un
     # cambio de clase dentro de un fondo suma la suscripción de la clase nueva y pierde el rescate de la vieja)
     hmax = base_date(T, 365)
@@ -166,8 +175,16 @@ def compute(base_dir, out_dir, T=None, fx_col='a3500'):
         rows[f'r_{h}'] = r
         rows[f'rars_{h}'] = (1 + r) * np.where(is_usd, fxT[fx_col] / fxb[fx_col], 1.0) - 1
         rows[f'f_{h}'] = d[(d.fecha > b) & (d.fecha <= T)].groupby('clase_id').flujo_ars.sum().reindex(S0.index)
-        ab = d[(d.fecha <= b) & (d.aum > 0)].sort_values('fecha').groupby('clase_id').tail(1).set_index('clase_id').aum.reindex(S0.index)
+        # AUM al inicio del plazo: último patrimonio informado hasta la fecha base (puede ser 0). Si es de más de 10 días antes,
+        # la clase no estaba activa en la base (antes se tomaba el último > 0 sin límite: clases que dejaron de informar
+        # patrimonio hace meses inflaban el AUM inicial, p. ej. IAM Retorno Dólares A)
+        ab = d[(d.fecha <= b) & d.aum.notna()].sort_values('fecha').groupby('clase_id').tail(1).set_index('clase_id')
+        ab = ab.aum.where(ab.fecha >= b - pd.Timedelta(days=10), 0.0).reindex(S0.index)
         rows[f'aum0_{h}'] = ab * np.where(is_usd, fxb[fx_col], 1.0)
+        # vista en dólares: sólo clases USD, en su moneda (sin tipo de cambio)
+        fc = d[(d.fecha > b) & (d.fecha <= T)].groupby('clase_id').flujo.sum().reindex(S0.index)
+        rows[f'fu_{h}'] = fc.where(is_usd)
+        rows[f'aum0u_{h}'] = ab.where(is_usd)
     R = pd.DataFrame(rows, index=S0.index)
     snap = snap.merge(R, left_on='clase_id', right_index=True, how='left')
     # volatilidad 90d anualizada y rend/vol (como 1816)
@@ -191,7 +208,17 @@ def compute(base_dir, out_dir, T=None, fx_col='a3500'):
         for h in HZ:
             x = g[f'rars_{h}']; ok = x.notna() & wts.notna()
             o[f'rend_{h}'] = np.average(x[ok], weights=wts[ok]) if ok.any() else np.nan
+        # vista en dólares (sólo clases USD, sin tipo de cambio): suscripciones, % del AUM inicial y rendimiento en USD
+        u = g[g.moneda == 'USD']; wu = u.aum.where(u.aum > 0)
+        for h in HZ:
+            o[f'susc_usd_{h}_m'] = u[f'fu_{h}'].sum() / 1e6
+            x = u[f'r_{h}']; ok = x.notna() & wu.notna()
+            o[f'rend_usd_{h}'] = np.average(x[ok], weights=wu[ok]) if ok.any() else np.nan
+        for h in ('YTD', '365d'):
+            a0 = np.nansum(u[f'aum0u_{h}'])
+            o[f'susc_usd_{h}_pct_aum'] = u[f'fu_{h}'].sum() / a0 if a0 >= 0.05 * u.aum.sum() and a0 > 0 else np.nan
         o['n_fondos'] = g.fondo_act.nunique(); o['n_clases'] = int((g.aum > 0).sum())
+        o['n_fondos_usd'] = u.fondo_act.nunique()
         o['aum_stale_pct'] = g.loc[g.stale, 'aum_ars'].sum() / g.aum_ars.sum() if g.aum_ars.sum() else np.nan
         return pd.Series(o)
     seg = snap.groupby(['tipo', 'subtipo']).apply(agg).reset_index()
@@ -219,6 +246,8 @@ def compute(base_dir, out_dir, T=None, fx_col='a3500'):
     for h in HZ:                                   # suscripciones y AUM inicial del fondo completo (todas sus clases)
         snap[f'ffondo_{h}'] = snap.groupby('fondo_id')[f'f_{h}'].transform(lambda x: x.sum(min_count=1))
         snap[f'aum0fondo_{h}'] = snap.groupby('fondo_id')[f'aum0_{h}'].transform(lambda x: x.sum(min_count=1))
+        snap[f'ffondo_usd_{h}'] = snap.groupby('fondo_id')[f'fu_{h}'].transform(lambda x: x.sum(min_count=1))
+        snap[f'aum0fondo_usd_{h}'] = snap.groupby('fondo_id')[f'aum0u_{h}'].transform(lambda x: x.sum(min_count=1))
     act = snap.aum > 0
     ref = snap.loc[act & (snap.clase_id == snap.ref_clase)].drop_duplicates('fondo_id').set_index('fondo_id').clase_id
     sin = snap.loc[act & ~snap.fondo_id.isin(ref.index)]  # la clase de referencia no tiene dato a T: regla sobre las activas

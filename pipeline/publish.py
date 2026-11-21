@@ -62,10 +62,13 @@ def publish(base_dir, out, T=None):
     pd.DataFrame(mrows, columns=['clave', 'valor']).to_csv(os.path.join(out, 'meta.csv'), index=False)
     S = r['seg'].copy()
     cols = ['tipo', 'subtipo', 'aum_ars_m', 'aum_usd_m', 'aum_total_m', 'pct_total'] + [f'susc_{h}_m' for h in HZ] + \
-           ['susc_YTD_pct_aum', 'susc_365d_pct_aum'] + [f'rend_{h}' for h in HZ] + ['n_fondos', 'n_clases', 'aum_stale_pct']
+           ['susc_YTD_pct_aum', 'susc_365d_pct_aum'] + [f'rend_{h}' for h in HZ] + ['n_fondos', 'n_clases', 'aum_stale_pct'] + \
+           [f'susc_usd_{h}_m' for h in HZ] + ['susc_usd_YTD_pct_aum', 'susc_usd_365d_pct_aum'] + [f'rend_usd_{h}' for h in HZ] + \
+           ['n_fondos_usd']   # vista en dólares (sólo clases USD, sin tipo de cambio); nuevas al final
     w(S[cols], os.path.join(out, 'segmentos.csv'))
     G = r['ger'].copy()
-    w(G[['gerente', 'tipo_gerente', 'aum_total_m', 'share', 'aum_ars_m', 'aum_usd_m'] + [f'susc_{h}_m' for h in HZ] + ['n_fondos']],
+    w(G[['gerente', 'tipo_gerente', 'aum_total_m', 'share', 'aum_ars_m', 'aum_usd_m'] + [f'susc_{h}_m' for h in HZ] + ['n_fondos'] +
+        [f'susc_usd_{h}_m' for h in HZ]],
       os.path.join(out, 'gerentes.csv'))
     w(r['ger_tipo'].reset_index(), os.path.join(out, 'gerentes_tipo.csv'))
     w(r['ger_sub'].reset_index(), os.path.join(out, 'gerentes_subtipo.csv'))
@@ -84,15 +87,21 @@ def publish(base_dir, out, T=None):
                                                               'fecha_dato', 'origen_segmento'] + \
               [f'susc_{h}_m' for h in HZ] + ['n_clases_fondo', 'ref_origen', 'codigo_cnv'] + \
               [f'aum0_{h}_m' for h in HZ] + [f'susc_{h}_pct' for h in HZ] + \
-              ['aum_clase_usd_m', 'aum_fondo_usd_m']   # nuevas al final: el Sheet ubica por nombre
+              ['aum_clase_usd_m', 'aum_fondo_usd_m'] + \
+              [f'susc_usd_{h}_m' for h in HZ] + [f'aum0_usd_{h}_m' for h in HZ] + [f'susc_usd_{h}_pct' for h in HZ]   # nuevas al final
     for h in HZ:
         RK[f'susc_{h}_m'] = RK[f'ffondo_{h}'] / 1e6   # suscripciones netas del fondo (todas las clases)
         RK[f'aum0_{h}_m'] = RK[f'aum0fondo_{h}'] / 1e6  # AUM del fondo en la fecha base del plazo (ARS al tipo de cambio de esa fecha)
         a0 = RK[f'aum0fondo_{h}']
         RK[f'susc_{h}_pct'] = (RK[f'ffondo_{h}'] / a0).where(a0 >= 1e6)   # sin AUM inicial relevante (fondo nuevo): vacío
+        # vista en dólares: clases USD del fondo, en USD (sin tipo de cambio)
+        RK[f'susc_usd_{h}_m'] = RK[f'ffondo_usd_{h}'] / 1e6
+        RK[f'aum0_usd_{h}_m'] = RK[f'aum0fondo_usd_{h}'] / 1e6
+        RK[f'susc_usd_{h}_pct'] = (RK[f'ffondo_usd_{h}'] / RK[f'aum0fondo_usd_{h}']).where(RK[f'aum0fondo_usd_{h}'] >= 1e4)
     RK = RK.sort_values(['subtipo', 'aum_clase_m'], ascending=[True, False])[rk_cols]
     rnd = {'aum_clase_m': 2, 'aum_fondo_m': 2, 'aum_clase_usd_m': 4, 'aum_fondo_usd_m': 4, 'vol_90d': 6, 'rend_vol': 4, 'hon_gd': 4, 'hon_gerente': 4, 'hon_depositaria': 4}
     rnd.update({f'r_{h}': 8 for h in HZ}); rnd.update({f'susc_{h}_m': 2 for h in HZ}); rnd.update({f'aum0_{h}_m': 2 for h in HZ}); rnd.update({f'susc_{h}_pct': 6 for h in HZ})
+    rnd.update({f'susc_usd_{h}_m': 4 for h in HZ}); rnd.update({f'aum0_usd_{h}_m': 4 for h in HZ}); rnd.update({f'susc_usd_{h}_pct': 6 for h in HZ})
     RK = RK.round(rnd)
     for h in HZ:
         RK[f'pos_{h}'] = RK[f'pos_{h}'].astype('Int64')
