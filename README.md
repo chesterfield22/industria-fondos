@@ -46,6 +46,8 @@ SELECT * FROM read_parquet('https://raw.githubusercontent.com/chesterfield22/ind
 WHERE clase_id = '3697' ORDER BY fecha DESC LIMIT 10;
 ```
 
+**Vista en dólares** (sólo clases USD, en su moneda, sin tipo de cambio): `segmentos.csv` (`susc_usd_*_m`, `susc_usd_YTD/365d_pct_aum`, `rend_usd_*`, `n_fondos_usd`), `gerentes_segmento.csv` / `gerentes_iol*.csv` (`susc_usd_*_m`, `aum0_usd_*_m`, `susc_usd_*_pct`), `ranking.csv` (ídem por fondo) y `gerentes.csv` (`susc_usd_*_m`). En el Sheet se elige con el selector "Moneda" de cada hoja.
+
 Fuentes:
 - **Fondos (principal):** planilla diaria de cuotapartes descargada directo de la CNV (`pipeline/cnv.py`): últimas 10 fechas, la versión más reciente de cada una. La CNV recibe la planilla del día D ~20:20 (incompleta) y la revisada el día hábil siguiente entre las 13 y las 16; las corridas de 15:30, 17:00 y 18:30 ART la toman el mismo día. `meta.csv` informa `fuente_fondos`, `cnv_ultima_planilla` y `cnv_recibida`.
 - **Fondos (historia y respaldo):** [ArgentinaDatos](https://github.com/enzonotario/esjs-argentina-datos-api) (réplica de la misma planilla desde 2020). Si la CNV falla, la corrida sigue sólo con ArgentinaDatos; si ArgentinaDatos falla, usa la base publicada anterior en la rama `data` más la CNV.
