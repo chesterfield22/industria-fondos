@@ -73,6 +73,12 @@ def listar():
     return d.sort_values(['fecha', 'recibido']).groupby('fecha').tail(1).sort_values('fecha').reset_index(drop=True)
 
 
+def firma(docs):
+    """Identifica qué presentaciones se procesaron (fecha:id de la versión usada). Si la CNV no publicó nada nuevo, la
+    firma del listado coincide con la de la última corrida publicada y no hace falta volver a procesar."""
+    return ';'.join(f'{f.date()}:{i}' for f, i in zip(docs.fecha, docs.doc_id))
+
+
 def bajar_excel(url):
     p = _get(url).decode('utf-8', 'ignore')
     m = re.search(r'"nombreArchivo"\s*:\s*"([^"]+\.xlsx)"[\s\S]*?"guid"\s*:\s*"([0-9a-f-]{36})"', p, re.I)
@@ -173,7 +179,7 @@ def descargar(dias=10, min_clases=1500):
         filas = allf.drop_duplicates(['clase_id', 'fecha'], keep='last')[['fecha', 'clase_id', 'vcp', 'aum']]
         meta = allf.drop_duplicates('clase_id', keep='last').drop(columns=['fecha', 'vcp', 'aum', 'cuotapartes', '_orden'])
         last = docs.iloc[-1]
-        info.update(ok=True, planillas=len(docs), ultima_fecha=str(last.fecha.date()),
+        info.update(ok=True, planillas=len(docs), ultima_fecha=str(last.fecha.date()), firma=firma(docs),
                     recibida=str(last.recibido) if last.recibido is not None else None)
         return filas.reset_index(drop=True), meta.reset_index(drop=True), info
     except Exception as e:

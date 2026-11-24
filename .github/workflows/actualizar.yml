@@ -12,6 +12,11 @@ on:
     - cron: '30 1 * * 2-6'   # 22:30 ART: primera versión del día (corte preliminar)
     - cron: '45 2 * * 2-6'   # 23:45 ART: por si la primera versión llega tarde (p. ej. 22:46 el 12/11)
     - cron: '0 13 * * 1-5'   # 10:00 ART
+    - cron: '30 14 * * 1-5'  # 11:30 ART
+    - cron: '30 16 * * 1-5'  # 13:30 ART
+    - cron: '30 19 * * 1-5'  # 16:30 ART
+    # Cada corrida programada consulta primero el listado de la CNV (pipeline/chequear.py): si no hay presentaciones
+    # nuevas desde la última publicación del día, termina en ~1 minuto sin descargar ni publicar (feriados incluidos).
   workflow_dispatch:
     inputs:
       fecha_corte:
@@ -44,8 +49,19 @@ jobs:
       - name: Dependencias
         run: pip install -r requirements.txt
 
+      - name: Corrida anterior publicada (respaldo si ArgentinaDatos no está; control para no publicar datos peores)
+        continue-on-error: true
+        run: |
+          git clone -q --depth 1 --filter=blob:none --no-checkout -b data "https://github.com/${{ github.repository }}" prevdata
+          cd prevdata && git sparse-checkout set --no-cone /meta.csv /base/ && git checkout -q data
+
+      - name: Control previo (si la CNV no publicó nada nuevo, no se descarga ni se publica)
+        id: chk
+        run: python pipeline/chequear.py prevdata
+
       - name: "Descargar históricos (ArgentinaDatos: respaldo e historia)"
         id: ad
+        if: steps.chk.outputs.run == 'si'
         continue-on-error: true
         timeout-minutes: 15
         run: |
@@ -55,20 +71,15 @@ jobs:
           git sparse-checkout set datos/v1/finanzas/fci/fondos datos/v1/cotizaciones/dolares/bolsa datos/v1/cotizaciones/dolares/contadoconliqui datos/v1/cotizaciones/dolares/mayorista
           git checkout main
 
-      - name: Corrida anterior publicada (respaldo si ArgentinaDatos no está; control para no publicar datos peores)
-        continue-on-error: true
-        run: |
-          git clone -q --depth 1 --filter=blob:none --no-checkout -b data "https://github.com/${{ github.repository }}" prevdata
-          cd prevdata && git sparse-checkout set --no-cone /meta.csv /base/ && git checkout -q data
-
       - name: Pipeline (CNV fuente principal)
+        if: steps.chk.outputs.run == 'si'
         env:
           PREV_BASE: prevdata/base
           PREV_META: prevdata/meta.csv
         run: python pipeline/run.py ad/datos/v1 base salida ${{ github.event.inputs.fecha_corte }}
 
       - name: Salida de prueba en rama prueba (corridas con publicar = no; no toca la rama data)
-        if: github.event.inputs.publicar == 'no'
+        if: steps.chk.outputs.run == 'si' && github.event.inputs.publicar == 'no'
         run: |
           mkdir -p salida/base && cp base/maestro.parquet salida/base/
           cd salida
@@ -80,7 +91,7 @@ jobs:
           git push -q --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" prueba
 
       - name: Publicar en rama data (sin historial, se reemplaza en cada corrida)
-        if: github.event.inputs.publicar != 'no'
+        if: steps.chk.outputs.run == 'si' && github.event.inputs.publicar != 'no'
         run: |
           if [ -f salida/NO_PUBLICAR ]; then echo "No se publica: $(cat salida/NO_PUBLICAR)"; exit 0; fi
           mkdir -p salida/base && cp base/*.parquet base/fx.csv base/cnv_info.json salida/base/
