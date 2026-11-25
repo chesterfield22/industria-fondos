@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>IOL Dólar Ahorro Plus — CAFCI</title>
+    
+
+      <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-R2L6MDMM8J"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'G-R2L6MDMM8J', { send_page_view: false });
+
+    document.addEventListener("turbo:load", function () {
+      if (typeof gtag === "function") {
+        gtag("event", "page_view", {
+          page_title: document.title,
+          page_path: window.location.pathname + window.location.search,
+          page_location: window.location.href
+        });
+      }
+    });
+  </script>
+
+
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <!-- Estilos legacy del sitio www.cafci.org.ar -->
+    <link rel="stylesheet" href="/assets/legacy/general-41f7ad8a.css" media="all" />
+    <link rel="stylesheet" href="/assets/legacy/style-628fb1de.css" media="screen" />
+    <link rel="stylesheet" href="/assets/legacy/datePicker-441c4897.css" media="all" />
+    <link rel="stylesheet" href="/assets/legacy/shadowbox-9bb702d6.css" media="all" />
+    <!-- Font Awesome — usado para íconos en botones (Imprimir, Descargar, spinners, etc.) -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
+    <!-- Overrides v1 (reemplaza lógica Angular del nav por CSS puro, etc.) -->
+    <link rel="stylesheet" href="/assets/v1_overrides-971b2438.css" media="all" />
+
+    <script type="importmap" data-turbo-track="reload">{
+  "imports": {
+    "application": "/assets/application-b26308f8.js",
+    "application_v2": "/assets/application_v2-8314ce52.js",
+    "@hotwired/turbo-rails": "/assets/turbo.min-9fd88cd5.js",
+    "@hotwired/stimulus": "/assets/stimulus.min-4b1e420e.js",
+    "@hotwired/stimulus-loading": "/assets/stimulus-loading-1fc53fe7.js",
+    "chart.js": "https://esm.sh/chart.js@4.4.9/auto",
+    "chart.js/auto": "https://esm.sh/chart.js@4.4.9/auto",
+    "controllers/application": "/assets/controllers/application-3affb389.js",
+    "controllers/hello_controller": "/assets/controllers/hello_controller-708796bd.js",
+    "controllers/v1/bar_chart_controller": "/assets/controllers/v1/bar_chart_controller-64213fe4.js",
+    "controllers/v1/comparador_paso2_controller": "/assets/controllers/v1/comparador_paso2_controller-dc70c931.js",
+    "controllers/v1/consulta_avanzada_controller": "/assets/controllers/v1/consulta_avanzada_controller-3dbe9aaa.js",
+    "controllers/v1/consulta_fondos_controller": "/assets/controllers/v1/consulta_fondos_controller-b0054881.js",
+    "controllers/v1/fondo_picker_controller": "/assets/controllers/v1/fondo_picker_controller-198adb76.js",
+    "controllers/v1/line_chart_controller": "/assets/controllers/v1/line_chart_controller-039a6ec5.js",
+    "controllers/v1/pie_chart_controller": "/assets/controllers/v1/pie_chart_controller-5d46bf5d.js",
+    "controllers/v1/sociedad_picker_controller": "/assets/controllers/v1/sociedad_picker_controller-ed9e453f.js",
+    "controllers/v1/stacked_bar_chart_controller": "/assets/controllers/v1/stacked_bar_chart_controller-22a92182.js",
+    "controllers/v1_index": "/assets/controllers/v1_index-7e4c1cd3.js",
+    "controllers/v2/bar_chart_controller": "/assets/controllers/v2/bar_chart_controller-690b445a.js",
+    "controllers/v2/comparador_controller": "/assets/controllers/v2/comparador_controller-c10fbb84.js",
+    "controllers/v2/estadisticas_controller": "/assets/controllers/v2/estadisticas_controller-17447981.js",
+    "controllers/v2/fondos_filtros_controller": "/assets/controllers/v2/fondos_filtros_controller-870aac74.js",
+    "controllers/v2/glosario_controller": "/assets/controllers/v2/glosario_controller-502b5298.js",
+    "controllers/v2/line_chart_controller": "/assets/controllers/v2/line_chart_controller-00551a0b.js",
+    "controllers/v2/marco_legal_controller": "/assets/controllers/v2/marco_legal_controller-090ddd80.js",
+    "controllers/v2/micrositio_nav_controller": "/assets/controllers/v2/micrositio_nav_controller-a907a614.js",
+    "controllers/v2/mobile_nav_controller": "/assets/controllers/v2/mobile_nav_controller-be4b9397.js",
+    "controllers/v2/newsletter_controller": "/assets/controllers/v2/newsletter_controller-6098ab84.js",
+    "controllers/v2/pie_chart_controller": "/assets/controllers/v2/pie_chart_controller-c3da2cd4.js",
+    "controllers/v2/ranking_controller": "/assets/controllers/v2/ranking_controller-8327bd88.js",
+    "controllers/v2/ranking_md_controller": "/assets/controllers/v2/ranking_md_controller-51786712.js",
+    "controllers/v2/vcp_chart_controller": "/assets/controllers/v2/vcp_chart_controller-061b7f72.js",
+    "controllers/v2_index": "/assets/controllers/v2_index-7e6471f0.js"
+  }
+}</script>
+<link rel="modulepreload" href="/assets/application-b26308f8.js">
+<link rel="modulepreload" href="/assets/application_v2-8314ce52.js">
+<link rel="modulepreload" href="/assets/turbo.min-9fd88cd5.js">
+<link rel="modulepreload" href="/assets/stimulus.min-4b1e420e.js">
+<link rel="modulepreload" href="/assets/stimulus-loading-1fc53fe7.js">
+<link rel="modulepreload" href="https://esm.sh/chart.js@4.4.9/auto">
+<link rel="modulepreload" href="/assets/controllers/application-3affb389.js">
+<link rel="modulepreload" href="/assets/controllers/hello_controller-708796bd.js">
+<link rel="modulepreload" href="/assets/controllers/v1/bar_chart_controller-64213fe4.js">
+<link rel="modulepreload" href="/assets/controllers/v1/comparador_paso2_controller-dc70c931.js">
+<link rel="modulepreload" href="/assets/controllers/v1/consulta_avanzada_controller-3dbe9aaa.js">
+<link rel="modulepreload" href="/assets/controllers/v1/consulta_fondos_controller-b0054881.js">
+<link rel="modulepreload" href="/assets/controllers/v1/fondo_picker_controller-198adb76.js">
+<link rel="modulepreload" href="/assets/controllers/v1/line_chart_controller-039a6ec5.js">
+<link rel="modulepreload" href="/assets/controllers/v1/pie_chart_controller-5d46bf5d.js">
+<link rel="modulepreload" href="/assets/controllers/v1/sociedad_picker_controller-ed9e453f.js">
+<link rel="modulepreload" href="/assets/controllers/v1/stacked_bar_chart_controller-22a92182.js">
+<link rel="modulepreload" href="/assets/controllers/v1_index-7e4c1cd3.js">
+<link rel="modulepreload" href="/assets/controllers/v2/bar_chart_controller-690b445a.js">
+<link rel="modulepreload" href="/assets/controllers/v2/comparador_controller-c10fbb84.js">
+<link rel="modulepreload" href="/assets/controllers/v2/estadisticas_controller-17447981.js">
+<link rel="modulepreload" href="/assets/controllers/v2/fondos_filtros_controller-870aac74.js">
+<link rel="modulepreload" href="/assets/controllers/v2/glosario_controller-502b5298.js">
+<link rel="modulepreload" href="/assets/controllers/v2/line_chart_controller-00551a0b.js">
+<link rel="modulepreload" href="/assets/controllers/v2/marco_legal_controller-090ddd80.js">
+<link rel="modulepreload" href="/assets/controllers/v2/micrositio_nav_controller-a907a614.js">
+<link rel="modulepreload" href="/assets/controllers/v2/mobile_nav_controller-be4b9397.js">
+<link rel="modulepreload" href="/assets/controllers/v2/newsletter_controller-6098ab84.js">
+<link rel="modulepreload" href="/assets/controllers/v2/pie_chart_controller-c3da2cd4.js">
+<link rel="modulepreload" href="/assets/controllers/v2/ranking_controller-8327bd88.js">
+<link rel="modulepreload" href="/assets/controllers/v2/ranking_md_controller-51786712.js">
+<link rel="modulepreload" href="/assets/controllers/v2/vcp_chart_controller-061b7f72.js">
+<link rel="modulepreload" href="/assets/controllers/v2_index-7e6471f0.js">
+<script type="module">import "application"</script>
+  </head>
+
+  <body>
+    <div id="shadow">
+      <div id="cafciLogo">
+        <img src="/assets/legacy/logoPrint-551bb073.jpg" width="104" height="100">
+        <div class="clear"></div>
+      </div>
+      <div id="content">
+        <div id="topNav">
+  <ul>
+    <li><a href="https://www.cafci.org.ar/index.html" class="linkHome">Home</a></li>
+
+    <li class="hasDropdown">
+      <a href="https://www.cafci.org.ar/aprenda-sobre-fondos.html" class="aprendaColortxt">Aprenda sobre Fondos</a>
+      <div id="linksAprenda" class="linksNav">
+        <ul>
+          <li><a href="https://www.cafci.org.ar/aprenda-sobre-fondos.html">¿Qué es un Fondo Común de Inversión?</a></li>
+          <li><a href="https://www.cafci.org.ar/conceptos-basicos.html">Conceptos Básicos</a></li>
+          <li><a href="https://www.cafci.org.ar/glosario.html">Glosario</a></li>
+        </ul>
+      </div>
+    </li>
+
+    <li class="hasDropdown">
+      <span class="encuentreColortxt" style="cursor:default;">Encuentre su Fondo</span>
+      <div id="linksEncuentre" class="linksNav">
+        <ul>
+          <li><a href="/consulta-de-fondos">Consulta de Fondos</a></li>
+          <li><a href="/comparador-de-fondos">Comparador de Fondos</a></li>
+          <li><a href="/estadisticas">Estadísticas</a></li>
+          <li><a target="_blank" rel="noopener" href="/v2/fondos-mercado-de-dinero">Fondos Money Market -<br>Comparador RG1121</a></li>
+        </ul>
+      </div>
+    </li>
+
+    <li class="hasDropdown">
+      <a href="https://www.cafci.org.ar/asociadas.html" class="cafciColortxt">Acerca de la CAFCI</a>
+      <div id="linksCafci" class="linksNav">
+        <ul>
+          <li><a href="/asociadas">Asociadas</a></li>
+          <li><a href="https://www.cafci.org.ar/mision-y-objetivos.html">Misión y Objetivos</a></li>
+          <li><a href="https://www.cafci.org.ar/estatuto-social.html">Estatuto Social</a></li>
+          <li><a href="https://www.cafci.org.ar/reglamento-interno.html">Reglamento Interno</a></li>
+          <li><a href="https://www.cafci.org.ar/comision-directiva.html">Comisión Directiva</a></li>
+        </ul>
+        <ul>
+          <li><a href="https://www.cafci.org.ar/estructura-administrativa.html">Estructura Administrativa</a></li>
+          <li><a href="https://www.cafci.org.ar/memorias-anuales.html">Memorias</a></li>
+          <li><a href="https://www.cafci.org.ar/marco-legal.html">Marco Legal</a></li>
+          <li><a href="https://www.cafci.org.ar/capacitacion.html">Capacitación</a></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+  <div id="clearDiv" class="clearDiv"></div>
+</div>
+
+        <div id="centralContent">
+          
+<div id="colLeftHome">
+  <div class="imgLogo">
+    <a href="https://www.cafci.org.ar/index.html">
+      <img src="/assets/legacy/logoCafci-4280a195.gif" alt="CAFCI" width="182" height="175" border="0">
+    </a>
+  </div>
+  <div id="bannerAprenda" class="banners">
+    <p><span class="destacado">Aprenda</span> sobre Fondos</p>
+    <p><a href="https://www.cafci.org.ar/aprenda-sobre-fondos.html" class="linkVermas">Ingresar</a></p>
+  </div>
+  <div id="bannerBusque" class="banners">
+    <p><span class="destacado">Busque y encuentre</span> el tipo de Fondo que mejor se adapta a sus necesidades</p>
+    <p><a class="linkVermas" href="/consulta-de-fondos">Ingresar</a></p>
+  </div>
+  <div class="banners">
+    <p><span class="destacado">Consulte</span> la información estadística de todos los Fondos</p>
+    <p><a class="linkVermas" href="/estadisticas">Ingresar</a></p>
+  </div>
+  <div class="banners">
+    <p><span class="destacado">Descarga</span> de la última planilla diaria</p>
+    <p><a href="https://api.pub.cafci.org.ar/pb_get" class="linkVermas">Descargar</a></p>
+  </div>
+  <div><p>.</p></div>
+  <div class="contenedorBotonesSalientes">
+    <div id="idoneosBox"><a href="https://www.cnv.gov.ar/SitioWeb/RegistrosPublicos/Idoneos" target="_blank">Registro de Idóneos</a></div>
+  </div>
+  <div class="contenedorBotonesSalientes">
+    <div id="idoneosBox"><a href="https://www.cafci.org.ar/capacitacion.html">Capacitación</a></div>
+  </div>
+  <div class="contenedorBotonesSalientes">
+    <div id="novedadesBox"><a href="https://www.cafci.org.ar/prensa.html">Prensa</a></div>
+  </div>
+  <div><p>.</p></div>
+  <div class="contenedorBotonesSalientesContactenos">
+    <div id="contactoBox"><a href="https://www.cafci.org.ar/informacionEstadistica.html">Informes Estadisticos</a></div>
+  </div>
+</div>
+
+<div id="rightContent">
+  <div class="clear"></div>
+  <div id="pageSection">
+    <div id="rightContent">
+      <div id="titlePage">
+        <p class="encuentreColortxt">
+          IOL Dólar Ahorro Plus - Clase D<br>
+          información al 24/11/2026
+        </p>
+      </div>
+
+      <div id="fichaTopNav">
+        <div id="tool" class="fichatop">
+          <a href="#" onclick="window.print(); return false;" class="imprimir">Imprimir/PDF</a>
+        </div>
+        <div id="btVolverBuscar">
+          <a href="/consulta-de-fondos">Nueva búsqueda</a>
+        </div>
+        <div class="clear"></div>
+      </div>
+
+        <div id="claseSelector" style="margin:10px 0;">
+          <form method="get" action="/fondos/1570">
+            <label>Clase:
+              <select name="clase" onchange="this.form.submit()">
+                  <option value="5099" >
+                    IOL Dólar Ahorro Plus - Clase C
+                  </option>
+                  <option value="5100" selected>
+                    IOL Dólar Ahorro Plus - Clase D
+                  </option>
+                  <option value="5101" >
+                    IOL Dólar Ahorro Plus - Clase E
+                  </option>
+                  <option value="5102" >
+                    IOL Dólar Ahorro Plus - Clase F
+                  </option>
+                  <option value="5103" >
+                    IOL Dólar Ahorro Plus - Clase Ley N° 27.743
+                  </option>
+              </select>
+            </label>
+          </form>
+        </div>
+
+      <div id="fichaLeft">
+        <div id="consulta" class="divContent">
+          <h3>
+            Rendimiento Histórico (Directo)
+              <span style="font-weight:normal; font-size:12px; color:rgba(255,255,255,0.85); margin-left:6px;">
+                — al 24/11/2026
+              </span>
+          </h3>
+          <table border="0" cellspacing="0" cellpadding="0" class="tablaRendimientos">
+            <tr class="titleTable">
+              <td>Período</td>
+              <td>IOL Dólar Ahorro Plus - Clase D</td>
+            </tr>
+            <tr>
+              <td class="flechaTabla">Valor Cuotaparte</td>
+              <td>
+                1.078,735
+              </td>
+            </tr>
+              <tr>
+                <td class="flechaTabla">7 días</td>
+                <td>-1,3668 %</td>
+              </tr>
+              <tr>
+                <td class="flechaTabla">1 mes</td>
+                <td>-1,7316 %</td>
+              </tr>
+              <tr>
+                <td class="flechaTabla">90 días</td>
+                <td>-1,1225 %</td>
+              </tr>
+              <tr>
+                <td class="flechaTabla">180 días</td>
+                <td>0,2293 %</td>
+              </tr>
+              <tr>
+                <td class="flechaTabla">En el año</td>
+                <td>2,5593 %</td>
+              </tr>
+              <tr>
+                <td class="flechaTabla">12 meses</td>
+                <td>3,8921 %</td>
+              </tr>
+          </table>
+          <p style="font-size:11px; color:#666; margin-top:6px;">
+              Rendimiento directo entre fechas (variación porcentual sin anualizar). Datos
+              calculados según matriz de rendimientos diaria del micrositio.
+          </p>
+        </div>
+
+        <div id="cuotaparte" class="divContent">
+          <h3>Valores al 24/11/2026</h3>
+          <p>Patrimonio bajo administración: 275.316.042,66</p>
+          <p>Valor por cada cuotaparte: 1,078735</p>
+          <p>(Valor por mil: 1.078,735)</p>
+          <p>Rendimientos pasados no garantizan rendimientos futuros</p>
+        </div>
+
+        <div id="cartera" class="divContent">
+          <h2 id="title-composicion-cartera">Composición de Cartera</h2>
+          <div class="valores">Valores al 30/10/2026</div>
+          <div class="clear"></div>
+            <div id="pie-chart" style="position:relative; height:320px;">
+              <canvas data-controller="pie-chart"
+                      data-pie-chart-items-value="[{&quot;nombre&quot;:&quot;Bono del Tesoro Nacional AO27&quot;,&quot;porcentaje&quot;:22.3},{&quot;nombre&quot;:&quot;Bono Bopreal 2027 Serie 1 Clase D BPOD7&quot;,&quot;porcentaje&quot;:10.7},{&quot;nombre&quot;:&quot;Bono Bopreal 2027 Serie 1 Clase C BPOC7&quot;,&quot;porcentaje&quot;:6.4},{&quot;nombre&quot;:&quot;ON Banco Macro Clase G&quot;,&quot;porcentaje&quot;:6.1},{&quot;nombre&quot;:&quot;ON Tecpetrol C12&quot;,&quot;porcentaje&quot;:4.7},{&quot;nombre&quot;:&quot;ON ICBC Clase 6 220527&quot;,&quot;porcentaje&quot;:4.2},{&quot;nombre&quot;:&quot;Bono del Tesoro Nacional AO28&quot;,&quot;porcentaje&quot;:3.3},{&quot;nombre&quot;:&quot;ON Banco Mariva S3 060727&quot;,&quot;porcentaje&quot;:2.8},{&quot;nombre&quot;:&quot;ON Supervielle Clase X&quot;,&quot;porcentaje&quot;:2.7},{&quot;nombre&quot;:&quot;ON BBVA Frances Cl 44&quot;,&quot;porcentaje&quot;:2.7},{&quot;nombre&quot;:&quot;ON BBVA Frances Cl 49&quot;,&quot;porcentaje&quot;:2.2},{&quot;nombre&quot;:&quot;ON Pampa Energia C23 (RegS)&quot;,&quot;porcentaje&quot;:2.2},{&quot;nombre&quot;:&quot;Bono Prov Santa Fe 8.1% 111234&quot;,&quot;porcentaje&quot;:2.2},{&quot;nombre&quot;:&quot;Resto de Activos&quot;,&quot;porcentaje&quot;:27.2}]"></canvas>
+            </div>
+            <div class="composicion">
+              <p class="floatLeft">Composición de cartera por activo</p>
+              <div class="clear"></div>
+            </div>
+        </div>
+
+
+        <div id="honorarios" class="divContent">
+          <h4>Honorarios y Comisiones</h4>
+          <table border="0" cellspacing="0" cellpadding="0" class="tablaDatos">
+            <tr class="titleTable">
+              <td>Honorarios de la gerente</td>
+              <td>Honorarios de la depositaria</td>
+            </tr>
+            <tr>
+              <td>1.02</td>
+              <td>0.121</td>
+            </tr>
+          </table>
+          <p>&nbsp;</p>
+          <table border="0" cellspacing="0" cellpadding="0" class="tablaDatos">
+            <tr class="titleTable">
+              <td>Comisión de ingreso</td>
+              <td>Comisión de egreso</td>
+              <td>Comisión de transferencia</td>
+            </tr>
+            <tr>
+              <td>0.0</td>
+              <td>0.0</td>
+              <td>0.0</td>
+            </tr>
+          </table>
+          <p>&nbsp;</p>
+          <table border="0" cellspacing="0" cellpadding="0" class="tablaDatos">
+            <tr class="titleTable">
+              <td>Gastos ordinarios de gestión</td>
+              <td>Comisión de éxito</td>
+              <td>Otros</td>
+            </tr>
+            <tr>
+              <td>0.02</td>
+              <td>—</td>
+              <td>—</td>
+            </tr>
+          </table>
+        </div>
+
+        <div id="tool">
+          <a href="#" onclick="window.print(); return false;" class="imprimir">Imprimir/PDF</a>
+          <div class="clear"></div>
+        </div>
+      </div>
+
+      <div id="fichaRight">
+        <div class="cajaBorde">
+          <h3>Datos del Fondo</h3>
+          <ul>
+            <li><span class="label">Administradora:</span> Adcap Asset Management S.G.F.C.I.S.A.</li>
+            <li><span class="label">Depositaria:</span>    Banco Comafi S.A.</li>
+            <li><span class="label">Tipo de Renta:</span>  Renta Fija</li>
+              <li><span class="label">Tipo de DD:</span>   No Aplica</li>
+            <li><span class="label">Región:</span>         Argentina</li>
+            <li><span class="label">Benchmark:</span>      No Registrado</li>
+              <li><span class="label">Horizonte:</span>    Corto Plazo</li>
+              <li><span class="label">Duration:</span>     Menor o Igual a 1 Año</li>
+            <li><span class="label">Moneda:</span>         Dolar Estadounidense</li>
+            <li><span class="label">Código CNV:</span>     1516</li>
+          </ul>
+        </div>
+
+        <div class="cajaBorde" style="border-top:none">
+          <h3>Inversión mínima</h3>
+          <p class="destacado">
+            0,00 Dolar Estadounidense
+          </p>
+        </div>
+
+        <div class="cajaBorde" style="border-top:none">
+          <h3>Plazo de Liquidación</h3>
+          <p class="destacado">
+            1 día
+          </p>
+        </div>
+
+          <div class="sociedades">
+            <h3>Sociedad Gerente:</h3>
+              <div class="logo"><img src="/assets/legacy/logos/00381G-eab8ed2f.jpg" alt="Adcap Asset Management S.G.F.C.I.S.A." style="max-width:157px; max-height:72px;"></div>
+            <span>Adcap Asset Management S.G.F.C.I.S.A.</span>
+          </div>
+
+          <div class="sociedades">
+            <h3>Sociedad Depositaria:</h3>
+              <div class="logo"><img src="/assets/legacy/logos/00115-2f3a5b01.jpg" alt="Banco Comafi S.A." style="max-width:157px; max-height:72px;"></div>
+            <span>Banco Comafi S.A.</span>
+          </div>
+      </div>
+
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>
+<div class="clear"></div>
+
+          <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+        <div id="footer">
+  <div id="navAprenda" class="footerBox">
+    <h4>Aprenda sobre Fondos</h4>
+    <ul>
+      <li><a href="https://www.cafci.org.ar/aprenda-sobre-fondos.html">¿Qué es un Fondo Común de Inversión?</a></li>
+      <li><a href="https://www.cafci.org.ar/conceptos-basicos.html">Conceptos Básicos</a></li>
+      <li><a href="https://www.cafci.org.ar/glosario.html">Glosario</a></li>
+    </ul>
+  </div>
+  <div id="navEncuentre" class="footerBox">
+    <h4>Encuentre su Fondo</h4>
+    <ul>
+      <li><a href="/consulta-de-fondos">Consulta de Fondos</a></li>
+      <li><a href="/comparador-de-fondos">Comparador de Fondos</a></li>
+      <li><a href="/estadisticas">Estadísticas</a></li>
+      <li><a target="_blank" rel="noopener" href="/v2/fondos-mercado-de-dinero">Fondos Money Market -<br>Comparador RG1121</a></li>
+    </ul>
+  </div>
+  <div id="navCafci" class="footerBox">
+    <h4>Acerca de la CAFCI </h4>
+    <ul class="floatLeft">
+      <li><a href="https://www.cafci.org.ar/asociadas.html">Asociadas</a></li>
+      <li><a href="https://www.cafci.org.ar/mision-y-objetivos.html">Misión y Objetivos</a></li>
+      <li><a href="https://www.cafci.org.ar/estatuto-social.html">Estatuto Social</a></li>
+      <li><a href="https://www.cafci.org.ar/reglamento-interno.html">Reglamento Interno</a></li>
+      <li><a href="https://www.cafci.org.ar/comision-directiva.html">Comisión Directiva</a></li>
+    </ul>
+    <ul class="floatLeft">
+      <li><a href="https://www.cafci.org.ar/estructura-administrativa.html">Estructura Administrativa</a></li>
+      <li><a href="https://www.cafci.org.ar/memorias-anuales.html">Memorias</a></li>
+      <li><a href="https://www.cafci.org.ar/marco-legal.html">Marco Legal</a></li>
+      <li><a href="https://www.cafci.org.ar/capacitacion.html">Capacitación</a></li>
+    </ul>
+  </div>
+  <div class="clear"></div>
+  <div id="legal">
+    <div id="footerTxt"></div>
+    <ul>
+      <li><a href="https://www.cafci.org.ar/area-privada.html"><img src="/assets/legacy/icoAreaPrivada-77580e12.gif" width="19" height="25" border="0" align="absbottom"> Área privada</a></li>
+      <li><a href="https://www.cafci.org.ar/contacto.html"><img src="/assets/legacy/icoContacto-d0dc71af.gif" width="24" height="22" border="0" align="absbottom"> Contacto</a></li>
+      <li><a href="https://www.cafci.org.ar/mapa-del-sitio.html"><img src="/assets/legacy/icoMapa-c7c9a168.gif" width="24" height="23" border="0" align="absbottom"> Mapa del sitio </a></li>
+      <li><a href="https://www.cafci.org.ar/responsabilidades.html"><img src="/assets/legacy/icoResponsabilidades-8bfe3d34.gif" width="24" height="23" border="0" align="absbottom">Responsabilidades</a></li>
+    </ul>
+  </div>
+</div>
+
+      </div>
+    </div>
+  </body>
+</html>

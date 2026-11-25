@@ -1,0 +1,1399 @@
+<!DOCTYPE html>
+<html lang="es">
+
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+    <meta http-equiv="content-type" content="application/vnd.ms-excel; charset=UTF-32">
+    <link rel="apple-touch-icon" sizes="60x60" href="/SitioWeb/Content/assets/images/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/SitioWeb/Content/assets/images/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/SitioWeb/Content/assets/images/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/SitioWeb/Content/assets/images/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/SitioWeb/Content/assets/images/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/SitioWeb/Content/assets/images/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/SitioWeb/Content/assets/images/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/SitioWeb/Content/assets/images/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/SitioWeb/Content/assets/images/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/SitioWeb/Content/assets/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/SitioWeb/Content/assets/images/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/SitioWeb/Content/assets/images/favicon-16x16.png">
+    <link rel="icon" href="https://www.cnv.gov.ar/favicon.ico?v= 639311616000000000" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="manifest" href="/SitioWeb/Content/assets/images/manifest.json">
+
+    
+
+    <title>CNV</title>
+    <!-- Bootstrap Core CSS -->
+    <link type="text/css" href="/SitioWeb/Content/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link type="text/css" href="/SitioWeb/Content/assets/css/NewColorsSiteWeb.css" rel="stylesheet">
+
+    <!-- OTHERS CSS -->
+    
+    <link type="text/css" href="/SitioWeb/Content/assets/css/animate.min.css" rel="stylesheet" />
+    <link type="text/css" href="/SitioWeb/Content/assets/css/normalize.css" rel="stylesheet" />
+    <link href="/SitioWeb/Content/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="/SitioWeb/Content/assets/js/fancybox/css/jquery.fancybox.min.css" />
+    <link rel="stylesheet" type="text/css" href="/SitioWeb/Content/assets/js/DataTables/datatables.min.css" />
+    <link rel="stylesheet" type="text/css" href="/SitioWeb/Content/assets/css/spin.css" />
+    <!-- Custom CSS -->
+
+    <link type="text/css" href="/SitioWeb/Content/assets/css/style.css?v=70e965b3-92d1-4629-8c40-6f98804b7341" rel="stylesheet">
+    <link type="text/css" href="/SitioWeb/Content/assets/css/institucional.css" rel="stylesheet">
+
+
+    <!--Iconos-->
+    <link href="/SitioWeb/wwwroot/lib/fontawesome/css/fontawesome.min.css" rel="stylesheet" />
+    <link href="/SitioWeb/wwwroot/lib/fontawesome/css/brands.min.css" rel="stylesheet" />
+    <link href="/SitioWeb/wwwroot/lib/fontawesome/css/solid.min.css" rel="stylesheet" />
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- jQuery -->
+    <script type="text/javascript">
+        var config = {
+            contextPath: document.URL.split('://')[0] + "://" + window.location.host + '/SitioWeb/'
+        };
+    </script>
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/jquery.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/bootstrap.min.js"></script>
+    <!-- Other JavaScript -->
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/scrolling-nav.js"></script>
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/wow.min.js"></script>
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/parallax.js"></script>
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/moment-with-locales.js"></script>
+    <script src="/SitioWeb/Content/assets/js/fancybox/js/jquery.fancybox.min.js"></script>
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/DataTables/datatables.min.js"></script>
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/jQuery.print.min.js"></script>
+    <script type="text/javascript" src="/SitioWeb/Scripts/qrcode.min.js"></script>
+    <!-- CUSTOM JavaScript -->
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/main.js"></script>
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/institucional.js?v=fed51c4d-397f-4b9a-aa03-adc65e1f0305"></script>
+    <script type="text/javascript" src="/SitioWeb/AdminLTE/plugins/jquery-ui/js/jquery-ui.js"></script>
+    <!-- Spinner -->
+    
+    <!-- Google Analitycs -->
+    <script type="text/javascript" src="/SitioWeb/Scripts/ga.js"></script>
+    
+    <script type="text/javascript">
+
+        jQuery(document).ready(function ($) {
+        });
+
+        function Initialize() {
+            google.maps.visualRefresh = true;
+            var uluru = { lat: -34.605757, lng: -58.370815 };
+            var map2 = new google.maps.Map(document.getElementById('map_canvas_l'),
+                {
+                    zoom: 15,
+                    center: uluru
+                });
+            var marker2 = new google.maps.Marker({
+                position: uluru,
+                map: map2,
+                url: 'https://maps.google.com/?q=25 de Mayo 175 Capital Federal'
+            });
+
+            google.maps.event.addListener(marker2,
+                'click',
+                function () {
+                    window.open(marker2.url);
+                });
+
+            marker2.setIcon('https://maps.google.com/mapfiles/ms/icons/blue-dot.png')
+
+        }
+
+// our code will go in here...
+    </script>
+</head>
+<!-- The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top fondoArgGob" role="navigation">
+    <div class="container">
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-ex1-collapse ">
+            <ul class="nav navbar-nav">
+                <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+
+                <li style="width: 12rem"> <a href="/SitioWeb/Institucional">Institucional</a> </li>
+                <li style="width: 14rem"> <a href="/SitioWeb/MarcoRegulatorio">Marco Regulatorio</a> </li>
+                <li style="width: 20rem"> <a href="/SitioWeb/ResolucionesDisciplinarias">Resoluciones Disciplinarias</a> </li>
+                <li style="width: 13rem"> <a href="/SitioWeb/Informes">Informes</a> </li>
+                <li style="width: 13rem">
+                    <a class="nav-link" href="https://www.argentina.gob.ar/cnv/noticias">
+                        Prensa
+                    </a>
+                </li>
+
+                <li style="width: 17rem"> <a href="/SitioWeb/Home/AIF" class="invert"><img src="/SitioWeb/Content/assets/img/autopista.png">Acceso AIF</a> </li>
+
+                    <!-- <script>console.log("Debug=false")</script> -->
+
+                <li style="width: 19rem;"> <a href="/SitioWeb/BuscadorGlobal" class=""><img src="/SitioWeb/Content/assets/img/search_navbar.png">Empresas y Personas</a></li>
+
+                <!--  -->
+
+                <li class="hidden"> <a class="page-scroll" href="#page-top"></a> </li>
+            </ul>
+        </div>
+    </div>
+    
+    <!-- /.navbar-collapse -->
+    <!-- /.container -->
+</nav>
+
+    <section id="intro-int">
+        <div class="container">
+            <div class="col-md-8 col-sm-6 col-xs-6 no-padding">
+                <a href="/SitioWeb/">
+                    <img src="/SitioWeb/wwwroot/img/Logo-para-firma.png" height="100" alt="logo-header" style="padding-left: 10px">
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-12 col-xs-12">
+                <ul class="nav-intro">
+                    <li><a target="_blank" href="https://www.linkedin.com/company/558258/"> <i class="fa-brands fa-linkedin-in"></i></a></li>
+
+                    <li><a target="_blank" href="http://youtube.com/user/CNVArgentina"> <i class="fa-brands fa-youtube"></i></a></li>
+                    <li><a target="_blank" href="http://twitter.com/CNVArgentina"> <i class="fa-brands fa-twitter"></i></a></li>
+                    <li><a target="_blank" href="http://flickr.com/photos/fotografiacnv"> <i class="fa-brands fa-flickr"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+
+
+    
+<link type="text/css" href="/SitioWeb/Content/assets/css/registros-publicos.css" rel="stylesheet">
+<section id="title-int" class="registros-publicos">
+    <div class="container-fluid no-padding linea-Delgada-Amarilla">
+        <h1>Fondos Comunes de Inversión</h1>
+        <p>Es un instrumento de inversión mediante el cual un grupo de personas con similares objetivos de inversión aporta su dinero para que un profesional lo administre, invirtiendo en una cartera diversificada de activos.</p>
+    </div>
+</section>
+<section id="content">
+    <div class="container">
+        <div class="panel-group wrap accordion" id="accordionb" role="tablist" aria-multiselectable="true">
+            <div class="panel">
+                <div class="panel-heading" role="tab" id="headingb1">
+                    <h4 class="panel-title center-title">
+                        <a href="/SitioWeb/FondosComunesInversion" class="btn-blue back">
+                            <i class="fa fa-caret-left"></i> VOLVER
+                        </a>
+                        <a role="button" data-toggle="collapse" data-parent="#accordionb" href="#collapseb1" aria-expanded="true" aria-controls="collapseb1" class="">
+                            <strong>DETALLES</strong>
+                        </a>
+                    </h4>
+                </div>
+                <div id="collapseb1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading1" aria-expanded="true" style="">
+                    <div class="panel-body  bg-gray">
+                        <h1 class="gray">
+                            <br />
+                        <small>
+                            
+
+                        </small>
+                    </h1>
+                    <div id="exTab1" class="">
+                        <ul class="nav nav-pills">
+                            <li class="active">
+                                <a href="#1a" data-toggle="tab"><span>INFORMACIÓN FINANCIERA</span></a>
+                            </li>
+                                <li id="composicionCartera" class="">
+                                    <a href="#1b" data-toggle="tab"><span>COMPOSICIÓN DE CARTERA</span></a>
+                                </li>
+
+
+                        </ul>
+                        <div class="tab-content">
+                            <div class="tab-pane m-b-15 active" id="1a">
+                                    <div class="panel level0">
+                                        
+
+<div class="panel">
+    <div class="panel-heading" role="tab" id="heading3_">
+        <h4 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion3_"
+               href="#collapse3_" aria-expanded="true" aria-controls="collapse3_">
+                <strong>EMISIÓN</strong>
+            </a>
+        </h4>
+    </div>
+    <div id="collapse3_" class="panel-collapse collapse" role="tabpanel"   
+         aria-labelledby="heading3_">
+        <div class="panel-body">
+
+
+<div class="panel">
+    <div class="panel-heading" role="tab" id="heading12_">
+        <h4 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion12_"
+               href="#collapse12_" aria-expanded="true" aria-controls="collapse12_">
+                <strong>Reglamento de Gestion</strong>
+            </a>
+        </h4>
+    </div>
+    <div id="collapse12_" class="panel-collapse collapse" role="tabpanel"   
+         aria-labelledby="heading12_">
+        <div class="panel-body">
+
+                <div class="table-responsive">
+                    <table class="table tabla-hechos-relevantes">
+                        <thead>
+                        <tr>
+                            <th>FECHA</th>
+                            <th>DESCRIPCIÓN</th>
+                            <th style="width: 120px;">DOCUMENTO</th>
+                            <th style="width: 100px;">VER</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                                <tr>
+                                    <td> 19 mar. 2026</td>
+                                    <td>ALLARIA DÓLAR PERFORMANCE FCI - REGLAMENTO DE GESTIÓN</td>
+                                    <td style="width: 120px;">3500294</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/11FB340E-010A-4ECD-AF9E-529AEA24FC77" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 19 mar. 2026</td>
+                                    <td>ALLARIA DÓLAR PERFORMANCE FCI - REGLAMENTO DE GESTIÓN</td>
+                                    <td style="width: 120px;">3500293</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/A3E6C64F-A409-442B-89F3-4D5997CF197D" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 7 abr. 2025</td>
+                                    <td>ALLARIA DÓLAR PERFORMANCE FCI - REGLAMENTO DE GESTIÓN</td>
+                                    <td style="width: 120px;">3342496</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/B0582E98-9E03-4B5A-BDAC-797A4B58ED41" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 7 abr. 2025</td>
+                                    <td>ALLARIA DÓLAR PERFORMANCE FCI - REGLAMENTO DE GESTIÓN</td>
+                                    <td style="width: 120px;">3342498</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/183B783C-609F-4543-B560-50BAE85444D4" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 21 nov. 2024</td>
+                                    <td>ALLARIA DÓLAR PERFORMANCE FCI - REGLAMENTO DE GESTIÓN</td>
+                                    <td style="width: 120px;">3283401</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/C1C638AC-BBF5-432B-9868-CDA4A807B7A3" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                        </tbody>
+                    </table>
+                </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+</div>
+                                    </div>
+                                    <div class="panel level0">
+                                        
+
+<div class="panel">
+    <div class="panel-heading" role="tab" id="heading5_">
+        <h4 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion5_"
+               href="#collapse5_" aria-expanded="true" aria-controls="collapse5_">
+                <strong>INFORMACIÓN FINANCIERA</strong>
+            </a>
+        </h4>
+    </div>
+    <div id="collapse5_" class="panel-collapse collapse" role="tabpanel"   
+         aria-labelledby="heading5_">
+        <div class="panel-body">
+
+
+<div class="panel">
+    <div class="panel-heading" role="tab" id="heading14_">
+        <h4 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion14_"
+               href="#collapse14_" aria-expanded="true" aria-controls="collapse14_">
+                <strong>Estados Contables</strong>
+            </a>
+        </h4>
+    </div>
+    <div id="collapse14_" class="panel-collapse collapse" role="tabpanel"   
+         aria-labelledby="heading14_">
+        <div class="panel-body">
+
+                <div class="table-responsive">
+                    <table class="table tabla-hechos-relevantes">
+                        <thead>
+                        <tr>
+                            <th>FECHA</th>
+                            <th>DESCRIPCIÓN</th>
+                            <th style="width: 120px;">DOCUMENTO</th>
+                            <th style="width: 100px;">VER</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                                <tr>
+                                    <td> 12 mar. 2026</td>
+                                    <td>FECHA: 31-12-2025 - PERIODICIDAD: ANUAL -  ALLARIA DÓLAR PERFORMANCE FCI  - OBSERV.: - ESTADOS CONTABLES - FCI</td>
+                                    <td style="width: 120px;">3496884</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/E0BB8589-30BC-4445-813F-CD82D1C3ADDD" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                        </tbody>
+                    </table>
+                </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+</div>
+                                    </div>
+                                    <div class="panel level0">
+                                        
+
+<div class="panel">
+    <div class="panel-heading" role="tab" id="heading6_">
+        <h4 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion6_"
+               href="#collapse6_" aria-expanded="true" aria-controls="collapse6_">
+                <strong>HECHOS RELEVANTES</strong>
+            </a>
+        </h4>
+    </div>
+    <div id="collapse6_" class="panel-collapse collapse" role="tabpanel"   
+         aria-labelledby="heading6_">
+        <div class="panel-body">
+
+                <div class="table-responsive">
+                    <table class="table tabla-hechos-relevantes">
+                        <thead>
+                        <tr>
+                            <th>FECHA</th>
+                            <th>DESCRIPCIÓN</th>
+                            <th style="width: 120px;">DOCUMENTO</th>
+                            <th style="width: 100px;">VER</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                                <tr>
+                                    <td> 30 sep. 2025</td>
+                                    <td>TIPO HR: LANZAMIENTOS - PROGRAMA: ALLARIA DÓLAR PERFORMANCE FCI - SERIE :ALLARIA DÓLAR PERFORMANCE FCI - HECHO RELEVANTE FCIA</td>
+                                    <td style="width: 120px;">3421564</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/0F5C9862-4A59-49DD-A963-798E7DCAF3AC" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 29 sep. 2025</td>
+                                    <td>TIPO HR: OTROS - HECHO RELEVANTE FCIA</td>
+                                    <td style="width: 120px;">3420834</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/A1C34925-0A1A-47EF-BF96-EE216437EE55" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 7 abr. 2025</td>
+                                    <td>TIPO HR: OTROS - PROGRAMA: ALLARIA DÓLAR PERFORMANCE FCI - SERIE :ALLARIA DÓLAR PERFORMANCE FCI - HECHO RELEVANTE FCIA</td>
+                                    <td style="width: 120px;">3342525</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/479A0D67-D01A-44E9-BA19-C5CBABC0E125" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 27 nov. 2024</td>
+                                    <td>TIPO HR: OTROS - PROGRAMA: ALLARIA DÓLAR PERFORMANCE FCI - SERIE :ALLARIA DÓLAR PERFORMANCE FCI - HECHO RELEVANTE FCIA</td>
+                                    <td style="width: 120px;">3286240</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/D6E4F297-1346-4114-BEE7-A17BA1C56992" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                        </tbody>
+                    </table>
+                </div>
+        </div>
+    </div>
+</div>
+                                    </div>
+                            </div>
+
+                                <div class="tab-pane m-b-15" id="1b">
+                                    <h2 style="margin-top: 0px !important; margin-bottom: 10px !important;">Composición Semanal Cartera FONDO (artículo 34 del Capítulo XI)</h2>
+                                    
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <table>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>Fondo</td>
+                                                        <td style="font-weight: bold;">Allaria Dólar Performance</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Cartera al (*)</td>
+                                                        <td style="font-weight: bold;">05/11/26</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Gerente</td>
+                                                        <td>Allaria Fondos Administrados S.G.F.C.I.S.A.</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Depositaria</td>
+                                                        <td>Banco Comafi S.A.</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Clasificación</td>
+                                                        <td>Renta Mixta</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Moneda</td>
+                                                        <td>Dolar Estadounidense</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Región</td>
+                                                        <td>Global</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Horizonte</td>
+                                                        <td>Mediano Plazo</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            
+                                        </div>
+                                        <div class="col-md-4">
+
+                                        </div>
+                                    </div>
+                                    <br /><br />
+                                    
+                                    <div class="row">
+
+                                        <div class="col-md-10">
+                                            <H4>COMPOSICIÓN DE CARTERAS ANTERIORES</H4>
+                                            <input type="date" id="fecha">
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-md-10">
+                                            <br /><br />
+                                            <table>
+                                                <thead>
+                                                    <tr>
+                                                        <th style="padding: 5px;">Detalle (1)</th>
+                                                        <th style="text-align: right; padding: 5px;">% del P.N.</th>
+                                                        <th style="text-align: right; padding: 5px;">% del P.N.(2)</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                        <tr>
+                                                            <td style="font-weight: bold;">
+
+Disponibilidades
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                2,40
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="font-weight: bold;">
+
+Titulos de Deuda en Dolar Estadounidense
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                97,58
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC Latam Airlines 7.875%</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                4,11
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC BTG 080429</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                4,08
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC Cencosud 5.95%</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                3,52
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC XP 6.75%</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                3,51
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC Enel Chile 160628</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                3,46
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC Usiminas International</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                3,43
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC Banco Do Brasil 2029</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                3,40
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC Enap 2029</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                3,39
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON AES Argentina Gen 150329</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                3,28
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC Vale Overseas Limited 3.75%</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                3,27
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC Banco Santander Chile 3.177% 271031</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                3,26
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC Engie Energia Chile 2030</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                3,23
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC Codelco 2030</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                3,22
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC Colbun 30</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                3,20
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC Bradesco 2030</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                3,07
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON YPF C 17</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                2,25
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Telecom 9.5% 2031</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                2,24
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Transp Gas Sur Cl 3</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                2,23
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC GEOPAR30</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                2,22
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Aeropuertos 2000 Regs 2031</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                2,20
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Pluspetrol 8.5% 2032 (REGS)</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                2,18
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Pampa Energia C21</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                2,16
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Barclays Bank 040429</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                2,16
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC Rakuten 2029</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                1,84
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC Suzano Papel 2029</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                1,76
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Banco Macro Clase H</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                1,74
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Bco Galicia Clase 16</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                1,73
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Tidewater Inc.</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                1,40
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC Aeromexico 8.625% 151131</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                1,34
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Zebra Technologies 010632</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                1,32
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Adani Ports 300727</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                1,28
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Jaguar Land Rover 011027</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                1,27
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON YPF Luz C18 YFCJO</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                1,25
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Aramco 211029</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                1,25
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Eleven 2028</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                1,23
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC BRF 2030</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                1,20
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Ally 130629</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                1,12
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Genneia Clase 49</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                1,08
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC TRAGSA 5.55%</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                1,07
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>BC Brasil 110630</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                1,05
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Yara 040630</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                1,01
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON HTA Group 040629</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                0,89
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Western Union 150629</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                0,87
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON StoneCo Ltd.</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                0,80
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Centene 150129</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                0,75
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON HF Sinclair 150131</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                0,66
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="padding-left: 30px;">
+
+                                                                    <span>ON Meritage Homes 150429</span>
+
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                0,62
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="font-weight: bold;">
+
+Otros Activos
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="font-weight: bold;">
+
+Pasivos
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                0,02
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="font-weight: bold;">
+
+ 
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                100,00
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="font-weight: bold;">
+
+(Dolar Estadounidense)
+
+
+                                                            </td>
+                                                            <td style="text-align: right; font-weight:bold;">
+                                                                23.345.435,47
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+
+
+                                                </tbody>
+                                            </table>
+
+                                            <p style="font-size: 0.9rem; font-weight: bold; margin-top: 1rem; margin-bottom: 1rem">
+                                                (1) Se incorporarán aquellos activos y pasivos existentes en la cartera a la fecha del reporte.<br />
+                                                Activos de RENTA VARIABLE: Se agrupan los activos por país, y dentro de cada país, por emisor.<br />
+                                                Se aclara que dentro de cada país están sumados los activos del tipo Certificados con oferta pública autorizada en un determinado país, agrupado como inversión en el país de autorización del Certificado de Depósito, independientemente del país de emisión del subyacente del Certificado.<br />
+                                                Así, por ejemplo, dentro de Argentina estan incluidos los CEDEARS autorizados en Argentina; y dentro de Estados Unidos están incluídos los ADRS autorizados en dicho país, independientemente del país de emisión del subyacente.<br />
+                                                Activos de RENTA FIJA: Se agrupan por moneda de emisión y, dentro de cada moneda, por instrumento.<br />
+                                                Los pasivos serán informados por total.
+                                            </p>
+                                            <p style="font-size: 0.9rem; font-weight: bold; margin-top: 1rem; margin-bottom: 1rem">
+                                                (2) Porcentajes calculados sobre Montos reexpresados en Moneda del Fondo.
+                                            </p>
+
+                                        </div>
+                                        <div class="col-md-2">
+
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                        </div>
+
+
+                        <a href="/SitioWeb/FondosComunesInversion" class="btn-celeste center-btn	">VOLVER</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    
+    <script src="/SitioWeb/Content/assets/js/DetallesFCI.js"></script>
+
+
+</body>
+</html>

@@ -1,0 +1,93 @@
+== 1. Página de FCI de la CNV
+200 184,069 B 5.4s https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion
+  form: <form action="/SitioWeb/FondosComunesInversion/Busqueda" enctype="multipart/form-data" id="FondoComunesInversionBuscar" method="post" name="FondoComunesInversionBuscar">
+  select 'tipoBFF': 3 opciones; ej: [('0', 'Seleccione el Tipo de Busqueda'), ('2', 'por Sociedad Gerente'), ('4', 'por Fondo Común de Inversión')]
+  select 'tipo': 3 opciones; ej: [('2', 'Todos'), ('0', 'Abiertos'), ('1', 'Cerrados')]
+  select 'Lti': 13 opciones; ej: [('', 'SELECCIONE UN OBJETO DE INVERSIÓN'), ('10', 'Agropecuario'), ('12', 'Energía'), ('9', 'Ganadero')]
+  select 'Lsg': 68 opciones; ej: [('', 'SELECCIONE UNA SOCIEDAD GERENTE'), ('70380', 'ADCAP ASSET MANAGEMENT SOC. GTE FCI S.A.'), ('70123', 'ALLARIA FONDOS ADMINISTRADOS SGFCI S.A.'), ('31418', 'Argenfunds S.A.')]
+  select 'Lsd': 26 opciones; ej: [('', 'SELECCIONE UNA SOCIEDAD DEPOSITARIA'), ('30386', 'BACS Banco de Crédito y Securitización S.A.'), ('30485', 'BANCO BBVA ARGENTINA S.A.'), ('32045', 'Banco CMF S.A.')]
+  select 'Lfc': 1722 opciones; ej: [('', 'SELECCIONE UN FONDO COMÚN DE INVERSIÓN'), ('87834', 'ALPHA RENTA FIJA CORPORATIVA DOLAR'), ('63941', 'MEGAQM RENTA FIJA LATAM'), ('63361', 'OPTIMUM DYNAMIC BALANCED FUND')]
+  ref: /SitioWeb/AdminLTE/plugins/jquery-ui/js/jquery-ui.js
+  ref: /SitioWeb/Content/assets/css/fondos-comunes-inversion.css
+  ref: /SitioWeb/Content/assets/images/manifest.json
+  ref: /SitioWeb/Content/assets/js/DataTables/datatables.min.js
+  ref: /SitioWeb/Content/assets/js/bootstrap.min.js
+  ref: /SitioWeb/Content/assets/js/fancybox/js/jquery.fancybox.min.js
+  ref: /SitioWeb/Content/assets/js/hechos-relevantes.js
+  ref: /SitioWeb/Content/assets/js/institucional.js?v=01988763-d6dd-4960-83c3-0300d60aa007
+  ref: /SitioWeb/Content/assets/js/jQuery.print.min.js
+  ref: /SitioWeb/Content/assets/js/jquery.easing.min.js
+  ref: /SitioWeb/Content/assets/js/jquery.js
+  ref: /SitioWeb/Content/assets/js/main.js
+  ref: /SitioWeb/Content/assets/js/moment-with-locales.js
+  ref: /SitioWeb/Content/assets/js/parallax.js
+  ref: /SitioWeb/Content/assets/js/scrolling-nav.js
+  ref: /SitioWeb/Content/assets/js/wow.min.js
+  ref: /SitioWeb/FondosComunesInversion/Busqueda
+  ref: /SitioWeb/FondosComunesInversion/CuotaPartes
+  ref: /SitioWeb/FondosComunesInversion/GetFCIPorTipo
+  ref: /SitioWeb/FondosComunesInversion/GetObjetosInversion
+  ref: /SitioWeb/Scripts/ga.js
+  ref: /SitioWeb/Scripts/qrcode.min.js
+  ref: https://fonts.googleapis.com/icon?family=Material+Icons
+  ref: https://maps.google.com/?q=25 de Mayo 175 Capital Federal
+  ref: https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js
+  ref: https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js
+  js:  jQuery.ajax({ 
+  js:  jQuery.ajax({ 
+
+== 2. Detalle: con y sin query string
+200 140,662 B 64.8s https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63480?denominacion=Pionero+Renta+Ahorro&estado=Aprobado+Lanzado | cartera: ('05/11/26', 66)
+200 140,626 B 4.8s https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63480 | cartera: ('05/11/26', 66)
+
+== 3. Select más largo: 1722 opciones; numéricas: 1721
+
+== 4. Fondos de IOL
+  encontrados: [('84033', 'IOL CASH MANAGEMENT'), ('86585', 'IOL DÓLAR AHORRO PLUS'), ('87448', 'IOL Portafolio Potenciado')]
+  84033 IOL CASH MANAGEMENT                           200 64.5s al 05/11/26 | 45 especies, suma 110.86 | total 100.0 | PN ('(Peso Argentina)', 156308927413.6) | Renta Fija Peso Argentina
+  86585 IOL DÓLAR AHORRO PLUS                         200 6.0s al 05/11/26 | 60 especies, suma 98.19 | total 100.0 | PN ('(Dolar Estadounidense)', 346000399.61) | Renta Fija Dolar Estadounidense
+  87448 IOL Portafolio Potenciado                     200 4.0s al 05/11/26 | 17 especies, suma 110.5 | total 100.0 | PN ('(Peso Argentina)', 25932255021.12) | Renta Fija Peso Argentina
+
+== 5. Muestra aleatoria (30) — tiempos, bloqueos, frescura
+  87720 AXIS ESTRATEGIA 33                            200 4.4s al 05/11/26 | 131 especies, suma 100.02 | total 100.0 | PN ('(Peso Argentina)', 2874761771.01) | Renta Mixta Peso Argentina
+  88006 Mercado Fondo Internacional                   200 1.0s sin cartera
+  63892 TORONTO TRUST ARGENTINA 2021 F.C.I.           200 4.2s al 05/11/26 | 14 especies, suma 98.25 | total 100.0 | PN ('(Peso Argentina)', 7666909740.16) | Renta Mixta Peso Argentina
+  63436 SF39-Súper Renta Futura FCI                   200 39.7s al 26/09/22 | 0 especies, suma 0 | total 100.0 | PN None | Renta Mixta Peso Argentina
+  87166 ALLARIA DÓLAR PERFORMANCE FCI                 200 4.4s al 05/11/26 | 47 especies, suma 97.6 | total 100.0 | PN ('(Dolar Estadounidense)', 23345435.47) | Renta Mixta Dolar Estadounidense
+  87188 COCOS ACCIONES FCI                            200 64.5s al 05/11/26 | 17 especies, suma 100.85 | total 100.0 | PN ('(Peso Argentina)', 3731197663.73) | Renta Fija Peso Argentina
+  63801 ARGENFUNDS Renta Total F.C.I.                 200 4.5s al 05/11/26 | 10 especies, suma 100.18 | total 100.0 | PN ('(Peso Argentina)', 5422949746.84) | Renta Fija Peso Argentina
+  63742 LOMBARD ACCIONES LIDERES                      200 4.5s al 05/11/26 | 29 especies, suma 99.61 | total 100.0 | PN ('(Peso Argentina)', 14658459609.04) | Renta Variable Peso Argentina
+  63759 SF32-Superfondo Multirenta F.C.I.             200 4.9s al 05/11/26 | 8 especies, suma 99.89 | total 100.0 | PN ('(Peso Argentina)', 69206015950.78) | Renta Mixta Peso Argentina
+  63949 GMC RETORNO TOTAL I                           200 4.5s al 05/11/26 | 0 especies, suma 0 | total 100.0 | PN ('(Peso Argentina)', 5146847925.82) | Renta Mixta Peso Argentina
+  63854 HF RENTA DOLARES                              200 1.8s al 20/11/25 | 0 especies, suma 0 | total 100.0 | PN None | Renta Fija Dolar Estadounidense
+  88613 Pionero Horizonte V                           200 0.9s sin cartera
+  88503 FBA RENTA MIXTA III                           200 3.9s al 05/11/26 | 0 especies, suma 0 | total 100.0 | PN ('(Peso Argentina)', 1038025.86) | Renta Mixta Peso Argentina
+  88057 Superfondo Renta Balance IV Fondo Común de In 200 0.9s sin cartera
+  83695 BULL MARKET FONDO COMUN DE INVERSION ASG      200 1.1s sin cartera
+  63346 Alpha Renta Fija Serie 4 Ex 1784 Renta Fija S 200 5.1s al 05/11/26 | 8 especies, suma 100.04 | total 100.0 | PN ('(Peso Argentina)', 56922583134.41) | Renta Fija Peso Argentina
+  87362 INSIDER RETORNO ESTRATÉGICO                   200 5.2s al 05/11/26 | 52 especies, suma 96.18 | total 100.0 | PN ('(Peso Argentina)', 10764414383.98) | Renta Fija Peso Argentina
+  85957 Adcap Balanceado XVII                         200 66.0s al 05/11/26 | 64 especies, suma 64.16 | total 100.0 | PN ('(Peso Argentina)', 1577338207.51) | Renta Fija Peso Argentina
+  86137 ZOFINGEN ASG FONDO COMÚN DE INVERSIÓN ASG     200 0.6s sin cartera
+  86307 FCI GALILEO MULTIMERCADO VII                  200 5.3s al 05/11/26 | 18 especies, suma 100.98 | total 100.0 | PN ('(Peso Argentina)', 12834723740.11) | Renta Mixta Peso Argentina
+  63890 Gainvest Global III                           200 0.9s al 09/09/26 | 0 especies, suma 0 | total 100.0 | PN None | Renta Variable Peso Argentina
+  63437 Optimum Renta Mixta Flexible Argentina Ex OPT 200 4.7s al 05/11/26 | 7 especies, suma 97.96 | total 100.0 | PN ('(Peso Argentina)', 6119825912.35) | Renta Fija Peso Argentina
+  63400 SF36 - Super Bonos F.C.I. Ex SF10-Super Bonos 200 4.8s al 05/11/26 | 31 especies, suma 100.16 | total 100.0 | PN ('(Peso Argentina)', 282925127853.4) | Renta Fija Peso Argentina
+  88663 SPECIAL SITUATIONS FUND                       200 4.0s al 05/11/26 | 9 especies, suma 71.56 | total 100.0 | PN ('(Dolar Estadounidense)', 5587343.13) | Renta Mixta Dolar Estadounidense
+  64002 1810 AHORROS ACTIVOS                          200 4.5s al 05/11/26 | 9 especies, suma 103.15 | total 100.0 | PN ('(Peso Argentina)', 112655398528.13) | Renta Fija Peso Argentina
+  63937 QUINQUELA GESTION FCI                         200 0.8s sin cartera
+  89159 gForce MSCI MERVAL FCIA ETF                   200 4.0s al 05/11/26 | 19 especies, suma 99.94 | total 100.0 | PN ('(Peso Argentina)', 15296426017.03) | Renta Variable Peso Argentina
+  63548 Cohen Fondo Común de Inversión Abierto Pymes  200 1.7s al 26/12/25 | 0 especies, suma 0 | total 100.0 | PN None | Renta Mixta Peso Argentina
+  63734 SBS RENTA DÓLAR LATAM FCI                     200 4.4s al 05/11/26 | 14 especies, suma 78.92 | total 100.0 | PN ('(Dolar Estadounidense)', 26923236.41) | Renta Mixta Dolar Estadounidense
+  63683 TORONTO TRUST AHORRO FCI                      200 4.3s al 05/11/26 | 11 especies, suma 71.77 | total 100.0 | PN ('(Peso Argentina)', 313032607414.46) | Plazo Fijo Peso Argentina
+  con cartera 27/33 | seg medio 10.19 | estados ['200']
+  fechas "Cartera al": ['05/11/26', '09/09/26', '20/11/25', '26/09/22', '26/12/25']
+
+== 6. CAFCI estadísticas
+200 24,245 B 0.6s
+  scripts: ['https://www.googletagmanager.com/gtag/js?id=G-R2L6MDMM8J']
+  urls/rutas API vistas: ['https://api.pub.cafci.org.ar/pb_get', 'https://www.cafci.org.ar/aprenda-sobre-fondos.html', 'https://www.cafci.org.ar/area-privada.html', 'https://www.cafci.org.ar/asociadas.html', 'https://www.cafci.org.ar/capacitacion.html', 'https://www.cafci.org.ar/comision-directiva.html', 'https://www.cafci.org.ar/conceptos-basicos.html', 'https://www.cafci.org.ar/contacto.html', 'https://www.cafci.org.ar/estatuto-social.html', 'https://www.cafci.org.ar/estructura-administrativa.html', 'https://www.cafci.org.ar/glosario.html', 'https://www.cafci.org.ar/index.html', 'https://www.cafci.org.ar/informacionEstadistica.html', 'https://www.cafci.org.ar/mapa-del-sitio.html', 'https://www.cafci.org.ar/marco-legal.html', 'https://www.cafci.org.ar/memorias-anuales.html', 'https://www.cafci.org.ar/mision-y-objetivos.html', 'https://www.cafci.org.ar/prensa.html', 'https://www.cafci.org.ar/reglamento-interno.html', 'https://www.cafci.org.ar/responsabilidades.html']
+  403 29 B https://api.pub.cafci.org.ar/fondo/1570/clase/5100/ficha b'{"error":"Route not allowed"}'
+  401 12 B https://api.cafci.org.ar/fondo/1570/clase/5100/ficha b'Unauthorized'
+  404 500 B https://estadisticas.cafci.org.ar/api/fondos/1570?clase=5100 b'<!doctype html>\n\n<html lang="en">\n\n  <head>\n\n    <title>The page you were looking for doesn\'t exist (404 Not found)</title>\n\n    <meta charset="utf-8">\n    <met'
+
+fin

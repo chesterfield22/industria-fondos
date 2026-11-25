@@ -1,0 +1,9717 @@
+{
+ "84033": {
+  "id": "84033",
+  "nombre": "IOL CASH MANAGEMENT",
+  "status": 200,
+  "seg": 64.54,
+  "cartera": true,
+  "cab": {
+   "Fondo": "IOL Cash Management",
+   "Cartera al": "05/11/26",
+   "Gerente": "Adcap Asset Management S.G.F.C.I.S.A.",
+   "Depositaria": "Banco Comafi S.A.",
+   "Clasificación": "Renta Fija",
+   "Moneda": "Peso Argentina",
+   "Región": "Global",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "Bono del Tesoro Nacional T31Y7",
+    13.42
+   ],
+   [
+    "ON Banco Comafi C22",
+    5.7
+   ],
+   [
+    "ON Mercado Pago C3",
+    5.51
+   ],
+   [
+    "ON Banco Nacion Argentina Clase 1",
+    5.21
+   ],
+   [
+    "Pagare #MAV261160084",
+    5.04
+   ],
+   [
+    "ON BBVA Frances Cl 46",
+    4.75
+   ],
+   [
+    "ON BBVA Frances Cl 47",
+    4.6
+   ],
+   [
+    "ON Arcor C3",
+    4.3
+   ],
+   [
+    "Lecap S26F7",
+    4.19
+   ],
+   [
+    "ON BACS Clase 19",
+    4.02
+   ],
+   [
+    "ON Banco Prov Clase 6",
+    3.18
+   ],
+   [
+    "ON Arcor C4",
+    2.91
+   ],
+   [
+    "ON Bco Provincia Cl 4",
+    2.75
+   ],
+   [
+    "ON Mercado Pago C8",
+    2.72
+   ],
+   [
+    "Pagare #MAV121160076",
+    2.55
+   ],
+   [
+    "Pagare #MAV171160118",
+    2.54
+   ],
+   [
+    "ON Banco Prov Clase 7",
+    2.23
+   ],
+   [
+    "ON Banco Hipotecario C13",
+    2.03
+   ],
+   [
+    "ON Grupo ST C15",
+    1.72
+   ],
+   [
+    "ON BBVA Frances Cl 38",
+    1.5
+   ],
+   [
+    "Letra Muni Cordoba S53",
+    1.34
+   ],
+   [
+    "ON Santander Rio S 31",
+    1.29
+   ],
+   [
+    "ON ICBC Clase 4 281126",
+    1.12
+   ],
+   [
+    "ON Bco Serv Transac C27",
+    1.01
+   ],
+   [
+    "ON Mercado Pago C5",
+    1.0
+   ],
+   [
+    "ON Grupo ST C16",
+    0.98
+   ],
+   [
+    "ON Tarj Naranja C66 S1",
+    0.98
+   ],
+   [
+    "ON Morixe C4",
+    0.7
+   ],
+   [
+    "Bono Prov de Buenos Aires 42978",
+    0.67
+   ],
+   [
+    "ON BBVA Frances Cl 41",
+    0.67
+   ],
+   [
+    "ON ICBC Clase 5 110327",
+    0.67
+   ],
+   [
+    "Pagare #MAV031260096",
+    0.63
+   ],
+   [
+    "Pagare #MAV050170055",
+    0.61
+   ],
+   [
+    "ON Banco Hipotecario C11",
+    0.58
+   ],
+   [
+    "Letra Prov Chubut S119 C1",
+    0.53
+   ],
+   [
+    "ON Grupo ST C18",
+    0.49
+   ],
+   [
+    "ON Mercado Pago C6",
+    0.35
+   ],
+   [
+    "ON Mercado Pago C7",
+    0.2
+   ],
+   [
+    "ON Club Atletico River Plate S1",
+    0.08
+   ],
+   [
+    "Pzo Fi $ Nvo Bco Indus",
+    5.51
+   ],
+   [
+    "Pzo Fi $ Banco VOII",
+    4.53
+   ],
+   [
+    "Pzo Fi $ Bco Patagonia",
+    3.86
+   ],
+   [
+    "Pzo Fi $ Bco Sol",
+    0.96
+   ],
+   [
+    "FF Creditech S7 CA",
+    1.03
+   ],
+   [
+    "FF Centrocard Creditos S8",
+    0.2
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    null
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    94.76
+   ],
+   [
+    "Operaciones a Plazo en Peso Argentina",
+    14.85
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    1.23
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    null
+   ]
+  ],
+  "suma": 110.86,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   156308927413.6
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "IOL Cash Management"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "Adcap Asset Management S.G.F.C.I.S.A."
+   ],
+   [
+    "Depositaria",
+    "Banco Comafi S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Fija"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Global"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    ""
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    "",
+    "94,76"
+   ],
+   [
+    "Bono del Tesoro Nacional T31Y7",
+    "13,42",
+    ""
+   ],
+   [
+    "ON Banco Comafi C22",
+    "5,70",
+    ""
+   ],
+   [
+    "ON Mercado Pago C3",
+    "5,51",
+    ""
+   ],
+   [
+    "ON Banco Nacion Argentina Clase 1",
+    "5,21",
+    ""
+   ],
+   [
+    "Pagare #MAV261160084",
+    "5,04",
+    ""
+   ],
+   [
+    "ON BBVA Frances Cl 46",
+    "4,75",
+    ""
+   ],
+   [
+    "ON BBVA Frances Cl 47",
+    "4,60",
+    ""
+   ],
+   [
+    "ON Arcor C3",
+    "4,30",
+    ""
+   ],
+   [
+    "Lecap S26F7",
+    "4,19",
+    ""
+   ],
+   [
+    "ON BACS Clase 19",
+    "4,02",
+    ""
+   ],
+   [
+    "ON Banco Prov Clase 6",
+    "3,18",
+    ""
+   ],
+   [
+    "ON Arcor C4",
+    "2,91",
+    ""
+   ],
+   [
+    "ON Bco Provincia Cl 4",
+    "2,75",
+    ""
+   ],
+   [
+    "ON Mercado Pago C8",
+    "2,72",
+    ""
+   ],
+   [
+    "Pagare #MAV121160076",
+    "2,55",
+    ""
+   ],
+   [
+    "Pagare #MAV171160118",
+    "2,54",
+    ""
+   ],
+   [
+    "ON Banco Prov Clase 7",
+    "2,23",
+    ""
+   ],
+   [
+    "ON Banco Hipotecario C13",
+    "2,03",
+    ""
+   ],
+   [
+    "ON Grupo ST C15",
+    "1,72",
+    ""
+   ],
+   [
+    "ON BBVA Frances Cl 38",
+    "1,50",
+    ""
+   ],
+   [
+    "Letra Muni Cordoba S53",
+    "1,34",
+    ""
+   ],
+   [
+    "ON Santander Rio S 31",
+    "1,29",
+    ""
+   ],
+   [
+    "ON ICBC Clase 4 281126",
+    "1,12",
+    ""
+   ],
+   [
+    "ON Bco Serv Transac C27",
+    "1,01",
+    ""
+   ],
+   [
+    "ON Mercado Pago C5",
+    "1,00",
+    ""
+   ],
+   [
+    "ON Grupo ST C16",
+    "0,98",
+    ""
+   ],
+   [
+    "ON Tarj Naranja C66 S1",
+    "0,98",
+    ""
+   ],
+   [
+    "ON Morixe C4",
+    "0,70",
+    ""
+   ],
+   [
+    "Bono Prov de Buenos Aires 42978",
+    "0,67",
+    ""
+   ],
+   [
+    "ON BBVA Frances Cl 41",
+    "0,67",
+    ""
+   ],
+   [
+    "ON ICBC Clase 5 110327",
+    "0,67",
+    ""
+   ],
+   [
+    "Pagare #MAV031260096",
+    "0,63",
+    ""
+   ],
+   [
+    "Pagare #MAV050170055",
+    "0,61",
+    ""
+   ],
+   [
+    "ON Banco Hipotecario C11",
+    "0,58",
+    ""
+   ],
+   [
+    "Letra Prov Chubut S119 C1",
+    "0,53",
+    ""
+   ],
+   [
+    "ON Grupo ST C18",
+    "0,49",
+    ""
+   ],
+   [
+    "ON Mercado Pago C6",
+    "0,35",
+    ""
+   ],
+   [
+    "ON Mercado Pago C7",
+    "0,20",
+    ""
+   ],
+   [
+    "ON Club Atletico River Plate S1",
+    "0,08",
+    ""
+   ],
+   [
+    "Operaciones a Plazo en Peso Argentina",
+    "",
+    "14,85"
+   ],
+   [
+    "Pzo Fi $ Nvo Bco Indus",
+    "5,51",
+    ""
+   ],
+   [
+    "Pzo Fi $ Banco VOII",
+    "4,53",
+    ""
+   ],
+   [
+    "Pzo Fi $ Bco Patagonia",
+    "3,86",
+    ""
+   ],
+   [
+    "Pzo Fi $ Bco Sol",
+    "0,96",
+    ""
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    "",
+    "1,23"
+   ],
+   [
+    "FF Creditech S7 CA",
+    "1,03",
+    ""
+   ],
+   [
+    "FF Centrocard Creditos S8",
+    "0,20",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "156.308.927.413,60",
+    ""
+   ]
+  ]
+ },
+ "86585": {
+  "id": "86585",
+  "nombre": "IOL DÓLAR AHORRO PLUS",
+  "status": 200,
+  "seg": 6.02,
+  "cartera": true,
+  "cab": {
+   "Fondo": "IOL Dólar Ahorro Plus",
+   "Cartera al": "05/11/26",
+   "Gerente": "Adcap Asset Management S.G.F.C.I.S.A.",
+   "Depositaria": "Banco Comafi S.A.",
+   "Clasificación": "Renta Fija",
+   "Moneda": "Dolar Estadounidense",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "Bono del Tesoro Nacional AO27",
+    22.19
+   ],
+   [
+    "Bono Bopreal 2027 Serie 1 Clase D BPOD7",
+    10.48
+   ],
+   [
+    "Bono Bopreal 2027 Serie 1 Clase C BPOC7",
+    6.24
+   ],
+   [
+    "ON Banco Macro Clase G",
+    6.09
+   ],
+   [
+    "ON Tecpetrol C12",
+    4.49
+   ],
+   [
+    "ON ICBC Clase 6 220527",
+    4.27
+   ],
+   [
+    "Bono del Tesoro Nacional AO28",
+    3.17
+   ],
+   [
+    "ON Banco Mariva S3 060727",
+    2.84
+   ],
+   [
+    "ON Supervielle Clase X",
+    2.76
+   ],
+   [
+    "ON BBVA Frances Cl 44",
+    2.5
+   ],
+   [
+    "ON Pampa Energia C23 (RegS)",
+    2.24
+   ],
+   [
+    "Bono Prov Santa Fe 8.1% 111234",
+    2.11
+   ],
+   [
+    "ON Supervielle Clase V",
+    1.88
+   ],
+   [
+    "ON ICBC Clase 9 280827",
+    1.6
+   ],
+   [
+    "ON Banco Comafi C21",
+    1.23
+   ],
+   [
+    "ON YPF Luz C18 YFCJO",
+    1.21
+   ],
+   [
+    "ON BBVA Frances Cl 49",
+    1.18
+   ],
+   [
+    "ON Epec C1",
+    1.04
+   ],
+   [
+    "ON Grupo ST C14",
+    1.03
+   ],
+   [
+    "ON P. Aconcagua Energia C23",
+    0.95
+   ],
+   [
+    "Bono Prov Santa Fe 2027 SF27D",
+    0.95
+   ],
+   [
+    "ON Banco Prov Clase 8",
+    0.94
+   ],
+   [
+    "ON Arcor Clase 26",
+    0.92
+   ],
+   [
+    "ON P. Aconcagua Energia C22",
+    0.89
+   ],
+   [
+    "ON Bco Provincia Cl 5 PVC5O",
+    0.89
+   ],
+   [
+    "ON Bco Serv Transac C26",
+    0.82
+   ],
+   [
+    "ON Banco Hipotecario C14",
+    0.82
+   ],
+   [
+    "ON MSU Green C3",
+    0.82
+   ],
+   [
+    "ON Rizobacter S 11 CC",
+    0.79
+   ],
+   [
+    "ON Bco CMF Serie 20",
+    0.65
+   ],
+   [
+    "ON BBVA Frances Cl 50",
+    0.63
+   ],
+   [
+    "ON Supervielle Clase W",
+    0.59
+   ],
+   [
+    "ON Banco Comafi C24",
+    0.59
+   ],
+   [
+    "ON Banco Hipotecario C15",
+    0.58
+   ],
+   [
+    "ON Bco Patagonia Cl 5",
+    0.58
+   ],
+   [
+    "ON MSU Energy C13",
+    0.58
+   ],
+   [
+    "ON Banco Hipotecario C16",
+    0.57
+   ],
+   [
+    "Bono Prov Cordoba 030235",
+    0.55
+   ],
+   [
+    "ON Pampa Energia C26",
+    0.55
+   ],
+   [
+    "ON Banco Macro Clase H Reg S",
+    0.52
+   ],
+   [
+    "ON Bco Serv Transac C28",
+    0.43
+   ],
+   [
+    "ON Bco Serv Transac C29",
+    0.43
+   ],
+   [
+    "ON Banco Comafi C26",
+    0.41
+   ],
+   [
+    "Bono Prov Neuquen 2028 NDT11",
+    0.35
+   ],
+   [
+    "ON Bco Serv Transac C31",
+    0.29
+   ],
+   [
+    "Pagare #UMV050270010",
+    0.28
+   ],
+   [
+    "ON Supervielle Clase T",
+    0.21
+   ],
+   [
+    "ON Pan Amer. Energy C 12",
+    0.13
+   ],
+   [
+    "ON Genneia Clase 50",
+    0.12
+   ],
+   [
+    "Pagare #UMV101160018",
+    0.06
+   ],
+   [
+    "ON Plaza Logistica C15",
+    0.05
+   ],
+   [
+    "ON Crown Point Energy C10",
+    0.04
+   ],
+   [
+    "Pagare #UMV141260003",
+    0.03
+   ],
+   [
+    "Pagare #UMV121160007",
+    0.03
+   ],
+   [
+    "ON Profertil C2",
+    0.02
+   ],
+   [
+    "Pagare #UMV191250039",
+    0.02
+   ],
+   [
+    "Pagare #UMV191250040",
+    0.02
+   ],
+   [
+    "Pagare #UMV191250041",
+    0.02
+   ],
+   [
+    "Pagare #UMV191250042",
+    0.02
+   ],
+   [
+    "FCI Allaria Dólar Ahorro - Clase B",
+    1.5
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    0.19
+   ],
+   [
+    "Titulos de Deuda en Dolar Estadounidense",
+    96.66
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    1.5
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    1.65
+   ]
+  ],
+  "suma": 98.19,
+  "total": 100.0,
+  "pn": [
+   "(Dolar Estadounidense)",
+   346000399.61
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "IOL Dólar Ahorro Plus"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "Adcap Asset Management S.G.F.C.I.S.A."
+   ],
+   [
+    "Depositaria",
+    "Banco Comafi S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Fija"
+   ],
+   [
+    "Moneda",
+    "Dolar Estadounidense"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "0,19"
+   ],
+   [
+    "Titulos de Deuda en Dolar Estadounidense",
+    "",
+    "96,66"
+   ],
+   [
+    "Bono del Tesoro Nacional AO27",
+    "22,19",
+    ""
+   ],
+   [
+    "Bono Bopreal 2027 Serie 1 Clase D BPOD7",
+    "10,48",
+    ""
+   ],
+   [
+    "Bono Bopreal 2027 Serie 1 Clase C BPOC7",
+    "6,24",
+    ""
+   ],
+   [
+    "ON Banco Macro Clase G",
+    "6,09",
+    ""
+   ],
+   [
+    "ON Tecpetrol C12",
+    "4,49",
+    ""
+   ],
+   [
+    "ON ICBC Clase 6 220527",
+    "4,27",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional AO28",
+    "3,17",
+    ""
+   ],
+   [
+    "ON Banco Mariva S3 060727",
+    "2,84",
+    ""
+   ],
+   [
+    "ON Supervielle Clase X",
+    "2,76",
+    ""
+   ],
+   [
+    "ON BBVA Frances Cl 44",
+    "2,50",
+    ""
+   ],
+   [
+    "ON Pampa Energia C23 (RegS)",
+    "2,24",
+    ""
+   ],
+   [
+    "Bono Prov Santa Fe 8.1% 111234",
+    "2,11",
+    ""
+   ],
+   [
+    "ON Supervielle Clase V",
+    "1,88",
+    ""
+   ],
+   [
+    "ON ICBC Clase 9 280827",
+    "1,60",
+    ""
+   ],
+   [
+    "ON Banco Comafi C21",
+    "1,23",
+    ""
+   ],
+   [
+    "ON YPF Luz C18 YFCJO",
+    "1,21",
+    ""
+   ],
+   [
+    "ON BBVA Frances Cl 49",
+    "1,18",
+    ""
+   ],
+   [
+    "ON Epec C1",
+    "1,04",
+    ""
+   ],
+   [
+    "ON Grupo ST C14",
+    "1,03",
+    ""
+   ],
+   [
+    "ON P. Aconcagua Energia C23",
+    "0,95",
+    ""
+   ],
+   [
+    "Bono Prov Santa Fe 2027 SF27D",
+    "0,95",
+    ""
+   ],
+   [
+    "ON Banco Prov Clase 8",
+    "0,94",
+    ""
+   ],
+   [
+    "ON Arcor Clase 26",
+    "0,92",
+    ""
+   ],
+   [
+    "ON P. Aconcagua Energia C22",
+    "0,89",
+    ""
+   ],
+   [
+    "ON Bco Provincia Cl 5 PVC5O",
+    "0,89",
+    ""
+   ],
+   [
+    "ON Bco Serv Transac C26",
+    "0,82",
+    ""
+   ],
+   [
+    "ON Banco Hipotecario C14",
+    "0,82",
+    ""
+   ],
+   [
+    "ON MSU Green C3",
+    "0,82",
+    ""
+   ],
+   [
+    "ON Rizobacter S 11 CC",
+    "0,79",
+    ""
+   ],
+   [
+    "ON Bco CMF Serie 20",
+    "0,65",
+    ""
+   ],
+   [
+    "ON BBVA Frances Cl 50",
+    "0,63",
+    ""
+   ],
+   [
+    "ON Supervielle Clase W",
+    "0,59",
+    ""
+   ],
+   [
+    "ON Banco Comafi C24",
+    "0,59",
+    ""
+   ],
+   [
+    "ON Banco Hipotecario C15",
+    "0,58",
+    ""
+   ],
+   [
+    "ON Bco Patagonia Cl 5",
+    "0,58",
+    ""
+   ],
+   [
+    "ON MSU Energy C13",
+    "0,58",
+    ""
+   ],
+   [
+    "ON Banco Hipotecario C16",
+    "0,57",
+    ""
+   ],
+   [
+    "Bono Prov Cordoba 030235",
+    "0,55",
+    ""
+   ],
+   [
+    "ON Pampa Energia C26",
+    "0,55",
+    ""
+   ],
+   [
+    "ON Banco Macro Clase H Reg S",
+    "0,52",
+    ""
+   ],
+   [
+    "ON Bco Serv Transac C28",
+    "0,43",
+    ""
+   ],
+   [
+    "ON Bco Serv Transac C29",
+    "0,43",
+    ""
+   ],
+   [
+    "ON Banco Comafi C26",
+    "0,41",
+    ""
+   ],
+   [
+    "Bono Prov Neuquen 2028 NDT11",
+    "0,35",
+    ""
+   ],
+   [
+    "ON Bco Serv Transac C31",
+    "0,29",
+    ""
+   ],
+   [
+    "Pagare #UMV050270010",
+    "0,28",
+    ""
+   ],
+   [
+    "ON Supervielle Clase T",
+    "0,21",
+    ""
+   ],
+   [
+    "ON Pan Amer. Energy C 12",
+    "0,13",
+    ""
+   ],
+   [
+    "ON Genneia Clase 50",
+    "0,12",
+    ""
+   ],
+   [
+    "Pagare #UMV101160018",
+    "0,06",
+    ""
+   ],
+   [
+    "ON Plaza Logistica C15",
+    "0,05",
+    ""
+   ],
+   [
+    "ON Crown Point Energy C10",
+    "0,04",
+    ""
+   ],
+   [
+    "Pagare #UMV141260003",
+    "0,03",
+    ""
+   ],
+   [
+    "Pagare #UMV121160007",
+    "0,03",
+    ""
+   ],
+   [
+    "ON Profertil C2",
+    "0,02",
+    ""
+   ],
+   [
+    "Pagare #UMV191250039",
+    "0,02",
+    ""
+   ],
+   [
+    "Pagare #UMV191250040",
+    "0,02",
+    ""
+   ],
+   [
+    "Pagare #UMV191250041",
+    "0,02",
+    ""
+   ],
+   [
+    "Pagare #UMV191250042",
+    "0,02",
+    ""
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    "",
+    "1,50"
+   ],
+   [
+    "FCI Allaria Dólar Ahorro - Clase B",
+    "1,50",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    "1,65"
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Dolar Estadounidense)",
+    "346.000.399,61",
+    ""
+   ]
+  ]
+ },
+ "87448": {
+  "id": "87448",
+  "nombre": "IOL Portafolio Potenciado",
+  "status": 200,
+  "seg": 3.99,
+  "cartera": true,
+  "cab": {
+   "Fondo": "IOL Portafolio Potenciado",
+   "Cartera al": "05/11/26",
+   "Gerente": "Adcap Asset Management S.G.F.C.I.S.A.",
+   "Depositaria": "Banco Comafi S.A.",
+   "Clasificación": "Renta Fija",
+   "Moneda": "Peso Argentina",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "Bono del Tesoro Nacional T31Y7",
+    13.91
+   ],
+   [
+    "Pagare #MAV050170082",
+    7.41
+   ],
+   [
+    "Bono del Tesoro Nacional AO28",
+    5.4
+   ],
+   [
+    "Bonos Rep Argentina AL35",
+    5.24
+   ],
+   [
+    "Cedear Google",
+    8.04
+   ],
+   [
+    "Banco Macro S.A.",
+    7.02
+   ],
+   [
+    "Grupo Financiero Galicia S.A.",
+    6.46
+   ],
+   [
+    "Pampa Energia S.A.",
+    4.75
+   ],
+   [
+    "Cedear Taiwan Semiconduct",
+    4.62
+   ],
+   [
+    "YPF S.A.",
+    4.58
+   ],
+   [
+    "BBVA Argentina S.A.",
+    4.38
+   ],
+   [
+    "Cedear NU Holdings Ltd",
+    4.36
+   ],
+   [
+    "Cedear Micron Technology",
+    4.16
+   ],
+   [
+    "Cedear Nvidia Corp.",
+    4.12
+   ],
+   [
+    "Central Puerto S.A.",
+    3.01
+   ],
+   [
+    "Cedear Mercado Libre",
+    1.85
+   ],
+   [
+    "FCI Allaria Ahorro - Clase C",
+    21.19
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    0.33
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    31.96
+   ],
+   [
+    "Participaciones Accionarias Argentina",
+    57.35
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    21.19
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    null
+   ]
+  ],
+  "suma": 110.5,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   25932255021.12
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "IOL Portafolio Potenciado"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "Adcap Asset Management S.G.F.C.I.S.A."
+   ],
+   [
+    "Depositaria",
+    "Banco Comafi S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Fija"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "0,33"
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    "",
+    "31,96"
+   ],
+   [
+    "Bono del Tesoro Nacional T31Y7",
+    "13,91",
+    ""
+   ],
+   [
+    "Pagare #MAV050170082",
+    "7,41",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional AO28",
+    "5,40",
+    ""
+   ],
+   [
+    "Bonos Rep Argentina AL35",
+    "5,24",
+    ""
+   ],
+   [
+    "Participaciones Accionarias Argentina",
+    "",
+    "57,35"
+   ],
+   [
+    "Cedear Google",
+    "8,04",
+    ""
+   ],
+   [
+    "Banco Macro S.A.",
+    "7,02",
+    ""
+   ],
+   [
+    "Grupo Financiero Galicia S.A.",
+    "6,46",
+    ""
+   ],
+   [
+    "Pampa Energia S.A.",
+    "4,75",
+    ""
+   ],
+   [
+    "Cedear Taiwan Semiconduct",
+    "4,62",
+    ""
+   ],
+   [
+    "YPF S.A.",
+    "4,58",
+    ""
+   ],
+   [
+    "BBVA Argentina S.A.",
+    "4,38",
+    ""
+   ],
+   [
+    "Cedear NU Holdings Ltd",
+    "4,36",
+    ""
+   ],
+   [
+    "Cedear Micron Technology",
+    "4,16",
+    ""
+   ],
+   [
+    "Cedear Nvidia Corp.",
+    "4,12",
+    ""
+   ],
+   [
+    "Central Puerto S.A.",
+    "3,01",
+    ""
+   ],
+   [
+    "Cedear Mercado Libre",
+    "1,85",
+    ""
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    "",
+    "21,19"
+   ],
+   [
+    "FCI Allaria Ahorro - Clase C",
+    "21,19",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "25.932.255.021,12",
+    ""
+   ]
+  ]
+ },
+ "87720": {
+  "id": "87720",
+  "nombre": "AXIS ESTRATEGIA 33",
+  "status": 200,
+  "seg": 4.35,
+  "cartera": true,
+  "cab": {
+   "Fondo": "Axis Estrategia 33",
+   "Cartera al": "05/11/26",
+   "Gerente": "Axis S.G.F.C.I.S.A.",
+   "Depositaria": "Banco Comafi S.A.",
+   "Clasificación": "Renta Mixta",
+   "Moneda": "Peso Argentina",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "Lecap S30N6",
+    12.64
+   ],
+   [
+    "Lecap S13N6",
+    11.42
+   ],
+   [
+    "Bono del Tesoro Nacional TMG28",
+    3.65
+   ],
+   [
+    "Bono del Tesoro Nacional TMG27",
+    2.13
+   ],
+   [
+    "Bono Dual TXMD8",
+    2.11
+   ],
+   [
+    "Cheque E *MAV200101952",
+    2.09
+   ],
+   [
+    "Cheque E *MAV200101953",
+    2.09
+   ],
+   [
+    "Cheque E *MAV271101337",
+    1.88
+   ],
+   [
+    "Bono del Tesoro Nacional T15E7",
+    1.78
+   ],
+   [
+    "Lecap S26F7",
+    1.75
+   ],
+   [
+    "Cheque E *CUY021200034",
+    1.7
+   ],
+   [
+    "Cheque E *MAV111201764",
+    1.59
+   ],
+   [
+    "Pagare #MAV231160020",
+    1.36
+   ],
+   [
+    "Cheque E *MAV251102259",
+    1.28
+   ],
+   [
+    "Cheque E *MAV271102028",
+    1.27
+   ],
+   [
+    "Cheque E *MAV011201961",
+    1.27
+   ],
+   [
+    "Cheque E *MAV031201399",
+    1.26
+   ],
+   [
+    "Cheque E *MAV301102316",
+    1.11
+   ],
+   [
+    "Cheque E *MAV211201487",
+    1.07
+   ],
+   [
+    "Pagare #MAV031260051",
+    1.0
+   ],
+   [
+    "Cheque E *MAV041201010",
+    1.0
+   ],
+   [
+    "Pagare #MAV120170020",
+    0.93
+   ],
+   [
+    "Pagare #MAV120170021",
+    0.93
+   ],
+   [
+    "Pagare #MAV120170022",
+    0.93
+   ],
+   [
+    "Pagare #MAV120170023",
+    0.93
+   ],
+   [
+    "Cheque E *MAV060101354",
+    0.9
+   ],
+   [
+    "Cheque E *MAV151202205",
+    0.9
+   ],
+   [
+    "Cheque E *MAV041101332",
+    0.87
+   ],
+   [
+    "Cheque E *MAV041101333",
+    0.87
+   ],
+   [
+    "Cheque E *MAV281101457",
+    0.86
+   ],
+   [
+    "Cheque E *MAV041200954",
+    0.86
+   ],
+   [
+    "Cheque E *MAV171201156",
+    0.82
+   ],
+   [
+    "Cheque E *MAV191101260",
+    0.81
+   ],
+   [
+    "Cheque E *MAV261201622",
+    0.81
+   ],
+   [
+    "Cheque E *MAV081101233",
+    0.75
+   ],
+   [
+    "Cheque E *MAV291201485",
+    0.73
+   ],
+   [
+    "Cheque E *MAV081200684",
+    0.72
+   ],
+   [
+    "Cheque E *MAV171101274",
+    0.68
+   ],
+   [
+    "Cheque E *MAV290101215",
+    0.67
+   ],
+   [
+    "Cheque E *MAV151202397",
+    0.66
+   ],
+   [
+    "Cheque E *MAV311201525",
+    0.65
+   ],
+   [
+    "Pagare #MAV291260021",
+    0.65
+   ],
+   [
+    "Cheque E *MAV201201768",
+    0.65
+   ],
+   [
+    "Pagare #MAV070170019",
+    0.64
+   ],
+   [
+    "Pagare #MAV260170019",
+    0.64
+   ],
+   [
+    "Pagare #MAV260170020",
+    0.64
+   ],
+   [
+    "Pagare #MAV260170018",
+    0.58
+   ],
+   [
+    "Pagare #MAV091160025",
+    0.58
+   ],
+   [
+    "Cheque E *MAV301201683",
+    0.53
+   ],
+   [
+    "Cheque E *MAV051101345",
+    0.52
+   ],
+   [
+    "Cheque E *MAV251102157",
+    0.52
+   ],
+   [
+    "Cheque E *MAV021201595",
+    0.51
+   ],
+   [
+    "Cheque E *MAV091201916",
+    0.51
+   ],
+   [
+    "Cheque E *MAV100201795",
+    0.5
+   ],
+   [
+    "Cheque E *MAV011201710",
+    0.5
+   ],
+   [
+    "Cheque E *MAV021201460",
+    0.5
+   ],
+   [
+    "Cheque E *MAV161201571",
+    0.49
+   ],
+   [
+    "Cheque E *MAV181201586",
+    0.49
+   ],
+   [
+    "Pagare #MAV231160036",
+    0.47
+   ],
+   [
+    "Cheque E *MAV271101400",
+    0.47
+   ],
+   [
+    "Cheque E *MAV261101092",
+    0.46
+   ],
+   [
+    "Cheque E *MAV261201560",
+    0.44
+   ],
+   [
+    "Cheque E *MAV250100960",
+    0.43
+   ],
+   [
+    "Cheque E *INP301200085",
+    0.43
+   ],
+   [
+    "Cheque E *MAV071101456",
+    0.41
+   ],
+   [
+    "Cheque E *MAV240201191",
+    0.41
+   ],
+   [
+    "Cheque E *MAV251102132",
+    0.38
+   ],
+   [
+    "Cheque E *MAV281101721",
+    0.38
+   ],
+   [
+    "Cheque E *INP041200068",
+    0.37
+   ],
+   [
+    "Cheque E *INP041200065",
+    0.37
+   ],
+   [
+    "Cheque E *INP070100065",
+    0.36
+   ],
+   [
+    "Cheque E *MAV301102977",
+    0.34
+   ],
+   [
+    "Cheque E *MAV051201653",
+    0.33
+   ],
+   [
+    "Pagare #MAV291260046",
+    0.32
+   ],
+   [
+    "Cheque E *INP050200050",
+    0.32
+   ],
+   [
+    "Pagare #MAV221260087",
+    0.32
+   ],
+   [
+    "Pagare #MAV281260035",
+    0.32
+   ],
+   [
+    "Cheque E *MAV250101074",
+    0.32
+   ],
+   [
+    "Cheque E *MAV280101127",
+    0.31
+   ],
+   [
+    "Cheque E *MAV081101340",
+    0.29
+   ],
+   [
+    "Cheque E *MAV181101637",
+    0.29
+   ],
+   [
+    "Cheque E *MAV281101660",
+    0.29
+   ],
+   [
+    "Cheque E *MAV181201522",
+    0.28
+   ],
+   [
+    "Cheque E *MAV081200785",
+    0.28
+   ],
+   [
+    "Cheque E *MAV171101497",
+    0.26
+   ],
+   [
+    "Cheque E *MAV020101155",
+    0.24
+   ],
+   [
+    "Cheque E *MAV040101014",
+    0.24
+   ],
+   [
+    "Cheque E *MAV041101426",
+    0.21
+   ],
+   [
+    "Cheque E *MAV191201357",
+    0.2
+   ],
+   [
+    "Cheque E *MAV051101698",
+    0.19
+   ],
+   [
+    "Cheque E *MAV121101918",
+    0.19
+   ],
+   [
+    "Cheque E *MAV201101984",
+    0.17
+   ],
+   [
+    "Cheque E *MAV231101187",
+    0.17
+   ],
+   [
+    "Cheque E *MAV251102022",
+    0.17
+   ],
+   [
+    "Cheque E *MAV271101695",
+    0.17
+   ],
+   [
+    "Cheque E *MAV171101523",
+    0.17
+   ],
+   [
+    "Cheque E *MAV181101411",
+    0.17
+   ],
+   [
+    "Cheque E *MAV101201576",
+    0.17
+   ],
+   [
+    "Cheque E *MAV101102005",
+    0.17
+   ],
+   [
+    "Cheque E *MAV161100992",
+    0.17
+   ],
+   [
+    "Cheque E *MAV301101757",
+    0.17
+   ],
+   [
+    "Cheque E *MAV091201837",
+    0.16
+   ],
+   [
+    "Cheque E *MAV141201551",
+    0.16
+   ],
+   [
+    "Cheque E *NIO131100037",
+    0.15
+   ],
+   [
+    "Cheque E *NIO201100048",
+    0.15
+   ],
+   [
+    "Cheque E *MAV201201725",
+    0.13
+   ],
+   [
+    "Cheque E *MAV231201433",
+    0.13
+   ],
+   [
+    "Cheque E *MAV241200623",
+    0.13
+   ],
+   [
+    "Cheque E *NIO121100037",
+    0.13
+   ],
+   [
+    "Cheque E *NIO131100040",
+    0.13
+   ],
+   [
+    "Cheque E *MAV081200789",
+    0.12
+   ],
+   [
+    "Cheque E *MAV131201260",
+    0.11
+   ],
+   [
+    "Cheque E *MAV271201335",
+    0.11
+   ],
+   [
+    "Cheque E *MAV191201384",
+    0.11
+   ],
+   [
+    "Cheque E *MAV161201473",
+    0.11
+   ],
+   [
+    "Cheque E *MAV161201474",
+    0.11
+   ],
+   [
+    "Cheque E *MAV061101793",
+    0.11
+   ],
+   [
+    "Cheque E *MAV050101489",
+    0.11
+   ],
+   [
+    "Cheque E *MAV280101248",
+    0.11
+   ],
+   [
+    "Cheque E *MAV060201256",
+    0.1
+   ],
+   [
+    "Cheque E *MAV211101094",
+    0.1
+   ],
+   [
+    "Cheque E *MAV261101070",
+    0.1
+   ],
+   [
+    "Cheque E *MAV201201597",
+    0.08
+   ],
+   [
+    "Cheque E *MAV201101324",
+    0.08
+   ],
+   [
+    "Cheque E *MAV200101696",
+    0.08
+   ],
+   [
+    "Cheque E *MAV141101823",
+    0.05
+   ],
+   [
+    "Cheque E *MAV211101416",
+    0.05
+   ],
+   [
+    "Cheque E *MAV191201425",
+    0.05
+   ],
+   [
+    "Cheque E *MAV281101715",
+    0.05
+   ],
+   [
+    "Cheque E *MAV111101888",
+    0.02
+   ],
+   [
+    "FCI MEGAQM Pesos - Clase B",
+    3.19
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    null
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    96.89
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    3.19
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    null
+   ]
+  ],
+  "suma": 100.02,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   2874761771.01
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "Axis Estrategia 33"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "Axis S.G.F.C.I.S.A."
+   ],
+   [
+    "Depositaria",
+    "Banco Comafi S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Mixta"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    ""
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    "",
+    "96,89"
+   ],
+   [
+    "Lecap S30N6",
+    "12,64",
+    ""
+   ],
+   [
+    "Lecap S13N6",
+    "11,42",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional TMG28",
+    "3,65",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional TMG27",
+    "2,13",
+    ""
+   ],
+   [
+    "Bono Dual TXMD8",
+    "2,11",
+    ""
+   ],
+   [
+    "Cheque E *MAV200101952",
+    "2,09",
+    ""
+   ],
+   [
+    "Cheque E *MAV200101953",
+    "2,09",
+    ""
+   ],
+   [
+    "Cheque E *MAV271101337",
+    "1,88",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional T15E7",
+    "1,78",
+    ""
+   ],
+   [
+    "Lecap S26F7",
+    "1,75",
+    ""
+   ],
+   [
+    "Cheque E *CUY021200034",
+    "1,70",
+    ""
+   ],
+   [
+    "Cheque E *MAV111201764",
+    "1,59",
+    ""
+   ],
+   [
+    "Pagare #MAV231160020",
+    "1,36",
+    ""
+   ],
+   [
+    "Cheque E *MAV251102259",
+    "1,28",
+    ""
+   ],
+   [
+    "Cheque E *MAV271102028",
+    "1,27",
+    ""
+   ],
+   [
+    "Cheque E *MAV011201961",
+    "1,27",
+    ""
+   ],
+   [
+    "Cheque E *MAV031201399",
+    "1,26",
+    ""
+   ],
+   [
+    "Cheque E *MAV301102316",
+    "1,11",
+    ""
+   ],
+   [
+    "Cheque E *MAV211201487",
+    "1,07",
+    ""
+   ],
+   [
+    "Pagare #MAV031260051",
+    "1,00",
+    ""
+   ],
+   [
+    "Cheque E *MAV041201010",
+    "1,00",
+    ""
+   ],
+   [
+    "Pagare #MAV120170020",
+    "0,93",
+    ""
+   ],
+   [
+    "Pagare #MAV120170021",
+    "0,93",
+    ""
+   ],
+   [
+    "Pagare #MAV120170022",
+    "0,93",
+    ""
+   ],
+   [
+    "Pagare #MAV120170023",
+    "0,93",
+    ""
+   ],
+   [
+    "Cheque E *MAV060101354",
+    "0,90",
+    ""
+   ],
+   [
+    "Cheque E *MAV151202205",
+    "0,90",
+    ""
+   ],
+   [
+    "Cheque E *MAV041101332",
+    "0,87",
+    ""
+   ],
+   [
+    "Cheque E *MAV041101333",
+    "0,87",
+    ""
+   ],
+   [
+    "Cheque E *MAV281101457",
+    "0,86",
+    ""
+   ],
+   [
+    "Cheque E *MAV041200954",
+    "0,86",
+    ""
+   ],
+   [
+    "Cheque E *MAV171201156",
+    "0,82",
+    ""
+   ],
+   [
+    "Cheque E *MAV191101260",
+    "0,81",
+    ""
+   ],
+   [
+    "Cheque E *MAV261201622",
+    "0,81",
+    ""
+   ],
+   [
+    "Cheque E *MAV081101233",
+    "0,75",
+    ""
+   ],
+   [
+    "Cheque E *MAV291201485",
+    "0,73",
+    ""
+   ],
+   [
+    "Cheque E *MAV081200684",
+    "0,72",
+    ""
+   ],
+   [
+    "Cheque E *MAV171101274",
+    "0,68",
+    ""
+   ],
+   [
+    "Cheque E *MAV290101215",
+    "0,67",
+    ""
+   ],
+   [
+    "Cheque E *MAV151202397",
+    "0,66",
+    ""
+   ],
+   [
+    "Cheque E *MAV311201525",
+    "0,65",
+    ""
+   ],
+   [
+    "Pagare #MAV291260021",
+    "0,65",
+    ""
+   ],
+   [
+    "Cheque E *MAV201201768",
+    "0,65",
+    ""
+   ],
+   [
+    "Pagare #MAV070170019",
+    "0,64",
+    ""
+   ],
+   [
+    "Pagare #MAV260170019",
+    "0,64",
+    ""
+   ],
+   [
+    "Pagare #MAV260170020",
+    "0,64",
+    ""
+   ],
+   [
+    "Pagare #MAV260170018",
+    "0,58",
+    ""
+   ],
+   [
+    "Pagare #MAV091160025",
+    "0,58",
+    ""
+   ],
+   [
+    "Cheque E *MAV301201683",
+    "0,53",
+    ""
+   ],
+   [
+    "Cheque E *MAV051101345",
+    "0,52",
+    ""
+   ],
+   [
+    "Cheque E *MAV251102157",
+    "0,52",
+    ""
+   ],
+   [
+    "Cheque E *MAV021201595",
+    "0,51",
+    ""
+   ],
+   [
+    "Cheque E *MAV091201916",
+    "0,51",
+    ""
+   ],
+   [
+    "Cheque E *MAV100201795",
+    "0,50",
+    ""
+   ],
+   [
+    "Cheque E *MAV011201710",
+    "0,50",
+    ""
+   ],
+   [
+    "Cheque E *MAV021201460",
+    "0,50",
+    ""
+   ],
+   [
+    "Cheque E *MAV161201571",
+    "0,49",
+    ""
+   ],
+   [
+    "Cheque E *MAV181201586",
+    "0,49",
+    ""
+   ],
+   [
+    "Pagare #MAV231160036",
+    "0,47",
+    ""
+   ],
+   [
+    "Cheque E *MAV271101400",
+    "0,47",
+    ""
+   ],
+   [
+    "Cheque E *MAV261101092",
+    "0,46",
+    ""
+   ],
+   [
+    "Cheque E *MAV261201560",
+    "0,44",
+    ""
+   ],
+   [
+    "Cheque E *MAV250100960",
+    "0,43",
+    ""
+   ],
+   [
+    "Cheque E *INP301200085",
+    "0,43",
+    ""
+   ],
+   [
+    "Cheque E *MAV071101456",
+    "0,41",
+    ""
+   ],
+   [
+    "Cheque E *MAV240201191",
+    "0,41",
+    ""
+   ],
+   [
+    "Cheque E *MAV251102132",
+    "0,38",
+    ""
+   ],
+   [
+    "Cheque E *MAV281101721",
+    "0,38",
+    ""
+   ],
+   [
+    "Cheque E *INP041200068",
+    "0,37",
+    ""
+   ],
+   [
+    "Cheque E *INP041200065",
+    "0,37",
+    ""
+   ],
+   [
+    "Cheque E *INP070100065",
+    "0,36",
+    ""
+   ],
+   [
+    "Cheque E *MAV301102977",
+    "0,34",
+    ""
+   ],
+   [
+    "Cheque E *MAV051201653",
+    "0,33",
+    ""
+   ],
+   [
+    "Pagare #MAV291260046",
+    "0,32",
+    ""
+   ],
+   [
+    "Cheque E *INP050200050",
+    "0,32",
+    ""
+   ],
+   [
+    "Pagare #MAV221260087",
+    "0,32",
+    ""
+   ],
+   [
+    "Pagare #MAV281260035",
+    "0,32",
+    ""
+   ],
+   [
+    "Cheque E *MAV250101074",
+    "0,32",
+    ""
+   ],
+   [
+    "Cheque E *MAV280101127",
+    "0,31",
+    ""
+   ],
+   [
+    "Cheque E *MAV081101340",
+    "0,29",
+    ""
+   ],
+   [
+    "Cheque E *MAV181101637",
+    "0,29",
+    ""
+   ],
+   [
+    "Cheque E *MAV281101660",
+    "0,29",
+    ""
+   ],
+   [
+    "Cheque E *MAV181201522",
+    "0,28",
+    ""
+   ],
+   [
+    "Cheque E *MAV081200785",
+    "0,28",
+    ""
+   ],
+   [
+    "Cheque E *MAV171101497",
+    "0,26",
+    ""
+   ],
+   [
+    "Cheque E *MAV020101155",
+    "0,24",
+    ""
+   ],
+   [
+    "Cheque E *MAV040101014",
+    "0,24",
+    ""
+   ],
+   [
+    "Cheque E *MAV041101426",
+    "0,21",
+    ""
+   ],
+   [
+    "Cheque E *MAV191201357",
+    "0,20",
+    ""
+   ],
+   [
+    "Cheque E *MAV051101698",
+    "0,19",
+    ""
+   ],
+   [
+    "Cheque E *MAV121101918",
+    "0,19",
+    ""
+   ],
+   [
+    "Cheque E *MAV201101984",
+    "0,17",
+    ""
+   ],
+   [
+    "Cheque E *MAV231101187",
+    "0,17",
+    ""
+   ],
+   [
+    "Cheque E *MAV251102022",
+    "0,17",
+    ""
+   ],
+   [
+    "Cheque E *MAV271101695",
+    "0,17",
+    ""
+   ],
+   [
+    "Cheque E *MAV171101523",
+    "0,17",
+    ""
+   ],
+   [
+    "Cheque E *MAV181101411",
+    "0,17",
+    ""
+   ],
+   [
+    "Cheque E *MAV101201576",
+    "0,17",
+    ""
+   ],
+   [
+    "Cheque E *MAV101102005",
+    "0,17",
+    ""
+   ],
+   [
+    "Cheque E *MAV161100992",
+    "0,17",
+    ""
+   ],
+   [
+    "Cheque E *MAV301101757",
+    "0,17",
+    ""
+   ],
+   [
+    "Cheque E *MAV091201837",
+    "0,16",
+    ""
+   ],
+   [
+    "Cheque E *MAV141201551",
+    "0,16",
+    ""
+   ],
+   [
+    "Cheque E *NIO131100037",
+    "0,15",
+    ""
+   ],
+   [
+    "Cheque E *NIO201100048",
+    "0,15",
+    ""
+   ],
+   [
+    "Cheque E *MAV201201725",
+    "0,13",
+    ""
+   ],
+   [
+    "Cheque E *MAV231201433",
+    "0,13",
+    ""
+   ],
+   [
+    "Cheque E *MAV241200623",
+    "0,13",
+    ""
+   ],
+   [
+    "Cheque E *NIO121100037",
+    "0,13",
+    ""
+   ],
+   [
+    "Cheque E *NIO131100040",
+    "0,13",
+    ""
+   ],
+   [
+    "Cheque E *MAV081200789",
+    "0,12",
+    ""
+   ],
+   [
+    "Cheque E *MAV131201260",
+    "0,11",
+    ""
+   ],
+   [
+    "Cheque E *MAV271201335",
+    "0,11",
+    ""
+   ],
+   [
+    "Cheque E *MAV191201384",
+    "0,11",
+    ""
+   ],
+   [
+    "Cheque E *MAV161201473",
+    "0,11",
+    ""
+   ],
+   [
+    "Cheque E *MAV161201474",
+    "0,11",
+    ""
+   ],
+   [
+    "Cheque E *MAV061101793",
+    "0,11",
+    ""
+   ],
+   [
+    "Cheque E *MAV050101489",
+    "0,11",
+    ""
+   ],
+   [
+    "Cheque E *MAV280101248",
+    "0,11",
+    ""
+   ],
+   [
+    "Cheque E *MAV060201256",
+    "0,10",
+    ""
+   ],
+   [
+    "Cheque E *MAV211101094",
+    "0,10",
+    ""
+   ],
+   [
+    "Cheque E *MAV261101070",
+    "0,10",
+    ""
+   ],
+   [
+    "Cheque E *MAV201201597",
+    "0,08",
+    ""
+   ],
+   [
+    "Cheque E *MAV201101324",
+    "0,08",
+    ""
+   ],
+   [
+    "Cheque E *MAV200101696",
+    "0,08",
+    ""
+   ],
+   [
+    "Cheque E *MAV141101823",
+    "0,05",
+    ""
+   ],
+   [
+    "Cheque E *MAV211101416",
+    "0,05",
+    ""
+   ],
+   [
+    "Cheque E *MAV191201425",
+    "0,05",
+    ""
+   ],
+   [
+    "Cheque E *MAV281101715",
+    "0,05",
+    ""
+   ],
+   [
+    "Cheque E *MAV111101888",
+    "0,02",
+    ""
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    "",
+    "3,19"
+   ],
+   [
+    "FCI MEGAQM Pesos - Clase B",
+    "3,19",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "2.874.761.771,01",
+    ""
+   ]
+  ]
+ },
+ "88006": {
+  "id": "88006",
+  "nombre": "Mercado Fondo Internacional",
+  "status": 200,
+  "seg": 1.0,
+  "cartera": false
+ },
+ "63892": {
+  "id": "63892",
+  "nombre": "TORONTO TRUST ARGENTINA 2021 F.C.I.",
+  "status": 200,
+  "seg": 4.17,
+  "cartera": true,
+  "cab": {
+   "Fondo": "Toronto Trust Argentina 2021",
+   "Cartera al": "05/11/26",
+   "Gerente": "Investis Asset Management S.A.S.G.F.C.I.",
+   "Depositaria": "Banco Credito y Securitizacion S.A. (BACS)",
+   "Clasificación": "Renta Mixta",
+   "Moneda": "Peso Argentina",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "Bonos Rep Argentina GD35",
+    12.69
+   ],
+   [
+    "Bonos Rep Argentina GD38",
+    6.21
+   ],
+   [
+    "Bonos Rep Argentina GD41",
+    2.23
+   ],
+   [
+    "Pampa Energia S.A.",
+    17.81
+   ],
+   [
+    "YPF S.A.",
+    16.77
+   ],
+   [
+    "Cresud S.A.",
+    11.39
+   ],
+   [
+    "Inversiones y Representaciones S.A. (IRSA)",
+    8.11
+   ],
+   [
+    "Ternium Argentina S.A.",
+    7.3
+   ],
+   [
+    "Aluar Aluminio Argentino S.A.I.C.",
+    6.29
+   ],
+   [
+    "Loma Negra S.A.",
+    5.38
+   ],
+   [
+    "Central Puerto S.A.",
+    2.9
+   ],
+   [
+    "Banco Hipotecario S.A.",
+    0.59
+   ],
+   [
+    "San Miguel S.A.",
+    0.1
+   ],
+   [
+    "FCI GMC Money Market - Clase C",
+    0.48
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    2.48
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    21.13
+   ],
+   [
+    "Participaciones Accionarias Argentina",
+    76.64
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    0.48
+   ],
+   [
+    "Otros Activos",
+    0.1
+   ],
+   [
+    "Pasivos",
+    null
+   ]
+  ],
+  "suma": 98.25,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   7666909740.16
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "Toronto Trust Argentina 2021"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "Investis Asset Management S.A.S.G.F.C.I."
+   ],
+   [
+    "Depositaria",
+    "Banco Credito y Securitizacion S.A. (BACS)"
+   ],
+   [
+    "Clasificación",
+    "Renta Mixta"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "2,48"
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    "",
+    "21,13"
+   ],
+   [
+    "Bonos Rep Argentina GD35",
+    "12,69",
+    ""
+   ],
+   [
+    "Bonos Rep Argentina GD38",
+    "6,21",
+    ""
+   ],
+   [
+    "Bonos Rep Argentina GD41",
+    "2,23",
+    ""
+   ],
+   [
+    "Participaciones Accionarias Argentina",
+    "",
+    "76,64"
+   ],
+   [
+    "Pampa Energia S.A.",
+    "17,81",
+    ""
+   ],
+   [
+    "YPF S.A.",
+    "16,77",
+    ""
+   ],
+   [
+    "Cresud S.A.",
+    "11,39",
+    ""
+   ],
+   [
+    "Inversiones y Representaciones S.A. (IRSA)",
+    "8,11",
+    ""
+   ],
+   [
+    "Ternium Argentina S.A.",
+    "7,30",
+    ""
+   ],
+   [
+    "Aluar Aluminio Argentino S.A.I.C.",
+    "6,29",
+    ""
+   ],
+   [
+    "Loma Negra S.A.",
+    "5,38",
+    ""
+   ],
+   [
+    "Central Puerto S.A.",
+    "2,90",
+    ""
+   ],
+   [
+    "Banco Hipotecario S.A.",
+    "0,59",
+    ""
+   ],
+   [
+    "San Miguel S.A.",
+    "0,10",
+    ""
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    "",
+    "0,48"
+   ],
+   [
+    "FCI GMC Money Market - Clase C",
+    "0,48",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    "0,10"
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "7.666.909.740,16",
+    ""
+   ]
+  ]
+ },
+ "63436": {
+  "id": "63436",
+  "nombre": "SF39-Súper Renta Futura FCI",
+  "status": 200,
+  "seg": 39.68,
+  "cartera": true,
+  "cab": {
+   "Fondo": "Super Renta Futura",
+   "Cartera al": "26/09/22",
+   "Gerente": "Santander Asset Management G.F.C.I.S.A.",
+   "Depositaria": "Banco Santander Argentina S.A.",
+   "Clasificación": "Renta Mixta",
+   "Moneda": "Peso Argentina",
+   "Región": "Global",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    null
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    null
+   ],
+   [
+    "(Peso Argentina)",
+    null
+   ]
+  ],
+  "suma": 0,
+  "total": 100.0,
+  "pn": null,
+  "filas": [
+   [
+    "Fondo",
+    "Super Renta Futura"
+   ],
+   [
+    "Cartera al (*)",
+    "26/09/22"
+   ],
+   [
+    "Gerente",
+    "Santander Asset Management G.F.C.I.S.A."
+   ],
+   [
+    "Depositaria",
+    "Banco Santander Argentina S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Mixta"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Global"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "",
+    ""
+   ]
+  ]
+ },
+ "87166": {
+  "id": "87166",
+  "nombre": "ALLARIA DÓLAR PERFORMANCE FCI",
+  "status": 200,
+  "seg": 4.38,
+  "cartera": true,
+  "cab": {
+   "Fondo": "Allaria Dólar Performance",
+   "Cartera al": "05/11/26",
+   "Gerente": "Allaria Fondos Administrados S.G.F.C.I.S.A.",
+   "Depositaria": "Banco Comafi S.A.",
+   "Clasificación": "Renta Mixta",
+   "Moneda": "Dolar Estadounidense",
+   "Región": "Global",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "BC Latam Airlines 7.875%",
+    4.11
+   ],
+   [
+    "BC BTG 080429",
+    4.08
+   ],
+   [
+    "BC Cencosud 5.95%",
+    3.52
+   ],
+   [
+    "BC XP 6.75%",
+    3.51
+   ],
+   [
+    "BC Enel Chile 160628",
+    3.46
+   ],
+   [
+    "BC Usiminas International",
+    3.43
+   ],
+   [
+    "BC Banco Do Brasil 2029",
+    3.4
+   ],
+   [
+    "BC Enap 2029",
+    3.39
+   ],
+   [
+    "ON AES Argentina Gen 150329",
+    3.28
+   ],
+   [
+    "BC Vale Overseas Limited 3.75%",
+    3.27
+   ],
+   [
+    "BC Banco Santander Chile 3.177% 271031",
+    3.26
+   ],
+   [
+    "BC Engie Energia Chile 2030",
+    3.23
+   ],
+   [
+    "BC Codelco 2030",
+    3.22
+   ],
+   [
+    "BC Colbun 30",
+    3.2
+   ],
+   [
+    "BC Bradesco 2030",
+    3.07
+   ],
+   [
+    "ON YPF C 17",
+    2.25
+   ],
+   [
+    "ON Telecom 9.5% 2031",
+    2.24
+   ],
+   [
+    "ON Transp Gas Sur Cl 3",
+    2.23
+   ],
+   [
+    "BC GEOPAR30",
+    2.22
+   ],
+   [
+    "ON Aeropuertos 2000 Regs 2031",
+    2.2
+   ],
+   [
+    "ON Pluspetrol 8.5% 2032 (REGS)",
+    2.18
+   ],
+   [
+    "ON Pampa Energia C21",
+    2.16
+   ],
+   [
+    "ON Barclays Bank 040429",
+    2.16
+   ],
+   [
+    "BC Rakuten 2029",
+    1.84
+   ],
+   [
+    "BC Suzano Papel 2029",
+    1.76
+   ],
+   [
+    "ON Banco Macro Clase H",
+    1.74
+   ],
+   [
+    "ON Bco Galicia Clase 16",
+    1.73
+   ],
+   [
+    "ON Tidewater Inc.",
+    1.4
+   ],
+   [
+    "BC Aeromexico 8.625% 151131",
+    1.34
+   ],
+   [
+    "ON Zebra Technologies 010632",
+    1.32
+   ],
+   [
+    "ON Adani Ports 300727",
+    1.28
+   ],
+   [
+    "ON Jaguar Land Rover 011027",
+    1.27
+   ],
+   [
+    "ON YPF Luz C18 YFCJO",
+    1.25
+   ],
+   [
+    "ON Aramco 211029",
+    1.25
+   ],
+   [
+    "ON Eleven 2028",
+    1.23
+   ],
+   [
+    "BC BRF 2030",
+    1.2
+   ],
+   [
+    "ON Ally 130629",
+    1.12
+   ],
+   [
+    "ON Genneia Clase 49",
+    1.08
+   ],
+   [
+    "BC TRAGSA 5.55%",
+    1.07
+   ],
+   [
+    "BC Brasil 110630",
+    1.05
+   ],
+   [
+    "ON Yara 040630",
+    1.01
+   ],
+   [
+    "ON HTA Group 040629",
+    0.89
+   ],
+   [
+    "ON Western Union 150629",
+    0.87
+   ],
+   [
+    "ON StoneCo Ltd.",
+    0.8
+   ],
+   [
+    "ON Centene 150129",
+    0.75
+   ],
+   [
+    "ON HF Sinclair 150131",
+    0.66
+   ],
+   [
+    "ON Meritage Homes 150429",
+    0.62
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    2.4
+   ],
+   [
+    "Titulos de Deuda en Dolar Estadounidense",
+    97.58
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    0.02
+   ]
+  ],
+  "suma": 97.6,
+  "total": 100.0,
+  "pn": [
+   "(Dolar Estadounidense)",
+   23345435.47
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "Allaria Dólar Performance"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "Allaria Fondos Administrados S.G.F.C.I.S.A."
+   ],
+   [
+    "Depositaria",
+    "Banco Comafi S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Mixta"
+   ],
+   [
+    "Moneda",
+    "Dolar Estadounidense"
+   ],
+   [
+    "Región",
+    "Global"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "2,40"
+   ],
+   [
+    "Titulos de Deuda en Dolar Estadounidense",
+    "",
+    "97,58"
+   ],
+   [
+    "BC Latam Airlines 7.875%",
+    "4,11",
+    ""
+   ],
+   [
+    "BC BTG 080429",
+    "4,08",
+    ""
+   ],
+   [
+    "BC Cencosud 5.95%",
+    "3,52",
+    ""
+   ],
+   [
+    "BC XP 6.75%",
+    "3,51",
+    ""
+   ],
+   [
+    "BC Enel Chile 160628",
+    "3,46",
+    ""
+   ],
+   [
+    "BC Usiminas International",
+    "3,43",
+    ""
+   ],
+   [
+    "BC Banco Do Brasil 2029",
+    "3,40",
+    ""
+   ],
+   [
+    "BC Enap 2029",
+    "3,39",
+    ""
+   ],
+   [
+    "ON AES Argentina Gen 150329",
+    "3,28",
+    ""
+   ],
+   [
+    "BC Vale Overseas Limited 3.75%",
+    "3,27",
+    ""
+   ],
+   [
+    "BC Banco Santander Chile 3.177% 271031",
+    "3,26",
+    ""
+   ],
+   [
+    "BC Engie Energia Chile 2030",
+    "3,23",
+    ""
+   ],
+   [
+    "BC Codelco 2030",
+    "3,22",
+    ""
+   ],
+   [
+    "BC Colbun 30",
+    "3,20",
+    ""
+   ],
+   [
+    "BC Bradesco 2030",
+    "3,07",
+    ""
+   ],
+   [
+    "ON YPF C 17",
+    "2,25",
+    ""
+   ],
+   [
+    "ON Telecom 9.5% 2031",
+    "2,24",
+    ""
+   ],
+   [
+    "ON Transp Gas Sur Cl 3",
+    "2,23",
+    ""
+   ],
+   [
+    "BC GEOPAR30",
+    "2,22",
+    ""
+   ],
+   [
+    "ON Aeropuertos 2000 Regs 2031",
+    "2,20",
+    ""
+   ],
+   [
+    "ON Pluspetrol 8.5% 2032 (REGS)",
+    "2,18",
+    ""
+   ],
+   [
+    "ON Pampa Energia C21",
+    "2,16",
+    ""
+   ],
+   [
+    "ON Barclays Bank 040429",
+    "2,16",
+    ""
+   ],
+   [
+    "BC Rakuten 2029",
+    "1,84",
+    ""
+   ],
+   [
+    "BC Suzano Papel 2029",
+    "1,76",
+    ""
+   ],
+   [
+    "ON Banco Macro Clase H",
+    "1,74",
+    ""
+   ],
+   [
+    "ON Bco Galicia Clase 16",
+    "1,73",
+    ""
+   ],
+   [
+    "ON Tidewater Inc.",
+    "1,40",
+    ""
+   ],
+   [
+    "BC Aeromexico 8.625% 151131",
+    "1,34",
+    ""
+   ],
+   [
+    "ON Zebra Technologies 010632",
+    "1,32",
+    ""
+   ],
+   [
+    "ON Adani Ports 300727",
+    "1,28",
+    ""
+   ],
+   [
+    "ON Jaguar Land Rover 011027",
+    "1,27",
+    ""
+   ],
+   [
+    "ON YPF Luz C18 YFCJO",
+    "1,25",
+    ""
+   ],
+   [
+    "ON Aramco 211029",
+    "1,25",
+    ""
+   ],
+   [
+    "ON Eleven 2028",
+    "1,23",
+    ""
+   ],
+   [
+    "BC BRF 2030",
+    "1,20",
+    ""
+   ],
+   [
+    "ON Ally 130629",
+    "1,12",
+    ""
+   ],
+   [
+    "ON Genneia Clase 49",
+    "1,08",
+    ""
+   ],
+   [
+    "BC TRAGSA 5.55%",
+    "1,07",
+    ""
+   ],
+   [
+    "BC Brasil 110630",
+    "1,05",
+    ""
+   ],
+   [
+    "ON Yara 040630",
+    "1,01",
+    ""
+   ],
+   [
+    "ON HTA Group 040629",
+    "0,89",
+    ""
+   ],
+   [
+    "ON Western Union 150629",
+    "0,87",
+    ""
+   ],
+   [
+    "ON StoneCo Ltd.",
+    "0,80",
+    ""
+   ],
+   [
+    "ON Centene 150129",
+    "0,75",
+    ""
+   ],
+   [
+    "ON HF Sinclair 150131",
+    "0,66",
+    ""
+   ],
+   [
+    "ON Meritage Homes 150429",
+    "0,62",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    "0,02"
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Dolar Estadounidense)",
+    "23.345.435,47",
+    ""
+   ]
+  ]
+ },
+ "87188": {
+  "id": "87188",
+  "nombre": "COCOS ACCIONES FCI",
+  "status": 200,
+  "seg": 64.47,
+  "cartera": true,
+  "cab": {
+   "Fondo": "Cocos Acciones",
+   "Cartera al": "05/11/26",
+   "Gerente": "Cocos Asset Management S.A.",
+   "Depositaria": "Banco Comafi S.A.",
+   "Clasificación": "Renta Fija",
+   "Moneda": "Peso Argentina",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "Banco Macro S.A.",
+    11.24
+   ],
+   [
+    "Grupo Financiero Galicia S.A.",
+    10.92
+   ],
+   [
+    "Cedear Berkshire Hath Inc",
+    10.49
+   ],
+   [
+    "Pampa Energia S.A.",
+    10.0
+   ],
+   [
+    "Central Puerto S.A.",
+    9.8
+   ],
+   [
+    "Inversiones y Representaciones S.A. (IRSA)",
+    7.04
+   ],
+   [
+    "YPF S.A.",
+    6.13
+   ],
+   [
+    "Transportadora de Gas del Norte S.A.",
+    5.92
+   ],
+   [
+    "Loma Negra S.A.",
+    5.47
+   ],
+   [
+    "Cedear NU Holdings Ltd",
+    4.99
+   ],
+   [
+    "Transportadora Gas del Sur S.A.",
+    4.94
+   ],
+   [
+    "Distribuidora de Gas del Centro S.A.",
+    3.86
+   ],
+   [
+    "Cedear Mercado Libre",
+    3.2
+   ],
+   [
+    "Transener S.A.",
+    1.87
+   ],
+   [
+    "Ternium Argentina S.A.",
+    1.11
+   ],
+   [
+    "Metrogas S.A.",
+    0.99
+   ],
+   [
+    "ADR Vista Oil y Gas",
+    2.88
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    0.01
+   ],
+   [
+    "Participaciones Accionarias Argentina",
+    97.97
+   ],
+   [
+    "Participaciones Accionarias Estados Unidos",
+    2.88
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    null
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    null
+   ]
+  ],
+  "suma": 100.85,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   3731197663.73
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "Cocos Acciones"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "Cocos Asset Management S.A."
+   ],
+   [
+    "Depositaria",
+    "Banco Comafi S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Fija"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "0,01"
+   ],
+   [
+    "Participaciones Accionarias Argentina",
+    "",
+    "97,97"
+   ],
+   [
+    "Banco Macro S.A.",
+    "11,24",
+    ""
+   ],
+   [
+    "Grupo Financiero Galicia S.A.",
+    "10,92",
+    ""
+   ],
+   [
+    "Cedear Berkshire Hath Inc",
+    "10,49",
+    ""
+   ],
+   [
+    "Pampa Energia S.A.",
+    "10,00",
+    ""
+   ],
+   [
+    "Central Puerto S.A.",
+    "9,80",
+    ""
+   ],
+   [
+    "Inversiones y Representaciones S.A. (IRSA)",
+    "7,04",
+    ""
+   ],
+   [
+    "YPF S.A.",
+    "6,13",
+    ""
+   ],
+   [
+    "Transportadora de Gas del Norte S.A.",
+    "5,92",
+    ""
+   ],
+   [
+    "Loma Negra S.A.",
+    "5,47",
+    ""
+   ],
+   [
+    "Cedear NU Holdings Ltd",
+    "4,99",
+    ""
+   ],
+   [
+    "Transportadora Gas del Sur S.A.",
+    "4,94",
+    ""
+   ],
+   [
+    "Distribuidora de Gas del Centro S.A.",
+    "3,86",
+    ""
+   ],
+   [
+    "Cedear Mercado Libre",
+    "3,20",
+    ""
+   ],
+   [
+    "Transener S.A.",
+    "1,87",
+    ""
+   ],
+   [
+    "Ternium Argentina S.A.",
+    "1,11",
+    ""
+   ],
+   [
+    "Metrogas S.A.",
+    "0,99",
+    ""
+   ],
+   [
+    "Participaciones Accionarias Estados Unidos",
+    "",
+    "2,88"
+   ],
+   [
+    "ADR Vista Oil y Gas",
+    "2,88",
+    ""
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    "",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "3.731.197.663,73",
+    ""
+   ]
+  ]
+ },
+ "63801": {
+  "id": "63801",
+  "nombre": "ARGENFUNDS Renta Total F.C.I.",
+  "status": 200,
+  "seg": 4.49,
+  "cartera": true,
+  "cab": {
+   "Fondo": "Argenfunds Renta Total",
+   "Cartera al": "05/11/26",
+   "Gerente": "Argenfunds S.A.",
+   "Depositaria": "Banco Macro S.A.",
+   "Clasificación": "Renta Fija",
+   "Moneda": "Peso Argentina",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "Pagare #MAV221260025",
+    19.36
+   ],
+   [
+    "Pagare #MAV221260024",
+    15.3
+   ],
+   [
+    "Pagare #MAV221260026",
+    13.03
+   ],
+   [
+    "Pagare #MAV190170020",
+    11.72
+   ],
+   [
+    "Pagare #MAV190170015",
+    8.37
+   ],
+   [
+    "Pagare #MAV190170024",
+    8.24
+   ],
+   [
+    "ON TGLT Clase 16",
+    0.11
+   ],
+   [
+    "Caucion Colocadora $ BYMA",
+    19.36
+   ],
+   [
+    "FCI BAVSA Ahorro - Clase B",
+    4.39
+   ],
+   [
+    "FCI Allaria Residencial I FCIC",
+    0.3
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    0.03
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    76.13
+   ],
+   [
+    "Operaciones a Plazo en Peso Argentina",
+    19.36
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    4.69
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    null
+   ]
+  ],
+  "suma": 100.18,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   5422949746.84
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "Argenfunds Renta Total"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "Argenfunds S.A."
+   ],
+   [
+    "Depositaria",
+    "Banco Macro S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Fija"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "0,03"
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    "",
+    "76,13"
+   ],
+   [
+    "Pagare #MAV221260025",
+    "19,36",
+    ""
+   ],
+   [
+    "Pagare #MAV221260024",
+    "15,30",
+    ""
+   ],
+   [
+    "Pagare #MAV221260026",
+    "13,03",
+    ""
+   ],
+   [
+    "Pagare #MAV190170020",
+    "11,72",
+    ""
+   ],
+   [
+    "Pagare #MAV190170015",
+    "8,37",
+    ""
+   ],
+   [
+    "Pagare #MAV190170024",
+    "8,24",
+    ""
+   ],
+   [
+    "ON TGLT Clase 16",
+    "0,11",
+    ""
+   ],
+   [
+    "Operaciones a Plazo en Peso Argentina",
+    "",
+    "19,36"
+   ],
+   [
+    "Caucion Colocadora $ BYMA",
+    "19,36",
+    ""
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    "",
+    "4,69"
+   ],
+   [
+    "FCI BAVSA Ahorro - Clase B",
+    "4,39",
+    ""
+   ],
+   [
+    "FCI Allaria Residencial I FCIC",
+    "0,30",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "5.422.949.746,84",
+    ""
+   ]
+  ]
+ },
+ "63742": {
+  "id": "63742",
+  "nombre": "LOMBARD ACCIONES LIDERES",
+  "status": 200,
+  "seg": 4.5,
+  "cartera": true,
+  "cab": {
+   "Fondo": "Lombard Acciones Lideres",
+   "Cartera al": "05/11/26",
+   "Gerente": "Patagonia Inversora S.A.U. S.G.F.C.I.",
+   "Depositaria": "Banco Patagonia S.A.",
+   "Clasificación": "Renta Variable",
+   "Moneda": "Peso Argentina",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "YPF S.A.",
+    16.56
+   ],
+   [
+    "Grupo Financiero Galicia S.A.",
+    15.34
+   ],
+   [
+    "Pampa Energia S.A.",
+    14.74
+   ],
+   [
+    "Banco Macro S.A.",
+    7.36
+   ],
+   [
+    "BBVA Argentina S.A.",
+    5.2
+   ],
+   [
+    "Cedear Mercado Libre",
+    4.36
+   ],
+   [
+    "Ternium Argentina S.A.",
+    3.21
+   ],
+   [
+    "Transener S.A.",
+    2.9
+   ],
+   [
+    "Transportadora de Gas del Norte S.A.",
+    2.9
+   ],
+   [
+    "Central Puerto S.A.",
+    2.7
+   ],
+   [
+    "Edenor S.A.",
+    2.54
+   ],
+   [
+    "Grupo Supervielle S.A.",
+    2.43
+   ],
+   [
+    "Metrogas S.A.",
+    2.2
+   ],
+   [
+    "Transportadora Gas del Sur S.A.",
+    1.89
+   ],
+   [
+    "Inversiones y Representaciones S.A. (IRSA)",
+    1.85
+   ],
+   [
+    "Distribuidora de Gas del Centro S.A.",
+    1.75
+   ],
+   [
+    "Sociedad Comercial del Plata S.A.",
+    1.71
+   ],
+   [
+    "Cresud S.A.",
+    1.47
+   ],
+   [
+    "Banco de Valores S.A.",
+    1.17
+   ],
+   [
+    "Aluar Aluminio Argentino S.A.I.C.",
+    1.1
+   ],
+   [
+    "Loma Negra S.A.",
+    1.1
+   ],
+   [
+    "Bolsas y Mercados Argentinos S.A.",
+    0.95
+   ],
+   [
+    "Banco Hipotecario S.A.",
+    0.85
+   ],
+   [
+    "Cedear Vista Oil Gas",
+    0.66
+   ],
+   [
+    "Telecom Argentina S.A.",
+    0.23
+   ],
+   [
+    "Camuzzi Gas Pampeana S.A.",
+    0.17
+   ],
+   [
+    "FCI Pionero Pesos Plus - Clase B",
+    1.04
+   ],
+   [
+    "FCI BM Smart Money Market - Clase B",
+    0.75
+   ],
+   [
+    "FCI Premier Renta CP $ CC",
+    0.48
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    0.55
+   ],
+   [
+    "Participaciones Accionarias Argentina",
+    97.34
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    2.27
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    null
+   ]
+  ],
+  "suma": 99.61,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   14658459609.04
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "Lombard Acciones Lideres"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "Patagonia Inversora S.A.U. S.G.F.C.I."
+   ],
+   [
+    "Depositaria",
+    "Banco Patagonia S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Variable"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "0,55"
+   ],
+   [
+    "Participaciones Accionarias Argentina",
+    "",
+    "97,34"
+   ],
+   [
+    "YPF S.A.",
+    "16,56",
+    ""
+   ],
+   [
+    "Grupo Financiero Galicia S.A.",
+    "15,34",
+    ""
+   ],
+   [
+    "Pampa Energia S.A.",
+    "14,74",
+    ""
+   ],
+   [
+    "Banco Macro S.A.",
+    "7,36",
+    ""
+   ],
+   [
+    "BBVA Argentina S.A.",
+    "5,20",
+    ""
+   ],
+   [
+    "Cedear Mercado Libre",
+    "4,36",
+    ""
+   ],
+   [
+    "Ternium Argentina S.A.",
+    "3,21",
+    ""
+   ],
+   [
+    "Transener S.A.",
+    "2,90",
+    ""
+   ],
+   [
+    "Transportadora de Gas del Norte S.A.",
+    "2,90",
+    ""
+   ],
+   [
+    "Central Puerto S.A.",
+    "2,70",
+    ""
+   ],
+   [
+    "Edenor S.A.",
+    "2,54",
+    ""
+   ],
+   [
+    "Grupo Supervielle S.A.",
+    "2,43",
+    ""
+   ],
+   [
+    "Metrogas S.A.",
+    "2,20",
+    ""
+   ],
+   [
+    "Transportadora Gas del Sur S.A.",
+    "1,89",
+    ""
+   ],
+   [
+    "Inversiones y Representaciones S.A. (IRSA)",
+    "1,85",
+    ""
+   ],
+   [
+    "Distribuidora de Gas del Centro S.A.",
+    "1,75",
+    ""
+   ],
+   [
+    "Sociedad Comercial del Plata S.A.",
+    "1,71",
+    ""
+   ],
+   [
+    "Cresud S.A.",
+    "1,47",
+    ""
+   ],
+   [
+    "Banco de Valores S.A.",
+    "1,17",
+    ""
+   ],
+   [
+    "Aluar Aluminio Argentino S.A.I.C.",
+    "1,10",
+    ""
+   ],
+   [
+    "Loma Negra S.A.",
+    "1,10",
+    ""
+   ],
+   [
+    "Bolsas y Mercados Argentinos S.A.",
+    "0,95",
+    ""
+   ],
+   [
+    "Banco Hipotecario S.A.",
+    "0,85",
+    ""
+   ],
+   [
+    "Cedear Vista Oil Gas",
+    "0,66",
+    ""
+   ],
+   [
+    "Telecom Argentina S.A.",
+    "0,23",
+    ""
+   ],
+   [
+    "Camuzzi Gas Pampeana S.A.",
+    "0,17",
+    ""
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    "",
+    "2,27"
+   ],
+   [
+    "FCI Pionero Pesos Plus - Clase B",
+    "1,04",
+    ""
+   ],
+   [
+    "FCI BM Smart Money Market - Clase B",
+    "0,75",
+    ""
+   ],
+   [
+    "FCI Premier Renta CP $ CC",
+    "0,48",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "14.658.459.609,04",
+    ""
+   ]
+  ]
+ },
+ "63759": {
+  "id": "63759",
+  "nombre": "SF32-Superfondo Multirenta F.C.I.",
+  "status": 200,
+  "seg": 4.91,
+  "cartera": true,
+  "cab": {
+   "Fondo": "Superfondo Multirenta",
+   "Cartera al": "05/11/26",
+   "Gerente": "Santander Asset Management G.F.C.I.S.A.",
+   "Depositaria": "Banco Santander Argentina S.A.",
+   "Clasificación": "Renta Mixta",
+   "Moneda": "Peso Argentina",
+   "Región": "Global",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "Lelink D30N6",
+    28.48
+   ],
+   [
+    "Letra Tesoro Nac D15E7",
+    27.8
+   ],
+   [
+    "Lecap S30N6",
+    27.79
+   ],
+   [
+    "Lecer X30N6",
+    5.64
+   ],
+   [
+    "Lecap S13N6",
+    3.95
+   ],
+   [
+    "ON Pan Amer. Energy C 18",
+    3.11
+   ],
+   [
+    "ON Vista Gas y Oil Arg C18",
+    2.72
+   ],
+   [
+    "FCI Schroder Liquidez - Clase B",
+    0.4
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    0.01
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    99.5
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    0.4
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    0.09
+   ]
+  ],
+  "suma": 99.89,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   69206015950.78
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "Superfondo Multirenta"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "Santander Asset Management G.F.C.I.S.A."
+   ],
+   [
+    "Depositaria",
+    "Banco Santander Argentina S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Mixta"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Global"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "0,01"
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    "",
+    "99,50"
+   ],
+   [
+    "Lelink D30N6",
+    "28,48",
+    ""
+   ],
+   [
+    "Letra Tesoro Nac D15E7",
+    "27,80",
+    ""
+   ],
+   [
+    "Lecap S30N6",
+    "27,79",
+    ""
+   ],
+   [
+    "Lecer X30N6",
+    "5,64",
+    ""
+   ],
+   [
+    "Lecap S13N6",
+    "3,95",
+    ""
+   ],
+   [
+    "ON Pan Amer. Energy C 18",
+    "3,11",
+    ""
+   ],
+   [
+    "ON Vista Gas y Oil Arg C18",
+    "2,72",
+    ""
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    "",
+    "0,40"
+   ],
+   [
+    "FCI Schroder Liquidez - Clase B",
+    "0,40",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    "0,09"
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "69.206.015.950,78",
+    ""
+   ]
+  ]
+ },
+ "63949": {
+  "id": "63949",
+  "nombre": "GMC RETORNO TOTAL I",
+  "status": 200,
+  "seg": 4.53,
+  "cartera": true,
+  "cab": {
+   "Fondo": "GMC Retorno Total",
+   "Cartera al": "05/11/26",
+   "Gerente": "GMC Asset Management S.A.U.",
+   "Depositaria": "Banco de Valores S.A.",
+   "Clasificación": "Renta Mixta",
+   "Moneda": "Peso Argentina",
+   "Región": "Global",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    0.04
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    99.96
+   ]
+  ],
+  "suma": 0,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   5146847925.82
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "GMC Retorno Total"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "GMC Asset Management S.A.U."
+   ],
+   [
+    "Depositaria",
+    "Banco de Valores S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Mixta"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Global"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "0,04"
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    "99,96"
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "5.146.847.925,82",
+    ""
+   ]
+  ]
+ },
+ "63854": {
+  "id": "63854",
+  "nombre": "HF RENTA DOLARES",
+  "status": 200,
+  "seg": 1.84,
+  "cartera": true,
+  "cab": {
+   "Fondo": "HF Renta Dólares",
+   "Cartera al": "20/11/25",
+   "Gerente": "Galicia Asset Management S.A.U.",
+   "Depositaria": "Banco de Galicia y Buenos Aires S.A.",
+   "Clasificación": "Renta Fija",
+   "Moneda": "Dolar Estadounidense",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    null
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    null
+   ],
+   [
+    "(Dolar Estadounidense)",
+    null
+   ]
+  ],
+  "suma": 0,
+  "total": 100.0,
+  "pn": null,
+  "filas": [
+   [
+    "Fondo",
+    "HF Renta Dólares"
+   ],
+   [
+    "Cartera al (*)",
+    "20/11/25"
+   ],
+   [
+    "Gerente",
+    "Galicia Asset Management S.A.U."
+   ],
+   [
+    "Depositaria",
+    "Banco de Galicia y Buenos Aires S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Fija"
+   ],
+   [
+    "Moneda",
+    "Dolar Estadounidense"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Dolar Estadounidense)",
+    "",
+    ""
+   ]
+  ]
+ },
+ "88613": {
+  "id": "88613",
+  "nombre": "Pionero Horizonte V",
+  "status": 200,
+  "seg": 0.93,
+  "cartera": false
+ },
+ "88503": {
+  "id": "88503",
+  "nombre": "FBA RENTA MIXTA III",
+  "status": 200,
+  "seg": 3.92,
+  "cartera": true,
+  "cab": {
+   "Fondo": "FBA Renta Mixta III",
+   "Cartera al": "05/11/26",
+   "Gerente": "BBVA Asset Management Argentina S.A.U.S.G.F.C.I.",
+   "Depositaria": "BBVA Argentina S.A.",
+   "Clasificación": "Renta Mixta",
+   "Moneda": "Peso Argentina",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    99.92
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    0.08
+   ]
+  ],
+  "suma": 0,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   1038025.86
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "FBA Renta Mixta III"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "BBVA Asset Management Argentina S.A.U.S.G.F.C.I."
+   ],
+   [
+    "Depositaria",
+    "BBVA Argentina S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Mixta"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "99,92"
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    "0,08"
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "1.038.025,86",
+    ""
+   ]
+  ]
+ },
+ "88057": {
+  "id": "88057",
+  "nombre": "Superfondo Renta Balance IV Fondo Común de Inversión",
+  "status": 200,
+  "seg": 0.93,
+  "cartera": false
+ },
+ "83695": {
+  "id": "83695",
+  "nombre": "BULL MARKET FONDO COMUN DE INVERSION ASG",
+  "status": 200,
+  "seg": 1.1,
+  "cartera": false
+ },
+ "63346": {
+  "id": "63346",
+  "nombre": "Alpha Renta Fija Serie 4 Ex 1784 Renta Fija Serie",
+  "status": 200,
+  "seg": 5.08,
+  "cartera": true,
+  "cab": {
+   "Fondo": "Alpha Renta Fija Serie 4",
+   "Cartera al": "05/11/26",
+   "Gerente": "ICBC Investments Argentina S.A.U.S.G.F.C.I.",
+   "Depositaria": "ICBC (Arg) S.A.",
+   "Clasificación": "Renta Fija",
+   "Moneda": "Peso Argentina",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "Lecap S30N6",
+    30.23
+   ],
+   [
+    "Lecap S13N6",
+    29.22
+   ],
+   [
+    "Lecap S29E7",
+    19.27
+   ],
+   [
+    "Bono del Tesoro Nacional T15E7",
+    7.18
+   ],
+   [
+    "Bono Dual TTD26",
+    5.48
+   ],
+   [
+    "Boncer TZXY7",
+    4.5
+   ],
+   [
+    "Lecer X29E7",
+    3.69
+   ],
+   [
+    "FCI Pionero Pesos Plus - Clase B",
+    0.47
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    0.39
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    99.58
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    0.47
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    null
+   ]
+  ],
+  "suma": 100.04,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   56922583134.41
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "Alpha Renta Fija Serie 4"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "ICBC Investments Argentina S.A.U.S.G.F.C.I."
+   ],
+   [
+    "Depositaria",
+    "ICBC (Arg) S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Fija"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "0,39"
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    "",
+    "99,58"
+   ],
+   [
+    "Lecap S30N6",
+    "30,23",
+    ""
+   ],
+   [
+    "Lecap S13N6",
+    "29,22",
+    ""
+   ],
+   [
+    "Lecap S29E7",
+    "19,27",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional T15E7",
+    "7,18",
+    ""
+   ],
+   [
+    "Bono Dual TTD26",
+    "5,48",
+    ""
+   ],
+   [
+    "Boncer TZXY7",
+    "4,50",
+    ""
+   ],
+   [
+    "Lecer X29E7",
+    "3,69",
+    ""
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    "",
+    "0,47"
+   ],
+   [
+    "FCI Pionero Pesos Plus - Clase B",
+    "0,47",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "56.922.583.134,41",
+    ""
+   ]
+  ]
+ },
+ "87362": {
+  "id": "87362",
+  "nombre": "INSIDER RETORNO ESTRATÉGICO",
+  "status": 200,
+  "seg": 5.21,
+  "cartera": true,
+  "cab": {
+   "Fondo": "Insider Retorno Estratégico",
+   "Cartera al": "05/11/26",
+   "Gerente": "Dracma Asset Management S.A.",
+   "Depositaria": "Banco Comafi S.A.",
+   "Clasificación": "Renta Fija",
+   "Moneda": "Peso Argentina",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "Bono del Tesoro Nacional T31Y7",
+    10.45
+   ],
+   [
+    "Letra Tesoro Nac T30A7",
+    7.3
+   ],
+   [
+    "Bono del Tesoro Nacional TML27",
+    6.12
+   ],
+   [
+    "Bono del Tesoro Nacional AO27",
+    5.1
+   ],
+   [
+    "Bono Dual TXMJ8",
+    3.91
+   ],
+   [
+    "Bono Boncer TXMJ9",
+    3.06
+   ],
+   [
+    "Bonos Rep Argentina 2030",
+    2.92
+   ],
+   [
+    "Bono del Tesoro Nacional TMG27",
+    2.75
+   ],
+   [
+    "Lecap S30N6",
+    2.0
+   ],
+   [
+    "Lecer X30N6",
+    1.99
+   ],
+   [
+    "Bono Bopreal 2028 Serie 4 Clase B BPOB8",
+    1.92
+   ],
+   [
+    "Bono Boncer 2029 TZXM9",
+    1.9
+   ],
+   [
+    "Bono Boncer 2027 TZXM7",
+    1.69
+   ],
+   [
+    "ON YPF Clase 44",
+    1.55
+   ],
+   [
+    "Bono Boncer TZXD7",
+    1.32
+   ],
+   [
+    "Bonos Rep Argentina AE38",
+    1.13
+   ],
+   [
+    "Bonos Rep Argentina AL35",
+    1.05
+   ],
+   [
+    "ON Vista Energy 31",
+    1.0
+   ],
+   [
+    "ON Pampa Energia C28",
+    0.98
+   ],
+   [
+    "ON YPF Clase 42",
+    0.94
+   ],
+   [
+    "ON YPF Clase 34",
+    0.92
+   ],
+   [
+    "ON Pluspetrol 8.5% 2032 (REGS)",
+    0.9
+   ],
+   [
+    "ON Edenor C7 DNC7O",
+    0.88
+   ],
+   [
+    "ON Tecpetrol C12",
+    0.86
+   ],
+   [
+    "Bono Capitalizable T30J7",
+    0.7
+   ],
+   [
+    "ON Vista Gas y Oil Arg C24",
+    0.69
+   ],
+   [
+    "ON Loma Negra C5",
+    0.54
+   ],
+   [
+    "Bono del Tesoro Nacional TMG28",
+    0.46
+   ],
+   [
+    "ON Pluspetrol Clase 7",
+    0.45
+   ],
+   [
+    "ON Oldelval Clase 6",
+    0.32
+   ],
+   [
+    "Bonos Rep Argentina AL41",
+    0.28
+   ],
+   [
+    "Bonos Rep Argentina GD41",
+    0.22
+   ],
+   [
+    "Caucion Colocadora $ Merval",
+    15.45
+   ],
+   [
+    "Cedear Berkshire Hath Inc",
+    2.92
+   ],
+   [
+    "Cedear Mercado Libre",
+    2.39
+   ],
+   [
+    "Metrogas S.A.",
+    1.35
+   ],
+   [
+    "Ternium Argentina S.A.",
+    1.22
+   ],
+   [
+    "Pampa Energia S.A.",
+    0.97
+   ],
+   [
+    "Loma Negra S.A.",
+    0.86
+   ],
+   [
+    "Transportadora Gas del Sur S.A.",
+    0.7
+   ],
+   [
+    "Grupo Supervielle S.A.",
+    0.67
+   ],
+   [
+    "Edenor S.A.",
+    0.61
+   ],
+   [
+    "YPF S.A.",
+    0.58
+   ],
+   [
+    "Distribuidora de Gas del Centro S.A.",
+    0.47
+   ],
+   [
+    "Banco de Valores S.A.",
+    0.42
+   ],
+   [
+    "Central Puerto S.A.",
+    0.41
+   ],
+   [
+    "Molinos Agro",
+    0.29
+   ],
+   [
+    "Bolsas y Mercados Argentinos S.A.",
+    0.2
+   ],
+   [
+    "Aluar Aluminio Argentino S.A.I.C.",
+    0.15
+   ],
+   [
+    "Banco Macro S.A.",
+    0.1
+   ],
+   [
+    "Grupo Financiero Galicia S.A.",
+    0.09
+   ],
+   [
+    "FCI BM Smart Money Market - Clase B",
+    0.03
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    null
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    66.31
+   ],
+   [
+    "Operaciones a Plazo en Peso Argentina",
+    15.45
+   ],
+   [
+    "Participaciones Accionarias Argentina",
+    14.4
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    0.03
+   ],
+   [
+    "Otros Activos",
+    4.34
+   ],
+   [
+    "Pasivos",
+    null
+   ]
+  ],
+  "suma": 96.18,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   10764414383.98
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "Insider Retorno Estratégico"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "Dracma Asset Management S.A."
+   ],
+   [
+    "Depositaria",
+    "Banco Comafi S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Fija"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    ""
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    "",
+    "66,31"
+   ],
+   [
+    "Bono del Tesoro Nacional T31Y7",
+    "10,45",
+    ""
+   ],
+   [
+    "Letra Tesoro Nac T30A7",
+    "7,30",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional TML27",
+    "6,12",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional AO27",
+    "5,10",
+    ""
+   ],
+   [
+    "Bono Dual TXMJ8",
+    "3,91",
+    ""
+   ],
+   [
+    "Bono Boncer TXMJ9",
+    "3,06",
+    ""
+   ],
+   [
+    "Bonos Rep Argentina 2030",
+    "2,92",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional TMG27",
+    "2,75",
+    ""
+   ],
+   [
+    "Lecap S30N6",
+    "2,00",
+    ""
+   ],
+   [
+    "Lecer X30N6",
+    "1,99",
+    ""
+   ],
+   [
+    "Bono Bopreal 2028 Serie 4 Clase B BPOB8",
+    "1,92",
+    ""
+   ],
+   [
+    "Bono Boncer 2029 TZXM9",
+    "1,90",
+    ""
+   ],
+   [
+    "Bono Boncer 2027 TZXM7",
+    "1,69",
+    ""
+   ],
+   [
+    "ON YPF Clase 44",
+    "1,55",
+    ""
+   ],
+   [
+    "Bono Boncer TZXD7",
+    "1,32",
+    ""
+   ],
+   [
+    "Bonos Rep Argentina AE38",
+    "1,13",
+    ""
+   ],
+   [
+    "Bonos Rep Argentina AL35",
+    "1,05",
+    ""
+   ],
+   [
+    "ON Vista Energy 31",
+    "1,00",
+    ""
+   ],
+   [
+    "ON Pampa Energia C28",
+    "0,98",
+    ""
+   ],
+   [
+    "ON YPF Clase 42",
+    "0,94",
+    ""
+   ],
+   [
+    "ON YPF Clase 34",
+    "0,92",
+    ""
+   ],
+   [
+    "ON Pluspetrol 8.5% 2032 (REGS)",
+    "0,90",
+    ""
+   ],
+   [
+    "ON Edenor C7 DNC7O",
+    "0,88",
+    ""
+   ],
+   [
+    "ON Tecpetrol C12",
+    "0,86",
+    ""
+   ],
+   [
+    "Bono Capitalizable T30J7",
+    "0,70",
+    ""
+   ],
+   [
+    "ON Vista Gas y Oil Arg C24",
+    "0,69",
+    ""
+   ],
+   [
+    "ON Loma Negra C5",
+    "0,54",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional TMG28",
+    "0,46",
+    ""
+   ],
+   [
+    "ON Pluspetrol Clase 7",
+    "0,45",
+    ""
+   ],
+   [
+    "ON Oldelval Clase 6",
+    "0,32",
+    ""
+   ],
+   [
+    "Bonos Rep Argentina AL41",
+    "0,28",
+    ""
+   ],
+   [
+    "Bonos Rep Argentina GD41",
+    "0,22",
+    ""
+   ],
+   [
+    "Operaciones a Plazo en Peso Argentina",
+    "",
+    "15,45"
+   ],
+   [
+    "Caucion Colocadora $ Merval",
+    "15,45",
+    ""
+   ],
+   [
+    "Participaciones Accionarias Argentina",
+    "",
+    "14,40"
+   ],
+   [
+    "Cedear Berkshire Hath Inc",
+    "2,92",
+    ""
+   ],
+   [
+    "Cedear Mercado Libre",
+    "2,39",
+    ""
+   ],
+   [
+    "Metrogas S.A.",
+    "1,35",
+    ""
+   ],
+   [
+    "Ternium Argentina S.A.",
+    "1,22",
+    ""
+   ],
+   [
+    "Pampa Energia S.A.",
+    "0,97",
+    ""
+   ],
+   [
+    "Loma Negra S.A.",
+    "0,86",
+    ""
+   ],
+   [
+    "Transportadora Gas del Sur S.A.",
+    "0,70",
+    ""
+   ],
+   [
+    "Grupo Supervielle S.A.",
+    "0,67",
+    ""
+   ],
+   [
+    "Edenor S.A.",
+    "0,61",
+    ""
+   ],
+   [
+    "YPF S.A.",
+    "0,58",
+    ""
+   ],
+   [
+    "Distribuidora de Gas del Centro S.A.",
+    "0,47",
+    ""
+   ],
+   [
+    "Banco de Valores S.A.",
+    "0,42",
+    ""
+   ],
+   [
+    "Central Puerto S.A.",
+    "0,41",
+    ""
+   ],
+   [
+    "Molinos Agro",
+    "0,29",
+    ""
+   ],
+   [
+    "Bolsas y Mercados Argentinos S.A.",
+    "0,20",
+    ""
+   ],
+   [
+    "Aluar Aluminio Argentino S.A.I.C.",
+    "0,15",
+    ""
+   ],
+   [
+    "Banco Macro S.A.",
+    "0,10",
+    ""
+   ],
+   [
+    "Grupo Financiero Galicia S.A.",
+    "0,09",
+    ""
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    "",
+    "0,03"
+   ],
+   [
+    "FCI BM Smart Money Market - Clase B",
+    "0,03",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    "4,34"
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "10.764.414.383,98",
+    ""
+   ]
+  ]
+ },
+ "85957": {
+  "id": "85957",
+  "nombre": "Adcap Balanceado XVII",
+  "status": 200,
+  "seg": 65.99,
+  "cartera": true,
+  "cab": {
+   "Fondo": "Adcap Balanceado XVII",
+   "Cartera al": "05/11/26",
+   "Gerente": "Adcap Asset Management S.G.F.C.I.S.A.",
+   "Depositaria": "Banco Comafi S.A.",
+   "Clasificación": "Renta Fija",
+   "Moneda": "Peso Argentina",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "Bono Buenos Aires 2037",
+    8.41
+   ],
+   [
+    "ON GEMSA y CTR C43",
+    7.16
+   ],
+   [
+    "Cheque E *MAV121101894",
+    2.28
+   ],
+   [
+    "Cheque E *MAV121201814",
+    1.97
+   ],
+   [
+    "Cheque E *MAV161101189",
+    1.71
+   ],
+   [
+    "Cheque E *MAV281101532",
+    1.15
+   ],
+   [
+    "Cheque E *MAV051100989",
+    0.95
+   ],
+   [
+    "Cheque E *MAV051100990",
+    0.95
+   ],
+   [
+    "Cheque E *MAV081101329",
+    0.79
+   ],
+   [
+    "Cheque E *MAV131102003",
+    0.68
+   ],
+   [
+    "Cheque E *MAV011201722",
+    0.62
+   ],
+   [
+    "Cheque E *MAV311201459",
+    0.6
+   ],
+   [
+    "Cheque E *MAV121101737",
+    0.58
+   ],
+   [
+    "Cheque E *MAV081101328",
+    0.55
+   ],
+   [
+    "Cheque E *MAV141101871",
+    0.52
+   ],
+   [
+    "Cheque E *MAV221101422",
+    0.52
+   ],
+   [
+    "Cheque E *MAV221201609",
+    0.5
+   ],
+   [
+    "Cheque E *MAV141201712",
+    0.5
+   ],
+   [
+    "Cheque E *MAV140101422",
+    0.48
+   ],
+   [
+    "Cheque E *MAV201101908",
+    0.47
+   ],
+   [
+    "Cheque E *MAV101102283",
+    0.44
+   ],
+   [
+    "Cheque E *MAV171101684",
+    0.44
+   ],
+   [
+    "Cheque E *MAV281101648",
+    0.41
+   ],
+   [
+    "Cheque E *MAV091101401",
+    0.4
+   ],
+   [
+    "Cheque E *MAV131201288",
+    0.39
+   ],
+   [
+    "Cheque E *MAV120101774",
+    0.38
+   ],
+   [
+    "Cheque E *MAV151101816",
+    0.37
+   ],
+   [
+    "Cheque E *MAV091101402",
+    0.33
+   ],
+   [
+    "Cheque E *MAV131101623",
+    0.31
+   ],
+   [
+    "Cheque E *MAV151101980",
+    0.31
+   ],
+   [
+    "Cheque E *MAV201102288",
+    0.31
+   ],
+   [
+    "Cheque E *MAV201201828",
+    0.25
+   ],
+   [
+    "Cheque E *MAV200101974",
+    0.24
+   ],
+   [
+    "Cheque E *MAV200201470",
+    0.23
+   ],
+   [
+    "Cheque E *MAV140101423",
+    0.23
+   ],
+   [
+    "Cheque E *MAV291201481",
+    0.22
+   ],
+   [
+    "Cheque E *MAV260201175",
+    0.21
+   ],
+   [
+    "Cheque E *MAV161201697",
+    0.18
+   ],
+   [
+    "Cheque E *MAV281101752",
+    0.17
+   ],
+   [
+    "Cheque E *MAV181201710",
+    0.14
+   ],
+   [
+    "Cheque E *MAV171201371",
+    0.12
+   ],
+   [
+    "Cheque E *MAV181201709",
+    0.12
+   ],
+   [
+    "Cheque E *MAV211201414",
+    0.12
+   ],
+   [
+    "Cheque E *MAV220101382",
+    0.12
+   ],
+   [
+    "Cheque E *MAV221201611",
+    0.12
+   ],
+   [
+    "Cheque E *MAV251200621",
+    0.12
+   ],
+   [
+    "Cheque E *MAV010100561",
+    0.12
+   ],
+   [
+    "Cheque E *MAV161201696",
+    0.11
+   ],
+   [
+    "Cheque E *MAV271101927",
+    0.11
+   ],
+   [
+    "Cheque E *MAV301102831",
+    0.09
+   ],
+   [
+    "Cheque E *MAV171201370",
+    0.09
+   ],
+   [
+    "Cheque E *MAV061201244",
+    0.09
+   ],
+   [
+    "Cheque E *MAV111201712",
+    0.09
+   ],
+   [
+    "Cheque E *MAV151202330",
+    0.09
+   ],
+   [
+    "Cheque E *MAV151202329",
+    0.08
+   ],
+   [
+    "Cheque E *MAV071201182",
+    0.08
+   ],
+   [
+    "Cheque E *MAV111201711",
+    0.08
+   ],
+   [
+    "Cheque E *MAV061201243",
+    0.08
+   ],
+   [
+    "Cheque E *MAV171201369",
+    0.08
+   ],
+   [
+    "Cheque E *MAV221201610",
+    0.08
+   ],
+   [
+    "Cheque E *MAV201201829",
+    0.08
+   ],
+   [
+    "Grupo Financiero Galicia S.A.",
+    6.15
+   ],
+   [
+    "YPF S.A.",
+    2.8
+   ],
+   [
+    "FCI SBS Ahorro Pesos Cl B",
+    15.79
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    0.11
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    39.43
+   ],
+   [
+    "Participaciones Accionarias Argentina",
+    8.95
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    15.79
+   ],
+   [
+    "Otros Activos",
+    35.76
+   ],
+   [
+    "Pasivos",
+    null
+   ]
+  ],
+  "suma": 64.16,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   1577338207.51
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "Adcap Balanceado XVII"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "Adcap Asset Management S.G.F.C.I.S.A."
+   ],
+   [
+    "Depositaria",
+    "Banco Comafi S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Fija"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "0,11"
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    "",
+    "39,43"
+   ],
+   [
+    "Bono Buenos Aires 2037",
+    "8,41",
+    ""
+   ],
+   [
+    "ON GEMSA y CTR C43",
+    "7,16",
+    ""
+   ],
+   [
+    "Cheque E *MAV121101894",
+    "2,28",
+    ""
+   ],
+   [
+    "Cheque E *MAV121201814",
+    "1,97",
+    ""
+   ],
+   [
+    "Cheque E *MAV161101189",
+    "1,71",
+    ""
+   ],
+   [
+    "Cheque E *MAV281101532",
+    "1,15",
+    ""
+   ],
+   [
+    "Cheque E *MAV051100989",
+    "0,95",
+    ""
+   ],
+   [
+    "Cheque E *MAV051100990",
+    "0,95",
+    ""
+   ],
+   [
+    "Cheque E *MAV081101329",
+    "0,79",
+    ""
+   ],
+   [
+    "Cheque E *MAV131102003",
+    "0,68",
+    ""
+   ],
+   [
+    "Cheque E *MAV011201722",
+    "0,62",
+    ""
+   ],
+   [
+    "Cheque E *MAV311201459",
+    "0,60",
+    ""
+   ],
+   [
+    "Cheque E *MAV121101737",
+    "0,58",
+    ""
+   ],
+   [
+    "Cheque E *MAV081101328",
+    "0,55",
+    ""
+   ],
+   [
+    "Cheque E *MAV141101871",
+    "0,52",
+    ""
+   ],
+   [
+    "Cheque E *MAV221101422",
+    "0,52",
+    ""
+   ],
+   [
+    "Cheque E *MAV221201609",
+    "0,50",
+    ""
+   ],
+   [
+    "Cheque E *MAV141201712",
+    "0,50",
+    ""
+   ],
+   [
+    "Cheque E *MAV140101422",
+    "0,48",
+    ""
+   ],
+   [
+    "Cheque E *MAV201101908",
+    "0,47",
+    ""
+   ],
+   [
+    "Cheque E *MAV101102283",
+    "0,44",
+    ""
+   ],
+   [
+    "Cheque E *MAV171101684",
+    "0,44",
+    ""
+   ],
+   [
+    "Cheque E *MAV281101648",
+    "0,41",
+    ""
+   ],
+   [
+    "Cheque E *MAV091101401",
+    "0,40",
+    ""
+   ],
+   [
+    "Cheque E *MAV131201288",
+    "0,39",
+    ""
+   ],
+   [
+    "Cheque E *MAV120101774",
+    "0,38",
+    ""
+   ],
+   [
+    "Cheque E *MAV151101816",
+    "0,37",
+    ""
+   ],
+   [
+    "Cheque E *MAV091101402",
+    "0,33",
+    ""
+   ],
+   [
+    "Cheque E *MAV131101623",
+    "0,31",
+    ""
+   ],
+   [
+    "Cheque E *MAV151101980",
+    "0,31",
+    ""
+   ],
+   [
+    "Cheque E *MAV201102288",
+    "0,31",
+    ""
+   ],
+   [
+    "Cheque E *MAV201201828",
+    "0,25",
+    ""
+   ],
+   [
+    "Cheque E *MAV200101974",
+    "0,24",
+    ""
+   ],
+   [
+    "Cheque E *MAV200201470",
+    "0,23",
+    ""
+   ],
+   [
+    "Cheque E *MAV140101423",
+    "0,23",
+    ""
+   ],
+   [
+    "Cheque E *MAV291201481",
+    "0,22",
+    ""
+   ],
+   [
+    "Cheque E *MAV260201175",
+    "0,21",
+    ""
+   ],
+   [
+    "Cheque E *MAV161201697",
+    "0,18",
+    ""
+   ],
+   [
+    "Cheque E *MAV281101752",
+    "0,17",
+    ""
+   ],
+   [
+    "Cheque E *MAV181201710",
+    "0,14",
+    ""
+   ],
+   [
+    "Cheque E *MAV171201371",
+    "0,12",
+    ""
+   ],
+   [
+    "Cheque E *MAV181201709",
+    "0,12",
+    ""
+   ],
+   [
+    "Cheque E *MAV211201414",
+    "0,12",
+    ""
+   ],
+   [
+    "Cheque E *MAV220101382",
+    "0,12",
+    ""
+   ],
+   [
+    "Cheque E *MAV221201611",
+    "0,12",
+    ""
+   ],
+   [
+    "Cheque E *MAV251200621",
+    "0,12",
+    ""
+   ],
+   [
+    "Cheque E *MAV010100561",
+    "0,12",
+    ""
+   ],
+   [
+    "Cheque E *MAV161201696",
+    "0,11",
+    ""
+   ],
+   [
+    "Cheque E *MAV271101927",
+    "0,11",
+    ""
+   ],
+   [
+    "Cheque E *MAV301102831",
+    "0,09",
+    ""
+   ],
+   [
+    "Cheque E *MAV171201370",
+    "0,09",
+    ""
+   ],
+   [
+    "Cheque E *MAV061201244",
+    "0,09",
+    ""
+   ],
+   [
+    "Cheque E *MAV111201712",
+    "0,09",
+    ""
+   ],
+   [
+    "Cheque E *MAV151202330",
+    "0,09",
+    ""
+   ],
+   [
+    "Cheque E *MAV151202329",
+    "0,08",
+    ""
+   ],
+   [
+    "Cheque E *MAV071201182",
+    "0,08",
+    ""
+   ],
+   [
+    "Cheque E *MAV111201711",
+    "0,08",
+    ""
+   ],
+   [
+    "Cheque E *MAV061201243",
+    "0,08",
+    ""
+   ],
+   [
+    "Cheque E *MAV171201369",
+    "0,08",
+    ""
+   ],
+   [
+    "Cheque E *MAV221201610",
+    "0,08",
+    ""
+   ],
+   [
+    "Cheque E *MAV201201829",
+    "0,08",
+    ""
+   ],
+   [
+    "Participaciones Accionarias Argentina",
+    "",
+    "8,95"
+   ],
+   [
+    "Grupo Financiero Galicia S.A.",
+    "6,15",
+    ""
+   ],
+   [
+    "YPF S.A.",
+    "2,80",
+    ""
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    "",
+    "15,79"
+   ],
+   [
+    "FCI SBS Ahorro Pesos Cl B",
+    "15,79",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    "35,76"
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "1.577.338.207,51",
+    ""
+   ]
+  ]
+ },
+ "86137": {
+  "id": "86137",
+  "nombre": "ZOFINGEN ASG FONDO COMÚN DE INVERSIÓN ASG",
+  "status": 200,
+  "seg": 0.62,
+  "cartera": false
+ },
+ "86307": {
+  "id": "86307",
+  "nombre": "FCI GALILEO MULTIMERCADO VII",
+  "status": 200,
+  "seg": 5.3,
+  "cartera": true,
+  "cab": {
+   "Fondo": "Galileo Multimercado VII",
+   "Cartera al": "05/11/26",
+   "Gerente": "Delta Asset Management S.A.",
+   "Depositaria": "Banco Comafi S.A.",
+   "Clasificación": "Renta Mixta",
+   "Moneda": "Peso Argentina",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "Lecap S13N6",
+    8.95
+   ],
+   [
+    "Lecap S30N6",
+    8.29
+   ],
+   [
+    "Lecap S29E7",
+    8.26
+   ],
+   [
+    "Bono del Tesoro Nacional T15E7",
+    7.44
+   ],
+   [
+    "Letra Tamar TEM TMF27",
+    7.06
+   ],
+   [
+    "Letra Tesoro Nac T30A7",
+    6.89
+   ],
+   [
+    "Bono del Tesoro Nacional TMG28",
+    6.72
+   ],
+   [
+    "Bono del Tesoro Nacional TML27",
+    6.61
+   ],
+   [
+    "Bono del Tesoro Nacional T31Y7",
+    6.43
+   ],
+   [
+    "Bono Dual TXMD8",
+    5.05
+   ],
+   [
+    "Bono Boncer TXMJ9",
+    4.4
+   ],
+   [
+    "Bono Dual TXMJ0",
+    4.23
+   ],
+   [
+    "Bono Dual TXMJ8",
+    4.15
+   ],
+   [
+    "Letra Prov Bs As PBA27",
+    3.17
+   ],
+   [
+    "Bono Capitalizable T30J7",
+    3.09
+   ],
+   [
+    "Bono del Tesoro Nacional TMG27",
+    2.33
+   ],
+   [
+    "Pzo Fi $ Bco Nacion",
+    7.74
+   ],
+   [
+    "FCI Pionero Pesos Plus - Clase B",
+    0.17
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    0.02
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    93.08
+   ],
+   [
+    "Operaciones a Plazo en Peso Argentina",
+    7.74
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    0.17
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    null
+   ]
+  ],
+  "suma": 100.98,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   12834723740.11
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "Galileo Multimercado VII"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "Delta Asset Management S.A."
+   ],
+   [
+    "Depositaria",
+    "Banco Comafi S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Mixta"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "0,02"
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    "",
+    "93,08"
+   ],
+   [
+    "Lecap S13N6",
+    "8,95",
+    ""
+   ],
+   [
+    "Lecap S30N6",
+    "8,29",
+    ""
+   ],
+   [
+    "Lecap S29E7",
+    "8,26",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional T15E7",
+    "7,44",
+    ""
+   ],
+   [
+    "Letra Tamar TEM TMF27",
+    "7,06",
+    ""
+   ],
+   [
+    "Letra Tesoro Nac T30A7",
+    "6,89",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional TMG28",
+    "6,72",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional TML27",
+    "6,61",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional T31Y7",
+    "6,43",
+    ""
+   ],
+   [
+    "Bono Dual TXMD8",
+    "5,05",
+    ""
+   ],
+   [
+    "Bono Boncer TXMJ9",
+    "4,40",
+    ""
+   ],
+   [
+    "Bono Dual TXMJ0",
+    "4,23",
+    ""
+   ],
+   [
+    "Bono Dual TXMJ8",
+    "4,15",
+    ""
+   ],
+   [
+    "Letra Prov Bs As PBA27",
+    "3,17",
+    ""
+   ],
+   [
+    "Bono Capitalizable T30J7",
+    "3,09",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional TMG27",
+    "2,33",
+    ""
+   ],
+   [
+    "Operaciones a Plazo en Peso Argentina",
+    "",
+    "7,74"
+   ],
+   [
+    "Pzo Fi $ Bco Nacion",
+    "7,74",
+    ""
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    "",
+    "0,17"
+   ],
+   [
+    "FCI Pionero Pesos Plus - Clase B",
+    "0,17",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "12.834.723.740,11",
+    ""
+   ]
+  ]
+ },
+ "63890": {
+  "id": "63890",
+  "nombre": "Gainvest Global III",
+  "status": 200,
+  "seg": 0.95,
+  "cartera": true,
+  "cab": {
+   "Fondo": "Gainvest Global III",
+   "Cartera al": "09/09/26",
+   "Gerente": "StoneX Asset Management S.A.",
+   "Depositaria": "Banco de Valores S.A.",
+   "Clasificación": "Renta Variable",
+   "Moneda": "Peso Argentina",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    null
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    null
+   ],
+   [
+    "(Peso Argentina)",
+    null
+   ]
+  ],
+  "suma": 0,
+  "total": 100.0,
+  "pn": null,
+  "filas": [
+   [
+    "Fondo",
+    "Gainvest Global III"
+   ],
+   [
+    "Cartera al (*)",
+    "09/09/26"
+   ],
+   [
+    "Gerente",
+    "StoneX Asset Management S.A."
+   ],
+   [
+    "Depositaria",
+    "Banco de Valores S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Variable"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "",
+    ""
+   ]
+  ]
+ },
+ "63437": {
+  "id": "63437",
+  "nombre": "Optimum Renta Mixta Flexible Argentina Ex OPTIMUM",
+  "status": 200,
+  "seg": 4.71,
+  "cartera": true,
+  "cab": {
+   "Fondo": "Optimum Renta Mixta Flexible Argentina",
+   "Cartera al": "05/11/26",
+   "Gerente": "Santander Asset Management G.F.C.I.S.A.",
+   "Depositaria": "Banco Santander Argentina S.A.",
+   "Clasificación": "Renta Fija",
+   "Moneda": "Peso Argentina",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "Bono Boncer 2027 TZXM7",
+    28.92
+   ],
+   [
+    "Lelink D30N6",
+    23.49
+   ],
+   [
+    "Letra Tesoro Nac D15E7",
+    21.13
+   ],
+   [
+    "ON CGC C 39",
+    9.74
+   ],
+   [
+    "ON PCR Clase K",
+    7.57
+   ],
+   [
+    "ON Oldelval Clase 3",
+    5.68
+   ],
+   [
+    "FCI Argenfunds Liquidez - Clase B",
+    1.43
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    2.06
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    96.53
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    1.43
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    null
+   ]
+  ],
+  "suma": 97.96,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   6119825912.35
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "Optimum Renta Mixta Flexible Argentina"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "Santander Asset Management G.F.C.I.S.A."
+   ],
+   [
+    "Depositaria",
+    "Banco Santander Argentina S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Fija"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "2,06"
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    "",
+    "96,53"
+   ],
+   [
+    "Bono Boncer 2027 TZXM7",
+    "28,92",
+    ""
+   ],
+   [
+    "Lelink D30N6",
+    "23,49",
+    ""
+   ],
+   [
+    "Letra Tesoro Nac D15E7",
+    "21,13",
+    ""
+   ],
+   [
+    "ON CGC C 39",
+    "9,74",
+    ""
+   ],
+   [
+    "ON PCR Clase K",
+    "7,57",
+    ""
+   ],
+   [
+    "ON Oldelval Clase 3",
+    "5,68",
+    ""
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    "",
+    "1,43"
+   ],
+   [
+    "FCI Argenfunds Liquidez - Clase B",
+    "1,43",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "6.119.825.912,35",
+    ""
+   ]
+  ]
+ },
+ "63400": {
+  "id": "63400",
+  "nombre": "SF36 - Super Bonos F.C.I. Ex SF10-Super Bonos Inte",
+  "status": 200,
+  "seg": 4.77,
+  "cartera": true,
+  "cab": {
+   "Fondo": "Super Bonos",
+   "Cartera al": "05/11/26",
+   "Gerente": "Santander Asset Management G.F.C.I.S.A.",
+   "Depositaria": "Banco Santander Argentina S.A.",
+   "Clasificación": "Renta Fija",
+   "Moneda": "Peso Argentina",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "Lelink D30N6",
+    21.86
+   ],
+   [
+    "Bono Prov de Buenos Aires TZV28",
+    17.0
+   ],
+   [
+    "Bono Boncer TZXD6",
+    13.41
+   ],
+   [
+    "Bono del Tesoro Nacional TMVE8",
+    12.96
+   ],
+   [
+    "Letra Tesoro Nac D31M7",
+    5.43
+   ],
+   [
+    "Bono Boncer 2027 TZXM7",
+    4.59
+   ],
+   [
+    "Bono del Tesoro Nacional TZV27",
+    4.35
+   ],
+   [
+    "Bono del Tesoro Nacional TZVD8",
+    2.93
+   ],
+   [
+    "ON Petroqui C Rivadavia Clase Q",
+    1.78
+   ],
+   [
+    "ON Pan American C33",
+    1.61
+   ],
+   [
+    "ON Aluar Serie 6",
+    1.6
+   ],
+   [
+    "ON Vista Gas y Oil Arg C18",
+    1.54
+   ],
+   [
+    "ON Pan American C26",
+    1.49
+   ],
+   [
+    "ON Oldelval Clase 3",
+    1.02
+   ],
+   [
+    "ON Pan Amer. Energy C 18",
+    0.93
+   ],
+   [
+    "ON Vista Gas y Oil Arg C17",
+    0.91
+   ],
+   [
+    "ON CGC C 39",
+    0.85
+   ],
+   [
+    "ON Telecom C12 TLCDO",
+    0.82
+   ],
+   [
+    "ON Pampa Energia C13",
+    0.79
+   ],
+   [
+    "ON Capex C10",
+    0.69
+   ],
+   [
+    "ON PCR Clase K",
+    0.59
+   ],
+   [
+    "ON P. Aconcagua Energia C19",
+    0.52
+   ],
+   [
+    "ON P. Aconcagua Energia C21",
+    0.27
+   ],
+   [
+    "ON YPF Luz Clase 14",
+    0.25
+   ],
+   [
+    "ON Red Surcos S11",
+    0.07
+   ],
+   [
+    "FCI Max Money Market - Clase B",
+    0.67
+   ],
+   [
+    "FCI Schroder Liquidez - Clase B",
+    0.61
+   ],
+   [
+    "FCI Allaria Ahorro - Clase C",
+    0.53
+   ],
+   [
+    "FCI MAF Money Market - Clase B",
+    0.05
+   ],
+   [
+    "FCI Premier Renta CP $ CC",
+    0.03
+   ],
+   [
+    "FCI MEGAQM Pesos - Clase B",
+    0.01
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    0.34
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    98.23
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    1.9
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    null
+   ]
+  ],
+  "suma": 100.16,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   282925127853.4
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "Super Bonos"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "Santander Asset Management G.F.C.I.S.A."
+   ],
+   [
+    "Depositaria",
+    "Banco Santander Argentina S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Fija"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "0,34"
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    "",
+    "98,23"
+   ],
+   [
+    "Lelink D30N6",
+    "21,86",
+    ""
+   ],
+   [
+    "Bono Prov de Buenos Aires TZV28",
+    "17,00",
+    ""
+   ],
+   [
+    "Bono Boncer TZXD6",
+    "13,41",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional TMVE8",
+    "12,96",
+    ""
+   ],
+   [
+    "Letra Tesoro Nac D31M7",
+    "5,43",
+    ""
+   ],
+   [
+    "Bono Boncer 2027 TZXM7",
+    "4,59",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional TZV27",
+    "4,35",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional TZVD8",
+    "2,93",
+    ""
+   ],
+   [
+    "ON Petroqui C Rivadavia Clase Q",
+    "1,78",
+    ""
+   ],
+   [
+    "ON Pan American C33",
+    "1,61",
+    ""
+   ],
+   [
+    "ON Aluar Serie 6",
+    "1,60",
+    ""
+   ],
+   [
+    "ON Vista Gas y Oil Arg C18",
+    "1,54",
+    ""
+   ],
+   [
+    "ON Pan American C26",
+    "1,49",
+    ""
+   ],
+   [
+    "ON Oldelval Clase 3",
+    "1,02",
+    ""
+   ],
+   [
+    "ON Pan Amer. Energy C 18",
+    "0,93",
+    ""
+   ],
+   [
+    "ON Vista Gas y Oil Arg C17",
+    "0,91",
+    ""
+   ],
+   [
+    "ON CGC C 39",
+    "0,85",
+    ""
+   ],
+   [
+    "ON Telecom C12 TLCDO",
+    "0,82",
+    ""
+   ],
+   [
+    "ON Pampa Energia C13",
+    "0,79",
+    ""
+   ],
+   [
+    "ON Capex C10",
+    "0,69",
+    ""
+   ],
+   [
+    "ON PCR Clase K",
+    "0,59",
+    ""
+   ],
+   [
+    "ON P. Aconcagua Energia C19",
+    "0,52",
+    ""
+   ],
+   [
+    "ON P. Aconcagua Energia C21",
+    "0,27",
+    ""
+   ],
+   [
+    "ON YPF Luz Clase 14",
+    "0,25",
+    ""
+   ],
+   [
+    "ON Red Surcos S11",
+    "0,07",
+    ""
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    "",
+    "1,90"
+   ],
+   [
+    "FCI Max Money Market - Clase B",
+    "0,67",
+    ""
+   ],
+   [
+    "FCI Schroder Liquidez - Clase B",
+    "0,61",
+    ""
+   ],
+   [
+    "FCI Allaria Ahorro - Clase C",
+    "0,53",
+    ""
+   ],
+   [
+    "FCI MAF Money Market - Clase B",
+    "0,05",
+    ""
+   ],
+   [
+    "FCI Premier Renta CP $ CC",
+    "0,03",
+    ""
+   ],
+   [
+    "FCI MEGAQM Pesos - Clase B",
+    "0,01",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "282.925.127.853,40",
+    ""
+   ]
+  ]
+ },
+ "88663": {
+  "id": "88663",
+  "nombre": "SPECIAL SITUATIONS FUND",
+  "status": 200,
+  "seg": 4.01,
+  "cartera": true,
+  "cab": {
+   "Fondo": "Special Situations Fund",
+   "Cartera al": "05/11/26",
+   "Gerente": "CMF Asset Management S.A.U.",
+   "Depositaria": "Banco C.M.F. S.A.",
+   "Clasificación": "Renta Mixta",
+   "Moneda": "Dolar Estadounidense",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "ON San Miguel Serie 13 CA",
+    13.57
+   ],
+   [
+    "ON Rizobacter S 11 CC",
+    10.93
+   ],
+   [
+    "ON Rizobacter S 11 CA",
+    2.67
+   ],
+   [
+    "ON San Miguel Serie 13 CB",
+    0.75
+   ],
+   [
+    "ON Clisa 101234",
+    10.18
+   ],
+   [
+    "ON Impsa Clase 7 2036",
+    8.92
+   ],
+   [
+    "Cedear Bioceres",
+    2.16
+   ],
+   [
+    "Lombard Liquidez Dolares - Clase A",
+    17.92
+   ],
+   [
+    "FF Agrocap S5 CB",
+    4.46
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    28.49
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    27.92
+   ],
+   [
+    "Titulos de Deuda en Dolar Estadounidense",
+    19.1
+   ],
+   [
+    "Participaciones Accionarias Argentina",
+    2.16
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    22.38
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    null
+   ]
+  ],
+  "suma": 71.56,
+  "total": 100.0,
+  "pn": [
+   "(Dolar Estadounidense)",
+   5587343.13
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "Special Situations Fund"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "CMF Asset Management S.A.U."
+   ],
+   [
+    "Depositaria",
+    "Banco C.M.F. S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Mixta"
+   ],
+   [
+    "Moneda",
+    "Dolar Estadounidense"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "28,49"
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    "",
+    "27,92"
+   ],
+   [
+    "ON San Miguel Serie 13 CA",
+    "13,57",
+    ""
+   ],
+   [
+    "ON Rizobacter S 11 CC",
+    "10,93",
+    ""
+   ],
+   [
+    "ON Rizobacter S 11 CA",
+    "2,67",
+    ""
+   ],
+   [
+    "ON San Miguel Serie 13 CB",
+    "0,75",
+    ""
+   ],
+   [
+    "Titulos de Deuda en Dolar Estadounidense",
+    "",
+    "19,10"
+   ],
+   [
+    "ON Clisa 101234",
+    "10,18",
+    ""
+   ],
+   [
+    "ON Impsa Clase 7 2036",
+    "8,92",
+    ""
+   ],
+   [
+    "Participaciones Accionarias Argentina",
+    "",
+    "2,16"
+   ],
+   [
+    "Cedear Bioceres",
+    "2,16",
+    ""
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    "",
+    "22,38"
+   ],
+   [
+    "Lombard Liquidez Dolares - Clase A",
+    "17,92",
+    ""
+   ],
+   [
+    "FF Agrocap S5 CB",
+    "4,46",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Dolar Estadounidense)",
+    "5.587.343,13",
+    ""
+   ]
+  ]
+ },
+ "64002": {
+  "id": "64002",
+  "nombre": "1810 AHORROS ACTIVOS",
+  "status": 200,
+  "seg": 4.49,
+  "cartera": true,
+  "cab": {
+   "Fondo": "1810 Ahorros Activos",
+   "Cartera al": "05/11/26",
+   "Gerente": "Proahorro Administradora de Activos S.A.",
+   "Depositaria": "Banco Credicoop Coop. Ltdo.",
+   "Clasificación": "Renta Fija",
+   "Moneda": "Peso Argentina",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "Bono Boncer TZX28",
+    20.25
+   ],
+   [
+    "Bono Boncer TZXS7",
+    20.02
+   ],
+   [
+    "Bono Boncer TZXD7",
+    19.63
+   ],
+   [
+    "Bono Boncer 2028 TZXM8",
+    18.44
+   ],
+   [
+    "Bono Boncer TZXS8",
+    10.65
+   ],
+   [
+    "Bono CER TZX27",
+    6.6
+   ],
+   [
+    "Boncer TZXY7",
+    3.32
+   ],
+   [
+    "Letra Prov Bs As PBA28",
+    0.95
+   ],
+   [
+    "Caucion Colocadora $ BYMA",
+    3.29
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    0.01
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    99.86
+   ],
+   [
+    "Operaciones a Plazo en Peso Argentina",
+    3.29
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    null
+   ]
+  ],
+  "suma": 103.15,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   112655398528.13
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "1810 Ahorros Activos"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "Proahorro Administradora de Activos S.A."
+   ],
+   [
+    "Depositaria",
+    "Banco Credicoop Coop. Ltdo."
+   ],
+   [
+    "Clasificación",
+    "Renta Fija"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "0,01"
+   ],
+   [
+    "Titulos de Deuda en Peso Argentina",
+    "",
+    "99,86"
+   ],
+   [
+    "Bono Boncer TZX28",
+    "20,25",
+    ""
+   ],
+   [
+    "Bono Boncer TZXS7",
+    "20,02",
+    ""
+   ],
+   [
+    "Bono Boncer TZXD7",
+    "19,63",
+    ""
+   ],
+   [
+    "Bono Boncer 2028 TZXM8",
+    "18,44",
+    ""
+   ],
+   [
+    "Bono Boncer TZXS8",
+    "10,65",
+    ""
+   ],
+   [
+    "Bono CER TZX27",
+    "6,60",
+    ""
+   ],
+   [
+    "Boncer TZXY7",
+    "3,32",
+    ""
+   ],
+   [
+    "Letra Prov Bs As PBA28",
+    "0,95",
+    ""
+   ],
+   [
+    "Operaciones a Plazo en Peso Argentina",
+    "",
+    "3,29"
+   ],
+   [
+    "Caucion Colocadora $ BYMA",
+    "3,29",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "112.655.398.528,13",
+    ""
+   ]
+  ]
+ },
+ "63937": {
+  "id": "63937",
+  "nombre": "QUINQUELA GESTION FCI",
+  "status": 200,
+  "seg": 0.8,
+  "cartera": false
+ },
+ "89159": {
+  "id": "89159",
+  "nombre": "gForce MSCI MERVAL FCIA ETF",
+  "status": 200,
+  "seg": 4.03,
+  "cartera": true,
+  "cab": {
+   "Fondo": "gForce MSCI MERVAL FCIA ETF",
+   "Cartera al": "05/11/26",
+   "Gerente": "Galicia Asset Management S.A.U.",
+   "Depositaria": "Banco de Galicia y Buenos Aires S.A.",
+   "Clasificación": "Renta Variable",
+   "Moneda": "Peso Argentina",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "YPF S.A.",
+    14.92
+   ],
+   [
+    "Pampa Energia S.A.",
+    14.34
+   ],
+   [
+    "Grupo Financiero Galicia S.A.",
+    13.9
+   ],
+   [
+    "Banco Macro S.A.",
+    13.78
+   ],
+   [
+    "Transportadora Gas del Sur S.A.",
+    8.71
+   ],
+   [
+    "Central Puerto S.A.",
+    5.53
+   ],
+   [
+    "BBVA Argentina S.A.",
+    4.43
+   ],
+   [
+    "Ternium Argentina S.A.",
+    4.09
+   ],
+   [
+    "Bolsas y Mercados Argentinos S.A.",
+    3.64
+   ],
+   [
+    "Loma Negra S.A.",
+    2.5
+   ],
+   [
+    "Cresud S.A.",
+    2.22
+   ],
+   [
+    "Banco de Valores S.A.",
+    2.06
+   ],
+   [
+    "Aluar Aluminio Argentino S.A.I.C.",
+    2.04
+   ],
+   [
+    "Grupo Supervielle S.A.",
+    1.78
+   ],
+   [
+    "Edenor S.A.",
+    1.68
+   ],
+   [
+    "Transener S.A.",
+    1.45
+   ],
+   [
+    "Distribuidora de Gas del Centro S.A.",
+    1.18
+   ],
+   [
+    "Metrogas S.A.",
+    0.91
+   ],
+   [
+    "Transportadora de Gas del Norte S.A.",
+    0.78
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    0.08
+   ],
+   [
+    "Participaciones Accionarias Argentina",
+    99.94
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    null
+   ]
+  ],
+  "suma": 99.94,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   15296426017.03
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "gForce MSCI MERVAL FCIA ETF"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "Galicia Asset Management S.A.U."
+   ],
+   [
+    "Depositaria",
+    "Banco de Galicia y Buenos Aires S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Variable"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "0,08"
+   ],
+   [
+    "Participaciones Accionarias Argentina",
+    "",
+    "99,94"
+   ],
+   [
+    "YPF S.A.",
+    "14,92",
+    ""
+   ],
+   [
+    "Pampa Energia S.A.",
+    "14,34",
+    ""
+   ],
+   [
+    "Grupo Financiero Galicia S.A.",
+    "13,90",
+    ""
+   ],
+   [
+    "Banco Macro S.A.",
+    "13,78",
+    ""
+   ],
+   [
+    "Transportadora Gas del Sur S.A.",
+    "8,71",
+    ""
+   ],
+   [
+    "Central Puerto S.A.",
+    "5,53",
+    ""
+   ],
+   [
+    "BBVA Argentina S.A.",
+    "4,43",
+    ""
+   ],
+   [
+    "Ternium Argentina S.A.",
+    "4,09",
+    ""
+   ],
+   [
+    "Bolsas y Mercados Argentinos S.A.",
+    "3,64",
+    ""
+   ],
+   [
+    "Loma Negra S.A.",
+    "2,50",
+    ""
+   ],
+   [
+    "Cresud S.A.",
+    "2,22",
+    ""
+   ],
+   [
+    "Banco de Valores S.A.",
+    "2,06",
+    ""
+   ],
+   [
+    "Aluar Aluminio Argentino S.A.I.C.",
+    "2,04",
+    ""
+   ],
+   [
+    "Grupo Supervielle S.A.",
+    "1,78",
+    ""
+   ],
+   [
+    "Edenor S.A.",
+    "1,68",
+    ""
+   ],
+   [
+    "Transener S.A.",
+    "1,45",
+    ""
+   ],
+   [
+    "Distribuidora de Gas del Centro S.A.",
+    "1,18",
+    ""
+   ],
+   [
+    "Metrogas S.A.",
+    "0,91",
+    ""
+   ],
+   [
+    "Transportadora de Gas del Norte S.A.",
+    "0,78",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "15.296.426.017,03",
+    ""
+   ]
+  ]
+ },
+ "63548": {
+  "id": "63548",
+  "nombre": "Cohen Fondo Común de Inversión Abierto Pymes",
+  "status": 200,
+  "seg": 1.74,
+  "cartera": true,
+  "cab": {
+   "Fondo": "Cohen Abierto Pymes",
+   "Cartera al": "26/12/25",
+   "Gerente": "Delta Asset Management S.A.",
+   "Depositaria": "Banco Comafi S.A.",
+   "Clasificación": "Renta Mixta",
+   "Moneda": "Peso Argentina",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    null
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    null
+   ],
+   [
+    "(Peso Argentina)",
+    null
+   ]
+  ],
+  "suma": 0,
+  "total": 100.0,
+  "pn": null,
+  "filas": [
+   [
+    "Fondo",
+    "Cohen Abierto Pymes"
+   ],
+   [
+    "Cartera al (*)",
+    "26/12/25"
+   ],
+   [
+    "Gerente",
+    "Delta Asset Management S.A."
+   ],
+   [
+    "Depositaria",
+    "Banco Comafi S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Mixta"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "",
+    ""
+   ]
+  ]
+ },
+ "63734": {
+  "id": "63734",
+  "nombre": "SBS RENTA DÓLAR LATAM FCI",
+  "status": 200,
+  "seg": 4.41,
+  "cartera": true,
+  "cab": {
+   "Fondo": "SBS Renta Dólar Latam",
+   "Cartera al": "05/11/26",
+   "Gerente": "SBS Asset Management S.A.S.G.F.C.I.",
+   "Depositaria": "Banco Comafi S.A.",
+   "Clasificación": "Renta Mixta",
+   "Moneda": "Dolar Estadounidense",
+   "Región": "Latinoamerica",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "BR Bono Global 2027 10.12%",
+    12.95
+   ],
+   [
+    "Bono del Tesoro Nacional AO27",
+    11.48
+   ],
+   [
+    "CL Rep Chile 2027",
+    11.17
+   ],
+   [
+    "BC Inversiones CMPC 2027",
+    8.74
+   ],
+   [
+    "ON Aluar Serie 7",
+    8.26
+   ],
+   [
+    "ON Pan American C38",
+    5.74
+   ],
+   [
+    "BC Bco Credito e Inv 2027",
+    5.51
+   ],
+   [
+    "ON Pan American C37",
+    3.91
+   ],
+   [
+    "CL Rep Chile 28",
+    3.66
+   ],
+   [
+    "BC Arco 32",
+    2.85
+   ],
+   [
+    "ON Pan Amer. Energy C 12",
+    0.3
+   ],
+   [
+    "FCI Cocos Dólar Money Market - Clase C",
+    4.09
+   ],
+   [
+    "FCI Adcap Ahorro Dólares - Clase E",
+    0.19
+   ],
+   [
+    "FCI Allaria Dólar Ahorro - Clase B",
+    0.07
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    21.23
+   ],
+   [
+    "Titulos de Deuda en Dolar Estadounidense",
+    74.57
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    4.35
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    null
+   ]
+  ],
+  "suma": 78.92,
+  "total": 100.0,
+  "pn": [
+   "(Dolar Estadounidense)",
+   26923236.41
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "SBS Renta Dólar Latam"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "SBS Asset Management S.A.S.G.F.C.I."
+   ],
+   [
+    "Depositaria",
+    "Banco Comafi S.A."
+   ],
+   [
+    "Clasificación",
+    "Renta Mixta"
+   ],
+   [
+    "Moneda",
+    "Dolar Estadounidense"
+   ],
+   [
+    "Región",
+    "Latinoamerica"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "21,23"
+   ],
+   [
+    "Titulos de Deuda en Dolar Estadounidense",
+    "",
+    "74,57"
+   ],
+   [
+    "BR Bono Global 2027 10.12%",
+    "12,95",
+    ""
+   ],
+   [
+    "Bono del Tesoro Nacional AO27",
+    "11,48",
+    ""
+   ],
+   [
+    "CL Rep Chile 2027",
+    "11,17",
+    ""
+   ],
+   [
+    "BC Inversiones CMPC 2027",
+    "8,74",
+    ""
+   ],
+   [
+    "ON Aluar Serie 7",
+    "8,26",
+    ""
+   ],
+   [
+    "ON Pan American C38",
+    "5,74",
+    ""
+   ],
+   [
+    "BC Bco Credito e Inv 2027",
+    "5,51",
+    ""
+   ],
+   [
+    "ON Pan American C37",
+    "3,91",
+    ""
+   ],
+   [
+    "CL Rep Chile 28",
+    "3,66",
+    ""
+   ],
+   [
+    "BC Arco 32",
+    "2,85",
+    ""
+   ],
+   [
+    "ON Pan Amer. Energy C 12",
+    "0,30",
+    ""
+   ],
+   [
+    "Certificados de Participacion Argentina",
+    "",
+    "4,35"
+   ],
+   [
+    "FCI Cocos Dólar Money Market - Clase C",
+    "4,09",
+    ""
+   ],
+   [
+    "FCI Adcap Ahorro Dólares - Clase E",
+    "0,19",
+    ""
+   ],
+   [
+    "FCI Allaria Dólar Ahorro - Clase B",
+    "0,07",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Dolar Estadounidense)",
+    "26.923.236,41",
+    ""
+   ]
+  ]
+ },
+ "63683": {
+  "id": "63683",
+  "nombre": "TORONTO TRUST AHORRO FCI",
+  "status": 200,
+  "seg": 4.33,
+  "cartera": true,
+  "cab": {
+   "Fondo": "Toronto Trust Ahorro",
+   "Cartera al": "05/11/26",
+   "Gerente": "Investis Asset Management S.A.S.G.F.C.I.",
+   "Depositaria": "Banco Credito y Securitizacion S.A. (BACS)",
+   "Clasificación": "Plazo Fijo",
+   "Moneda": "Peso Argentina",
+   "Región": "Argentina",
+   "Horizonte": "Mediano Plazo"
+  },
+  "especies": [
+   [
+    "Pzo Fi $ Bco Nacion",
+    17.9
+   ],
+   [
+    "Pzo Fi $ Bco Mariva",
+    12.92
+   ],
+   [
+    "Pzo Fi $ Bco Cordoba",
+    7.73
+   ],
+   [
+    "Pzo Fi $ Bco BBVA",
+    6.43
+   ],
+   [
+    "Pzo Fi $ Bco Galicia",
+    6.43
+   ],
+   [
+    "Pzo Fi $ Bco Valores",
+    5.78
+   ],
+   [
+    "Pase Colocador ARS BYMA",
+    3.36
+   ],
+   [
+    "Pzo Fi $ Bco Provincia",
+    3.21
+   ],
+   [
+    "Caucion Colocadora $ MAE",
+    3.19
+   ],
+   [
+    "Caucion Colocadora $ BYMA",
+    3.19
+   ],
+   [
+    "Pzo Fi $ Bco Patagonia",
+    1.63
+   ]
+  ],
+  "rubros": [
+   [
+    "Fondo",
+    null
+   ],
+   [
+    "Cartera al (*)",
+    null
+   ],
+   [
+    "Gerente",
+    null
+   ],
+   [
+    "Depositaria",
+    null
+   ],
+   [
+    "Clasificación",
+    null
+   ],
+   [
+    "Moneda",
+    null
+   ],
+   [
+    "Región",
+    null
+   ],
+   [
+    "Horizonte",
+    null
+   ],
+   [
+    "Disponibilidades",
+    27.95
+   ],
+   [
+    "Operaciones a Plazo en Peso Argentina",
+    71.78
+   ],
+   [
+    "Otros Activos",
+    null
+   ],
+   [
+    "Pasivos",
+    0.27
+   ]
+  ],
+  "suma": 71.77,
+  "total": 100.0,
+  "pn": [
+   "(Peso Argentina)",
+   313032607414.46
+  ],
+  "filas": [
+   [
+    "Fondo",
+    "Toronto Trust Ahorro"
+   ],
+   [
+    "Cartera al (*)",
+    "05/11/26"
+   ],
+   [
+    "Gerente",
+    "Investis Asset Management S.A.S.G.F.C.I."
+   ],
+   [
+    "Depositaria",
+    "Banco Credito y Securitizacion S.A. (BACS)"
+   ],
+   [
+    "Clasificación",
+    "Plazo Fijo"
+   ],
+   [
+    "Moneda",
+    "Peso Argentina"
+   ],
+   [
+    "Región",
+    "Argentina"
+   ],
+   [
+    "Horizonte",
+    "Mediano Plazo"
+   ],
+   [
+    "Detalle (1)",
+    "% del P.N.",
+    "% del P.N.(2)"
+   ],
+   [
+    "Disponibilidades",
+    "",
+    "27,95"
+   ],
+   [
+    "Operaciones a Plazo en Peso Argentina",
+    "",
+    "71,78"
+   ],
+   [
+    "Pzo Fi $ Bco Nacion",
+    "17,90",
+    ""
+   ],
+   [
+    "Pzo Fi $ Bco Mariva",
+    "12,92",
+    ""
+   ],
+   [
+    "Pzo Fi $ Bco Cordoba",
+    "7,73",
+    ""
+   ],
+   [
+    "Pzo Fi $ Bco BBVA",
+    "6,43",
+    ""
+   ],
+   [
+    "Pzo Fi $ Bco Galicia",
+    "6,43",
+    ""
+   ],
+   [
+    "Pzo Fi $ Bco Valores",
+    "5,78",
+    ""
+   ],
+   [
+    "Pase Colocador ARS BYMA",
+    "3,36",
+    ""
+   ],
+   [
+    "Pzo Fi $ Bco Provincia",
+    "3,21",
+    ""
+   ],
+   [
+    "Caucion Colocadora $ MAE",
+    "3,19",
+    ""
+   ],
+   [
+    "Caucion Colocadora $ BYMA",
+    "3,19",
+    ""
+   ],
+   [
+    "Pzo Fi $ Bco Patagonia",
+    "1,63",
+    ""
+   ],
+   [
+    "Otros Activos",
+    "",
+    ""
+   ],
+   [
+    "Pasivos",
+    "",
+    "0,27"
+   ],
+   [
+    "",
+    "",
+    "100,00"
+   ],
+   [
+    "(Peso Argentina)",
+    "313.032.607.414,46",
+    ""
+   ]
+  ]
+ }
+}

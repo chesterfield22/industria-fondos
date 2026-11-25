@@ -1,0 +1,1383 @@
+<!DOCTYPE html>
+<html lang="es">
+
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+    <meta http-equiv="content-type" content="application/vnd.ms-excel; charset=UTF-32">
+    <link rel="apple-touch-icon" sizes="60x60" href="/SitioWeb/Content/assets/images/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/SitioWeb/Content/assets/images/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/SitioWeb/Content/assets/images/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/SitioWeb/Content/assets/images/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/SitioWeb/Content/assets/images/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/SitioWeb/Content/assets/images/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/SitioWeb/Content/assets/images/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/SitioWeb/Content/assets/images/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/SitioWeb/Content/assets/images/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/SitioWeb/Content/assets/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/SitioWeb/Content/assets/images/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/SitioWeb/Content/assets/images/favicon-16x16.png">
+    <link rel="icon" href="https://www.cnv.gov.ar/favicon.ico?v= 639311616000000000" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="manifest" href="/SitioWeb/Content/assets/images/manifest.json">
+
+    
+
+    <title>CNV</title>
+    <!-- Bootstrap Core CSS -->
+    <link type="text/css" href="/SitioWeb/Content/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link type="text/css" href="/SitioWeb/Content/assets/css/NewColorsSiteWeb.css" rel="stylesheet">
+
+    <!-- OTHERS CSS -->
+    
+    <link type="text/css" href="/SitioWeb/Content/assets/css/animate.min.css" rel="stylesheet" />
+    <link type="text/css" href="/SitioWeb/Content/assets/css/normalize.css" rel="stylesheet" />
+    <link href="/SitioWeb/Content/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="/SitioWeb/Content/assets/js/fancybox/css/jquery.fancybox.min.css" />
+    <link rel="stylesheet" type="text/css" href="/SitioWeb/Content/assets/js/DataTables/datatables.min.css" />
+    <link rel="stylesheet" type="text/css" href="/SitioWeb/Content/assets/css/spin.css" />
+    <!-- Custom CSS -->
+
+    <link type="text/css" href="/SitioWeb/Content/assets/css/style.css?v=d67b068a-6510-4115-94f8-591a002fce20" rel="stylesheet">
+    <link type="text/css" href="/SitioWeb/Content/assets/css/institucional.css" rel="stylesheet">
+
+
+    <!--Iconos-->
+    <link href="/SitioWeb/wwwroot/lib/fontawesome/css/fontawesome.min.css" rel="stylesheet" />
+    <link href="/SitioWeb/wwwroot/lib/fontawesome/css/brands.min.css" rel="stylesheet" />
+    <link href="/SitioWeb/wwwroot/lib/fontawesome/css/solid.min.css" rel="stylesheet" />
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- jQuery -->
+    <script type="text/javascript">
+        var config = {
+            contextPath: document.URL.split('://')[0] + "://" + window.location.host + '/SitioWeb/'
+        };
+    </script>
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/jquery.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/bootstrap.min.js"></script>
+    <!-- Other JavaScript -->
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/scrolling-nav.js"></script>
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/wow.min.js"></script>
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/parallax.js"></script>
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/moment-with-locales.js"></script>
+    <script src="/SitioWeb/Content/assets/js/fancybox/js/jquery.fancybox.min.js"></script>
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/DataTables/datatables.min.js"></script>
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/jQuery.print.min.js"></script>
+    <script type="text/javascript" src="/SitioWeb/Scripts/qrcode.min.js"></script>
+    <!-- CUSTOM JavaScript -->
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/main.js"></script>
+    <script type="text/javascript" src="/SitioWeb/Content/assets/js/institucional.js?v=e3e9778e-4d3e-4b1f-8857-dbac35845001"></script>
+    <script type="text/javascript" src="/SitioWeb/AdminLTE/plugins/jquery-ui/js/jquery-ui.js"></script>
+    <!-- Spinner -->
+    
+    <!-- Google Analitycs -->
+    <script type="text/javascript" src="/SitioWeb/Scripts/ga.js"></script>
+    
+    <script type="text/javascript">
+
+        jQuery(document).ready(function ($) {
+        });
+
+        function Initialize() {
+            google.maps.visualRefresh = true;
+            var uluru = { lat: -34.605757, lng: -58.370815 };
+            var map2 = new google.maps.Map(document.getElementById('map_canvas_l'),
+                {
+                    zoom: 15,
+                    center: uluru
+                });
+            var marker2 = new google.maps.Marker({
+                position: uluru,
+                map: map2,
+                url: 'https://maps.google.com/?q=25 de Mayo 175 Capital Federal'
+            });
+
+            google.maps.event.addListener(marker2,
+                'click',
+                function () {
+                    window.open(marker2.url);
+                });
+
+            marker2.setIcon('https://maps.google.com/mapfiles/ms/icons/blue-dot.png')
+
+        }
+
+// our code will go in here...
+    </script>
+</head>
+<!-- The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top fondoArgGob" role="navigation">
+    <div class="container">
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-ex1-collapse ">
+            <ul class="nav navbar-nav">
+                <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+
+                <li style="width: 12rem"> <a href="/SitioWeb/Institucional">Institucional</a> </li>
+                <li style="width: 14rem"> <a href="/SitioWeb/MarcoRegulatorio">Marco Regulatorio</a> </li>
+                <li style="width: 20rem"> <a href="/SitioWeb/ResolucionesDisciplinarias">Resoluciones Disciplinarias</a> </li>
+                <li style="width: 13rem"> <a href="/SitioWeb/Informes">Informes</a> </li>
+                <li style="width: 13rem">
+                    <a class="nav-link" href="https://www.argentina.gob.ar/cnv/noticias">
+                        Prensa
+                    </a>
+                </li>
+
+                <li style="width: 17rem"> <a href="/SitioWeb/Home/AIF" class="invert"><img src="/SitioWeb/Content/assets/img/autopista.png">Acceso AIF</a> </li>
+
+                    <!-- <script>console.log("Debug=false")</script> -->
+
+                <li style="width: 19rem;"> <a href="/SitioWeb/BuscadorGlobal" class=""><img src="/SitioWeb/Content/assets/img/search_navbar.png">Empresas y Personas</a></li>
+
+                <!--  -->
+
+                <li class="hidden"> <a class="page-scroll" href="#page-top"></a> </li>
+            </ul>
+        </div>
+    </div>
+    
+    <!-- /.navbar-collapse -->
+    <!-- /.container -->
+</nav>
+
+    <section id="intro-int">
+        <div class="container">
+            <div class="col-md-8 col-sm-6 col-xs-6 no-padding">
+                <a href="/SitioWeb/">
+                    <img src="/SitioWeb/wwwroot/img/Logo-para-firma.png" height="100" alt="logo-header" style="padding-left: 10px">
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-12 col-xs-12">
+                <ul class="nav-intro">
+                    <li><a target="_blank" href="https://www.linkedin.com/company/558258/"> <i class="fa-brands fa-linkedin-in"></i></a></li>
+
+                    <li><a target="_blank" href="http://youtube.com/user/CNVArgentina"> <i class="fa-brands fa-youtube"></i></a></li>
+                    <li><a target="_blank" href="http://twitter.com/CNVArgentina"> <i class="fa-brands fa-twitter"></i></a></li>
+                    <li><a target="_blank" href="http://flickr.com/photos/fotografiacnv"> <i class="fa-brands fa-flickr"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+
+
+    
+<link type="text/css" href="/SitioWeb/Content/assets/css/registros-publicos.css" rel="stylesheet">
+<section id="title-int" class="registros-publicos">
+    <div class="container-fluid no-padding linea-Delgada-Amarilla">
+        <h1>Fondos Comunes de Inversión</h1>
+        <p>Es un instrumento de inversión mediante el cual un grupo de personas con similares objetivos de inversión aporta su dinero para que un profesional lo administre, invirtiendo en una cartera diversificada de activos.</p>
+    </div>
+</section>
+<section id="content">
+    <div class="container">
+        <div class="panel-group wrap accordion" id="accordionb" role="tablist" aria-multiselectable="true">
+            <div class="panel">
+                <div class="panel-heading" role="tab" id="headingb1">
+                    <h4 class="panel-title center-title">
+                        <a href="/SitioWeb/FondosComunesInversion" class="btn-blue back">
+                            <i class="fa fa-caret-left"></i> VOLVER
+                        </a>
+                        <a role="button" data-toggle="collapse" data-parent="#accordionb" href="#collapseb1" aria-expanded="true" aria-controls="collapseb1" class="">
+                            <strong>DETALLES</strong>
+                        </a>
+                    </h4>
+                </div>
+                <div id="collapseb1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading1" aria-expanded="true" style="">
+                    <div class="panel-body  bg-gray">
+                        <h1 class="gray">
+                            <br />
+                        <small>
+                            
+
+                        </small>
+                    </h1>
+                    <div id="exTab1" class="">
+                        <ul class="nav nav-pills">
+                            <li class="active">
+                                <a href="#1a" data-toggle="tab"><span>INFORMACIÓN FINANCIERA</span></a>
+                            </li>
+                                <li id="composicionCartera" class="">
+                                    <a href="#1b" data-toggle="tab"><span>COMPOSICIÓN DE CARTERA</span></a>
+                                </li>
+
+
+                        </ul>
+                        <div class="tab-content">
+                            <div class="tab-pane m-b-15 active" id="1a">
+                                    <div class="panel level0">
+                                        
+
+<div class="panel">
+    <div class="panel-heading" role="tab" id="heading3_">
+        <h4 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion3_"
+               href="#collapse3_" aria-expanded="true" aria-controls="collapse3_">
+                <strong>EMISIÓN</strong>
+            </a>
+        </h4>
+    </div>
+    <div id="collapse3_" class="panel-collapse collapse" role="tabpanel"   
+         aria-labelledby="heading3_">
+        <div class="panel-body">
+
+
+<div class="panel">
+    <div class="panel-heading" role="tab" id="heading7_">
+        <h4 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion7_"
+               href="#collapse7_" aria-expanded="true" aria-controls="collapse7_">
+                <strong>prospecto de emision</strong>
+            </a>
+        </h4>
+    </div>
+    <div id="collapse7_" class="panel-collapse collapse" role="tabpanel"   
+         aria-labelledby="heading7_">
+        <div class="panel-body">
+
+                <div class="table-responsive">
+                    <table class="table tabla-hechos-relevantes">
+                        <thead>
+                        <tr>
+                            <th>FECHA</th>
+                            <th>DESCRIPCIÓN</th>
+                            <th style="width: 120px;">DOCUMENTO</th>
+                            <th style="width: 100px;">VER</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                                <tr>
+                                    <td> 28 dic. 2018</td>
+                                    <td>PROGRAMA: HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - SERIE :HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - FICHA - FCIA</td>
+                                    <td style="width: 120px;">2421285</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/42BA7FD8-B0E7-4512-A2A1-77EE621DF12C" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                        </tbody>
+                    </table>
+                </div>
+        </div>
+    </div>
+</div>
+
+<div class="panel">
+    <div class="panel-heading" role="tab" id="heading12_">
+        <h4 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion12_"
+               href="#collapse12_" aria-expanded="true" aria-controls="collapse12_">
+                <strong>Reglamento de Gestion</strong>
+            </a>
+        </h4>
+    </div>
+    <div id="collapse12_" class="panel-collapse collapse" role="tabpanel"   
+         aria-labelledby="heading12_">
+        <div class="panel-body">
+
+                <div class="table-responsive">
+                    <table class="table tabla-hechos-relevantes">
+                        <thead>
+                        <tr>
+                            <th>FECHA</th>
+                            <th>DESCRIPCIÓN</th>
+                            <th style="width: 120px;">DOCUMENTO</th>
+                            <th style="width: 100px;">VER</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                                <tr>
+                                    <td> 12 jun. 2025</td>
+                                    <td>HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - REGLAMENTO DE GESTIÓN</td>
+                                    <td style="width: 120px;">3375083</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/16B892BE-EB0A-4347-A450-59266A4D825A" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 12 jun. 2025</td>
+                                    <td>HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - REGLAMENTO DE GESTIÓN</td>
+                                    <td style="width: 120px;">3375104</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/92B876ED-2FDD-45E0-A12E-B7A3D371C7AC" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 20 sep. 2024</td>
+                                    <td>HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - REGLAMENTO DE GESTIÓN</td>
+                                    <td style="width: 120px;">3256426</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/CD48BC3C-E098-446E-BB99-935703305AE2" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 19 sep. 2024</td>
+                                    <td>HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - REGLAMENTO DE GESTIÓN</td>
+                                    <td style="width: 120px;">3255777</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/3E758C88-659D-4750-894C-EA131869BE7A" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 4 may. 2018</td>
+                                    <td>REGLAMENTO DE GESTIÓN - REGLAMENTO DE GESTIÓN - MIGRACION</td>
+                                    <td style="width: 120px;">2368783</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/E52BCC24-3266-476E-9087-795AF228AD7D" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 18 ene. 2017</td>
+                                    <td>REGLAMENTO DE GESTIÓN - REGLAMENTO DE GESTIÓN - MIGRACION</td>
+                                    <td style="width: 120px;">2288329</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/171BCB4D-BE5B-41C9-922E-26A4DCA8AFFB" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                        </tbody>
+                    </table>
+                </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+</div>
+                                    </div>
+                                    <div class="panel level0">
+                                        
+
+<div class="panel">
+    <div class="panel-heading" role="tab" id="heading5_">
+        <h4 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion5_"
+               href="#collapse5_" aria-expanded="true" aria-controls="collapse5_">
+                <strong>INFORMACIÓN FINANCIERA</strong>
+            </a>
+        </h4>
+    </div>
+    <div id="collapse5_" class="panel-collapse collapse" role="tabpanel"   
+         aria-labelledby="heading5_">
+        <div class="panel-body">
+
+
+<div class="panel">
+    <div class="panel-heading" role="tab" id="heading14_">
+        <h4 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion14_"
+               href="#collapse14_" aria-expanded="true" aria-controls="collapse14_">
+                <strong>Estados Contables</strong>
+            </a>
+        </h4>
+    </div>
+    <div id="collapse14_" class="panel-collapse collapse" role="tabpanel"   
+         aria-labelledby="heading14_">
+        <div class="panel-body">
+
+                <div class="table-responsive">
+                    <table class="table tabla-hechos-relevantes">
+                        <thead>
+                        <tr>
+                            <th>FECHA</th>
+                            <th>DESCRIPCIÓN</th>
+                            <th style="width: 120px;">DOCUMENTO</th>
+                            <th style="width: 100px;">VER</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                                <tr>
+                                    <td> 17 feb. 2025</td>
+                                    <td>FECHA: 31-12-2024 - PERIODICIDAD: ANUAL -  HF RENTA DOLARES EX HF RENTA FIJA LEY 27260  - OBSERV.: - ESTADOS CONTABLES - FCI</td>
+                                    <td style="width: 120px;">3319404</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/D096A8C3-4248-45BC-8825-9DC5F08CF5C7" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 6 mar. 2024</td>
+                                    <td>FECHA: 31-12-2023 - PERIODICIDAD: ANUAL -  HF RENTA DOLARES EX HF RENTA FIJA LEY 27260  - OBSERV.: - ESTADOS CONTABLES - FCI</td>
+                                    <td style="width: 120px;">3161852</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/212A1A63-5B90-4457-AA45-088E69BB6574" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 10 mar. 2023</td>
+                                    <td>FECHA: 31-12-2022 - PERIODICIDAD: ANUAL -  HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - ESTADOS CONTABLES - FCI</td>
+                                    <td style="width: 120px;">3014985</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/2695D635-E8D8-4FDD-B3B1-0A1574CCDE47" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 10 mar. 2022</td>
+                                    <td>FECHA: 31-12-2021 - PERIODICIDAD: ANUAL -  HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - ESTADOS CONTABLES - FCI</td>
+                                    <td style="width: 120px;">2863351</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/2319B7BA-CF15-4B47-9072-96EC89CED3D2" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 9 mar. 2021</td>
+                                    <td>FECHA: 31-12-2020 - PERIODICIDAD: ANUAL -  HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - ESTADOS CONTABLES - FCI</td>
+                                    <td style="width: 120px;">2720242</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/0428DBC3-8212-40A7-8D42-12F98AF19638" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 3 dic. 2020</td>
+                                    <td>FECHA: 30-09-2020 - PERIODICIDAD: TRIMESTRAL -  HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - ESTADOS CONTABLES - FCI</td>
+                                    <td style="width: 120px;">2688560</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/6DA4EFE0-6D9B-45A6-A700-EDFF3C0B8D8E" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 4 sep. 2020</td>
+                                    <td>FECHA: 30-06-2020 - PERIODICIDAD: SEMESTRAL -  HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - ESTADOS CONTABLES - FCI</td>
+                                    <td style="width: 120px;">2651386</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/4C4F108C-957D-4211-8963-5A5C6E1A94FF" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 5 jun. 2020</td>
+                                    <td>FECHA: 31-03-2020 - PERIODICIDAD: TRIMESTRAL -  HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - ESTADOS CONTABLES - FCI</td>
+                                    <td style="width: 120px;">2619543</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/5CA236A4-3AA0-481A-92EB-9D91DF72211E" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 9 mar. 2020</td>
+                                    <td>FECHA: 31-12-2019 - PERIODICIDAD: ANUAL -  HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - ESTADOS CONTABLES - FCI</td>
+                                    <td style="width: 120px;">2586179</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/6B945E6C-7478-4276-9BEA-53638D6910C0" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 8 nov. 2019</td>
+                                    <td>FECHA: 30-09-2019 - PERIODICIDAD: TRIMESTRAL -  HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - ESTADOS CONTABLES - FCI</td>
+                                    <td style="width: 120px;">2542553</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/E1AF0AF4-8A93-4737-AA2B-B49B6D1D18B9" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 9 ago. 2019</td>
+                                    <td>FECHA: 30-06-2019 - PERIODICIDAD: SEMESTRAL -  HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - ESTADOS CONTABLES - FCI</td>
+                                    <td style="width: 120px;">2506382</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/81956821-7515-430B-BBF6-8253B6FD5A4C" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 10 may. 2019</td>
+                                    <td>FECHA: 31-03-2019 - PERIODICIDAD: TRIMESTRAL -  HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - ESTADOS CONTABLES - FCI</td>
+                                    <td style="width: 120px;">2470498</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/8070A636-DDBF-4FEB-B4B3-9B240B5EE01D" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 12 mar. 2019</td>
+                                    <td>FECHA: 31-12-2018 - PERIODICIDAD: ANUAL -  HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - ESTADOS CONTABLES - FCI</td>
+                                    <td style="width: 120px;">2447037</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/CA553DA7-8913-4C74-9972-653EAA518408" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 9 nov. 2018</td>
+                                    <td>BALANCE TRIMESTRAL DE FONDO COMÚN DE INVERSIÓN - BALANCE TRIMESTRAL DE FONDO COMÚN DE INVERSIÓN - MIGRACION</td>
+                                    <td style="width: 120px;">2407932</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/1ED7EFAD-EB22-4F94-B61C-3B603E94A091" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                        </tbody>
+                    </table>
+                </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+</div>
+                                    </div>
+                                    <div class="panel level0">
+                                        
+
+<div class="panel">
+    <div class="panel-heading" role="tab" id="heading6_">
+        <h4 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion6_"
+               href="#collapse6_" aria-expanded="true" aria-controls="collapse6_">
+                <strong>HECHOS RELEVANTES</strong>
+            </a>
+        </h4>
+    </div>
+    <div id="collapse6_" class="panel-collapse collapse" role="tabpanel"   
+         aria-labelledby="heading6_">
+        <div class="panel-body">
+
+                <div class="table-responsive">
+                    <table class="table tabla-hechos-relevantes">
+                        <thead>
+                        <tr>
+                            <th>FECHA</th>
+                            <th>DESCRIPCIÓN</th>
+                            <th style="width: 120px;">DOCUMENTO</th>
+                            <th style="width: 100px;">VER</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                                <tr>
+                                    <td> 5 nov. 2025</td>
+                                    <td>TIPO HR: OTROS - PROGRAMA: HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - SERIE :HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 / PROGRAMA: FIMA RENTA FIJA DOLARES - SERIE :FIMA RENTA FIJA DOLARES - HECHO RELEVANTE FCIA</td>
+                                    <td style="width: 120px;">3438072</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/5426AE19-6D2A-41A4-9108-59E67D4BC2CF" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 25 jul. 2025</td>
+                                    <td>TIPO HR: OTROS - PROGRAMA: HF ACCIONES ARGENTINAS EX INVESTIRE ACCIONES - SERIE :HF ACCIONES ARGENTINAS EX INVESTIRE ACCIONES / PROGRAMA: FIMA ACCIONES - SERIE :FIMA ACCIONES / PROGRAMA: FIMA RENTA PLUS EX FIMA MIX - SERIE :FIMA RENTA PLUS EX FIMA MIX / P</td>
+                                    <td style="width: 120px;">3392799</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/E8BD0FE0-EA1C-4212-865B-651253C665F6" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 30 jun. 2025</td>
+                                    <td>TIPO HR: OTROS - HECHO RELEVANTE FCIA</td>
+                                    <td style="width: 120px;">3381315</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/75AF8044-4268-48AD-83BE-C2A27D4BCE3E" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 19 jun. 2025</td>
+                                    <td>TIPO HR: OTROS - HECHO RELEVANTE FCIA</td>
+                                    <td style="width: 120px;">3377473</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/DE5C6A58-CDE8-4466-8052-03DADFB93057" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 20 sep. 2024</td>
+                                    <td>TIPO HR: LANZAMIENTOS - PROGRAMA: HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - SERIE :HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - HECHO RELEVANTE FCIA</td>
+                                    <td style="width: 120px;">3256356</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/7D1D00BB-A18D-4665-BAEA-FB2605D30E3F" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 27 nov. 2023</td>
+                                    <td>TIPO HR: OTROS - HECHO RELEVANTE FCIA</td>
+                                    <td style="width: 120px;">3120455</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/3411B5D6-42EC-4923-A193-38AAD94E13B8" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 13 feb. 2020</td>
+                                    <td>TIPO HR: OTROS - PROGRAMA: HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - SERIE :HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - HECHO RELEVANTE FCIA</td>
+                                    <td style="width: 120px;">2577679</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/1CFC5B00-F515-4515-AB64-8267741453F8" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 25 nov. 2019</td>
+                                    <td>TIPO HR: SUSPENSIÓN OPERATORIA - PROGRAMA: HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - SERIE :HF RENTA DOLARES EX HF RENTA FIJA LEY 27260 - HECHO RELEVANTE FCIA</td>
+                                    <td style="width: 120px;">2549828</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/2F536E2A-78F6-4077-8ED4-BD94697FB6BA" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 13 nov. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2408914</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/E057A2F8-9E13-42E5-9511-4BEBB62E4106" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 12 nov. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2408338</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/6B70FF3E-C5A9-4475-BC9E-CCF7E138F355" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 8 nov. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2407523</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/466DB4A1-C3AF-44F6-922B-78D4A44EC61D" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 7 nov. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2407142</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/AFF9FCDF-F93A-4A8C-BD19-8A3E6960851C" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 5 nov. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2406744</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/8370D8A9-BA47-4CFD-BB17-F6AE13748107" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 2 nov. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2406439</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/6B680076-1957-4138-AF2F-3DAF2D245A37" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 1 nov. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2405977</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/1B4B35DF-8804-41CD-A28B-9537C52C21A1" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 31 oct. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2405808</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/74DD1FEE-ACF6-4F6F-A944-D378BB4AB948" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 26 oct. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2405186</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/D3728485-8C0D-42A8-8956-D5BF7C3D4735" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 25 oct. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2404980</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/F79F2B90-9B7C-49FA-8A00-5AE964F30D9F" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 22 oct. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2404362</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/BACC3DAC-FC35-4C76-8423-AF853E9B1784" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 19 oct. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2404219</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/0E471F0B-0B42-4C02-9BA8-4B74B38B55F8" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 18 oct. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2404032</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/2E7714D5-E1C0-4634-AE43-594BF31D58C2" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 17 oct. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2403794</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/9C91A793-1A47-42CB-B08B-0B7BBE32DB51" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 16 oct. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2403528</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/73A551A6-DD48-4C5A-826F-5B339B48CEEF" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 12 oct. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2403280</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/AAAA75E6-A33A-4164-A02B-B1645DA89FE2" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 11 oct. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2403082</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/A86E121A-0DA9-40E9-86C3-8AC3F27DE81C" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 10 oct. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2402880</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/88D66F93-CEEE-42CC-89AE-14B2ABA8DFC5" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 8 oct. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2402288</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/B82E53AE-1994-4D1D-9150-8A5E83AD7660" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 5 oct. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2402012</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/9DC1A542-E34E-4BCB-9A77-042271EC12E5" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 4 oct. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2401746</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/7DDB53DA-6115-4B49-824F-5D02E70F8975" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 3 oct. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2401448</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/B3806BC7-2632-407D-915C-D32D4ECD1904" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 1 oct. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2400375</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/4FAF90C9-4302-49F7-B2E2-1603F6D976CD" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 28 sep. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2400186</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/21AD036E-0EA8-4DBE-B58C-2F87AF026C41" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 27 sep. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2400020</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/18CC83A6-53E8-45F2-A645-D613232FC1CE" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 26 sep. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2399808</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/367E10D0-0E04-4A42-9F19-E01EAC3EA23B" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 25 sep. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2399504</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/9F454E29-E92B-46B5-8AE4-11389D1CFDCD" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 24 sep. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2399287</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/AD711874-5477-43F0-A821-9930EE450E0E" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 21 sep. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2399070</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/F65DA69F-E4F4-4018-B2B7-A536F9CA233D" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 20 sep. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2398856</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/CDB4CE9A-FDCC-425D-BBD8-BA3EB61B5E8D" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 13 sep. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2397582</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/06D6F87E-FFDF-4B0A-8238-AC5BED0B0064" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 7 sep. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2396224</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/AFB9CA15-5747-40F5-B6AE-669DB37A929C" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 6 sep. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2395882</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/D6CE55C0-7CED-4321-8522-18C3C74BE3B6" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 5 sep. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2395453</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/B2A931AA-A889-40C7-89DE-959F2B0661C8" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 21 ago. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2391874</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/F8136F49-03AA-430D-B081-0D4198A7BCF7" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 15 ago. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2391206</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/FA9F5914-0CC7-472F-8DF3-C18360694E69" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                                <tr>
+                                    <td> 4 may. 2018</td>
+                                    <td>HECHO RELEVANTE - HECHO RELEVANTE - MIGRACION</td>
+                                    <td style="width: 120px;">2368752</td>
+                                        <td style="width: 100px;">
+                                            <a href="https://aif2.cnv.gov.ar/Presentations/publicview/D6261383-D809-4988-B559-A6A546D028F9" target="_blank">
+                                                <i class="material-icons">
+                                                    add_circle_outline
+                                                </i>
+                                            </a>
+                                        </td>
+                                </tr>
+                        </tbody>
+                    </table>
+                </div>
+        </div>
+    </div>
+</div>
+                                    </div>
+                            </div>
+
+                                <div class="tab-pane m-b-15" id="1b">
+                                    <h2 style="margin-top: 0px !important; margin-bottom: 10px !important;">Composición Semanal Cartera FONDO (artículo 34 del Capítulo XI)</h2>
+                                    
+                                    <div class="row">
+                                        <div class="col-md-8">
+                                            <table>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>Fondo</td>
+                                                        <td style="font-weight: bold;">HF Renta Dólares</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Cartera al (*)</td>
+                                                        <td style="font-weight: bold;">20/11/25</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Gerente</td>
+                                                        <td>Galicia Asset Management S.A.U.</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Depositaria</td>
+                                                        <td>Banco de Galicia y Buenos Aires S.A.</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Clasificación</td>
+                                                        <td>Renta Fija</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Moneda</td>
+                                                        <td>Dolar Estadounidense</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Región</td>
+                                                        <td>Argentina</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Horizonte</td>
+                                                        <td>Mediano Plazo</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            
+                                        </div>
+                                        <div class="col-md-4">
+
+                                        </div>
+                                    </div>
+                                    <br /><br />
+                                    
+                                    <div class="row">
+
+                                        <div class="col-md-10">
+                                            <H4>COMPOSICIÓN DE CARTERAS ANTERIORES</H4>
+                                            <input type="date" id="fecha">
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-md-10">
+                                            <br /><br />
+                                            <table>
+                                                <thead>
+                                                    <tr>
+                                                        <th style="padding: 5px;">Detalle (1)</th>
+                                                        <th style="text-align: right; padding: 5px;">% del P.N.</th>
+                                                        <th style="text-align: right; padding: 5px;">% del P.N.(2)</th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                        <tr>
+                                                            <td style="font-weight: bold;">
+
+Disponibilidades
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="font-weight: bold;">
+
+Otros Activos
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="font-weight: bold;">
+
+Pasivos
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="font-weight: bold;">
+
+ 
+
+
+                                                            </td>
+                                                            <td style="text-align: right; ">
+                                                                
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                100,00
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td style="font-weight: bold;">
+
+(Dolar Estadounidense)
+
+
+                                                            </td>
+                                                            <td style="text-align: right; font-weight:bold;">
+                                                                
+                                                            </td>
+                                                            <td style="text-align: right; font-weight: bold">
+                                                                
+                                                            </td>
+                                                        </tr>
+
+
+                                                </tbody>
+                                            </table>
+
+                                            <p style="font-size: 0.9rem; font-weight: bold; margin-top: 1rem; margin-bottom: 1rem">
+                                                (1) Se incorporarán aquellos activos y pasivos existentes en la cartera a la fecha del reporte.<br />
+                                                Activos de RENTA VARIABLE: Se agrupan los activos por país, y dentro de cada país, por emisor.<br />
+                                                Se aclara que dentro de cada país están sumados los activos del tipo Certificados con oferta pública autorizada en un determinado país, agrupado como inversión en el país de autorización del Certificado de Depósito, independientemente del país de emisión del subyacente del Certificado.<br />
+                                                Así, por ejemplo, dentro de Argentina estan incluidos los CEDEARS autorizados en Argentina; y dentro de Estados Unidos están incluídos los ADRS autorizados en dicho país, independientemente del país de emisión del subyacente.<br />
+                                                Activos de RENTA FIJA: Se agrupan por moneda de emisión y, dentro de cada moneda, por instrumento.<br />
+                                                Los pasivos serán informados por total.
+                                            </p>
+                                            <p style="font-size: 0.9rem; font-weight: bold; margin-top: 1rem; margin-bottom: 1rem">
+                                                (2) Porcentajes calculados sobre Montos reexpresados en Moneda del Fondo.
+                                            </p>
+
+                                        </div>
+                                        <div class="col-md-2">
+
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                        </div>
+
+
+                        <a href="/SitioWeb/FondosComunesInversion" class="btn-celeste center-btn	">VOLVER</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    
+    <script src="/SitioWeb/Content/assets/js/DetallesFCI.js"></script>
+
+
+</body>
+</html>
