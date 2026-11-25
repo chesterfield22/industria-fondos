@@ -137,7 +137,7 @@ def bajar(fid, nombre, guardar=False):
     log(f'  {fid} {nombre[:45]:45} {st} {dt:.1f}s al {cab.get("Cartera al")} | {len(esp)} especies, suma {suma} | '
         f'total {total} | PN {pn} | {cab.get("Clasificación")} {cab.get("Moneda")}')
     return dict(id=fid, nombre=nombre, status=st, seg=round(dt, 2), cartera=True, cab=cab, especies=esp, rubros=rub,
-                suma=suma, total=total, pn=pn)
+                suma=suma, total=total, pn=pn, filas=filas)
 
 
 res = {}
@@ -150,7 +150,7 @@ for v, t in iol:
 log('\n== 5. Muestra aleatoria (30) — tiempos, bloqueos, frescura')
 random.seed(1)
 for v, t in random.sample([x for x in fondos if x not in iol], min(30, max(0, len(fondos) - len(iol)))):
-    res[v] = bajar(v, t); time.sleep(1)
+    res[v] = bajar(v, t, guardar=True); time.sleep(1)
 ok = [r for r in res.values() if r.get('cartera')]
 if res:
     log(f'  con cartera {len(ok)}/{len(res)} | seg medio {sum(r["seg"] for r in res.values()) / len(res):.2f} | '

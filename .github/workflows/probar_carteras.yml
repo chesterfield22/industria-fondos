@@ -2,7 +2,7 @@ name: probar-carteras
 on:
   workflow_dispatch:
 permissions:
-  contents: read
+  contents: write
 jobs:
   probar:
     runs-on: ubuntu-latest
@@ -13,9 +13,8 @@ jobs:
         with:
           python-version: '3.12'
       - run: python tools/probar_carteras.py
-      - uses: actions/upload-artifact@v4
+      - name: Resultado a la rama prueba-carteras (descartable)
         if: always()
-        with:
-          name: probe
-          path: probe/
-          retention-days: 3
+        run: |
+          cd probe && git init -q -b prueba-carteras && git config user.name bot && git config user.email bot@users.noreply.github.com
+          git add -A && git commit -q -m prueba && git push -q --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" prueba-carteras
