@@ -62,3 +62,8 @@ python sheets/build_sheet.py "Industria Fondos.xlsx"
 ```
 
 Nota técnica: el importador de xlsx de Google sólo acepta LAMBDA/MAP/SCAN con la codificación de Excel (`_xlfn.LAMBDA`, `_xlpm.x`); la plantilla evita `LET` y usa `MATCH` sobre encabezados para ubicar columnas por nombre.
+
+## Carteras (rama `carteras`)
+
+Carteras semanales de cada FCI tomadas de la ficha del fondo en la CNV, con histórico en Parquet (consultable con DuckDB)
+y un CSV por fondo para la hoja **Carteras**. Workflow `carteras.yml`; detalle en [docs/carteras.md](docs/carteras.md).

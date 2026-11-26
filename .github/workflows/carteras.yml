@@ -1,0 +1,75 @@
+name: carteras
+
+# Carteras semanales de los FCI (ficha de cada fondo en la CNV) -> rama "carteras".
+# Cada corrida programada consulta solo la ficha centinela (IOL Cash Management): si la CNV no cambió la fecha de
+# "Cartera al" y no hay fondos atrasados para reintentar, termina sin descargar ni publicar.
+
+on:
+  schedule:
+    - cron: '10 14 * * 1-5'   # 11:10 ART
+    - cron: '40 19 * * 1-5'   # 16:40 ART
+    - cron: '20 23 * * 1-5'   # 20:20 ART
+    - cron: '10 15 * * 6'     # sábado 12:10 ART
+  workflow_dispatch:
+    inputs:
+      forzar:
+        description: 'Corrida completa aunque la CNV no haya cambiado (si/no)'
+        required: false
+        default: 'no'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: carteras
+  cancel-in-progress: false
+
+jobs:
+  carteras:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    env:
+      FORZAR: ${{ github.event.inputs.forzar == 'si' && '--forzar' || '' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Dependencias
+        run: pip install -r requirements.txt
+
+      - name: Publicación anterior (histórico y estado)
+        run: |
+          git clone -q --depth 1 -b carteras "https://github.com/${{ github.repository }}" prev 2>/dev/null || mkdir -p prev
+
+      - name: Control (solo la ficha centinela)
+        id: chk
+        run: python pipeline/carteras.py prev --control $FORZAR
+
+      - name: Base de la planilla diaria (vínculo fondo_id, subtipo y control de patrimonio)
+        if: steps.chk.outputs.run == 'si'
+        continue-on-error: true
+        run: |
+          Y=$(date -u +%Y); P=$((Y-1))
+          git clone -q --depth 1 --filter=blob:none --no-checkout -b data "https://github.com/${{ github.repository }}" data
+          cd data && git sparse-checkout set --no-cone /base/maestro.parquet /base/fx.csv /base/clases_diario_$Y.parquet /base/clases_diario_$P.parquet && git checkout -q data
+
+      - name: Carteras
+        if: steps.chk.outputs.run == 'si'
+        run: python pipeline/carteras.py prev salida data/base $FORZAR
+
+      - name: Publicar en rama carteras (un solo commit; el histórico viaja completo)
+        if: steps.chk.outputs.run == 'si'
+        run: |
+          if [ -f salida/SIN_CAMBIOS ]; then echo "Sin cambios"; exit 0; fi
+          cp docs/carteras.md salida/README.md 2>/dev/null || true
+          cd salida
+          git init -q -b carteras
+          git config user.name "industria-fondos-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -q -m "carteras $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -q --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" carteras
