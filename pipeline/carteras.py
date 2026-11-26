@@ -439,20 +439,21 @@ def similares(esp_fresca):
     nrm[nrm == 0] = 1
     U = M / nrm
     out = {}
+    K = 50                                                  # candidatos por coseno; se ordenan por superposición
     for a0 in range(0, len(fids), 256):                     # por bloques para acotar memoria
         S = U[a0:a0 + 256] @ U.T
         for k in range(S.shape[0]):
             i = a0 + k
             S[k, i] = -1
-            top = np.argpartition(-S[k], min(N_SIMILARES, len(fids) - 1))[:N_SIMILARES]
-            top = top[np.argsort(-S[k, top])]
+            kk = min(K, len(fids) - 1)
+            top = np.argpartition(-S[k], kk)[:kk]
             filas = []
             for j in top:
                 if S[k, j] <= 0:
                     continue
                 both = (M[i] > 0) & (M[j] > 0)
                 filas.append((fids[j], float(S[k, j]), float(np.minimum(M[i], M[j]).sum()), int(both.sum())))
-            out[fids[i]] = filas
+            out[fids[i]] = sorted(filas, key=lambda x: (-x[2], -x[1]))[:N_SIMILARES]
     return out
 
 
@@ -633,10 +634,14 @@ def prioridad(ids, nombres, prev_dir, base_dir):
     return sorted(ids, key=lambda f: -(tam.get(f) or 0))
 
 
-def main(prev_dir, out_dir, base_dir=None, forzar=False):
+def main(prev_dir, out_dir, base_dir=None, forzar=False, republicar=False):
     hoy = hoy_art()
     t0 = time.time()
-    modo, fcen, estado = decidir(prev_dir, forzar)
+    if republicar:                       # recalcula derivados y CSV desde el histórico, sin bajar nada de la CNV
+        estado = json.load(open(os.path.join(prev_dir, 'estado.json'))) if os.path.exists(os.path.join(prev_dir, 'estado.json')) else {}
+        modo, fcen = 'republicar', estado.get('centinela')
+    else:
+        modo, fcen, estado = decidir(prev_dir, forzar)
     # partimos de lo publicado (el histórico se conserva entero)
     if os.path.abspath(prev_dir or '') != os.path.abspath(out_dir):
         shutil.rmtree(out_dir, ignore_errors=True)
@@ -664,13 +669,15 @@ def main(prev_dir, out_dir, base_dir=None, forzar=False):
         cola = [f for f in prioridad([f for f, _ in listado], nombres, prev_dir, base_dir) if revisar or f not in inactivos]
         log(f'barrido nuevo: {len(cola)} fichas ({len(inactivos)} inactivas '
             f'{"incluidas (revisión mensual)" if revisar else "salteadas"})')
+    elif modo == 'republicar':
+        cola = list(estado.get('cola', []))
     elif modo == 'continuar':
         nombres = estado.get('nombres') or dict(listar_fondos())
         cola = prioridad(list(estado['cola']), nombres, prev_dir, base_dir)
     else:
         cola = list(estado['pendientes'])
     log(f'modo {modo}: {len(cola)} fichas en cola; presupuesto {PRESUPUESTO_MIN} min')
-    res, cola = bajar(cola, PRESUPUESTO_MIN * 60 - (time.time() - t0))
+    res, cola = ({}, cola) if modo == 'republicar' else bajar(cola, PRESUPUESTO_MIN * 60 - (time.time() - t0))
 
     # control de calidad: si casi todo falla, la CNV está caída o cambió la página -> no se publica
     n = len(res)
@@ -692,7 +699,9 @@ def main(prev_dir, out_dir, base_dir=None, forzar=False):
         elif st == 'ok':
             inactivos.discard(f)
     err = [f for f, r in res.items() if r[0] == 'error']
-    if cola:                              # barrido a medias: los pendientes se calculan al terminar
+    if modo == 'republicar':
+        pend, reint = estado.get('pendientes', []), estado.get('reintentos', 0)
+    elif cola:                            # barrido a medias: los pendientes se calculan al terminar
         pend, reint = sorted(set(estado.get('pendientes', [])) | set(err)), estado.get('reintentos', 0)
     else:
         atrasadas = ultf[(ultf < fmax) & (ultf >= fmax - pd.Timedelta(days=PENDIENTE_DIAS))].index.tolist()
@@ -725,6 +734,6 @@ if __name__ == '__main__':
         if os.environ.get('GITHUB_OUTPUT'):
             open(os.environ['GITHUB_OUTPUT'], 'a').write(f"run={'si' if modo else 'no'}\n")
     else:
-        quedan = main(a[0], a[1], a[2] if len(a) > 2 else None, forzar=forzar)
+        quedan = main(a[0], a[1], a[2] if len(a) > 2 else None, forzar=forzar, republicar='--republicar' in sys.argv)
         if os.environ.get('GITHUB_OUTPUT'):   # si quedó cola, el workflow se vuelve a disparar y sigue
             open(os.environ['GITHUB_OUTPUT'], 'a').write(f"quedan={quedan}\n")

@@ -17,6 +17,10 @@ on:
         description: 'Corrida completa aunque la CNV no haya cambiado (si/no)'
         required: false
         default: 'no'
+      republicar:
+        description: 'Solo recalcular y publicar desde el histórico, sin bajar de la CNV (si/no)'
+        required: false
+        default: 'no'
 
 permissions:
   contents: write
@@ -32,6 +36,7 @@ jobs:
     timeout-minutes: 45
     env:
       FORZAR: ${{ github.event.inputs.forzar == 'si' && '--forzar' || '' }}
+      REPUB: ${{ github.event.inputs.republicar == 'si' && '--republicar' || '' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -49,7 +54,8 @@ jobs:
 
       - name: Control (solo la ficha centinela)
         id: chk
-        run: python pipeline/carteras.py prev --control $FORZAR
+        run: |
+          if [ -n "$REPUB" ]; then echo "run=si" >> "$GITHUB_OUTPUT"; else python pipeline/carteras.py prev --control $FORZAR; fi
 
       - name: Base de la planilla diaria (vínculo fondo_id, subtipo y control de patrimonio)
         if: steps.chk.outputs.run == 'si'
@@ -62,7 +68,7 @@ jobs:
       - name: Carteras (descarga hasta 25 min; si queda cola, sigue en otra corrida)
         id: car
         if: steps.chk.outputs.run == 'si'
-        run: python pipeline/carteras.py prev salida data/base $FORZAR
+        run: python pipeline/carteras.py prev salida data/base $FORZAR $REPUB
 
       - name: Publicar en rama carteras (un solo commit; el histórico viaja completo)
         if: steps.chk.outputs.run == 'si'
