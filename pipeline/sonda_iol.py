@@ -1,45 +1,29 @@
-"""Sonda descartable: endpoints de la API de IOL y BYMA (no imprime credenciales)."""
-import os, sys, json, urllib.parse, urllib.request, urllib.error
+"""Sonda descartable: endpoints de la API de IOL (no imprime credenciales)."""
+import os, sys, json, urllib.parse
 sys.path.insert(0, os.path.dirname(__file__))
 from titulos import IOLApi
+import urllib.request
 a = IOLApi(os.environ['IOL_USER'], os.environ['IOL_PASS'])
-q = urllib.parse.quote
+a.get('/api/v2/bCBA/Titulos/AL30/Cotizacion')
 def raw(path):
-    tok = a._tok if hasattr(a, '_tok') else None
+    # status crudo, sin el filtro de get()
+    r = urllib.request.Request('https://api.invertironline.com' + path, headers={'Authorization': 'Bearer ' + a.tok})
     try:
-        return a.get(path)
-    except Exception as ex:
-        return f'EXC {type(ex).__name__} {ex}'
-print('ATTRS', [k for k in vars(a)])
-for p in ['/api/v2/bCBA/Titulos/T31Y7/Cotizacion/seriehistorica/2026-11-01/2026-11-06/sinAjustar',
-          '/api/v2/bcba/Titulos/T31Y7/Cotizacion/seriehistorica/2026-11-01/2026-11-06/sinAjustar',
-          '/api/v2/BCBA/Titulos/T31Y7/Cotizacion/seriehistorica/2026-11-01/2026-11-06/sinAjustar',
-          '/api/v2/bCBA/Titulos/T31Y7/Cotizacion/seriehistorica/2026-11-01/2026-11-06/ajustada',
-          '/api/v2/bCBA/Titulos/AL30/Cotizacion/seriehistorica/2026-11-01/2026-11-06/sinAjustar',
-          '/api/v2/bCBA/Titulos/T31Y7/Cotizacion',
-          '/api/v2/bCBA/Titulos/T31Y7/CotizacionDetalle']:
-    j = raw(p); print('SERIE', p, '=>', json.dumps(j, ensure_ascii=False)[:400])
-for p in ['/api/v2/cotizaciones-orleans/obligacionesNegociables/argentina/Todos',
-          '/api/v2/cotizaciones-orleans/obligacionesNegociables/argentina/Operables',
-          '/api/v2/cotizaciones-orleans/titulosPublicos/argentina/Todos',
-          '/api/v2/cotizaciones-orleans/letras/argentina/Todos',
-          '/api/v2/cotizaciones-orleans/Bonos/argentina/Todos',
-          '/api/v2/Cotizaciones/obligacionesNegociables/argentina/Todos',
-          '/api/v2/Cotizaciones/Bonos/Bonos%20corporativos%20en%20pesos/argentina',
-          '/api/v2/Cotizaciones/Bonos/Bonos%20corporativos%20en%20d%C3%B3lares/argentina',
-          '/api/v2/Cotizaciones/Bonos/Soberanos%20en%20pesos%20m%C3%A1s%20Cer/argentina']:
-    j = raw(p)
-    t = (j or {}).get('titulos', []) if isinstance(j, dict) else (j if isinstance(j, list) else [])
-    print('LISTA', p, '=>', len(t) if isinstance(t, list) else t, [x.get('simbolo') for x in t[:6]] if isinstance(t, list) else '', json.dumps(t[0], ensure_ascii=False)[:250] if isinstance(t, list) and t else json.dumps(j)[:200])
-# BYMA bulk
-def byma(path, body):
-    r = urllib.request.Request('https://open.bymadata.com.ar/vanoms-be-core/rest/api/bymadata/free/' + path,
-        data=json.dumps(body).encode(), headers={'Content-Type': 'application/json', 'User-Agent': 'Mozilla/5.0'})
-    try:
-        return json.loads(urllib.request.urlopen(r, timeout=30).read())
-    except Exception as ex:
-        return f'EXC {ex}'
-for path in ['negociable-obligations', 'public-bonds', 'lebacs', 'short-term-government-bonds']:
-    j = byma(path, {"excludeZeroPxAndQty": False, "T2": True, "T1": False, "T0": False, "Content-Type": "application/json"})
-    d = j.get('data', j) if isinstance(j, dict) else j
-    print('BYMA', path, '=>', (len(d) if isinstance(d, list) else str(d)[:200]), json.dumps(d[0], ensure_ascii=False)[:500] if isinstance(d, list) and d else '')
+        with urllib.request.urlopen(r, timeout=30) as x:
+            return x.status, x.read().decode()[:350]
+    except urllib.error.HTTPError as e:
+        return e.code, e.read().decode()[:350]
+j = a.get('/api/v2/cotizaciones-orleans/obligacionesNegociables/argentina/Todos')
+print('ORLEANS_ON_KEYS', list(j['titulos'][0].keys()))
+print('ORLEANS_ON_EJ', json.dumps([t for t in j['titulos'] if t['simbolo'] in ('TTCDO', 'YM34O', 'TTCDD')], ensure_ascii=False)[:1200])
+j = a.get('/api/v2/cotizaciones-orleans/titulosPublicos/argentina/Todos')
+print('ORLEANS_TP_EJ', json.dumps([t for t in j['titulos'] if t['simbolo'] in ('AO27D', 'T31Y7', 'AL30')], ensure_ascii=False)[:900])
+j = a.get('/api/v2/cotizaciones-orleans/letras/argentina/Todos')
+print('ORLEANS_LE_EJ', json.dumps([t for t in j['titulos'] if t['simbolo'].startswith('S')][:2], ensure_ascii=False)[:600])
+for s, d0, d1, aj in [('T31Y7', '2026-11-01', '2026-11-06', 'sinAjustar'), ('T31Y7', '2026-10-01', '2026-11-25', 'sinAjustar'),
+                      ('T31Y7', '2026-10-01', '2026-11-25', 'ajustada'), ('TTCDO', '2026-10-01', '2026-11-25', 'sinAjustar'),
+                      ('AO27D', '2026-10-01', '2026-11-25', 'sinAjustar'), ('TTCDD', '2026-10-01', '2026-11-25', 'sinAjustar'),
+                      ('S30E7', '2026-10-01', '2026-11-25', 'sinAjustar'), ('YM34O', '2026-10-01', '2026-11-25', 'sinAjustar'),
+                      ('AL30', '2026-10-01', '2026-11-25', 'sinAjustar')]:
+    st, body = raw(f'/api/v2/bCBA/Titulos/{s}/Cotizacion/seriehistorica/{d0}/{d1}/{aj}')
+    print('SERIE', s, d0, d1, aj, st, len(body), body[:200].replace('\n', ' '))
