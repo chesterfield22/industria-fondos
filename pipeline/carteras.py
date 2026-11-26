@@ -428,6 +428,12 @@ def fmt(v):
     return str(v)
 
 
+def ar(x, d=2, signo=False):
+    """Número con formato argentino para los avisos (1.234,56)."""
+    t = f'{x:+,.{d}f}' if signo else f'{x:,.{d}f}'
+    return t.replace(',', '§').replace('.', ',').replace('§', '.')
+
+
 def hhi(w):
     w = np.asarray([x for x in w if x and x > 0], float)
     return float((w ** 2).sum()) if len(w) else np.nan
@@ -526,15 +532,15 @@ def construir(hist, vin, hoy, outdir, listado_n):
             avisos.append(f'Cartera desactualizada: la CNV muestra la del {c.fecha_cartera:%d/%m/%Y}, {atraso} días anterior a '
                           f'la más reciente del sistema ({fmax:%d/%m/%Y}). Puede ser un fondo inactivo o en liquidación.')
         if activos < 50 or activos > 200 or (pd.notna(pasivos) and pasivos > 50):
-            avisos.append(f'Datos atípicos: activos {activos:.2f}% del patrimonio'
-                          + (f', pasivos informados {pasivos:.2f}%' if pd.notna(pasivos) else '') + '. Se muestra como lo informa la CNV.')
+            avisos.append(f'Datos atípicos: activos {ar(activos)}% del patrimonio'
+                          + (f', pasivos informados {ar(pasivos)}%' if pd.notna(pasivos) else '') + '. Se muestra como lo informa la CNV.')
         if len(e) == 0:
             avisos.append('Sin especies informadas (solo rubros).')
         if pd.isna(c.fondo_id):
             avisos.append('No vinculado a la planilla diaria (nombre distinto): sin subtipo ni control de patrimonio.')
         dif = (c.pn / c.aum_planilla - 1) if pd.notna(c.aum_planilla) and c.pn else np.nan
         if pd.notna(dif) and abs(dif) > 0.05:
-            avisos.append(f'El patrimonio de la CNV difiere {dif:+.1%} del AUM de la planilla diaria del mismo día.')
+            avisos.append(f'El patrimonio de la CNV difiere {ar(dif * 100, 1, True)}% del AUM de la planilla diaria del mismo día.')
         estado = ('desactualizada' if atraso > FRESCA_DIAS else 'atipica' if any(a.startswith('Datos atípicos') for a in avisos)
                   else 'ok')
         meta = {
