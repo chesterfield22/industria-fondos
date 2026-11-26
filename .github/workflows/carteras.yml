@@ -2,7 +2,8 @@ name: carteras
 
 # Carteras semanales de los FCI (ficha de cada fondo en la CNV) -> rama "carteras".
 # Cada corrida programada consulta solo la ficha centinela (IOL Cash Management): si la CNV no cambió la fecha de
-# "Cartera al" y no hay fondos atrasados para reintentar, termina sin descargar ni publicar.
+# "Cartera al" y no hay fondos atrasados para reintentar, termina sin descargar ni publicar. Un barrido baja las
+# fichas activas de mayor a menor tamaño en tandas de ~25 min; cada tanda publica y dispara la siguiente.
 
 on:
   schedule:
@@ -19,6 +20,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: carteras
@@ -27,7 +29,7 @@ concurrency:
 jobs:
   carteras:
     runs-on: ubuntu-latest
-    timeout-minutes: 75
+    timeout-minutes: 45
     env:
       FORZAR: ${{ github.event.inputs.forzar == 'si' && '--forzar' || '' }}
     steps:
@@ -57,7 +59,8 @@ jobs:
           git clone -q --depth 1 --filter=blob:none --no-checkout -b data "https://github.com/${{ github.repository }}" data
           cd data && git sparse-checkout set --no-cone /base/maestro.parquet /base/fx.csv /base/clases_diario_$Y.parquet /base/clases_diario_$P.parquet && git checkout -q data
 
-      - name: Carteras
+      - name: Carteras (descarga hasta 25 min; si queda cola, sigue en otra corrida)
+        id: car
         if: steps.chk.outputs.run == 'si'
         run: python pipeline/carteras.py prev salida data/base $FORZAR
 
@@ -73,3 +76,11 @@ jobs:
           git add -A
           git commit -q -m "carteras $(date -u +%Y-%m-%dT%H:%MZ)"
           git push -q --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" carteras
+
+      - name: Seguir el barrido en otra corrida si quedaron fichas
+        if: steps.chk.outputs.run == 'si' && steps.car.outputs.quedan != '' && steps.car.outputs.quedan != '0'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Quedan ${{ steps.car.outputs.quedan }} fichas: se dispara otra corrida"
+          gh workflow run carteras.yml --ref main -f forzar=no

@@ -40,7 +40,9 @@ HILOS = 4                    # consultas simultáneas a la CNV (moderado a prop�
 FRESCA_DIAS = 14             # una cartera más vieja que (fecha más reciente del sistema - 14 días) se marca desactualizada
 PENDIENTE_DIAS = 21          # fondos atrasados hasta 21 días se reintentan (después de una corrida completa)
 MAX_REINTENTOS = 3
-MIN_OK = int(os.environ.get('CARTERAS_MIN_OK', 300))   # mínimo de fichas con cartera para publicar una corrida completa
+PRESUPUESTO_MIN = float(os.environ.get('CARTERAS_PRESUPUESTO_MIN', 25))  # minutos de descarga por corrida (el resto sigue en otra)
+INACTIVO_DIAS = 120          # sin cartera o con cartera > 120 días detrás de la más reciente: se saltea en los barridos
+REVISAR_INACTIVOS_DIAS = 28  # ... salvo un barrido completo cada 4 semanas (por si vuelven a informar)
 N_SIMILARES = 8
 
 
@@ -157,16 +159,20 @@ def bajar_ficha(fid):
         return fid, ('error', str(e)[:200])
 
 
-def bajar(ids):
-    res, t0 = {}, time.time()
+def bajar(ids, presupuesto_s=None):
+    """Baja fichas en tandas hasta agotar el presupuesto de tiempo. Devuelve (resultados, ids que quedan)."""
+    res, t0, ids = {}, time.time(), list(ids)
+    tanda = HILOS * 8
     with cf.ThreadPoolExecutor(HILOS) as ex:
-        for n, (fid, r) in enumerate(ex.map(bajar_ficha, ids), 1):
-            res[fid] = r
-            if n % 200 == 0:
-                log(f'  {n}/{len(ids)} fichas ({time.time() - t0:.0f}s)')
-    c = pd.Series([r[0] for r in res.values()]).value_counts().to_dict()
-    log(f'  descargadas {len(ids)} fichas en {time.time() - t0:.0f}s: {c}')
-    return res
+        while ids and (presupuesto_s is None or not res or time.time() - t0 < presupuesto_s):   # al menos una tanda
+            lote, ids = ids[:tanda], ids[tanda:]
+            for fid, r in ex.map(bajar_ficha, lote):
+                res[fid] = r
+            if len(res) % 160 < tanda:
+                log(f'  {len(res)} fichas ({time.time() - t0:.0f}s, {(time.time() - t0) / len(res):.1f}s/ficha), quedan {len(ids)}')
+    c = pd.Series([r[0] for r in res.values()]).value_counts().to_dict() if res else {}
+    log(f'  descargadas {len(res)} fichas en {time.time() - t0:.0f}s: {c}; quedan {len(ids)}')
+    return res, ids
 
 
 # ------------------------------------------------------------------------------------------------------------ histórico
@@ -575,18 +581,21 @@ def construir(hist, vin, hoy, outdir, listado_n):
 
 # ------------------------------------------------------------------------------------------------------------ main
 def decidir(prev_dir, forzar=False):
-    """Consulta solo la ficha centinela. Devuelve (modo, fecha_centinela, estado_publicado)."""
+    """Consulta solo la ficha centinela. Devuelve (modo, fecha_centinela, estado_publicado).
+    Modos: 'barrido' (empieza a bajar todas las fichas activas), 'continuar' (sigue un barrido a medias),
+    'pendientes' (reintenta fondos atrasados), None (nada que hacer)."""
     estado = {}
     if prev_dir and os.path.exists(os.path.join(prev_dir, 'estado.json')):
         estado = json.load(open(os.path.join(prev_dir, 'estado.json')))
     _, cen = bajar_ficha(CENTINELA)
     fcen = str(cen[1][0]['cartera_al']) if cen[0] == 'ok' else None
     log(f'centinela {CENTINELA}: {cen[0]} cartera al {fcen} | publicada: {estado.get("centinela")} | '
-        f'pendientes: {len(estado.get("pendientes", []))} (reintentos {estado.get("reintentos", 0)})')
-    if forzar or not estado.get('centinela'):
-        modo = 'completa'
-    elif fcen and fcen > estado['centinela']:
-        modo = 'completa'
+        f'cola: {len(estado.get("cola", []))} | pendientes: {len(estado.get("pendientes", []))} '
+        f'(reintentos {estado.get("reintentos", 0)})')
+    if forzar or not estado.get('centinela') or (fcen and fcen > estado['centinela']):
+        modo = 'barrido'
+    elif estado.get('cola'):
+        modo = 'continuar'
     elif estado.get('pendientes') and estado.get('reintentos', 0) < MAX_REINTENTOS:
         modo = 'pendientes'
     else:
@@ -594,8 +603,31 @@ def decidir(prev_dir, forzar=False):
     return modo, fcen, estado
 
 
+def prioridad(listado, prev_dir, base_dir):
+    """Orden del barrido: primero los fondos más grandes (lo importante se actualiza antes). Tamaño en ARS aprox.:
+    patrimonio de la publicación anterior o, si no hay, AUM de la clase de referencia en la planilla diaria."""
+    tam = {}
+    try:
+        ind = pd.read_csv(os.path.join(prev_dir, 'indice.csv'), dtype={'ficha_id': str})
+        usd = ind.moneda.map(norm).str.contains('dolar', na=False)
+        tam.update(dict(zip(ind.ficha_id, ind.pn.fillna(0) * np.where(usd, 1500, 1))))
+    except Exception:
+        pass
+    try:
+        m = pd.read_parquet(os.path.join(base_dir, 'maestro.parquet'))
+        m['k'] = m.fondo.map(nfondo)
+        a = m.groupby('k').aum_ref.max()
+        for fid, nom in listado:
+            if fid not in tam:
+                tam[fid] = float(a.get(nfondo(nom), 0) or 0)
+    except Exception:
+        pass
+    return sorted((f for f, _ in listado), key=lambda f: -(tam.get(f) or 0))
+
+
 def main(prev_dir, out_dir, base_dir=None, forzar=False):
     hoy = hoy_art()
+    t0 = time.time()
     modo, fcen, estado = decidir(prev_dir, forzar)
     # partimos de lo publicado (el histórico se conserva entero)
     if os.path.abspath(prev_dir or '') != os.path.abspath(out_dir):
@@ -607,13 +639,33 @@ def main(prev_dir, out_dir, base_dir=None, forzar=False):
     if modo is None:
         open(os.path.join(out_dir, 'SIN_CAMBIOS'), 'w').write(f'centinela {fcen}; sin pendientes')
         log('sin cambios: no se descarga ni se publica')
-        return
+        return 0
 
     relevado = pd.Timestamp.utcnow().tz_localize(None) - pd.Timedelta(hours=3)
-    listado = listar_fondos()
-    ids = [f for f, _ in listado] if modo == 'completa' else estado['pendientes']
-    log(f'modo {modo}: {len(ids)} fichas')
-    res = bajar(ids)
+    inactivos = set(estado.get('inactivos', []))
+    rev_inact = estado.get('inactivos_revisados')
+    n_listado = estado.get('fichas_listado', 0)
+    if modo == 'barrido':
+        listado = listar_fondos()
+        n_listado = len(listado)
+        revisar = not rev_inact or (hoy - dt.date.fromisoformat(rev_inact)).days >= REVISAR_INACTIVOS_DIAS
+        if revisar:
+            rev_inact = str(hoy)
+        cola = [f for f in prioridad(listado, prev_dir, base_dir) if revisar or f not in inactivos]
+        log(f'barrido nuevo: {len(cola)} fichas ({len(inactivos)} inactivas '
+            f'{"incluidas (revisión mensual)" if revisar else "salteadas"})')
+    elif modo == 'continuar':
+        cola = list(estado['cola'])
+    else:
+        cola = list(estado['pendientes'])
+    log(f'modo {modo}: {len(cola)} fichas en cola; presupuesto {PRESUPUESTO_MIN} min')
+    res, cola = bajar(cola, PRESUPUESTO_MIN * 60 - (time.time() - t0))
+
+    # control de calidad: si casi todo falla, la CNV está caída o cambió la página -> no se publica
+    n = len(res)
+    malas = sum(1 for r in res.values() if r[0] == 'error')
+    if n >= 40 and malas > 0.5 * n:
+        raise RuntimeError(f'{malas}/{n} fichas con error: no se publica (posible problema en la CNV)')
     nuevo = a_filas(res, relevado)
     if len(nuevo):
         guardar_historico(nuevo, hdir)
@@ -621,28 +673,35 @@ def main(prev_dir, out_dir, base_dir=None, forzar=False):
     if hist.empty:
         raise RuntimeError('no hay carteras en el histórico')
 
-    # control de calidad mínimo antes de publicar
-    ok = sum(1 for r in res.values() if r[0] == 'ok')
-    err = [f for f, r in res.items() if r[0] == 'error']
-    if modo == 'completa' and ok < MIN_OK:
-        raise RuntimeError(f'solo {ok} fichas con cartera: no se publica (posible problema en la CNV)')
-
     ultf = hist.groupby('ficha_id').fecha_cartera.max()
     fmax = ultf.max()
-    atrasadas = ultf[(ultf < fmax) & (ultf >= fmax - pd.Timedelta(days=PENDIENTE_DIAS))].index.tolist()
-    pend = sorted(set(atrasadas) | set(err))
-    estado_n = dict(centinela=max(filter(None, [fcen, estado.get('centinela')])) if (fcen or estado.get('centinela')) else None,
-                    ultima_corrida=str(relevado)[:16], modo=modo, pendientes=pend,
-                    reintentos=0 if modo == 'completa' else estado.get('reintentos', 0) + 1,
-                    errores=len(err), fichas_ok=ok)
+    for f, (st, p) in res.items():       # fichas sin cartera o con cartera muy vieja: se saltean en los próximos barridos
+        if st == 'sin_cartera' or (st == 'ok' and p[0]['cartera_al'] < (fmax - pd.Timedelta(days=INACTIVO_DIAS)).date()):
+            inactivos.add(f)
+        elif st == 'ok':
+            inactivos.discard(f)
+    err = [f for f, r in res.items() if r[0] == 'error']
+    if cola:                              # barrido a medias: los pendientes se calculan al terminar
+        pend, reint = sorted(set(estado.get('pendientes', [])) | set(err)), estado.get('reintentos', 0)
+    else:
+        atrasadas = ultf[(ultf < fmax) & (ultf >= fmax - pd.Timedelta(days=PENDIENTE_DIAS))].index.tolist()
+        pend = sorted((set(atrasadas) | set(err)) - inactivos)
+        reint = estado.get('reintentos', 0) + 1 if modo == 'pendientes' else 0
+    cen = fcen if modo == 'barrido' else estado.get('centinela')
+    estado_n = dict(centinela=cen or estado.get('centinela'), ultima_corrida=str(relevado)[:16], modo=modo, cola=cola,
+                    pendientes=pend, reintentos=reint, inactivos=sorted(inactivos), inactivos_revisados=rev_inact,
+                    errores=len(err), fichas_bajadas=n, fichas_ok=sum(1 for r in res.values() if r[0] == 'ok'),
+                    fichas_listado=n_listado)
     vin = vincular(hist[hist.fecha_cartera == hist.groupby('ficha_id').fecha_cartera.transform('max')], base_dir) if base_dir else \
         pd.DataFrame({'ficha_id': ultf.index, 'fondo_id': None, 'subtipo': None, 'gerente_corto': None, 'aum_planilla': np.nan})
-    resumen, _ = construir(hist, vin, hoy, out_dir, len(listado))
+    resumen, _ = construir(hist, vin, hoy, out_dir, n_listado)
     estado_n.update(resumen)
     json.dump(estado_n, open(os.path.join(out_dir, 'estado.json'), 'w'), ensure_ascii=False, indent=1)
     pd.DataFrame([dict(clave=k, valor=v if not isinstance(v, list) else len(v)) for k, v in estado_n.items()]) \
         .to_csv(os.path.join(out_dir, 'meta.csv'), index=False)
     log('estado:', {k: (v if not isinstance(v, list) else len(v)) for k, v in estado_n.items()})
+    log(f'total {time.time() - t0:.0f}s')
+    return len(cola)
 
 
 if __name__ == '__main__':
@@ -654,4 +713,6 @@ if __name__ == '__main__':
         if os.environ.get('GITHUB_OUTPUT'):
             open(os.environ['GITHUB_OUTPUT'], 'a').write(f"run={'si' if modo else 'no'}\n")
     else:
-        main(a[0], a[1], a[2] if len(a) > 2 else None, forzar=forzar)
+        quedan = main(a[0], a[1], a[2] if len(a) > 2 else None, forzar=forzar)
+        if os.environ.get('GITHUB_OUTPUT'):   # si quedó cola, el workflow se vuelve a disparar y sigue
+            open(os.environ['GITHUB_OUTPUT'], 'a').write(f"quedan={quedan}\n")
