@@ -225,7 +225,11 @@ REGLAS_TIPO = [
     (r'^(vcp|valor(es)? (representativo|de corto))', 'VCP'), (r'^on ', 'ON'),
     (r'bopreal|^lefi|^nobac|^lebac|\bbcra\b', 'BCRA'),
     (r'eeuu|ee\.?uu|\bu\.?s\.? treasury|t-?bills?\b|united states|tesoro (de )?estados unidos', 'Soberano exterior'),
-    (r'^[a-z]{2} (rep|republica|bono global|global|tesoro|gobierno|govt)\b', 'Soberano exterior'),
+    (r'^[a-z]{2,3} (rep|republica|bono global|global|tesoro|gobierno|govt)\b', 'Soberano exterior'),
+    (r'^([a-z]{2,3} |bonos? )?(chile|brasil|paraguay|uruguay|peru|mexico|colombia|panama|ecuador)\b', 'Soberano exterior'),
+    (r'\betf\b|ishares|^spy |qqq|powershares|spdr|vanguard', 'ETF'),
+    (r'^bonos? (disc|par|cuasipar|bocon|consolidacion)\b', 'Soberano'),
+    (r'^bonos? .*\bprov(\.|incia)? de\b', 'Subsoberano'),
     (r'^bc ', 'Corporativo exterior'),
     (r'^(lecap|boncap|lecer|boncer|lede|lelink|letra tamar|letras? (del )?tesoro|bonos? (del tesoro|boncer|cer|capitalizable|'
      r'dual|tamar|bonar|global)|bonos? rep|bonar|global|bontam|bote|bonte|tx\d|tz)', 'Soberano'),
@@ -271,7 +275,7 @@ def moneda_activo(esp, rubro, tipo):
     return ''
 
 
-PAISES = {'CL': 'Chile', 'BR': 'Brasil', 'UY': 'Uruguay', 'PE': 'Perú', 'MX': 'México', 'CO': 'Colombia', 'PY': 'Paraguay',
+PAISES = {'CL': 'Chile', 'BR': 'Brasil', 'UY': 'Uruguay', 'PE': 'Perú', 'MX': 'México', 'CO': 'Colombia', 'PY': 'Paraguay', 'PAR': 'Paraguay',
           'US': 'EE.UU.', 'PA': 'Panamá', 'EC': 'Ecuador', 'BO': 'Bolivia'}
 
 
@@ -298,10 +302,15 @@ def emisor(esp, tipo):
     if tipo == 'Soberano exterior':
         if re.search(r'eeuu|ee\.?uu|treasury|t-?bill|united states|estados unidos', e, re.I):
             return 'Tesoro EE.UU.'
-        cod = e[:2].upper()
+        for nom in PAISES.values():
+            if norm(nom) in norm(e):
+                return nom + ' (soberano)'
+        cod = e.split()[0].upper()
         return PAISES.get(cod, cod) + ' (soberano)'
     if tipo == 'Corporativo exterior':
         return _limpiar_emisor(e[3:])
+    if tipo == 'Subsoberano' and re.search(r'prov(\.|incia)? de', e, re.I) and not re.match(r'(Bono|Letra|Titulo)s?\s+Prov', e, re.I):
+        return 'Prov. ' + _limpiar_emisor(re.split(r'prov(?:\.|incia)? de\s+', e, flags=re.I)[-1])
     if tipo == 'Subsoberano':
         s = re.sub(r'^(Bono|Letra|Titulo|Tit)s?\s+', '', e, flags=re.I)
         pre = 'Muni. ' if re.match(r'muni', s, re.I) else 'Prov. '
@@ -318,6 +327,8 @@ def emisor(esp, tipo):
         return re.split(r'\s+-\s+|\s+Clase\s', e[4:])[0].strip()
     if tipo == 'Fideicomiso financiero':
         return _limpiar_emisor(e[3:])
+    if tipo == 'ETF':
+        return e.strip()
     if tipo == 'Cedear':
         return re.sub(r'^Cedear\s+', '', e, flags=re.I).strip()
     if tipo == 'Acción':
