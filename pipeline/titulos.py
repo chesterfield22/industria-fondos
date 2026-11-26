@@ -255,7 +255,8 @@ def vincular_especies(esp, uni, manual, fecha_ref=None):
     out = {}
     # c) manual (prioridad)
     for e, t in manual.items():
-        out[e] = (t.upper() if t else None, 'manual')
+        t, nota = t if isinstance(t, tuple) else (t, '')
+        out[e] = (t.upper() if t else None, 'manual' + (f': {nota}' if nota else ''))
     # a) ticker en el nombre
     for e in esp.especie.unique():
         if e in out:
@@ -457,7 +458,7 @@ def construir_titulos(out_dir, prev_dir, base_dir, repo_dir='.', fresca_dias=14)
     mp = os.path.join(repo_dir, 'ref', 'especie_ticker_manual.csv')
     if os.path.exists(mp):
         m = pd.read_csv(mp, dtype=str).fillna('')
-        manual = dict(zip(m.especie, m.ticker))
+        manual = {r.especie: (r.ticker, r.get('nota', '') or '') for _, r in m.iterrows() if r.especie}
     vin = (vincular_especies(e.drop_duplicates('especie'), uni, manual, fecha_ref=e.fecha_cartera.min().date())
            if len(uni) or manual else {})
     e['ticker'] = e.especie.map(lambda x: (vin.get(x) or (None, None))[0]).astype(object)
