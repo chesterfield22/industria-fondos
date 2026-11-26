@@ -68,6 +68,9 @@ jobs:
       - name: Carteras (descarga hasta 25 min; si queda cola, sigue en otra corrida)
         id: car
         if: steps.chk.outputs.run == 'si'
+        env:
+          IOL_USER: ${{ secrets.IOL_USER }}     # API de IOL (precios para estimar VN); si faltan, Títulos sale sin VN
+          IOL_PASS: ${{ secrets.IOL_PASS }}
         run: python pipeline/carteras.py prev salida data/base $FORZAR $REPUB
 
       - name: Publicar en rama carteras (un solo commit; el histórico viaja completo)

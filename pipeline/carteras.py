@@ -775,6 +775,13 @@ def main(prev_dir, out_dir, base_dir=None, forzar=False, republicar=False):
         pd.DataFrame({'ficha_id': ultf.index, 'fondo_id': None, 'subtipo': None, 'gerente_corto': None, 'aum_planilla': np.nan})
     resumen, _ = construir(hist, vin, hoy, out_dir, n_listado)
     estado_n.update(resumen)
+    try:                                  # hoja Títulos: si falla, las carteras se publican igual
+        import titulos
+        estado_n['titulos'] = titulos.construir_titulos(out_dir, prev_dir, base_dir,
+                                                        repo_dir=os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    except Exception as ex:
+        log('  títulos: error', type(ex).__name__, ex)
+        estado_n['titulos'] = f'error: {type(ex).__name__}'
     json.dump(estado_n, open(os.path.join(out_dir, 'estado.json'), 'w'), ensure_ascii=False, indent=1)
     pd.DataFrame([dict(clave=k, valor=v if not isinstance(v, list) else len(v)) for k, v in estado_n.items()
                   if not isinstance(v, dict)]) \
