@@ -708,9 +708,10 @@ def main(prev_dir, out_dir, base_dir=None, forzar=False):
     resumen, _ = construir(hist, vin, hoy, out_dir, n_listado)
     estado_n.update(resumen)
     json.dump(estado_n, open(os.path.join(out_dir, 'estado.json'), 'w'), ensure_ascii=False, indent=1)
-    pd.DataFrame([dict(clave=k, valor=v if not isinstance(v, list) else len(v)) for k, v in estado_n.items()]) \
+    pd.DataFrame([dict(clave=k, valor=v if not isinstance(v, list) else len(v)) for k, v in estado_n.items()
+                  if not isinstance(v, dict)]) \
         .to_csv(os.path.join(out_dir, 'meta.csv'), index=False)
-    log('estado:', {k: (v if not isinstance(v, list) else len(v)) for k, v in estado_n.items()})
+    log('estado:', {k: (len(v) if isinstance(v, (list, dict)) else v) for k, v in estado_n.items()})
     log(f'total {time.time() - t0:.0f}s')
     return len(cola)
 
