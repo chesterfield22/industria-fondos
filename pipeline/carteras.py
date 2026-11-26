@@ -11,8 +11,8 @@ Capas (no se pisan los datos crudos):
   indice.csv, f/<id>.csv        PARA EL SHEET: índice de fondos y un CSV por fondo con ficha, métricas y tenencias.
   estado.json                   control de corridas (fecha centinela, fondos pendientes).
 
-Eficiencia: cada corrida consulta primero solo la ficha centinela (IOL Cash Management). Si su "Cartera al" no cambió
-y no hay fondos pendientes, termina sin descargar ni publicar (escribe SIN_CAMBIOS en la salida).
+Eficiencia: cada corrida consulta primero solo ~27 fichas testigo (los 3 fondos de IOL y el mayor fondo de cada subtipo).
+Si ninguna muestra una cartera más nueva que la publicada y no hay nada pendiente, termina sin descargar ni publicar.
 """
 import concurrent.futures as cf
 import csv
@@ -35,7 +35,7 @@ import pandas as pd
 BASE = 'https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion'
 UA = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
       'Accept-Language': 'es-AR,es;q=0.9'}
-CENTINELA = '84033'          # IOL Cash Management
+CENTINELAS_IOL = ['84033', '86585', '87448']   # IOL Cash Management, IOL Dólar Ahorro Plus, IOL Portafolio Potenciado
 HILOS = 4                    # consultas simultáneas a la CNV (moderado a propósito)
 FRESCA_DIAS = 14             # una cartera más vieja que (fecha más reciente del sistema - 14 días) se marca desactualizada
 PENDIENTE_DIAS = 21          # fondos atrasados hasta 21 días se reintentan (después de una corrida completa)
@@ -598,19 +598,57 @@ def construir(hist, vin, hoy, outdir, listado_n):
 
 
 # ------------------------------------------------------------------------------------------------------------ main
+def centinelas(prev_dir):
+    """Fichas testigo: los 3 fondos de IOL + el fondo más grande (al día) de cada subtipo. Devuelve {ficha_id: (fondo,
+    subtipo, cartera_al publicada)}."""
+    out = {f: ('IOL', 'IOL', None) for f in CENTINELAS_IOL}
+    try:
+        ind = pd.read_csv(os.path.join(prev_dir, 'indice.csv'), dtype={'ficha_id': str, 'fondo_id': str})
+        ind['cartera_al'] = pd.to_datetime(ind.cartera_al).dt.date
+        usd = ind.moneda.map(norm).str.contains('dolar', na=False)
+        ind['tam'] = ind.pn.fillna(0) * np.where(usd, 1500, 1)
+        ok = ind[(ind.estado == 'ok') & ind.subtipo.notna() & ~ind.subtipo.isin(['Sin clasificar', 'Fuera de universo'])]
+        for _, r in ok.sort_values('tam', ascending=False).drop_duplicates('subtipo').iterrows():
+            out[r.ficha_id] = (r.fondo, r.subtipo, r.cartera_al)
+        pub = ind.set_index('ficha_id').cartera_al
+        for f in CENTINELAS_IOL:
+            if f in pub.index:
+                out[f] = ('IOL', 'IOL', pub[f])
+    except Exception as e:
+        log('  centinelas solo IOL (sin índice publicado):', type(e).__name__)
+    return out
+
+
 def decidir(prev_dir, forzar=False):
-    """Consulta solo la ficha centinela. Devuelve (modo, fecha_centinela, estado_publicado).
-    Modos: 'barrido' (empieza a bajar todas las fichas activas), 'continuar' (sigue un barrido a medias),
+    """Consulta solo las fichas testigo (IOL + el mayor fondo de cada subtipo). Si alguna muestra una cartera más nueva
+    que la publicada, empieza un barrido. Devuelve (modo, fecha_mas_nueva, estado_publicado).
+    Modos: 'barrido' (baja todas las fichas activas), 'continuar' (sigue un barrido a medias),
     'pendientes' (reintenta fondos atrasados), None (nada que hacer)."""
     estado = {}
     if prev_dir and os.path.exists(os.path.join(prev_dir, 'estado.json')):
         estado = json.load(open(os.path.join(prev_dir, 'estado.json')))
-    _, cen = bajar_ficha(CENTINELA)
-    fcen = str(cen[1][0]['cartera_al']) if cen[0] == 'ok' else None
-    log(f'centinela {CENTINELA}: {cen[0]} cartera al {fcen} | publicada: {estado.get("centinela")} | '
-        f'cola: {len(estado.get("cola", []))} | pendientes: {len(estado.get("pendientes", []))} '
-        f'(reintentos {estado.get("reintentos", 0)})')
-    if forzar or not estado.get('centinela') or (fcen and fcen > estado['centinela']):
+    ctrl = os.path.join(prev_dir or '.', '_control.json')
+    if os.path.exists(ctrl) and not forzar:           # decisión ya tomada en el paso de control del mismo job
+        c = json.load(open(ctrl))
+        return c['modo'], c['fcen'], estado
+    cen = centinelas(prev_dir)
+    res, _ = bajar(list(cen))
+    nuevas, fechas = [], []
+    for f, (st, p) in res.items():
+        if st != 'ok':
+            continue
+        fa = p[0]['cartera_al']
+        fechas.append(fa)
+        pub = cen[f][2]
+        if pub is None or fa > pub:
+            nuevas.append(f"{p[0].get('fondo')} ({cen[f][1]}): {pub} -> {fa}")
+    fcen = str(max(fechas)) if fechas else None
+    log(f'testigos: {len(res)} fichas ({sum(1 for r in res.values() if r[0] == "ok")} ok) | más nueva {fcen} | '
+        f'con cartera nueva: {len(nuevas)} | cola: {len(estado.get("cola", []))} | pendientes: '
+        f'{len(estado.get("pendientes", []))} (reintentos {estado.get("reintentos", 0)})')
+    for n in nuevas[:30]:
+        log('   ', n)
+    if forzar or not estado.get('centinela') or nuevas:
         modo = 'barrido'
     elif estado.get('cola'):
         modo = 'continuar'
@@ -618,6 +656,10 @@ def decidir(prev_dir, forzar=False):
         modo = 'pendientes'
     else:
         modo = None
+    try:
+        json.dump(dict(modo=modo, fcen=fcen, nuevas=nuevas), open(ctrl, 'w'))
+    except OSError:
+        pass
     return modo, fcen, estado
 
 
