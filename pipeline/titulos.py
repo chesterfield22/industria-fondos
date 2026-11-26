@@ -83,7 +83,7 @@ class IOLApi:
                 if e.code == 401:
                     self.tok = None
                     continue
-                if e.code in (404, 400):
+                if e.code in (404, 400) or (e.code == 500 and k >= 1):
                     return None
                 time.sleep((2, 5, 15, 30)[k])
             except Exception:
@@ -91,26 +91,24 @@ class IOLApi:
         return None
 
     def universo(self):
-        """Tickers de renta fija de BYMA con su descripción: títulos públicos, letras y ON (todas las listas)."""
+        """Tickers de renta fija de BYMA con su descripción: títulos públicos, letras y ON (listado completo)."""
         filas = []
-        insts = self.get('/api/v2/argentina/Titulos/Cotizacion/Instrumentos') or []
-        nombres = [i.get('instrumento') for i in insts if isinstance(i, dict)]
-        log('  IOL instrumentos:', nombres)
-        objetivo = [n for n in nombres if re.search(r'bono|titulo|public|letra|obligac|negociab|cupon|lelink', norm(n))]
-        if not objetivo:
-            objetivo = ['titulosPublicos', 'letras', 'obligacionesNegociables']
-        for inst in objetivo:
-            inst_url = re.sub(r'\s+', '', inst[:1].lower() + inst[1:]) if ' ' in inst else inst
-            panels = self.get(f'/api/v2/argentina/Titulos/Cotizacion/Paneles/{urllib.parse.quote(inst_url)}') or []
-            pn = [p.get('panel') for p in panels if isinstance(p, dict) and p.get('panel')] or ['todos']
-            for p in pn:
-                j = self.get(f'/api/v2/Cotizaciones/{urllib.parse.quote(inst_url)}/{urllib.parse.quote(p)}/argentina')
-                tit = (j or {}).get('titulos', []) if isinstance(j, dict) else []
-                for t in tit:
+        for inst in ('titulosPublicos', 'letras', 'obligacionesNegociables'):
+            j = self.get(f'/api/v2/cotizaciones-orleans/{inst}/argentina/Todos')
+            tit = (j or {}).get('titulos', []) if isinstance(j, dict) else []
+            for t in tit:
+                if t.get('simbolo'):
+                    filas.append(dict(simbolo=str(t['simbolo']).upper(), descripcion=t.get('descripcion') or '',
+                                      moneda=t.get('moneda', ''), instrumento=inst, panel='Todos'))
+            log(f'  IOL {inst}: {len(tit)} tickers')
+        if len(filas) < 200:     # respaldo: paneles del instrumento Bonos (listan sólo lo más operado)
+            for p in [x.get('panel') for x in (self.get('/api/v2/argentina/Titulos/Cotizacion/Paneles/Bonos') or [])
+                      if isinstance(x, dict) and x.get('panel')]:
+                j = self.get(f'/api/v2/Cotizaciones/Bonos/{urllib.parse.quote(p)}/argentina')
+                for t in ((j or {}).get('titulos', []) if isinstance(j, dict) else []):
                     if t.get('simbolo'):
-                        filas.append(dict(simbolo=t['simbolo'].upper(), descripcion=t.get('descripcion', ''),
-                                          moneda=t.get('moneda', ''), instrumento=inst, panel=p))
-            log(f'  IOL {inst}: {sum(1 for f in filas if f["instrumento"] == inst)} tickers')
+                        filas.append(dict(simbolo=str(t['simbolo']).upper(), descripcion=t.get('descripcion') or '',
+                                          moneda=t.get('moneda', ''), instrumento='Bonos', panel=p))
         return pd.DataFrame(filas).drop_duplicates('simbolo') if filas else pd.DataFrame(
             columns=['simbolo', 'descripcion', 'moneda', 'instrumento', 'panel'])
 
@@ -126,7 +124,7 @@ class IOLApi:
                 continue
             rows.append(dict(simbolo=simbolo, fecha=f, precio=float(p),
                              operaciones=x.get('cantidadOperaciones'), volumen=x.get('volumenNominal'),
-                             monto=x.get('montoOperado')))
+                             monto=x.get('montoOperado'), fuente='IOL'))
         d = pd.DataFrame(rows)
         if len(d):
             d['fecha'] = pd.to_datetime(d.fecha)
@@ -258,6 +256,39 @@ def vincular_especies(esp, uni, manual):
 
 
 # ------------------------------------------------------------------------------------------------------------ precios
+BYMA_HIST = 'https://open.bymadata.com.ar/vanoms-be-core/rest/api/bymadata/free/chart/historical-series/history'
+
+
+def serie_byma(simbolo, d0, d1):
+    """Respaldo de precios: serie diaria de BYMA (plazo 24HS = T+1). Cierre y volumen nominal por rueda.
+    Se usa cuando la API de IOL no da la serie (p. ej. error 500 fijo en CER/TAMAR/capitalizables)."""
+    t0 = int(dt.datetime.combine(d0, dt.time(3)).replace(tzinfo=dt.timezone.utc).timestamp())
+    t1 = int(dt.datetime.combine(d1, dt.time(3)).replace(tzinfo=dt.timezone.utc).timestamp()) + 86400
+    q = urllib.parse.urlencode({'symbol': f'{simbolo} 24HS', 'resolution': 'D', 'from': t0, 'to': t1})
+    for k in range(3):
+        try:
+            req = urllib.request.Request(f'{BYMA_HIST}?{q}', headers={**UA, 'User-Agent': 'Mozilla/5.0'})
+            with urllib.request.urlopen(req, timeout=30) as r:
+                j = json.loads(r.read())
+            break
+        except Exception:
+            time.sleep((2, 5, 10)[k])
+    else:
+        return pd.DataFrame()
+    time.sleep(0.3)
+    if not isinstance(j, dict) or j.get('s') != 'ok' or not j.get('t'):
+        return pd.DataFrame()
+    ts, cs, vs = j['t'], j.get('c') or [], j.get('v') or []
+    rows = [dict(simbolo=simbolo, fecha=dt.datetime.fromtimestamp(t - 3 * 3600, dt.timezone.utc).date().isoformat(),
+                 precio=float(c), operaciones=None, volumen=(float(v) if v is not None else None), monto=None,
+                 fuente='BYMA') for t, c, v in zip(ts, cs, vs + [None] * (len(ts) - len(vs))) if c is not None]
+    d = pd.DataFrame(rows)
+    if len(d):
+        d['fecha'] = pd.to_datetime(d.fecha)
+        d = d.sort_values('fecha').groupby('fecha', as_index=False).last()
+    return d
+
+
 def precio_confiable(serie, fecha):
     """Precio del día de la cartera sólo si hubo operaciones ese día y no salta > 15% vs. la mediana previa."""
     if serie is None or serie.empty:
@@ -272,7 +303,8 @@ def precio_confiable(serie, fecha):
     prev = serie[(serie.fecha < fecha)].tail(5).precio
     if len(prev) >= 2 and prev.median() > 0 and abs(r.precio / prev.median() - 1) > SALTO_MAX:
         return None, f'salto de {r.precio / prev.median() - 1:+.0%} vs. ruedas previas'
-    return float(r.precio), 'precio del día con operaciones'
+    fu = r.get('fuente') if 'fuente' in r.index else None
+    return float(r.precio), 'precio del día con operaciones' + (f' ({fu})' if isinstance(fu, str) and fu else '')
 
 
 def byma_ficha(ticker):
@@ -376,20 +408,26 @@ def construir_titulos(out_dir, prev_dir, base_dir, repo_dir='.', fresca_dias=14)
     e.loc[~e.tipo.isin(DEUDA), 'tk_precio'] = None          # el VN sólo tiene sentido para títulos de deuda
     cp = os.path.join(pdir, 'cache_precios.parquet')
     cache = pd.read_parquet(cp) if os.path.exists(cp) else pd.DataFrame(columns=['simbolo', 'fecha', 'precio',
-                                                                                   'operaciones', 'volumen', 'monto'])
+                                                                                   'operaciones', 'volumen', 'monto', 'fuente'])
     pedir = e[e.tk_precio.notna()].groupby('tk_precio').fecha_cartera.agg(['min', 'max'])
-    nuevos = []
+    nuevos, n_byma = [], 0
     if api:
         for sym, r in pedir.iterrows():
             ya = cache[(cache.simbolo == sym)]
             if len(ya) and r['max'] in set(ya.fecha) and r['min'] in set(ya.fecha):
                 continue
-            s = api.serie(sym, (r['min'] - pd.Timedelta(days=12)).date(), (r['max'] + pd.Timedelta(days=1)).date())
+            d0, d1 = (r['min'] - pd.Timedelta(days=12)).date(), (r['max'] + pd.Timedelta(days=1)).date()
+            s = api.serie(sym, d0, d1)
+            if not len(s) or r['max'] not in set(s.fecha):
+                sb = serie_byma(sym, d0, d1)
+                if len(sb):
+                    s = sb if not len(s) else pd.concat([s, sb[~sb.fecha.isin(set(s.fecha))]], ignore_index=True)
+                    n_byma += 1
             if len(s):
                 nuevos.append(s)
             else:   # se registra la ausencia para no volver a pedirla
                 nuevos.append(pd.DataFrame([dict(simbolo=sym, fecha=r['max'], precio=np.nan)]))
-        log(f'  precios IOL: {len(pedir)} tickers, {len(nuevos)} consultados ({api.n} llamadas)')
+        log(f'  precios: {len(pedir)} tickers, {len(nuevos)} con serie ({api.n} llamadas IOL, {n_byma} completados con BYMA)')
     if nuevos:
         cache = pd.concat([cache] + nuevos, ignore_index=True)
         cache['fecha'] = pd.to_datetime(cache.fecha)
