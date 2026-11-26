@@ -178,22 +178,43 @@ def parse_on_cnv(esp):
     return s[: max(m.start() - 1, 0)], clase_num(m.group(1))
 
 
+def resto_cnv(esp):
+    s = ' ' + re.sub(r'^ON\s+', '', esp or '')
+    m = RX_CL_CNV.search(s)
+    return s[m.end():] if m else ''
+
+
 RX_SOC = re.compile(r'\b(S\.?\s?A\.?(\s?U\.?)?|S\.?\s?R\.?\s?L\.?|S\.?\s?L\.?)(?=\s|$)', re.I)
 
 
 def parse_on_iol(desc):
     s = re.sub(r'^O\.?N\.?\s+', '', desc or '', flags=re.I)
     s = RX_SOC.sub(' ', s)
-    m = re.search(r'\b(?:Cl|Clase|Cla)\.?\s?([0-9]+|[IVXLCivxlc]{1,6}|[A-Za-z])\b', s) or RX_CL_IOL.search(s)
+    m = re.search(r'\b(?:Cl|Clase|Cla)\.?\s?([0-9]+|[IVXLCivxlc]{1,6}|[A-Za-z])\b', s, re.I) or RX_CL_IOL.search(s)
     if not m:
         return None, None
     return s[: m.start()], clase_num(m.group(1))
 
 
+def resto_iol(desc):
+    s = RX_SOC.sub(' ', re.sub(r'^O\.?N\.?\s+', '', desc or '', flags=re.I))
+    m = re.search(r'\b(?:Cl|Clase|Cla)\.?\s?([0-9]+|[IVXLCivxlc]{1,6}|[A-Za-z])\b', s, re.I) or RX_CL_IOL.search(s)
+    return s[m.end():] if m else ''
+
+
+RX_SERIE = re.compile(r'\bS(?:erie|er)?\.?\s?([0-9]{1,2}|[IVX]{1,4})\b', re.I)
+
+
+def serie_num(resto):
+    """Número de serie dentro de una clase ("C67 S1", "Cl.67 S.1"): se busca sólo después de la clase."""
+    m = RX_SERIE.match((resto or '').strip())
+    return clase_num(m.group(1)) if m else None
+
+
 def base_ars(simbolos, sym):
     """De una familia O/D/C elige el ticker en pesos."""
     if sym.endswith(('D', 'C')) and len(sym) >= 4:
-        for c in (sym[:-1] + 'O', sym[:-1]):
+        for c in (sym[:-1] + 'O', sym[:-1] + 'P', sym[:-1]):
             if c in simbolos:
                 return c
     return sym
@@ -206,7 +227,23 @@ def ticker_usd(simbolos, sym):
     return None
 
 
-def vincular_especies(esp, uni, manual):
+RX_VTO = re.compile(r'(\d{1,2})/(\d{1,2})/(\d{4}|\d{2})\b')
+
+
+def vto_desc(desc):
+    """Vencimiento escrito en la descripción de IOL (\"Vto. 28/7/2025\", \"V17/01/28\")."""
+    m = RX_VTO.search(desc or '')
+    if not m:
+        return None
+    d, mth, y = int(m.group(1)), int(m.group(2)), int(m.group(3))
+    y = y + 2000 if y < 100 else y
+    try:
+        return dt.date(y, mth, d)
+    except ValueError:
+        return None
+
+
+def vincular_especies(esp, uni, manual, fecha_ref=None):
     """esp: DataFrame con especie, tipo, emisor. Devuelve especie -> (ticker, metodo)."""
     simb = set(uni.simbolo)
     out = {}
@@ -222,9 +259,18 @@ def vincular_especies(esp, uni, manual):
                 out[e] = (base_ars(simb, t), 'ticker en el nombre')
                 break
     # b) ON por emisor + clase
-    on = uni[uni.descripcion.str.match(r'^\s*O\.?N\.?\s', case=False, na=False)].copy()
+    es_on = uni.descripcion.str.match(r'^\s*O\.?\s?N\.?\s', case=False, na=False)
+    if 'instrumento' in uni:
+        es_on |= uni.instrumento.astype(str).str.contains('obligacion', case=False, na=False)
+    on = uni[es_on].copy()
     on[['emi', 'cl']] = on.descripcion.apply(lambda d: pd.Series(parse_on_iol(d)))
     on = on[on.cl.notna()]
+    on = on[on.simbolo.str.fullmatch(r'[A-Z0-9]{3,6}', na=False)]
+    on['ser'] = on.descripcion.map(lambda d: serie_num(resto_iol(d)))
+    if fecha_ref is not None:    # una clase vencida antes de la cartera no puede estar en ella (YPF C39 2025 vs 2030)
+        v_ = on.descripcion.map(vto_desc)
+        on = on[[x is None or x >= fecha_ref for x in v_]]
+    on['dnorm'] = on.descripcion.map(norm)
     on['tk'] = on.emi.map(toks)
     on['base'] = on.simbolo.map(lambda s: base_ars(simb, s))
     for e in esp[esp.tipo.isin(['ON', 'VCP'])].especie.unique():
@@ -233,21 +279,31 @@ def vincular_especies(esp, uni, manual):
         emi, cl = parse_on_cnv(e)
         if not cl:
             continue
+        ser = serie_num(resto_cnv(e))
         te = toks(emi)
         if not te:
             continue
         c = on[on.cl == cl]
-        sc = {}
+        sc, desc_de = {}, {}
         for _, r in c.iterrows():
             inter = te & r.tk
             if not inter or not any(len(t) >= 3 for t in inter):
                 continue
             v = len(inter) / min(len(te), len(r.tk) or 1)
             if v >= 0.5:
-                sc[r.base] = max(sc.get(r.base, 0), v)
+                if ser and r.ser and ser != r.ser:   # misma clase, distinta serie
+                    continue
+                # desempates: misma serie informada; nombre de emisor más parecido (Jaccard: "YPF" ≠ "YPF Luz")
+                k = (round(v, 6), int(bool(ser and r.ser == ser)), round(len(inter) / len(te | r.tk), 6))
+                sc[r.base] = max(sc.get(r.base, (0, 0, 0)), k)
+                desc_de[r.base] = r.dnorm
         if not sc:
             continue
-        orden = sorted(sc.items(), key=lambda x: -x[1])
+        orden = sorted(sc.items(), key=lambda x: x[1], reverse=True)
+        top = [k_ for k_, v_ in orden if v_ == orden[0][1]]
+        if len(top) > 1 and len({desc_de[k_] for k_ in top}) == 1:   # mismo título en otra moneda de liquidación
+            top = sorted(top, key=lambda t: (not t.endswith(('O', 'P')), t.endswith('C'), t))[:1]
+            orden = [(top[0], orden[0][1])]
         if len(orden) == 1 or orden[0][1] > orden[1][1]:
             out[e] = (orden[0][0], 'emisor + clase')
         else:
@@ -396,7 +452,8 @@ def construir_titulos(out_dir, prev_dir, base_dir, repo_dir='.', fresca_dias=14)
     if os.path.exists(mp):
         m = pd.read_csv(mp, dtype=str).fillna('')
         manual = dict(zip(m.especie, m.ticker))
-    vin = vincular_especies(e.drop_duplicates('especie'), uni, manual) if len(uni) or manual else {}
+    vin = (vincular_especies(e.drop_duplicates('especie'), uni, manual, fecha_ref=e.fecha_cartera.min().date())
+           if len(uni) or manual else {})
     e['ticker'] = e.especie.map(lambda x: (vin.get(x) or (None, None))[0]).astype(object)
     e.loc[~e.ticker.map(es_tk), 'ticker'] = None
     e['vinculo'] = e.especie.map(lambda x: (vin.get(x) or (None, 'sin vínculo'))[1])
