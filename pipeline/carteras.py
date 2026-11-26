@@ -603,9 +603,9 @@ def decidir(prev_dir, forzar=False):
     return modo, fcen, estado
 
 
-def prioridad(listado, prev_dir, base_dir):
+def prioridad(ids, nombres, prev_dir, base_dir):
     """Orden del barrido: primero los fondos más grandes (lo importante se actualiza antes). Tamaño en ARS aprox.:
-    patrimonio de la publicación anterior o, si no hay, AUM de la clase de referencia en la planilla diaria."""
+    AUM del fondo en la planilla diaria (último dato, clases USD al A3500) o, si no se vincula, patrimonio publicado."""
     tam = {}
     try:
         ind = pd.read_csv(os.path.join(prev_dir, 'indice.csv'), dtype={'ficha_id': str})
@@ -615,14 +615,22 @@ def prioridad(listado, prev_dir, base_dir):
         pass
     try:
         m = pd.read_parquet(os.path.join(base_dir, 'maestro.parquet'))
+        f = sorted(glob.glob(os.path.join(base_dir, 'clases_diario_*.parquet')))[-1]
+        cd = pd.read_parquet(f, columns=['fecha', 'clase_id', 'aum'])
+        cd = cd[cd.aum.notna() & (cd.fecha >= cd.fecha.max() - pd.Timedelta(days=10))].sort_values('fecha').groupby('clase_id').tail(1)
+        cm = m.drop_duplicates('clase_id').set_index('clase_id')
+        fx = pd.read_csv(os.path.join(base_dir, 'fx.csv')).a3500.dropna().iloc[-1]
+        cd['ars'] = np.where(cd.clase_id.map(cm.moneda) == 'USD', cd.aum * fx, cd.aum)
+        por_fondo = cd.groupby(cd.clase_id.map(cm.fondo_id)).ars.sum()
         m['k'] = m.fondo.map(nfondo)
-        a = m.groupby('k').aum_ref.max()
-        for fid, nom in listado:
-            if fid not in tam:
-                tam[fid] = float(a.get(nfondo(nom), 0) or 0)
-    except Exception:
-        pass
-    return sorted((f for f, _ in listado), key=lambda f: -(tam.get(f) or 0))
+        k2f = m.drop_duplicates('k').set_index('k').fondo_id
+        for fid in ids:
+            v = por_fondo.get(k2f.get(nfondo(nombres.get(fid, ''))), 0)
+            if v and v > (tam.get(fid) or 0):
+                tam[fid] = float(v)
+    except Exception as e:
+        log('  prioridad sin planilla:', type(e).__name__, e)
+    return sorted(ids, key=lambda f: -(tam.get(f) or 0))
 
 
 def main(prev_dir, out_dir, base_dir=None, forzar=False):
@@ -643,6 +651,7 @@ def main(prev_dir, out_dir, base_dir=None, forzar=False):
 
     relevado = pd.Timestamp.utcnow().tz_localize(None) - pd.Timedelta(hours=3)
     inactivos = set(estado.get('inactivos', []))
+    nombres = estado.get('nombres', {})
     rev_inact = estado.get('inactivos_revisados')
     n_listado = estado.get('fichas_listado', 0)
     if modo == 'barrido':
@@ -651,11 +660,13 @@ def main(prev_dir, out_dir, base_dir=None, forzar=False):
         revisar = not rev_inact or (hoy - dt.date.fromisoformat(rev_inact)).days >= REVISAR_INACTIVOS_DIAS
         if revisar:
             rev_inact = str(hoy)
-        cola = [f for f in prioridad(listado, prev_dir, base_dir) if revisar or f not in inactivos]
+        nombres = dict(listado)
+        cola = [f for f in prioridad([f for f, _ in listado], nombres, prev_dir, base_dir) if revisar or f not in inactivos]
         log(f'barrido nuevo: {len(cola)} fichas ({len(inactivos)} inactivas '
             f'{"incluidas (revisión mensual)" if revisar else "salteadas"})')
     elif modo == 'continuar':
-        cola = list(estado['cola'])
+        nombres = estado.get('nombres') or dict(listar_fondos())
+        cola = prioridad(list(estado['cola']), nombres, prev_dir, base_dir)
     else:
         cola = list(estado['pendientes'])
     log(f'modo {modo}: {len(cola)} fichas en cola; presupuesto {PRESUPUESTO_MIN} min')
@@ -691,7 +702,7 @@ def main(prev_dir, out_dir, base_dir=None, forzar=False):
     estado_n = dict(centinela=cen or estado.get('centinela'), ultima_corrida=str(relevado)[:16], modo=modo, cola=cola,
                     pendientes=pend, reintentos=reint, inactivos=sorted(inactivos), inactivos_revisados=rev_inact,
                     errores=len(err), fichas_bajadas=n, fichas_ok=sum(1 for r in res.values() if r[0] == 'ok'),
-                    fichas_listado=n_listado)
+                    fichas_listado=n_listado, nombres=nombres)
     vin = vincular(hist[hist.fecha_cartera == hist.groupby('ficha_id').fecha_cartera.transform('max')], base_dir) if base_dir else \
         pd.DataFrame({'ficha_id': ultf.index, 'fondo_id': None, 'subtipo': None, 'gerente_corto': None, 'aum_planilla': np.nan})
     resumen, _ = construir(hist, vin, hoy, out_dir, n_listado)
