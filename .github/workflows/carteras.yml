@@ -78,6 +78,7 @@ jobs:
         run: |
           if [ -f salida/SIN_CAMBIOS ]; then echo "Sin cambios"; exit 0; fi
           cp docs/carteras.md salida/README.md 2>/dev/null || true
+          date -u +%Y%m%d%H%M > salida/version.txt
           cd salida
           git init -q -b carteras
           git config user.name "industria-fondos-bot"
