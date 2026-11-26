@@ -220,10 +220,16 @@ def base_ars(simbolos, sym):
     return sym
 
 
-def ticker_usd(simbolos, sym):
+def ticker_usd(simbolos, sym, por_desc=None, desc_de=None):
+    """Ticker en dólares MEP (D) del mismo título. Si no sigue la regla de sufijo (BOPREAL: BPOD7 → BPD7D),
+    se busca el ticker terminado en D con la misma descripción en el universo de IOL."""
     for c in ([sym[:-1] + 'D'] if sym.endswith('O') else []) + [sym + 'D']:
         if c in simbolos:
             return c
+    if por_desc and desc_de and desc_de.get(sym):
+        cand = sorted(t for t in por_desc.get(desc_de[sym], []) if t != sym and t.endswith('D'))
+        if len(cand) == 1:
+            return cand[0]
     return None
 
 
@@ -460,7 +466,11 @@ def construir_titulos(out_dir, prev_dir, base_dir, repo_dir='.', fresca_dias=14)
 
     # --- precios (caché por ticker y fecha; nunca se vuelve a pedir un día ya bajado)
     simb = set(uni.simbolo)
-    e['tk_precio'] = [None if not es_tk(t) or t not in simb else (ticker_usd(simb, t) if u_ else t)
+    desc_de = {k: norm(v) for k, v in zip(uni.simbolo, uni.descripcion.fillna('')) if norm(v)}
+    por_desc = {}
+    for k, v in desc_de.items():
+        por_desc.setdefault(v, []).append(k)
+    e['tk_precio'] = [None if not es_tk(t) or t not in simb else (ticker_usd(simb, t, por_desc, desc_de) if u_ else t)
                       for t, u_ in zip(e.ticker, e.fondo_usd)]
     e.loc[~e.tipo.isin(DEUDA), 'tk_precio'] = None          # el VN sólo tiene sentido para títulos de deuda
     cp = os.path.join(pdir, 'cache_precios.parquet')
