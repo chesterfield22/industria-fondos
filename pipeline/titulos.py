@@ -557,6 +557,21 @@ def construir_titulos(out_dir, prev_dir, base_dir, repo_dir='.', fresca_dias=14)
            'tk_precio', 'precio_estado', 'fecha_cartera', 'especie', 'ficha_id']].to_csv(
             os.path.join(tdir, 't', f'{k}.csv'), index=False, float_format='%.6f', date_format='%Y-%m-%d')
     ix = pd.DataFrame(idx).sort_values('monto_ars', ascending=False)
+    # por fondo: VN estimado y ticker de cada especie, para la columna "% del outstanding" de la hoja Carteras
+    fd = os.path.join(tdir, 'f')
+    os.makedirs(fd, exist_ok=True)
+    for f in os.listdir(fd):
+        os.remove(os.path.join(fd, f))
+    bn = ix.set_index('clave').byma_nominal
+    e['byma_nominal'] = e.clave.map(bn)
+    for fid, g in e.groupby('ficha_id'):
+        a = g.groupby('especie', sort=False).agg(
+            ticker=('ticker', 'first'), tipo=('tipo', 'first'),
+            vno=('vno', lambda x: x.sum() if x.notna().all() else np.nan),
+            precio_estado=('precio_estado', 'first'), fecha_cartera=('fecha_cartera', 'max'),
+            byma_nominal=('byma_nominal', 'first')).reset_index()
+        a['ticker'] = a.ticker.where(a.ticker.map(es_tk), '')
+        a.to_csv(os.path.join(fd, f'{fid}.csv'), index=False, float_format='%.6f', date_format='%Y-%m-%d')
     with open(os.path.join(tdir, 'indice.csv'), 'w', encoding='utf-8') as fh:
         fh.write(','.join(ix.columns) + '\n')
         for r in ix.itertuples(index=False):
