@@ -1,0 +1,100 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,IOL Cash Management,,,,,,,,
+m,gerente,Adcap Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Global,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,156308927414,,,,,,,,
+m,aum_planilla,156308927414,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/84033,,,,,,,,
+m,n_especies,45,,,,,,,,
+m,activos_pn,110.84,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,13.42,,,,,,,,
+m,top5,35.35,,,,,,,,
+m,top10,58.57,,,,,,,,
+m,hhi_especies,532.309,,,,,,,,
+m,n_emisores,25,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,17.61,,,,,,,,
+m,hhi_emisores,827.4969,,,,,,,,
+m,sin_emisor_pct,11.37,,,,,,,,
+t,ON,63.25,29,,,,,,,
+t,Soberano,17.61,2,,,,,,,
+t,Plazo fijo,14.86,4,,,,,,,
+t,Pagaré,11.37,5,,,,,,,
+t,Subsoberano,2.54,3,,,,,,,
+t,Fideicomiso financiero,1.23,2,,,,,,,
+c,ARS,109.63,,,,,,,,
+c,sin dato,1.23,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,94.76,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,14.85,,,,,,,,
+r,Certificados de Participacion Argentina,1.23,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),10.84,,,,,,,,
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,13.42,20976658059,,,Titulos de Deuda en Peso Argentina,82
+e,ON Banco Comafi C22,ON,Banco Comafi,ARS,5.7,8909608863,,,Titulos de Deuda en Peso Argentina,30
+e,ON Mercado Pago C3,ON,Mercado Pago,ARS,5.51,8612621900,,,Titulos de Deuda en Peso Argentina,21
+e,Pzo Fi $ Nvo Bco Indus,Plazo fijo,Nvo Bco Indus,ARS,5.51,8612621900,,,Operaciones a Plazo en Peso Argentina,44
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,5.21,8143695118,,,Titulos de Deuda en Peso Argentina,61
+e,Pagare #MAV261160084,Pagaré,,ARS,5.04,7877969942,,,Titulos de Deuda en Peso Argentina,1
+e,ON BBVA Frances Cl 46,ON,BBVA Frances,ARS,4.75,7424674052,,,Titulos de Deuda en Peso Argentina,35
+e,ON BBVA Frances Cl 47,ON,BBVA Frances,ARS,4.6,7190210661,,,Titulos de Deuda en Peso Argentina,45
+e,Pzo Fi $ Banco VOII,Plazo fijo,Banco VOII,ARS,4.53,7080794412,,,Operaciones a Plazo en Peso Argentina,13
+e,ON Arcor C3,ON,Arcor,ARS,4.3,6721283879,,,Titulos de Deuda en Peso Argentina,35
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,4.19,6549344059,,,Titulos de Deuda en Peso Argentina,86
+e,ON BACS Clase 19,ON,BACS,ARS,4.02,6283618882,,,Titulos de Deuda en Peso Argentina,19
+e,Pzo Fi $ Bco Patagonia,Plazo fijo,Banco Patagonia,ARS,3.86,6033524598,,,Operaciones a Plazo en Peso Argentina,42
+e,ON Banco Prov Clase 6,ON,Banco Provincia,ARS,3.18,4970623892,,,Titulos de Deuda en Peso Argentina,43
+e,ON Arcor C4,ON,Arcor,ARS,2.91,4548589788,,,Titulos de Deuda en Peso Argentina,28
+e,ON Bco Provincia Cl 4,ON,Banco Provincia,ARS,2.75,4298495504,,,Titulos de Deuda en Peso Argentina,25
+e,ON Mercado Pago C8,ON,Mercado Pago,ARS,2.72,4251602826,,,Titulos de Deuda en Peso Argentina,17
+e,Pagare #MAV121160076,Pagaré,,ARS,2.55,3985877649,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV171160118,Pagaré,,ARS,2.54,3970246756,,,Titulos de Deuda en Peso Argentina,1
+e,ON Banco Prov Clase 7,ON,Banco Provincia,ARS,2.23,3485689081,,,Titulos de Deuda en Peso Argentina,16
+e,ON Banco Hipotecario C13,ON,Banco Hipotecario,ARS,2.03,3173071226,,,Titulos de Deuda en Peso Argentina,13
+e,ON Grupo ST C15,ON,Grupo ST,ARS,1.72,2688513552,,,Titulos de Deuda en Peso Argentina,4
+e,ON BBVA Frances Cl 38,ON,BBVA Frances,ARS,1.5,2344633911,,,Titulos de Deuda en Peso Argentina,29
+e,Letra Muni Cordoba S53,Subsoberano,Muni. Cordoba,ARS,1.34,2094539627,,,Titulos de Deuda en Peso Argentina,17
+e,ON Santander Rio S 31,ON,Santander Rio,ARS,1.29,2016385164,,,Titulos de Deuda en Peso Argentina,40
+e,ON ICBC Clase 4 281126,ON,ICBC,ARS,1.12,1750659987,,,Titulos de Deuda en Peso Argentina,23
+e,FF Creditech S7 CA,Fideicomiso financiero,Creditech,,1.03,1609981952,,,Certificados de Participacion Argentina,10
+e,ON Bco Serv Transac C27,ON,Banco Serv Transac,ARS,1.01,1578720167,,,Titulos de Deuda en Peso Argentina,12
+e,ON Mercado Pago C5,ON,Mercado Pago,ARS,1,1563089274,,,Titulos de Deuda en Peso Argentina,15
+e,ON Tarj Naranja C66 S1,ON,Tarj Naranja,ARS,0.98,1531827489,,,Titulos de Deuda en Peso Argentina,17
+e,ON Grupo ST C16,ON,Grupo ST,ARS,0.98,1531827489,,,Titulos de Deuda en Peso Argentina,5
+e,Pzo Fi $ Bco Sol,Plazo fijo,Banco Sol,ARS,0.96,1500565703,,,Operaciones a Plazo en Peso Argentina,31
+e,ON Morixe C4,ON,Morixe,ARS,0.7,1094162492,,,Titulos de Deuda en Peso Argentina,10
+e,Bono Prov de Buenos Aires 42978,Subsoberano,Prov. Buenos Aires,ARS,0.67,1047269814,,,Titulos de Deuda en Peso Argentina,1
+e,ON BBVA Frances Cl 41,ON,BBVA Frances,ARS,0.67,1047269814,,,Titulos de Deuda en Peso Argentina,18
+e,ON ICBC Clase 5 110327,ON,ICBC,ARS,0.67,1047269814,,,Titulos de Deuda en Peso Argentina,36
+e,Pagare #MAV031260096,Pagaré,,ARS,0.63,984746243,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV050170055,Pagaré,,ARS,0.61,953484457,,,Titulos de Deuda en Peso Argentina,1
+e,ON Banco Hipotecario C11,ON,Banco Hipotecario,ARS,0.58,906591779,,,Titulos de Deuda en Peso Argentina,21
+e,Letra Prov Chubut S119 C1,Subsoberano,Prov. Chubut,ARS,0.53,828437315,,,Titulos de Deuda en Peso Argentina,8
+e,ON Grupo ST C18,ON,Grupo ST,ARS,0.49,765913744,,,Titulos de Deuda en Peso Argentina,14
+e,ON Mercado Pago C6,ON,Mercado Pago,ARS,0.35,547081246,,,Titulos de Deuda en Peso Argentina,19
+e,ON Mercado Pago C7,ON,Mercado Pago,ARS,0.2,312617855,,,Titulos de Deuda en Peso Argentina,17
+e,FF Centrocard Creditos S8,Fideicomiso financiero,Centrocard Creditos,,0.2,312617855,,,Certificados de Participacion Argentina,11
+e,ON Club Atletico River Plate S1,ON,Club Atletico River Plate,ARS,0.08,125047142,,,Titulos de Deuda en Peso Argentina,18
+p,Champaquí Ahorro Pesos,Bancor,T+1,31.4364,0.2976,17,,,,
+p,Pionero Renta Ahorro,Macro,T+1,30.7537,0.27,17,,,,
+p,Delta Ahorro,Delta,T+1,25.0747,0.2535,22,,,,
+p,Toronto Trust Balanceado,Investis,RF ARS Disc,24.8399,0.2353,14,,,,
+p,Adcap Balanceado XIII,Adcap,RF ARS Disc,20.5972,0.265,9,,,,
+p,GSS II,Grupo SS,RF ARS Disc,20.403,0.225,10,,,,
+p,Compass Opportunity,Investis,RF MULT Disc,19.8849,0.2119,10,,,,
+p,Premier Renta Plus en Pesos,Supervielle,RF MULT Corp,18.6702,0.1745,8,,,,

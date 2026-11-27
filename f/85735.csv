@@ -1,0 +1,69 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Argenfunds Inversión Pesos,,,,,,,,
+m,gerente,Argenfunds S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,36039885110,,,,,,,,
+m,aum_planilla,36039885110,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85735,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,97.5,,,,,,,,
+m,pasivos_cnv,2.5,,,,,,,,
+m,liquidez,0.22,,,,,,,,
+m,top1,21.67,,,,,,,,
+m,top5,63.22,,,,,,,,
+m,top10,85.39,,,,,,,,
+m,hhi_especies,1077.8437,,,,,,,,
+m,n_emisores,9,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,65.19,,,,,,,,
+m,hhi_emisores,4535.9077,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,65.19,8,,,,,,,
+t,ON,19.14,4,,,,,,,
+t,Subsoberano,7.33,3,,,,,,,
+t,Plazo fijo,5.61,1,,,,,,,
+t,Caución,0.22,1,,,,,,,
+c,ARS,97.49,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,91.67,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,5.83,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,2.5,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-2.5,,,,,,,,
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,21.67,7809843103,,,Titulos de Deuda en Peso Argentina,75
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,14.73,5308675077,,,Titulos de Deuda en Peso Argentina,158
+e,ON Banco Nacion Argentina Clase 3,ON,Banco Nacion Argentina,ARS,12.36,4454529800,,,Titulos de Deuda en Peso Argentina,33
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,8.75,3153489947,,,Titulos de Deuda en Peso Argentina,92
+e,Bono Boncer TX28,Soberano,Tesoro Nacional,ARS,5.71,2057877440,,,Titulos de Deuda en Peso Argentina,40
+e,Pzo Fi UVA $ Bco Sol,Plazo fijo,UVA $ Bco Sol,ARS,5.61,2021837555,,,Operaciones a Plazo en Peso Argentina,2
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,4.82,1737122462,,,Titulos de Deuda en Peso Argentina,159
+e,Letra Prov Bs As PBA28,Subsoberano,Prov. Buenos Aires,ARS,4.18,1506467198,,,Titulos de Deuda en Peso Argentina,28
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,4.07,1466823324,,,Titulos de Deuda en Peso Argentina,250
+e,ON Banco Prov Clase 6,ON,Banco Provincia,ARS,3.49,1257791990,,,Titulos de Deuda en Peso Argentina,43
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,3.4,1225356094,,,Titulos de Deuda en Peso Argentina,61
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,2.41,868561231,,,Titulos de Deuda en Peso Argentina,61
+e,Bono Muni Cordoba S2 13022027,Subsoberano,Muni. Cordoba,ARS,2.32,836125335,,,Titulos de Deuda en Peso Argentina,29
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,2.04,735213656,,,Titulos de Deuda en Peso Argentina,136
+e,ON Arcor C6,ON,Arcor,ARS,0.88,317150989,,,Titulos de Deuda en Peso Argentina,31
+e,Bonos de Infra.Vial Prov. de Santa Fe,Subsoberano,Prov. Santa Fe,ARS,0.83,299131046,,,Titulos de Deuda en Peso Argentina,21
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,0.22,79287747,,,Operaciones a Plazo en Peso Argentina,73
+p,Schroder Renta Plus,Schroder,T+1,35.6579,0.5695,3,,,,
+p,Argenfunds Renta Mixta,Argenfunds,RF ARS Lecap,33.9986,0.571,3,,,,
+p,ACA Valores Retorno Total,Schroder,RF MULT Disc,33.3856,0.4763,4,,,,
+p,Galileo Renta,Delta,RM y Otros ARS,32.1071,0.5229,3,,,,
+p,Ciclo Nova Ahorro Plus,Ciclo Nova,T+1,31.2032,0.5958,2,,,,
+p,Argenfunds Ahorro Pesos,Argenfunds,T+1,30.7572,0.5337,3,,,,
+p,GSS III,Grupo SS,RF ARS Disc,30.0743,0.3646,4,,,,
+p,Fima Retorno Total,Galicia,RF ARS Disc,29.8082,0.4256,5,,,,

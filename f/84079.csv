@@ -1,0 +1,215 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,SBS Patrimonio VI,,,,,,,,
+m,gerente,SBS Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,62345130901,,,,,,,,
+m,aum_planilla,62345130901,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/84079,,,,,,,,
+m,n_especies,162,,,,,,,,
+m,activos_pn,100.05,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.03,,,,,,,,
+m,top1,28.8,,,,,,,,
+m,top5,60.93,,,,,,,,
+m,top10,67.07,,,,,,,,
+m,hhi_especies,1463.1573,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,53.07,,,,,,,,
+m,hhi_emisores,2823.4506,,,,,,,,
+m,sin_emisor_pct,40.31,,,,,,,,
+t,Soberano,53.07,2,,,,,,,
+t,Pagaré,40.31,150,,,,,,,
+t,ON,5.4,8,,,,,,,
+t,FCI,0.92,1,,,,,,,
+t,Fideicomiso financiero,0.31,1,,,,,,,
+c,ARS,98.78,,,,,,,,
+c,sin dato,1.23,,,,,,,,
+r,Disponibilidades,0.03,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,98.79,,,,,,,,
+r,Certificados de Participacion Argentina,1.23,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.05,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,28.8,17955397699,,,Titulos de Deuda en Peso Argentina,103
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,24.27,15131163270,,,Titulos de Deuda en Peso Argentina,75
+e,Pagare $MAV241160003,Pagaré,,ARS,3.93,2450163644,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV300670012,Pagaré,,ARS,2.34,1458876063,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV300670011,Pagaré,,ARS,1.59,991287581,,,Titulos de Deuda en Peso Argentina,1
+e,ON Pyme Gar Rafaela Alimentos S1 C2,ON,Pyme Gar Rafaela Alimentos,ARS,1.25,779314136,,,Titulos de Deuda en Peso Argentina,6
+e,Pagare $UMV281260027,Pagaré,,ARS,1.23,766845110,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV300170012,Pagaré,,ARS,1.22,760610597,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV300170010,Pagaré,,ARS,1.22,760610597,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV300170011,Pagaré,,ARS,1.22,760610597,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV300670015,Pagaré,,ARS,1.17,729438032,,,Titulos de Deuda en Peso Argentina,1
+e,ON Aluar Serie 6,ON,Aluar,ARS,1.16,723203518,,,Titulos de Deuda en Peso Argentina,28
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,0.96,598513257,,,Titulos de Deuda en Peso Argentina,56
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,0.92,573575204,,,Certificados de Participacion Argentina,47
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,0.64,399008838,,,Titulos de Deuda en Peso Argentina,67
+e,ON Cresud S30 C46,ON,Cresud,ARS,0.61,380305298,,,Titulos de Deuda en Peso Argentina,7
+e,Pagare $UMV270170002,Pagaré,,ARS,0.6,374070785,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV270170001,Pagaré,,ARS,0.6,374070785,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV280470002,Pagaré,,ARS,0.59,367836272,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV280470003,Pagaré,,ARS,0.59,367836272,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV280770002,Pagaré,,ARS,0.57,355367246,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV280770001,Pagaré,,ARS,0.57,355367246,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UPO040670003,Pagaré,,ARS,0.48,299256628,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UPO310570017,Pagaré,,ARS,0.48,299256628,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV270170003,Pagaré,,ARS,0.48,299256628,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV180370001,Pagaré,,ARS,0.47,293022115,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV280470001,Pagaré,,ARS,0.47,293022115,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV280770003,Pagaré,,ARS,0.46,286787602,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV170670003,Pagaré,,ARS,0.46,286787602,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UPO090270004,Pagaré,,ARS,0.45,280553089,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV160970003,Pagaré,,ARS,0.45,280553089,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV161270001,Pagaré,,ARS,0.43,268084063,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV160380001,Pagaré,,ARS,0.42,261849550,,,Titulos de Deuda en Peso Argentina,1
+e,ON Vista Gas y Oil Arg C21,ON,Vista Gas y Oil Arg,ARS,0.42,261849550,,,Titulos de Deuda en Peso Argentina,27
+e,Pagare $UMV150680041,Pagaré,,ARS,0.41,255615037,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV130980002,Pagaré,,ARS,0.4,249380524,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UAG290170001,Pagaré,,ARS,0.39,243146011,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UAG300170001,Pagaré,,ARS,0.39,243146011,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV171260001,Pagaré,,ARS,0.37,230676984,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UAG280170002,Pagaré,,ARS,0.37,230676984,,,Titulos de Deuda en Peso Argentina,1
+e,FF Creditech S5 CA,Fideicomiso financiero,Creditech,,0.31,193269906,,,Certificados de Participacion Argentina,10
+e,Pagare $UMV250870001,Pagaré,,ARS,0.3,187035393,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV250870002,Pagaré,,ARS,0.27,168331853,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV060170001,Pagaré,,ARS,0.26,162097340,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV310370001,Pagaré,,ARS,0.26,162097340,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV010670001,Pagaré,,ARS,0.25,155862827,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV300670001,Pagaré,,ARS,0.25,155862827,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV011260001,Pagaré,,ARS,0.25,155862827,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV241160024,Pagaré,,ARS,0.25,155862827,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV230270003,Pagaré,,ARS,0.24,149628314,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV221260001,Pagaré,,ARS,0.24,149628314,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV270870001,Pagaré,,ARS,0.24,149628314,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV280380001,Pagaré,,ARS,0.24,149628314,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV290970001,Pagaré,,ARS,0.24,149628314,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV291270001,Pagaré,,ARS,0.24,149628314,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $URE060770001,Pagaré,,ARS,0.24,149628314,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV240370001,Pagaré,,ARS,0.24,149628314,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV020370001,Pagaré,,ARS,0.24,149628314,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV230670002,Pagaré,,ARS,0.23,143393801,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV260570002,Pagaré,,ARS,0.23,143393801,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV301170011,Pagaré,,ARS,0.23,143393801,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV310870011,Pagaré,,ARS,0.23,143393801,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV231170003,Pagaré,,ARS,0.22,137159288,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV240870001,Pagaré,,ARS,0.22,137159288,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV220970002,Pagaré,,ARS,0.22,137159288,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV221270002,Pagaré,,ARS,0.22,137159288,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV290280010,Pagaré,,ARS,0.22,137159288,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV300580003,Pagaré,,ARS,0.22,137159288,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV290880001,Pagaré,,ARS,0.21,130924775,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV281180005,Pagaré,,ARS,0.21,130924775,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $URE060770004,Pagaré,,ARS,0.21,130924775,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV250480003,Pagaré,,ARS,0.21,130924775,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $URE060770002,Pagaré,,ARS,0.21,130924775,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $URE060770003,Pagaré,,ARS,0.21,130924775,,,Titulos de Deuda en Peso Argentina,1
+e,ON Agrofina Clase 11,ON,Agrofina,ARS,0.21,130924775,,,Titulos de Deuda en Peso Argentina,9
+e,Pagare $UMV230280001,Pagaré,,ARS,0.21,130924775,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV220380002,Pagaré,,ARS,0.21,130924775,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV030580001,Pagaré,,ARS,0.2,124690262,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV290590001,Pagaré,,ARS,0.2,124690262,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV270290002,Pagaré,,ARS,0.2,124690262,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV100580002,Pagaré,,ARS,0.2,124690262,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV170580001,Pagaré,,ARS,0.2,124690262,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV280890006,Pagaré,,ARS,0.19,118455749,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $URE241160001,Pagaré,,ARS,0.19,118455749,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UPO310570013,Pagaré,,ARS,0.17,105986723,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UPO010770001,Pagaré,,ARS,0.17,105986723,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UPO010770002,Pagaré,,ARS,0.17,105986723,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV020370016,Pagaré,,ARS,0.16,99752209,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV011260067,Pagaré,,ARS,0.15,93517696,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UPO310370006,Pagaré,,ARS,0.15,93517696,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $URE181260001,Pagaré,,ARS,0.15,93517696,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $URE081260001,Pagaré,,ARS,0.15,93517696,,,Titulos de Deuda en Peso Argentina,1
+e,ON Capex C7,ON,Capex,ARS,0.15,93517696,,,Titulos de Deuda en Peso Argentina,21
+e,Pagare $URE281160001,Pagaré,,ARS,0.15,93517696,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV010670040,Pagaré,,ARS,0.15,93517696,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UPO180670005,Pagaré,,ARS,0.14,87283183,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV270170006,Pagaré,,ARS,0.13,81048670,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV280470004,Pagaré,,ARS,0.13,81048670,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV271070002,Pagaré,,ARS,0.12,74814157,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV280770005,Pagaré,,ARS,0.12,74814157,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV260180001,Pagaré,,ARS,0.12,74814157,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $URE160170001,Pagaré,,ARS,0.12,74814157,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV260780001,Pagaré,,ARS,0.11,68579644,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UPO300470006,Pagaré,,ARS,0.11,68579644,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV251080003,Pagaré,,ARS,0.11,68579644,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV260480001,Pagaré,,ARS,0.11,68579644,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UPO310370010,Pagaré,,ARS,0.11,68579644,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UPO310570021,Pagaré,,ARS,0.11,68579644,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV170370003,Pagaré,,ARS,0.1,62345131,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV161260003,Pagaré,,ARS,0.1,62345131,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV150970032,Pagaré,,ARS,0.09,56110618,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV160670003,Pagaré,,ARS,0.09,56110618,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV150380030,Pagaré,,ARS,0.09,56110618,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV151270029,Pagaré,,ARS,0.09,56110618,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV131280001,Pagaré,,ARS,0.08,49876105,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV101160039,Pagaré,,ARS,0.08,49876105,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV130980001,Pagaré,,ARS,0.08,49876105,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV140680001,Pagaré,,ARS,0.08,49876105,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV090580001,Pagaré,,ARS,0.07,43641592,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV091170003,Pagaré,,ARS,0.07,43641592,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV110570013,Pagaré,,ARS,0.07,43641592,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV080280001,Pagaré,,ARS,0.07,43641592,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV090270016,Pagaré,,ARS,0.07,43641592,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV100870028,Pagaré,,ARS,0.07,43641592,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV070890002,Pagaré,,ARS,0.06,37407079,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV071180002,Pagaré,,ARS,0.06,37407079,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV080880002,Pagaré,,ARS,0.06,37407079,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV060290001,Pagaré,,ARS,0.06,37407079,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV080590001,Pagaré,,ARS,0.06,37407079,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV050170144,Pagaré,,ARS,0.05,31172565,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV220890001,Pagaré,,ARS,0.05,31172565,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV230590001,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV210290003,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV221180001,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV240270037,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV251160024,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV230880001,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV211190003,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV040480002,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV051070009,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV060770005,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV020190002,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV030490001,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV031080002,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV060470005,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV040180001,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UFR210880001,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV040780003,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UFR010780001,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UFR270880001,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UFR131270001,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UFR231170001,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UFR081070001,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UFR261170001,Pagaré,,ARS,0.04,24938052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV250870010,Pagaré,,ARS,0.03,18703539,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV260570017,Pagaré,,ARS,0.03,18703539,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV230280002,Pagaré,,ARS,0.03,18703539,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV241170004,Pagaré,,ARS,0.03,18703539,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV240580001,Pagaré,,ARS,0.03,18703539,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UMV300670039,Pagaré,,ARS,0.02,12469026,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UFR230780001,Pagaré,,ARS,0.02,12469026,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare $UAG280170001,Pagaré,,ARS,0.02,12469026,,,Titulos de Deuda en Peso Argentina,1
+p,SBS Patrimonio V,SBS,RM y Otros ARS,53.6077,0.7862,3,,,,
+p,Max Retorno Total Pesos III,Max Capital,RF MULT Disc,53.0647,0.9597,2,,,,
+p,Pionero Soja,Macro,RM y Otros ARS,53.0647,0.9548,2,,,,
+p,First Renta Mixta VI,First Cap Mkts,RF MULT Disc,53.0647,0.9283,2,,,,
+p,Max Cobertura,Max Capital,RF USD Linked,53.0647,0.8824,2,,,,
+p,Megainver Renta Global,MegaQM,T+1,53.0647,0.875,2,,,,
+p,Allaria Patrimonio II,Allaria,RF USD Linked,53.0647,0.8736,2,,,,
+p,Balanz Soja,Balanz,RV ARG Rofex 20,53.0647,0.8699,2,,,,

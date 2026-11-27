@@ -1,0 +1,62 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,IAM Performance Americas,,,,,,,,
+m,gerente,Industrial Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Industrial S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Ex ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Latinoamerica,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,26779860,,,,,,,,
+m,aum_planilla,27063744,,,,,,,,
+m,dif_pn_aum,-0.0105,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/64015,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,63.35,,,,,,,,
+m,pasivos_cnv,36.65,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,11.1,,,,,,,,
+m,top5,41.3,,,,,,,,
+m,top10,61.77,,,,,,,,
+m,hhi_especies,448.727,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Banco Do Brasil,,,,,,,,
+m,emisor_top_pct,11.1,,,,,,,,
+m,hhi_emisores,485.8886,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Corporativo exterior,38.67,6,,,,,,,
+t,Soberano exterior,17.51,3,,,,,,,
+t,Otro título de deuda,5.59,1,,,,,,,
+t,FCI,1.57,1,,,,,,,
+c,USD,63.34,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,61.77,,,,,,,,
+r,Certificados de Participacion Argentina,1.57,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,36.65,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-36.65,,,,,,,,
+e,BC Banco Do Brasil 2029,Corporativo exterior,Banco Do Brasil,USD,11.1,2972564,,,Titulos de Deuda en Dolar Estadounidense,15
+e,BC Bco Credito e Inv 2027,Corporativo exterior,Banco Credito e Inv,USD,9.23,2471781,,,Titulos de Deuda en Dolar Estadounidense,16
+e,PAR Rep del Paraguay 2027,Soberano exterior,Paraguay (soberano),USD,8.62,2308424,,,Titulos de Deuda en Dolar Estadounidense,3
+e,BC Mercado Libre 2031,Corporativo exterior,Mercado Libre,USD,6.76,1810319,,,Titulos de Deuda en Dolar Estadounidense,5
+e,Bono Corporativo 3.625% 010827,Otro título de deuda,Bono Corporativo,USD,5.59,1496994,,,Titulos de Deuda en Dolar Estadounidense,24
+e,CL Rep Chile 28,Soberano exterior,Chile (soberano),USD,5.53,1480926,,,Titulos de Deuda en Dolar Estadounidense,18
+e,BC Falabella 2027,Corporativo exterior,Falabella,USD,4.01,1073872,,,Titulos de Deuda en Dolar Estadounidense,5
+e,BC Cencosud 5.95%,Corporativo exterior,Cencosud,USD,3.84,1028347,,,Titulos de Deuda en Dolar Estadounidense,16
+e,BC BTG 080429,Corporativo exterior,BTG,USD,3.73,998888.7649,,,Titulos de Deuda en Dolar Estadounidense,13
+e,BC Chile 310131,Soberano exterior,Chile (soberano),USD,3.36,899803.2842,,,Titulos de Deuda en Dolar Estadounidense,4
+e,FCI Cocos Ahorro Dólares - Clase B,FCI,Cocos Ahorro Dólares,USD,1.57,420443.7965,,,Certificados de Participacion Argentina,3
+p,Balanz Capital Sudamericano,Balanz,RF USD GL Ex ARG,43.0084,0.4761,6,,,,
+p,Consultatio Income Fund,Consultatio,RF USD GL Ex ARG,28.4239,0.3646,7,,,,
+p,IAM Estrategia,BIND,RF USD GL Inc ARG,28.3153,0.3075,7,,,,
+p,MEGAQM Renta Fija LATAM,MegaQM,RF USD GL Ex ARG,27.301,0.4188,6,,,,
+p,Lombard Renta Fija en Dolares,Patagonia,RF USD GL Ex ARG,25.9691,0.3359,5,,,,
+p,MEGAQM Latam Corporativo,MegaQM,RF USD GL Ex ARG,25.0115,0.2827,4,,,,
+p,Argenfunds Renta Capital,Argenfunds,RF USD GL Inc ARG,24.1519,0.2685,4,,,,
+p,Schroder Income,Schroder,RF USD GL Ex ARG,23.7162,0.3028,3,,,,

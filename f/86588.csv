@@ -1,0 +1,78 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Toronto Trust Infraestructura,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Credito y Securitizacion S.A. (BACS),,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,INFRA,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,8640515123,,,,,,,,
+m,aum_planilla,8640515123,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86588,,,,,,,,
+m,n_especies,25,,,,,,,,
+m,activos_pn,100.21,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.19,,,,,,,,
+m,top1,9.86,,,,,,,,
+m,top5,41.67,,,,,,,,
+m,top10,67.52,,,,,,,,
+m,hhi_especies,577.2483,,,,,,,,
+m,n_emisores,17,,,,,,,,
+m,emisor_top,Oldelval,,,,,,,,
+m,emisor_top_pct,17.74,,,,,,,,
+m,hhi_emisores,1003.2501,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,84.27,19,,,,,,,
+t,Soberano,9.32,2,,,,,,,
+t,Subsoberano,4.65,3,,,,,,,
+t,FCI,1.77,1,,,,,,,
+c,ARS,94.66,,,,,,,,
+c,sin dato,5.35,,,,,,,,
+r,Disponibilidades,0.19,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,94.67,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense MEP,3.58,,,,,,,,
+r,Certificados de Participacion Argentina,1.77,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.21,,,,,,,,
+e,ON Oldelval Clase 5,ON,Oldelval,ARS,9.86,851954791,,,Titulos de Deuda en Peso Argentina,34
+e,ON Pan American C26,ON,Pan American,ARS,8.48,732715682,,,Titulos de Deuda en Peso Argentina,38
+e,ON Oldelval Clase 3,ON,Oldelval,ARS,7.88,680872592,,,Titulos de Deuda en Peso Argentina,40
+e,ON YPF Clase 42,ON,YPF,ARS,7.76,670503974,,,Titulos de Deuda en Peso Argentina,48
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,7.69,664455613,,,Titulos de Deuda en Peso Argentina,42
+e,ON Vista Gas y Oil Arg C21,ON,Vista Gas y Oil Arg,ARS,7.35,635077862,,,Titulos de Deuda en Peso Argentina,27
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,6.62,572002101,,,Titulos de Deuda en Peso Argentina,92
+e,ON Telecom C14 TLCFO,ON,Telecom,ARS,4.32,373270253,,,Titulos de Deuda en Peso Argentina,23
+e,ON Pampa Energia C23 (Public),ON,Pampa Energia,ARS,3.82,330067678,,,Titulos de Deuda en Peso Argentina,2
+e,ON YPF Clase 37,ON,YPF,ARS,3.74,323155266,,,Titulos de Deuda en Peso Argentina,13
+e,ON Vaca Muerta C1,ON,Vaca Muerta,ARS,3.68,317970957,,,Titulos de Deuda en Peso Argentina,45
+e,ON Genneia Clase 50,ON,Genneia,,3.58,309330441,,,Titulos de Deuda en Dolar Estadounidense MEP,19
+e,ON Aluar Serie 6,ON,Aluar,ARS,3.38,292049411,,,Titulos de Deuda en Peso Argentina,28
+e,ON Pan Amer. Energy C 17,ON,Pan Amer. Energy,ARS,3,259215454,,,Titulos de Deuda en Peso Argentina,15
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,2.7,233293908,,,Titulos de Deuda en Peso Argentina,118
+e,ON Epec C2,ON,Epec,ARS,2.36,203916157,,,Titulos de Deuda en Peso Argentina,12
+e,ON Profertil C2,ON,Profertil,ARS,1.92,165897890,,,Titulos de Deuda en Peso Argentina,20
+e,Bono Prov Cordoba Clase 4,Subsoberano,Prov. Cordoba,ARS,1.92,165897890,,,Titulos de Deuda en Peso Argentina,37
+e,FCI GMC Money Market - Clase C,FCI,GMC Money Market,,1.77,152937118,,,Certificados de Participacion Argentina,22
+e,ON Transp Gas Sur Cl 3,ON,Transp Gas Sur,ARS,1.69,146024706,,,Titulos de Deuda en Peso Argentina,43
+e,Bono Prov Cordoba Clase 6,Subsoberano,Prov. Cordoba,ARS,1.62,139976345,,,Titulos de Deuda en Peso Argentina,36
+e,ON Vista Gas y Oil Arg C27,ON,Vista Gas y Oil Arg,ARS,1.31,113190748,,,Titulos de Deuda en Peso Argentina,16
+e,ON Pampa Energia C21,ON,Pampa Energia,ARS,1.26,108870491,,,Titulos de Deuda en Peso Argentina,36
+e,ON Genneia Clase 37,ON,Genneia,ARS,1.19,102822130,,,Titulos de Deuda en Peso Argentina,23
+e,Bonos de Infra.Vial Prov. de Santa Fe,Subsoberano,Prov. Santa Fe,ARS,1.11,95909718,,,Titulos de Deuda en Peso Argentina,21
+p,Pellegrini Desarrollo Arg. Infraest.,Pellegrini,INFRA,31.3226,0.4889,16,,,,
+p,Alpha Infraestructura,ICBC,INFRA,27.443,0.3637,7,,,,
+p,Desarrollo Argentino III FCI Abierto para el Fin. de la Infra. y la Econ. Real,Investis,INFRA,23.5815,0.3188,5,,,,
+p,Zofingen Infraestructura,Zofingen Inv.,INFRA,23.3481,0.2782,7,,,,
+p,Galileo Premium,Delta,RF USD Linked,22.0969,0.2658,5,,,,
+p,SBS Desarrollo Infraestructura,SBS,INFRA,21.6422,0.3292,9,,,,
+p,SBS Patrimonio IX,SBS,RF MULT Disc,20.1516,0.2304,5,,,,
+p,GSS Energia,Grupo SS,RF MULT Corp,19.8966,0.1988,6,,,,

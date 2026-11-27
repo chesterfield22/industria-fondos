@@ -1,0 +1,62 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MEGAQM Ahorro Dólares,,,,,,,,
+m,gerente,MEGA QM S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1177513,,,,,,,,
+m,aum_planilla,1177513,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/81100,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,95.87,,,,,,,,
+m,pasivos_cnv,4.13,,,,,,,,
+m,liquidez,5.15,,,,,,,,
+m,top1,19.72,,,,,,,,
+m,top5,75.32,,,,,,,,
+m,top10,94.87,,,,,,,,
+m,hhi_especies,1312.4501,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,86.65,,,,,,,,
+m,hhi_emisores,7540.9835,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,86.65,7,,,,,,,
+t,Caución,4.25,1,,,,,,,
+t,FCI,4.07,3,,,,,,,
+c,USD,94.97,,,,,,,,
+r,Disponibilidades,0.9,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,86.65,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,4.25,,,,,,,,
+r,Certificados de Participacion Argentina,4.07,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,4.13,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-4.13,,,,,,,,
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,USD,19.72,232205.609,,,Titulos de Deuda en Dolar Estadounidense,74
+e,Bonos Rep Argentina GD38,Soberano,Tesoro Nacional,USD,17.73,208773.0957,,,Titulos de Deuda en Dolar Estadounidense,38
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,17.36,204416.2967,,,Titulos de Deuda en Dolar Estadounidense,83
+e,Bono del Tesoro Nacional AN29,Soberano,Tesoro Nacional,USD,10.79,127053.6775,,,Titulos de Deuda en Dolar Estadounidense,25
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,USD,9.72,114454.286,,,Titulos de Deuda en Dolar Estadounidense,40
+e,Bonos Rep Argentina GD41,Soberano,Tesoro Nacional,USD,5.69,67000.5028,,,Titulos de Deuda en Dolar Estadounidense,38
+e,Bonos Rep Argentina AL35,Soberano,Tesoro Nacional,USD,5.64,66411.7462,,,Titulos de Deuda en Dolar Estadounidense,31
+e,Caucion Colocadora U$S BYMA,Caución,Caución BYMA,USD,4.25,50044.3123,,,Operaciones a Plazo en Dolar Estadounidense,35
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,3.83,45098.7567,,,Certificados de Participacion Argentina,37
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,0.14,1648.5185,,,Certificados de Participacion Argentina,37
+e,FCI IEB Corto Plazo Dólar - Clase B,FCI,IEB Corto Plazo Dólar,USD,0.1,1177.5132,,,Certificados de Participacion Argentina,12
+p,Pionero Inversión Dólar,Macro,RF USD GL Inc ARG,49.0362,0.7167,3,,,,
+p,FBA Renta Fija Dólar Plus I,BBVA,RF USD Disc,47.4684,0.735,5,,,,
+p,Novus Capital,Novus,RM y Otros USD,41.7939,0.6292,5,,,,
+p,Pellegrini Renta Dolares,Pellegrini,RF USD Disc,41.5106,0.5554,4,,,,
+p,Ualintec Cobertura,Ualá,RF USD Linked,39.0439,0.5336,2,,,,
+p,Pionero Dólar Mix,Macro,RF USD Disc,37.0406,0.6004,3,,,,
+p,Alpha Renta Capital Dólar,ICBC,RF USD Disc,35.5307,0.545,3,,,,
+p,Allaria Dólar Performance II,Allaria,RF USD Disc,35.0134,0.4927,3,,,,

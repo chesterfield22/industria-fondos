@@ -1,0 +1,74 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Tandem Global IV,,,,,,,,
+m,gerente,Tandem Capital S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,7506946,,,,,,,,
+m,aum_planilla,7506946,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88483,,,,,,,,
+m,n_especies,20,,,,,,,,
+m,activos_pn,90.13,,,,,,,,
+m,pasivos_cnv,9.87,,,,,,,,
+m,liquidez,10.13,,,,,,,,
+m,top1,12.37,,,,,,,,
+m,top5,40.43,,,,,,,,
+m,top10,65.18,,,,,,,,
+m,hhi_especies,550.4438,,,,,,,,
+m,n_emisores,17,,,,,,,,
+m,emisor_top,Pluspetrol,,,,,,,,
+m,emisor_top_pct,12.37,,,,,,,,
+m,hhi_emisores,590.8253,,,,,,,,
+m,sin_emisor_pct,0.77,,,,,,,,
+t,ON,61.24,12,,,,,,,
+t,Subsoberano,10.73,3,,,,,,,
+t,Caución,8.53,1,,,,,,,
+t,FCI,4,1,,,,,,,
+t,BCRA,3.27,1,,,,,,,
+t,Pagaré,0.77,2,,,,,,,
+c,USD,88.54,,,,,,,,
+r,Disponibilidades,1.6,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,76,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,8.53,,,,,,,,
+r,Certificados de Participacion Argentina,4,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,9.87,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-9.87,,,,,,,,
+e,ON Pluspetrol Clase 5,ON,Pluspetrol,USD,12.37,928609.1682,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON Tecpetrol C12,ON,Tecpetrol,USD,8.72,654605.6546,,,Titulos de Deuda en Dolar Estadounidense,60
+e,Caucion Colocadora U$S Merval,Caución,Caución Merval,USD,8.53,640342.458,,,Operaciones a Plazo en Dolar Estadounidense,55
+e,ON Luz De Tres Picos C5,ON,Luz De Tres Picos,USD,5.41,406125.7559,,,Titulos de Deuda en Dolar Estadounidense,17
+e,ON Mirgor Clase 6,ON,Mirgor,USD,5.4,405375.0613,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON Mastellone Clase 2,ON,Mastellone,USD,5.38,403873.6722,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON Pampa Energia C29,ON,Pampa Energia,USD,5.32,399369.5049,,,Titulos de Deuda en Dolar Estadounidense,28
+e,Bono Prov Santa Fe 8.1% 111234,Subsoberano,Prov. Santa Fe,USD,5.02,376848.6681,,,Titulos de Deuda en Dolar Estadounidense,37
+e,ON YPF Clase 39,ON,YPF,USD,4.73,355078.5259,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON YPF Clase 31,ON,YPF,USD,4.3,322798.6599,,,Titulos de Deuda en Dolar Estadounidense,48
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,4,300277.8232,,,Certificados de Participacion Argentina,37
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,USD,3.27,245477.1205,,,Titulos de Deuda en Dolar Estadounidense,33
+e,Bono Prov Cordoba 030235,Subsoberano,Prov. Cordoba,USD,3.01,225959.062,,,Titulos de Deuda en Dolar Estadounidense,29
+e,ON Vista Gas y Oil Arg C26,ON,Vista Gas y Oil Arg,USD,2.79,209443.7817,,,Titulos de Deuda en Dolar Estadounidense,6
+e,Bono Entre Rios 9.55% 040333,Subsoberano,Prov. Entre Rios,USD,2.7,202687.5307,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON PCR Clase R,ON,PCR,USD,2.69,201936.8361,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Pecom C3,ON,Pecom,USD,2.09,156895.1626,,,Titulos de Deuda en Dolar Estadounidense,26
+e,ON Tecnovax S1 C2,ON,Tecnovax,USD,2.04,153141.6898,,,Titulos de Deuda en Dolar Estadounidense,2
+e,Pagare #UMV190370009,Pagaré,,USD,0.39,29277.0878,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV300470010,Pagaré,,USD,0.38,28526.3932,,,Titulos de Deuda en Dolar Estadounidense,1
+p,Novus Renta Dólar,Novus,RF USD Disc,24.0022,0.2835,4,,,,
+p,Consultatio Multimercado III,Consultatio,RF USD corp loc,23.2381,0.2871,7,,,,
+p,Balanz Ahorro en Dólares,Balanz,RF USD corp loc,22.24,0.3556,7,,,,
+p,Max Renta Fija Dolares,Max Capital,RF USD corp loc,21.2701,0.3707,7,,,,
+p,Pionero Ahorro Dólares,Macro,RF USD corp loc,21.2496,0.2581,3,,,,
+p,Balanz Capital Estrategia V USD,Balanz,RF USD corp loc,21.116,0.3182,4,,,,
+p,Tandem Global,Tandem Capi..,RF USD Disc,20.0491,0.2109,5,,,,
+p,Cocos Ahorro Dólares,Cocos,RF USD GL Inc ARG,17.8223,0.316,3,,,,

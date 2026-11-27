@@ -1,0 +1,68 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Wise Capital Equity,,,,,,,,
+m,gerente,Wise Capital Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,RV ARG Merval,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1527655981,,,,,,,,
+m,aum_planilla,1527655981,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87160,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,100.13,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.09,,,,,,,,
+m,top1,18.05,,,,,,,,
+m,top5,61.23,,,,,,,,
+m,top10,62.79,,,,,,,,
+m,hhi_especies,960.0267,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,42.48,,,,,,,,
+m,hhi_emisores,2131.4913,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,42.48,4,,,,,,,
+t,Corporativo exterior,18.05,1,,,,,,,
+t,Acción,2.37,8,,,,,,,
+t,FCI,0.07,1,,,,,,,
+c,ARS,44.85,,,,,,,,
+c,sin dato,18.12,,,,,,,,
+r,Disponibilidades,0.09,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,42.48,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Cable,18.05,,,,,,,,
+r,Participaciones Accionarias Argentina,2.37,,,,,,,,
+r,Certificados de Participacion Argentina,0.07,,,,,,,,
+r,Otros Activos,37.07,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.13,,,,,,,,
+e,BC Wise Capital Total Return II S528 Notes 2044,Corporativo exterior,Wise Capital Total Return II,,18.05,275741904,,,Titulos de Deuda en Dolar Estadounidense Cable,4
+e,Bono Boncer TZXD8,Soberano,Tesoro Nacional,ARS,16.56,252979830,,,Titulos de Deuda en Peso Argentina,26
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,16.36,249924518,,,Titulos de Deuda en Peso Argentina,51
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,9.55,145891146,,,Titulos de Deuda en Peso Argentina,61
+e,Distribuidora de Gas Cuyana S.A.,Acción,Distribuidora de Gas Cuyana,ARS,0.71,10846357,,,Participaciones Accionarias Argentina,8
+e,YPF S.A.,Acción,YPF,ARS,0.59,9013170,,,Participaciones Accionarias Argentina,122
+e,Transener S.A.,Acción,Transener,ARS,0.37,5652327,,,Participaciones Accionarias Argentina,84
+e,Cresud S.A.,Acción,Cresud,ARS,0.31,4735734,,,Participaciones Accionarias Argentina,38
+e,Gas Natural Ban S.A.,Acción,Gas Natural Ban,ARS,0.16,2444250,,,Participaciones Accionarias Argentina,2
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,0.13,1985953,,,Participaciones Accionarias Argentina,93
+e,FCI BM Smart Money Market - Clase B,FCI,BM Smart Money Market,,0.07,1069359,,,Certificados de Participacion Argentina,34
+e,Inversora Juramento S.A.,Acción,Inversora Juramento,ARS,0.07,1069359,,,Participaciones Accionarias Argentina,7
+e,Autopistas del Sol S.A.,Acción,Autopistas del Sol,ARS,0.03,458296.7942,,,Participaciones Accionarias Argentina,12
+e,Bonos Rep Argentina GD30,Soberano,Tesoro Nacional,ARS,0.01,152765.5981,,,Titulos de Deuda en Peso Argentina,37
+p,Wise Capital Legacy,Wise,RM y Otros ARS,85.5047,0.9702,4,,,,
+p,Wise Capital Multistrategy,Wise,RM y Otros ARS,83.2306,0.9425,5,,,,
+p,Wise Capital Global Markets,Wise,RF USD GL Inc ARG,28.6644,0.4429,1,,,,
+p,Pellegrini Renta Fija Plus,Pellegrini,RF MULT Disc,27.8657,0.4656,2,,,,
+p,MAF Gestión Activa,Mariva,RM y Otros ARS,25.9806,0.3369,1,,,,
+p,MAF Renta Mixta,Mariva,RM y Otros ARS,25.5404,0.2953,2,,,,
+p,Allaria Gestion II,Allaria,RF ARS Disc,25.0175,0.2793,1,,,,
+p,Pampa BAVSA Pesos Plus,BAVSA,RM y Otros ARS,24.9428,0.2803,1,,,,

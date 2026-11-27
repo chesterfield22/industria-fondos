@@ -1,0 +1,126 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,BAVSA Estrategia Dolar,,,,,,,,
+m,gerente,BAVSA Fondos S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,7527187,,,,,,,,
+m,aum_planilla,7527187,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87795,,,,,,,,
+m,n_especies,67,,,,,,,,
+m,activos_pn,101.57,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.33,,,,,,,,
+m,top1,5.83,,,,,,,,
+m,top5,22.46,,,,,,,,
+m,top10,38.62,,,,,,,,
+m,hhi_especies,268.9977,,,,,,,,
+m,n_emisores,21,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,12.92,,,,,,,,
+m,hhi_emisores,277.8429,,,,,,,,
+m,sin_emisor_pct,45.4,,,,,,,,
+t,Pagaré,42.42,38,,,,,,,
+t,Cedear,16.91,7,,,,,,,
+t,ON,16.47,10,,,,,,,
+t,Soberano,12.92,3,,,,,,,
+t,FCI,5.42,3,,,,,,,
+t,Cheque,2.98,5,,,,,,,
+t,Subsoberano,2.61,1,,,,,,,
+c,USD,68.86,,,,,,,,
+c,ARS,29.84,,,,,,,,
+c,sin dato,1.03,,,,,,,,
+r,Disponibilidades,0.33,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,55.19,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,12.93,,,,,,,,
+r,Titulos de Deuda en Dolar 3500 BCRA,9.29,,,,,,,,
+r,Participaciones Accionarias Argentina,16.91,,,,,,,,
+r,Certificados de Participacion Argentina,5.42,,,,,,,,
+r,Otros Activos,1.5,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.57,,,,,,,,
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,USD,5.83,438835.0155,,,Titulos de Deuda en Dolar Estadounidense,40
+e,Pagare #UMV2212600121,Pagaré,,USD,5.18,389908.2985,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV121260007,Pagaré,,USD,3.88,292054.8645,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,3.86,290549.4271,,,Participaciones Accionarias Argentina,52
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,3.71,279258.6462,,,Titulos de Deuda en Peso Argentina,250
+e,FCI Cocos Dólar Money Market - Clase C,FCI,Cocos Dólar Money Market,USD,3.59,270226.0216,,,Certificados de Participacion Argentina,14
+e,ON YPF Luz C20,ON,YPF Luz,USD,3.4,255924.3658,,,Titulos de Deuda en Dolar Estadounidense,20
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,3.38,254418.9284,,,Titulos de Deuda en Peso Argentina,74
+e,ON Edenor C10 DNCAO,ON,Edenor,USD,3.07,231084.648,,,Titulos de Deuda en Dolar Estadounidense,26
+e,ON John Deere Cia. Fin C20,ON,John Deere Cia. Fin,USD,2.72,204739.4927,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Capex C11,ON,Capex,USD,2.67,200975.899,,,Titulos de Deuda en Dolar Estadounidense,19
+e,Cedear Uber,Cedear,Uber,ARS,2.67,200975.899,,,Participaciones Accionarias Argentina,5
+e,Cedear Apple Inc,Cedear,Apple Inc,ARS,2.63,197965.0241,,,Participaciones Accionarias Argentina,6
+e,Letra Prov Chaco BLN26,Subsoberano,Prov. Chaco,ARS,2.61,196459.5867,,,Titulos de Deuda en Peso Argentina,12
+e,Pagare #UMV180270015,Pagaré,,USD,2.6,195706.868,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV250270014,Pagaré,,USD,2.59,194954.1493,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV230270010,Pagaré,,USD,2.59,194954.1493,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV1502700421,Pagaré,,USD,2.52,189685.1182,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV1902700081,Pagaré,,USD,2.51,188932.3995,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV2411600341,Pagaré,,USD,2.25,169361.7127,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Cedear Oracle,Cedear,Oracle,ARS,2.17,163339.9629,,,Participaciones Accionarias Argentina,4
+e,Pagare #UMV290170015,Pagaré,,USD,1.95,146780.151,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Telecom C23,ON,Telecom,USD,1.92,144521.9948,,,Titulos de Deuda en Dolar Estadounidense,19
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,1.89,142263.8386,,,Participaciones Accionarias Argentina,50
+e,Cedear ADR Itau Unibanco Holding,Cedear,ADR Itau Unibanco Holding,ARS,1.87,140758.4012,,,Participaciones Accionarias Argentina,8
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,1.82,136994.8076,,,Participaciones Accionarias Argentina,38
+e,Pagare #UMV130870006,Pagaré,,USD,1.72,129467.6204,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV140970012,Pagaré,,USD,1.53,115165.9646,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Profertil C3,ON,Profertil,USD,1.35,101617.0276,,,Titulos de Deuda en Dolar Estadounidense,30
+e,Pagare #UMV310370010,Pagaré,,USD,1.28,96347.9965,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV0104700051,Pagaré,,USD,1.27,95595.2778,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV2804700151,Pagaré,,USD,1.27,95595.2778,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV0104700061,Pagaré,,USD,1.27,95595.2778,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV1006700151,Pagaré,,USD,1.25,94089.8404,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV2503700061,Pagaré,,USD,1.24,93337.1217,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Cheque E *MAV190101364,Cheque,,ARS,1.17,88068.0906,,,Titulos de Deuda en Peso Argentina,1
+e,FCI CYC Liquidez - Clase U,FCI,CYC Liquidez,,1.03,77530.0285,,,Certificados de Participacion Argentina,2
+e,Cheque E *MAV181101190,Cheque,,ARS,0.83,62475.654,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,0.8,60217.4978,,,Certificados de Participacion Argentina,37
+e,ON John Deere Cia. Fin C19,ON,John Deere Cia. Fin,USD,0.7,52690.3106,,,Titulos de Deuda en Dolar Estadounidense,20
+e,Pagare #UMV060470019,Pagaré,,USD,0.61,45915.8421,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV301160118,Pagaré,,USD,0.53,39894.0923,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Cheque E *MAV091201875,Cheque,,ARS,0.41,30861.4676,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV310570037,Pagaré,,USD,0.41,30861.4676,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV2402700311,Pagaré,,USD,0.38,28603.3115,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Cheque E *MAV0710011901,Cheque,,ARS,0.32,24086.9991,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV3003700101,Pagaré,,USD,0.32,24086.9991,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV3003700091,Pagaré,,USD,0.32,24086.9991,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV0804700031,Pagaré,,USD,0.31,23334.2804,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV1703700091,Pagaré,,USD,0.31,23334.2804,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV0804700021,Pagaré,,USD,0.31,23334.2804,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV1703700081,Pagaré,,USD,0.31,23334.2804,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,ON Loma Negra C6,ON,Loma Negra,USD,0.3,22581.5617,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON San Miguel Serie 13 CA,ON,San Miguel,ARS,0.25,18817.9681,,,Titulos de Deuda en Peso Argentina,19
+e,Cheque E *MAV071001225,Cheque,,ARS,0.25,18817.9681,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV0502700171,Pagaré,,USD,0.25,18817.9681,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV0803700031,Pagaré,,USD,0.25,18817.9681,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV0803700041,Pagaré,,USD,0.25,18817.9681,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV110370018,Pagaré,,USD,0.19,14301.6557,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV271070006,Pagaré,,USD,0.15,11290.7808,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV300670032,Pagaré,,USD,0.13,9785.3434,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV160470008,Pagaré,,USD,0.11,8279.906,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV300670044,Pagaré,,USD,0.1,7527.1872,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV310570055,Pagaré,,USD,0.1,7527.1872,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON P. Aconcagua Energia C22,ON,P. Aconcagua Energia,USD,0.09,6774.4685,,,Titulos de Deuda en Dolar Estadounidense,7
+e,Pagare #UMV010570009,Pagaré,,USD,0.09,6774.4685,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV280270043,Pagaré,,USD,0.09,6774.4685,,,Titulos de Deuda en Dolar Estadounidense,1
+p,BAVSA Renta Balanceado VII,BAVSA,RF MULT Disc,14.1734,0.1622,7,,,,
+p,1822 Raices Gestion,Provinfondos,RM y Otros ARS,13.6632,0.19,5,,,,
+p,Axis S&C Renta Fija Dolar,Axis,RF USD corp loc,12.2604,0.2002,8,,,,
+p,Chimpay Pesos Moderado,Chimpay,RM y Otros ARS,11.5323,0.1589,3,,,,
+p,Pionero Crecimiento,Macro,RF MULT Disc,10.6928,0.2058,3,,,,
+p,Benedit Multiestrategia,Axis,RM y Otros ARS,10.4678,0.1797,4,,,,
+p,Pionero Dólar Mix,Macro,RF USD Disc,10.2783,0.3345,3,,,,
+p,MEGAQM Ahorro Dólares,MegaQM,RF USD Disc,10.0371,0.2127,3,,,,

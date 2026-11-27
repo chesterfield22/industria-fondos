@@ -1,0 +1,90 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Axis Estrategia 17,,,,,,,,
+m,gerente,Axis S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5827456599,,,,,,,,
+m,aum_planilla,5827456599,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86346,,,,,,,,
+m,n_especies,34,,,,,,,,
+m,activos_pn,100.2,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.36,,,,,,,,
+m,top1,9.01,,,,,,,,
+m,top5,35.01,,,,,,,,
+m,top10,58.7,,,,,,,,
+m,hhi_especies,470.1453,,,,,,,,
+m,n_emisores,22,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,26.28,,,,,,,,
+m,hhi_emisores,1014.8413,,,,,,,,
+m,sin_emisor_pct,7.02,,,,,,,,
+t,Acción,36.26,11,,,,,,,
+t,Soberano,26.28,5,,,,,,,
+t,Cedear,16.25,4,,,,,,,
+t,Subsoberano,7.57,2,,,,,,,
+t,Pagaré,7.02,7,,,,,,,
+t,ON,6.2,4,,,,,,,
+t,FCI,0.25,1,,,,,,,
+c,ARS,99.58,,,,,,,,
+c,sin dato,0.25,,,,,,,,
+r,Disponibilidades,0.36,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,47.08,,,,,,,,
+r,Participaciones Accionarias Argentina,52.51,,,,,,,,
+r,Certificados de Participacion Argentina,0.25,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.2,,,,,,,,
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,9.01,525053840,,,Titulos de Deuda en Peso Argentina,160
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,7.72,449879649,,,Participaciones Accionarias Argentina,86
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,6.61,385194881,,,Participaciones Accionarias Argentina,129
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,5.89,343237194,,,Participaciones Accionarias Argentina,38
+e,Bono Prov Cordoba Clase 4,Subsoberano,Prov. Cordoba,ARS,5.78,336826991,,,Titulos de Deuda en Peso Argentina,37
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,5.77,336244246,,,Titulos de Deuda en Peso Argentina,166
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,5.12,298365778,,,Participaciones Accionarias Argentina,52
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,4.46,259904564,,,Participaciones Accionarias Argentina,117
+e,ON Tarj Naranja C66 S1,ON,Tarj Naranja,ARS,4.36,254077108,,,Titulos de Deuda en Peso Argentina,17
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,ARS,3.98,231932773,,,Titulos de Deuda en Peso Argentina,62
+e,Bonos Rep Argentina AL41,Soberano,Tesoro Nacional,ARS,3.93,229019044,,,Titulos de Deuda en Peso Argentina,14
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,3.72,216781385,,,Participaciones Accionarias Argentina,50
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,3.59,209205692,,,Titulos de Deuda en Peso Argentina,75
+e,Cresud S.A.,Acción,Cresud,ARS,3.14,182982137,,,Participaciones Accionarias Argentina,38
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,3.12,181816646,,,Participaciones Accionarias Argentina,104
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,2.85,166082513,,,Participaciones Accionarias Argentina,83
+e,Transportadora de Gas del Norte S.A.,Acción,Transportadora de Gas del Norte,ARS,2.3,134031502,,,Participaciones Accionarias Argentina,70
+e,YPF S.A.,Acción,YPF,ARS,2.22,129369536,,,Participaciones Accionarias Argentina,122
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,2.04,118880115,,,Participaciones Accionarias Argentina,104
+e,Bono Prov Cordoba Clase 5,Subsoberano,Prov. Cordoba,ARS,1.79,104311473,,,Titulos de Deuda en Peso Argentina,19
+e,Transener S.A.,Acción,Transener,ARS,1.71,99649508,,,Participaciones Accionarias Argentina,84
+e,ON Telecom C19 TLCKO,ON,Telecom,ARS,1.59,92656560,,,Titulos de Deuda en Peso Argentina,30
+e,Cedear Petrobras,Cedear,Petrobras,ARS,1.52,88577340,,,Participaciones Accionarias Argentina,10
+e,Pagare #UMV200270003,Pagaré,,ARS,1.47,85663612,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV050370014,Pagaré,,ARS,1.46,85080866,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV230270007,Pagaré,,ARS,1.33,77505173,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV050270015,Pagaré,,ARS,0.74,43123179,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV180270008,Pagaré,,ARS,0.73,42540433,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV030370007,Pagaré,,ARS,0.73,42540433,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV170370010,Pagaré,,ARS,0.56,32633757,,,Titulos de Deuda en Peso Argentina,1
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.25,14568641,,,Certificados de Participacion Argentina,93
+e,ON Petroqui C Rivadavia PQCOO,ON,Petroqui C Rivadavia PQCOO,ARS,0.14,8158439,,,Titulos de Deuda en Peso Argentina,13
+e,ON Deposito Fiscal Cordoba S1,ON,Deposito Fiscal Cordoba,ARS,0.11,6410202,,,Titulos de Deuda en Peso Argentina,4
+e,Inversiones y Representaciones S.A. (IRSA),Acción,Inversiones y Representaciones S.A. (IRSA),ARS,0.09,5244711,,,Participaciones Accionarias Argentina,35
+p,Pionero Recovery,Macro,RM y Otros ARS,38.5116,0.4702,12,,,,
+p,Bull Market Acciones Argentinas,Bull Market,RV ARG Merval,37.982,0.4766,12,,,,
+p,Superfondo Acciones,Santander,RV ARG Otros,37.492,0.5181,11,,,,
+p,CYC Renta Mixta,CYC,RV ARG Otros,36.6065,0.4526,11,,,,
+p,Ualintec Renta Variable Pesos,Ualá,RV ARG Rofex 20,36.1834,0.4872,12,,,,
+p,Axis Brio Valores I,Axis,RV ARG Otros,35.9766,0.497,11,,,,
+p,Alpha Planeamiento Dinamico,ICBC,RM y Otros ARS,35.8769,0.5185,14,,,,
+p,Galileo Multimercado IV,Delta,RM y Otros ARS,34.6853,0.471,13,,,,

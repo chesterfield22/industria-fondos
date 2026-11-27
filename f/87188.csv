@@ -1,0 +1,68 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Cocos Acciones,,,,,,,,
+m,gerente,Cocos Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RV ARG Rofex 20,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,3731197664,,,,,,,,
+m,aum_planilla,3731197664,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87188,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,100.86,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,11.24,,,,,,,,
+m,top5,52.45,,,,,,,,
+m,top10,82,,,,,,,,
+m,hhi_especies,792.2167,,,,,,,,
+m,n_emisores,17,,,,,,,,
+m,emisor_top,Banco Macro,,,,,,,,
+m,emisor_top_pct,11.24,,,,,,,,
+m,hhi_emisores,792.2167,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,82.17,14,,,,,,,
+t,Cedear,18.68,3,,,,,,,
+c,ARS,97.97,,,,,,,,
+c,sin dato,2.88,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Participaciones Accionarias Argentina,97.97,,,,,,,,
+r,Participaciones Accionarias Estados Unidos,2.88,,,,,,,,
+r,Certificados de Participacion Argentina,,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.86,,,,,,,,
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,11.24,419386617,,,Participaciones Accionarias Argentina,93
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,10.92,407446785,,,Participaciones Accionarias Argentina,117
+e,Cedear Berkshire Hath Inc,Cedear,Berkshire Hath Inc,ARS,10.49,391402635,,,Participaciones Accionarias Argentina,4
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,10,373119766,,,Participaciones Accionarias Argentina,129
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,9.8,365657371,,,Participaciones Accionarias Argentina,104
+e,Inversiones y Representaciones S.A. (IRSA),Acción,Inversiones y Representaciones S.A. (IRSA),ARS,7.04,262676316,,,Participaciones Accionarias Argentina,35
+e,YPF S.A.,Acción,YPF,ARS,6.13,228722417,,,Participaciones Accionarias Argentina,122
+e,Transportadora de Gas del Norte S.A.,Acción,Transportadora de Gas del Norte,ARS,5.92,220886902,,,Participaciones Accionarias Argentina,70
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,5.47,204096512,,,Participaciones Accionarias Argentina,83
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,4.99,186186763,,,Participaciones Accionarias Argentina,38
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,4.94,184321165,,,Participaciones Accionarias Argentina,104
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,3.86,144024230,,,Participaciones Accionarias Argentina,77
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,3.2,119398325,,,Participaciones Accionarias Argentina,52
+e,ADR Vista Oil y Gas,Acción,ADR Vista Oil y Gas,,2.88,107458493,,,Participaciones Accionarias Estados Unidos,3
+e,Transener S.A.,Acción,Transener,ARS,1.87,69773396,,,Participaciones Accionarias Argentina,84
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,1.11,41416294,,,Participaciones Accionarias Argentina,85
+e,Metrogas S.A.,Acción,Metrogas,ARS,0.99,36938857,,,Participaciones Accionarias Argentina,54
+p,Toronto Trust Multimercado,Investis,RV ARG Otros,61.4175,0.7677,13,,,,
+p,Schroder Renta Variable,Schroder,RV ARG Merval,59.9018,0.7746,11,,,,
+p,Alpha Mega,ICBC,RV ARG Merval,58.9484,0.7491,12,,,,
+p,Alpha Acciones,ICBC,RV ARG Merval,58.6225,0.749,13,,,,
+p,CYC Renta Mixta,CYC,RV ARG Otros,58.1854,0.6698,10,,,,
+p,Pellegrini Acciones,Pellegrini,RV ARG Merval,58.02,0.7548,13,,,,
+p,MAF Acciones Argentina,Mariva,RV ARG Merval,57.7355,0.7292,13,,,,
+p,Stonex Renta Variable,StoneX,RV ARG Otros,57.7115,0.6293,10,,,,

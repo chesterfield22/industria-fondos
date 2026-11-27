@@ -1,0 +1,71 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Parakeet Multimercado,,,,,,,,
+m,gerente,Parakeet S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,6602096387,,,,,,,,
+m,aum_planilla,6602096387,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87284,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,100.09,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.14,,,,,,,,
+m,top1,16.88,,,,,,,,
+m,top5,52.29,,,,,,,,
+m,top10,79.49,,,,,,,,
+m,hhi_especies,842.2413,,,,,,,,
+m,n_emisores,13,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,32.87,,,,,,,,
+m,hhi_emisores,1641.5231,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,32.87,5,,,,,,,
+t,ON,32.19,4,,,,,,,
+t,ETF,20.06,3,,,,,,,
+t,Acción,13,4,,,,,,,
+t,FCI,1.83,1,,,,,,,
+c,ARS,78.06,,,,,,,,
+c,sin dato,21.89,,,,,,,,
+r,Disponibilidades,0.14,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,65.06,,,,,,,,
+r,Participaciones Accionarias Argentina,33.06,,,,,,,,
+r,Certificados de Participacion Argentina,1.83,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.09,,,,,,,,
+e,ON Banco Nacion Argentina Clase 3,ON,Banco Nacion Argentina,ARS,16.88,1114433870,,,Titulos de Deuda en Peso Argentina,33
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,13.56,895244270,,,Titulos de Deuda en Peso Argentina,142
+e,ON Banco de Cordoba C5,ON,Banco de Cordoba,ARS,8.19,540711694,,,Titulos de Deuda en Peso Argentina,11
+e,Cedear Vanguard Dividend Appreciation,ETF,Cedear Vanguard Dividend Appreciation,,6.87,453564022,,,Participaciones Accionarias Argentina,3
+e,Cedear ETF iShares S&P 500 Value,ETF,Cedear ETF iShares S&P 500 Value,,6.79,448282345,,,Participaciones Accionarias Argentina,3
+e,Cedear Ishares MSCI ACWI ETF,ETF,Cedear Ishares MSCI ACWI ETF,,6.4,422534169,,,Participaciones Accionarias Argentina,1
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,5.83,384902219,,,Titulos de Deuda en Peso Argentina,166
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,5.49,362455092,,,Titulos de Deuda en Peso Argentina,149
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,4.78,315580207,,,Titulos de Deuda en Peso Argentina,118
+e,ON Edesa Clase 3,ON,Edesa,ARS,4.7,310298530,,,Titulos de Deuda en Peso Argentina,21
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,3.96,261443017,,,Participaciones Accionarias Argentina,77
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,3.41,225131487,,,Participaciones Accionarias Argentina,117
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,3.24,213907923,,,Participaciones Accionarias Argentina,129
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,3.21,211927294,,,Titulos de Deuda en Peso Argentina,80
+e,ON Tarj Naranja C67 S1,ON,Tarj Naranja,ARS,2.42,159770733,,,Titulos de Deuda en Peso Argentina,40
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,2.39,157790104,,,Participaciones Accionarias Argentina,77
+e,FCI BM Smart Money Market - Clase B,FCI,BM Smart Money Market,,1.83,120818364,,,Certificados de Participacion Argentina,34
+p,Galileo Renta,Delta,RM y Otros ARS,26.9532,0.2854,7,,,,
+p,Novus Liquidez Plus,Novus,T+1,25.7115,0.3363,4,,,,
+p,BAVSA Global III,BAVSA,RF MULT Disc,24.8924,0.3569,3,,,,
+p,Argenfunds Ahorro Pesos,Argenfunds,T+1,24.6466,0.2739,4,,,,
+p,CMA Proteccion,Capital Mark..,T+1,24.431,0.335,5,,,,
+p,Axis Capital 1,Axis,RF MULT Disc,24.07,0.3788,4,,,,
+p,Max Retorno Total Pesos IV,Max Capital,RF ARS Disc,23.8419,0.4212,3,,,,
+p,Max Ahorro Pesos,Max Capital,T+1,23.8419,0.3176,3,,,,

@@ -1,0 +1,84 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Adcap Balanceado XIII,,,,,,,,
+m,gerente,Adcap Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,29521347808,,,,,,,,
+m,aum_planilla,29521347808,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63917,,,,,,,,
+m,n_especies,31,,,,,,,,
+m,activos_pn,100.05,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,7.74,,,,,,,,
+m,top5,36.38,,,,,,,,
+m,top10,58.14,,,,,,,,
+m,hhi_especies,469.5628,,,,,,,,
+m,n_emisores,23,,,,,,,,
+m,emisor_top,Arcor,,,,,,,,
+m,emisor_top_pct,14.54,,,,,,,,
+m,hhi_emisores,825.4606,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,92.01,27,,,,,,,
+t,Plazo fijo,4.43,1,,,,,,,
+t,Subsoberano,3.35,2,,,,,,,
+t,FCI,0.27,1,,,,,,,
+c,ARS,99.79,,,,,,,,
+c,sin dato,0.27,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,95.34,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,4.43,,,,,,,,
+r,Certificados de Participacion Argentina,0.27,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.05,,,,,,,,
+e,ON ICBC Clase 7 170627,ON,ICBC,ARS,7.74,2284952320,,,Titulos de Deuda en Peso Argentina,23
+e,ON Banco de Galicia 32 BYY1O,ON,Banco de Galicia,ARS,7.28,2149154120,,,Titulos de Deuda en Peso Argentina,44
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,7.25,2140297716,,,Titulos de Deuda en Peso Argentina,61
+e,ON Arcor C3,ON,Arcor,ARS,7.07,2087159290,,,Titulos de Deuda en Peso Argentina,35
+e,ON Tarj Naranja C68 S1,ON,Tarj Naranja,ARS,7.04,2078302886,,,Titulos de Deuda en Peso Argentina,17
+e,ON BBVA Frances Cl 47,ON,BBVA Frances,ARS,6.25,1845084238,,,Titulos de Deuda en Peso Argentina,45
+e,Pzo Fi $ Bco Mariva,Plazo fijo,Banco Mariva,ARS,4.43,1307795708,,,Operaciones a Plazo en Peso Argentina,32
+e,ON Arcor C4,ON,Arcor,ARS,3.9,1151332565,,,Titulos de Deuda en Peso Argentina,28
+e,ON Tarj Naranja C67 S1,ON,Tarj Naranja,ARS,3.61,1065720656,,,Titulos de Deuda en Peso Argentina,40
+e,ON Arcor C6,ON,Arcor,ARS,3.57,1053912117,,,Titulos de Deuda en Peso Argentina,31
+e,ON Volkswagen Financial Services C15,ON,Volkswagen Financial Services,ARS,3.52,1039151443,,,Titulos de Deuda en Peso Argentina,19
+e,ON Banco Comafi C22,ON,Banco Comafi,ARS,3.28,968300208,,,Titulos de Deuda en Peso Argentina,30
+e,ON Grupo ST C18,ON,Grupo ST,ARS,3.21,947635265,,,Titulos de Deuda en Peso Argentina,14
+e,ON ICBC Clase 8 280827,ON,ICBC,ARS,3.03,894496839,,,Titulos de Deuda en Peso Argentina,10
+e,ON Payway C1,ON,Payway,ARS,2.82,832502008,,,Titulos de Deuda en Peso Argentina,21
+e,ON Banco Nacion Argentina Clase 4,ON,Banco Nacion Argentina,ARS,2.76,814789199,,,Titulos de Deuda en Peso Argentina,22
+e,ON NewSan Clase 23,ON,NewSan,ARS,2.75,811837065,,,Titulos de Deuda en Peso Argentina,13
+e,ON BBVA Frances Cl 41,ON,BBVA Frances,ARS,2.5,738033695,,,Titulos de Deuda en Peso Argentina,18
+e,ON ICBC Clase 5 110327,ON,ICBC,ARS,2.48,732129426,,,Titulos de Deuda en Peso Argentina,36
+e,ON PSA Serie 35,ON,PSA,ARS,2.14,631756843,,,Titulos de Deuda en Peso Argentina,20
+e,ON BACS Clase 20,ON,BACS,ARS,2,590426956,,,Titulos de Deuda en Peso Argentina,18
+e,ON Gpat Cia. Financ. 39 A,ON,Gpat Cia. Financ,ARS,1.92,566809878,,,Titulos de Deuda en Peso Argentina,17
+e,Bono Muni Cordoba S2 13022027,Subsoberano,Muni. Cordoba,ARS,1.91,563857743,,,Titulos de Deuda en Peso Argentina,29
+e,ON Mercado Pago C6,ON,Mercado Pago,ARS,1.8,531384261,,,Titulos de Deuda en Peso Argentina,19
+e,ON FCA Comp. Finac CL 22 S3,ON,FCA Comp. Finac,ARS,1.44,425107408,,,Titulos de Deuda en Peso Argentina,12
+e,ON Toyota Clase 34,ON,Toyota,ARS,1.44,425107408,,,Titulos de Deuda en Peso Argentina,22
+e,Bonos de Infra.Vial Prov. de Santa Fe,Subsoberano,Prov. Santa Fe,ARS,1.44,425107408,,,Titulos de Deuda en Peso Argentina,21
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,1.12,330639095,,,Titulos de Deuda en Peso Argentina,52
+e,FCI SBS Ahorro Pesos Cl B,FCI,SBS Ahorro Pesos Cl B,,0.27,79707639,,,Certificados de Participacion Argentina,46
+e,ON GEMSA 15 GMCGO,ON,GEMSA,ARS,0.06,17712809,,,Titulos de Deuda en Peso Argentina,6
+e,ON GEMSA 18,ON,GEMSA,ARS,0.03,8856404,,,Titulos de Deuda en Peso Argentina,9
+p,Premier Renta Plus en Pesos,Supervielle,RF MULT Corp,42.3206,0.4776,11,,,,
+p,GSS II,Grupo SS,RF ARS Disc,39.5753,0.4944,13,,,,
+p,GMC Retorno Total IV,GMC,RM y Otros ARS,32.9467,0.4639,6,,,,
+p,Toronto Trust Balanceado,Investis,RF ARS Disc,32.1128,0.4988,13,,,,
+p,Champaquí Ahorro Pesos,Bancor,T+1,27.0987,0.2696,10,,,,
+p,Pionero Renta Ahorro,Macro,T+1,25.8083,0.26,13,,,,
+p,Delta Ahorro,Delta,T+1,24.0197,0.3452,22,,,,
+p,GSS I,Grupo SS,RF ARS Disc,22.2888,0.2353,6,,,,

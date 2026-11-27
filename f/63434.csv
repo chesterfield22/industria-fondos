@@ -1,0 +1,71 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Delta Latinoamerica,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,RV Global,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Latinoamerica,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5809264881,,,,,,,,
+m,aum_planilla,5809264881,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63434,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,101.37,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.81,,,,,,,,
+m,top1,17.85,,,,,,,,
+m,top5,64.65,,,,,,,,
+m,top10,88.74,,,,,,,,
+m,hhi_especies,1076.3885,,,,,,,,
+m,n_emisores,17,,,,,,,,
+m,emisor_top,Itau Unibanco Holdings,,,,,,,,
+m,emisor_top_pct,17.85,,,,,,,,
+m,hhi_emisores,1076.3885,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Cedear,96.09,15,,,,,,,
+t,FCI,3.49,1,,,,,,,
+t,Acción,0.97,1,,,,,,,
+c,ARS,96.09,,,,,,,,
+c,sin dato,4.46,,,,,,,,
+r,Disponibilidades,0.81,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,0.01,,,,,,,,
+r,Participaciones Accionarias Argentina,96.09,,,,,,,,
+r,Participaciones Accionarias Brasil,0.97,,,,,,,,
+r,Participaciones Accionarias Chile,,,,,,,,,
+r,Certificados de Participacion Argentina,3.49,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.37,,,,,,,,
+e,Cedear Itau Unibanco Holdings,Cedear,Itau Unibanco Holdings,ARS,17.85,1036953781,,,Participaciones Accionarias Argentina,10
+e,Cedear Petroleo Brasilero,Cedear,Petroleo Brasilero,ARS,16.83,977699280,,,Participaciones Accionarias Argentina,8
+e,Cedear Vale R Doce ON N1,Cedear,Vale R Doce ON N1,ARS,13.34,774955935,,,Participaciones Accionarias Argentina,7
+e,Cedear Weg 1,Cedear,Weg 1,ARS,9.14,530966810,,,Participaciones Accionarias Argentina,4
+e,Cedear Sabesp ON,Cedear,Sabesp ON,ARS,7.49,435113940,,,Participaciones Accionarias Argentina,5
+e,Cedear Banco BTG Pactual,Cedear,Banco BTG Pactual,ARS,7.25,421171704,,,Participaciones Accionarias Argentina,5
+e,Cedear Suzano Papel ON N1,Cedear,Suzano Papel ON N1,ARS,5.75,334032731,,,Participaciones Accionarias Argentina,3
+e,Cedear Localiza ON NM,Cedear,Localiza ON NM,ARS,3.97,230627816,,,Participaciones Accionarias Argentina,4
+e,Cedear Lojas Renner ON,Cedear,Lojas Renner ON,ARS,3.57,207390756,,,Participaciones Accionarias Argentina,4
+e,Cedear Ambev Ord,Cedear,Ambev Ord,ARS,3.55,206228903,,,Participaciones Accionarias Argentina,5
+e,FCI Gainvest Pesos - Clase B,FCI,Gainvest Pesos,,3.49,202743344,,,Certificados de Participacion Argentina,36
+e,Cedear Banco Bradesco ON N1,Cedear,Banco Bradesco ON N1,ARS,3.26,189382035,,,Participaciones Accionarias Argentina,8
+e,Cedear Petro Rio,Cedear,Petro Rio,ARS,1.97,114442518,,,Participaciones Accionarias Argentina,3
+e,Cedear Telefonica Brasil ON,Cedear,Telefonica Brasil ON,ARS,1.49,86558047,,,Participaciones Accionarias Argentina,3
+e,Banco do Brasil S.A.,Acción,Banco do Brasil,,0.97,56349869,,,Participaciones Accionarias Brasil,9
+e,Cedear Tim Participacoes S.A.,Cedear,Tim Participacoes S.A.,ARS,0.58,33693736,,,Participaciones Accionarias Argentina,4
+e,Cedear Natura Co Holging S.A.,Cedear,Natura Co Holging S.A.,ARS,0.05,2904632,,,Participaciones Accionarias Argentina,3
+p,Compass Renta Mixta II,Investis,RV Global,68.4705,0.8575,16,,,,
+p,Allaria Equity Selection,Allaria,RV Global,60.6292,0.7661,12,,,,
+p,SBS Acciones Brasil,SBS,RV Global,52.4379,0.7026,10,,,,
+p,FBA Acciones Latinoamericanas,BBVA,RV Global,50.9995,0.7488,4,,,,
+p,Pionero Acciones Plus,Macro,RV ARG Otros,45.4398,0.6588,7,,,,
+p,Cocos Renta Dólar,Cocos,RM y Otros USD,32.7446,0.2939,3,,,,
+p,Benedit Multiestrategia,Axis,RM y Otros ARS,24.9126,0.3705,5,,,,
+p,Balanz Latam Selection,Balanz,RV Global,7.4988,0.0584,2,,,,

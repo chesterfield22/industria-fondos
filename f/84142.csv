@@ -1,0 +1,85 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Balanz Latam Selection,,,,,,,,
+m,gerente,Balanz S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,RV Global,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,6230345032,,,,,,,,
+m,aum_planilla,6230345032,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/84142,,,,,,,,
+m,n_especies,34,,,,,,,,
+m,activos_pn,100.09,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,6.17,,,,,,,,
+m,top5,29.9,,,,,,,,
+m,top10,57.06,,,,,,,,
+m,hhi_especies,457.5627,,,,,,,,
+m,n_emisores,34,,,,,,,,
+m,emisor_top,Embraer S.A.,,,,,,,,
+m,emisor_top_pct,6.17,,,,,,,,
+m,hhi_emisores,457.5627,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Cedear,99.2,33,,,,,,,
+t,FCI,0.89,1,,,,,,,
+c,ARS,99.2,,,,,,,,
+c,sin dato,0.89,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Participaciones Accionarias Argentina,91.1,,,,,,,,
+r,Participaciones Accionarias Brasil,8.1,,,,,,,,
+r,Certificados de Participacion Argentina,0.89,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.09,,,,,,,,
+e,Cedear Embraer S.A.,Cedear,Embraer S.A.,ARS,6.17,384412288,,,Participaciones Accionarias Argentina,1
+e,Cedear ADR Tim Participacoes,Cedear,ADR Tim Participacoes,ARS,6.02,375066771,,,Participaciones Accionarias Argentina,3
+e,Cedear Ambev,Cedear,Ambev,ARS,6.02,375066771,,,Participaciones Accionarias Argentina,1
+e,Cedear Telefonica Brasil,Cedear,Telefonica Brasil,ARS,5.95,370705529,,,Participaciones Accionarias Argentina,1
+e,Cedear ADR Itau Unibanco Holding,Cedear,ADR Itau Unibanco Holding,ARS,5.74,357621805,,,Participaciones Accionarias Argentina,8
+e,Cedear Lojas Renner ON,Cedear,Lojas Renner ON,ARS,5.68,353883598,,,Participaciones Accionarias Argentina,4
+e,Cedear Petrobras,Cedear,Petrobras,ARS,5.6,348899322,,,Participaciones Accionarias Argentina,10
+e,Cedear ADR Gerdau,Cedear,ADR Gerdau,ARS,5.54,345161115,,,Participaciones Accionarias Argentina,2
+e,Cedear Localiza ON NM,Cedear,Localiza ON NM,ARS,5.21,324600976,,,Participaciones Accionarias Argentina,4
+e,Cedear Companhia Paranaense de Energia-Copel,Cedear,Companhia Paranaense de Energia-Copel,ARS,5.13,319616700,,,Participaciones Accionarias Argentina,1
+e,Cedear Banco Stder Brasil,Cedear,Banco Stder Brasil,ARS,5.13,319616700,,,Participaciones Accionarias Argentina,1
+e,Cedear Ultrapar,Cedear,Ultrapar,ARS,4.66,290334078,,,Participaciones Accionarias Argentina,1
+e,Cedear XP Inc.,Cedear,XP Inc.,ARS,4.64,289088009,,,Participaciones Accionarias Brasil,4
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,4.21,262297526,,,Participaciones Accionarias Argentina,38
+e,Cedear Stoneco LTD,Cedear,Stoneco LTD,ARS,3.46,215569938,,,Participaciones Accionarias Brasil,1
+e,Cedear Banco Bradesco,Cedear,Banco Bradesco,ARS,3.36,209339593,,,Participaciones Accionarias Argentina,10
+e,Cedear Magazine Luisa,Cedear,Magazine Luisa,ARS,2.65,165104143,,,Participaciones Accionarias Argentina,2
+e,Cedear Embot Andina,Cedear,Embot Andina,ARS,1.09,67910761,,,Participaciones Accionarias Argentina,1
+e,Cedear Wal Mart,Cedear,Wal Mart,ARS,1.06,66041657,,,Participaciones Accionarias Argentina,3
+e,Cedear Procter y Gamble,Cedear,Procter y Gamble,ARS,0.99,61680416,,,Participaciones Accionarias Argentina,6
+e,Cedear S&P Global Inc,Cedear,S&P Global Inc,ARS,0.99,61680416,,,Participaciones Accionarias Argentina,1
+e,Cedear The Coca Cola,Cedear,The Coca Cola,ARS,0.93,57942209,,,Participaciones Accionarias Argentina,12
+e,Cedear Nextera Inc.,Cedear,Nextera Inc.,ARS,0.89,55450071,,,Participaciones Accionarias Argentina,1
+e,FCI Max Money Market - Clase B,FCI,Max Money Market,,0.89,55450071,,,Certificados de Participacion Argentina,12
+e,Cedear Exxon,Cedear,Exxon,ARS,0.87,54204002,,,Participaciones Accionarias Argentina,4
+e,Cedear Mc Donalds,Cedear,Mc Donalds,ARS,0.87,54204002,,,Participaciones Accionarias Argentina,6
+e,Cedear Chevron,Cedear,Chevron,ARS,0.86,53580967,,,Participaciones Accionarias Argentina,5
+e,Cedear Pepsico,Cedear,Pepsico,ARS,0.86,53580967,,,Participaciones Accionarias Argentina,2
+e,Cedear IBM Corp,Cedear,IBM Corp,ARS,0.84,52334898,,,Participaciones Accionarias Argentina,2
+e,Cedear Target Corp,Cedear,Target Corp,ARS,0.83,51711864,,,Participaciones Accionarias Argentina,2
+e,Cedear Realty Income,Cedear,Realty Income,ARS,0.81,50465795,,,Participaciones Accionarias Argentina,1
+e,Cedear Johnson y Johnson,Cedear,Johnson y Johnson,ARS,0.79,49219726,,,Participaciones Accionarias Argentina,6
+e,Cedear Abbott Labor,Cedear,Abbott Labor,ARS,0.77,47973657,,,Participaciones Accionarias Argentina,1
+e,Cedear Caterpillar,Cedear,Caterpillar,ARS,0.58,36136001,,,Participaciones Accionarias Argentina,5
+p,Allaria Equity Selection,Allaria,RV Global,13.7978,0.1469,4,,,,
+p,Cocos Renta Dólar,Cocos,RM y Otros USD,9.9411,0.1829,2,,,,
+p,BAVSA Renta Balanceado VII,BAVSA,RF MULT Disc,9.0404,0.1097,2,,,,
+p,SBS Tavelli Plus,SBS,RV ARG Otros,8.9519,0.132,2,,,,
+p,SF Value,Delta,RV ARG Otros,8.8556,0.0803,2,,,,
+p,Delta Latinoamerica,Delta,RV Global,7.4988,0.0584,2,,,,
+p,Novus Renta Mixta,Novus,RM y Otros ARS,6.7465,0.0404,3,,,,
+p,Axis Estrategia 17,Axis,RM y Otros ARS,5.7288,0.0718,2,,,,

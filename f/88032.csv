@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Compass Renta Mixta VII,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Latinoamerica,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,3362539782,,,,,,,,
+m,aum_planilla,3362539782,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88032,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,100.03,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.02,,,,,,,,
+m,top1,15.3,,,,,,,,
+m,top5,61.3,,,,,,,,
+m,top10,91.28,,,,,,,,
+m,hhi_especies,977.1014,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,21.17,,,,,,,,
+m,hhi_emisores,878.5376,,,,,,,,
+m,sin_emisor_pct,44.58,,,,,,,,
+t,Cheque,44.58,6,,,,,,,
+t,ON,33.94,3,,,,,,,
+t,Soberano,21.17,5,,,,,,,
+t,FCI,0.33,1,,,,,,,
+c,ARS,99.69,,,,,,,,
+c,sin dato,0.33,,,,,,,,
+r,Disponibilidades,0.02,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.68,,,,,,,,
+r,Certificados de Participacion Argentina,0.33,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.03,,,,,,,,
+e,ON Banco Prov Clase 7,ON,Banco Provincia,ARS,15.3,514468587,,,Titulos de Deuda en Peso Argentina,16
+e,ON Tarj Naranja C67 S1,ON,Tarj Naranja,ARS,12.67,426033790,,,Titulos de Deuda en Peso Argentina,40
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,12.23,411238615,,,Titulos de Deuda en Peso Argentina,136
+e,Cheque #MAV050770011,Cheque,,ARS,11.68,392744647,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV080580003,Cheque,,ARS,9.42,316751247,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV290970010,Cheque,,ARS,7.23,243111626,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV101170004,Cheque,,ARS,6.97,234369023,,,Titulos de Deuda en Peso Argentina,1
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,5.97,200743625,,,Titulos de Deuda en Peso Argentina,61
+e,Cheque #MAV080580002,Cheque,,ARS,5.25,176533339,,,Titulos de Deuda en Peso Argentina,1
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,4.56,153331814,,,Titulos de Deuda en Peso Argentina,250
+e,Cheque #MAV200180007,Cheque,,ARS,4.03,135510353,,,Titulos de Deuda en Peso Argentina,1
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,1.65,55481906,,,Titulos de Deuda en Peso Argentina,149
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,1.59,53464383,,,Titulos de Deuda en Peso Argentina,61
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,1.14,38332954,,,Titulos de Deuda en Peso Argentina,166
+e,FCI Parakeet Pesos - Clase B,FCI,Parakeet Pesos,,0.33,11096381,,,Certificados de Participacion Argentina,8
+p,GMC Retorno Total VI,GMC,RM y Otros ARS,31.0091,0.4444,7,,,,
+p,Adcap Balanceado X,Adcap,RF ARS Disc,22.1056,0.3287,6,,,,
+p,GSS II,Grupo SS,RF ARS Disc,20.8511,0.2971,4,,,,
+p,Toronto Trust Renta Fija,Investis,T+1,20.0634,0.3208,7,,,,
+p,SBS Desarrollo Infraestructura II,SBS,INFRA,18.4363,0.1877,3,,,,
+p,Toronto Trust Retorno Total,Investis,RF ARS CER,18.3763,0.3474,3,,,,
+p,Bull Market Ahorro Balanceado III,Bull Market,RF ARS CER,18.3763,0.297,3,,,,
+p,Argenfunds Renta Dinamica,Argenfunds,RF MULT Disc,18.0963,0.2218,4,,,,

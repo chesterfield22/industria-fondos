@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Delta Federal I,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,10189234949,,,,,,,,
+m,aum_planilla,10189234949,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63557,,,,,,,,
+m,n_especies,16,,,,,,,,
+m,activos_pn,100.12,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.66,,,,,,,,
+m,top1,24.3,,,,,,,,
+m,top5,68.84,,,,,,,,
+m,top10,89.92,,,,,,,,
+m,hhi_especies,1297.0014,,,,,,,,
+m,n_emisores,9,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,34.12,,,,,,,,
+m,hhi_emisores,2640.603,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Subsoberano,65.18,11,,,,,,,
+t,Soberano,34.12,4,,,,,,,
+t,FCI,0.16,1,,,,,,,
+c,ARS,99.3,,,,,,,,
+c,sin dato,0.16,,,,,,,,
+r,Disponibilidades,0.66,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.3,,,,,,,,
+r,Certificados de Participacion Argentina,0.16,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.12,,,,,,,,
+e,Boncer Mendoza C1,Soberano,Tesoro Nacional,ARS,24.3,2475984093,,,Titulos de Deuda en Peso Argentina,49
+e,Bono Prov Cordoba Clase 4,Subsoberano,Prov. Cordoba,ARS,18.08,1842213679,,,Titulos de Deuda en Peso Argentina,37
+e,Bonos de Infra.Vial Prov. de Santa Fe,Subsoberano,Prov. Santa Fe,ARS,13.36,1361281789,,,Titulos de Deuda en Peso Argentina,21
+e,Bono Prov Cordoba Clase 6,Subsoberano,Prov. Cordoba,ARS,6.87,700000441,,,Titulos de Deuda en Peso Argentina,36
+e,Bono Prov San Juan SJO35,Subsoberano,Prov. San Juan,ARS,6.23,634789337,,,Titulos de Deuda en Peso Argentina,33
+e,Bono Prov Santa Fe 8.1% 111234,Subsoberano,Prov. Santa Fe,ARS,5.45,555313305,,,Titulos de Deuda en Peso Argentina,37
+e,Bono Prov Cordoba Clase 5,Subsoberano,Prov. Cordoba,ARS,5.12,521688829,,,Titulos de Deuda en Peso Argentina,19
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,3.78,385153081,,,Titulos de Deuda en Peso Argentina,84
+e,Bono Boncer TZXD8,Soberano,Tesoro Nacional,ARS,3.49,355604300,,,Titulos de Deuda en Peso Argentina,26
+e,Bono Muni Cordoba S1 01102027,Subsoberano,Muni. Cordoba,ARS,3.24,330131212,,,Titulos de Deuda en Peso Argentina,7
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,2.55,259825491,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Prov Cordoba 2029 CO27D,Subsoberano,Prov. Cordoba,ARS,2.55,259825491,,,Titulos de Deuda en Peso Argentina,15
+e,Letra Entre Rios ERE27,Subsoberano,Prov. Entre Rios,ARS,2.5,254730874,,,Titulos de Deuda en Peso Argentina,11
+e,Bono Neuquen 2030,Subsoberano,Prov. Neuquen,ARS,1.72,175254841,,,Titulos de Deuda en Peso Argentina,4
+e,FCI Pionero Pesos Plus - Clase B,FCI,Pionero Pesos Plus,,0.16,16302776,,,Certificados de Participacion Argentina,40
+e,Bono Prov Mendoza 2029,Subsoberano,Prov. Mendoza,ARS,0.06,6113541,,,Titulos de Deuda en Peso Argentina,16
+p,Compass Renta Fija IV,Investis,RF MULT Disc,39.1145,0.5442,9,,,,
+p,Fima Infraestructura II,Galicia,INFRA,30.2282,0.4652,2,,,,
+p,MEGAQM Provincial,MegaQM,T+1,23.5462,0.371,4,,,,
+p,Adcap Desarrollo e Infraestructura,Adcap,INFRA,22.6614,0.3714,3,,,,
+p,SBS Desarrollo Infraestructura II,SBS,INFRA,22.1395,0.3715,2,,,,
+p,Delta Ahorro Plus,Delta,T+1,21.6214,0.2348,7,,,,
+p,Delta Retorno Real,Delta,RF ARS CER,20.2769,0.2958,4,,,,
+p,1822 Raices Inversion,Provinfondos,RF ARS CER,19.8993,0.2771,6,,,,

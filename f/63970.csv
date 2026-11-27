@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Alamerica Renta Fija Argentina,,,,,,,,
+m,gerente,Allaria Fondos Administrados S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,6316340847,,,,,,,,
+m,aum_planilla,6316340847,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63970,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,100.03,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,18.37,,,,,,,,
+m,top5,58.06,,,,,,,,
+m,top10,85.02,,,,,,,,
+m,hhi_especies,965.3036,,,,,,,,
+m,n_emisores,2,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,93.89,,,,,,,,
+m,hhi_emisores,8852.909,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,93.89,14,,,,,,,
+t,FCI,6.13,1,,,,,,,
+c,ARS,93.89,,,,,,,,
+c,sin dato,6.13,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,93.9,,,,,,,,
+r,Certificados de Participacion Argentina,6.13,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.03,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,18.37,1160311814,,,Titulos de Deuda en Peso Argentina,250
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,13.84,874181573,,,Titulos de Deuda en Peso Argentina,103
+e,Bono del Tesoro Nacional TZV27,Soberano,Tesoro Nacional,ARS,11.23,709325077,,,Titulos de Deuda en Peso Argentina,21
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,8.12,512886877,,,Titulos de Deuda en Peso Argentina,159
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,6.5,410562155,,,Titulos de Deuda en Peso Argentina,166
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,6.4,404245814,,,Titulos de Deuda en Peso Argentina,51
+e,FCI Schroder Liquidez - Clase B,FCI,Schroder Liquidez,,6.13,387191694,,,Certificados de Participacion Argentina,44
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,5.06,319606847,,,Titulos de Deuda en Peso Argentina,160
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,4.69,296236386,,,Titulos de Deuda en Peso Argentina,80
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,4.68,295604752,,,Titulos de Deuda en Peso Argentina,112
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,4.61,291183313,,,Titulos de Deuda en Peso Argentina,149
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,4.61,291183313,,,Titulos de Deuda en Peso Argentina,142
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,2.39,150960546,,,Titulos de Deuda en Peso Argentina,128
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,1.73,109272697,,,Titulos de Deuda en Peso Argentina,74
+e,Bono CER TZX27,Soberano,Tesoro Nacional,ARS,1.66,104851258,,,Titulos de Deuda en Peso Argentina,43
+p,1810 Renta Fija Argentina,Proahorro,RF MULT Disc,51.4087,0.7382,6,,,,
+p,Adcap Moneda,Adcap,RF USD Linked,47.2834,0.653,6,,,,
+p,Lombard Ahorro Plus,Patagonia,RF USD Linked,43.4313,0.6541,3,,,,
+p,MEGAQM Performance II,MegaQM,MM ARS Clásico,40.3219,0.7014,3,,,,
+p,Super Bonos,Santander,RF USD Linked,39.847,0.6489,5,,,,
+p,Adcap Balanceado IV,Adcap,RF USD Linked,39.6935,0.6241,3,,,,
+p,Megainver Renta Global,MegaQM,T+1,38.5845,0.5414,3,,,,
+p,Blacktoro Cobertura,BlackToro,RF USD Linked,38.3323,0.5749,3,,,,

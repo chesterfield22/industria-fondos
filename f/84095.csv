@@ -1,0 +1,71 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Ualintec Renta Variable Pesos,,,,,,,,
+m,gerente,Ualá Fondos S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,RV ARG Rofex 20,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,967589221,,,,,,,,
+m,aum_planilla,967589221,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/84095,,,,,,,,
+m,n_especies,20,,,,,,,,
+m,activos_pn,102.08,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.06,,,,,,,,
+m,top1,17.56,,,,,,,,
+m,top5,60.56,,,,,,,,
+m,top10,81.93,,,,,,,,
+m,hhi_especies,932.4046,,,,,,,,
+m,n_emisores,20,,,,,,,,
+m,emisor_top,Grupo Financiero Galicia,,,,,,,,
+m,emisor_top_pct,17.56,,,,,,,,
+m,hhi_emisores,932.4046,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,86.2,17,,,,,,,
+t,Cedear,14.33,2,,,,,,,
+t,FCI,1.49,1,,,,,,,
+c,ARS,100.53,,,,,,,,
+c,sin dato,1.49,,,,,,,,
+r,Disponibilidades,0.06,,,,,,,,
+r,Participaciones Accionarias Argentina,100.53,,,,,,,,
+r,Certificados de Participacion Argentina,1.49,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),2.08,,,,,,,,
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,17.56,169908667,,,Participaciones Accionarias Argentina,117
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,13.26,128302331,,,Participaciones Accionarias Argentina,129
+e,YPF S.A.,Acción,YPF,ARS,12.71,122980590,,,Participaciones Accionarias Argentina,122
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,9.93,96081610,,,Participaciones Accionarias Argentina,50
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,7.1,68698835,,,Participaciones Accionarias Argentina,93
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,5.11,49443809,,,Participaciones Accionarias Argentina,104
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,4.51,43638274,,,Participaciones Accionarias Argentina,104
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,4.4,42573926,,,Participaciones Accionarias Argentina,52
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,3.72,35994319,,,Participaciones Accionarias Argentina,86
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,3.63,35123489,,,Participaciones Accionarias Argentina,85
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,3.33,32220721,,,Participaciones Accionarias Argentina,83
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,3.05,29511471,,,Participaciones Accionarias Argentina,77
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,2.46,23802695,,,Participaciones Accionarias Argentina,77
+e,Grupo Supervielle S.A.,Acción,Grupo Supervielle,ARS,1.96,18964749,,,Participaciones Accionarias Argentina,64
+e,Metrogas S.A.,Acción,Metrogas,ARS,1.84,17803642,,,Participaciones Accionarias Argentina,54
+e,Transener S.A.,Acción,Transener,ARS,1.64,15868463,,,Participaciones Accionarias Argentina,84
+e,Aluar Aluminio Argentino S.A.I.C.,Acción,Aluar Aluminio Argentino S.A.I.C,ARS,1.59,15384669,,,Participaciones Accionarias Argentina,56
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,1.49,14417079,,,Certificados de Participacion Argentina,93
+e,Telecom Argentina S.A.,Acción,Telecom Argentina,ARS,1.4,13546249,,,Participaciones Accionarias Argentina,43
+e,Transportadora de Gas del Norte S.A.,Acción,Transportadora de Gas del Norte,ARS,1.33,12868937,,,Participaciones Accionarias Argentina,70
+p,1810 Renta Variable Argentina,Proahorro,RV ARG Merval,83.0627,0.9482,18,,,,
+p,Champaquí Renta Variable,Bancor,RV ARG Rofex 20,81.9242,0.9217,18,,,,
+p,Argenfunds Renta Variable,Argenfunds,RV ARG Rofex 20,81.7655,0.9165,17,,,,
+p,MP Empresas Argentinas,Mercado Pago,RV ARG Rofex 20,81.0673,0.9107,17,,,,
+p,Novus Renta Variable,Novus,RV ARG Merval,79.5334,0.9231,17,,,,
+p,Alpha Acciones,ICBC,RV ARG Merval,79.162,0.9085,17,,,,
+p,Allaria Acciones,Allaria,RV ARG Merval,78.9912,0.9186,17,,,,
+p,Premier Renta Variable,Supervielle,RV ARG Merval,78.5508,0.9194,17,,,,

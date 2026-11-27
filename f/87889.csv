@@ -1,0 +1,83 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Parakeet Dólar Estructurado,,,,,,,,
+m,gerente,Parakeet S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,3058745,,,,,,,,
+m,aum_planilla,3058745,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87889,,,,,,,,
+m,n_especies,33,,,,,,,,
+m,activos_pn,100.1,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.17,,,,,,,,
+m,top1,18.85,,,,,,,,
+m,top5,57.52,,,,,,,,
+m,top10,73.87,,,,,,,,
+m,hhi_especies,858.3949,,,,,,,,
+m,n_emisores,6,,,,,,,,
+m,emisor_top,Banco Macro,,,,,,,,
+m,emisor_top_pct,18.85,,,,,,,,
+m,hhi_emisores,882.1061,,,,,,,,
+m,sin_emisor_pct,30.02,,,,,,,,
+t,ON,55.21,6,,,,,,,
+t,Pagaré,30.02,26,,,,,,,
+t,FCI,13.72,1,,,,,,,
+c,USD,98.95,,,,,,,,
+r,Disponibilidades,1.17,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,85.21,,,,,,,,
+r,Certificados de Participacion Argentina,13.72,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.1,,,,,,,,
+e,ON Banco Macro Clase G,ON,Banco Macro,USD,18.85,576573.3646,,,Titulos de Deuda en Dolar Estadounidense,32
+e,SBS Liquidez USD - Clase B,FCI,Liquidez USD,USD,13.72,419659.7646,,,Certificados de Participacion Argentina,14
+e,ON Pluspetrol 8.5% 2032 (REGS),ON,Pluspetrol,USD,9.01,275592.8921,,,Titulos de Deuda en Dolar Estadounidense,34
+e,ON Plaza Logistica C5 ZPC5O,ON,Plaza Logistica,USD,8.23,251734.6839,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON Loma Negra C6,ON,Loma Negra,USD,7.71,235829.2117,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON YPF Clase 31,ON,YPF,USD,7.03,215029.7482,,,Titulos de Deuda en Dolar Estadounidense,48
+e,ON YPF Clase 32,ON,YPF,USD,4.38,133973.0152,,,Titulos de Deuda en Dolar Estadounidense,15
+e,Pagare #UCU010370001,Pagaré,,USD,1.68,51386.91,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE091160004,Pagaré,,USD,1.63,49857.5376,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE231160001,Pagaré,,USD,1.63,49857.5376,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE300670001,Pagaré,,USD,1.55,47410.5419,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV240670074,Pagaré,,USD,1.54,47104.6675,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV100670021,Pagaré,,USD,1.54,47104.6675,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV020970010,Pagaré,,USD,1.51,46187.0441,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV151260114,Pagaré,,USD,1.38,42210.676,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV171260021,Pagaré,,USD,1.37,41904.8016,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV221260019,Pagaré,,USD,1.37,41904.8016,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV080570004,Pagaré,,USD,1.31,40069.5548,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV150470086,Pagaré,,USD,1.25,38234.308,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV290470015,Pagaré,,USD,1.25,38234.308,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE040170001,Pagaré,,USD,1.18,36093.1868,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAB120270001,Pagaré,,USD,1.04,31810.9443,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAB160270001,Pagaré,,USD,1.04,31810.9443,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAB200270001,Pagaré,,USD,1.04,31810.9443,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAB240270001,Pagaré,,USD,1.04,31810.9443,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV051160164,Pagaré,,USD,0.82,25081.706,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV091160010,Pagaré,,USD,0.82,25081.706,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV121160009,Pagaré,,USD,0.81,24775.8316,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV120870005,Pagaré,,USD,0.76,23246.4593,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE140770001,Pagaré,,USD,0.62,18964.2168,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE170670001,Pagaré,,USD,0.62,18964.2168,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE180870001,Pagaré,,USD,0.61,18658.3423,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE150970001,Pagaré,,USD,0.61,18658.3423,,,Titulos de Deuda en Dolar Estadounidense,1
+p,Galileo Multi Strategy II,Delta,RF USD corp loc,15.6895,0.1449,2,,,,
+p,Adcap Patrimonio II,Adcap,RF USD Disc,15.274,0.3824,2,,,,
+p,MEGAQM Gestión Dólares I,MegaQM,RF USD GL Inc ARG,14.2972,0.1399,2,,,,
+p,Delta Renta Dolares,Delta,RF USD Disc,13.0742,0.2224,1,,,,
+p,BAVSA Renta Balanceado IX,BAVSA,RV ARG Merval,11.0191,0.2264,2,,,,
+p,Ciclo Nova Renta Fija Dólar,Ciclo Nova,RF USD GL Inc ARG,10.4607,0.2417,1,,,,
+p,Balanz Ahorro en Dólares,Balanz,RF USD corp loc,9.4949,0.1543,3,,,,
+p,Tandem Global II,Tandem Capi..,RM y Otros USD,9.1056,0.1624,1,,,,

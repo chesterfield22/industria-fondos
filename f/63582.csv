@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Consultatio Ahorro Plus Argentina F.C.I.,,,,,,,,
+m,gerente,Consultatio Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Lecap,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,53550932388,,,,,,,,
+m,aum_planilla,53550932388,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63582,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,100.93,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.14,,,,,,,,
+m,top1,28.61,,,,,,,,
+m,top5,86.82,,,,,,,,
+m,top10,99.69,,,,,,,,
+m,hhi_especies,1845.8321,,,,,,,,
+m,n_emisores,7,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,84.65,,,,,,,,
+m,hhi_emisores,7221.6425,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,84.65,5,,,,,,,
+t,Plazo fijo,11.54,3,,,,,,,
+t,FCI,2.95,1,,,,,,,
+t,Fideicomiso financiero,1.1,3,,,,,,,
+t,Subsoberano,0.55,1,,,,,,,
+c,ARS,96.74,,,,,,,,
+c,sin dato,4.05,,,,,,,,
+r,Disponibilidades,0.14,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,85.19,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,11.55,,,,,,,,
+r,Certificados de Participacion Argentina,4.05,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.93,,,,,,,,
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,28.61,15320921756,,,Titulos de Deuda en Peso Argentina,86
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,20.6,11031492072,,,Titulos de Deuda en Peso Argentina,149
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,16.5,8835903844,,,Titulos de Deuda en Peso Argentina,75
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,16.4,8782352912,,,Titulos de Deuda en Peso Argentina,159
+e,Pzo Fi $ Bco Patagonia,Plazo fijo,Banco Patagonia,ARS,4.71,2522248915,,,Operaciones a Plazo en Peso Argentina,42
+e,Pzo Fi $ BNP Paribas,Plazo fijo,BNP Paribas,ARS,3.8,2034935431,,,Operaciones a Plazo en Peso Argentina,2
+e,Pzo Fi $ Bco Supervielle,Plazo fijo,Banco Supervielle,ARS,3.03,1622593251,,,Operaciones a Plazo en Peso Argentina,37
+e,FCI Champaquí Fondo Inmediato - Clase B,FCI,Champaquí Fondo Inmediato,,2.95,1579752505,,,Certificados de Participacion Argentina,10
+e,Bono del Tesoro Nacional TY30P,Soberano,Tesoro Nacional,ARS,2.54,1360193683,,,Titulos de Deuda en Peso Argentina,30
+e,Letra Prov Bs As 171226,Subsoberano,Prov. Buenos Aires,ARS,0.55,294530128,,,Titulos de Deuda en Peso Argentina,10
+e,FF Mercado Credito 47 CA,Fideicomiso financiero,Mercado Credito,,0.54,289175035,,,Certificados de Participacion Argentina,35
+e,FF Mercado Credito 54 CA,Fideicomiso financiero,Mercado Credito,,0.38,203493543,,,Certificados de Participacion Argentina,28
+e,FF Mercado Credito 55 CA,Fideicomiso financiero,Mercado Credito,,0.18,96391678,,,Certificados de Participacion Argentina,30
+p,Consultatio Renta Nacional,Consultatio,T+1,54.9619,0.6746,11,,,,
+p,MP Ahorro,Mercado Pago,T+1,52.1019,0.7247,5,,,,
+p,Max Ahorro Pesos,Max Capital,T+1,47.9885,0.6684,3,,,,
+p,Alpha Renta Fija Serie 6,ICBC,T+1,42.2121,0.5034,2,,,,
+p,Schroder Renta Plus,Schroder,T+1,41.9824,0.5099,3,,,,
+p,ConoSur Ahorro,Cono Sur,T+1,41.3675,0.545,2,,,,
+p,Tango Ahorro Plus,Tango,T+1,41.0613,0.6238,2,,,,
+p,Pionero Patrimonio I,Macro,RF ARS Lecap,40.1159,0.5522,3,,,,

@@ -1,0 +1,62 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Tango Ahorro Plus,,,,,,,,
+m,gerente,Tango Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5187208773,,,,,,,,
+m,aum_planilla,5187208773,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88499,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,100.07,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,26.22,,,,,,,,
+m,top5,79.96,,,,,,,,
+m,top10,98.16,,,,,,,,
+m,hhi_especies,1553.7843,,,,,,,,
+m,n_emisores,3,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,63.82,,,,,,,,
+m,hhi_emisores,4093.1556,,,,,,,,
+m,sin_emisor_pct,30.25,,,,,,,,
+t,Soberano,63.82,5,,,,,,,
+t,Pagaré,30.25,4,,,,,,,
+t,FCI,6,2,,,,,,,
+c,ARS,94.07,,,,,,,,
+c,sin dato,6,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,94.07,,,,,,,,
+r,Certificados de Participacion Argentina,6,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.07,,,,,,,,
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,26.22,1360086140,,,Titulos de Deuda en Peso Argentina,86
+e,Pagare #MAV101260086,Pagaré,,ARS,18.82,976232691,,,Titulos de Deuda en Peso Argentina,1
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,14.87,771337945,,,Titulos de Deuda en Peso Argentina,149
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,12.64,655663189,,,Titulos de Deuda en Peso Argentina,82
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,7.41,384372170,,,Titulos de Deuda en Peso Argentina,166
+e,Pagare #MAV241160071,Pagaré,,ARS,4.76,246911138,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV241160072,Pagaré,,ARS,4.76,246911138,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Ciclo Nova Ahorro - Clase E,FCI,Ciclo Nova Ahorro,,4.04,209563234,,,Certificados de Participacion Argentina,38
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,2.68,139017195,,,Titulos de Deuda en Peso Argentina,112
+e,FCI Unico Liquidez Pesos - Clase B,FCI,Unico Liquidez Pesos,,1.96,101669292,,,Certificados de Participacion Argentina,7
+e,Pagare #MAV171160082,Pagaré,,ARS,1.91,99075688,,,Titulos de Deuda en Peso Argentina,1
+p,Galileo Ahorro,Delta,RF ARS Lecap,47.7913,0.5367,4,,,,
+p,Alpha Renta Fija Serie 6,ICBC,T+1,46.1726,0.5532,3,,,,
+p,Champaquí Renta Plus,Bancor,RF ARS Lecap,41.8892,0.5552,3,,,,
+p,Consultatio Ahorro Plus Argentina F.C.I.,Consultatio,RF ARS Lecap,41.0613,0.6238,2,,,,
+p,Balanz Lecaps,Balanz,RF ARS Lecap,40.7854,0.5463,5,,,,
+p,Pellegrini Renta Fija Publica,Pellegrini,RF ARS Lecap,39.6856,0.4717,5,,,,
+p,Alpha Renta Fija Serie 1,ICBC,RF MULT Disc,39.5733,0.5764,3,,,,
+p,ConoSur Ahorro,Cono Sur,T+1,39.1834,0.5165,2,,,,

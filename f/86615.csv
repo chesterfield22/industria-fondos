@@ -1,0 +1,64 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Balanz Crecimiento FCI Ab para Financ Infra y Econ Real,,,,,,,,
+m,gerente,Balanz S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,INFRA,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,18977636679,,,,,,,,
+m,aum_planilla,18977636679,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86615,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,103.31,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,5.7,,,,,,,,
+m,top1,14.21,,,,,,,,
+m,top5,59.52,,,,,,,,
+m,top10,90.99,,,,,,,,
+m,hhi_especies,954.8984,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Prov. Santa Fe,,,,,,,,
+m,emisor_top_pct,19.86,,,,,,,,
+m,hhi_emisores,1140.7794,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,67.36,9,,,,,,,
+t,Subsoberano,26.64,3,,,,,,,
+t,FCI,3.62,1,,,,,,,
+c,ARS,94,,,,,,,,
+c,sin dato,3.62,,,,,,,,
+r,Disponibilidades,5.7,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,93.99,,,,,,,,
+r,Certificados de Participacion Argentina,3.62,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),3.31,,,,,,,,
+e,ON Pan Amer. Energy C 12,ON,Pan Amer. Energy,ARS,14.21,2696722172,,,Titulos de Deuda en Peso Argentina,34
+e,Bono Prov Santa Fe 8.1% 111234,Subsoberano,Prov. Santa Fe,ARS,12.31,2336147075,,,Titulos de Deuda en Peso Argentina,37
+e,ON Tecpetrol C12,ON,Tecpetrol,ARS,12,2277316401,,,Titulos de Deuda en Peso Argentina,60
+e,ON Aeropuertos 2000 Regs 2031,ON,Aeropuertos,ARS,11.94,2265929819,,,Titulos de Deuda en Peso Argentina,22
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,ARS,9.06,1719373883,,,Titulos de Deuda en Peso Argentina,58
+e,ON Bco Galicia Clase 16,ON,Banco Galicia,ARS,8.86,1681418610,,,Titulos de Deuda en Peso Argentina,23
+e,Bono Prov Santa Fe 2027 SF27D,Subsoberano,Prov. Santa Fe,ARS,7.55,1432811569,,,Titulos de Deuda en Peso Argentina,20
+e,Bono CABA 01062027,Subsoberano,Prov. CABA,ARS,6.78,1286683767,,,Titulos de Deuda en Peso Argentina,7
+e,ON Pampa Energia C25,ON,Pampa Energia,ARS,4.66,884357869,,,Titulos de Deuda en Peso Argentina,19
+e,FCI Schroder Liquidez - Clase B,FCI,Schroder Liquidez,,3.62,686990448,,,Certificados de Participacion Argentina,44
+e,ON Telecom 9.5% 2031,ON,Telecom,ARS,2.77,525680536,,,Titulos de Deuda en Peso Argentina,38
+e,ON Pan American C31,ON,Pan American,ARS,2.76,523782772,,,Titulos de Deuda en Peso Argentina,20
+e,ON TGS C4 Reg S,ON,TGS,ARS,1.1,208754003,,,Titulos de Deuda en Peso Argentina,26
+p,Balanz Desarrollo FCI Ab para Financ Infra y Econ Real,Balanz,INFRA,39.9414,0.6173,4,,,,
+p,Balanz Ahorro en Dólares,Balanz,RF USD corp loc,32.8075,0.4621,8,,,,
+p,Delta Renta Dólares Plus,Delta,RF USD corp loc,27.7933,0.3589,4,,,,
+p,Pionero Ahorro Dólares,Macro,RF USD corp loc,23.561,0.2897,6,,,,
+p,Balanz Capital Estrategia V USD,Balanz,RF USD corp loc,22.8575,0.2967,3,,,,
+p,Consultatio Gestion XI Dolar,Consultatio,RF USD Disc,21.6415,0.2545,7,,,,
+p,Consultatio Multimercado III,Consultatio,RF USD corp loc,21.5268,0.3538,5,,,,
+p,Desarrollo Argentino I FCI Abierto para el Fin. de la Infra. y la Econ. Real,Investis,INFRA,20.8756,0.2406,3,,,,

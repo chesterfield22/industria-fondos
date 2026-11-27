@@ -1,0 +1,82 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,BAVSA Renta Balanceado IX,,,,,,,,
+m,gerente,BAVSA Fondos S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,RV ARG Merval,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,910914844,,,,,,,,
+m,aum_planilla,910914844,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88366,,,,,,,,
+m,n_especies,27,,,,,,,,
+m,activos_pn,100.34,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.15,,,,,,,,
+m,top1,7.28,,,,,,,,
+m,top5,32.57,,,,,,,,
+m,top10,58.98,,,,,,,,
+m,hhi_especies,482.6981,,,,,,,,
+m,n_emisores,25,,,,,,,,
+m,emisor_top,Banco Macro,,,,,,,,
+m,emisor_top_pct,11.47,,,,,,,,
+m,hhi_emisores,596.0345,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,45.81,9,,,,,,,
+t,Cedear,23.6,10,,,,,,,
+t,ON,16.59,3,,,,,,,
+t,Soberano,7.28,1,,,,,,,
+t,ETF,6.91,4,,,,,,,
+c,ARS,82.29,,,,,,,,
+c,USD,10.99,,,,,,,,
+c,sin dato,6.91,,,,,,,,
+r,Disponibilidades,0.15,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,12.89,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,10.98,,,,,,,,
+r,Participaciones Accionarias Argentina,76.32,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.34,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,7.28,66314601,,,Titulos de Deuda en Peso Argentina,250
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,6.82,62124392,,,Participaciones Accionarias Argentina,129
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,6.5,59209465,,,Participaciones Accionarias Argentina,117
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,6.03,54928165,,,Participaciones Accionarias Argentina,93
+e,Cedear Google,Cedear,Google,ARS,5.94,54108342,,,Participaciones Accionarias Argentina,30
+e,ON Loma Negra C6,ON,Loma Negra,ARS,5.6,51011231,,,Titulos de Deuda en Peso Argentina,19
+e,ON YPF Clase 42,ON,YPF,USD,5.55,50555774,,,Titulos de Deuda en Dolar Estadounidense,48
+e,ON Banco Macro Clase G,ON,Banco Macro,USD,5.44,49553768,,,Titulos de Deuda en Dolar Estadounidense,32
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,5.43,49462676,,,Participaciones Accionarias Argentina,86
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,4.39,39989162,,,Participaciones Accionarias Argentina,104
+e,Cresud S.A.,Acción,Cresud,ARS,4.31,39260430,,,Participaciones Accionarias Argentina,38
+e,YPF S.A.,Acción,YPF,ARS,4.3,39169338,,,Participaciones Accionarias Argentina,122
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,4.18,38076240,,,Participaciones Accionarias Argentina,104
+e,Cedear Facebook,Cedear,Facebook,ARS,4.04,36800960,,,Participaciones Accionarias Argentina,18
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,3.85,35070222,,,Participaciones Accionarias Argentina,77
+e,Cedear Nvidia Corp.,Cedear,Nvidia Corp.,ARS,3.14,28602726,,,Participaciones Accionarias Argentina,14
+e,Cedear Caterpillar,Cedear,Caterpillar,ARS,2.51,22863963,,,Participaciones Accionarias Argentina,5
+e,Cedear FCI SPDR Gold Trust,ETF,Cedear FCI SPDR Gold Trust,,2.47,22499597,,,Participaciones Accionarias Argentina,12
+e,Cedear Amazon,Cedear,Amazon,ARS,2.3,20951041,,,Participaciones Accionarias Argentina,17
+e,Cedear Shares MSCI Brazil ETF,ETF,Cedear Shares MSCI Brazil ETF,,2.02,18400480,,,Participaciones Accionarias Argentina,23
+e,Cedear Broadcom Inc,Cedear,Broadcom Inc,ARS,1.87,17034108,,,Participaciones Accionarias Argentina,8
+e,Cedear Consumer Staples Select Sector SPDR Fund,ETF,Cedear Consumer Staples Select Sector SPDR Fund,,1.5,13663723,,,Participaciones Accionarias Argentina,2
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,1.48,13481540,,,Participaciones Accionarias Argentina,50
+e,Cedear Visa,Cedear,Visa,ARS,1.38,12570625,,,Participaciones Accionarias Argentina,7
+e,Cedear iShares Silver Trust,ETF,Cedear iShares Silver Trust,,0.92,8380417,,,Participaciones Accionarias Argentina,7
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,0.88,8016051,,,Participaciones Accionarias Argentina,52
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,0.06,546548.9067,,,Participaciones Accionarias Argentina,38
+p,Delta Internacional,Delta,RV ARG Merval,44.5143,0.5669,13,,,,
+p,MAF Acciones Argentina,Mariva,RV ARG Merval,42.4005,0.6158,11,,,,
+p,IAM Renta Variable,BIND,RV ARG Rofex 20,42.3222,0.6325,9,,,,
+p,Bull Market Acciones Argentinas,Bull Market,RV ARG Merval,42.1627,0.619,11,,,,
+p,Ciclo Nova Value,Ciclo Nova,RV ARG Rofex 20,41.8515,0.6027,12,,,,
+p,Max Acciones Argentinas,Max Capital,RV ARG Merval,41.315,0.6079,9,,,,
+p,Toronto Trust Multimercado,Investis,RV ARG Otros,41.2243,0.6044,9,,,,
+p,Adcap Acciones,Adcap,RV ARG Rofex 20,41.1922,0.5986,9,,,,

@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pellegrini Integral,,,,,,,,
+m,gerente,Pellegrini S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de La Nacion Argentina,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,13427004640,,,,,,,,
+m,aum_planilla,13427004640,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63309,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,100.39,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.42,,,,,,,,
+m,top1,24.23,,,,,,,,
+m,top5,72.46,,,,,,,,
+m,top10,97.04,,,,,,,,
+m,hhi_especies,1354.9274,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,76.51,,,,,,,,
+m,hhi_emisores,6151.1476,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,76.51,8,,,,,,,
+t,Acción,16.72,1,,,,,,,
+t,FCI,5.75,3,,,,,,,
+c,ARS,72.86,,,,,,,,
+c,USD,20.37,,,,,,,,
+c,sin dato,5.75,,,,,,,,
+r,Disponibilidades,1.42,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,56.13,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,20.37,,,,,,,,
+r,Participaciones Accionarias Argentina,16.72,,,,,,,,
+r,Certificados de Participacion Argentina,5.75,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.39,,,,,,,,
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,24.23,3253363224,,,Titulos de Deuda en Peso Argentina,128
+e,YPF S.A.,Acción,YPF,ARS,16.72,2244995176,,,Participaciones Accionarias Argentina,122
+e,Bonos Rep Argentina AL35,Soberano,Tesoro Nacional,USD,14,1879780650,,,Titulos de Deuda en Dolar Estadounidense,31
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,11.14,1495768317,,,Titulos de Deuda en Peso Argentina,67
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,USD,6.37,855300196,,,Titulos de Deuda en Dolar Estadounidense,72
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,6,805620278,,,Titulos de Deuda en Peso Argentina,86
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,5.4,725058251,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,5.29,710288545,,,Titulos de Deuda en Peso Argentina,158
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,4.08,547821789,,,Titulos de Deuda en Peso Argentina,160
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,3.81,511568877,,,Certificados de Participacion Argentina,47
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,1.81,243028784,,,Certificados de Participacion Argentina,96
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.13,17455106,,,Certificados de Participacion Argentina,93
+p,Pellegrini Renta Fija Plus,Pellegrini,RF MULT Disc,39.5112,0.4637,8,,,,
+p,FCIC Inmobiliario Puerto Nizuc,IEB,MM ARS Clásico,37.7073,0.5085,4,,,,
+p,Balanz Performance I,Balanz,RF MULT Disc,35.2799,0.5633,3,,,,
+p,Galileo Multimercado II,Delta,RF ARS CER,35.2489,0.5487,3,,,,
+p,Pellegrini Renta Fija Ahorro,Pellegrini,RF ARS Disc,34.0786,0.466,7,,,,
+p,Balanz Performance XIII,Balanz,RF ARS Disc,32.9345,0.533,4,,,,
+p,Delta Gestion VII,Delta,RM y Otros ARS,32.812,0.6063,3,,,,
+p,Galileo Estrategia,Delta,T+1,32.358,0.3796,4,,,,

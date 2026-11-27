@@ -1,0 +1,104 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pionero FF,,,,,,,,
+m,gerente,Macro Fondos S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,59647863756,,,,,,,,
+m,aum_planilla,59647863756,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63497,,,,,,,,
+m,n_especies,50,,,,,,,,
+m,activos_pn,101.82,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,8.38,,,,,,,,
+m,top1,8.38,,,,,,,,
+m,top5,31.9,,,,,,,,
+m,top10,51.87,,,,,,,,
+m,hhi_especies,386.7998,,,,,,,,
+m,n_emisores,14,,,,,,,,
+m,emisor_top,Mercado Credito,,,,,,,,
+m,emisor_top_pct,19.41,,,,,,,,
+m,hhi_emisores,1291.3791,,,,,,,,
+m,sin_emisor_pct,6.63,,,,,,,,
+t,Fideicomiso financiero,70.66,40,,,,,,,
+t,Plazo fijo,13.17,4,,,,,,,
+t,Caución,8.38,1,,,,,,,
+t,Pagaré,6.63,3,,,,,,,
+t,FCI,2.98,2,,,,,,,
+c,sin dato,72.18,,,,,,,,
+c,ARS,29.64,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,6.62,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,21.56,,,,,,,,
+r,Certificados de Participacion Argentina,73.64,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.82,,,,,,,,
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,8.38,4998490983,,,Operaciones a Plazo en Peso Argentina,73
+e,Pzo Fi $ Bco Galicia,Plazo fijo,Banco Galicia,ARS,6.43,3835357640,,,Operaciones a Plazo en Peso Argentina,67
+e,FF Cuotas Cencosud S62 VDFA,Fideicomiso financiero,Cuotas Cencosud,,6.16,3674308407,,,Certificados de Participacion Argentina,6
+e,FF Cuotas Cencosud S61 VDFA,Fideicomiso financiero,Cuotas Cencosud,,5.87,3501329602,,,Certificados de Participacion Argentina,4
+e,FF Mercado Credito 54 CA,Fideicomiso financiero,Mercado Credito,,5.06,3018181906,,,Certificados de Participacion Argentina,28
+e,FF Consubond S203 Clase A,Fideicomiso financiero,Consubond,,4.89,2916780538,,,Certificados de Participacion Argentina,11
+e,Pzo Fi $ Bco Patagonia,Plazo fijo,Banco Patagonia,ARS,4.54,2708013015,,,Operaciones a Plazo en Peso Argentina,42
+e,FF Mercado Credito 47 CA,Fideicomiso financiero,Mercado Credito,,3.74,2230830104,,,Certificados de Participacion Argentina,35
+e,FF Payway Cobro Acelerado S8 CA,Fideicomiso financiero,Payway Cobro Acelerado,,3.51,2093640018,,,Certificados de Participacion Argentina,8
+e,Pagare #MAV031260087,Pagaré,,ARS,3.29,1962414718,,,Titulos de Deuda en Peso Argentina,1
+e,FF Cuotas Cencosud S60 VDFA,Fideicomiso financiero,Cuotas Cencosud,,3.1,1849083776,,,Certificados de Participacion Argentina,4
+e,FF Consubond S202 Clase A,Fideicomiso financiero,Consubond,,3.05,1819259845,,,Certificados de Participacion Argentina,8
+e,FF Mercado Credito 48 CA,Fideicomiso financiero,Mercado Credito,,2.89,1723823263,,,Certificados de Participacion Argentina,27
+e,FF Mercado Credito 46 CA,Fideicomiso financiero,Mercado Credito,,2.78,1658210612,,,Certificados de Participacion Argentina,28
+e,FF Megabono 359 Clase A,Fideicomiso financiero,Megabono,,2.78,1658210612,,,Certificados de Participacion Argentina,4
+e,FF Megabono 361 Clase A,Fideicomiso financiero,Megabono,,2.77,1652245826,,,Certificados de Participacion Argentina,4
+e,FF Megabono 357 Clase A,Fideicomiso financiero,Megabono,,2.28,1359971294,,,Certificados de Participacion Argentina,6
+e,FF Megabono 347 Clase A,Fideicomiso financiero,Megabono,,2.02,1204886848,,,Certificados de Participacion Argentina,10
+e,FF Megabono 355 Clase A,Fideicomiso financiero,Megabono,,1.95,1163133343,,,Certificados de Participacion Argentina,6
+e,FF Cuotas Cencosud S59 VDFA,Fideicomiso financiero,Cuotas Cencosud,,1.75,1043837616,,,Certificados de Participacion Argentina,5
+e,Pzo Fi $ Bco Comafi,Plazo fijo,Banco Comafi,ARS,1.69,1008048897,,,Operaciones a Plazo en Peso Argentina,14
+e,Pagare #MAV111160073,Pagaré,,ARS,1.67,996119325,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV111160075,Pagaré,,ARS,1.67,996119325,,,Titulos de Deuda en Peso Argentina,1
+e,FF Mercado Credito 55 CA,Fideicomiso financiero,Mercado Credito,,1.65,984189752,,,Certificados de Participacion Argentina,30
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,1.52,906647529,,,Certificados de Participacion Argentina,77
+e,FCI Delta $ - Clase B,FCI,Delta $,ARS,1.46,870858811,,,Certificados de Participacion Argentina,5
+e,FF Megabono 353 Clase A,Fideicomiso financiero,Megabono,,1.45,864894024,,,Certificados de Participacion Argentina,11
+e,FF Megabono 351 Clase A,Fideicomiso financiero,Megabono,,1.45,864894024,,,Certificados de Participacion Argentina,13
+e,FF Mercado Credito 50 CA,Fideicomiso financiero,Mercado Credito,,1.36,811210947,,,Certificados de Participacion Argentina,29
+e,FF Consubond S200 Clase A,Fideicomiso financiero,Consubond,,0.97,578584278,,,Certificados de Participacion Argentina,7
+e,FF Megabono 343 Clase A,Fideicomiso financiero,Megabono,,0.88,524901201,,,Certificados de Participacion Argentina,7
+e,FF Cuotas Cencosud S58 VDFA,Fideicomiso financiero,Cuotas Cencosud,,0.88,524901201,,,Certificados de Participacion Argentina,6
+e,FF Megabono 341 Clase A,Fideicomiso financiero,Megabono,,0.86,512971628,,,Certificados de Participacion Argentina,12
+e,FF Mercado Credito 49 CA,Fideicomiso financiero,Mercado Credito,,0.85,507006842,,,Certificados de Participacion Argentina,25
+e,FF Megabono 345 Clase A,Fideicomiso financiero,Megabono,,0.84,501042056,,,Certificados de Participacion Argentina,14
+e,FF San Cristobal S2 CA,Fideicomiso financiero,San Cristobal,,0.83,495077269,,,Certificados de Participacion Argentina,12
+e,FF Cuotas Cencosud S57 VDFA,Fideicomiso financiero,Cuotas Cencosud,,0.66,393675901,,,Certificados de Participacion Argentina,5
+e,FF Mercado Credito 44 CA,Fideicomiso financiero,Mercado Credito,,0.58,345957610,,,Certificados de Participacion Argentina,26
+e,Pzo Fi $ Bco BBVA,Plazo fijo,Banco BBVA,ARS,0.51,304204105,,,Operaciones a Plazo en Peso Argentina,46
+e,FF Mercado Credito 45 CA,Fideicomiso financiero,Mercado Credito,,0.5,298239319,,,Certificados de Participacion Argentina,25
+e,FF Megabono 349 Clase A,Fideicomiso financiero,Megabono,,0.45,268415387,,,Certificados de Participacion Argentina,12
+e,FF Consubond S201 Clase A,Fideicomiso financiero,Consubond,,0.44,262450601,,,Certificados de Participacion Argentina,6
+e,FF San Cristobal S1 CA,Fideicomiso financiero,San Cristobal,,0.38,226661882,,,Certificados de Participacion Argentina,5
+e,FF Megabono 333 Clase A,Fideicomiso financiero,Megabono,,0.26,155084446,,,Certificados de Participacion Argentina,14
+e,FF Confibono S86 Clase A,Fideicomiso financiero,Confibono,,0.25,149119659,,,Certificados de Participacion Argentina,9
+e,FF Confibono S83 Clase A,Fideicomiso financiero,Confibono,,0.19,113330941,,,Certificados de Participacion Argentina,11
+e,FF Megabono 331 Clase A,Fideicomiso financiero,Megabono,,0.17,101401368,,,Certificados de Participacion Argentina,5
+e,FF Megabono 322 Clase A,Fideicomiso financiero,Megabono,,0.11,65612650,,,Certificados de Participacion Argentina,17
+e,FF Confibono S82 Clase A,Fideicomiso financiero,Confibono,,0.04,23859146,,,Certificados de Participacion Argentina,7
+e,FF Megabono 329 Clase A,Fideicomiso financiero,Megabono,,0.01,5964786,,,Certificados de Participacion Argentina,5
+p,1822 Raices Valores Fiduciarios,Provinfondos,RF ARS Disc,37.3891,0.4328,34,,,,
+p,Stonex FF,StoneX,T+1,33.3151,0.4363,31,,,,
+p,Pellegrini Liquidez Pesos,Pellegrini,MM ARS Clásico,19.505,0.3666,4,,,,
+p,Pionero Pesos,Macro,MM ARS Clásico,18.2845,0.4227,4,,,,
+p,Delta Ahorro,Delta,T+1,18.248,0.3611,20,,,,
+p,Allaria Ahorro Plus,Allaria,T+1,18.0882,0.2065,9,,,,
+p,MAF Money Market,Mariva,MM ARS Clásico,17.8176,0.4401,3,,,,
+p,Pionero Pesos Plus,Macro,MM ARS Clásico,17.1329,0.3294,5,,,,

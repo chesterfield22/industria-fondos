@@ -1,0 +1,71 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Valiant Renta Fija Dolares,,,,,,,,
+m,gerente,Valiant Asset Management S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Ex ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Global,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1684505,,,,,,,,
+m,aum_planilla,1668671,,,,,,,,
+m,dif_pn_aum,0.0095,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/81214,,,,,,,,
+m,n_especies,22,,,,,,,,
+m,activos_pn,107.42,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.03,,,,,,,,
+m,top1,12.46,,,,,,,,
+m,top5,46.58,,,,,,,,
+m,top10,71.21,,,,,,,,
+m,hhi_especies,700.6809,,,,,,,,
+m,n_emisores,20,,,,,,,,
+m,emisor_top,CGC,,,,,,,,
+m,emisor_top_pct,15.47,,,,,,,,
+m,hhi_emisores,795.5437,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,80.18,18,,,,,,,
+t,Corporativo exterior,16.5,2,,,,,,,
+t,Subsoberano,10.71,2,,,,,,,
+c,USD,107.39,,,,,,,,
+r,Disponibilidades,0.03,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,107.39,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),7.42,,,,,,,,
+e,ON CGC C 40,ON,CGC,USD,12.46,209889.3479,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON YPF Luz C20,ON,YPF Luz,USD,10.66,179568.2543,,,Titulos de Deuda en Dolar Estadounidense,20
+e,BC Petrobras 5.6% 2031,Corporativo exterior,Petrobras,USD,10.39,175020.0903,,,Titulos de Deuda en Dolar Estadounidense,3
+e,ON Capex C12,ON,Capex,USD,6.96,117241.5619,,,Titulos de Deuda en Dolar Estadounidense,20
+e,BC General Motors 2032,Corporativo exterior,General Motors,USD,6.11,102923.2677,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Genneia Clase 50,ON,Genneia,USD,5.94,100059.6089,,,Titulos de Deuda en Dolar Estadounidense,19
+e,Bono Prov San Juan SJO35,Subsoberano,Prov. San Juan,USD,5.89,99217.3563,,,Titulos de Deuda en Dolar Estadounidense,33
+e,Bono Ciudad Bs As 130536,Subsoberano,Prov. Ciudad Bs As,USD,4.82,81193.1506,,,Titulos de Deuda en Dolar Estadounidense,5
+e,ON Tecpetrol C10 RETAP,ON,Tecpetrol,USD,4.31,72602.1741,,,Titulos de Deuda en Dolar Estadounidense,5
+e,ON Sidersa Clase 2,ON,Sidersa,USD,3.67,61821.3408,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON AES Argentina Gen 060828,ON,AES Argentina Gen,USD,3.62,60979.0882,,,Titulos de Deuda en Dolar Estadounidense,24
+e,ON Bco Serv Transac C31,ON,Banco Serv Transac,USD,3.59,60473.7367,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Grupo ST C17,ON,Grupo ST,USD,3.56,59968.3851,,,Titulos de Deuda en Dolar Estadounidense,8
+e,ON Bco Provincia Cl 5 PVC5O,ON,Banco Provincia,USD,3.32,55925.5726,,,Titulos de Deuda en Dolar Estadounidense,17
+e,ON Cresud S32 C48,ON,Cresud,USD,3.14,52893.4633,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON ALZ Nutrientes S1 BI,ON,ALZ Nutrientes,USD,3.06,51545.8591,,,Titulos de Deuda en Dolar Estadounidense,7
+e,ON CGC C 41,ON,CGC,USD,3.01,50703.6065,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Vaca Muerta C1,ON,Vaca Muerta,USD,3,50535.156,,,Titulos de Deuda en Dolar Estadounidense,45
+e,ON Banco Prov Clase 8,ON,Banco Provincia,USD,2.99,50366.7055,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Plaza Logistica C6 ZPC6O,ON,Plaza Logistica,USD,2.98,50198.255,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Pyme Tropfen S1,ON,Pyme Tropfen,USD,2.39,40259.6743,,,Titulos de Deuda en Dolar Estadounidense,4
+e,ON Mirgor Clase 6,ON,Mirgor,USD,1.52,25604.479,,,Titulos de Deuda en Dolar Estadounidense,10
+p,CYC Dólares Renta Fija,CYC,RF USD Disc,13.5201,0.238,3,,,,
+p,Toronto Trust Renta Dólar,Investis,RF USD corp loc,11.658,0.1524,9,,,,
+p,Pellegrini Renta Dolares III,Pellegrini,RF USD corp loc,11.6026,0.2339,1,,,,
+p,GMC Renta Fija Dolares,GMC,RF USD Disc,9.824,0.1414,2,,,,
+p,MAF Global,Mariva,RF USD GL Ex ARG,9.675,0.1609,1,,,,
+p,Ciclo Nova Estratégico,Ciclo Nova,RF USD corp loc,9.6076,0.0554,4,,,,
+p,Transatlantica Estrategia Dólar,Axis,RF USD Disc,9.5189,0.1065,7,,,,
+p,Zofingen Infraestructura,Zofingen Inv.,INFRA,8.9661,0.0933,3,,,,

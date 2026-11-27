@@ -1,0 +1,77 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Alpha Renta Capital Pesos,,,,,,,,
+m,gerente,ICBC Investments Argentina S.A.U.S.G.F.C.I.,,,,,,,,
+m,depositaria,ICBC (Arg) S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS CER,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,168642372437,,,,,,,,
+m,aum_planilla,168642372437,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63402,,,,,,,,
+m,n_especies,26,,,,,,,,
+m,activos_pn,100.31,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,13.75,,,,,,,,
+m,top5,53.36,,,,,,,,
+m,top10,80.97,,,,,,,,
+m,hhi_especies,785.9861,,,,,,,,
+m,n_emisores,3,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,99.29,,,,,,,,
+m,hhi_emisores,9859.0371,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,99.29,24,,,,,,,
+t,FCI,0.67,1,,,,,,,
+t,Fideicomiso financiero,0.29,1,,,,,,,
+c,ARS,99.29,,,,,,,,
+c,sin dato,0.96,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.34,,,,,,,,
+r,Certificados de Participacion Argentina,0.96,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.31,,,,,,,,
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,13.75,23188326210,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,11.11,18736167578,,,Titulos de Deuda en Peso Argentina,128
+e,Bono Boncer TX28,Soberano,Tesoro Nacional,ARS,10.87,18331425884,,,Titulos de Deuda en Peso Argentina,40
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,8.9,15009171147,,,Titulos de Deuda en Peso Argentina,159
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,8.73,14722479114,,,Titulos de Deuda en Peso Argentina,158
+e,Bono Boncer TX26,Soberano,Tesoro Nacional,ARS,8.01,13508254032,,,Titulos de Deuda en Peso Argentina,63
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,7.19,12125386578,,,Titulos de Deuda en Peso Argentina,146
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,4.69,7909327267,,,Titulos de Deuda en Peso Argentina,84
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,4.45,7504585573,,,Titulos de Deuda en Peso Argentina,75
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,3.27,5514605579,,,Titulos de Deuda en Peso Argentina,166
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,3.04,5126728122,,,Titulos de Deuda en Peso Argentina,84
+e,Bono Par ARS Ley AR PARP,Soberano,Tesoro Nacional,ARS,2.16,3642675245,,,Titulos de Deuda en Peso Argentina,17
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,1.87,3153612365,,,Titulos de Deuda en Peso Argentina,118
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,1.56,2630821010,,,Titulos de Deuda en Peso Argentina,160
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,1.56,2630821010,,,Titulos de Deuda en Peso Argentina,64
+e,Bono Disc ARS Ley AR DICP,Soberano,Tesoro Nacional,ARS,1.46,2462178638,,,Titulos de Deuda en Peso Argentina,59
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,1.45,2445314400,,,Titulos de Deuda en Peso Argentina,61
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,1.07,1804473385,,,Titulos de Deuda en Peso Argentina,136
+e,Bono del Tesoro 2.5% 2031,Soberano,Tesoro Nacional,ARS,1.02,1720152199,,,Titulos de Deuda en Peso Argentina,24
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,0.96,1618966775,,,Titulos de Deuda en Peso Argentina,66
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,0.87,1467188640,,,Titulos de Deuda en Peso Argentina,250
+e,Boncer Mendoza C1,Soberano,Tesoro Nacional,ARS,0.68,1146768133,,,Titulos de Deuda en Peso Argentina,49
+e,FCI Ciclo Nova Ahorro - Clase E,FCI,Ciclo Nova Ahorro,,0.67,1129903895,,,Certificados de Participacion Argentina,38
+e,Bono CER TZX27,Soberano,Tesoro Nacional,ARS,0.37,623976778,,,Titulos de Deuda en Peso Argentina,43
+e,FF Mercado Credito 55 CA,Fideicomiso financiero,Mercado Credito,,0.29,489062880,,,Certificados de Participacion Argentina,30
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,0.25,421605931,,,Titulos de Deuda en Peso Argentina,80
+p,Alpha Planeamiento Conservador,ICBC,RF MULT Disc,66.8474,0.8758,24,,,,
+p,Alpha Renta Capital,ICBC,RF MULT Disc,60.743,0.7174,10,,,,
+p,Pellegrini Crecimiento,Pellegrini,RF ARS CER,50.1474,0.7,9,,,,
+p,Superfondo Renta Fija,Santander,RF ARS CER,49.574,0.6673,9,,,,
+p,Alpha Planeamiento Equilibrado,ICBC,RM y Otros ARS,49.3511,0.7322,23,,,,
+p,Parakeet Multimercado III,Parakeet,RM y Otros ARS,46.9526,0.7106,7,,,,
+p,Schroder Renta Global Dos,Schroder,RF MULT Disc,45.8176,0.6462,12,,,,
+p,Argenfunds Renta Balanceada,Argenfunds,RF ARS CER,45.4897,0.577,6,,,,

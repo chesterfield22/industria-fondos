@@ -1,0 +1,77 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Max Cobertura,,,,,,,,
+m,gerente,Max Capital Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,47226951814,,,,,,,,
+m,aum_planilla,47226951814,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85372,,,,,,,,
+m,n_especies,26,,,,,,,,
+m,activos_pn,100.07,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.21,,,,,,,,
+m,top1,29.86,,,,,,,,
+m,top5,92.43,,,,,,,,
+m,top10,98.33,,,,,,,,
+m,hhi_especies,2203.0285,,,,,,,,
+m,n_emisores,2,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,96.25,,,,,,,,
+m,hhi_emisores,9264.0689,,,,,,,,
+m,sin_emisor_pct,3.54,,,,,,,,
+t,Soberano,96.25,6,,,,,,,
+t,Pagaré,3.54,19,,,,,,,
+t,FCI,0.08,1,,,,,,,
+c,ARS,99.79,,,,,,,,
+c,sin dato,0.08,,,,,,,,
+r,Disponibilidades,0.21,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.78,,,,,,,,
+r,Certificados de Participacion Argentina,0.08,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.07,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,29.86,14101967812,,,Titulos de Deuda en Peso Argentina,103
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,29.84,14092522421,,,Titulos de Deuda en Peso Argentina,75
+e,Letra Tesoro Nac D31M7,Soberano,Tesoro Nacional,ARS,16.28,7688547755,,,Titulos de Deuda en Peso Argentina,30
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,9.73,4595182411,,,Titulos de Deuda en Peso Argentina,56
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,6.72,3173651162,,,Titulos de Deuda en Peso Argentina,86
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,ARS,3.82,1804069559,,,Titulos de Deuda en Peso Argentina,40
+e,Pagare #UVA300470007,Pagaré,,ARS,0.81,382538310,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UVA091160001,Pagaré,,ARS,0.69,325865968,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UVA270870001,Pagaré,,ARS,0.4,188907807,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UVA070170004,Pagaré,,ARS,0.18,85008513,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UVA260370002,Pagaré,,ARS,0.16,75563123,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UVA100470002,Pagaré,,ARS,0.16,75563123,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UVA151160002,Pagaré,,ARS,0.16,75563123,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UVA070370001,Pagaré,,ARS,0.16,75563123,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UVA170370001,Pagaré,,ARS,0.16,75563123,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UVA100670009,Pagaré,,ARS,0.16,75563123,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UVA310370001,Pagaré,,ARS,0.12,56672342,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UVA150370001,Pagaré,,ARS,0.09,42504257,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Balanz Capital Money Market Clase C,FCI,Balanz Capital Money Market,,0.08,37781561,,,Certificados de Participacion Argentina,47
+e,Pagare #UVA050270001,Pagaré,,ARS,0.07,33058866,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UVA200870001,Pagaré,,ARS,0.06,28336171,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UVA100270003,Pagaré,,ARS,0.05,23613476,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UVA221260002,Pagaré,,ARS,0.03,14168086,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UVA150670004,Pagaré,,ARS,0.03,14168086,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UVA280970001,Pagaré,,ARS,0.03,14168086,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UVA300470004,Pagaré,,ARS,0.02,9445390,,,Titulos de Deuda en Peso Argentina,1
+p,Allaria Agro,Allaria,RF MULT Disc,76.0789,0.9302,3,,,,
+p,Megainver Renta Global,MegaQM,T+1,65.2117,0.8479,3,,,,
+p,Allaria Gestión Dinámica,Allaria,RF MULT Disc,61.6296,0.7742,3,,,,
+p,Max Retorno Total Pesos III,Max Capital,RF MULT Disc,61.3875,0.87,4,,,,
+p,Pionero Soja,Macro,RM y Otros ARS,59.7777,0.8773,2,,,,
+p,Balanz Soja,Balanz,RV ARG Rofex 20,59.7777,0.7977,2,,,,
+p,Allaria Patrimonio II,Allaria,RF USD Linked,59.6124,0.8011,2,,,,
+p,First Renta Mixta VI,First Cap Mkts,RF MULT Disc,59.3583,0.8503,2,,,,

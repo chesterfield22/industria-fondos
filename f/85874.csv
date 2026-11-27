@@ -1,0 +1,77 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Novus Performance,,,,,,,,
+m,gerente,Novus Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,40834556992,,,,,,,,
+m,aum_planilla,40834556992,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85874,,,,,,,,
+m,n_especies,21,,,,,,,,
+m,activos_pn,100.14,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.07,,,,,,,,
+m,top1,20.27,,,,,,,,
+m,top5,76.34,,,,,,,,
+m,top10,95.32,,,,,,,,
+m,hhi_especies,1359.5891,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,82.54,,,,,,,,
+m,hhi_emisores,6992.327,,,,,,,,
+m,sin_emisor_pct,0.47,,,,,,,,
+t,Soberano,82.54,10,,,,,,,
+t,Subsoberano,13.3,2,,,,,,,
+t,ON,2.29,5,,,,,,,
+t,Fideicomiso financiero,1.45,2,,,,,,,
+t,Pagaré,0.47,1,,,,,,,
+t,FCI,0.04,1,,,,,,,
+c,ARS,98.13,,,,,,,,
+c,sin dato,1.49,,,,,,,,
+c,USD,0.47,,,,,,,,
+r,Disponibilidades,0.07,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,98.11,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,0.47,,,,,,,,
+r,Certificados de Participacion Argentina,1.49,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.14,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,20.27,8277164702,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,17.65,7207299309,,,Titulos de Deuda en Peso Argentina,146
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,16.09,6570280220,,,Titulos de Deuda en Peso Argentina,165
+e,Letra Prov Bs As PBA27,Subsoberano,Prov. Buenos Aires,ARS,12.8,5226823295,,,Titulos de Deuda en Peso Argentina,38
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,9.53,3891533281,,,Titulos de Deuda en Peso Argentina,84
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,9.43,3850698724,,,Titulos de Deuda en Peso Argentina,128
+e,Bono Boncer TZXD8,Soberano,Tesoro Nacional,ARS,4.35,1776303229,,,Titulos de Deuda en Peso Argentina,26
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,3.38,1380208026,,,Titulos de Deuda en Peso Argentina,142
+e,FF Creditech S8 CA,Fideicomiso financiero,Creditech,,0.96,392011747,,,Certificados de Participacion Argentina,9
+e,Bono Cuasipar ARS CUAP,Soberano,Tesoro Nacional,ARS,0.86,351177190,,,Titulos de Deuda en Peso Argentina,6
+e,ON Santander Rio S 32,ON,Santander Rio,ARS,0.76,310342633,,,Titulos de Deuda en Peso Argentina,42
+e,ON Morixe C4,ON,Morixe,ARS,0.74,302175722,,,Titulos de Deuda en Peso Argentina,10
+e,Bono Bocon 2029 PR17,Soberano,Tesoro Nacional,ARS,0.71,289925355,,,Titulos de Deuda en Peso Argentina,15
+e,Letra Prov Bs As 180227,Subsoberano,Prov. Buenos Aires,ARS,0.5,204172785,,,Titulos de Deuda en Peso Argentina,5
+e,FF Mercado Credito 51 CA,Fideicomiso financiero,Mercado Credito,,0.49,200089329,,,Certificados de Participacion Argentina,34
+e,Pagare #UMV310570067,Pagaré,,USD,0.47,191922418,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Hector Bertone Mediano Impacto S1 C1,ON,Hector Bertone Mediano Impacto,ARS,0.39,159254772,,,Titulos de Deuda en Peso Argentina,5
+e,ON PyME Sion Serie 2,ON,PyME Sion,ARS,0.38,155171317,,,Titulos de Deuda en Peso Argentina,8
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,0.27,110253304,,,Titulos de Deuda en Peso Argentina,160
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.04,16333823,,,Certificados de Participacion Argentina,77
+e,ON Epec C2,ON,Epec,ARS,0.02,8166911,,,Titulos de Deuda en Peso Argentina,12
+p,Novus Estrategia,Novus,RF ARS CER,56.6903,0.6892,9,,,,
+p,Galileo Renta Fija,Delta,RF MULT Disc,54.5116,0.7194,4,,,,
+p,Consultatio One Ahorro,Consultatio,RF ARS CER,53.0612,0.7101,4,,,,
+p,Consultatio Tactico,Consultatio,RF MULT Disc,53.0194,0.6805,4,,,,
+p,1810 Ahorros Activos,Proahorro,RF ARS CER,52.6526,0.6296,4,,,,
+p,IAM Renta Plus,BIND,T+1,51.941,0.6343,7,,,,
+p,Superfondo Renta $,Santander,RF ARS Disc,51.7774,0.7419,4,,,,
+p,Optimum FAE (Fondo de Aplicaciones Especiales),SAM Arg,RF MULT Disc,50.94,0.6187,5,,,,

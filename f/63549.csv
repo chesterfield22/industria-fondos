@@ -1,0 +1,62 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Optimum Global Balanced,,,,,,,,
+m,gerente,Santander Asset Management G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Santander Argentina S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5910101349,,,,,,,,
+m,aum_planilla,5910101349,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63549,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,101.01,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,18.14,,,,,,,,
+m,top5,71.58,,,,,,,,
+m,top10,100.69,,,,,,,,
+m,hhi_especies,1305.1601,,,,,,,,
+m,n_emisores,9,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,21.13,,,,,,,,
+m,hhi_emisores,1678.2161,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,79.56,8,,,,,,,
+t,Soberano,21.13,2,,,,,,,
+t,FCI,0.32,1,,,,,,,
+c,ARS,100.69,,,,,,,,
+c,sin dato,0.32,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,100.68,,,,,,,,
+r,Certificados de Participacion Argentina,0.32,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.01,,,,,,,,
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,18.14,1072092385,,,Titulos de Deuda en Peso Argentina,42
+e,ON Pan American C33,ON,Pan American,ARS,17.93,1059681172,,,Titulos de Deuda en Peso Argentina,36
+e,ON Telecom C19 TLCKO,ON,Telecom,ARS,14.38,849872574,,,Titulos de Deuda en Peso Argentina,30
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,10.67,630607814,,,Titulos de Deuda en Peso Argentina,118
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,10.46,618196601,,,Titulos de Deuda en Peso Argentina,103
+e,ON Oldelval Clase 3,ON,Oldelval,ARS,10.24,605194378,,,Titulos de Deuda en Peso Argentina,40
+e,ON PCR Clase K,ON,PCR,ARS,8.71,514769828,,,Titulos de Deuda en Peso Argentina,26
+e,ON Telecom C12 TLCDO,ON,Telecom,ARS,5.21,307916280,,,Titulos de Deuda en Peso Argentina,29
+e,ON CGC C 39,ON,CGC,ARS,3.95,233449003,,,Titulos de Deuda en Peso Argentina,34
+e,ON Impsa Clase 7 2036,ON,Impsa,ARS,1,59101013,,,Titulos de Deuda en Peso Argentina,17
+e,FCI Argenfunds Liquidez - Clase B,FCI,Argenfunds Liquidez,,0.32,18912324,,,Certificados de Participacion Argentina,50
+p,Galileo Premium,Delta,RF USD Linked,43.4558,0.6025,5,,,,
+p,SBS Patrimonio IX,SBS,RF MULT Disc,41.4331,0.5692,5,,,,
+p,Compass Renta Fija III,Investis,RF USD Linked,35.7321,0.5183,4,,,,
+p,Delta Gestion XI,Delta,RF MULT Corp,33.2145,0.3901,3,,,,
+p,Optimum Renta Mixta Flexible,Santander,RF USD Linked,32.9455,0.3428,6,,,,
+p,Allaria Cobertura Dinamica,Allaria,RF USD Linked,32.7756,0.4614,5,,,,
+p,Optimum Renta Mixta Flexible Argentina,Santander,RF USD Linked,28.1086,0.2517,5,,,,
+p,Optimum Total Return,Santander,RF USD Linked,27.7096,0.3034,4,,,,

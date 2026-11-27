@@ -1,0 +1,72 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MAF Renta Balanceada,,,,,,,,
+m,gerente,Mariva Asset Management S.A.U.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Mariva S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,8469262021,,,,,,,,
+m,aum_planilla,8469262018,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63671,,,,,,,,
+m,n_especies,16,,,,,,,,
+m,activos_pn,100.01,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,2.47,,,,,,,,
+m,top1,22.49,,,,,,,,
+m,top5,63.87,,,,,,,,
+m,top10,91.95,,,,,,,,
+m,hhi_especies,1137.9738,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Prov. Cordoba,,,,,,,,
+m,emisor_top_pct,39.26,,,,,,,,
+m,hhi_emisores,2554.2082,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Subsoberano,63.28,8,,,,,,,
+t,Soberano,27.48,4,,,,,,,
+t,ON,5.7,2,,,,,,,
+t,Caución,1.82,1,,,,,,,
+t,FCI,1.08,1,,,,,,,
+c,ARS,92.58,,,,,,,,
+c,USD,5.7,,,,,,,,
+c,sin dato,1.08,,,,,,,,
+r,Disponibilidades,0.65,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,90.77,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,5.69,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense Cable,1.82,,,,,,,,
+r,Certificados de Participacion Argentina,1.08,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.01,,,,,,,,
+e,Bono Prov Cordoba 2027 COY27,Subsoberano,Prov. Cordoba,ARS,22.49,1904737028,,,Titulos de Deuda en Peso Argentina,28
+e,Bono Prov Mendoza TAMAR C2,Subsoberano,Prov. Mendoza TAMAR,ARS,11.78,997679066,,,Titulos de Deuda en Peso Argentina,24
+e,Bonos Rep Argentina GD35,Soberano,Tesoro Nacional,ARS,10.47,886731734,,,Titulos de Deuda en Peso Argentina,54
+e,Bono Buenos Aires 2037,Subsoberano,Prov. Buenos Aires,ARS,9.59,812202228,,,Titulos de Deuda en Peso Argentina,13
+e,Bono Prov Cordoba 030235,Subsoberano,Prov. Cordoba,ARS,9.54,807967597,,,Titulos de Deuda en Peso Argentina,29
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,9.05,766468213,,,Titulos de Deuda en Peso Argentina,160
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,7.4,626725390,,,Titulos de Deuda en Peso Argentina,112
+e,Bono Prov Cordoba 2032,Subsoberano,Prov. Cordoba,ARS,5.93,502227238,,,Titulos de Deuda en Peso Argentina,16
+e,ON Edesa Clase 4,ON,Edesa,USD,2.96,250690156,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON Edenor C11,ON,Edenor,USD,2.74,232057779,,,Titulos de Deuda en Dolar Estadounidense,31
+e,Bonos de Infra.Vial Prov. de Santa Fe,Subsoberano,Prov. Santa Fe,ARS,2.49,210884624,,,Titulos de Deuda en Peso Argentina,21
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,1.82,154140569,,,Operaciones a Plazo en Dolar Estadounidense Cable,73
+e,Bono Prov Cordoba Clase 4,Subsoberano,Prov. Cordoba,ARS,1.3,110100406,,,Titulos de Deuda en Peso Argentina,37
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,1.08,91468030,,,Certificados de Participacion Argentina,93
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,0.56,47427867,,,Titulos de Deuda en Peso Argentina,66
+e,Bono CABA 2028 BDC28,Subsoberano,Prov. CABA,ARS,0.16,13550819,,,Titulos de Deuda en Peso Argentina,18
+p,Pellegrini Renta Publica Federal,Pellegrini,RF ARS Disc,39.9877,0.626,6,,,,
+p,Fima Infraestructura II,Galicia,INFRA,32.3154,0.4279,7,,,,
+p,MAF Renta,Mariva,RM y Otros ARS,29.1348,0.3275,8,,,,
+p,MAF Renta Balanceada 2,Mariva,RM y Otros ARS,23.9724,0.361,4,,,,
+p,Compass Renta Fija II,Investis,RF MULT Disc,17.8493,0.2778,10,,,,
+p,Pellegrini Renta Fija III,Pellegrini,T+1,17.5488,0.1822,4,,,,
+p,Pellegrini Renta Fija,Pellegrini,T+1,16.64,0.199,3,,,,
+p,Blacktoro Ahorro,BlackToro,T+1,16.556,0.249,2,,,,

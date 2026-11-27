@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pionero Dólar Mix,,,,,,,,
+m,gerente,Macro Fondos S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,15353272,,,,,,,,
+m,aum_planilla,15353272,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87503,,,,,,,,
+m,n_especies,18,,,,,,,,
+m,activos_pn,100.01,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.31,,,,,,,,
+m,top1,19.02,,,,,,,,
+m,top5,58.06,,,,,,,,
+m,top10,80.7,,,,,,,,
+m,hhi_especies,985.163,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,44.62,,,,,,,,
+m,hhi_emisores,2584.219,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,44.62,3,,,,,,,
+t,ON,39.76,12,,,,,,,
+t,Soberano exterior,15.3,3,,,,,,,
+c,USD,99.68,,,,,,,,
+r,Disponibilidades,0.31,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,99.7,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.01,,,,,,,,
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,USD,19.02,2920192,,,Titulos de Deuda en Dolar Estadounidense,74
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,USD,17.9,2748236,,,Titulos de Deuda en Dolar Estadounidense,40
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,7.7,1182202,,,Titulos de Deuda en Dolar Estadounidense,83
+e,ON YPF Clase 42,ON,YPF,USD,6.88,1056305,,,Titulos de Deuda en Dolar Estadounidense,48
+e,US Treasury Bill 011226,Soberano exterior,Tesoro EE.UU.,USD,6.56,1007175,,,Titulos de Deuda en Dolar Estadounidense,7
+e,US Treasury Bill 070127,Soberano exterior,Tesoro EE.UU.,USD,4.85,744633.6721,,,Titulos de Deuda en Dolar Estadounidense,7
+e,ON Cresud S31 C47,ON,Cresud,USD,4.82,740027.6906,,,Titulos de Deuda en Dolar Estadounidense,18
+e,ON BBVA Frances Cl 40,ON,BBVA Frances,USD,4.64,712391.8018,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON YPF Clase 38,ON,YPF,USD,4.44,681685.2586,,,Titulos de Deuda en Dolar Estadounidense,26
+e,US Treasury Bill 101226,Soberano exterior,Tesoro EE.UU.,USD,3.89,597242.2649,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON YPF Energia Electrica C21,ON,YPF Energia Electrica,USD,3.25,498981.3267,,,Titulos de Deuda en Dolar Estadounidense,17
+e,ON Tecpetrol C11,ON,Tecpetrol,USD,3.21,492840.018,,,Titulos de Deuda en Dolar Estadounidense,27
+e,ON Tarj Naranja C68 S2,ON,Tarj Naranja,USD,3.2,491304.6909,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON YPF Clase 32,ON,YPF,USD,2.67,409932.3515,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON YPF Clase 33,ON,YPF,USD,2.25,345448.6108,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Tarj Naranja C67 S2,ON,Tarj Naranja,USD,1.98,303994.7775,,,Titulos de Deuda en Dolar Estadounidense,22
+e,ON Pluspetrol Clase 6,ON,Pluspetrol,USD,1.38,211875.1479,,,Titulos de Deuda en Dolar Estadounidense,43
+e,ON YPF Luz C20,ON,YPF Luz,USD,1.04,159674.0245,,,Titulos de Deuda en Dolar Estadounidense,20
+p,Pionero Inversión Dólar,Macro,RF USD GL Inc ARG,54.7213,0.835,6,,,,
+p,Pionero Dólar Dinámico,Macro,RF USD Disc,52.2844,0.794,5,,,,
+p,MEGAQM Ahorro Dólares,MegaQM,RF USD Disc,37.0406,0.6004,3,,,,
+p,Pellegrini Renta Dolares,Pellegrini,RF USD Disc,32.1076,0.4978,2,,,,
+p,FBA Renta Fija Dólar Plus I,BBVA,RF USD Disc,31.6168,0.6185,3,,,,
+p,Novus Capital,Novus,RM y Otros USD,28.2474,0.4908,6,,,,
+p,Ualintec Cobertura,Ualá,RF USD Linked,26.8058,0.4515,2,,,,
+p,Mills Renta Fija Dólares,Mills Capital,RF USD Disc,25.9599,0.5449,5,,,,

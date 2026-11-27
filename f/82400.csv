@@ -1,0 +1,60 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Allaria Principal,,,,,,,,
+m,gerente,Allaria Fondos Administrados S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,32177491323,,,,,,,,
+m,aum_planilla,32177491323,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/82400,,,,,,,,
+m,n_especies,10,,,,,,,,
+m,activos_pn,100.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,17.32,,,,,,,,
+m,top5,76.09,,,,,,,,
+m,top10,100.03,,,,,,,,
+m,hhi_especies,1312.1737,,,,,,,,
+m,n_emisores,1,,,,,,,,
+m,emisor_top,Schroder Liquidez,,,,,,,,
+m,emisor_top_pct,0.35,,,,,,,,
+m,hhi_emisores,0.1225,,,,,,,,
+m,sin_emisor_pct,99.68,,,,,,,,
+t,Cheque,99.68,9,,,,,,,
+t,FCI,0.35,1,,,,,,,
+c,ARS,99.68,,,,,,,,
+c,sin dato,0.35,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.67,,,,,,,,
+r,Certificados de Participacion Argentina,0.35,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.02,,,,,,,,
+e,Cheque #MAV030270034,Cheque,,ARS,17.32,5573141497,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV101260016,Cheque,,ARS,17.1,5502351016,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV200170039,Cheque,,ARS,13.89,4469453545,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV200170038,Cheque,,ARS,13.89,4469453545,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV200170037,Cheque,,ARS,13.89,4469453545,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV200170035,Cheque,,ARS,7.04,2265295389,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV201160028,Cheque,,ARS,5.52,1776197521,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV271160010,Cheque,,ARS,5.52,1776197521,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV041260016,Cheque,,ARS,5.51,1772979772,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Schroder Liquidez - Clase B,FCI,Schroder Liquidez,,0.35,112621220,,,Certificados de Participacion Argentina,44
+p,Stonex PYMEs,StoneX,PYME,0.3499,0.0025,1,,,,
+p,Allaria Patrimonio IV,Allaria,RF MULT Disc,0.3499,0.0021,1,,,,
+p,Alamerica Renta Fija Argentina,Allaria,RM y Otros ARS,0.3499,0.0019,1,,,,
+p,Stonex FF,StoneX,T+1,0.3499,0.0019,1,,,,
+p,Allaria Patrimonio II,Allaria,RF USD Linked,0.3499,0.0017,1,,,,
+p,Adcap Balanceado VII,Adcap,RF ARS Disc,0.3499,0.0015,1,,,,
+p,Balanz Crecimiento FCI Ab para Financ Infra y Econ Real,Balanz,INFRA,0.3499,0.0011,1,,,,
+p,SBS Desarrollo Infraestructura,SBS,INFRA,0.3499,0.0011,1,,,,

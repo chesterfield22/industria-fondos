@@ -1,0 +1,86 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Chaco Abierto Ahorro,,,,,,,,
+m,gerente,Nuevo Chaco Fondos S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Nuevo Banco del Chaco S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,23605934680,,,,,,,,
+m,aum_planilla,23605934680,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63927,,,,,,,,
+m,n_especies,32,,,,,,,,
+m,activos_pn,99.57,,,,,,,,
+m,pasivos_cnv,0.43,,,,,,,,
+m,liquidez,3.48,,,,,,,,
+m,top1,20.53,,,,,,,,
+m,top5,53.77,,,,,,,,
+m,top10,76.34,,,,,,,,
+m,hhi_especies,847.2409,,,,,,,,
+m,n_emisores,22,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,71.91,,,,,,,,
+m,hhi_emisores,5246.9379,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,71.91,9,,,,,,,
+t,ON,17.88,19,,,,,,,
+t,Subsoberano,4.83,2,,,,,,,
+t,Pase,3.39,1,,,,,,,
+t,Fideicomiso financiero,1.48,1,,,,,,,
+c,ARS,98.01,,,,,,,,
+c,sin dato,1.48,,,,,,,,
+r,Disponibilidades,0.09,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,94.61,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,3.39,,,,,,,,
+r,Certificados de Participacion Argentina,1.48,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.43,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.43,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,20.53,4846298390,,,Titulos de Deuda en Peso Argentina,250
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,9.44,2228400234,,,Titulos de Deuda en Peso Argentina,112
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,8.55,2018307415,,,Titulos de Deuda en Peso Argentina,146
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,7.78,1836541718,,,Titulos de Deuda en Peso Argentina,61
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,7.47,1763363321,,,Titulos de Deuda en Peso Argentina,128
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,5.23,1234590384,,,Titulos de Deuda en Peso Argentina,149
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,4.45,1050464093,,,Titulos de Deuda en Peso Argentina,165
+e,ON NBD Chaco Clase 1,ON,NBD Chaco,ARS,4.43,1045742906,,,Titulos de Deuda en Peso Argentina,12
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,4.34,1024497565,,,Titulos de Deuda en Peso Argentina,142
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,4.12,972564509,,,Titulos de Deuda en Peso Argentina,75
+e,Pase Colocador ARS MAE,Pase,Pase MAE,ARS,3.39,800241186,,,Operaciones a Plazo en Peso Argentina,14
+e,Letra Prov Chaco BLE27,Subsoberano,Prov. Chaco,ARS,2.56,604311928,,,Titulos de Deuda en Peso Argentina,4
+e,Letra Prov Chaco BLN26,Subsoberano,Prov. Chaco,ARS,2.27,535854717,,,Titulos de Deuda en Peso Argentina,12
+e,ON Mercado Pago C7,ON,Mercado Pago,ARS,2.25,531133530,,,Titulos de Deuda en Peso Argentina,17
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,2.12,500445815,,,Titulos de Deuda en Peso Argentina,61
+e,ON Bco Serv Transac C27,ON,Banco Serv Transac,ARS,1.73,408382670,,,Titulos de Deuda en Peso Argentina,12
+e,FF Infraestructura Elec 14,Fideicomiso financiero,Infraestructura Elec,,1.48,349367833,,,Certificados de Participacion Argentina,9
+e,ON Credito Directo C31,ON,Credito Directo,ARS,1.41,332843679,,,Titulos de Deuda en Peso Argentina,14
+e,ON GEMSA 18,ON,GEMSA,ARS,1.14,269107655,,,Titulos de Deuda en Peso Argentina,9
+e,ON P. Aconcagua Energia C20,ON,P. Aconcagua Energia,ARS,1,236059347,,,Titulos de Deuda en Peso Argentina,9
+e,ON BACS Clase 19,ON,BACS,ARS,0.9,212453412,,,Titulos de Deuda en Peso Argentina,19
+e,ON Rombo Cia Fciera S67,ON,Rombo Cia Fciera,ARS,0.86,203011038,,,Titulos de Deuda en Peso Argentina,11
+e,ON Angel Estrada C18,ON,Angel Estrada,ARS,0.67,158159762,,,Titulos de Deuda en Peso Argentina,12
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,0.51,120390267,,,Titulos de Deuda en Peso Argentina,52
+e,ON Club Atletico River Plate S1,ON,Club Atletico River Plate,ARS,0.24,56654243,,,Titulos de Deuda en Peso Argentina,18
+e,ON Red Surcos S12 Clase C,ON,Red Surcos,ARS,0.22,51933056,,,Titulos de Deuda en Peso Argentina,5
+e,ON Sanatorio Chaco S1 CA,ON,Sanatorio Chaco,ARS,0.13,30687715,,,Titulos de Deuda en Peso Argentina,4
+e,ON Pyme Gar. Gualok S1 CB,ON,Pyme Gar. Gualok,ARS,0.08,18884748,,,Titulos de Deuda en Peso Argentina,2
+e,ON Sanatorio Chaco S1 CB,ON,Sanatorio Chaco,ARS,0.07,16524154,,,Titulos de Deuda en Peso Argentina,2
+e,ON CRE-NOR S1,ON,CRE-NOR,ARS,0.05,11802967,,,Titulos de Deuda en Peso Argentina,4
+e,ON Los Nogales S1 CA,ON,Los Nogales,ARS,0.04,9442374,,,Titulos de Deuda en Peso Argentina,7
+e,ON PyME CNV GAR Biamaq S1 CA,ON,PyME CNV GAR Biamaq,ARS,0.03,7081780,,,Titulos de Deuda en Peso Argentina,5
+p,Consultatio SMSV Renta en Pesos,Consultatio,RF MULT Disc,46.7002,0.6374,6,,,,
+p,Toronto Trust Estrategico,Investis,RF ARS Disc,46.3643,0.6097,6,,,,
+p,SBS Patrimonio VIII,SBS,RF ARS Disc,46.2535,0.777,5,,,,
+p,Novus Performance,Novus,RF MULT Disc,44.2037,0.6744,5,,,,
+p,Galileo Renta Fija,Delta,RF MULT Disc,41.7178,0.5767,5,,,,
+p,Valiant Renta Fija,Valiant,T+1,41.1,0.6388,5,,,,
+p,CMA Estrategia Pesos,Capital Mark..,RF MULT Disc,40.092,0.6488,5,,,,
+p,Bull Market Ahorro Balanceado II,Bull Market,RF MULT Disc,39.2826,0.6174,4,,,,

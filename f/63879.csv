@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Argenfunds Renta Crecimiento,,,,,,,,
+m,gerente,Argenfunds S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,4924325,,,,,,,,
+m,aum_planilla,4924325,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63879,,,,,,,,
+m,n_especies,16,,,,,,,,
+m,activos_pn,99.79,,,,,,,,
+m,pasivos_cnv,0.21,,,,,,,,
+m,liquidez,1.65,,,,,,,,
+m,top1,19.3,,,,,,,,
+m,top5,62.67,,,,,,,,
+m,top10,86.81,,,,,,,,
+m,hhi_especies,1039.7825,,,,,,,,
+m,n_emisores,13,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,19.32,,,,,,,,
+m,hhi_emisores,1080.0733,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,64.41,12,,,,,,,
+t,Soberano,19.32,2,,,,,,,
+t,BCRA,10.34,1,,,,,,,
+t,FCI,4.06,1,,,,,,,
+c,USD,98.13,,,,,,,,
+r,Disponibilidades,1.65,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,94.08,,,,,,,,
+r,Certificados de Participacion Argentina,4.06,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.21,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.21,,,,,,,,
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,19.3,950394.6439,,,Titulos de Deuda en Dolar Estadounidense,83
+e,ON YPF Clase 38,ON,YPF,USD,16.65,819900.0426,,,Titulos de Deuda en Dolar Estadounidense,26
+e,Bono Bopreal 2027 Serie 1 Clase B BPOB7,BCRA,BCRA,USD,10.34,509175.1616,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Arcor Clase 26,ON,Arcor,USD,8.22,404779.4805,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Banco de Galicia 33 BYZ1O,ON,Banco de Galicia,USD,8.16,401824.8857,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Telecom C25,ON,Telecom,USD,6.31,310724.881,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Tecpetrol C11,ON,Tecpetrol,USD,6.02,296444.3397,,,Titulos de Deuda en Dolar Estadounidense,27
+e,FCI IEB Corto Plazo Dólar - Clase B,FCI,IEB Corto Plazo Dólar,USD,4.06,199927.5779,,,Certificados de Participacion Argentina,12
+e,ON Banco Hipotecario C16,ON,Banco Hipotecario,USD,4.03,198450.2806,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Pan American C42,ON,Pan American,USD,3.72,183184.8744,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Pan American C34,ON,Pan American,USD,3.08,151669.1971,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON YPF Energia Electrica C21,ON,YPF Energia Electrica,USD,2.09,102918.3837,,,Titulos de Deuda en Dolar Estadounidense,17
+e,ON Banco Hipotecario C14,ON,Banco Hipotecario,USD,2.06,101441.0863,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON BBVA Frances Cl 49,ON,BBVA Frances,USD,2.04,100456.2214,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Supervielle Clase V,ON,Supervielle,USD,2.03,99963.789,,,Titulos de Deuda en Dolar Estadounidense,12
+e,Bonos Rep Argentina GD30,Soberano,Tesoro Nacional,USD,0.02,984.8649,,,Titulos de Deuda en Dolar Estadounidense,37
+p,MEGAQM Renta Dólares,MegaQM,RF USD CP,38.2189,0.611,5,,,,
+p,Wise Capital Global Markets,Wise,RF USD GL Inc ARG,34.1582,0.4749,2,,,,
+p,1822 Raices Renta en Dolares,Provinfondos,RF USD Disc,26.6212,0.4513,4,,,,
+p,Schroder Retorno Total Cuatro,Schroder,RF USD CP,26.4802,0.4533,4,,,,
+p,IOL Dólar Ahorro Plus,Adcap,RF USD Disc,25.1368,0.4936,6,,,,
+p,Pionero Dólar Gestión,Macro,RF USD Disc,24.6126,0.5077,3,,,,
+p,MAF Renta Argentina,Mariva,RF USD Linked,23.6486,0.2605,2,,,,
+p,Axis Estrategia 8,Axis,RM y Otros ARS,22.2309,0.4281,2,,,,

@@ -1,0 +1,115 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Alpha Planeamiento Dinamico,,,,,,,,
+m,gerente,ICBC Investments Argentina S.A.U.S.G.F.C.I.,,,,,,,,
+m,depositaria,ICBC (Arg) S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5282652786,,,,,,,,
+m,aum_planilla,5282652681,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63340,,,,,,,,
+m,n_especies,59,,,,,,,,
+m,activos_pn,100.5,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.66,,,,,,,,
+m,top1,7.37,,,,,,,,
+m,top5,30.2,,,,,,,,
+m,top10,50.62,,,,,,,,
+m,hhi_especies,345.9905,,,,,,,,
+m,n_emisores,41,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,40.82,,,,,,,,
+m,hhi_emisores,1887.1747,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,41.85,28,,,,,,,
+t,Soberano,40.82,19,,,,,,,
+t,ON,8.56,8,,,,,,,
+t,ETF,5.08,1,,,,,,,
+t,FCI,2.19,1,,,,,,,
+t,Fideicomiso financiero,1.35,2,,,,,,,
+c,ARS,90.99,,,,,,,,
+c,sin dato,8.86,,,,,,,,
+r,Disponibilidades,0.66,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,49.37,,,,,,,,
+r,Participaciones Accionarias Argentina,46.69,,,,,,,,
+r,Participaciones Accionarias Brasil,0.24,,,,,,,,
+r,Certificados de Participacion Argentina,3.54,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.5,,,,,,,,
+e,YPF S.A.,Acción,YPF,ARS,7.37,389331510,,,Participaciones Accionarias Argentina,122
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,6.73,355522532,,,Participaciones Accionarias Argentina,129
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,5.84,308506923,,,Participaciones Accionarias Argentina,117
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,5.18,273641414,,,Titulos de Deuda en Peso Argentina,160
+e,Cedear Shares MSCI Brazil ETF,ETF,Cedear Shares MSCI Brazil ETF,,5.08,268358762,,,Participaciones Accionarias Argentina,23
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,4.49,237191110,,,Titulos de Deuda en Peso Argentina,166
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,4.15,219230091,,,Participaciones Accionarias Argentina,93
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,4.12,217645295,,,Titulos de Deuda en Peso Argentina,142
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,4.02,212362642,,,Titulos de Deuda en Peso Argentina,80
+e,Boncer TZXY7,Soberano,Tesoro Nacional,ARS,3.64,192288561,,,Titulos de Deuda en Peso Argentina,76
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,2.89,152668666,,,Participaciones Accionarias Argentina,86
+e,FCI Ciclo Nova Ahorro - Clase E,FCI,Ciclo Nova Ahorro,,2.19,115690096,,,Certificados de Participacion Argentina,38
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,2.09,110407443,,,Participaciones Accionarias Argentina,104
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,2.09,110407443,,,Titulos de Deuda en Peso Argentina,75
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,2.05,108294382,,,Participaciones Accionarias Argentina,104
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,2.03,107237852,,,Participaciones Accionarias Argentina,85
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,1.99,105124790,,,Titulos de Deuda en Peso Argentina,118
+e,Bono Boncer TX28,Soberano,Tesoro Nacional,ARS,1.97,104068260,,,Titulos de Deuda en Peso Argentina,40
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,1.93,101955199,,,Titulos de Deuda en Peso Argentina,146
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,1.86,98257342,,,Titulos de Deuda en Peso Argentina,61
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,1.81,95616015,,,Titulos de Deuda en Peso Argentina,66
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,1.53,80824588,,,Titulos de Deuda en Peso Argentina,159
+e,ON Payway C1,ON,Payway,ARS,1.48,78183261,,,Titulos de Deuda en Peso Argentina,21
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,1.46,77126731,,,Titulos de Deuda en Peso Argentina,84
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,1.46,77126731,,,Titulos de Deuda en Peso Argentina,149
+e,Transportadora de Gas del Norte S.A.,Acción,Transportadora de Gas del Norte,ARS,1.42,75013670,,,Participaciones Accionarias Argentina,70
+e,Aluar Aluminio Argentino S.A.I.C.,Acción,Aluar Aluminio Argentino S.A.I.C,ARS,1.27,67089690,,,Participaciones Accionarias Argentina,56
+e,FF Provincia Leasing S 7A,Fideicomiso financiero,Provincia Leasing,,1.26,66561425,,,Certificados de Participacion Argentina,9
+e,ON Toyota Clase 38,ON,Toyota,ARS,1.23,64976629,,,Titulos de Deuda en Peso Argentina,9
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,1.01,53354793,,,Titulos de Deuda en Peso Argentina,61
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,1,52826528,,,Titulos de Deuda en Peso Argentina,64
+e,ON BBVA Frances Cl 47,ON,BBVA Frances,ARS,0.99,52298263,,,Titulos de Deuda en Peso Argentina,45
+e,ON Volkswagen Financial Services C15,ON,Volkswagen Financial Services,ARS,0.98,51769997,,,Titulos de Deuda en Peso Argentina,19
+e,ON Banco Comafi C22,ON,Banco Comafi,ARS,0.96,50713467,,,Titulos de Deuda en Peso Argentina,30
+e,ON Santander Rio S 31,ON,Santander Rio,ARS,0.96,50713467,,,Titulos de Deuda en Peso Argentina,40
+e,ON BACS Clase 20,ON,BACS,ARS,0.95,50185201,,,Titulos de Deuda en Peso Argentina,18
+e,Transener S.A.,Acción,Transener,ARS,0.91,48072140,,,Participaciones Accionarias Argentina,84
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,0.87,45959079,,,Participaciones Accionarias Argentina,77
+e,Cresud S.A.,Acción,Cresud,ARS,0.85,44902549,,,Participaciones Accionarias Argentina,38
+e,Bono CER TZX27,Soberano,Tesoro Nacional,ARS,0.79,41732957,,,Titulos de Deuda en Peso Argentina,43
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,0.67,35393774,,,Titulos de Deuda en Peso Argentina,158
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,0.59,31167651,,,Participaciones Accionarias Argentina,83
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,0.54,28526325,,,Titulos de Deuda en Peso Argentina,136
+e,Metrogas S.A.,Acción,Metrogas,ARS,0.52,27469794,,,Participaciones Accionarias Argentina,54
+e,Grupo Supervielle S.A.,Acción,Grupo Supervielle,ARS,0.48,25356733,,,Participaciones Accionarias Argentina,64
+e,Telecom Argentina S.A.,Acción,Telecom Argentina,ARS,0.45,23771938,,,Participaciones Accionarias Argentina,43
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,0.44,23243672,,,Participaciones Accionarias Argentina,77
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,0.27,14263163,,,Titulos de Deuda en Peso Argentina,165
+e,Banco do Brasil S.A.,Acción,Banco do Brasil,,0.24,12678367,,,Participaciones Accionarias Brasil,9
+e,Banco de Valores S.A.,Acción,Banco de Valores,ARS,0.18,9508775,,,Participaciones Accionarias Argentina,31
+e,Sociedad Comercial del Plata S.A.,Acción,Sociedad Comercial del Plata,ARS,0.12,6339183,,,Participaciones Accionarias Argentina,31
+e,Autopistas del Sol S.A.,Acción,Autopistas del Sol,ARS,0.11,5810918,,,Participaciones Accionarias Argentina,12
+e,Capex S.A.,Acción,Capex,ARS,0.09,4754388,,,Participaciones Accionarias Argentina,10
+e,FF AMFAyS S50 Clase A,Fideicomiso financiero,AMFAyS,,0.09,4754388,,,Certificados de Participacion Argentina,12
+e,Distribuidora de Gas Cuyana S.A.,Acción,Distribuidora de Gas Cuyana,ARS,0.06,3169592,,,Participaciones Accionarias Argentina,8
+e,Edenor S.A.,Acción,Edenor,ARS,0.04,2113061,,,Participaciones Accionarias Argentina,49
+e,Banco Hipotecario S.A.,Acción,Banco Hipotecario,ARS,0.03,1584796,,,Participaciones Accionarias Argentina,8
+e,Inversiones y Representaciones S.A. (IRSA),Acción,Inversiones y Representaciones S.A. (IRSA),ARS,0.02,1056531,,,Participaciones Accionarias Argentina,35
+e,San Miguel S.A.,Acción,San Miguel,ARS,0.01,528265.2786,,,Participaciones Accionarias Argentina,4
+p,Alpha Planeamiento Equilibrado,ICBC,RM y Otros ARS,61.9248,0.7344,43,,,,
+p,Alpha Renta Plus,ICBC,RF ARS Disc,46.2413,0.5947,30,,,,
+p,Alpha Mercosur,ICBC,RV Global,44.7683,0.7487,18,,,,
+p,Alpha Mega,ICBC,RV ARG Merval,42.4811,0.712,22,,,,
+p,Toronto Trust Multimercado,Investis,RV ARG Otros,41.4321,0.6836,23,,,,
+p,Lombard Acciones Lideres,Patagonia,RV ARG Merval,40.859,0.6931,23,,,,
+p,Max Acciones Argentinas,Max Capital,RV ARG Merval,40.8342,0.6975,20,,,,
+p,Fima Acciones,Galicia,RV ARG Merval,40.7158,0.6987,21,,,,

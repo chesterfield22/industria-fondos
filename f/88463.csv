@@ -1,0 +1,68 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Toronto Trust Dinamico,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Credito y Securitizacion S.A. (BACS),,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,75748373996,,,,,,,,
+m,aum_planilla,,,,,,,,,
+m,dif_pn_aum,,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88463,,,,,,,,
+m,n_especies,16,,,,,,,,
+m,activos_pn,100.05,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,38.72,,,,,,,,
+m,top5,79.97,,,,,,,,
+m,top10,94.69,,,,,,,,
+m,hhi_especies,2013.0793,,,,,,,,
+m,n_emisores,3,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,79.65,,,,,,,,
+m,hhi_emisores,6363.335,,,,,,,,
+m,sin_emisor_pct,14.51,,,,,,,,
+t,Soberano,79.65,6,,,,,,,
+t,Cheque,14.51,8,,,,,,,
+t,FCI,3.89,1,,,,,,,
+t,ON,2.02,1,,,,,,,
+c,ARS,96.18,,,,,,,,
+c,sin dato,3.89,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,96.16,,,,,,,,
+r,Certificados de Participacion Argentina,3.89,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.05,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,38.72,29329770411,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,15.1,11438004473,,,Titulos de Deuda en Peso Argentina,67
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,10.09,7643010936,,,Titulos de Deuda en Peso Argentina,61
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,9.56,7241544554,,,Titulos de Deuda en Peso Argentina,56
+e,Cheque #MAV261160079,Cheque,,ARS,6.5,4923644310,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,3.89,2946611748,,,Certificados de Participacion Argentina,96
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,3.38,2560295041,,,Titulos de Deuda en Peso Argentina,142
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,2.8,2120954472,,,Titulos de Deuda en Peso Argentina,80
+e,Cheque E *MAV061101217,Cheque,,ARS,2.63,1992182236,,,Titulos de Deuda en Peso Argentina,1
+e,ON Banco Nacion Argentina Clase 4,ON,Banco Nacion Argentina,ARS,2.02,1530117155,,,Titulos de Deuda en Peso Argentina,22
+e,Cheque E *MAV120101495,Cheque,,ARS,0.97,734759228,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120101494,Cheque,,ARS,0.97,734759228,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120101496,Cheque,,ARS,0.97,734759228,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120101497,Cheque,,ARS,0.97,734759228,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120101498,Cheque,,ARS,0.97,734759228,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121201612,Cheque,,ARS,0.53,401466382,,,Titulos de Deuda en Peso Argentina,1
+p,Consultatio Gestion IV,Consultatio,RF MULT Disc,55.1747,0.8271,3,,,,
+p,BAVSA Global II,BAVSA,RF ARS CER,48.5105,0.7259,3,,,,
+p,MEGAQM Estrategia 7,MegaQM,RF ARS Disc,47.3184,0.694,3,,,,
+p,Galileo Estrategia,Delta,T+1,43.3612,0.7474,2,,,,
+p,SBS Capital Plus,SBS,RF USD Linked,40.8985,0.71,3,,,,
+p,Lombard Dinámico I,Patagonia,RF ARS Lecap,40.3492,0.7846,4,,,,
+p,BAVSA Renta Balanceado XI,BAVSA,RV ARG Otros,40.2878,0.726,3,,,,
+p,Consultatio Multimercado I,Consultatio,RF MULT Disc,39.5328,0.6244,3,,,,

@@ -1,0 +1,77 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Fima PB Acciones,,,,,,,,
+m,gerente,Galicia Asset Management S.A.U.,,,,,,,,
+m,depositaria,Banco de Galicia y Buenos Aires S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,RV ARG Merval,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,46315412782,,,,,,,,
+m,aum_planilla,46315412782,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63255,,,,,,,,
+m,n_especies,26,,,,,,,,
+m,activos_pn,100.52,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.05,,,,,,,,
+m,top1,15.76,,,,,,,,
+m,top5,65.12,,,,,,,,
+m,top10,87.82,,,,,,,,
+m,hhi_especies,1024.5607,,,,,,,,
+m,n_emisores,26,,,,,,,,
+m,emisor_top,YPF,,,,,,,,
+m,emisor_top_pct,15.76,,,,,,,,
+m,hhi_emisores,1024.5607,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,87,20,,,,,,,
+t,Cedear,12.49,5,,,,,,,
+t,FCI,0.98,1,,,,,,,
+c,ARS,99.49,,,,,,,,
+c,sin dato,0.98,,,,,,,,
+r,Disponibilidades,0.05,,,,,,,,
+r,Participaciones Accionarias Argentina,99.49,,,,,,,,
+r,Certificados de Participacion Argentina,0.98,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.52,,,,,,,,
+e,YPF S.A.,Acción,YPF,ARS,15.76,7299309054,,,Participaciones Accionarias Argentina,122
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,14.75,6831523385,,,Participaciones Accionarias Argentina,93
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,14.16,6558262450,,,Participaciones Accionarias Argentina,129
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,12.98,6011740579,,,Participaciones Accionarias Argentina,117
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,7.47,3459761335,,,Participaciones Accionarias Argentina,86
+e,Cedear Globant,Cedear,Globant,ARS,6.06,2806714015,,,Participaciones Accionarias Argentina,4
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,5.99,2774293226,,,Participaciones Accionarias Argentina,104
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,5.18,2399138382,,,Participaciones Accionarias Argentina,104
+e,Cedear Lithium Americas (Argentina) Corp,Cedear,Lithium Americas (Argentina) Corp,ARS,2.81,1301463099,,,Participaciones Accionarias Argentina,2
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,2.66,1231989980,,,Participaciones Accionarias Argentina,85
+e,Grupo Supervielle S.A.,Acción,Grupo Supervielle,ARS,2.38,1102306824,,,Participaciones Accionarias Argentina,64
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,2.08,963360586,,,Participaciones Accionarias Argentina,50
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,2.02,935571338,,,Participaciones Accionarias Argentina,77
+e,Cedear Lithium Americas Corp.,Cedear,Lithium Americas Corp.,ARS,1.25,578942660,,,Participaciones Accionarias Argentina,2
+e,Transener S.A.,Acción,Transener,ARS,1.16,537258788,,,Participaciones Accionarias Argentina,84
+e,FCI Pionero Pesos - Clase A,FCI,Pionero Pesos,,0.98,453891045,,,Certificados de Participacion Argentina,14
+e,Transportadora de Gas del Norte S.A.,Acción,Transportadora de Gas del Norte,ARS,0.75,347365596,,,Participaciones Accionarias Argentina,70
+e,Cresud S.A.,Acción,Cresud,ARS,0.74,342734055,,,Participaciones Accionarias Argentina,38
+e,Aluar Aluminio Argentino S.A.I.C.,Acción,Aluar Aluminio Argentino S.A.I.C,ARS,0.41,189893192,,,Participaciones Accionarias Argentina,56
+e,Cedear Adecoagro,Cedear,Adecoagro,ARS,0.29,134314697,,,Participaciones Accionarias Argentina,9
+e,Edenor S.A.,Acción,Edenor,ARS,0.28,129683156,,,Participaciones Accionarias Argentina,49
+e,Capex S.A.,Acción,Capex,ARS,0.2,92630826,,,Participaciones Accionarias Argentina,10
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,0.07,32420789,,,Participaciones Accionarias Argentina,77
+e,Inversiones y Representaciones S.A. (IRSA),Acción,Inversiones y Representaciones S.A. (IRSA),ARS,0.02,9263083,,,Participaciones Accionarias Argentina,35
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,0.01,4631541,,,Participaciones Accionarias Argentina,83
+e,Distribuidora de Gas Cuyana S.A.,Acción,Distribuidora de Gas Cuyana,ARS,0.01,4631541,,,Participaciones Accionarias Argentina,8
+p,MAF Acciones Argentina,Mariva,RV ARG Merval,82.0926,0.9569,16,,,,
+p,SBS Acciones Argentina,SBS,RV ARG Merval,81.5776,0.957,13,,,,
+p,Fima Acciones,Galicia,RV ARG Merval,81.4674,0.9535,20,,,,
+p,Pellegrini Acciones,Pellegrini,RV ARG Merval,81.269,0.959,17,,,,
+p,Crecer Acciones,Ciudad,RV ARG Merval,80.7037,0.9505,17,,,,
+p,gForce MSCI MERVAL FCIA ETF,Galicia,RV ARG Merval,80.6952,0.9504,17,,,,
+p,Balanz Acciones,Balanz,RV ARG Merval,80.6842,0.9509,16,,,,
+p,Puente Acciones Argentinas,Puente,RV ARG Merval,80.6434,0.9478,15,,,,

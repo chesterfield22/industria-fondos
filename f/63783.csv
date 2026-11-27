@@ -1,0 +1,68 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,GSS Renta Fija Argentina,,,,,,,,
+m,gerente,Grupo SS S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS CER,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,87818130491,,,,,,,,
+m,aum_planilla,87818130491,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63783,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,95.19,,,,,,,,
+m,pasivos_cnv,4.81,,,,,,,,
+m,liquidez,0.47,,,,,,,,
+m,top1,23.34,,,,,,,,
+m,top5,75.45,,,,,,,,
+m,top10,93.81,,,,,,,,
+m,hhi_especies,1400.376,,,,,,,,
+m,n_emisores,6,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,79.9,,,,,,,,
+m,hhi_emisores,6578.419,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,79.9,9,,,,,,,
+t,Plazo fijo,13.91,1,,,,,,,
+t,ON,0.84,1,,,,,,,
+t,Caución,0.46,1,,,,,,,
+t,FCI,0.07,2,,,,,,,
+c,ARS,95.11,,,,,,,,
+c,sin dato,0.07,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,80.74,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,14.37,,,,,,,,
+r,Certificados de Participacion Argentina,0.07,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,4.81,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-4.81,,,,,,,,
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,23.34,20496751657,,,Titulos de Deuda en Peso Argentina,159
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,20.19,17730480546,,,Titulos de Deuda en Peso Argentina,158
+e,Pzo Fi UVA $ Bco Galicia,Plazo fijo,UVA $ Bco Galicia,ARS,13.91,12215501951,,,Operaciones a Plazo en Peso Argentina,5
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,11.73,10301066707,,,Titulos de Deuda en Peso Argentina,146
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,6.28,5514978595,,,Titulos de Deuda en Peso Argentina,118
+e,Bono Boncer TZXA7,Soberano,Tesoro Nacional,ARS,5.5,4829997177,,,Titulos de Deuda en Peso Argentina,17
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,5.13,4505070094,,,Titulos de Deuda en Peso Argentina,165
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,2.73,2397434962,,,Titulos de Deuda en Peso Argentina,160
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,2.61,2292053206,,,Titulos de Deuda en Peso Argentina,84
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,2.39,2098853319,,,Titulos de Deuda en Peso Argentina,92
+e,ON GEMSA 18,ON,GEMSA,ARS,0.84,737672296,,,Titulos de Deuda en Peso Argentina,9
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,0.46,403963400,,,Operaciones a Plazo en Peso Argentina,195
+e,FCI BM Smart Money Market - Clase B,FCI,BM Smart Money Market,,0.06,52690878,,,Certificados de Participacion Argentina,34
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.01,8781813,,,Certificados de Participacion Argentina,77
+p,GSS III,Grupo SS,RF ARS Disc,76.4978,0.9339,10,,,,
+p,GSS Retorno Total,Grupo SS,RF MULT Disc,61.7242,0.7866,8,,,,
+p,MAF Ahorro Pesos,Mariva,RF ARS CER,58.0659,0.7647,5,,,,
+p,Lombard Abierto Plus,Patagonia,RF ARS CER,55.5168,0.7653,7,,,,
+p,Superfondo Renta Fija,Santander,RF ARS CER,54.8359,0.7642,8,,,,
+p,Champaquí Cobertura,Bancor,RF ARS CER,54.7102,0.7086,6,,,,
+p,Adcap Gestion Estrategica VI,Adcap,RM y Otros ARS,53.8045,0.7254,4,,,,
+p,FBA Cobertura Pesos,BBVA,RF ARS CER,52.8262,0.7083,5,,,,

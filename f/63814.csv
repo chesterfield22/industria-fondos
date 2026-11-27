@@ -1,0 +1,77 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,FBA Renta Mixta,,,,,,,,
+m,gerente,BBVA Asset Management Argentina S.A.U.S.G.F.C.I.,,,,,,,,
+m,depositaria,BBVA Argentina S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,18442042563,,,,,,,,
+m,aum_planilla,18442042563,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63814,,,,,,,,
+m,n_especies,22,,,,,,,,
+m,activos_pn,106.28,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,10.62,,,,,,,,
+m,top1,23.74,,,,,,,,
+m,top5,74.5,,,,,,,,
+m,top10,99.38,,,,,,,,
+m,hhi_especies,1387.1804,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,81.59,,,,,,,,
+m,hhi_emisores,6801.3642,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,81.59,10,,,,,,,
+t,Acción,14.04,8,,,,,,,
+t,Caución,10.3,1,,,,,,,
+t,BCRA,0.02,2,,,,,,,
+t,FCI,0.01,1,,,,,,,
+c,ARS,105.95,,,,,,,,
+c,sin dato,0.01,,,,,,,,
+r,Disponibilidades,0.32,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,81.61,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,10.3,,,,,,,,
+r,Participaciones Accionarias Argentina,14.04,,,,,,,,
+r,Certificados de Participacion Argentina,0.01,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),6.28,,,,,,,,
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,23.74,4378140904,,,Titulos de Deuda en Peso Argentina,160
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,17.1,3153589278,,,Titulos de Deuda en Peso Argentina,118
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,12.3,2268371235,,,Titulos de Deuda en Peso Argentina,146
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,11.06,2039689907,,,Titulos de Deuda en Peso Argentina,165
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,10.3,1899530384,,,Operaciones a Plazo en Peso Argentina,195
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,8.36,1541754758,,,Titulos de Deuda en Peso Argentina,149
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,5.75,1060417447,,,Titulos de Deuda en Peso Argentina,75
+e,YPF S.A.,Acción,YPF,ARS,3.87,713707047,,,Participaciones Accionarias Argentina,122
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,3.71,684199779,,,Participaciones Accionarias Argentina,117
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,3.19,588301158,,,Titulos de Deuda en Peso Argentina,158
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,2.3,424166979,,,Participaciones Accionarias Argentina,129
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,1.5,276630638,,,Participaciones Accionarias Argentina,104
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,1,184420426,,,Participaciones Accionarias Argentina,104
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,0.83,153068953,,,Participaciones Accionarias Argentina,93
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,0.54,99587030,,,Participaciones Accionarias Argentina,85
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,0.29,53481923,,,Participaciones Accionarias Argentina,83
+e,Bonos Rep Argentina GD38,Soberano,Tesoro Nacional,ARS,0.07,12909430,,,Titulos de Deuda en Peso Argentina,38
+e,Bono Bopreal 2027 Serie 1 Clase D BPOD7,BCRA,BCRA,ARS,0.01,1844204,,,Titulos de Deuda en Peso Argentina,22
+e,Bonos Rep Argentina GD35,Soberano,Tesoro Nacional,ARS,0.01,1844204,,,Titulos de Deuda en Peso Argentina,54
+e,Bonos Rep Argentina GD30,Soberano,Tesoro Nacional,ARS,0.01,1844204,,,Titulos de Deuda en Peso Argentina,37
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,ARS,0.01,1844204,,,Titulos de Deuda en Peso Argentina,33
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.01,1844204,,,Certificados de Participacion Argentina,77
+p,Allaria Capital,Allaria,RM y Otros ARS,46.0986,0.6312,3,,,,
+p,BAVSA Ahorro Plus,BAVSA,RF ARS Lecap,42.8679,0.5753,4,,,,
+p,1810 Mas Ahorro,Proahorro,RF ARS Lecap,41.9649,0.6236,3,,,,
+p,Superfondo Renta Fija,Santander,RF ARS CER,39.8754,0.468,5,,,,
+p,FBA Renta Fija Pesos Plus I,BBVA,RF ARS Disc,39.8133,0.4412,5,,,,
+p,Alpha Renta Fija Serie 4,ICBC,RF ARS Lecap,38.6969,0.4797,4,,,,
+p,Mills Renta Fija Pesos,Mills Capital,RF ARS Disc,38.2326,0.5726,6,,,,
+p,FBA Renta Fija Pesos I,BBVA,T+1,37.8325,0.6207,5,,,,

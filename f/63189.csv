@@ -1,0 +1,62 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,FBA Money Market Pesos,,,,,,,,
+m,gerente,BBVA Asset Management Argentina S.A.U.S.G.F.C.I.,,,,,,,,
+m,depositaria,BBVA Argentina S.A.,,,,,,,,
+m,clasificacion,Plazo Fijo,,,,,,,,
+m,subtipo,MM ARS Clásico,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,4001231294149,,,,,,,,
+m,aum_planilla,4001231294149,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63189,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,99.99,,,,,,,,
+m,pasivos_cnv,0.01,,,,,,,,
+m,liquidez,35.14,,,,,,,,
+m,top1,15.12,,,,,,,,
+m,top5,51.85,,,,,,,,
+m,top10,68.46,,,,,,,,
+m,hhi_especies,648.843,,,,,,,,
+m,n_emisores,14,,,,,,,,
+m,emisor_top,Banco Nacion,,,,,,,,
+m,emisor_top_pct,15.12,,,,,,,,
+m,hhi_emisores,648.843,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Plazo fijo,64.86,13,,,,,,,
+t,Caución,7,1,,,,,,,
+c,ARS,71.86,,,,,,,,
+r,Disponibilidades,28.14,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,71.85,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.01,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.01,,,,,,,,
+e,Pzo Fi $ Bco Nacion,Plazo fijo,Banco Nacion,ARS,15.12,604986171675,,,Operaciones a Plazo en Peso Argentina,84
+e,Pzo Fi $ Bco Santander Ri,Plazo fijo,Banco Santander Ri,ARS,11.33,453339505627,,,Operaciones a Plazo en Peso Argentina,68
+e,Pzo Fi $ ICBC,Plazo fijo,ICBC,ARS,9.44,377716234168,,,Operaciones a Plazo en Peso Argentina,32
+e,Pzo Fi $ Bco Galicia,Plazo fijo,Banco Galicia,ARS,8.96,358510323956,,,Operaciones a Plazo en Peso Argentina,67
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,7,280086190590,,,Operaciones a Plazo en Peso Argentina,195
+e,Pzo Fi $ Bco Provincia,Plazo fijo,Banco Provincia,ARS,6.55,262080649767,,,Operaciones a Plazo en Peso Argentina,33
+e,Pzo Fi $ Nvo Bco Indus,Plazo fijo,Nvo Bco Indus,ARS,3.38,135241617742,,,Operaciones a Plazo en Peso Argentina,44
+e,Pzo Fi $ Bco Comafi,Plazo fijo,Banco Comafi,ARS,2.51,100430905483,,,Operaciones a Plazo en Peso Argentina,14
+e,Pzo Fi $ Bco Macro Bansud,Plazo fijo,Banco Macro Bansud,ARS,2.27,90827950377,,,Operaciones a Plazo en Peso Argentina,21
+e,Pzo Fi $ Nvo Bco Santa Fe,Plazo fijo,Nvo Bco Santa Fe,ARS,1.9,76023394589,,,Operaciones a Plazo en Peso Argentina,18
+e,Pzo Fi $ Bco Valores,Plazo fijo,Banco Valores,ARS,1.51,60418592542,,,Operaciones a Plazo en Peso Argentina,12
+e,Pzo Fi $ Bco Supervielle,Plazo fijo,Banco Supervielle,ARS,1.26,50415514306,,,Operaciones a Plazo en Peso Argentina,37
+e,Pzo Fi $ Bco Patagonia,Plazo fijo,Banco Patagonia,ARS,0.38,15204678918,,,Operaciones a Plazo en Peso Argentina,42
+e,Pzo Fi $ Bco Hipotecario,Plazo fijo,Banco Hipotecario,ARS,0.25,10003078235,,,Operaciones a Plazo en Peso Argentina,14
+p,Champaquí Fondo Inmediato,Bancor,MM ARS Clásico,74.8104,0.91,12,,,,
+p,1810 Ahorro,Proahorro,MM ARS Clásico,74.7069,0.9126,11,,,,
+p,Mercado Fondo,Mercado Pago,MM ARS Clásico,72.4576,0.865,10,,,,
+p,Premier Renta CP en Pesos,Supervielle,MM ARS Clásico,70.0629,0.859,9,,,,
+p,Argenfunds Liquidez,Argenfunds,MM ARS Clásico,66.449,0.8293,7,,,,
+p,Galileo Pesos,Delta,MM ARS Clásico,65.3906,0.8314,6,,,,
+p,Super Ahorro $,Santander,MM ARS Clásico,64.6323,0.7916,11,,,,
+p,Crecer Liquidez,Ciudad,MM ARS Clásico,64.0277,0.7753,12,,,,

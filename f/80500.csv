@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MEGAQM Renta Dólares,,,,,,,,
+m,gerente,MEGA QM S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD CP,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,14299493,,,,,,,,
+m,aum_planilla,14299493,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/80500,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,102.16,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,21.01,,,,,,,,
+m,top1,29.58,,,,,,,,
+m,top5,84.26,,,,,,,,
+m,top10,97.37,,,,,,,,
+m,hhi_especies,1740.2133,,,,,,,,
+m,n_emisores,14,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,29.58,,,,,,,,
+m,hhi_emisores,1740.2133,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,48.37,10,,,,,,,
+t,Soberano,29.58,1,,,,,,,
+t,Caución,20.98,1,,,,,,,
+t,FCI,3.22,2,,,,,,,
+c,USD,102.15,,,,,,,,
+r,Disponibilidades,0.03,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,77.93,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,20.98,,,,,,,,
+r,Certificados de Participacion Argentina,3.22,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),2.16,,,,,,,,
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,29.58,4229790,,,Titulos de Deuda en Dolar Estadounidense,83
+e,Caucion Colocadora U$S BYMA,Caución,Caución BYMA,USD,20.98,3000034,,,Operaciones a Plazo en Dolar Estadounidense,35
+e,ON YPF Clase 38,ON,YPF,USD,12.19,1743108,,,Titulos de Deuda en Dolar Estadounidense,26
+e,ON BBVA Frances Cl 45,ON,BBVA Frances,USD,10.84,1550065,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON Tarj Naranja C67 S2,ON,Tarj Naranja,USD,10.67,1525756,,,Titulos de Deuda en Dolar Estadounidense,22
+e,ON Arcor Clase 26,ON,Arcor,USD,4.25,607728.4517,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Banco de Valores C4,ON,Banco de Valores,USD,2.84,406105.6006,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Banco Comafi C21,ON,Banco Comafi,USD,2.8,400385.8034,,,Titulos de Deuda en Dolar Estadounidense,14
+e,FCI IAM Liquidez en Dólares - Clase B,FCI,IAM Liquidez en Dólares,USD,1.7,243091.3807,,,Certificados de Participacion Argentina,13
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,1.52,217352.2933,,,Certificados de Participacion Argentina,37
+e,ON Telecom C25,ON,Telecom,USD,1.44,205912.6989,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON ICBC Clase 6 220527,ON,ICBC,USD,1.42,203052.8003,,,Titulos de Deuda en Dolar Estadounidense,18
+e,ON Pan American C42,ON,Pan American,USD,1.07,153004.5749,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Diesel Lange S1,ON,Diesel Lange,USD,0.85,121545.6903,,,Titulos de Deuda en Dolar Estadounidense,10
+p,Wise Capital Global Markets,Wise,RF USD GL Inc ARG,40.8908,0.4786,2,,,,
+p,Pionero Dólar Gestión,Macro,RF USD Disc,40.3014,0.6907,3,,,,
+p,Argenfunds Renta Crecimiento,Argenfunds,RF USD Disc,38.2189,0.611,5,,,,
+p,MAF Mix I,Mariva,RF USD Disc,36.9054,0.5801,4,,,,
+p,Schroder Retorno Total Cuatro,Schroder,RF USD CP,31.9857,0.5098,5,,,,
+p,Novus Ahorro Dólares,Novus,RF USD Disc,30.3475,0.4546,2,,,,
+p,Pionero Renta Dólar Estrategia,Macro,RF USD GL Inc ARG,29.956,0.4855,3,,,,
+p,Alpha Renta Capital Dólar,ICBC,RF USD Disc,28.9574,0.5301,1,,,,

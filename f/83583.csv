@@ -1,0 +1,69 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Fundcorp Capital Abierto Pymes,,,,,,,,
+m,gerente,CMF Asset Management S.A.U.,,,,,,,,
+m,depositaria,Banco C.M.F. S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,PYME,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,2110682518,,,,,,,,
+m,aum_planilla,2110682518,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83583,,,,,,,,
+m,n_especies,18,,,,,,,,
+m,activos_pn,100.01,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,14.92,,,,,,,,
+m,top5,56.67,,,,,,,,
+m,top10,82.54,,,,,,,,
+m,hhi_especies,873.48,,,,,,,,
+m,n_emisores,18,,,,,,,,
+m,emisor_top,Sion Conecta Infraestructura Privada,,,,,,,,
+m,emisor_top_pct,14.92,,,,,,,,
+m,hhi_emisores,873.48,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,84.52,16,,,,,,,
+t,Fideicomiso financiero,14.92,1,,,,,,,
+t,FCI,0.58,1,,,,,,,
+c,ARS,85.1,,,,,,,,
+c,sin dato,14.92,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,84.51,,,,,,,,
+r,Certificados de Participacion Argentina,15.5,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.01,,,,,,,,
+e,FF Sion Conecta Infraestructura Privada S1,Fideicomiso financiero,Sion Conecta Infraestructura Privada,,14.92,314913832,,,Certificados de Participacion Argentina,16
+e,ON Pyme RDA Renting S3 C1,ON,Pyme RDA Renting,ARS,14.46,305204692,,,Titulos de Deuda en Peso Argentina,7
+e,ON Pimento S1 C1,ON,Pimento,ARS,9.64,203469795,,,Titulos de Deuda en Peso Argentina,9
+e,ON Automotores Pampeanos Clase 1,ON,Automotores Pampeanos,ARS,8.95,188906085,,,Titulos de Deuda en Peso Argentina,13
+e,ON PyMe Gar Agropecuaria Sur S1,ON,PyMe Gar Agropecuaria Sur,ARS,8.7,183629379,,,Titulos de Deuda en Peso Argentina,11
+e,ON Madero Harbour S1 C2 161027,ON,Madero Harbour,ARS,6.23,131495521,,,Titulos de Deuda en Peso Argentina,6
+e,ON Pyme Spazios Inmuebles S1 C1,ON,Pyme Spazios Inmuebles,ARS,5.07,107011604,,,Titulos de Deuda en Peso Argentina,13
+e,ON Pyme Gar Demagro S1 C1,ON,Pyme Gar Demagro,ARS,4.88,103001307,,,Titulos de Deuda en Peso Argentina,6
+e,ON Tecnovax S1 C1,ON,Tecnovax,ARS,4.86,102579170,,,Titulos de Deuda en Peso Argentina,7
+e,ON Pyme Gar ENTRE S1,ON,Pyme Gar ENTRE,ARS,4.83,101945966,,,Titulos de Deuda en Peso Argentina,7
+e,ON Sumatoria C9,ON,Sumatoria,ARS,4.79,101101693,,,Titulos de Deuda en Peso Argentina,7
+e,ON Pyme Gar Rafaela Alimentos S1 C2,ON,Pyme Gar Rafaela Alimentos,ARS,3.74,78939526,,,Titulos de Deuda en Peso Argentina,6
+e,ON Hogar y Tecnología S1 131027,ON,Hogar y Tecnología,ARS,3.34,70496796,,,Titulos de Deuda en Peso Argentina,7
+e,ON Pyme Edisur S1,ON,Pyme Edisur,ARS,2.41,50867449,,,Titulos de Deuda en Peso Argentina,3
+e,ON BLM Desarrollos S1,ON,BLM Desarrollos,ARS,1.76,37148012,,,Titulos de Deuda en Peso Argentina,14
+e,ON Maximia S1,ON,Maximia,ARS,0.63,13297300,,,Titulos de Deuda en Peso Argentina,11
+e,FCI Lombard Renta en $,FCI,Lombard Renta en $,ARS,0.58,12241959,,,Certificados de Participacion Argentina,29
+e,ON Ratto Hnos S1 C1 110228,ON,Ratto Hnos,ARS,0.23,4854570,,,Titulos de Deuda en Peso Argentina,14
+p,Champaquí FCI Abierto Pymes,Bancor,PYME,9.1398,0.1625,9,,,,
+p,Julio A. Roca Abierto Pymes,Tutelar,PYME,7.2845,0.0973,3,,,,
+p,Premier Sustentable ASG,Supervielle,ASG,5.3689,0.051,2,,,,
+p,Stonex PYMEs,StoneX,PYME,5.2981,0.1088,3,,,,
+p,Allaria Sustentable ASG,Allaria,ASG,5.069,0.0382,1,,,,
+p,Premier Abierto Pymes,Supervielle,PYME,5.03,0.0872,6,,,,
+p,Allaria Selection II Abierto Pymes,Allaria,PYME,4.859,0.0522,1,,,,
+p,Galileo FCI Abierto Pymes,Delta,PYME,4.6084,0.0863,7,,,,

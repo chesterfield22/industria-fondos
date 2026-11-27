@@ -1,0 +1,79 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Max Dinamico III,,,,,,,,
+m,gerente,Max Capital Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,52616125269,,,,,,,,
+m,aum_planilla,52616125269,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86148,,,,,,,,
+m,n_especies,24,,,,,,,,
+m,activos_pn,100.06,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,20.01,,,,,,,,
+m,top5,70.23,,,,,,,,
+m,top10,86.35,,,,,,,,
+m,hhi_especies,1125.6409,,,,,,,,
+m,n_emisores,8,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,63.25,,,,,,,,
+m,hhi_emisores,4252.5876,,,,,,,,
+m,sin_emisor_pct,8.61,,,,,,,,
+t,Soberano,63.25,7,,,,,,,
+t,ON,19.48,3,,,,,,,
+t,Pagaré,4.64,2,,,,,,,
+t,Acción,4.63,3,,,,,,,
+t,FCI,4.08,2,,,,,,,
+t,Cheque,3.97,7,,,,,,,
+c,ARS,95.97,,,,,,,,
+c,sin dato,4.08,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,91.35,,,,,,,,
+r,Participaciones Accionarias Argentina,4.63,,,,,,,,
+r,Certificados de Participacion Argentina,4.08,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.06,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,20.01,10528486666,,,Titulos de Deuda en Peso Argentina,103
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,15.32,8060790391,,,Titulos de Deuda en Peso Argentina,86
+e,ON TGS C4,ON,TGS,ARS,14.32,7534629139,,,Titulos de Deuda en Peso Argentina,4
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,10.99,5782512167,,,Titulos de Deuda en Peso Argentina,118
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,9.59,5045886413,,,Titulos de Deuda en Peso Argentina,149
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,3.45,1815256322,,,Titulos de Deuda en Peso Argentina,158
+e,ON CGC C 39,ON,CGC,ARS,3.38,1778425034,,,Titulos de Deuda en Peso Argentina,34
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,3.34,1757378584,,,Titulos de Deuda en Peso Argentina,142
+e,FCI Balanz Capital Money Market Clase C,FCI,Balanz Capital Money Market,,3.16,1662669559,,,Certificados de Participacion Argentina,47
+e,Pagare #MAV031260107,Pagaré,,ARS,2.79,1467989895,,,Titulos de Deuda en Peso Argentina,1
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,2.21,1162816368,,,Participaciones Accionarias Argentina,129
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,2.13,1120723468,,,Participaciones Accionarias Argentina,104
+e,Pagare #MAV101260084,Pagaré,,ARS,1.85,973398317,,,Titulos de Deuda en Peso Argentina,1
+e,ON CGC C 41,ON,CGC,ARS,1.78,936567030,,,Titulos de Deuda en Peso Argentina,13
+e,Cheque E *MAV121102110,Cheque,,ARS,1.37,720840916,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Ciclo Nova Ahorro - Clase E,FCI,Ciclo Nova Ahorro,,0.92,484068352,,,Certificados de Participacion Argentina,38
+e,Cheque E *MAV121102111,Cheque,,ARS,0.73,384097714,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV161101891,Cheque,,ARS,0.56,294650302,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101102566,Cheque,,ARS,0.56,294650302,,,Titulos de Deuda en Peso Argentina,1
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,0.55,289388689,,,Titulos de Deuda en Peso Argentina,56
+e,Cheque E *MAV091101651,Cheque,,ARS,0.31,163109988,,,Titulos de Deuda en Peso Argentina,1
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,0.29,152586763,,,Participaciones Accionarias Argentina,83
+e,Cheque E *MAV091101649,Cheque,,ARS,0.24,126278701,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091101650,Cheque,,ARS,0.2,105232251,,,Titulos de Deuda en Peso Argentina,1
+p,Max Dinamico V,Max Capital,RF MULT Disc,44.0479,0.719,4,,,,
+p,Pionero Integral,Macro,RF MULT Disc,41.5307,0.6313,5,,,,
+p,Max Ahorro Pesos,Max Capital,T+1,40.697,0.5388,5,,,,
+p,Axis Estrategia 18,Axis,RF MULT Disc,40.621,0.5781,3,,,,
+p,Max Retorno Total Pesos IV,Max Capital,RF ARS Disc,39.6203,0.48,6,,,,
+p,Max Estrategico I,Max Capital,RM y Otros ARS,39.5591,0.6895,4,,,,
+p,Pionero Desarrollo,Macro,RF MULT Disc,37.7711,0.5431,4,,,,
+p,Argenfunds Financiamiento Pesos II,Argenfunds,INFRA,36.3718,0.5536,4,,,,

@@ -1,0 +1,69 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Novus Renta Mixta,,,,,,,,
+m,gerente,Novus Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,13802016020,,,,,,,,
+m,aum_planilla,13802016020,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85873,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,106.18,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.09,,,,,,,,
+m,top1,22.71,,,,,,,,
+m,top5,70.81,,,,,,,,
+m,top10,93.94,,,,,,,,
+m,hhi_especies,1278.9489,,,,,,,,
+m,n_emisores,14,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,32.1,,,,,,,,
+m,hhi_emisores,1705.4427,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,53.4,8,,,,,,,
+t,Soberano,32.1,2,,,,,,,
+t,Cedear,14.43,4,,,,,,,
+t,FCI,0.06,1,,,,,,,
+c,ARS,99.93,,,,,,,,
+c,sin dato,0.06,,,,,,,,
+r,Disponibilidades,0.09,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,32.1,,,,,,,,
+r,Participaciones Accionarias Argentina,67.41,,,,,,,,
+r,Participaciones Accionarias Brasil,0.42,,,,,,,,
+r,Certificados de Participacion Argentina,0.06,,,,,,,,
+r,Otros Activos,6.1,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),6.18,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,22.71,3134437838,,,Titulos de Deuda en Peso Argentina,250
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,16.59,2289754458,,,Participaciones Accionarias Argentina,117
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,14.85,2049599379,,,Participaciones Accionarias Argentina,93
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,9.39,1296009304,,,Titulos de Deuda en Peso Argentina,165
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,7.27,1003406565,,,Participaciones Accionarias Argentina,104
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,6.71,926115275,,,Participaciones Accionarias Argentina,52
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,5.18,714944430,,,Participaciones Accionarias Argentina,38
+e,Edenor S.A.,Acción,Edenor,ARS,4.58,632132334,,,Participaciones Accionarias Argentina,49
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,3.91,539658826,,,Participaciones Accionarias Argentina,86
+e,Grupo Supervielle S.A.,Acción,Grupo Supervielle,ARS,2.75,379555441,,,Participaciones Accionarias Argentina,64
+e,Cedear Banco Bradesco,Cedear,Banco Bradesco,ARS,2.12,292602740,,,Participaciones Accionarias Argentina,10
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,1.97,271899716,,,Participaciones Accionarias Argentina,129
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,1.48,204269837,,,Participaciones Accionarias Argentina,77
+e,Cedear XP Inc.,Cedear,XP Inc.,ARS,0.42,57968467,,,Participaciones Accionarias Brasil,4
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.06,8281210,,,Certificados de Participacion Argentina,77
+p,IAM Renta Variable,BIND,RV ARG Rofex 20,53.2354,0.7483,9,,,,
+p,MAF Acciones Argentina,Mariva,RV ARG Merval,46.414,0.5043,8,,,,
+p,Chimpay Retorno Total,Chimpay,RM y Otros ARS,45.7588,0.6998,6,,,,
+p,Puente Acciones Argentinas,Puente,RV ARG Merval,45.5804,0.4772,8,,,,
+p,Novus Renta Variable,Novus,RV ARG Merval,45.0087,0.4946,9,,,,
+p,1822 Raices Valores Negociables,Provinfondos,RV ARG Merval,43.9618,0.5028,9,,,,
+p,gForce MSCI MERVAL FCIA ETF,Galicia,RV ARG Merval,43.7533,0.4739,8,,,,
+p,Crecer Acciones,Ciudad,RV ARG Merval,43.6951,0.4735,8,,,,

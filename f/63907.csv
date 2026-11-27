@@ -1,0 +1,95 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Consultatio Renta Dolares,,,,,,,,
+m,gerente,Consultatio Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,81509238924,,,,,,,,
+m,aum_planilla,81509238924,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63907,,,,,,,,
+m,n_especies,39,,,,,,,,
+m,activos_pn,110.17,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.19,,,,,,,,
+m,top1,29.6,,,,,,,,
+m,top5,72.1,,,,,,,,
+m,top10,87.43,,,,,,,,
+m,hhi_especies,1619.0799,,,,,,,,
+m,n_emisores,30,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,69.91,,,,,,,,
+m,hhi_emisores,5053.6785,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,69.91,7,,,,,,,
+t,ON,22.41,17,,,,,,,
+t,Plazo fijo,9.87,1,,,,,,,
+t,Subsoberano,5.73,4,,,,,,,
+t,Acción,2.01,9,,,,,,,
+t,FCI,0.04,1,,,,,,,
+c,ARS,109.93,,,,,,,,
+c,sin dato,0.04,,,,,,,,
+r,Disponibilidades,0.19,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,98.06,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,9.87,,,,,,,,
+r,Participaciones Accionarias Argentina,2.01,,,,,,,,
+r,Certificados de Participacion Argentina,0.04,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),10.17,,,,,,,,
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,29.6,24126734722,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,22.66,18469993540,,,Titulos de Deuda en Peso Argentina,146
+e,Pzo Fi $ Nvo Bco Indus,Plazo fijo,Nvo Bco Indus,ARS,9.87,8044961882,,,Operaciones a Plazo en Peso Argentina,44
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,6.17,5029120042,,,Titulos de Deuda en Peso Argentina,84
+e,ON Tecpetrol C12,ON,Tecpetrol,ARS,3.8,3097351079,,,Titulos de Deuda en Peso Argentina,60
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,3.6,2934332601,,,Titulos de Deuda en Peso Argentina,250
+e,ON Telecom C24,ON,Telecom,ARS,3.56,2901728906,,,Titulos de Deuda en Peso Argentina,33
+e,Bono Boncer TZXD8,Soberano,Tesoro Nacional,ARS,3.04,2477880863,,,Titulos de Deuda en Peso Argentina,26
+e,ON Pluspetrol Clase 5,ON,Pluspetrol,ARS,2.7,2200749451,,,Titulos de Deuda en Peso Argentina,38
+e,Boncer Mendoza C1,Soberano,Tesoro Nacional,ARS,2.43,1980674506,,,Titulos de Deuda en Peso Argentina,49
+e,Bono Disc ARS Ley AR DICP,Soberano,Tesoro Nacional,ARS,2.41,1964372658,,,Titulos de Deuda en Peso Argentina,59
+e,Bono Prov Cordoba Clase 4,Subsoberano,Prov. Cordoba,ARS,2.26,1842108800,,,Titulos de Deuda en Peso Argentina,37
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,ARS,1.89,1540524616,,,Titulos de Deuda en Peso Argentina,58
+e,ON Banco Nacion Argentina Clase 6,ON,Banco Nacion Argentina,ARS,1.87,1524222768,,,Titulos de Deuda en Peso Argentina,12
+e,Bono Prov Cordoba Clase 6,Subsoberano,Prov. Cordoba,ARS,1.72,1401958909,,,Titulos de Deuda en Peso Argentina,36
+e,ON Aeropuertos 2000 Regs 2031,ON,Aeropuertos,ARS,1.44,1173733041,,,Titulos de Deuda en Peso Argentina,22
+e,ON TGS C4 Reg S,ON,TGS,ARS,1.41,1149280269,,,Titulos de Deuda en Peso Argentina,26
+e,ON Banco de Galicia 32 BYY1O,ON,Banco de Galicia,ARS,1.28,1043318258,,,Titulos de Deuda en Peso Argentina,44
+e,Bono Ciudad Bs As 261133,Subsoberano,Prov. Ciudad Bs As,ARS,1.04,847696085,,,Titulos de Deuda en Peso Argentina,15
+e,ON Bco Ciudad C23,ON,Banco Ciudad,ARS,0.82,668375759,,,Titulos de Deuda en Peso Argentina,16
+e,Letra Prov Bs As PBA28,Subsoberano,Prov. Buenos Aires,ARS,0.71,578715596,,,Titulos de Deuda en Peso Argentina,28
+e,ON BBVA Frances Cl 47,ON,BBVA Frances,ARS,0.64,521659129,,,Titulos de Deuda en Peso Argentina,45
+e,ON Banco Prov Clase 6,ON,Banco Provincia,ARS,0.64,521659129,,,Titulos de Deuda en Peso Argentina,43
+e,YPF S.A.,Acción,YPF,ARS,0.6,489055434,,,Participaciones Accionarias Argentina,122
+e,ON Pampa Energia C21,ON,Pampa Energia,ARS,0.52,423848042,,,Titulos de Deuda en Peso Argentina,36
+e,ON YPF Clase 28,ON,YPF,ARS,0.49,399395271,,,Titulos de Deuda en Peso Argentina,15
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,0.43,350489727,,,Participaciones Accionarias Argentina,129
+e,ON Genneia Clase 49,ON,Genneia,ARS,0.41,334187880,,,Titulos de Deuda en Peso Argentina,20
+e,ON Transp Gas Sur Cl 3,ON,Transp Gas Sur,ARS,0.32,260829565,,,Titulos de Deuda en Peso Argentina,43
+e,ON Santander Rio S 32,ON,Santander Rio,ARS,0.32,260829565,,,Titulos de Deuda en Peso Argentina,42
+e,ON YPF Luz C18 YFCJO,ON,YPF Luz,ARS,0.3,244527717,,,Titulos de Deuda en Peso Argentina,41
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,0.28,228225869,,,Participaciones Accionarias Argentina,93
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,0.25,203773097,,,Participaciones Accionarias Argentina,117
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,0.22,179320326,,,Participaciones Accionarias Argentina,86
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,0.11,89660163,,,Participaciones Accionarias Argentina,104
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,0.07,57056467,,,Participaciones Accionarias Argentina,104
+e,Transportadora de Gas del Norte S.A.,Acción,Transportadora de Gas del Norte,ARS,0.04,32603696,,,Participaciones Accionarias Argentina,70
+e,FCI Ciclo Nova Ahorro - Clase E,FCI,Ciclo Nova Ahorro,,0.04,32603696,,,Certificados de Participacion Argentina,38
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,0.01,8150924,,,Participaciones Accionarias Argentina,77
+p,Consultatio Deuda Argentina,Consultatio,RF ARS CER,59.5337,0.8093,11,,,,
+p,Consultatio Balance Fund,Consultatio,RF MULT Disc,57.8204,0.8357,21,,,,
+p,Consultatio Estrategico,Consultatio,RF MULT Disc,55.3171,0.7876,11,,,,
+p,Fima Renta Pesos,Galicia,RF ARS CER,53.1327,0.8201,3,,,,
+p,Consultatio One Ahorro,Consultatio,RF ARS CER,52.7614,0.7706,5,,,,
+p,Consultatio Global,Consultatio,RF MULT Disc,52.1499,0.7855,5,,,,
+p,Consultatio Tactico,Consultatio,RF MULT Disc,49.9761,0.7705,5,,,,
+p,Fima Renta Plus,Galicia,RF ARS CER,49.431,0.6793,3,,,,

@@ -1,0 +1,61 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Chaco Fondos Renta Fija I,,,,,,,,
+m,gerente,Nuevo Chaco Fondos S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Nuevo Banco del Chaco S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,2721147446,,,,,,,,
+m,aum_planilla,2721147446,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63685,,,,,,,,
+m,n_especies,10,,,,,,,,
+m,activos_pn,100.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,7.05,,,,,,,,
+m,top1,18.91,,,,,,,,
+m,top5,77.71,,,,,,,,
+m,top10,98.49,,,,,,,,
+m,hhi_especies,1424.4765,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,82.53,,,,,,,,
+m,hhi_emisores,6892.1343,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,82.53,6,,,,,,,
+t,Subsoberano,5.9,1,,,,,,,
+t,Pase,5.51,1,,,,,,,
+t,ON,4.55,2,,,,,,,
+c,ARS,98.49,,,,,,,,
+r,Disponibilidades,1.54,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,92.97,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,5.51,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.02,,,,,,,,
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,18.91,514568982,,,Titulos de Deuda en Peso Argentina,128
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,18.2,495248835,,,Titulos de Deuda en Peso Argentina,64
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,17.71,481915213,,,Titulos de Deuda en Peso Argentina,165
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,16.73,455247968,,,Titulos de Deuda en Peso Argentina,250
+e,Bono CER TZX27,Soberano,Tesoro Nacional,ARS,6.16,167622683,,,Titulos de Deuda en Peso Argentina,43
+e,Letra Prov Chaco BLN26,Subsoberano,Prov. Chaco,ARS,5.9,160547699,,,Titulos de Deuda en Peso Argentina,12
+e,Pase Colocador ARS MAE,Pase,Pase MAE,ARS,5.51,149935224,,,Operaciones a Plazo en Peso Argentina,14
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,4.82,131159307,,,Titulos de Deuda en Peso Argentina,82
+e,ON BACS Clase 19,ON,BACS,ARS,3.92,106668980,,,Titulos de Deuda en Peso Argentina,19
+e,ON Agrofina Clase 11,ON,Agrofina,ARS,0.63,17143229,,,Titulos de Deuda en Peso Argentina,9
+p,Pellegrini Retorno Total,Pellegrini,RF MULT Disc,65.5234,0.863,4,,,,
+p,1810 Ahorros Activos,Proahorro,RF ARS CER,61.3128,0.7079,4,,,,
+p,Consultatio Retorno Total,Consultatio,RM y Otros ARS,54.1679,0.7815,3,,,,
+p,Balanz Institucional,Balanz,RF ARS CER,51.1062,0.7564,3,,,,
+p,Premier Capital,Supervielle,RF ARS CER,50.5406,0.6964,3,,,,
+p,GMC Retorno Total V,GMC,RF MULT Disc,46.0488,0.7139,4,,,,
+p,Consultatio One Ahorro,Consultatio,RF ARS CER,45.9515,0.5308,3,,,,
+p,Axis Estrategia 15,Axis,RF MULT Disc,45.017,0.5922,3,,,,

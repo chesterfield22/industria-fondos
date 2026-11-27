@@ -1,0 +1,87 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Delta Internacional,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,RV ARG Merval,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Global,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,231597667,,,,,,,,
+m,aum_planilla,231597667,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63474,,,,,,,,
+m,n_especies,34,,,,,,,,
+m,activos_pn,101.78,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,5,,,,,,,,
+m,top1,12.44,,,,,,,,
+m,top5,41.31,,,,,,,,
+m,top10,64.01,,,,,,,,
+m,hhi_especies,552.4133,,,,,,,,
+m,n_emisores,31,,,,,,,,
+m,emisor_top,YPF,,,,,,,,
+m,emisor_top_pct,12.44,,,,,,,,
+m,hhi_emisores,552.9803,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,67.97,16,,,,,,,
+t,Cedear,25.13,12,,,,,,,
+t,ETF,2.5,1,,,,,,,
+t,Soberano,0.98,3,,,,,,,
+t,BCRA,0.19,2,,,,,,,
+c,ARS,94.27,,,,,,,,
+c,sin dato,2.5,,,,,,,,
+r,Disponibilidades,5,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,1.18,,,,,,,,
+r,Participaciones Accionarias Argentina,95.6,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.78,,,,,,,,
+e,YPF S.A.,Acción,YPF,ARS,12.44,28810750,,,Participaciones Accionarias Argentina,122
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,9.37,21700701,,,Participaciones Accionarias Argentina,117
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,9.01,20866950,,,Participaciones Accionarias Argentina,129
+e,Cedear Target Corp,Cedear,Target Corp,ARS,5.25,12158878,,,Participaciones Accionarias Argentina,2
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,5.24,12135718,,,Participaciones Accionarias Argentina,93
+e,Cablevision Holding S.A.,Acción,Cablevision Holding,ARS,5.21,12066238,,,Participaciones Accionarias Argentina,9
+e,Inversiones y Representaciones S.A. (IRSA),Acción,Inversiones y Representaciones S.A. (IRSA),ARS,4.92,11394605,,,Participaciones Accionarias Argentina,35
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,4.85,11232487,,,Participaciones Accionarias Argentina,86
+e,Cedear Nvidia Corp.,Cedear,Nvidia Corp.,ARS,3.97,9194427,,,Participaciones Accionarias Argentina,14
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,3.75,8684913,,,Participaciones Accionarias Argentina,104
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,2.97,6878451,,,Participaciones Accionarias Argentina,77
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,2.77,6415255,,,Participaciones Accionarias Argentina,104
+e,Cedear Mastercard,Cedear,Mastercard,ARS,2.62,6067859,,,Participaciones Accionarias Argentina,3
+e,Cedear Barrick Gold,Cedear,Barrick Gold,ARS,2.58,5975220,,,Participaciones Accionarias Argentina,3
+e,Cedear Tesla,Cedear,Tesla,ARS,2.54,5882581,,,Participaciones Accionarias Argentina,5
+e,Cedear FCI SPDR Gold Trust,ETF,Cedear FCI SPDR Gold Trust,,2.5,5789942,,,Participaciones Accionarias Argentina,12
+e,Telecom Argentina S.A.,Acción,Telecom Argentina,ARS,2.31,5349906,,,Participaciones Accionarias Argentina,43
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,2.14,4956190,,,Participaciones Accionarias Argentina,50
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,2.02,4678273,,,Participaciones Accionarias Argentina,85
+e,Cedear Facebook,Cedear,Facebook,ARS,1.86,4307717,,,Participaciones Accionarias Argentina,18
+e,Cedear JP Morgan,Cedear,JP Morgan,ARS,1.67,3867681,,,Participaciones Accionarias Argentina,9
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,1.48,3427645,,,Participaciones Accionarias Argentina,83
+e,Cedear Goldman Sachs Group,Cedear,Goldman Sachs Group,ARS,1.26,2918131,,,Participaciones Accionarias Argentina,2
+e,Metrogas S.A.,Acción,Metrogas,ARS,0.9,2084379,,,Participaciones Accionarias Argentina,54
+e,Cedear Microsoft,Cedear,Microsoft,ARS,0.73,1690663,,,Participaciones Accionarias Argentina,14
+e,Bonos Rep Argentina GD30,Soberano,Tesoro Nacional,ARS,0.45,1042190,,,Titulos de Deuda en Peso Argentina,37
+e,Bonos Rep Argentina GD38,Soberano,Tesoro Nacional,ARS,0.45,1042190,,,Titulos de Deuda en Peso Argentina,38
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,0.42,972710.2027,,,Participaciones Accionarias Argentina,52
+e,Transportadora de Gas del Norte S.A.,Acción,Transportadora de Gas del Norte,ARS,0.41,949550.436,,,Participaciones Accionarias Argentina,70
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,0.32,741112.5354,,,Participaciones Accionarias Argentina,77
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,ARS,0.1,231597.6673,,,Titulos de Deuda en Peso Argentina,33
+e,Bono Bopreal 2027 Serie 1 Clase D BPOD7,BCRA,BCRA,ARS,0.09,208437.9006,,,Titulos de Deuda en Peso Argentina,22
+e,Cedear Bank Of America,Cedear,Bank Of America,ARS,0.09,208437.9006,,,Participaciones Accionarias Argentina,4
+e,Bonos Rep Argentina GD35,Soberano,Tesoro Nacional,ARS,0.08,185278.1339,,,Titulos de Deuda en Peso Argentina,54
+p,Delta Acciones,Delta,RV ARG Merval,61.4128,0.8408,15,,,,
+p,Toronto Trust Multimercado,Investis,RV ARG Otros,60.0036,0.8161,15,,,,
+p,Alpha Acciones,ICBC,RV ARG Merval,59.8407,0.8413,15,,,,
+p,Ciclo Nova Value,Ciclo Nova,RV ARG Rofex 20,59.819,0.8288,17,,,,
+p,1810 Renta Variable Argentina,Proahorro,RV ARG Merval,59.7704,0.8543,15,,,,
+p,Bull Market Acciones Argentinas,Bull Market,RV ARG Merval,59.3808,0.8335,16,,,,
+p,Ualintec Renta Variable Pesos,Ualá,RV ARG Rofex 20,58.981,0.8047,16,,,,
+p,Superfondo Renta Variable,Santander,RV ARG Merval,58.8845,0.8372,14,,,,

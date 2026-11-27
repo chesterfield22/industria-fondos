@@ -1,0 +1,109 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Adcap Financiamiento 1,,,,,,,,
+m,gerente,Adcap Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,10928749350,,,,,,,,
+m,aum_planilla,10928749350,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/84230,,,,,,,,
+m,n_especies,58,,,,,,,,
+m,activos_pn,82.44,,,,,,,,
+m,pasivos_cnv,17.56,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,6.3,,,,,,,,
+m,top5,27.42,,,,,,,,
+m,top10,49.08,,,,,,,,
+m,hhi_especies,331.1295,,,,,,,,
+m,n_emisores,2,,,,,,,,
+m,emisor_top,Allaria Ahorro,,,,,,,,
+m,emisor_top_pct,3.04,,,,,,,,
+m,hhi_emisores,9.2452,,,,,,,,
+m,sin_emisor_pct,79.39,,,,,,,,
+t,Pagaré,74.35,46,,,,,,,
+t,Cheque,5.04,10,,,,,,,
+t,FCI,3.1,2,,,,,,,
+c,ARS,79.39,,,,,,,,
+c,sin dato,3.1,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,79.34,,,,,,,,
+r,Certificados de Participacion Argentina,3.1,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,17.56,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-17.56,,,,,,,,
+e,Pagare #MAV061070010,Pagaré,,ARS,6.3,688511209,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV060470015,Pagaré,,ARS,6.19,676489585,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV101260013,Pagaré,,ARS,5.33,582502340,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV110270012,Pagaré,,ARS,5.08,555180467,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV191160007,Pagaré,,ARS,4.52,493979471,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV211101223,Cheque,,ARS,4.5,491793721,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV171260013,Pagaré,,ARS,4.42,483050721,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV280170011,Pagaré,,ARS,4.28,467750472,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV040270011,Pagaré,,ARS,4.25,464471847,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV180270026,Pagaré,,ARS,4.21,460100348,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV250270035,Pagaré,,ARS,4.19,457914598,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV121160016,Pagaré,,ARS,3.64,397806476,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV031260009,Pagaré,,ARS,3.58,391249227,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV241260006,Pagaré,,ARS,3.07,335512605,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,3.04,332233980,,,Certificados de Participacion Argentina,96
+e,Pagare #MAV051160010,Pagaré,,ARS,2.74,299447732,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV261160008,Pagaré,,ARS,2.7,295076232,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV221260084,Pagaré,,ARS,2.2,240432486,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV041260026,Pagaré,,ARS,0.53,57922372,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV091160007,Pagaré,,ARS,0.5,54643747,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV171160074,Pagaré,,ARS,0.45,49179372,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV261160042,Pagaré,,ARS,0.45,49179372,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV110170028,Pagaré,,ARS,0.43,46993622,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV071260027,Pagaré,,ARS,0.4,43714997,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV271160019,Pagaré,,ARS,0.36,39343498,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV060170023,Pagaré,,ARS,0.35,38250623,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV281260025,Pagaré,,ARS,0.35,38250623,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV080170015,Pagaré,,ARS,0.34,37157748,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV161260037,Pagaré,,ARS,0.31,33879123,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV091260048,Pagaré,,ARS,0.31,33879123,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV241160043,Pagaré,,ARS,0.31,33879123,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV301160063,Pagaré,,ARS,0.31,33879123,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV040170017,Pagaré,,ARS,0.3,32786248,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV111160057,Pagaré,,ARS,0.27,29507623,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV141260046,Pagaré,,ARS,0.26,28414748,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV100270015,Pagaré,,ARS,0.25,27321873,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV091260042,Pagaré,,ARS,0.21,22950374,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV060170019,Pagaré,,ARS,0.2,21857499,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV080370013,Pagaré,,ARS,0.18,19671749,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091101016,Cheque,,ARS,0.14,15300249,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV090870010,Pagaré,,ARS,0.11,12021624,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV040670004,Pagaré,,ARS,0.11,12021624,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV060770004,Pagaré,,ARS,0.1,10928749,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV060970006,Pagaré,,ARS,0.09,9835874,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV060570004,Pagaré,,ARS,0.09,9835874,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Schroder Liquidez - Clase B,FCI,Schroder Liquidez,,0.06,6557250,,,Certificados de Participacion Argentina,44
+e,Cheque E *MAV051101153,Cheque,,ARS,0.05,5464375,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051101154,Cheque,,ARS,0.05,5464375,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051101151,Cheque,,ARS,0.05,5464375,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051101152,Cheque,,ARS,0.05,5464375,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051101156,Cheque,,ARS,0.05,5464375,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051101155,Cheque,,ARS,0.05,5464375,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051101157,Cheque,,ARS,0.05,5464375,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051101158,Cheque,,ARS,0.05,5464375,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV101160014,Pagaré,,ARS,0.02,2185750,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV061160020,Pagaré,,ARS,0.02,2185750,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV131160022,Pagaré,,ARS,0.02,2185750,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV121160019,Pagaré,,ARS,0.02,2185750,,,Titulos de Deuda en Peso Argentina,1
+p,Consultatio Estrategia V,Consultatio,RF USD Disc,3.6853,0.1671,1,,,,
+p,Cocos Premium Equity,Cocos,RM y Otros ARS,3.6853,0.1671,1,,,,
+p,IOL Portafolio Potenciado,Adcap,RM y Otros ARS,3.6853,0.1088,1,,,,
+p,Adcap Financiamiento Megra,Adcap,T+1,3.6853,0.1063,1,,,,
+p,BAVSA Deuda Privada Argentina USD,BAVSA,RF USD Disc,3.6853,0.0993,1,,,,
+p,Alpha Abierto Pymes,ICBC,PYME,3.6853,0.061,1,,,,
+p,Tandem Pesos Ahorro Plus,Tandem Capi..,RF ARS Disc,3.6853,0.0596,1,,,,
+p,SBS Tavelli Abierto Pymes,SBS,PYME,3.6853,0.0564,1,,,,

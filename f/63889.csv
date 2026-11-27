@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Stonex Global II,,,,,,,,
+m,gerente,StoneX Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,23617147552,,,,,,,,
+m,aum_planilla,23617147552,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63889,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,100.04,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.03,,,,,,,,
+m,top1,19.3,,,,,,,,
+m,top5,61.78,,,,,,,,
+m,top10,89.45,,,,,,,,
+m,hhi_especies,1022.9251,,,,,,,,
+m,n_emisores,2,,,,,,,,
+m,emisor_top,Megabono,,,,,,,,
+m,emisor_top_pct,97.43,,,,,,,,
+m,hhi_emisores,9499.2613,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Fideicomiso financiero,97.43,16,,,,,,,
+t,FCI,2.58,1,,,,,,,
+c,sin dato,100.01,,,,,,,,
+r,Disponibilidades,0.03,,,,,,,,
+r,Certificados de Participacion Argentina,100.01,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.04,,,,,,,,
+e,FF Megabono 347,Fideicomiso financiero,Megabono,,19.3,4558109477,,,Certificados de Participacion Argentina,1
+e,FF Megabono 345 Clase B,Fideicomiso financiero,Megabono,,13.2,3117463477,,,Certificados de Participacion Argentina,1
+e,FF Megabono 323 Clase C,Fideicomiso financiero,Megabono,,10.33,2439651342,,,Certificados de Participacion Argentina,1
+e,FF Megabono 335 Clase B,Fideicomiso financiero,Megabono,,9.89,2335735893,,,Certificados de Participacion Argentina,1
+e,FF Megabono 347 Clase B,Fideicomiso financiero,Megabono,,9.06,2139713568,,,Certificados de Participacion Argentina,1
+e,FF Megabono 333 Clase B,Fideicomiso financiero,Megabono,,8.02,1894095234,,,Certificados de Participacion Argentina,1
+e,FF Megabono 325 Clase B,Fideicomiso financiero,Megabono,,6.65,1570540312,,,Certificados de Participacion Argentina,1
+e,FF Megabono 349 Clase B,Fideicomiso financiero,Megabono,,5.66,1336730551,,,Certificados de Participacion Argentina,1
+e,FF Megabono 343 Clase B,Fideicomiso financiero,Megabono,,3.67,866749315,,,Certificados de Participacion Argentina,1
+e,FF Megabono 331 Clase B,Fideicomiso financiero,Megabono,,3.67,866749315,,,Certificados de Participacion Argentina,1
+e,FF Megabono 351 Clase B,Fideicomiso financiero,Megabono,,3.17,748663577,,,Certificados de Participacion Argentina,2
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,2.58,609322407,,,Certificados de Participacion Argentina,96
+e,FF Megabono 329 Clase B,Fideicomiso financiero,Megabono,,1.6,377874361,,,Certificados de Participacion Argentina,1
+e,FF Megabono 333 Clase A,Fideicomiso financiero,Megabono,,1.22,288129200,,,Certificados de Participacion Argentina,14
+e,FF Megabono 327 Clase C,Fideicomiso financiero,Megabono,,0.68,160596603,,,Certificados de Participacion Argentina,1
+e,FF Megabono 325 Clase C,Fideicomiso financiero,Megabono,,0.66,155873174,,,Certificados de Participacion Argentina,1
+e,FF Megabono 329 Clase C,Fideicomiso financiero,Megabono,,0.65,153511459,,,Certificados de Participacion Argentina,1
+p,Tandem Pesos Ahorro Plus,Tandem Capi..,RF ARS Disc,3.0892,0.0296,2,,,,
+p,Stonex Capital III,StoneX,RM y Otros ARS,3.0006,0.0137,3,,,,
+p,CMA Proteccion,Capital Mark..,T+1,2.6995,0.0115,2,,,,
+p,Consultatio Estrategia V,Consultatio,RF USD Disc,2.5797,0.0807,1,,,,
+p,Cocos Premium Equity,Cocos,RM y Otros ARS,2.5797,0.0807,1,,,,
+p,IOL Portafolio Potenciado,Adcap,RM y Otros ARS,2.5797,0.0525,1,,,,
+p,Adcap Financiamiento Megra,Adcap,T+1,2.5797,0.0513,1,,,,
+p,BAVSA Deuda Privada Argentina USD,BAVSA,RF USD Disc,2.5797,0.0479,1,,,,

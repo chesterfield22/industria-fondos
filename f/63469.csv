@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Delta Moneda,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,10906486068,,,,,,,,
+m,aum_planilla,10906486068,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63469,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,100.62,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.17,,,,,,,,
+m,top1,24.5,,,,,,,,
+m,top5,73.17,,,,,,,,
+m,top10,94.52,,,,,,,,
+m,hhi_especies,1447.7824,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,44.73,,,,,,,,
+m,hhi_emisores,2747.7344,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,44.73,4,,,,,,,
+t,ON,31.13,9,,,,,,,
+t,Subsoberano,24.5,1,,,,,,,
+t,FCI,0.1,1,,,,,,,
+c,ARS,100.36,,,,,,,,
+c,sin dato,0.1,,,,,,,,
+r,Disponibilidades,0.17,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,100.35,,,,,,,,
+r,Certificados de Participacion Argentina,0.1,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.62,,,,,,,,
+e,Bono Prov de Buenos Aires TZV28,Subsoberano,Prov. Buenos Aires,ARS,24.5,2672089087,,,Titulos de Deuda en Peso Argentina,46
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,22.3,2432146393,,,Titulos de Deuda en Peso Argentina,75
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,11.09,1209529305,,,Titulos de Deuda en Peso Argentina,250
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,8.52,929232613,,,Titulos de Deuda en Peso Argentina,56
+e,ON Telecom C14 TLCFO,ON,Telecom,ARS,6.76,737278458,,,Titulos de Deuda en Peso Argentina,23
+e,ON San Miguel Serie 13 CA,ON,San Miguel,ARS,5.38,586768950,,,Titulos de Deuda en Peso Argentina,19
+e,ON BBVA Frances Cl 48,ON,BBVA Frances,ARS,4.46,486429279,,,Titulos de Deuda en Peso Argentina,5
+e,ON GEMSA y CTR C36,ON,GEMSA y CTR,ARS,3.97,432987497,,,Titulos de Deuda en Peso Argentina,5
+e,ON Pan American C26,ON,Pan American,ARS,3.92,427534254,,,Titulos de Deuda en Peso Argentina,38
+e,ON GEMSA Clase 24,ON,GEMSA,ARS,3.62,394814796,,,Titulos de Deuda en Peso Argentina,1
+e,Letra Tesoro Nac D31M7,Soberano,Tesoro Nacional,ARS,2.82,307562907,,,Titulos de Deuda en Peso Argentina,30
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,2.81,306472259,,,Titulos de Deuda en Peso Argentina,42
+e,ON TGLT Clase 16,ON,TGLT,ARS,0.2,21812972,,,Titulos de Deuda en Peso Argentina,14
+e,FCI Pionero Pesos Plus - Clase B,FCI,Pionero Pesos Plus,,0.1,10906486,,,Certificados de Participacion Argentina,40
+e,ON Impsa Clase 7 2036,ON,Impsa,ARS,0.01,1090649,,,Titulos de Deuda en Peso Argentina,17
+p,Galileo Argentina,Delta,RM y Otros ARS,46.6852,0.6754,3,,,,
+p,SBS Patrimonio V,SBS,RM y Otros ARS,46.5857,0.7028,2,,,,
+p,First Renta Mixta III,First Cap Mkts,RF USD Linked,45.3045,0.5428,4,,,,
+p,Balanz Capital Renta Fija,Balanz,RF USD Linked,45.1722,0.714,5,,,,
+p,First Renta Mixta VII,First Cap Mkts,RF MULT Disc,43.908,0.6198,3,,,,
+p,Balanz Soja,Balanz,RV ARG Rofex 20,43.1872,0.6262,2,,,,
+p,Wise Capital Hedge,Wise,RM y Otros ARS,41.963,0.5666,3,,,,
+p,MAF Gestión Activa III,Mariva,RF USD Linked,39.3678,0.4058,3,,,,

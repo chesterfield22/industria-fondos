@@ -1,0 +1,68 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Consultatio Multiestrategia,,,,,,,,
+m,gerente,Consultatio Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Corp,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,4475719657,,,,,,,,
+m,aum_planilla,4475719657,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63906,,,,,,,,
+m,n_especies,16,,,,,,,,
+m,activos_pn,97.44,,,,,,,,
+m,pasivos_cnv,2.56,,,,,,,,
+m,liquidez,0.97,,,,,,,,
+m,top1,17.04,,,,,,,,
+m,top5,54.44,,,,,,,,
+m,top10,81.17,,,,,,,,
+m,hhi_especies,845.1851,,,,,,,,
+m,n_emisores,14,,,,,,,,
+m,emisor_top,Prov. Mendoza TAMAR,,,,,,,,
+m,emisor_top_pct,17.04,,,,,,,,
+m,hhi_emisores,960.8141,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,65.8,10,,,,,,,
+t,Subsoberano,27.93,4,,,,,,,
+t,Fideicomiso financiero,2.25,1,,,,,,,
+t,FCI,0.49,1,,,,,,,
+c,ARS,93.73,,,,,,,,
+c,sin dato,2.74,,,,,,,,
+r,Disponibilidades,0.97,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,93.73,,,,,,,,
+r,Certificados de Participacion Argentina,2.74,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,2.56,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-2.56,,,,,,,,
+e,Bono Prov Mendoza TAMAR C2,Subsoberano,Prov. Mendoza TAMAR,ARS,17.04,762662630,,,Titulos de Deuda en Peso Argentina,24
+e,ON Arcor C4,ON,Arcor,ARS,11.8,528134920,,,Titulos de Deuda en Peso Argentina,28
+e,ON Bco Ciudad C23,ON,Banco Ciudad,ARS,9.94,444886534,,,Titulos de Deuda en Peso Argentina,16
+e,ON ICBC Clase 5 110327,ON,ICBC,ARS,8.16,365218724,,,Titulos de Deuda en Peso Argentina,36
+e,ON BBVA Frances Cl 47,ON,BBVA Frances,ARS,7.5,335678974,,,Titulos de Deuda en Peso Argentina,45
+e,ON Banco de Galicia 32 BYY1O,ON,Banco de Galicia,ARS,7.01,313747948,,,Titulos de Deuda en Peso Argentina,44
+e,ON Plaza Logistica C1 ZPC1O,ON,Plaza Logistica,ARS,5.86,262277172,,,Titulos de Deuda en Peso Argentina,9
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,5.43,243031577,,,Titulos de Deuda en Peso Argentina,56
+e,Bono CABA 2028 BDC28,Subsoberano,Prov. CABA,ARS,4.31,192903517,,,Titulos de Deuda en Peso Argentina,18
+e,Bono Prov Cordoba Clase 4,Subsoberano,Prov. Cordoba,ARS,4.12,184399650,,,Titulos de Deuda en Peso Argentina,37
+e,ON Banco Prov Clase 6,ON,Banco Provincia,ARS,3.5,156650188,,,Titulos de Deuda en Peso Argentina,43
+e,ON Arcor C8,ON,Arcor,ARS,3.45,154412328,,,Titulos de Deuda en Peso Argentina,22
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,3.15,140985169,,,Titulos de Deuda en Peso Argentina,67
+e,Letra Muni Rosario 42993,Subsoberano,Muni. Rosario,ARS,2.46,110102704,,,Titulos de Deuda en Peso Argentina,6
+e,FF Mercado Credito 54 CA,Fideicomiso financiero,Mercado Credito,,2.25,100703692,,,Certificados de Participacion Argentina,28
+e,FCI Argenfunds Liquidez - Clase B,FCI,Argenfunds Liquidez,,0.49,21931026,,,Certificados de Participacion Argentina,50
+p,GMC Retorno Total IV,GMC,RM y Otros ARS,21.9363,0.2934,4,,,,
+p,Adcap Balanceado XIII,Adcap,RF ARS Disc,19.8889,0.2606,4,,,,
+p,Consultatio Estrategico,Consultatio,RF MULT Disc,16.848,0.1061,7,,,,
+p,GSS I,Grupo SS,RF ARS Disc,16.3155,0.1466,3,,,,
+p,Toronto Trust Balanceado,Investis,RF ARS Disc,16.2732,0.2453,5,,,,
+p,GSS II,Grupo SS,RF ARS Disc,14.9217,0.1525,3,,,,
+p,Pellegrini Renta Publica Federal,Pellegrini,RF ARS Disc,14.6944,0.1976,3,,,,
+p,Consultatio ST Fondo Comun De Inversión ASG,Consultatio,ASG,14.0533,0.1373,2,,,,

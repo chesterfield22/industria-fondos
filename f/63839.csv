@@ -1,0 +1,61 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Adcap Ahorro Dólares,,,,,,,,
+m,gerente,Adcap Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Plazo Fijo,,,,,,,,
+m,subtipo,MM USD Clásico,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,228895495,,,,,,,,
+m,aum_planilla,228895495,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63839,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,88.21,,,,,,,,
+m,pasivos_cnv,11.79,,,,,,,,
+m,liquidez,53.08,,,,,,,,
+m,top1,35.84,,,,,,,,
+m,top5,60.33,,,,,,,,
+m,top10,70.37,,,,,,,,
+m,hhi_especies,1492.8054,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Caución Merval,,,,,,,,
+m,emisor_top_pct,35.84,,,,,,,,
+m,hhi_emisores,1502.3538,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Caución,35.84,1,,,,,,,
+t,Plazo fijo,30.75,8,,,,,,,
+t,Corporativo exterior,4.37,2,,,,,,,
+c,USD,70.96,,,,,,,,
+r,Disponibilidades,17.24,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,4.37,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,66.6,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,11.79,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-11.79,,,,,,,,
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,USD,35.84,82036146,,,Operaciones a Plazo en Dolar Estadounidense,195
+e,Pzo Fi U$S Bco Coinag,Plazo fijo,Banco Coinag,USD,11.38,26048307,,,Operaciones a Plazo en Dolar Estadounidense,6
+e,Pzo Fi U$S Banco de Serv y Transacciones (BST),Plazo fijo,Banco de Serv y Transacciones (BST),USD,4.81,11009873,,,Operaciones a Plazo en Dolar Estadounidense,16
+e,Pzo Fi U$S Bco Nacion,Plazo fijo,Banco Nacion,USD,4.37,10002733,,,Operaciones a Plazo en Dolar Estadounidense,40
+e,Pzo Fi U$S Bco Sol,Plazo fijo,Banco Sol,USD,3.93,8995593,,,Operaciones a Plazo en Dolar Estadounidense,4
+e,BC Banco BTG Pactual 181126,Corporativo exterior,Banco BTG Pactual,USD,2.19,5012811,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC Banco BTG Pactual 091226,Corporativo exterior,Banco BTG Pactual,USD,2.18,4989922,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pzo Fi U$S Bco Piano,Plazo fijo,Banco Piano,USD,2.18,4989922,,,Operaciones a Plazo en Dolar Estadounidense,2
+e,Pzo Fi U$S Bco Supervielle,Plazo fijo,Banco Supervielle,USD,2.18,4989922,,,Operaciones a Plazo en Dolar Estadounidense,30
+e,Pzo Fi U$S Bco Hipotecario,Plazo fijo,Banco Hipotecario,USD,1.31,2998531,,,Operaciones a Plazo en Dolar Estadounidense,9
+e,Pzo Fi U$S Bco Bibank,Plazo fijo,Banco Bibank,USD,0.59,1350483,,,Operaciones a Plazo en Dolar Estadounidense,3
+p,Conosur Financiamiento III,Cono Sur,Sin clasificar,50.5073,0.9276,1,,,,
+p,Wise Capital Money Markets,Wise,MM ARS Clásico,50.5073,0.9276,1,,,,
+p,Tango Performance I,Tango,Sin clasificar,50.5073,0.8378,1,,,,
+p,Schroder Corto Plazo,Schroder,RF MULT Disc,43.5088,0.7252,1,,,,
+p,Schroder Multiactivos,Schroder,RF MULT Disc,40.2799,0.7215,1,,,,
+p,Alpha Pesos Plus,ICBC,MM ARS Clásico,40.0925,0.6816,1,,,,
+p,Cocos Ahorro,Cocos,MM ARS Clásico,39.8218,0.7033,1,,,,
+p,CYC Liquidez,CYC,MM ARS Clásico,36.376,0.7144,1,,,,

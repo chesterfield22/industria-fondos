@@ -1,0 +1,144 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Stonex FF,,,,,,,,
+m,gerente,StoneX Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,182175846421,,,,,,,,
+m,aum_planilla,182175846420,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63276,,,,,,,,
+m,n_especies,89,,,,,,,,
+m,activos_pn,100.33,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,7.55,,,,,,,,
+m,top1,5.49,,,,,,,,
+m,top5,20.15,,,,,,,,
+m,top10,34.43,,,,,,,,
+m,hhi_especies,217.9781,,,,,,,,
+m,n_emisores,27,,,,,,,,
+m,emisor_top,Megabono,,,,,,,,
+m,emisor_top_pct,21.57,,,,,,,,
+m,hhi_emisores,959.3888,,,,,,,,
+m,sin_emisor_pct,13.91,,,,,,,,
+t,Fideicomiso financiero,51.76,51,,,,,,,
+t,ON,22.56,15,,,,,,,
+t,Pagaré,8.66,5,,,,,,,
+t,Caución,5.49,1,,,,,,,
+t,Cheque,5.25,11,,,,,,,
+t,FCI,4.53,6,,,,,,,
+c,sin dato,56.25,,,,,,,,
+c,ARS,42,,,,,,,,
+r,Disponibilidades,2.06,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,36.49,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,5.49,,,,,,,,
+r,Certificados de Participacion Argentina,56.29,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.33,,,,,,,,
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,5.49,10001453968,,,Operaciones a Plazo en Peso Argentina,73
+e,FF Mercado Credito 52 CA,Fideicomiso financiero,Mercado Credito,,5.47,9965018799,,,Certificados de Participacion Argentina,21
+e,FF Megabono 361 Clase A,Fideicomiso financiero,Megabono,,3.29,5993585347,,,Certificados de Participacion Argentina,4
+e,FF Mercado Credito 47 CA,Fideicomiso financiero,Mercado Credito,,3,5465275393,,,Certificados de Participacion Argentina,35
+e,ON Mercado Pago C5,ON,Mercado Pago,ARS,2.9,5283099546,,,Titulos de Deuda en Peso Argentina,15
+e,ON Arcor C6,ON,Arcor,ARS,2.9,5283099546,,,Titulos de Deuda en Peso Argentina,31
+e,ON BBVA Frances Cl 46,ON,BBVA Frances,ARS,2.9,5283099546,,,Titulos de Deuda en Peso Argentina,35
+e,FCI Schroder Liquidez - Clase B,FCI,Schroder Liquidez,,2.88,5246664377,,,Certificados de Participacion Argentina,44
+e,ON ICBC Clase 7 170627,ON,ICBC,ARS,2.84,5173794038,,,Titulos de Deuda en Peso Argentina,23
+e,FF Mercado Credito 50 CA,Fideicomiso financiero,Mercado Credito,,2.76,5028053361,,,Certificados de Participacion Argentina,29
+e,FF Megabono 354 Clase A,Fideicomiso financiero,Megabono,,2.46,4481525822,,,Certificados de Participacion Argentina,7
+e,FF Megabono 352 Clase A,Fideicomiso financiero,Megabono,,2.46,4481525822,,,Certificados de Participacion Argentina,7
+e,FF Payway Cobro Acelerado S8 CA,Fideicomiso financiero,Payway Cobro Acelerado,,2.28,4153609298,,,Certificados de Participacion Argentina,8
+e,FF Consubond S203 Clase A,Fideicomiso financiero,Consubond,,2.21,4026086206,,,Certificados de Participacion Argentina,11
+e,Pagare #MAV241160094,Pagaré,,ARS,2.17,3953215867,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV241160093,Pagaré,,ARS,2.17,3953215867,,,Titulos de Deuda en Peso Argentina,1
+e,FF Mercado Credito 55 CA,Fideicomiso financiero,Mercado Credito,,2.13,3880345529,,,Certificados de Participacion Argentina,30
+e,FF Megabono 348 Clase A,Fideicomiso financiero,Megabono,,1.71,3115206974,,,Certificados de Participacion Argentina,11
+e,ON BBVA Frances Cl 47,ON,BBVA Frances,ARS,1.71,3115206974,,,Titulos de Deuda en Peso Argentina,45
+e,ON Banco Comafi C22,ON,Banco Comafi,ARS,1.67,3042336635,,,Titulos de Deuda en Peso Argentina,30
+e,FF Consubond S202 Clase A,Fideicomiso financiero,Consubond,,1.66,3024119051,,,Certificados de Participacion Argentina,8
+e,FF Mercado Credito 49 CA,Fideicomiso financiero,Mercado Credito,,1.65,3005901466,,,Certificados de Participacion Argentina,25
+e,FF Mercado Credito 54 CA,Fideicomiso financiero,Mercado Credito,,1.63,2969466297,,,Certificados de Participacion Argentina,28
+e,Pagare #MAV171160114,Pagaré,,ARS,1.63,2969466297,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV101260101,Pagaré,,ARS,1.61,2933031127,,,Titulos de Deuda en Peso Argentina,1
+e,FF Megabono 359 Clase A,Fideicomiso financiero,Megabono,,1.53,2787290450,,,Certificados de Participacion Argentina,4
+e,FF Megabono 357 Clase A,Fideicomiso financiero,Megabono,,1.53,2787290450,,,Certificados de Participacion Argentina,6
+e,FF Fiducar 35 Clase A,Fideicomiso financiero,Fiducar,,1.49,2714420112,,,Certificados de Participacion Argentina,6
+e,ON Mercado Pago C3,ON,Mercado Pago,ARS,1.45,2641549773,,,Titulos de Deuda en Peso Argentina,21
+e,FF Megabono 355 Clase A,Fideicomiso financiero,Megabono,,1.31,2386503588,,,Certificados de Participacion Argentina,6
+e,FF Megabono 350 Clase A,Fideicomiso financiero,Megabono,,1.25,2277198080,,,Certificados de Participacion Argentina,5
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,1.17,2131457403,,,Titulos de Deuda en Peso Argentina,61
+e,ON Arcor C4,ON,Arcor,ARS,1.16,2113239818,,,Titulos de Deuda en Peso Argentina,28
+e,ON Banco Prov Clase 6,ON,Banco Provincia,ARS,1.15,2095022234,,,Titulos de Deuda en Peso Argentina,43
+e,FF Mercado Credito 48 CA,Fideicomiso financiero,Mercado Credito,,1.1,2003934311,,,Certificados de Participacion Argentina,27
+e,Pagare #MAV241160091,Pagaré,,ARS,1.08,1967499141,,,Titulos de Deuda en Peso Argentina,1
+e,ON CFN Serie 9,ON,CFN,ARS,1.07,1949281557,,,Titulos de Deuda en Peso Argentina,3
+e,Cheque E *MAV091201818,Cheque,,ARS,1.07,1949281557,,,Titulos de Deuda en Peso Argentina,1
+e,FF Megabono 349 Clase A,Fideicomiso financiero,Megabono,,0.88,1603147449,,,Certificados de Participacion Argentina,12
+e,FF Fiducar 34 Clase A,Fideicomiso financiero,Fiducar,,0.88,1603147449,,,Certificados de Participacion Argentina,11
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.87,1584929864,,,Certificados de Participacion Argentina,96
+e,Cheque E *MAV091101299,Cheque,,ARS,0.85,1548494695,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091101589,Cheque,,ARS,0.8,1457406771,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231101416,Cheque,,ARS,0.77,1402754017,,,Titulos de Deuda en Peso Argentina,1
+e,FF Mercado Credito 46 CA,Fideicomiso financiero,Mercado Credito,,0.7,1275230925,,,Certificados de Participacion Argentina,28
+e,ON CFN Serie 10,ON,CFN,ARS,0.63,1147707832,,,Titulos de Deuda en Peso Argentina,2
+e,FF Megabono 337 Clase A,Fideicomiso financiero,Megabono,,0.61,1111272663,,,Certificados de Participacion Argentina,6
+e,FF Megabono 351 Clase A,Fideicomiso financiero,Megabono,,0.59,1074837494,,,Certificados de Participacion Argentina,13
+e,FF Megabono 346 Clase A,Fideicomiso financiero,Megabono,,0.58,1056619909,,,Certificados de Participacion Argentina,9
+e,FCI Balanz Capital Money Market Clase C,FCI,Balanz Capital Money Market,,0.57,1038402325,,,Certificados de Participacion Argentina,47
+e,FF Confibono S88 Clase A,Fideicomiso financiero,Confibono,,0.56,1020184740,,,Certificados de Participacion Argentina,4
+e,Cheque E *MAV071101601,Cheque,,ARS,0.53,965531986,,,Titulos de Deuda en Peso Argentina,1
+e,ON Tarj Naranja C67 S1,ON,Tarj Naranja,ARS,0.49,892661647,,,Titulos de Deuda en Peso Argentina,40
+e,FF Cuotas Cencosud S59 VDFA,Fideicomiso financiero,Cuotas Cencosud,,0.46,838008894,,,Certificados de Participacion Argentina,5
+e,FF Megabono 342 Clase A,Fideicomiso financiero,Megabono,,0.43,783356140,,,Certificados de Participacion Argentina,6
+e,FF Megabono 333 Clase A,Fideicomiso financiero,Megabono,,0.42,765138555,,,Certificados de Participacion Argentina,14
+e,Cheque E *MAV131102052,Cheque,,ARS,0.42,765138555,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102979,Cheque,,ARS,0.36,655833047,,,Titulos de Deuda en Peso Argentina,1
+e,FF Megabono 341 Clase A,Fideicomiso financiero,Megabono,,0.36,655833047,,,Certificados de Participacion Argentina,12
+e,FF Megabono 347 Clase A,Fideicomiso financiero,Megabono,,0.35,637615462,,,Certificados de Participacion Argentina,10
+e,FF Megabono 345 Clase A,Fideicomiso financiero,Megabono,,0.35,637615462,,,Certificados de Participacion Argentina,14
+e,FF Megabono 344 Clase A,Fideicomiso financiero,Megabono,,0.34,619397878,,,Certificados de Participacion Argentina,13
+e,FF Consubond S200 Clase A,Fideicomiso financiero,Consubond,,0.32,582962709,,,Certificados de Participacion Argentina,7
+e,FF Confibono S83 Clase A,Fideicomiso financiero,Confibono,,0.3,546527539,,,Certificados de Participacion Argentina,11
+e,ON Banco de Galicia 32 BYY1O,ON,Banco de Galicia,ARS,0.29,528309955,,,Titulos de Deuda en Peso Argentina,44
+e,FF Megabono 324 Clase A,Fideicomiso financiero,Megabono,,0.28,510092370,,,Certificados de Participacion Argentina,9
+e,FF Confibono S87 Clase A,Fideicomiso financiero,Confibono,,0.27,491874785,,,Certificados de Participacion Argentina,8
+e,FF Pareto 17 Clase A,Fideicomiso financiero,Pareto,,0.27,491874785,,,Certificados de Participacion Argentina,3
+e,FF Fiducar 33 Clase A,Fideicomiso financiero,Fiducar,,0.26,473657201,,,Certificados de Participacion Argentina,11
+e,FF Megabono 322 Clase A,Fideicomiso financiero,Megabono,,0.24,437222031,,,Certificados de Participacion Argentina,17
+e,FF Centrocard Creditos S8,Fideicomiso financiero,Centrocard Creditos,,0.24,437222031,,,Certificados de Participacion Argentina,11
+e,ON Arcor C3,ON,Arcor,ARS,0.23,419004447,,,Titulos de Deuda en Peso Argentina,35
+e,Cheque E *MAV231101418,Cheque,,ARS,0.22,400786862,,,Titulos de Deuda en Peso Argentina,1
+e,FF Fiducar 32 Clase A,Fideicomiso financiero,Fiducar,,0.21,382569277,,,Certificados de Participacion Argentina,10
+e,FF Megabono 339 Clase A,Fideicomiso financiero,Megabono,,0.17,309698939,,,Certificados de Participacion Argentina,6
+e,Cheque E *MAV231101417,Cheque,,ARS,0.15,273263770,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Wise Capital Money Markets - Clase D,FCI,Wise Capital Money Markets,,0.15,273263770,,,Certificados de Participacion Argentina,9
+e,FF Mercado Credito 45 CA,Fideicomiso financiero,Mercado Credito,,0.15,273263770,,,Certificados de Participacion Argentina,25
+e,FF Megabono 335 Clase A,Fideicomiso financiero,Megabono,,0.14,255046185,,,Certificados de Participacion Argentina,11
+e,FF Megabono 340 Clase A,Fideicomiso financiero,Megabono,,0.14,255046185,,,Certificados de Participacion Argentina,11
+e,FF Consubond S201 Clase A,Fideicomiso financiero,Consubond,,0.14,255046185,,,Certificados de Participacion Argentina,6
+e,FF Megabono 331 Clase A,Fideicomiso financiero,Megabono,,0.09,163958262,,,Certificados de Participacion Argentina,5
+e,Cheque E *MAV211101514,Cheque,,ARS,0.07,127523092,,,Titulos de Deuda en Peso Argentina,1
+e,FF Megabono 343 Clase A,Fideicomiso financiero,Megabono,,0.06,109305508,,,Certificados de Participacion Argentina,7
+e,FCI Delta $ - Clase B,FCI,Delta $,ARS,0.04,72870339,,,Certificados de Participacion Argentina,5
+e,FF Megabono Crédito 328 Clase A,Fideicomiso financiero,Megabono Crédito,,0.04,72870339,,,Certificados de Participacion Argentina,4
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,0.02,36435169,,,Certificados de Participacion Argentina,47
+e,Cheque E *MAV281101791,Cheque,,ARS,0.01,18217585,,,Titulos de Deuda en Peso Argentina,1
+e,FF Confibono S82 Clase A,Fideicomiso financiero,Confibono,,0.01,18217585,,,Certificados de Participacion Argentina,7
+p,Pionero FF,Macro,T+1,33.3151,0.4363,31,,,,
+p,1822 Raices Valores Fiduciarios,Provinfondos,RF ARS Disc,32.9526,0.4008,40,,,,
+p,Delta Ahorro,Delta,T+1,26.9707,0.4443,29,,,,
+p,1822 Raices Renta en Pesos,Provinfondos,T+1,23.9997,0.283,18,,,,
+p,Allaria Ahorro Plus,Allaria,T+1,21.8005,0.2435,18,,,,
+p,Toronto Trust Balanceado,Investis,RF ARS Disc,21.3058,0.2263,17,,,,
+p,SBS Gestion Renta Fija,SBS,T+1,20.5335,0.1785,22,,,,
+p,First Crecimiento,First Cap Mkts,RF ARS Disc,19.1182,0.1259,35,,,,

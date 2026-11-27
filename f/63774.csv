@@ -1,0 +1,89 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Delta Gestion VI,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,4744778624,,,,,,,,
+m,aum_planilla,4744778624,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63774,,,,,,,,
+m,n_especies,34,,,,,,,,
+m,activos_pn,101.4,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.41,,,,,,,,
+m,top1,19.18,,,,,,,,
+m,top5,59.3,,,,,,,,
+m,top10,81.29,,,,,,,,
+m,hhi_especies,963.1068,,,,,,,,
+m,n_emisores,22,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,74.5,,,,,,,,
+m,hhi_emisores,5718.1644,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,74.5,13,,,,,,,
+t,Subsoberano,12.27,1,,,,,,,
+t,Acción,11.52,17,,,,,,,
+t,Fideicomiso financiero,0.96,1,,,,,,,
+t,Cedear,0.69,1,,,,,,,
+t,ON,0.04,1,,,,,,,
+c,ARS,99.02,,,,,,,,
+c,sin dato,0.96,,,,,,,,
+r,Disponibilidades,0.41,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,86.82,,,,,,,,
+r,Participaciones Accionarias Argentina,12.21,,,,,,,,
+r,Certificados de Participacion Argentina,0.96,,,,,,,,
+r,Otros Activos,1,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.4,,,,,,,,
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,19.18,910048540,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,15.39,730221430,,,Titulos de Deuda en Peso Argentina,67
+e,Bono Prov de Buenos Aires TZV28,Subsoberano,Prov. Buenos Aires,ARS,12.27,582184337,,,Titulos de Deuda en Peso Argentina,46
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,ARS,6.89,326915247,,,Titulos de Deuda en Peso Argentina,62
+e,Boncer Mendoza C1,Soberano,Tesoro Nacional,ARS,5.57,264284169,,,Titulos de Deuda en Peso Argentina,49
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,5.41,256692524,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Boncer TZXD8,Soberano,Tesoro Nacional,ARS,4.3,204025481,,,Titulos de Deuda en Peso Argentina,26
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,4.26,202127569,,,Titulos de Deuda en Peso Argentina,128
+e,Bono Disc ARS Ley AR DICP,Soberano,Tesoro Nacional,ARS,4.16,197382791,,,Titulos de Deuda en Peso Argentina,59
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,3.86,183148455,,,Titulos de Deuda en Peso Argentina,84
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,2.92,138547536,,,Titulos de Deuda en Peso Argentina,84
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,2.45,116247076,,,Participaciones Accionarias Argentina,129
+e,Boncer TZXY7,Soberano,Tesoro Nacional,ARS,2.3,109129908,,,Titulos de Deuda en Peso Argentina,76
+e,YPF S.A.,Acción,YPF,ARS,2.11,100114829,,,Participaciones Accionarias Argentina,122
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,1.33,63105556,,,Participaciones Accionarias Argentina,117
+e,FF Cites I,Fideicomiso financiero,Cites I,,0.96,45549875,,,Certificados de Participacion Argentina,7
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,0.9,42703008,,,Participaciones Accionarias Argentina,86
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,0.88,41754052,,,Participaciones Accionarias Argentina,104
+e,Cablevision Holding S.A.,Acción,Cablevision Holding,ARS,0.86,40805096,,,Participaciones Accionarias Argentina,9
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,0.81,38432707,,,Participaciones Accionarias Argentina,93
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,0.69,32738973,,,Participaciones Accionarias Argentina,50
+e,Grimoldi S.A.,Acción,Grimoldi,ARS,0.61,28943150,,,Participaciones Accionarias Argentina,6
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,0.37,17555681,,,Participaciones Accionarias Argentina,104
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,0.35,16606725,,,Participaciones Accionarias Argentina,77
+e,Bonos Rep Argentina GD41,Soberano,Tesoro Nacional,ARS,0.2,9489557,,,Titulos de Deuda en Peso Argentina,38
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,0.2,9489557,,,Participaciones Accionarias Argentina,83
+e,Inversiones y Representaciones S.A. (IRSA),Acción,Inversiones y Representaciones S.A. (IRSA),ARS,0.17,8066124,,,Participaciones Accionarias Argentina,35
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,0.17,8066124,,,Participaciones Accionarias Argentina,85
+e,Inversora Juramento S.A.,Acción,Inversora Juramento,ARS,0.12,5693734,,,Participaciones Accionarias Argentina,7
+e,Camuzzi Gas Pampeana S.A.,Acción,Camuzzi Gas Pampeana,ARS,0.09,4270301,,,Participaciones Accionarias Argentina,6
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,0.08,3795823,,,Participaciones Accionarias Argentina,77
+e,Bonos Rep Argentina GD30,Soberano,Tesoro Nacional,ARS,0.06,2846867,,,Titulos de Deuda en Peso Argentina,37
+e,ON Pan Amer. Energy C 12,ON,Pan Amer. Energy,ARS,0.04,1897911,,,Titulos de Deuda en Peso Argentina,34
+e,Ferrum S.A.,Acción,Ferrum,ARS,0.02,948955.7248,,,Participaciones Accionarias Argentina,2
+p,Delta Multimercado I,Delta,RM y Otros ARS,84.7951,0.9438,27,,,,
+p,Delta Renta,Delta,RF MULT Disc,77.8052,0.9281,12,,,,
+p,Delta Gestion V,Delta,RM y Otros ARS,75.5672,0.8891,27,,,,
+p,Galileo Renta Fija,Delta,RF MULT Disc,57.5258,0.7861,8,,,,
+p,Pionero Retorno Total,Macro,RM y Otros ARS,49.686,0.617,7,,,,
+p,Delta Retorno Real,Delta,RF ARS CER,45.3599,0.7083,8,,,,
+p,Optimum FAE (Fondo de Aplicaciones Especiales),SAM Arg,RF MULT Disc,44.276,0.6672,6,,,,
+p,Consultatio Balance Fund,Consultatio,RF MULT Disc,42.824,0.6618,9,,,,

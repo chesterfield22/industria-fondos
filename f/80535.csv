@@ -1,0 +1,73 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,SF Value,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RV ARG Otros,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,28393598656,,,,,,,,
+m,aum_planilla,28393598656,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/80535,,,,,,,,
+m,n_especies,20,,,,,,,,
+m,activos_pn,100.15,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.17,,,,,,,,
+m,top1,16.15,,,,,,,,
+m,top5,55.33,,,,,,,,
+m,top10,81.49,,,,,,,,
+m,hhi_especies,865.1954,,,,,,,,
+m,n_emisores,20,,,,,,,,
+m,emisor_top,Aluar Aluminio Argentino S.A.I.C,,,,,,,,
+m,emisor_top_pct,16.15,,,,,,,,
+m,hhi_emisores,865.1954,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,76.23,12,,,,,,,
+t,Cedear,22.53,6,,,,,,,
+t,FCI,0.75,1,,,,,,,
+t,Corporativo exterior,0.47,1,,,,,,,
+c,ARS,98.76,,,,,,,,
+c,sin dato,1.22,,,,,,,,
+r,Disponibilidades,0.17,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Cable,0.47,,,,,,,,
+r,Participaciones Accionarias Argentina,98.76,,,,,,,,
+r,Certificados de Participacion Argentina,0.75,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.15,,,,,,,,
+e,Aluar Aluminio Argentino S.A.I.C.,Acción,Aluar Aluminio Argentino S.A.I.C,ARS,16.15,4585566183,,,Participaciones Accionarias Argentina,56
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,14.57,4136947324,,,Participaciones Accionarias Argentina,104
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,8.85,2512833481,,,Participaciones Accionarias Argentina,77
+e,YPF S.A.,Acción,YPF,ARS,8.51,2416295246,,,Participaciones Accionarias Argentina,122
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,7.25,2058535903,,,Participaciones Accionarias Argentina,85
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,6.48,1839905193,,,Participaciones Accionarias Argentina,129
+e,Cedear Petrobras,Cedear,Petrobras,ARS,5.8,1646828722,,,Participaciones Accionarias Argentina,10
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,5.29,1502021369,,,Participaciones Accionarias Argentina,104
+e,Cedear Vale R Doce ON ADR,Cedear,Vale R Doce ON ADR,ARS,4.62,1311784258,,,Participaciones Accionarias Argentina,12
+e,Central Costanera S.A.,Acción,Central Costanera,ARS,3.97,1127225867,,,Participaciones Accionarias Argentina,3
+e,Cedear ADR Gerdau,Cedear,ADR Gerdau,ARS,3.26,925631316,,,Participaciones Accionarias Argentina,2
+e,Cedear Adecoagro,Cedear,Adecoagro,ARS,3.17,900077077,,,Participaciones Accionarias Argentina,9
+e,Grupo Concesionario del Oeste S.A.,Acción,Grupo Concesionario del Oeste,ARS,2.93,831932441,,,Participaciones Accionarias Argentina,2
+e,Cedear Adobe System,Cedear,Adobe System,ARS,2.93,831932441,,,Participaciones Accionarias Argentina,2
+e,Cedear Berkshire Hath Inc,Cedear,Berkshire Hath Inc,ARS,2.75,780823963,,,Participaciones Accionarias Argentina,4
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,1.05,298132786,,,Participaciones Accionarias Argentina,77
+e,Autopistas del Sol S.A.,Acción,Autopistas del Sol,ARS,0.78,221470070,,,Participaciones Accionarias Argentina,12
+e,FCI Pionero Pesos Plus - Clase B,FCI,Pionero Pesos Plus,,0.75,212951990,,,Certificados de Participacion Argentina,40
+e,BC AES 9.5%,Corporativo exterior,AES,,0.47,133449914,,,Titulos de Deuda en Dolar Estadounidense Cable,12
+e,Consultatio S.A.,Acción,Consultatio,ARS,0.4,113574395,,,Participaciones Accionarias Argentina,4
+p,Balanz Acciones,Balanz,RV ARG Merval,41.6543,0.5237,8,,,,
+p,Max Acciones Argentinas,Max Capital,RV ARG Merval,41.2306,0.5335,8,,,,
+p,Alpha Acciones,ICBC,RV ARG Merval,41.2234,0.5308,8,,,,
+p,Axis Brio Valores I,Axis,RV ARG Otros,40.9509,0.5252,7,,,,
+p,ConoSur Visus,Cono Sur,RM y Otros ARS,40.4214,0.5065,8,,,,
+p,Fima Acciones,Galicia,RV ARG Merval,40.1397,0.5271,8,,,,
+p,1822 Raices Valores Negociables,Provinfondos,RV ARG Merval,38.8904,0.4795,8,,,,
+p,Delta Select,Delta,RV ARG Merval,38.7896,0.4975,10,,,,

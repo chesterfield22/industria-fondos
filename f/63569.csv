@@ -1,0 +1,73 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Allaria Desarrollo e Infraestructura,,,,,,,,
+m,gerente,Allaria Fondos Administrados S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,INFRA,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,8448606962,,,,,,,,
+m,aum_planilla,8448606962,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63569,,,,,,,,
+m,n_especies,19,,,,,,,,
+m,activos_pn,100.13,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.94,,,,,,,,
+m,top1,18.68,,,,,,,,
+m,top5,65.08,,,,,,,,
+m,top10,88.34,,,,,,,,
+m,hhi_especies,1067.5195,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Genneia,,,,,,,,
+m,emisor_top_pct,22.31,,,,,,,,
+m,hhi_emisores,1451.5857,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,75.8,11,,,,,,,
+t,Soberano,16.14,1,,,,,,,
+t,Subsoberano,4.12,1,,,,,,,
+t,FCI,2.76,5,,,,,,,
+t,Fideicomiso financiero,0.33,1,,,,,,,
+c,ARS,96.06,,,,,,,,
+c,sin dato,3.09,,,,,,,,
+r,Disponibilidades,0.94,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,96.06,,,,,,,,
+r,Participaciones Accionarias Argentina,,,,,,,,,
+r,Certificados de Participacion Argentina,3.09,,,,,,,,
+r,Otros Activos,0.04,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.13,,,,,,,,
+e,ON Genneia Clase 50,ON,Genneia,ARS,18.68,1578199780,,,Titulos de Deuda en Peso Argentina,19
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,16.14,1363605164,,,Titulos de Deuda en Peso Argentina,250
+e,ON Pan Amer. Energy C 17,ON,Pan Amer. Energy,ARS,11.77,994401039,,,Titulos de Deuda en Peso Argentina,15
+e,ON Vista Gas y Oil Arg C21,ON,Vista Gas y Oil Arg,ARS,11.09,936950512,,,Titulos de Deuda en Peso Argentina,27
+e,ON YPF Clase XXVI,ON,YPF,ARS,7.4,625196915,,,Titulos de Deuda en Peso Argentina,3
+e,ON YPF C 20,ON,YPF,ARS,6.56,554228617,,,Titulos de Deuda en Peso Argentina,6
+e,ON Telecom C14 TLCFO,ON,Telecom,ARS,4.39,370893846,,,Titulos de Deuda en Peso Argentina,23
+e,ON Bco Ciudad C24,ON,Banco Ciudad,ARS,4.32,364979821,,,Titulos de Deuda en Peso Argentina,6
+e,Bono CABA 2028 BDC28,Subsoberano,Prov. CABA,ARS,4.12,348082607,,,Titulos de Deuda en Peso Argentina,18
+e,ON Vista Gas y Oil Arg C25,ON,Vista Gas y Oil Arg,ARS,3.87,326961089,,,Titulos de Deuda en Peso Argentina,18
+e,ON Genneia Clase 38,ON,Genneia,ARS,3.63,306684433,,,Titulos de Deuda en Peso Argentina,2
+e,FCI Schroder Liquidez - Clase B,FCI,Schroder Liquidez,,2.68,226422667,,,Certificados de Participacion Argentina,44
+e,ON Vista Gas y Oil Arg C19,ON,Vista Gas y Oil Arg,ARS,2.19,185024492,,,Titulos de Deuda en Peso Argentina,8
+e,ON YPF Luz Cl10,ON,YPF Luz,ARS,1.9,160523532,,,Titulos de Deuda en Peso Argentina,8
+e,FF Proyecto VIDA CP,Fideicomiso financiero,Proyecto VIDA CP,,0.33,27880403,,,Certificados de Participacion Argentina,9
+e,FCI Pellegrini I FCIC - Clase U,FCI,Pellegrini I FCIC,,0.05,4224303,,,Certificados de Participacion Argentina,11
+e,FCI SBS Ahorro Pesos Cl B,FCI,SBS Ahorro Pesos Cl B,,0.01,844860.6962,,,Certificados de Participacion Argentina,46
+e,FCI Ciclo Nova Ahorro - Clase E,FCI,Ciclo Nova Ahorro,,0.01,844860.6962,,,Certificados de Participacion Argentina,38
+e,FCI Max Money Market - Clase B,FCI,Max Money Market,,0.01,844860.6962,,,Certificados de Participacion Argentina,12
+p,Alamerica Renta Fija Argentina,Allaria,RM y Otros ARS,18.9813,0.3083,2,,,,
+p,Toronto Trust Global Capital,Investis,RF USD Linked,18.4566,0.4092,2,,,,
+p,Allaria Renta Mixta II,Allaria,RF USD Linked,16.3986,0.3099,2,,,,
+p,Consultatio Renta Fija Argentina F.C.I.,Consultatio,RF USD Linked,16.2885,0.3604,2,,,,
+p,MEGAQM Estrategia 7,MegaQM,RF ARS Disc,16.2885,0.3059,2,,,,
+p,Allaria Estrategico,Allaria,RM y Otros ARS,16.2885,0.2875,2,,,,
+p,Allaria Abierto Pymes,Allaria,PYME,16.2884,0.4741,2,,,,
+p,IAM Renta Mixta,BIND,RM y Otros ARS,16.2882,0.3269,2,,,,

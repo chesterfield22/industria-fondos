@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Allaria Dólar Retorno Total,,,,,,,,
+m,gerente,Allaria Fondos Administrados S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros USD,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Global,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,63066304,,,,,,,,
+m,aum_planilla,63066304,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86599,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,104.31,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,4.08,,,,,,,,
+m,top1,28.86,,,,,,,,
+m,top5,87.82,,,,,,,,
+m,top10,99.79,,,,,,,,
+m,hhi_especies,1948.8372,,,,,,,,
+m,n_emisores,13,,,,,,,,
+m,emisor_top,BCRA,,,,,,,,
+m,emisor_top_pct,42.71,,,,,,,,
+m,hhi_emisores,2840.748,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,BCRA,42.71,2,,,,,,,
+t,Soberano,28.86,1,,,,,,,
+t,Acción,24.89,4,,,,,,,
+t,FCI,3.78,7,,,,,,,
+c,USD,75.35,,,,,,,,
+c,sin dato,24.89,,,,,,,,
+r,Disponibilidades,4.08,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,71.56,,,,,,,,
+r,Participaciones Accionarias Estados Unidos,24.89,,,,,,,,
+r,Certificados de Participacion Argentina,3.78,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),4.31,,,,,,,,
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,USD,28.86,18200935,,,Titulos de Deuda en Dolar Estadounidense,74
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,USD,24.53,15470164,,,Titulos de Deuda en Dolar Estadounidense,33
+e,Bono Bopreal 2027 Serie 1 Clase B BPOB7,BCRA,BCRA,USD,18.18,11465454,,,Titulos de Deuda en Dolar Estadounidense,13
+e,Space Exploration Technologies Corp,Acción,Space Exploration Technologies Corp,,10.38,6546282,,,Participaciones Accionarias Estados Unidos,1
+e,Micron Technology Incorporated,Acción,Micron Technology Incorporated,,5.87,3701992,,,Participaciones Accionarias Estados Unidos,2
+e,Broadcom Inc.,Acción,Broadcom Inc,,4.53,2856904,,,Participaciones Accionarias Estados Unidos,4
+e,Nvidia Corp.,Acción,Nvidia Corp,,4.11,2592025,,,Participaciones Accionarias Estados Unidos,4
+e,FCI Megaqm Liquidez Dólar - Clase B,FCI,Megaqm Liquidez Dólar,USD,1.49,939687.9318,,,Certificados de Participacion Argentina,20
+e,FCI Cocos Dólar Money Market - Clase C,FCI,Cocos Dólar Money Market,USD,1.08,681116.0848,,,Certificados de Participacion Argentina,14
+e,SBS Liquidez USD - Clase B,FCI,Liquidez USD,USD,0.76,479303.9115,,,Certificados de Participacion Argentina,14
+e,FCI Consultatio Liquidez Dólar - Clase C,FCI,Consultatio Liquidez Dólar,USD,0.35,220732.0645,,,Certificados de Participacion Argentina,4
+e,FCI BAVSA Ahorro Dólar - Clase B,FCI,BAVSA Ahorro Dólar,USD,0.04,25226.5217,,,Certificados de Participacion Argentina,3
+e,Lombard Liquidez Dolares - Clase A,FCI,ard Liquidez Dolares,USD,0.03,18919.8912,,,Certificados de Participacion Argentina,7
+e,FCI Balanz Money Market USD - Clase B,FCI,Balanz Money Market USD,USD,0.03,18919.8912,,,Certificados de Participacion Argentina,7
+p,Allaria Dólar Global,Allaria,RF USD Disc,63.4386,0.8124,3,,,,
+p,Allaria Dólar Performance II,Allaria,RF USD Disc,38.7753,0.5792,2,,,,
+p,Parakeet Cobalto Advanced Strategy Fund,Parakeet,RF USD Disc,34.3085,0.442,3,,,,
+p,FBA Renta Fija Dólar Plus I,BBVA,RF USD Disc,33.0754,0.4664,2,,,,
+p,Max Estrategico IV,Max Capital,RF USD GL Inc ARG,32.3769,0.4452,3,,,,
+p,Novus Income Dólares,Novus,RF USD Disc,28.7853,0.504,1,,,,
+p,Pionero Dólar Dinámico,Macro,RF USD Disc,28.6344,0.4777,1,,,,
+p,Ualintec Cobertura,Ualá,RF USD Linked,27.243,0.3562,1,,,,

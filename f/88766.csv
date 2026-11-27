@@ -1,0 +1,80 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Puente Renta Fija Pesos I,,,,,,,,
+m,gerente,Puente Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,57090352119,,,,,,,,
+m,aum_planilla,57090352119,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88766,,,,,,,,
+m,n_especies,26,,,,,,,,
+m,activos_pn,95.35,,,,,,,,
+m,pasivos_cnv,4.65,,,,,,,,
+m,liquidez,2.86,,,,,,,,
+m,top1,17.77,,,,,,,,
+m,top5,42.15,,,,,,,,
+m,top10,65,,,,,,,,
+m,hhi_especies,650.8311,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,30.75,,,,,,,,
+m,hhi_emisores,1503.0523,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Subsoberano,40.53,11,,,,,,,
+t,Soberano,30.75,7,,,,,,,
+t,ON,19.6,6,,,,,,,
+t,Caución,2.86,1,,,,,,,
+t,Fideicomiso financiero,1.61,1,,,,,,,
+c,ARS,93.74,,,,,,,,
+c,sin dato,1.61,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,90.88,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,2.86,,,,,,,,
+r,Certificados de Participacion Argentina,1.61,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,4.65,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-4.65,,,,,,,,
+e,Letra Prov Chaco BLE27,Subsoberano,Prov. Chaco,ARS,17.77,10144955572,,,Titulos de Deuda en Peso Argentina,4
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,7.65,4367411937,,,Titulos de Deuda en Peso Argentina,61
+e,ON NBD Chaco Clase 1,ON,NBD Chaco,ARS,6.48,3699454817,,,Titulos de Deuda en Peso Argentina,12
+e,Bono Prov Cordoba 030235,Subsoberano,Prov. Cordoba,ARS,5.63,3214186824,,,Titulos de Deuda en Peso Argentina,29
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,4.62,2637574268,,,Titulos de Deuda en Peso Argentina,67
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,4.6,2626156197,,,Titulos de Deuda en Peso Argentina,64
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,4.59,2620447162,,,Titulos de Deuda en Peso Argentina,82
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,4.58,2614738127,,,Titulos de Deuda en Peso Argentina,51
+e,ON Banco Prov Clase 7,ON,Banco Provincia,ARS,4.55,2597611021,,,Titulos de Deuda en Peso Argentina,16
+e,Letra Prov Rio Negro S1 240927,Subsoberano,Prov. Rio Negro,ARS,4.53,2586192951,,,Titulos de Deuda en Peso Argentina,9
+e,ON CNH Arg. C12,ON,CNH Arg,ARS,4.24,2420630930,,,Titulos de Deuda en Peso Argentina,9
+e,Letra Prov Chubut S121 C1,Subsoberano,Prov. Chubut,ARS,3.34,1906817761,,,Titulos de Deuda en Peso Argentina,7
+e,Letra Prov Bs As PBA28,Subsoberano,Prov. Buenos Aires,ARS,3.25,1855436444,,,Titulos de Deuda en Peso Argentina,28
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,2.86,1632784071,,,Operaciones a Plazo en Peso Argentina,195
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,2.79,1592820824,,,Titulos de Deuda en Peso Argentina,80
+e,Letra Muni Cordoba S53,Subsoberano,Muni. Cordoba,ARS,2.09,1193188359,,,Titulos de Deuda en Peso Argentina,17
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,1.92,1096134761,,,Titulos de Deuda en Peso Argentina,160
+e,ON Grupo ST C18,ON,Grupo ST,ARS,1.77,1010499233,,,Titulos de Deuda en Peso Argentina,14
+e,ON Central Puerto Clase F,ON,Central Puerto,ARS,1.64,936281775,,,Titulos de Deuda en Peso Argentina,14
+e,FF Infraestructura Elec 14,Fideicomiso financiero,Infraestructura Elec,,1.61,919154669,,,Certificados de Participacion Argentina,9
+e,Bono Muni Cordoba S1 26032027,Subsoberano,Muni. Cordoba,ARS,1.59,907736599,,,Titulos de Deuda en Peso Argentina,20
+e,ON Mirgor Clase 7,ON,Mirgor,ARS,0.92,525231239,,,Titulos de Deuda en Peso Argentina,7
+e,Letra Prov Chaco BL2D6,Subsoberano,Prov. Chaco,ARS,0.91,519522204,,,Titulos de Deuda en Peso Argentina,4
+e,Letra Prov Chubut S123 C1,Subsoberano,Prov. Chubut,ARS,0.69,393923430,,,Titulos de Deuda en Peso Argentina,14
+e,Letra Prov Chaco BLN26,Subsoberano,Prov. Chaco,ARS,0.4,228361408,,,Titulos de Deuda en Peso Argentina,12
+e,Letra Prov Chubut S122 C1,Subsoberano,Prov. Chubut,ARS,0.33,188398162,,,Titulos de Deuda en Peso Argentina,12
+p,CYC Pesos Renta Fija,CYC,RF ARS Disc,26.0199,0.2339,6,,,,
+p,Pellegrini Renta Fija III,Pellegrini,T+1,21.5201,0.2305,5,,,,
+p,Galileo Multimercado VII,Delta,RF ARS Disc,20.7656,0.2148,5,,,,
+p,GMC Retorno Total III,GMC,RM y Otros ARS,18.438,0.2007,7,,,,
+p,Valiant Renta Fija,Valiant,T+1,18.4083,0.2037,4,,,,
+p,Pionero Renta Estrategico,Macro,RM y Otros ARS,17.043,0.1922,4,,,,
+p,Balanz Performance XI,Balanz,RF ARS Disc,16.5679,0.1348,5,,,,
+p,Pionero Gestion,Macro,RF MULT Disc,15.8129,0.1842,4,,,,

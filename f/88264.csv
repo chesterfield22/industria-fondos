@@ -1,0 +1,135 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,BAVSA Renta Balanceado VII,,,,,,,,
+m,gerente,BAVSA Fondos S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5950979808,,,,,,,,
+m,aum_planilla,5950979808,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88264,,,,,,,,
+m,n_especies,75,,,,,,,,
+m,activos_pn,101.16,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.48,,,,,,,,
+m,top1,12.24,,,,,,,,
+m,top5,32.1,,,,,,,,
+m,top10,51.41,,,,,,,,
+m,hhi_especies,406.5114,,,,,,,,
+m,n_emisores,23,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,25.3,,,,,,,,
+m,hhi_emisores,778.9043,,,,,,,,
+m,sin_emisor_pct,29.23,,,,,,,,
+t,Cedear,29.44,11,,,,,,,
+t,Soberano,25.3,4,,,,,,,
+t,Pagaré,15.37,8,,,,,,,
+t,Cheque,13.86,41,,,,,,,
+t,Subsoberano,4.58,2,,,,,,,
+t,FCI,3.87,1,,,,,,,
+t,ETF,3.46,1,,,,,,,
+t,Acción,1.5,4,,,,,,,
+t,ON,1.5,3,,,,,,,
+c,ARS,76.18,,,,,,,,
+c,USD,15.37,,,,,,,,
+c,sin dato,7.33,,,,,,,,
+r,Disponibilidades,1.48,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,45.22,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,15.37,,,,,,,,
+r,Participaciones Accionarias Argentina,34.4,,,,,,,,
+r,Certificados de Participacion Argentina,3.87,,,,,,,,
+r,Otros Activos,0.82,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.16,,,,,,,,
+e,Bono Boncer TZXA7,Soberano,Tesoro Nacional,ARS,12.24,728399928,,,Titulos de Deuda en Peso Argentina,17
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,5.72,340396045,,,Titulos de Deuda en Peso Argentina,146
+e,Cedear ADR Itau Unibanco Holding,Cedear,ADR Itau Unibanco Holding,ARS,4.78,284456835,,,Participaciones Accionarias Argentina,8
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,4.72,280886247,,,Participaciones Accionarias Argentina,38
+e,Pagare #UMV150370070,Pagaré,,USD,4.64,276125463,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,4.64,276125463,,,Participaciones Accionarias Argentina,52
+e,FCI CYC Liquidez - Clase U,FCI,CYC Liquidez,,3.87,230302919,,,Certificados de Participacion Argentina,2
+e,Bono Dual TXMJ8,Soberano,Tesoro Nacional,ARS,3.82,227327429,,,Titulos de Deuda en Peso Argentina,45
+e,Bono CER TZX27,Soberano,Tesoro Nacional,ARS,3.52,209474489,,,Titulos de Deuda en Peso Argentina,43
+e,Cedear Spdr SyP 500 ETF,ETF,Cedear Spdr SyP 500 ETF,,3.46,205903901,,,Participaciones Accionarias Argentina,13
+e,Cheque E *MAV191201336,Cheque,,ARS,3.13,186265668,,,Titulos de Deuda en Peso Argentina,1
+e,Cedear Broadcom Inc,Cedear,Broadcom Inc,ARS,2.64,157105867,,,Participaciones Accionarias Argentina,8
+e,Letra Prov Chaco BLN26,Subsoberano,Prov. Chaco,ARS,2.6,154725475,,,Titulos de Deuda en Peso Argentina,12
+e,Pagare #UMV300370024,Pagaré,,USD,2.57,152940181,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Cedear Amazon,Cedear,Amazon,ARS,2.53,150559789,,,Participaciones Accionarias Argentina,17
+e,Cedear Microsoft,Cedear,Microsoft,ARS,2.51,149369593,,,Participaciones Accionarias Argentina,14
+e,Cedear Micron Technology,Cedear,Micron Technology,ARS,2.07,123185282,,,Participaciones Accionarias Argentina,11
+e,Letra Prov Bs As PBA27,Subsoberano,Prov. Buenos Aires,ARS,1.98,117829400,,,Titulos de Deuda en Peso Argentina,38
+e,Cedear Google,Cedear,Google,ARS,1.79,106522539,,,Participaciones Accionarias Argentina,30
+e,Cedear Oracle,Cedear,Oracle,ARS,1.71,101761755,,,Participaciones Accionarias Argentina,4
+e,Cheque E *MAV171101288,Cheque,,ARS,1.66,98786265,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231201315,Cheque,,ARS,1.6,95215677,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV150570019,Pagaré,,USD,1.53,91049991,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV151260096,Pagaré,,USD,1.45,86289207,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV110570021,Pagaré,,USD,1.39,82718619,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV310570036,Pagaré,,USD,1.27,75577444,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV310570035,Pagaré,,USD,1.27,75577444,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV090670018,Pagaré,,USD,1.25,74387248,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Edenor C10 DNCAO,ON,Edenor,ARS,1.21,72006856,,,Titulos de Deuda en Peso Argentina,26
+e,Cedear Lithium Americas (Argentina) Corp,Cedear,Lithium Americas (Argentina) Corp,ARS,1.13,67246072,,,Participaciones Accionarias Argentina,2
+e,Cheque E *MAV131101162,Cheque,,ARS,1,59509798,,,Titulos de Deuda en Peso Argentina,1
+e,Cedear Nike,Cedear,Nike,ARS,0.92,54749014,,,Participaciones Accionarias Argentina,2
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,0.77,45822545,,,Participaciones Accionarias Argentina,83
+e,Cheque E *MAV030900813,Cheque,,ARS,0.64,38086271,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250901184,Cheque,,ARS,0.64,38086271,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120901453,Cheque,,ARS,0.59,35110781,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141001473,Cheque,,ARS,0.59,35110781,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050801155,Cheque,,ARS,0.54,32135291,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150901517,Cheque,,ARS,0.5,29754899,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080901147,Cheque,,ARS,0.5,29754899,,,Titulos de Deuda en Peso Argentina,1
+e,Capex S.A.,Acción,Capex,ARS,0.4,23803919,,,Participaciones Accionarias Argentina,10
+e,Cheque E *MAV151001515,Cheque,,ARS,0.34,20233331,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV151101580,Cheque,,ARS,0.33,19638233,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV090901261,Cheque,,ARS,0.25,14877450,,,Titulos de Deuda en Peso Argentina,1
+e,ON GEMSA y CTR C44,ON,GEMSA y CTR,ARS,0.21,12497058,,,Titulos de Deuda en Peso Argentina,7
+e,Cheque E *MAV051101238,Cheque,,ARS,0.17,10116666,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041101341,Cheque,,ARS,0.17,10116666,,,Titulos de Deuda en Peso Argentina,1
+e,Holcim Argentina S.A.,Acción,Holcim Argentina,ARS,0.17,10116666,,,Participaciones Accionarias Argentina,7
+e,Sociedad Comercial del Plata S.A.,Acción,Sociedad Comercial del Plata,ARS,0.16,9521568,,,Participaciones Accionarias Argentina,31
+e,Cheque E *MAV191201316,Cheque,,ARS,0.16,9521568,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121101731,Cheque,,ARS,0.15,8926470,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051201424,Cheque,,ARS,0.15,8926470,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051101237,Cheque,,ARS,0.11,6546078,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091101025,Cheque,,ARS,0.11,6546078,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101102227,Cheque,,ARS,0.08,4760784,,,Titulos de Deuda en Peso Argentina,1
+e,ON Gemsa CTR Regs 2027,ON,Gemsa CTR Regs,ARS,0.08,4760784,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231201461,Cheque,,ARS,0.06,3570588,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV300101461,Cheque,,ARS,0.05,2975490,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141101694,Cheque,,ARS,0.04,2380392,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200101830,Cheque,,ARS,0.04,2380392,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200201441,Cheque,,ARS,0.03,1785294,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV170201186,Cheque,,ARS,0.03,1785294,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310101634,Cheque,,ARS,0.02,1190196,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231201599,Cheque,,ARS,0.02,1190196,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010200983,Cheque,,ARS,0.02,1190196,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240101245,Cheque,,ARS,0.02,1190196,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV271201352,Cheque,,ARS,0.02,1190196,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260201164,Cheque,,ARS,0.02,1190196,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260201165,Cheque,,ARS,0.02,1190196,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231101176,Cheque,,ARS,0.01,595097.9808,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV161201508,Cheque,,ARS,0.01,595097.9808,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171201205,Cheque,,ARS,0.01,595097.9808,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181201511,Cheque,,ARS,0.01,595097.9808,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV161101846,Cheque,,ARS,0.01,595097.9808,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV151101983,Cheque,,ARS,0.01,595097.9808,,,Titulos de Deuda en Peso Argentina,1
+p,Galileo Blend,Delta,RM y Otros ARS,19.6531,0.2219,8,,,,
+p,Dracma Balanceado,Dracma,RM y Otros ARS,15.8685,0.1984,7,,,,
+p,Fundcorp Long Performance,CMF,RF ARS CER,15.2422,0.2667,2,,,,
+p,BAVSA Estrategia Dolar,BAVSA,RM y Otros ARS,14.1734,0.1622,7,,,,
+p,Stonex Crecimiento III,StoneX,RM y Otros ARS,13.437,0.1625,4,,,,
+p,Pionero Renta,Macro,RF ARS CER,13.3256,0.2188,3,,,,
+p,SBS Desarrollo Infraestructura II,SBS,INFRA,13.2079,0.2318,3,,,,
+p,Valiant Total Return,Valiant,RM y Otros ARS,12.9652,0.2466,3,,,,

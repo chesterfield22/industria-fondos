@@ -1,0 +1,75 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pionero Dólar Gestión,,,,,,,,
+m,gerente,Macro Fondos S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,26692145,,,,,,,,
+m,aum_planilla,26692145,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87502,,,,,,,,
+m,n_especies,22,,,,,,,,
+m,activos_pn,99.96,,,,,,,,
+m,pasivos_cnv,0.04,,,,,,,,
+m,liquidez,5.88,,,,,,,,
+m,top1,29.46,,,,,,,,
+m,top5,61.11,,,,,,,,
+m,top10,83.3,,,,,,,,
+m,hhi_especies,1328.2908,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,29.46,,,,,,,,
+m,hhi_emisores,1436.485,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,45.1,16,,,,,,,
+t,Soberano,29.46,1,,,,,,,
+t,BCRA,15.31,1,,,,,,,
+t,Caución,5.62,1,,,,,,,
+t,Plazo fijo,3.75,1,,,,,,,
+t,Soberano exterior,0.46,2,,,,,,,
+c,USD,99.7,,,,,,,,
+r,Disponibilidades,0.26,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,90.33,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,9.37,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.04,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.04,,,,,,,,
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,29.46,7863506,,,Titulos de Deuda en Dolar Estadounidense,83
+e,Bono Bopreal 2027 Serie 1 Clase D BPOD7,BCRA,BCRA,USD,15.31,4086567,,,Titulos de Deuda en Dolar Estadounidense,22
+e,ON Tarj Naranja C67 S2,ON,Tarj Naranja,USD,5.69,1518783,,,Titulos de Deuda en Dolar Estadounidense,22
+e,Caucion Colocadora U$S BYMA,Caución,Caución BYMA,USD,5.62,1500099,,,Operaciones a Plazo en Dolar Estadounidense,35
+e,ON YPF Clase 42,ON,YPF,USD,5.03,1342615,,,Titulos de Deuda en Dolar Estadounidense,48
+e,ON Telecom C28,ON,Telecom,USD,4.99,1331938,,,Titulos de Deuda en Dolar Estadounidense,21
+e,ON Genneia Clase 47,ON,Genneia,USD,4.96,1323930,,,Titulos de Deuda en Dolar Estadounidense,21
+e,ON Tecpetrol C11,ON,Tecpetrol,USD,4.53,1209154,,,Titulos de Deuda en Dolar Estadounidense,27
+e,ON Pluspetrol Clase 6,ON,Pluspetrol,USD,3.96,1057009,,,Titulos de Deuda en Dolar Estadounidense,43
+e,Pzo Fi U$S Bco Comafi,Plazo fijo,Banco Comafi,USD,3.75,1000955,,,Operaciones a Plazo en Dolar Estadounidense,9
+e,ON Tecpetrol C8,ON,Tecpetrol,USD,3.45,920879.0118,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON YPF Clase 40,ON,YPF,USD,2.95,787418.2855,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON Camuzzi Gas C1 USD,ON,Camuzzi Gas,USD,2.5,667303.6318,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON BBVA Frances Cl 44,ON,BBVA Frances,USD,1.87,499143.1165,,,Titulos de Deuda en Dolar Estadounidense,24
+e,ON Tarj Naranja C68 S2,ON,Tarj Naranja,USD,1.84,491135.473,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON YPF Clase 41,ON,YPF,USD,1.44,384366.8919,,,Titulos de Deuda en Dolar Estadounidense,8
+e,ON YPF Luz C20,ON,YPF Luz,USD,0.8,213537.1622,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON YPF Energia Electrica C21,ON,YPF Energia Electrica,USD,0.4,106768.5811,,,Titulos de Deuda en Dolar Estadounidense,17
+e,ON YPF Luz C23,ON,YPF Luz,USD,0.35,93422.5084,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Pluspetrol Clase 1,ON,Pluspetrol,USD,0.34,90753.2939,,,Titulos de Deuda en Dolar Estadounidense,13
+e,US Treasury Bill 070127,Soberano exterior,Tesoro EE.UU.,USD,0.33,88084.0794,,,Titulos de Deuda en Dolar Estadounidense,7
+e,US Treasury Bill 101226,Soberano exterior,Tesoro EE.UU.,USD,0.13,34699.7889,,,Titulos de Deuda en Dolar Estadounidense,11
+p,Novus Ahorro Dólares,Novus,RF USD Disc,44.9047,0.7274,2,,,,
+p,MEGAQM Renta Dólares,MegaQM,RF USD CP,40.3014,0.6907,3,,,,
+p,MAF Mix I,Mariva,RF USD Disc,35.4017,0.6267,4,,,,
+p,IOL Dólar Ahorro Plus,Adcap,RF USD Disc,35.1479,0.8017,3,,,,
+p,FBA Renta Fija Dólar Plus I,BBVA,RF USD Disc,32.7698,0.6047,2,,,,
+p,Alpha Renta Capital Dólar,ICBC,RF USD Disc,29.5486,0.6043,1,,,,
+p,Wise Capital Global Markets,Wise,RF USD GL Inc ARG,29.5486,0.4578,1,,,,
+p,Consultatio Multimercado V,Consultatio,RF USD Disc,28.2126,0.5827,1,,,,

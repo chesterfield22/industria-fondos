@@ -1,0 +1,61 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Premier Renta Mixta en Dólares,,,,,,,,
+m,gerente,Supervielle Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Supervielle S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD corp loc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,8901958,,,,,,,,
+m,aum_planilla,8901958,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63820,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,100.11,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,16.66,,,,,,,,
+m,top1,17.53,,,,,,,,
+m,top5,58.65,,,,,,,,
+m,top10,82.39,,,,,,,,
+m,hhi_especies,873.9793,,,,,,,,
+m,n_emisores,8,,,,,,,,
+m,emisor_top,YPF,,,,,,,,
+m,emisor_top_pct,18.09,,,,,,,,
+m,hhi_emisores,1243.6697,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,62.73,8,,,,,,,
+t,Soberano,16.09,2,,,,,,,
+t,FCI,4.63,1,,,,,,,
+c,USD,83.45,,,,,,,,
+r,Disponibilidades,16.66,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,78.82,,,,,,,,
+r,Certificados de Participacion Argentina,4.63,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.11,,,,,,,,
+e,ON Pampa Energia C23 (RegS),ON,Pampa Energia,USD,17.53,1560513,,,Titulos de Deuda en Dolar Estadounidense,36
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,12.3,1094941,,,Titulos de Deuda en Dolar Estadounidense,83
+e,ON YPF 210727,ON,YPF,USD,12.05,1072686,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON Pan American C35,ON,Pan American,USD,10.59,942717.3596,,,Titulos de Deuda en Dolar Estadounidense,23
+e,ON Pan American C31,ON,Pan American,USD,6.18,550141.0087,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON YPF Clase 31,ON,YPF,USD,6.04,537678.2674,,,Titulos de Deuda en Dolar Estadounidense,48
+e,ON Pluspetrol Clase 6,ON,Pluspetrol,USD,5.94,528776.3094,,,Titulos de Deuda en Dolar Estadounidense,43
+e,Lombard Liquidez Dolares - Clase A,FCI,ard Liquidez Dolares,USD,4.63,412160.6586,,,Certificados de Participacion Argentina,7
+e,Bonos Rep Argentina 2030 D,Soberano,Tesoro Nacional,USD,3.79,337384.2109,,,Titulos de Deuda en Dolar Estadounidense,2
+e,ON Banco Hipotecario C16,ON,Banco Hipotecario,USD,3.34,297325.3995,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Pan Amer. Energy C 12,ON,Pan Amer. Energy,USD,1.06,94360.7555,,,Titulos de Deuda en Dolar Estadounidense,34
+p,SBS Renta Mixta V,SBS,RF USD Disc,20.3577,0.2722,5,,,,
+p,Axis Estrategia 8,Axis,RM y Otros ARS,19.9246,0.34,3,,,,
+p,Pionero Inversión Dólar,Macro,RF USD GL Inc ARG,19.8426,0.254,2,,,,
+p,Parakeet Global,Parakeet,RF USD GL Inc ARG,19.1811,0.3633,4,,,,
+p,1822 Raices Dólares Plus,Provinfondos,RF USD Disc,19.0746,0.3038,3,,,,
+p,Argenfunds Renta Crecimiento,Argenfunds,RF USD Disc,18.7418,0.2631,2,,,,
+p,Pionero Dólar Gestión,Macro,RF USD Disc,18.7113,0.3581,2,,,,
+p,Fundcorp Performance Plus,CMF,RF USD Disc,18.6276,0.2702,3,,,,

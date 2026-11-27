@@ -1,0 +1,64 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Tandem Balanceado II,,,,,,,,
+m,gerente,Tandem Capital S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1306614482,,,,,,,,
+m,aum_planilla,1306614482,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88165,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,130.36,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.06,,,,,,,,
+m,top1,26.11,,,,,,,,
+m,top5,90.02,,,,,,,,
+m,top10,117.38,,,,,,,,
+m,hhi_especies,1962.1894,,,,,,,,
+m,n_emisores,1,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,92.52,,,,,,,,
+m,hhi_emisores,8559.9504,,,,,,,,
+m,sin_emisor_pct,37.76,,,,,,,,
+t,Soberano,92.52,6,,,,,,,
+t,Pagaré,19.51,3,,,,,,,
+t,Cheque,18.25,6,,,,,,,
+c,ARS,130.28,,,,,,,,
+r,Disponibilidades,0.06,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,130.3,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),30.36,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,26.11,341157041,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,19.86,259493636,,,Titulos de Deuda en Peso Argentina,158
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,18.26,238587804,,,Titulos de Deuda en Peso Argentina,66
+e,Pagare #MAV260270016,Pagaré,,ARS,12.91,168683930,,,Titulos de Deuda en Peso Argentina,1
+e,Letra Tamar TEM TMF28,Soberano,Tesoro Nacional,ARS,12.88,168291945,,,Titulos de Deuda en Peso Argentina,12
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,10.65,139154442,,,Titulos de Deuda en Peso Argentina,112
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,4.76,62194849,,,Titulos de Deuda en Peso Argentina,136
+e,Pagare #MAV270170024,Pagaré,,ARS,4.56,59581620,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV220170024,Cheque,,ARS,3.87,50565980,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV220170017,Cheque,,ARS,3.52,45992830,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV170270016,Cheque,,ARS,3.43,44816877,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV170270018,Cheque,,ARS,3.43,44816877,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV251160067,Cheque,,ARS,2.24,29268164,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV250270038,Pagaré,,ARS,2.04,26654935,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV210170015,Cheque,,ARS,1.76,22996415,,,Titulos de Deuda en Peso Argentina,1
+p,CMA Estrategia Pesos,Capital Mark..,RF MULT Disc,41.0648,0.635,5,,,,
+p,Allaria Diversificado,Allaria,RM y Otros ARS,38.9392,0.6411,3,,,,
+p,Pionero Crecimiento,Macro,RF MULT Disc,37.948,0.5774,4,,,,
+p,Champaquí Renta Futura,Bancor,RF ARS Disc,37.7568,0.5665,4,,,,
+p,First Renta Mixta II,First Cap Mkts,RV ARG Rofex 20,35.3505,0.5314,3,,,,
+p,1810 Renta Fija Argentina,Proahorro,RF MULT Disc,35.2855,0.6046,2,,,,
+p,Schroder Crecimiento Dos,Schroder,RF ARS Disc,35.2855,0.5964,2,,,,
+p,SBS Capital Plus,SBS,RF USD Linked,35.2855,0.5685,2,,,,

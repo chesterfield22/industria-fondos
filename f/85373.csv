@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Max Estrategico I,,,,,,,,
+m,gerente,Max Capital Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Global,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,15671089581,,,,,,,,
+m,aum_planilla,15671089581,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85373,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,100.23,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.05,,,,,,,,
+m,top1,35.56,,,,,,,,
+m,top5,78.76,,,,,,,,
+m,top10,99.26,,,,,,,,
+m,hhi_especies,1893.0603,,,,,,,,
+m,n_emisores,8,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,72.69,,,,,,,,
+m,hhi_emisores,5411.6393,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,72.69,4,,,,,,,
+t,Acción,19.29,4,,,,,,,
+t,Cedear,3.81,1,,,,,,,
+t,ETF,3.47,1,,,,,,,
+t,FCI,0.91,1,,,,,,,
+c,ARS,95.79,,,,,,,,
+c,sin dato,4.38,,,,,,,,
+r,Disponibilidades,0.05,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,72.7,,,,,,,,
+r,Participaciones Accionarias Argentina,26.57,,,,,,,,
+r,Certificados de Participacion Argentina,0.91,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.23,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,35.56,5572639455,,,Titulos de Deuda en Peso Argentina,103
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,16.07,2518344096,,,Titulos de Deuda en Peso Argentina,86
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,13.75,2154774817,,,Titulos de Deuda en Peso Argentina,142
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,7.31,1145556648,,,Titulos de Deuda en Peso Argentina,82
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,6.07,951235138,,,Participaciones Accionarias Argentina,86
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,5.92,927728503,,,Participaciones Accionarias Argentina,117
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,4.62,724004339,,,Participaciones Accionarias Argentina,93
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,3.81,597068513,,,Participaciones Accionarias Argentina,38
+e,Cedear Shares MSCI Brazil ETF,ETF,Cedear Shares MSCI Brazil ETF,,3.47,543786808,,,Participaciones Accionarias Argentina,23
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,2.68,419985201,,,Participaciones Accionarias Argentina,104
+e,FCI Balanz Capital Money Market Clase C,FCI,Balanz Capital Money Market,,0.91,142606915,,,Certificados de Participacion Argentina,47
+p,Max Dinamico V,Max Capital,RF MULT Disc,65.269,0.9166,3,,,,
+p,Argenfunds Financiamiento Pesos II,Argenfunds,INFRA,43.7607,0.6864,2,,,,
+p,Pionero Integral,Macro,RF MULT Disc,42.8638,0.6669,2,,,,
+p,Pionero Desarrollo,Macro,RF MULT Disc,39.7828,0.6479,2,,,,
+p,Max Dinamico III,Max Capital,RM y Otros ARS,39.5591,0.6895,4,,,,
+p,Pionero Renta Ahorro Plus,Macro,RF USD Linked,37.2251,0.565,2,,,,
+p,DXA Multicobertura,Dracma,RM y Otros ARS,37.0658,0.6782,3,,,,
+p,Max Cobertura,Max Capital,RF USD Linked,36.7077,0.5729,3,,,,

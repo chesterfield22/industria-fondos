@@ -1,0 +1,63 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Argenfunds Renta Total,,,,,,,,
+m,gerente,Argenfunds S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5422949747,,,,,,,,
+m,aum_planilla,5422949747,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63801,,,,,,,,
+m,n_especies,10,,,,,,,,
+m,activos_pn,100.21,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,19.39,,,,,,,,
+m,top1,19.36,,,,,,,,
+m,top5,78.77,,,,,,,,
+m,top10,100.18,,,,,,,,
+m,hhi_especies,1448.1772,,,,,,,,
+m,n_emisores,4,,,,,,,,
+m,emisor_top,Caución BYMA,,,,,,,,
+m,emisor_top_pct,19.36,,,,,,,,
+m,hhi_emisores,394.1838,,,,,,,,
+m,sin_emisor_pct,76.02,,,,,,,,
+t,Pagaré,76.02,6,,,,,,,
+t,Caución,19.36,1,,,,,,,
+t,FCI,4.69,2,,,,,,,
+t,ON,0.11,1,,,,,,,
+c,ARS,95.49,,,,,,,,
+c,sin dato,4.69,,,,,,,,
+r,Disponibilidades,0.03,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,76.13,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,19.36,,,,,,,,
+r,Certificados de Participacion Argentina,4.69,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.21,,,,,,,,
+e,Pagare #MAV221260025,Pagaré,,ARS,19.36,1049883071,,,Titulos de Deuda en Peso Argentina,1
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,19.36,1049883071,,,Operaciones a Plazo en Peso Argentina,73
+e,Pagare #MAV221260024,Pagaré,,ARS,15.3,829711311,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV221260026,Pagaré,,ARS,13.03,706610352,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV190170020,Pagaré,,ARS,11.72,635569710,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV190170015,Pagaré,,ARS,8.37,453900894,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV190170024,Pagaré,,ARS,8.24,446851059,,,Titulos de Deuda en Peso Argentina,1
+e,FCI BAVSA Ahorro - Clase B,FCI,BAVSA Ahorro,,4.39,238067494,,,Certificados de Participacion Argentina,18
+e,FCI Allaria Residencial I FCIC,FCI,Allaria Residencial I FCIC,,0.3,16268849,,,Certificados de Participacion Argentina,1
+e,ON TGLT Clase 16,ON,TGLT,ARS,0.11,5965245,,,Titulos de Deuda en Peso Argentina,14
+p,MAF Liquidez,Mariva,MM ARS Dinámico,19.3252,0.4283,1,,,,
+p,MAF Money Market,Mariva,MM ARS Clásico,19.3252,0.4212,1,,,,
+p,Pionero Pesos,Macro,MM ARS Clásico,19.3252,0.4023,1,,,,
+p,MAF Renta Balanceada 2,Mariva,RM y Otros ARS,19.3252,0.3497,1,,,,
+p,IAM Ahorro Pesos,BIND,MM ARS Clásico,19.3252,0.3117,1,,,,
+p,Stonex Balanceado VI,StoneX,RF ARS Disc,19.3252,0.2857,1,,,,
+p,Pionero Pesos Plus,Macro,MM ARS Clásico,19.3252,0.2481,1,,,,
+p,Delta Gestion XI,Delta,RF MULT Corp,19.3252,0.2229,1,,,,

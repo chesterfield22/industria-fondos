@@ -1,0 +1,69 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Fima Infraestructura I,,,,,,,,
+m,gerente,Galicia Asset Management S.A.U.,,,,,,,,
+m,depositaria,Banco de Galicia y Buenos Aires S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,INFRA,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,52442712,,,,,,,,
+m,aum_planilla,52442712,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/81621,,,,,,,,
+m,n_especies,21,,,,,,,,
+m,activos_pn,100.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,15.73,,,,,,,,
+m,top1,11.91,,,,,,,,
+m,top5,41.9,,,,,,,,
+m,top10,61.95,,,,,,,,
+m,hhi_especies,512.6931,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Oldelval,,,,,,,,
+m,emisor_top_pct,18.62,,,,,,,,
+m,hhi_emisores,894.0081,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,66.69,16,,,,,,,
+t,Subsoberano,17.62,5,,,,,,,
+c,USD,84.31,,,,,,,,
+r,Disponibilidades,15.73,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,84.29,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.02,,,,,,,,
+e,ON Oldelval Clase 6,ON,Oldelval,USD,11.91,6245927,,,Titulos de Deuda en Dolar Estadounidense,41
+e,ON YPF C 17,ON,YPF,USD,10.17,5333424,,,Titulos de Deuda en Dolar Estadounidense,19
+e,Bono Prov Cordoba 2032,Subsoberano,Prov. Cordoba,USD,7.96,4174440,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Oldelval Clase 5,ON,Oldelval,USD,6.71,3518906,,,Titulos de Deuda en Dolar Estadounidense,34
+e,ON YPF C 18,ON,YPF,USD,5.15,2700800,,,Titulos de Deuda en Dolar Estadounidense,5
+e,ON Oiltanking S3,ON,Oiltanking,USD,4.27,2239304,,,Titulos de Deuda en Dolar Estadounidense,13
+e,Bono CABA 01062027,Subsoberano,Prov. CABA,USD,4.1,2150151,,,Titulos de Deuda en Dolar Estadounidense,7
+e,ON Vista Gas y Oil Arg C27,ON,Vista Gas y Oil Arg,USD,4.03,2113441,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Otamerica S6,ON,Otamerica,USD,3.89,2040022,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Epec C1,ON,Epec,USD,3.76,1971846,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON Oiltanking S4 C2,ON,Oiltanking,USD,3.33,1746342,,,Titulos de Deuda en Dolar Estadounidense,7
+e,ON Tecpetrol C10,ON,Tecpetrol,USD,2.85,1494617,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON Oiltanking S2,ON,Oiltanking,USD,2.65,1389732,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Pan American C31,ON,Pan American,USD,2.1,1101297,,,Titulos de Deuda en Dolar Estadounidense,20
+e,Bono Prov Santa Fe 2027 SF27D,Subsoberano,Prov. Santa Fe,USD,2.04,1069831,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON Oiltanking S4 C1,ON,Oiltanking,USD,1.96,1027877,,,Titulos de Deuda en Dolar Estadounidense,10
+e,Bono Prov Santa Fe 8.1% 111234,Subsoberano,Prov. Santa Fe,USD,1.92,1006900,,,Titulos de Deuda en Dolar Estadounidense,37
+e,ON Pampa Energia C27,ON,Pampa Energia,USD,1.92,1006900,,,Titulos de Deuda en Dolar Estadounidense,32
+e,ON Plaza Logistica C6 ZPC6O,ON,Plaza Logistica,USD,1.83,959701.6366,,,Titulos de Deuda en Dolar Estadounidense,9
+e,Bono Prov San Juan SJO35,Subsoberano,Prov. San Juan,USD,1.6,839083.3981,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON Pan Amer. Energy C 12,ON,Pan Amer. Energy,USD,0.16,83908.3398,,,Titulos de Deuda en Dolar Estadounidense,34
+p,SBS Renta Mixta V,SBS,RF USD Disc,19.8606,0.3076,6,,,,
+p,MEGAQM FCI Abierto Financiamiento de Infraestructura,MegaQM,INFRA,12.4683,0.1675,5,,,,
+p,Allaria Dólar Dinámico,Allaria,RF USD corp loc,12.2917,0.2104,4,,,,
+p,Balanz Crecimiento FCI Ab para Financ Infra y Econ Real,Balanz,INFRA,12.2405,0.1071,5,,,,
+p,Argenfunds Estrategia III,Argenfunds,RF USD Disc,12.0626,0.1734,1,,,,
+p,SBS Tavelli Renta,SBS,RF MULT Disc,11.401,0.1541,1,,,,
+p,MEGAQM Corporativo Dólares,MegaQM,RF USD corp loc,11.3594,0.261,7,,,,
+p,Schroder Retorno Total,Schroder,RF USD corp loc,11.3079,0.1428,6,,,,

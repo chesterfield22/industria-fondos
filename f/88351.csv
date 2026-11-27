@@ -1,0 +1,74 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,GMC Retorno Total VI,,,,,,,,
+m,gerente,GMC Asset Management S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,51219139523,,,,,,,,
+m,aum_planilla,51219139523,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88351,,,,,,,,
+m,n_especies,23,,,,,,,,
+m,activos_pn,55.55,,,,,,,,
+m,pasivos_cnv,44.45,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,8.81,,,,,,,,
+m,top5,29.56,,,,,,,,
+m,top10,41.7,,,,,,,,
+m,hhi_especies,249.8574,,,,,,,,
+m,n_emisores,13,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,36.48,,,,,,,,
+m,hhi_emisores,1376.6124,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,36.48,8,,,,,,,
+t,ON,18.62,14,,,,,,,
+t,FCI,0.44,1,,,,,,,
+c,ARS,55.1,,,,,,,,
+c,sin dato,0.44,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,55.11,,,,,,,,
+r,Certificados de Participacion Argentina,0.44,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,44.45,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-44.45,,,,,,,,
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,8.81,4512406192,,,Titulos de Deuda en Peso Argentina,136
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,8.65,4430455569,,,Titulos de Deuda en Peso Argentina,250
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,4.69,2402177644,,,Titulos de Deuda en Peso Argentina,142
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,4.27,2187057258,,,Titulos de Deuda en Peso Argentina,149
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,3.14,1608280981,,,Titulos de Deuda en Peso Argentina,61
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,2.91,1490476960,,,Titulos de Deuda en Peso Argentina,82
+e,Bono del Tesoro Nacional TY30P,Soberano,Tesoro Nacional,ARS,2.61,1336819542,,,Titulos de Deuda en Peso Argentina,30
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,2.54,1300966144,,,Titulos de Deuda en Peso Argentina,61
+e,ON Payway C1,ON,Payway,ARS,2.08,1065358102,,,Titulos de Deuda en Peso Argentina,21
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,2,1024382790,,,Titulos de Deuda en Peso Argentina,112
+e,ON Banco Prov Clase 7,ON,Banco Provincia,ARS,1.93,988529393,,,Titulos de Deuda en Peso Argentina,16
+e,ON Arcor C8,ON,Arcor,ARS,1.81,927066425,,,Titulos de Deuda en Peso Argentina,22
+e,ON Banco Prov Clase 6,ON,Banco Provincia,ARS,1.47,752921351,,,Titulos de Deuda en Peso Argentina,43
+e,ON Arcor C6,ON,Arcor,ARS,1.03,527557137,,,Titulos de Deuda en Peso Argentina,31
+e,ON Tarj Naranja C67 S1,ON,Tarj Naranja,ARS,1.03,527557137,,,Titulos de Deuda en Peso Argentina,40
+e,ON ICBC Clase 5 110327,ON,ICBC,ARS,1.02,522435223,,,Titulos de Deuda en Peso Argentina,36
+e,ON Edesa Clase 3,ON,Edesa,ARS,1.01,517313309,,,Titulos de Deuda en Peso Argentina,21
+e,ON Rombo Cia Fciera S69,ON,Rombo Cia Fciera,ARS,1.01,517313309,,,Titulos de Deuda en Peso Argentina,15
+e,ON Gpat Cia. Financ. 39 A,ON,Gpat Cia. Financ,ARS,1,512191395,,,Titulos de Deuda en Peso Argentina,17
+e,ON Bco Serv Transac C27,ON,Banco Serv Transac,ARS,1,512191395,,,Titulos de Deuda en Peso Argentina,12
+e,ON Banco Nacion Argentina Clase 4,ON,Banco Nacion Argentina,ARS,0.79,404631202,,,Titulos de Deuda en Peso Argentina,22
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,0.44,225364214,,,Certificados de Participacion Argentina,47
+e,ON Grupo ST C18,ON,Grupo ST,ARS,0.3,153657419,,,Titulos de Deuda en Peso Argentina,14
+p,Allaria Estrategico,Allaria,RM y Otros ARS,45.1206,0.7969,4,,,,
+p,Allaria Estructurado,Allaria,RF ARS Disc,43.1867,0.7045,4,,,,
+p,Bull Market Ahorro Balanceado III,Bull Market,RF ARS CER,40.7094,0.7207,4,,,,
+p,Novus Gestion,Novus,RF ARS Disc,40.6734,0.8077,4,,,,
+p,Allaria Renta Mixta,Allaria,RM y Otros ARS,39.8812,0.7873,3,,,,
+p,Adcap Pesos Plus,Adcap,T+1,38.9693,0.6124,13,,,,
+p,Ciclo Nova Balanceado,Ciclo Nova,RM y Otros ARS,38.7188,0.6118,5,,,,
+p,BAVSA Cobertura,BAVSA,RF USD Linked,37.4956,0.561,3,,,,

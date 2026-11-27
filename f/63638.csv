@@ -1,0 +1,74 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pellegrini Crecimiento,,,,,,,,
+m,gerente,Pellegrini S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de La Nacion Argentina,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS CER,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,350698836690,,,,,,,,
+m,aum_planilla,350698836690,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63638,,,,,,,,
+m,n_especies,22,,,,,,,,
+m,activos_pn,101.21,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,22.36,,,,,,,,
+m,top5,68.81,,,,,,,,
+m,top10,87.82,,,,,,,,
+m,hhi_especies,1227.2768,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,98.96,,,,,,,,
+m,hhi_emisores,9795.1442,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,98.96,17,,,,,,,
+t,FCI,1.47,2,,,,,,,
+t,Subsoberano,0.41,2,,,,,,,
+t,ON,0.36,1,,,,,,,
+c,ARS,99.73,,,,,,,,
+c,sin dato,1.47,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.74,,,,,,,,
+r,Certificados de Participacion Argentina,1.47,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.21,,,,,,,,
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,22.36,78416259884,,,Titulos de Deuda en Peso Argentina,158
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,19.3,67684875481,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,11.26,39488689011,,,Titulos de Deuda en Peso Argentina,128
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,8.39,29423632398,,,Titulos de Deuda en Peso Argentina,146
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,7.5,26302412752,,,Titulos de Deuda en Peso Argentina,64
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,5.01,17570011718,,,Titulos de Deuda en Peso Argentina,51
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,4.31,15115119861,,,Titulos de Deuda en Peso Argentina,66
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,3.51,12309529168,,,Titulos de Deuda en Peso Argentina,84
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,3.11,10906733821,,,Titulos de Deuda en Peso Argentina,61
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,3.07,10766454286,,,Titulos de Deuda en Peso Argentina,75
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,2.82,9889707195,,,Titulos de Deuda en Peso Argentina,84
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,2.51,8802540801,,,Titulos de Deuda en Peso Argentina,67
+e,Bono Boncer TZXD8,Soberano,Tesoro Nacional,ARS,2.28,7995933477,,,Titulos de Deuda en Peso Argentina,26
+e,Boncer TZXY7,Soberano,Tesoro Nacional,ARS,1.83,6417788711,,,Titulos de Deuda en Peso Argentina,76
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,1.32,4629224644,,,Certificados de Participacion Argentina,96
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,1.15,4033036622,,,Titulos de Deuda en Peso Argentina,160
+e,Bono del Tesoro Nacional TY30P,Soberano,Tesoro Nacional,ARS,0.42,1472935114,,,Titulos de Deuda en Peso Argentina,30
+e,ON Telecom C18 TLCJO,ON,Telecom,ARS,0.36,1262515812,,,Titulos de Deuda en Peso Argentina,11
+e,Bono Prov Cordoba 2027 COY27,Subsoberano,Prov. Cordoba,ARS,0.21,736467557,,,Titulos de Deuda en Peso Argentina,28
+e,Bono Prov Cordoba Clase 6,Subsoberano,Prov. Cordoba,ARS,0.2,701397673,,,Titulos de Deuda en Peso Argentina,36
+e,FCI Cocos Ahorro - Clase C,FCI,Cocos Ahorro,,0.15,526048255,,,Certificados de Participacion Argentina,32
+e,Bono Boncer 2029 TZXM9,Soberano,Tesoro Nacional,ARS,0.13,455908488,,,Titulos de Deuda en Peso Argentina,5
+p,Pellegrini Renta Fija II,Pellegrini,T+1,70.4607,0.8802,14,,,,
+p,Pellegrini Renta Fija Ahorro,Pellegrini,RF ARS Disc,59.4347,0.7739,8,,,,
+p,Pionero Renta,Macro,RF ARS CER,57.7958,0.7878,9,,,,
+p,Parakeet Multimercado III,Parakeet,RM y Otros ARS,53.1165,0.7305,6,,,,
+p,Balanz Performance I,Balanz,RF MULT Disc,52.2925,0.8261,3,,,,
+p,Galileo Multimercado II,Delta,RF ARS CER,50.6889,0.6728,8,,,,
+p,Superfondo Renta Fija,Santander,RF ARS CER,50.5362,0.6564,8,,,,
+p,1810 Ahorros Activos,Proahorro,RF ARS CER,50.4535,0.6541,6,,,,

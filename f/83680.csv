@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Consultatio Multimercado V,,,,,,,,
+m,gerente,Consultatio Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense Billete,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,14088017,,,,,,,,
+m,aum_planilla,14088017,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83680,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,100.44,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,4.08,,,,,,,,
+m,top1,27.18,,,,,,,,
+m,top5,73.25,,,,,,,,
+m,top10,94.64,,,,,,,,
+m,hhi_especies,1421.661,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,66.11,,,,,,,,
+m,hhi_emisores,4526.7098,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,66.11,4,,,,,,,
+t,Subsoberano,17.55,3,,,,,,,
+t,ON,12.3,4,,,,,,,
+t,FCI,0.38,2,,,,,,,
+c,USD,95.96,,,,,,,,
+c,sin dato,0.38,,,,,,,,
+r,Disponibilidades,4.08,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,95.98,,,,,,,,
+r,Certificados de Participacion Argentina,0.38,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.44,,,,,,,,
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,27.18,3829123,,,Titulos de Deuda en Dolar Estadounidense,83
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,USD,16.72,2355516,,,Titulos de Deuda en Dolar Estadounidense,62
+e,Bonos Rep Argentina GD35,Soberano,Tesoro Nacional,USD,11.62,1637028,,,Titulos de Deuda en Dolar Estadounidense,54
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,USD,10.59,1491921,,,Titulos de Deuda en Dolar Estadounidense,72
+e,Bono Prov San Juan SJO35,Subsoberano,Prov. San Juan,USD,7.14,1005884,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON Telecom C24,ON,Telecom,USD,5.77,812878.5861,,,Titulos de Deuda en Dolar Estadounidense,33
+e,Bono Entre Rios 9.55% 040333,Subsoberano,Prov. Entre Rios,USD,5.23,736803.2938,,,Titulos de Deuda en Dolar Estadounidense,11
+e,Bono Prov Cordoba 030235,Subsoberano,Prov. Cordoba,USD,5.18,729759.2853,,,Titulos de Deuda en Dolar Estadounidense,29
+e,ON Tecpetrol C10,ON,Tecpetrol,USD,3.67,517030.2272,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,USD,1.54,216955.4632,,,Titulos de Deuda en Dolar Estadounidense,58
+e,ON Edenor C10 DNCAO,ON,Edenor,USD,1.32,185961.8256,,,Titulos de Deuda en Dolar Estadounidense,26
+e,FCI MEGAQM Pesos - Clase A,FCI,MEGAQM Pesos,,0.37,52125.6632,,,Certificados de Participacion Argentina,8
+e,FCI Argenfunds Liquidez - Clase B,FCI,Argenfunds Liquidez,,0.01,1408.8017,,,Certificados de Participacion Argentina,50
+p,Delta Renta Dolares,Delta,RF USD Disc,53.3168,0.7211,4,,,,
+p,Ualintec Cobertura,Ualá,RF USD Linked,53.0823,0.7105,3,,,,
+p,Alpha Renta Capital Dólar,ICBC,RF USD Disc,45.5518,0.6754,3,,,,
+p,FBA Renta Fija Dólar Plus I,BBVA,RF USD Disc,40.8494,0.5923,3,,,,
+p,Fima Mix Dólares,Galicia,RF USD Disc,40.409,0.4596,3,,,,
+p,1822 Raices Dólares Plus,Provinfondos,RF USD Disc,35.3199,0.6717,4,,,,
+p,Crecer Renta Dólares,Ciudad,RF USD Disc,34.9817,0.4904,3,,,,
+p,Novus Capital,Novus,RM y Otros USD,33.1342,0.598,3,,,,

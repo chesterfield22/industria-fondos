@@ -1,0 +1,79 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Axis S&C Argentina Absolute Return,,,,,,,,
+m,gerente,Axis S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,12842464267,,,,,,,,
+m,aum_planilla,12842464267,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85840,,,,,,,,
+m,n_especies,25,,,,,,,,
+m,activos_pn,133.53,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.08,,,,,,,,
+m,top1,20.7,,,,,,,,
+m,top5,73.05,,,,,,,,
+m,top10,102.38,,,,,,,,
+m,hhi_especies,1503.1692,,,,,,,,
+m,n_emisores,20,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,71.77,,,,,,,,
+m,hhi_emisores,5449.5302,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,71.77,6,,,,,,,
+t,Acción,51.2,14,,,,,,,
+t,Subsoberano,6.38,2,,,,,,,
+t,Cedear,2.89,2,,,,,,,
+t,FCI,1.16,1,,,,,,,
+c,ARS,132.24,,,,,,,,
+c,sin dato,1.16,,,,,,,,
+r,Disponibilidades,0.08,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,78.16,,,,,,,,
+r,Participaciones Accionarias Argentina,54.09,,,,,,,,
+r,Certificados de Participacion Argentina,1.16,,,,,,,,
+r,Otros Activos,0.04,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),33.53,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,20.7,2658390103,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,19.8,2542807925,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,17.6,2260273711,,,Titulos de Deuda en Peso Argentina,66
+e,YPF S.A.,Acción,YPF,ARS,8.37,1074914259,,,Participaciones Accionarias Argentina,122
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,6.58,845034149,,,Participaciones Accionarias Argentina,129
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,6.28,806506756,,,Participaciones Accionarias Argentina,93
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,ARS,6.03,774400595,,,Titulos de Deuda en Peso Argentina,62
+e,Bonos Rep Argentina AL35,Soberano,Tesoro Nacional,ARS,5.91,758989638,,,Titulos de Deuda en Peso Argentina,31
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,5.87,753852652,,,Participaciones Accionarias Argentina,117
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,5.24,672945128,,,Participaciones Accionarias Argentina,104
+e,Bono Prov Cordoba Clase 6,Subsoberano,Prov. Cordoba,ARS,4.36,559931442,,,Titulos de Deuda en Peso Argentina,36
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,4.11,527825281,,,Participaciones Accionarias Argentina,83
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,3.1,398116392,,,Participaciones Accionarias Argentina,85
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,2.96,380136942,,,Participaciones Accionarias Argentina,86
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,2.85,366010232,,,Participaciones Accionarias Argentina,52
+e,Transener S.A.,Acción,Transener,ARS,2.36,303082157,,,Participaciones Accionarias Argentina,84
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,2.31,296660925,,,Participaciones Accionarias Argentina,104
+e,Bono Muni Cordoba S1 26032027,Subsoberano,Muni. Cordoba,ARS,2.02,259417778,,,Titulos de Deuda en Peso Argentina,20
+e,Bono Dual TXMJ8,Soberano,Tesoro Nacional,ARS,1.73,222174632,,,Titulos de Deuda en Peso Argentina,45
+e,Transportadora de Gas del Norte S.A.,Acción,Transportadora de Gas del Norte,ARS,1.65,211900660,,,Participaciones Accionarias Argentina,70
+e,Aluar Aluminio Argentino S.A.I.C.,Acción,Aluar Aluminio Argentino S.A.I.C,ARS,1.35,173373268,,,Participaciones Accionarias Argentina,56
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,1.16,148972585,,,Certificados de Participacion Argentina,93
+e,Grupo Supervielle S.A.,Acción,Grupo Supervielle,ARS,0.73,93749989,,,Participaciones Accionarias Argentina,64
+e,Edenor S.A.,Acción,Edenor,ARS,0.29,37243146,,,Participaciones Accionarias Argentina,49
+e,Cedear Bioceres,Cedear,Bioceres,ARS,0.04,5136986,,,Participaciones Accionarias Argentina,2
+p,IAM Renta Variable,BIND,RV ARG Rofex 20,51.6793,0.6536,15,,,,
+p,Novus Renta Mixta,Novus,RM y Otros ARS,42.8379,0.6566,10,,,,
+p,Galileo Ahorro Plus,Delta,T+1,38.6847,0.6805,3,,,,
+p,Chimpay Pesos Moderado,Chimpay,RM y Otros ARS,37.8366,0.5101,12,,,,
+p,Galileo Multimercado IV,Delta,RM y Otros ARS,35.425,0.4333,15,,,,
+p,Galileo Renta Fija,Delta,RF MULT Disc,34.8801,0.6108,3,,,,
+p,Delta Gestion VI,Delta,RF MULT Disc,33.9957,0.4899,12,,,,
+p,Delta Multimercado I,Delta,RM y Otros ARS,33.8459,0.4695,14,,,,

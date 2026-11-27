@@ -1,0 +1,73 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,GSS Energia,,,,,,,,
+m,gerente,Grupo SS S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF MULT Corp,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Global,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,7351672643,,,,,,,,
+m,aum_planilla,7351672643,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63844,,,,,,,,
+m,n_especies,22,,,,,,,,
+m,activos_pn,100.04,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,18.08,,,,,,,,
+m,top5,44.82,,,,,,,,
+m,top10,71.26,,,,,,,,
+m,hhi_especies,744.8598,,,,,,,,
+m,n_emisores,14,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,21.61,,,,,,,,
+m,hhi_emisores,1298.6294,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,77.86,15,,,,,,,
+t,Soberano,21.61,5,,,,,,,
+t,FCI,0.55,2,,,,,,,
+c,ARS,99.47,,,,,,,,
+c,sin dato,0.55,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.48,,,,,,,,
+r,Certificados de Participacion Argentina,0.55,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.04,,,,,,,,
+e,ON Oldelval Clase 2,ON,Oldelval,ARS,18.08,1329182414,,,Titulos de Deuda en Peso Argentina,16
+e,ON YPF Luz Cl10,ON,YPF Luz,ARS,7.51,552110615,,,Titulos de Deuda en Peso Argentina,8
+e,ON Epec C2,ON,Epec,ARS,6.97,512411583,,,Titulos de Deuda en Peso Argentina,12
+e,ON Vista Gas y Oil Arg C25,ON,Vista Gas y Oil Arg,ARS,6.52,479329056,,,Titulos de Deuda en Peso Argentina,18
+e,ON Pan American C26,ON,Pan American,ARS,5.74,421986010,,,Titulos de Deuda en Peso Argentina,38
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,5.62,413164003,,,Titulos de Deuda en Peso Argentina,42
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,5.38,395519988,,,Titulos de Deuda en Peso Argentina,250
+e,ON Genneia Clase 36,ON,Genneia,ARS,5.32,391108985,,,Titulos de Deuda en Peso Argentina,2
+e,Bono Boncer TZXA7,Soberano,Tesoro Nacional,ARS,5.19,381551810,,,Titulos de Deuda en Peso Argentina,17
+e,ON Genneia Clase 37,ON,Genneia,ARS,4.93,362437461,,,Titulos de Deuda en Peso Argentina,23
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,4.84,355820956,,,Titulos de Deuda en Peso Argentina,52
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,4.82,354350621,,,Titulos de Deuda en Peso Argentina,158
+e,ON Capex C7,ON,Capex,ARS,3.86,283774564,,,Titulos de Deuda en Peso Argentina,21
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,3.43,252162372,,,Titulos de Deuda en Peso Argentina,118
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,2.79,205111667,,,Titulos de Deuda en Peso Argentina,159
+e,ON Pan Amer. Energy C 17,ON,Pan Amer. Energy,ARS,2.29,168353304,,,Titulos de Deuda en Peso Argentina,15
+e,ON Vista Gas y Oil Arg C19,ON,Vista Gas y Oil Arg,ARS,2.14,157325795,,,Titulos de Deuda en Peso Argentina,8
+e,ON GEMSA 18,ON,GEMSA,ARS,1.78,130859773,,,Titulos de Deuda en Peso Argentina,9
+e,ON Pan Amer. Energy C 13,ON,Pan Amer. Energy,ARS,1.69,124243268,,,Titulos de Deuda en Peso Argentina,11
+e,ON Refi Pampa S3 B,ON,Refi Pampa,ARS,0.57,41904534,,,Titulos de Deuda en Peso Argentina,11
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.4,29406691,,,Certificados de Participacion Argentina,77
+e,FCI BM Smart Money Market - Clase B,FCI,BM Smart Money Market,,0.15,11027509,,,Certificados de Participacion Argentina,34
+p,GSS Cobertura,Grupo SS,RF USD Linked,35.3866,0.4545,9,,,,
+p,Delta Crecimiento Infraestructura,Delta,INFRA,28.6677,0.4793,6,,,,
+p,Delta Gestion IX,Delta,RF USD Linked,24.7606,0.3238,6,,,,
+p,Pionero Infraestructura,Macro,INFRA,24.1559,0.356,6,,,,
+p,Alpha Infraestructura,ICBC,INFRA,23.1099,0.3852,6,,,,
+p,Fima Capital Plus,Galicia,RF USD Linked,22.7916,0.2785,9,,,,
+p,Desarrollo Argentino III FCI Abierto para el Fin. de la Infra. y la Econ. Real,Investis,INFRA,22.5727,0.3042,6,,,,
+p,Adcap Cobertura,Adcap,RF ARS CER,21.6057,0.2612,5,,,,

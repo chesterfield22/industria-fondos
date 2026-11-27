@@ -1,0 +1,82 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,1822 Raices Infraestructura,,,,,,,,
+m,gerente,Provinfondos S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Provincia de Buenos Aires,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,INFRA,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,12125159739,,,,,,,,
+m,aum_planilla,12125159739,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/84251,,,,,,,,
+m,n_especies,27,,,,,,,,
+m,activos_pn,98.53,,,,,,,,
+m,pasivos_cnv,1.47,,,,,,,,
+m,liquidez,2.63,,,,,,,,
+m,top1,11.61,,,,,,,,
+m,top5,41.97,,,,,,,,
+m,top10,69.16,,,,,,,,
+m,hhi_especies,585.3092,,,,,,,,
+m,n_emisores,22,,,,,,,,
+m,emisor_top,Prov. Buenos Aires,,,,,,,,
+m,emisor_top_pct,14.87,,,,,,,,
+m,hhi_emisores,797.8338,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,43.95,12,,,,,,,
+t,Subsoberano,37.95,10,,,,,,,
+t,Soberano,11.61,1,,,,,,,
+t,Fideicomiso financiero,2.21,2,,,,,,,
+t,Caución,2.06,1,,,,,,,
+t,FCI,0.18,1,,,,,,,
+c,ARS,95.57,,,,,,,,
+c,sin dato,2.39,,,,,,,,
+r,Disponibilidades,0.57,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,93.51,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,2.06,,,,,,,,
+r,Certificados de Participacion Argentina,2.39,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,1.47,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-1.47,,,,,,,,
+e,Bono Boncer TX26,Soberano,Tesoro Nacional,ARS,11.61,1407731046,,,Titulos de Deuda en Peso Argentina,63
+e,ON Vista Gas y Oil Arg C21,ON,Vista Gas y Oil Arg,ARS,8.42,1020938450,,,Titulos de Deuda en Peso Argentina,27
+e,Letra Prov Bs As PBA28,Subsoberano,Prov. Buenos Aires,ARS,7.71,934849816,,,Titulos de Deuda en Peso Argentina,28
+e,Letra Prov Bs As PBA27,Subsoberano,Prov. Buenos Aires,ARS,7.16,868161437,,,Titulos de Deuda en Peso Argentina,38
+e,Bono Muni San Isidro,Subsoberano,Muni. San Isidro,ARS,7.07,857248794,,,Titulos de Deuda en Peso Argentina,10
+e,ON Pan American C33,ON,Pan American,ARS,6.18,749334872,,,Titulos de Deuda en Peso Argentina,36
+e,ON Capex C10,ON,Capex,ARS,6.18,749334872,,,Titulos de Deuda en Peso Argentina,17
+e,ON Mega C1,ON,Mega,ARS,5.79,702046749,,,Titulos de Deuda en Peso Argentina,16
+e,ON Oiltanking S3,ON,Oiltanking,ARS,4.67,566244960,,,Titulos de Deuda en Peso Argentina,13
+e,Bonos de Infra.Vial Prov. de Santa Fe,Subsoberano,Prov. Santa Fe,ARS,4.37,529869481,,,Titulos de Deuda en Peso Argentina,21
+e,ON Capex C4,ON,Capex,ARS,3.77,457118522,,,Titulos de Deuda en Peso Argentina,8
+e,Bono Prov Cordoba Clase 4,Subsoberano,Prov. Cordoba,ARS,2.99,362542276,,,Titulos de Deuda en Peso Argentina,37
+e,Bono CABA 2028 BDC28,Subsoberano,Prov. CABA,ARS,2.98,361329760,,,Titulos de Deuda en Peso Argentina,18
+e,ON YPF C 20,ON,YPF,ARS,2.87,347992084,,,Titulos de Deuda en Peso Argentina,6
+e,ON Vista Gas y Oil Arg C24,ON,Vista Gas y Oil Arg,ARS,2.71,328591829,,,Titulos de Deuda en Peso Argentina,11
+e,Bono Neuquen 2030,Subsoberano,Prov. Neuquen,ARS,2.17,263115966,,,Titulos de Deuda en Peso Argentina,4
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,2.06,249778291,,,Operaciones a Plazo en Peso Argentina,73
+e,FF Sion Conecta Infraestructura Privada S1,Fideicomiso financiero,Sion Conecta Infraestructura Privada,,1.88,227953003,,,Certificados de Participacion Argentina,16
+e,Bono Prov Mendoza 2029,Subsoberano,Prov. Mendoza,ARS,1.78,215827843,,,Titulos de Deuda en Peso Argentina,16
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,1.33,161264625,,,Titulos de Deuda en Peso Argentina,56
+e,Bono Prov Santa Fe 2027 SF27D,Subsoberano,Prov. Santa Fe,ARS,0.93,112763986,,,Titulos de Deuda en Peso Argentina,20
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,0.87,105488890,,,Titulos de Deuda en Peso Argentina,52
+e,Bono Prov Salta SA24D,Subsoberano,Prov. Salta,ARS,0.79,95788762,,,Titulos de Deuda en Peso Argentina,3
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,0.66,80026054,,,Titulos de Deuda en Peso Argentina,67
+e,ON Pan Amer. Energy C 12,ON,Pan Amer. Energy,ARS,0.5,60625799,,,Titulos de Deuda en Peso Argentina,34
+e,FF Nasa Clase 4,Fideicomiso financiero,Nasa,,0.33,40013027,,,Certificados de Participacion Argentina,5
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.18,21825288,,,Certificados de Participacion Argentina,77
+p,Adcap Desarrollo e Infraestructura,Adcap,INFRA,22.9366,0.3131,5,,,,
+p,Argenfunds Infraestructura,Argenfunds,INFRA,16.4947,0.177,5,,,,
+p,Balanz Infraestructura,Balanz,INFRA,15.884,0.2289,4,,,,
+p,Alpha Infraestructura,ICBC,INFRA,15.8372,0.1918,6,,,,
+p,Allaria Desarrollo e Infraestructura,Allaria,INFRA,14.5672,0.1575,3,,,,
+p,CYC Pesos Renta Fija,CYC,RF ARS Disc,14.444,0.2512,3,,,,
+p,Fima Infraestructura II,Galicia,INFRA,14.3453,0.2015,5,,,,
+p,1822 Raices Inversion,Provinfondos,RF ARS CER,14.3348,0.1958,6,,,,

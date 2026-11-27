@@ -1,0 +1,85 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Tandem Global III,,,,,,,,
+m,gerente,Tandem Capital S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,10163221,,,,,,,,
+m,aum_planilla,10163221,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88482,,,,,,,,
+m,n_especies,29,,,,,,,,
+m,activos_pn,99.92,,,,,,,,
+m,pasivos_cnv,0.08,,,,,,,,
+m,liquidez,1.15,,,,,,,,
+m,top1,21.68,,,,,,,,
+m,top5,48.91,,,,,,,,
+m,top10,71.35,,,,,,,,
+m,hhi_especies,815.7714,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,BCRA,,,,,,,,
+m,emisor_top_pct,28.37,,,,,,,,
+m,hhi_emisores,1710.5995,,,,,,,,
+m,sin_emisor_pct,8.61,,,,,,,,
+t,ON,32.49,15,,,,,,,
+t,BCRA,28.37,3,,,,,,,
+t,Soberano,26.84,8,,,,,,,
+t,Pagaré,8.61,1,,,,,,,
+t,Soberano exterior,2.37,1,,,,,,,
+t,FCI,0.08,1,,,,,,,
+c,USD,71.84,,,,,,,,
+c,ARS,26.84,,,,,,,,
+c,sin dato,0.08,,,,,,,,
+r,Disponibilidades,1.15,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,71.85,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,26.84,,,,,,,,
+r,Certificados de Participacion Argentina,0.08,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.08,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.08,,,,,,,,
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,USD,21.68,2203386,,,Titulos de Deuda en Dolar Estadounidense,33
+e,Pagare #UMV311090001,Pagaré,,USD,8.61,875053.2902,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,6.7,680935.7775,,,Titulos de Deuda en Peso Argentina,159
+e,ON Transp Gas Sur Cl 3,ON,Transp Gas Sur,USD,6.01,610809.5557,,,Titulos de Deuda en Dolar Estadounidense,43
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,5.91,600646.3351,,,Titulos de Deuda en Peso Argentina,146
+e,Bono Bopreal 2028 Serie 4 Clase B BPOB8,BCRA,BCRA,USD,5.62,571172.9955,,,Titulos de Deuda en Dolar Estadounidense,16
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,5.29,537634.3676,,,Titulos de Deuda en Peso Argentina,165
+e,ON Pampa Energia C21,ON,Pampa Energia,USD,4.82,489867.231,,,Titulos de Deuda en Dolar Estadounidense,36
+e,ON Tecpetrol C9,ON,Tecpetrol,USD,3.98,404496.1783,,,Titulos de Deuda en Dolar Estadounidense,8
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,2.73,277455.9213,,,Titulos de Deuda en Peso Argentina,128
+e,ON YPF Clase 31,ON,YPF,USD,2.64,268309.0228,,,Titulos de Deuda en Dolar Estadounidense,48
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,2.53,257129.4802,,,Titulos de Deuda en Peso Argentina,250
+e,US Treasury Note 151029,Soberano exterior,Tesoro EE.UU.,USD,2.37,240868.3273,,,Titulos de Deuda en Dolar Estadounidense,2
+e,ON YPF C 17,ON,YPF,USD,2.26,229688.7847,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Pan American C43,ON,Pan American,USD,1.96,199199.123,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Pampa Energia C26,ON,Pampa Energia,USD,1.94,197166.4789,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON Capex C5 9.250%,ON,Capex,USD,1.68,170742.1054,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Pluspetrol Clase 5,ON,Pluspetrol,USD,1.67,169725.7834,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON Pan American C36,ON,Pan American,USD,1.53,155497.2746,,,Titulos de Deuda en Dolar Estadounidense,11
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,1.38,140252.4437,,,Titulos de Deuda en Peso Argentina,64
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,1.35,137203.4776,,,Titulos de Deuda en Peso Argentina,149
+e,ON YPF Clase 34,ON,YPF,USD,1.27,129072.9011,,,Titulos de Deuda en Dolar Estadounidense,46
+e,ON YPF Clase 32,ON,YPF,USD,1.1,111795.4262,,,Titulos de Deuda en Dolar Estadounidense,15
+e,Bono Bopreal 2027 Serie 1 Clase D BPOD7,BCRA,BCRA,USD,1.07,108746.46,,,Titulos de Deuda en Dolar Estadounidense,22
+e,ON Tecpetrol C12,ON,Tecpetrol,USD,1.05,106713.8159,,,Titulos de Deuda en Dolar Estadounidense,60
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,0.95,96550.5953,,,Titulos de Deuda en Peso Argentina,112
+e,ON YPF Luz C18 YFCJO,ON,YPF Luz,USD,0.46,46750.8146,,,Titulos de Deuda en Dolar Estadounidense,41
+e,ON YPF C 18,ON,YPF,USD,0.12,12195.8647,,,Titulos de Deuda en Dolar Estadounidense,5
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.08,8130.5764,,,Certificados de Participacion Argentina,96
+p,CYC Renta Fija en Dolares,CYC,RF MULT Disc,27.7066,0.5176,3,,,,
+p,Adcap Balanceado VI,Adcap,RM y Otros ARS,23.9868,0.2918,7,,,,
+p,Alpha Planeamiento Conservador,ICBC,RF MULT Disc,23.6242,0.2502,7,,,,
+p,GSS III,Grupo SS,RF ARS Disc,23.326,0.2448,5,,,,
+p,Alpha Renta Capital Pesos,ICBC,RF ARS CER,23.1542,0.2617,6,,,,
+p,Parakeet Cobalto Advanced Strategy Fund,Parakeet,RF USD Disc,23.0356,0.5096,2,,,,
+p,Novus Ahorro Dólares,Novus,RF USD Disc,23.0356,0.4518,2,,,,
+p,Consultatio Renta Mixta,Consultatio,RF MULT Disc,22.6441,0.3036,7,,,,

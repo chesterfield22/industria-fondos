@@ -1,0 +1,64 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Premier Commodities,,,,,,,,
+m,gerente,Supervielle Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Supervielle S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,10544222744,,,,,,,,
+m,aum_planilla,10544222744,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63617,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,100.28,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,9.81,,,,,,,,
+m,top1,24.67,,,,,,,,
+m,top5,76.69,,,,,,,,
+m,top10,96.25,,,,,,,,
+m,hhi_especies,1464.9757,,,,,,,,
+m,n_emisores,6,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,81.28,,,,,,,,
+m,hhi_emisores,6689.4229,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,81.28,6,,,,,,,
+t,Caución,7.3,1,,,,,,,
+t,Cedear,6.13,3,,,,,,,
+t,FCI,1.96,1,,,,,,,
+c,ARS,96.67,,,,,,,,
+r,Disponibilidades,2.51,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,81.28,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,7.3,,,,,,,,
+r,Participaciones Accionarias Argentina,6.13,,,,,,,,
+r,Certificados de Participacion Argentina,1.96,,,,,,,,
+r,Otros Activos,1.1,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.28,,,,,,,,
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,24.67,2601259751,,,Titulos de Deuda en Peso Argentina,92
+e,Bono Dual TXMJ0,Soberano,Tesoro Nacional,ARS,19.62,2068776502,,,Titulos de Deuda en Peso Argentina,28
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,14.08,1484626562,,,Titulos de Deuda en Peso Argentina,84
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,9.97,1051259008,,,Titulos de Deuda en Peso Argentina,118
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,8.35,880442599,,,Titulos de Deuda en Peso Argentina,67
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,7.3,769728260,,,Operaciones a Plazo en Peso Argentina,195
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,5.02,529319982,,,Participaciones Accionarias Argentina,50
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,4.59,483979824,,,Titulos de Deuda en Peso Argentina,75
+e,FCI Lombard Renta en $,FCI,Lombard Renta en $,ARS,1.96,206666766,,,Certificados de Participacion Argentina,29
+e,Cedear Vale R Doce ON ADR,Cedear,Vale R Doce ON ADR,ARS,0.69,72755137,,,Participaciones Accionarias Argentina,12
+e,Cedear Ternium ADR,Cedear,Ternium ADR,ARS,0.42,44285736,,,Participaciones Accionarias Argentina,1
+p,Max Renta Fija,Max Capital,RF ARS CER,39.2469,0.471,3,,,,
+p,FBA Renta Fija Pesos II,BBVA,T+1,38.7735,0.4773,4,,,,
+p,Premier Renta Fija Crecimiento,Supervielle,RF ARS Disc,38.5125,0.4625,4,,,,
+p,Toronto Trust Gestión,Investis,RM y Otros ARS,36.0998,0.514,2,,,,
+p,Allaria Capital,Allaria,RM y Otros ARS,35.8332,0.4405,2,,,,
+p,Adcap Gestion Estrategica VI,Adcap,RM y Otros ARS,33.9262,0.4156,2,,,,
+p,Adcap Gestion Estrategica VIII,Adcap,RF ARS Disc,33.272,0.4848,2,,,,
+p,Schroder Corto Plazo,Schroder,RF MULT Disc,29.6877,0.4055,2,,,,

@@ -1,0 +1,69 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Crecer Renta Plus,,,,,,,,
+m,gerente,Ciudad Administradora de Activos S.A.U.,,,,,,,,
+m,depositaria,Banco Ciudad de Buenos Aires,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,87141064542,,,,,,,,
+m,aum_planilla,87141064542,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87469,,,,,,,,
+m,n_especies,19,,,,,,,,
+m,activos_pn,100.17,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,6.99,,,,,,,,
+m,top1,12.17,,,,,,,,
+m,top5,45.67,,,,,,,,
+m,top10,72.41,,,,,,,,
+m,hhi_especies,677.2875,,,,,,,,
+m,n_emisores,7,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,75.63,,,,,,,,
+m,hhi_emisores,5834.9123,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,75.63,13,,,,,,,
+t,Plazo fijo,17.57,5,,,,,,,
+t,Caución,6.89,1,,,,,,,
+c,ARS,100.09,,,,,,,,
+r,Disponibilidades,0.1,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,75.62,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,24.45,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.17,,,,,,,,
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,12.17,10605067555,,,Titulos de Deuda en Peso Argentina,80
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,11.3,9846940293,,,Titulos de Deuda en Peso Argentina,160
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,8.8,7668413680,,,Titulos de Deuda en Peso Argentina,158
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,6.89,6004019347,,,Operaciones a Plazo en Peso Argentina,195
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,6.51,5672883302,,,Titulos de Deuda en Peso Argentina,146
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,5.89,5132608702,,,Titulos de Deuda en Peso Argentina,166
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,5.8,5054181743,,,Titulos de Deuda en Peso Argentina,159
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,5.61,4888613721,,,Titulos de Deuda en Peso Argentina,61
+e,Pzo Fi $ Bco BBVA,Plazo fijo,Banco BBVA,ARS,4.9,4269912163,,,Operaciones a Plazo en Peso Argentina,46
+e,Pzo Fi $ Bco Galicia,Plazo fijo,Banco Galicia,ARS,4.54,3956204330,,,Operaciones a Plazo en Peso Argentina,67
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,4.43,3860349159,,,Titulos de Deuda en Peso Argentina,149
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,3.51,3058651365,,,Titulos de Deuda en Peso Argentina,142
+e,Pzo Fi $ Bco Santander Ri,Plazo fijo,Banco Santander Ri,ARS,3.48,3032509046,,,Operaciones a Plazo en Peso Argentina,68
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,3.47,3023794940,,,Titulos de Deuda en Peso Argentina,86
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,3.25,2832084598,,,Titulos de Deuda en Peso Argentina,136
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,2.86,2492234446,,,Titulos de Deuda en Peso Argentina,250
+e,Pzo Fi $ Bco Hipotecario,Plazo fijo,Banco Hipotecario,ARS,2.33,2030386804,,,Operaciones a Plazo en Peso Argentina,14
+e,Pzo Fi $ Bco Macro Bansud,Plazo fijo,Banco Macro Bansud,ARS,2.32,2021672697,,,Operaciones a Plazo en Peso Argentina,21
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,2.03,1768963610,,,Titulos de Deuda en Peso Argentina,75
+p,Allaria Dinámico,Allaria,RM y Otros ARS,51.3604,0.7301,11,,,,
+p,Fima Ahorro Plus,Galicia,T+1,45.2195,0.5963,11,,,,
+p,Consultatio Renta Local,Consultatio,RF ARS Lecap,43.4015,0.6127,6,,,,
+p,Chimpay Pesos Conservador,Chimpay,RF ARS Disc,43.3883,0.5673,11,,,,
+p,Galileo Renta,Delta,RM y Otros ARS,43.3804,0.4823,10,,,,
+p,Cocos Crecimiento,Cocos,T+1,43.1337,0.5986,7,,,,
+p,Adcap Balanceado XVI,Adcap,RF ARS Lecap,42.7863,0.6504,7,,,,
+p,Fundcorp Performance Balanceado,CMF,RF ARS Disc,42.5007,0.6138,13,,,,

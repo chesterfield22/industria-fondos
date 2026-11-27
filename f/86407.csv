@@ -1,0 +1,236 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Axis S&C Renta Fija Dolar,,,,,,,,
+m,gerente,Axis S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD corp loc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,42347370,,,,,,,,
+m,aum_planilla,42347370,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86407,,,,,,,,
+m,n_especies,179,,,,,,,,
+m,activos_pn,114.42,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,9.53,,,,,,,,
+m,top5,31.12,,,,,,,,
+m,top10,47.09,,,,,,,,
+m,hhi_especies,340.0163,,,,,,,,
+m,n_emisores,55,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,35.38,,,,,,,,
+m,hhi_emisores,1443.7682,,,,,,,,
+m,sin_emisor_pct,7.23,,,,,,,,
+t,ON,63.4,66,,,,,,,
+t,Soberano,35.38,7,,,,,,,
+t,Pagaré,7.15,93,,,,,,,
+t,Subsoberano,5.53,7,,,,,,,
+t,BCRA,1.83,1,,,,,,,
+t,Otro título de deuda,0.84,1,,,,,,,
+t,FCI,0.12,1,,,,,,,
+t,FCE,0.08,3,,,,,,,
+c,USD,111.15,,,,,,,,
+c,ARS,3.18,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,111.05,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,3.24,,,,,,,,
+r,Certificados de Participacion Argentina,0.12,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),14.42,,,,,,,,
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,USD,9.53,4035704,,,Titulos de Deuda en Dolar Estadounidense,62
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,USD,6.36,2693293,,,Titulos de Deuda en Dolar Estadounidense,72
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,USD,5.44,2303697,,,Titulos de Deuda en Dolar Estadounidense,74
+e,Bonos Rep Argentina AL35,Soberano,Tesoro Nacional,USD,5.26,2227472,,,Titulos de Deuda en Dolar Estadounidense,31
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,USD,4.53,1918336,,,Titulos de Deuda en Dolar Estadounidense,40
+e,ON YPF Clase 31,ON,YPF,USD,3.87,1638843,,,Titulos de Deuda en Dolar Estadounidense,48
+e,ON Telecom C24,ON,Telecom,USD,3.84,1626139,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON YPF Luz C18 YFCJO,ON,YPF Luz,USD,2.92,1236543,,,Titulos de Deuda en Dolar Estadounidense,41
+e,ON TGS C4,ON,TGS,USD,2.83,1198431,,,Titulos de Deuda en Dolar Estadounidense,4
+e,ON Pampa Energia C26,ON,Pampa Energia,USD,2.51,1062919,,,Titulos de Deuda en Dolar Estadounidense,38
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,USD,2.51,1062919,,,Titulos de Deuda en Dolar Estadounidense,250
+e,ON Pluspetrol 8.5% 2032 (REGS),ON,Pluspetrol,USD,2.31,978224.2585,,,Titulos de Deuda en Dolar Estadounidense,34
+e,ON YPF Clase 34,ON,YPF,USD,2.27,961285.3104,,,Titulos de Deuda en Dolar Estadounidense,46
+e,ON Transp Gas Sur Cl 3,ON,Transp Gas Sur,USD,1.99,842712.673,,,Titulos de Deuda en Dolar Estadounidense,43
+e,ON Tecpetrol C10,ON,Tecpetrol,USD,1.92,813069.5136,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON MSU C12,ON,MSU,USD,1.89,800365.3024,,,Titulos de Deuda en Dolar Estadounidense,8
+e,ON Pecom C3,ON,Pecom,USD,1.86,787661.0913,,,Titulos de Deuda en Dolar Estadounidense,26
+e,Bono Bopreal 2028 Serie 4 Clase B BPOB8,BCRA,BCRA,USD,1.83,774956.8801,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Edenor C11,ON,Edenor,USD,1.83,774956.8801,,,Titulos de Deuda en Dolar Estadounidense,31
+e,ON Capex C12,ON,Capex,USD,1.76,745313.7208,,,Titulos de Deuda en Dolar Estadounidense,20
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,USD,1.75,741078.9838,,,Titulos de Deuda en Dolar Estadounidense,165
+e,ON CGC C 38,ON,CGC,USD,1.64,694496.8762,,,Titulos de Deuda en Dolar Estadounidense,21
+e,ON Telecom 9.5% 2031,ON,Telecom,USD,1.59,673323.191,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON Ledesma Clase 15,ON,Ledesma,USD,1.34,567454.7647,,,Titulos de Deuda en Dolar Estadounidense,6
+e,ON John Deere Cia. Fin C19,ON,John Deere Cia. Fin,USD,1.24,525107.3942,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON Pampa Energia C23 (RegS),ON,Pampa Energia,USD,1.22,516637.9201,,,Titulos de Deuda en Dolar Estadounidense,36
+e,ON Mirgor Clase 6,ON,Mirgor,USD,1.19,503933.7089,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON Sidersa Clase 2,ON,Sidersa,USD,1.19,503933.7089,,,Titulos de Deuda en Dolar Estadounidense,13
+e,Bono Prov San Juan SJO35,Subsoberano,Prov. San Juan,USD,1.18,499698.9719,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON Aeropuertos 2000 C12,ON,Aeropuertos,USD,1.16,491229.4978,,,Titulos de Deuda en Dolar Estadounidense,4
+e,ON Petroqui C Rivadavia Clase S,ON,Petroqui C Rivadavia,USD,1.04,440412.6532,,,Titulos de Deuda en Dolar Estadounidense,7
+e,ON Edenor C10 DNCAO,ON,Edenor,USD,0.97,410769.4939,,,Titulos de Deuda en Dolar Estadounidense,26
+e,ON CGC C 40,ON,CGC,USD,0.9,381126.3345,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON Vaca Muerta C1,ON,Vaca Muerta,USD,0.9,381126.3345,,,Titulos de Deuda en Dolar Estadounidense,45
+e,ON Pluspetrol Clase 5,ON,Pluspetrol,USD,0.89,376891.5975,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON Arcor C1 7.6%,ON,Arcor,USD,0.86,364187.3863,,,Titulos de Deuda en Dolar Estadounidense,16
+e,MTN Funding PLC 12%,Otro título de deuda,MTN Funding PLC,USD,0.84,355717.9122,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Bono Prov Cordoba 2032,Subsoberano,Prov. Cordoba,USD,0.79,334544.227,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Pan American C31,ON,Pan American,USD,0.78,330309.4899,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON Irsa 2035,ON,Irsa,USD,0.73,309135.8047,,,Titulos de Deuda en Dolar Estadounidense,9
+e,Letra Prov Chubut S36,Subsoberano,Prov. Chubut,USD,0.73,309135.8047,,,Titulos de Deuda en Dolar Estadounidense,9
+e,Bono Ciudad Bs As 130536,Subsoberano,Prov. Ciudad Bs As,USD,0.73,309135.8047,,,Titulos de Deuda en Dolar Estadounidense,5
+e,ON Luz De Tres Picos C1,ON,Luz De Tres Picos,USD,0.72,304901.0676,,,Titulos de Deuda en Dolar Estadounidense,6
+e,Bono Neuquen NDG34,Subsoberano,Prov. Neuquen,USD,0.71,300666.3305,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON Raghsa 2036,ON,Raghsa,USD,0.71,300666.3305,,,Titulos de Deuda en Dolar Estadounidense,5
+e,Bono Entre Rios 9.55% 040333,Subsoberano,Prov. Entre Rios,USD,0.71,300666.3305,,,Titulos de Deuda en Dolar Estadounidense,11
+e,Pagare #UMV310170013,Pagaré,,USD,0.69,292196.8565,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Bono Prov Cordoba 030235,Subsoberano,Prov. Cordoba,USD,0.68,287962.1194,,,Titulos de Deuda en Dolar Estadounidense,29
+e,ON Edemsa C8,ON,Edemsa,USD,0.67,283727.3824,,,Titulos de Deuda en Dolar Estadounidense,8
+e,ON Oldelval Clase 5,ON,Oldelval,USD,0.62,262553.6971,,,Titulos de Deuda en Dolar Estadounidense,34
+e,ON Central Puerto Clase C,ON,Central Puerto,USD,0.62,262553.6971,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Cresud Clase 53,ON,Cresud,USD,0.61,258318.96,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Profertil C3,ON,Profertil,USD,0.6,254084.223,,,Titulos de Deuda en Dolar Estadounidense,30
+e,ON Edenor C7 DNC7O,ON,Edenor,USD,0.6,254084.223,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON AES Argentina Gen 060828,ON,AES Argentina Gen,USD,0.59,249849.486,,,Titulos de Deuda en Dolar Estadounidense,24
+e,ON Luz De Tres Picos C5,ON,Luz De Tres Picos,USD,0.57,241380.0118,,,Titulos de Deuda en Dolar Estadounidense,17
+e,ON YPF Clase 28,ON,YPF,USD,0.54,228675.8007,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Cresud Clase 50,ON,Cresud,USD,0.49,207502.1154,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Telecom C23,ON,Telecom,USD,0.47,199032.6413,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Cresud S32 C48,ON,Cresud,USD,0.46,194797.9043,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Mastellone Clase 2,ON,Mastellone,USD,0.46,194797.9043,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON 360 Energy Solar C5,ON,360 Energy Solar,USD,0.45,190563.1673,,,Titulos de Deuda en Dolar Estadounidense,7
+e,Pagare #UNT060870001,Pagaré,,ARS,0.43,182093.6932,,,Titulos de Deuda en Peso Argentina,1
+e,ON Scania Credit C3,ON,Scania Credit,USD,0.42,177858.9561,,,Titulos de Deuda en Dolar Estadounidense,8
+e,ON Centro Interacción Multimedia 070929,ON,Centro Interacción Multimedia,USD,0.41,173624.219,,,Titulos de Deuda en Dolar Estadounidense,3
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,USD,0.36,152450.5338,,,Titulos de Deuda en Dolar Estadounidense,58
+e,Pagare #UAU300170002,Pagaré,,ARS,0.34,143981.0597,,,Titulos de Deuda en Peso Argentina,1
+e,ON Rizobacter S 11 CC,ON,Rizobacter,USD,0.29,122807.3744,,,Titulos de Deuda en Dolar Estadounidense,4
+e,ON YPF Luz C20,ON,YPF Luz,USD,0.26,110103.1633,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON Capex C5 9.250%,ON,Capex,USD,0.26,110103.1633,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON CNH Arg. C8,ON,CNH Arg,USD,0.25,105868.4263,,,Titulos de Deuda en Dolar Estadounidense,3
+e,Pagare #UMV101160050,Pagaré,,ARS,0.25,105868.4263,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV011260048,Pagaré,,ARS,0.25,105868.4263,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV241160055,Pagaré,,ARS,0.25,105868.4263,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV171160015,Pagaré,,ARS,0.25,105868.4263,,,Titulos de Deuda en Peso Argentina,1
+e,ON Oldelval Clase 7,ON,Oldelval,USD,0.24,101633.6892,,,Titulos de Deuda en Dolar Estadounidense,41
+e,ON IEB Construcciones C1,ON,IEB Construcciones,USD,0.24,101633.6892,,,Titulos de Deuda en Dolar Estadounidense,5
+e,ON Edemsa C3,ON,Edemsa,USD,0.24,101633.6892,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON Banco Macro Clase H Reg S,ON,Banco Macro,USD,0.24,101633.6892,,,Titulos de Deuda en Dolar Estadounidense,23
+e,ON Edesa Clase 4,ON,Edesa,USD,0.24,101633.6892,,,Titulos de Deuda en Dolar Estadounidense,10
+e,Pagare #UMV151260129,Pagaré,,USD,0.23,97398.9521,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV091260022,Pagaré,,USD,0.23,97398.9521,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV210170014,Pagaré,,USD,0.23,97398.9521,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Vista Gas y Oil Arg C27,ON,Vista Gas y Oil Arg,USD,0.23,97398.9521,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Vista Energy 31,ON,Vista Energy,USD,0.23,97398.9521,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Telecom C27,ON,Telecom,USD,0.23,97398.9521,,,Titulos de Deuda en Dolar Estadounidense,8
+e,Pagare #UMV090380001,Pagaré,,USD,0.21,88929.478,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV210280005,Pagaré,,USD,0.21,88929.478,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV250280007,Pagaré,,USD,0.21,88929.478,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Genneia Clase 49,ON,Genneia,USD,0.17,71990.5299,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON Farmacity C1,ON,Farmacity,USD,0.15,63521.0557,,,Titulos de Deuda en Dolar Estadounidense,9
+e,Pagare #UCO120870001,Pagaré,,ARS,0.15,63521.0557,,,Titulos de Deuda en Peso Argentina,1
+e,ON Edenor Clase 5,ON,Edenor,USD,0.13,55051.5817,,,Titulos de Deuda en Dolar Estadounidense,6
+e,Pagare #UMV130170011,Pagaré,,USD,0.12,50816.8446,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV140170002,Pagaré,,USD,0.12,50816.8446,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV301160019,Pagaré,,USD,0.12,50816.8446,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV210170011,Pagaré,,USD,0.12,50816.8446,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV110170013,Pagaré,,USD,0.12,50816.8446,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV120170011,Pagaré,,USD,0.12,50816.8446,,,Titulos de Deuda en Dolar Estadounidense,1
+e,FCI Megaqm Liquidez Dólar - Clase B,FCI,Megaqm Liquidez Dólar,USD,0.12,50816.8446,,,Certificados de Participacion Argentina,20
+e,Pagare #UMV150170067,Pagaré,,USD,0.12,50816.8446,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV140170006,Pagaré,,USD,0.12,50816.8446,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON GEMSA y CTR C44,ON,GEMSA y CTR,USD,0.12,50816.8446,,,Titulos de Deuda en Dolar Estadounidense,7
+e,Pagare #UNE180470001,Pagaré,,USD,0.11,46582.1076,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV090380006,Pagaré,,USD,0.11,46582.1076,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAU200170001,Pagaré,,ARS,0.11,46582.1076,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UCN180670001,Pagaré,,ARS,0.11,46582.1076,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV090380007,Pagaré,,USD,0.11,46582.1076,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFM300670007,Pagaré,,USD,0.11,46582.1076,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPR050370005,Pagaré,,ARS,0.08,33877.8964,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UPR050370004,Pagaré,,ARS,0.08,33877.8964,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UPR050370003,Pagaré,,ARS,0.08,33877.8964,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV090470002,Pagaré,,USD,0.07,29643.1594,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV100570027,Pagaré,,USD,0.07,29643.1594,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV090470003,Pagaré,,USD,0.07,29643.1594,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV100570028,Pagaré,,USD,0.07,29643.1594,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAR290170001,Pagaré,,ARS,0.07,29643.1594,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UCN240770001,Pagaré,,ARS,0.07,29643.1594,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV100570029,Pagaré,,USD,0.07,29643.1594,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,USD,0.06,25408.4223,,,Titulos de Deuda en Dolar Estadounidense,52
+e,Pagare #UNE281260001,Pagaré,,USD,0.06,25408.4223,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAC080970003,Pagaré,,ARS,0.04,16938.9482,,,Titulos de Deuda en Peso Argentina,1
+e,Factura E %UAX151200001,FCE,,ARS,0.04,16938.9482,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAC081070001,Pagaré,,ARS,0.04,16938.9482,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UCN160170001,Pagaré,,USD,0.03,12704.2111,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Factura E %UAX291200002,FCE,,ARS,0.03,12704.2111,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UCN200870001,Pagaré,,USD,0.02,8469.4741,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UCN130870001,Pagaré,,USD,0.02,8469.4741,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UCN230470002,Pagaré,,USD,0.02,8469.4741,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UCN070570002,Pagaré,,USD,0.02,8469.4741,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UCN300470003,Pagaré,,USD,0.02,8469.4741,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UCN300770001,Pagaré,,USD,0.02,8469.4741,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UCN230770001,Pagaré,,USD,0.02,8469.4741,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UCN270870001,Pagaré,,USD,0.02,8469.4741,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO170370001,Pagaré,,USD,0.02,8469.4741,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAB300670001,Pagaré,,ARS,0.02,8469.4741,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAB090670001,Pagaré,,ARS,0.02,8469.4741,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAB160670001,Pagaré,,ARS,0.02,8469.4741,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UNO200370001,Pagaré,,USD,0.02,8469.4741,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAB280570001,Pagaré,,ARS,0.02,8469.4741,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAB070570001,Pagaré,,ARS,0.02,8469.4741,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAB140570001,Pagaré,,ARS,0.02,8469.4741,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAB210570001,Pagaré,,ARS,0.02,8469.4741,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAB300470001,Pagaré,,ARS,0.02,8469.4741,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAB230670001,Pagaré,,ARS,0.02,8469.4741,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR041260003,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,ON Pampa Energia C21,ON,Pampa Energia,USD,0.01,4234.7371,,,Titulos de Deuda en Dolar Estadounidense,36
+e,Pagare #UAR051160001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR111260001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR181260001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR121160003,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR231260002,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR261160003,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UIG190570001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR191160001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UIG160670001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UIG230670001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UIG300670001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UIG080770001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAB060470001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAB160470002,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAB170370002,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UIG260570001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAB260470001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAB270370001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UIG170970002,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UIG240970002,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UIG270970001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR101170001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UCN011270001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UIG220970001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UCN171170001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UCN241170001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #URE201070001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #URE031170001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #URE271070001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #URE131070001,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR091270002,Pagaré,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+e,Factura E %UAX180100001,FCE,,ARS,0.01,4234.7371,,,Titulos de Deuda en Peso Argentina,1
+p,Axis S&C Renta Fija Dólar Low Volatility,Axis,RF USD Disc,34.3998,0.4633,35,,,,
+p,Galileo Multi Strategy,Delta,RF USD corp loc,26.1737,0.2711,25,,,,
+p,Mills Renta Fija Dólares,Mills Capital,RF USD Disc,24.2146,0.4407,9,,,,
+p,SBS Tavelli Global,SBS,RM y Otros ARS,23.2127,0.3743,26,,,,
+p,Dracma Estrategia Dólar I,Dracma,RF USD GL Inc ARG,22.785,0.4057,13,,,,
+p,Compass Best Ideas,Investis,RF USD corp loc,22.3941,0.2935,20,,,,
+p,Consultatio Multimercado V,Consultatio,RF USD Disc,22.3476,0.3932,9,,,,
+p,CYC Dólares Renta Fija,CYC,RF USD Disc,22.2577,0.354,15,,,,

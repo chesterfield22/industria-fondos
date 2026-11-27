@@ -1,0 +1,61 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pionero Desarrollo,,,,,,,,
+m,gerente,Macro Fondos S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,168234024416,,,,,,,,
+m,aum_planilla,168234024416,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/84098,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,105.8,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,27.57,,,,,,,,
+m,top5,85.17,,,,,,,,
+m,top10,105.78,,,,,,,,
+m,hhi_especies,1818.3849,,,,,,,,
+m,n_emisores,3,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,101.92,,,,,,,,
+m,hhi_emisores,10402.5869,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,101.92,9,,,,,,,
+t,FCI,3.89,2,,,,,,,
+c,ARS,101.95,,,,,,,,
+c,sin dato,3.86,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,101.91,,,,,,,,
+r,Certificados de Participacion Argentina,3.89,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),5.8,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,27.57,46382120532,,,Titulos de Deuda en Peso Argentina,103
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,21.96,36944191762,,,Titulos de Deuda en Peso Argentina,75
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,16.12,27119324736,,,Titulos de Deuda en Peso Argentina,142
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,14.06,23653703833,,,Titulos de Deuda en Peso Argentina,118
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,5.46,9185577733,,,Titulos de Deuda en Peso Argentina,61
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,5.05,8495818233,,,Titulos de Deuda en Peso Argentina,136
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,4.92,8277114001,,,Titulos de Deuda en Peso Argentina,158
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,4.13,6948065208,,,Titulos de Deuda en Peso Argentina,159
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,3.86,6493833342,,,Certificados de Participacion Argentina,77
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,2.65,4458201647,,,Titulos de Deuda en Peso Argentina,80
+e,FCI Lombard Renta en $,FCI,Lombard Renta en $,ARS,0.03,50470207,,,Certificados de Participacion Argentina,29
+p,Pionero Renta Ahorro Plus,Macro,RF USD Linked,71.9403,0.865,7,,,,
+p,Pionero Integral,Macro,RF MULT Disc,69.6478,0.8973,7,,,,
+p,FBA Horizonte,BBVA,RF USD Linked,53.0227,0.7893,5,,,,
+p,Pellegrini Agro FCI,Pellegrini,RM y Otros ARS,52.0465,0.7194,4,,,,
+p,Pionero Multiestrategia Mix,Macro,RF MULT Disc,51.4388,0.6049,7,,,,
+p,Max Retorno Total Pesos III,Max Capital,RF MULT Disc,50.7135,0.8166,3,,,,
+p,SBS Patrimonio V,SBS,RM y Otros ARS,50.7135,0.6744,3,,,,
+p,MEGAQM Estrategia 2,MegaQM,RF MULT Disc,50.2459,0.6209,6,,,,

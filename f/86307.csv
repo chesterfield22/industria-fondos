@@ -1,0 +1,71 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Galileo Multimercado VII,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,12834723740,,,,,,,,
+m,aum_planilla,12834723740,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86307,,,,,,,,
+m,n_especies,18,,,,,,,,
+m,activos_pn,101.01,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.02,,,,,,,,
+m,top1,8.95,,,,,,,,
+m,top5,40.68,,,,,,,,
+m,top10,74.39,,,,,,,,
+m,hhi_especies,664.8592,,,,,,,,
+m,n_emisores,4,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,89.9,,,,,,,,
+m,hhi_emisores,8151.9954,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,89.9,15,,,,,,,
+t,Plazo fijo,7.74,1,,,,,,,
+t,Subsoberano,3.17,1,,,,,,,
+t,FCI,0.17,1,,,,,,,
+c,ARS,100.81,,,,,,,,
+c,sin dato,0.17,,,,,,,,
+r,Disponibilidades,0.02,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,93.08,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,7.74,,,,,,,,
+r,Certificados de Participacion Argentina,0.17,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.01,,,,,,,,
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,8.95,1148707775,,,Titulos de Deuda en Peso Argentina,160
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,8.29,1063998598,,,Titulos de Deuda en Peso Argentina,166
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,8.26,1060148181,,,Titulos de Deuda en Peso Argentina,80
+e,Pzo Fi $ Bco Nacion,Plazo fijo,Banco Nacion,ARS,7.74,993407617,,,Operaciones a Plazo en Peso Argentina,84
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,7.44,954903446,,,Titulos de Deuda en Peso Argentina,149
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,7.06,906131496,,,Titulos de Deuda en Peso Argentina,142
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,6.89,884312466,,,Titulos de Deuda en Peso Argentina,112
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,6.72,862493435,,,Titulos de Deuda en Peso Argentina,61
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,6.61,848375239,,,Titulos de Deuda en Peso Argentina,136
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,6.43,825272736,,,Titulos de Deuda en Peso Argentina,82
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,5.05,648153549,,,Titulos de Deuda en Peso Argentina,66
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,4.4,564727845,,,Titulos de Deuda en Peso Argentina,51
+e,Bono Dual TXMJ0,Soberano,Tesoro Nacional,ARS,4.23,542908814,,,Titulos de Deuda en Peso Argentina,28
+e,Bono Dual TXMJ8,Soberano,Tesoro Nacional,ARS,4.15,532641035,,,Titulos de Deuda en Peso Argentina,45
+e,Letra Prov Bs As PBA27,Subsoberano,Prov. Buenos Aires,ARS,3.17,406860743,,,Titulos de Deuda en Peso Argentina,38
+e,Bono Capitalizable T30J7,Soberano,Tesoro Nacional,ARS,3.09,396592964,,,Titulos de Deuda en Peso Argentina,11
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,2.33,299049063,,,Titulos de Deuda en Peso Argentina,61
+e,FCI Pionero Pesos Plus - Clase B,FCI,Pionero Pesos Plus,,0.17,21819030,,,Certificados de Participacion Argentina,40
+p,CYC Pesos Renta Fija,CYC,RF ARS Disc,51.408,0.5841,12,,,,
+p,Pellegrini Renta Fija Publica,Pellegrini,RF ARS Lecap,49.1349,0.6515,7,,,,
+p,Pellegrini Renta Fija III,Pellegrini,T+1,48.8568,0.5932,9,,,,
+p,Balanz Lecaps,Balanz,RF ARS Lecap,46.5833,0.6324,7,,,,
+p,Mills M1000 Balanceado Pesos,Mills Capital,RM y Otros ARS,43.7058,0.4762,9,,,,
+p,Fundcorp Performance,CMF,T+1,43.3788,0.5585,9,,,,
+p,Pellegrini Renta Fija,Pellegrini,T+1,42.4382,0.6911,8,,,,
+p,Novus Liquidez Plus,Novus,T+1,41.166,0.565,6,,,,

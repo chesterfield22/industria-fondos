@@ -1,0 +1,60 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Blacktoro Gestion Calificado I,,,,,,,,
+m,gerente,Blacktoro Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,15311641543,,,,,,,,
+m,aum_planilla,15311641543,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88609,,,,,,,,
+m,n_especies,10,,,,,,,,
+m,activos_pn,100.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,5.1,,,,,,,,
+m,top1,13.91,,,,,,,,
+m,top5,60.06,,,,,,,,
+m,top10,100.02,,,,,,,,
+m,hhi_especies,1065.7032,,,,,,,,
+m,n_emisores,2,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,94.92,,,,,,,,
+m,hhi_emisores,9035.8164,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,94.92,9,,,,,,,
+t,Caución,5.1,1,,,,,,,
+c,ARS,100.02,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,94.92,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,5.1,,,,,,,,
+r,Certificados de Participacion Argentina,,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.02,,,,,,,,
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,13.91,2129849339,,,Titulos de Deuda en Peso Argentina,158
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,13.64,2088507906,,,Titulos de Deuda en Peso Argentina,112
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,11.89,1820554179,,,Titulos de Deuda en Peso Argentina,92
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,10.32,1580161407,,,Titulos de Deuda en Peso Argentina,159
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,10.3,1577099079,,,Titulos de Deuda en Peso Argentina,118
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,10.04,1537288811,,,Titulos de Deuda en Peso Argentina,86
+e,Boncer TZXY7,Soberano,Tesoro Nacional,ARS,8.37,1281584397,,,Titulos de Deuda en Peso Argentina,76
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,8.35,1278522069,,,Titulos de Deuda en Peso Argentina,142
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,8.1,1240242965,,,Titulos de Deuda en Peso Argentina,166
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,5.1,780893719,,,Operaciones a Plazo en Peso Argentina,195
+p,Compass Ahorro,Investis,T+1,62.6146,0.7866,7,,,,
+p,Gainvest Renta Fija,StoneX,T+1,52.4607,0.6359,5,,,,
+p,Balanz Performance XII,Balanz,T+1,51.8647,0.5995,7,,,,
+p,MEGAQM Retorno Absoluto,MegaQM,RF ARS CER,51.7244,0.7113,7,,,,
+p,Adcap Gestion Estrategica VIII,Adcap,RF ARS Disc,51.5981,0.724,5,,,,
+p,Adcap Balance Multiactivo,Adcap,RF ARS Disc,51.5026,0.5907,6,,,,
+p,Blacktoro Total Return,BlackToro,RF ARS Disc,50.9695,0.5529,6,,,,
+p,FBA Renta Fija Pesos Plus I,BBVA,RF ARS Disc,46.7975,0.5545,6,,,,

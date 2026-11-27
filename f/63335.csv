@@ -1,0 +1,60 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Alpha Renta Fija Serie 1,,,,,,,,
+m,gerente,ICBC Investments Argentina S.A.U.S.G.F.C.I.,,,,,,,,
+m,depositaria,ICBC (Arg) S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5341700386,,,,,,,,
+m,aum_planilla,5341700386,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63335,,,,,,,,
+m,n_especies,10,,,,,,,,
+m,activos_pn,100.17,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,2.06,,,,,,,,
+m,top1,20.78,,,,,,,,
+m,top5,77.55,,,,,,,,
+m,top10,98.1,,,,,,,,
+m,hhi_especies,1422.5892,,,,,,,,
+m,n_emisores,2,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,98.08,,,,,,,,
+m,hhi_emisores,9619.6868,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,98.08,9,,,,,,,
+t,FCI,0.02,1,,,,,,,
+c,ARS,98.08,,,,,,,,
+c,sin dato,0.02,,,,,,,,
+r,Disponibilidades,2.06,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,98.09,,,,,,,,
+r,Certificados de Participacion Argentina,0.02,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.17,,,,,,,,
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,20.78,1110005340,,,Titulos de Deuda en Peso Argentina,166
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,17.33,925716677,,,Titulos de Deuda en Peso Argentina,149
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,16.98,907020725,,,Titulos de Deuda en Peso Argentina,86
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,13.77,735552143,,,Titulos de Deuda en Peso Argentina,118
+e,Bono Boncer TX26,Soberano,Tesoro Nacional,ARS,8.69,464193764,,,Titulos de Deuda en Peso Argentina,63
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,ARS,8.55,456715383,,,Titulos de Deuda en Peso Argentina,62
+e,Bonos Rep Argentina AL35,Soberano,Tesoro Nacional,ARS,6.74,360030606,,,Titulos de Deuda en Peso Argentina,31
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,ARS,4.16,222214736,,,Titulos de Deuda en Peso Argentina,72
+e,Bonos Rep Argentina GD30,Soberano,Tesoro Nacional,ARS,1.08,57690364,,,Titulos de Deuda en Peso Argentina,37
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.02,1068340,,,Certificados de Participacion Argentina,96
+p,BAVSA Ahorro Plus,BAVSA,RF ARS Lecap,57.3948,0.7724,4,,,,
+p,Alpha Renta Fija Serie 6,ICBC,T+1,56.1774,0.6495,4,,,,
+p,Alpha Renta Crecimiento,ICBC,T+1,52.5534,0.679,4,,,,
+p,Champaquí Renta Plus,Bancor,RF ARS Lecap,50.583,0.63,3,,,,
+p,SBS Tavelli Mix,SBS,T+1,47.7064,0.6319,3,,,,
+p,1810 Mas Ahorro,Proahorro,RF ARS Lecap,44.6302,0.6071,4,,,,
+p,1822 Raices Ahorro Plus,Provinfondos,RF ARS Lecap,42.6782,0.6017,3,,,,
+p,Max Ahorro Pesos,Max Capital,T+1,42.4201,0.5631,3,,,,

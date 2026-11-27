@@ -1,0 +1,73 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Superfondo Renta Fija Dólares II,,,,,,,,
+m,gerente,Santander Asset Management G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Santander Argentina S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Ex ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense Billete,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,129600426,,,,,,,,
+m,aum_planilla,129600426,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63845,,,,,,,,
+m,n_especies,20,,,,,,,,
+m,activos_pn,100.24,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,14.94,,,,,,,,
+m,top1,7.69,,,,,,,,
+m,top5,29.57,,,,,,,,
+m,top10,54.94,,,,,,,,
+m,hhi_especies,406.6788,,,,,,,,
+m,n_emisores,18,,,,,,,,
+m,emisor_top,Chile (soberano),,,,,,,,
+m,emisor_top_pct,7.75,,,,,,,,
+m,hhi_emisores,455.2716,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Corporativo exterior,54.26,13,,,,,,,
+t,Soberano exterior,20.76,4,,,,,,,
+t,Otro título de deuda,5.39,1,,,,,,,
+t,Acción,3.44,1,,,,,,,
+t,ON,1.45,1,,,,,,,
+c,USD,81.86,,,,,,,,
+c,sin dato,3.44,,,,,,,,
+r,Disponibilidades,14.94,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,81.86,,,,,,,,
+r,Participaciones Accionarias Chile,3.44,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.24,,,,,,,,
+e,US Treasury Note 3.5% 300927,Soberano exterior,Tesoro EE.UU.,USD,7.69,9966273,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC SQM 6.5%,Corporativo exterior,SQM,USD,5.56,7205784,,,Titulos de Deuda en Dolar Estadounidense,3
+e,BC Itau Unibanco 270230,Corporativo exterior,Itau Unibanco,USD,5.49,7115063,,,Titulos de Deuda en Dolar Estadounidense,6
+e,CL Rep Chile 2027,Soberano exterior,Chile (soberano),USD,5.42,7024343,,,Titulos de Deuda en Dolar Estadounidense,22
+e,BC BTG 080429,Corporativo exterior,BTG,USD,5.41,7011383,,,Titulos de Deuda en Dolar Estadounidense,13
+e,Bono Corporativo 3.625% 010827,Otro título de deuda,Bono Corporativo,USD,5.39,6985463,,,Titulos de Deuda en Dolar Estadounidense,24
+e,BC Brasil 110630,Soberano exterior,Brasil (soberano),USD,5.32,6894743,,,Titulos de Deuda en Dolar Estadounidense,9
+e,BC Celulosa Arauco y Constitución 4.25%,Corporativo exterior,Celulosa Arauco y Constitución,USD,5.14,6661462,,,Titulos de Deuda en Dolar Estadounidense,5
+e,BC Enap 2031,Corporativo exterior,Enap,USD,4.84,6272661,,,Titulos de Deuda en Dolar Estadounidense,3
+e,BC Inversiones CMPC 060431,Corporativo exterior,Inversiones CMPC,USD,4.68,6065300,,,Titulos de Deuda en Dolar Estadounidense,3
+e,BC Banco Santander Chile 3.177% 271031,Corporativo exterior,Banco Santander Chile,USD,4.05,5248817,,,Titulos de Deuda en Dolar Estadounidense,7
+e,BC Cencosud 5.95%,Corporativo exterior,Cencosud,USD,3.96,5132177,,,Titulos de Deuda en Dolar Estadounidense,16
+e,BC Banco Do Brasil 2029,Corporativo exterior,Banco Do Brasil,USD,3.83,4963696,,,Titulos de Deuda en Dolar Estadounidense,15
+e,Banco de Chile,Acción,Banco de Chile,,3.44,4458255,,,Participaciones Accionarias Chile,11
+e,BC De Credito de Inversiones 2.875%,Corporativo exterior,De Credito de Inversiones,USD,3.41,4419375,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BC Colbun 35,Corporativo exterior,Colbun,USD,2.97,3849133,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC Entel 3.05,Corporativo exterior,Entel,USD,2.65,3434411,,,Titulos de Deuda en Dolar Estadounidense,4
+e,Chile 4.85%,Soberano exterior,Chile (soberano),USD,2.33,3019690,,,Titulos de Deuda en Dolar Estadounidense,12
+e,BC Celulosa Arauco y Constitución 6.18%,Corporativo exterior,Celulosa Arauco y Constitución,USD,2.27,2941930,,,Titulos de Deuda en Dolar Estadounidense,2
+e,ON Corporacion Nacional del Cobre 3.75% 150131,ON,Corporacion Nacional del Cobre,USD,1.45,1879206,,,Titulos de Deuda en Dolar Estadounidense,1
+p,Consultatio Income Fund,Consultatio,RF USD GL Ex ARG,30.8988,0.4247,7,,,,
+p,Compass Renta Fija,Investis,RF USD GL Ex ARG,26.8798,0.2605,9,,,,
+p,Galileo Income,Delta,RF USD GL Ex ARG,26.7437,0.2988,8,,,,
+p,Allaria Dolar Crecimiento,Allaria,RF USD GL Inc ARG,25.6248,0.3121,6,,,,
+p,MEGAQM Latam Corporativo,MegaQM,RF USD GL Ex ARG,25.3738,0.2121,5,,,,
+p,MEGAQM Renta Fija LATAM,MegaQM,RF USD GL Ex ARG,24.8678,0.2795,8,,,,
+p,IAM Performance Americas,BIND,RF USD GL Ex ARG,21.3402,0.2529,4,,,,
+p,Alpha Renta Fija Global,ICBC,RF USD GL Inc ARG,19.0662,0.2713,6,,,,

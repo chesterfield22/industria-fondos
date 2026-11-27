@@ -1,0 +1,100 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Axis Multiplo Bursatil Retorno Absoluto,,,,,,,,
+m,gerente,Axis S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,18620293988,,,,,,,,
+m,aum_planilla,18620293988,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86410,,,,,,,,
+m,n_especies,43,,,,,,,,
+m,activos_pn,101.21,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.52,,,,,,,,
+m,top1,7.87,,,,,,,,
+m,top5,31.39,,,,,,,,
+m,top10,49.71,,,,,,,,
+m,hhi_especies,386.0185,,,,,,,,
+m,n_emisores,27,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,40.42,,,,,,,,
+m,hhi_emisores,1823.0935,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,40.42,13,,,,,,,
+t,ON,29.03,17,,,,,,,
+t,ETF,14.97,4,,,,,,,
+t,Cedear,10.16,4,,,,,,,
+t,Acción,4.5,3,,,,,,,
+t,Caución,1.13,1,,,,,,,
+t,FCI,0.16,1,,,,,,,
+c,ARS,85.24,,,,,,,,
+c,sin dato,15.13,,,,,,,,
+r,Disponibilidades,0.39,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,69.45,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,1.13,,,,,,,,
+r,Participaciones Accionarias Argentina,29.63,,,,,,,,
+r,Certificados de Participacion Argentina,0.16,,,,,,,,
+r,Otros Activos,0.45,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.21,,,,,,,,
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,ARS,7.87,1465417137,,,Titulos de Deuda en Peso Argentina,62
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,ARS,7.85,1461693078,,,Titulos de Deuda en Peso Argentina,72
+e,Bonos Rep Argentina AL35,Soberano,Tesoro Nacional,ARS,6.83,1271766079,,,Titulos de Deuda en Peso Argentina,31
+e,Cedear ETF VanEck Semiconductors,ETF,Cedear ETF VanEck Semiconductors,,4.53,843499318,,,Participaciones Accionarias Argentina,3
+e,Cedear US Technology Select Fund,Cedear,US Technology Select Fund,ARS,4.31,802534671,,,Participaciones Accionarias Argentina,1
+e,ON Loma Negra C5,ON,Loma Negra,ARS,4.24,789500465,,,Titulos de Deuda en Peso Argentina,13
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,3.64,677778701,,,Titulos de Deuda en Peso Argentina,166
+e,Cedear The Real Estate Select Sector SPDR Fund,ETF,Cedear The Real Estate Select Sector SPDR Fund,,3.52,655434348,,,Participaciones Accionarias Argentina,2
+e,Cedear Consumer Staples Select Sector SPDR Fund,ETF,Cedear Consumer Staples Select Sector SPDR Fund,,3.49,649848260,,,Participaciones Accionarias Argentina,2
+e,Cedear Utilities Select Sectar SPDR Fund,ETF,Cedear Utilities Select Sectar SPDR Fund,,3.43,638676084,,,Participaciones Accionarias Argentina,8
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,3.31,616331731,,,Titulos de Deuda en Peso Argentina,149
+e,ON MSU Energy C13,ON,MSU Energy,ARS,3.22,599573466,,,Titulos de Deuda en Peso Argentina,11
+e,ON Pan American C38,ON,Pan American,ARS,3.1,577229114,,,Titulos de Deuda en Peso Argentina,15
+e,ON Tecpetrol C8,ON,Tecpetrol,ARS,3.08,573505055,,,Titulos de Deuda en Peso Argentina,13
+e,ON John Deere Cia. Fin C18,ON,John Deere Cia. Fin,ARS,3.05,567918967,,,Titulos de Deuda en Peso Argentina,13
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,2.63,489713732,,,Participaciones Accionarias Argentina,117
+e,Cedear Itau Unibanco Holdings,Cedear,Itau Unibanco Holdings,ARS,2.39,445025026,,,Participaciones Accionarias Argentina,10
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,2.35,437576909,,,Titulos de Deuda en Peso Argentina,112
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,2.34,435714879,,,Titulos de Deuda en Peso Argentina,82
+e,ON Edemsa C3,ON,Edemsa,ARS,2.15,400336321,,,Titulos de Deuda en Peso Argentina,14
+e,Cedear Google,Cedear,Google,ARS,2.09,389164144,,,Participaciones Accionarias Argentina,30
+e,ON YPF Clase 42,ON,YPF,ARS,1.98,368681821,,,Titulos de Deuda en Peso Argentina,48
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,ARS,1.85,344475439,,,Titulos de Deuda en Peso Argentina,40
+e,ON Tecpetrol C12,ON,Tecpetrol,ARS,1.76,327717174,,,Titulos de Deuda en Peso Argentina,60
+e,ON CGC C 36,ON,CGC,ARS,1.74,323993115,,,Titulos de Deuda en Peso Argentina,15
+e,Cedear Banco Bradesco ON N1,Cedear,Banco Bradesco ON N1,ARS,1.37,255098028,,,Participaciones Accionarias Argentina,8
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,1.27,236477734,,,Participaciones Accionarias Argentina,93
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,ARS,1.26,234615704,,,Titulos de Deuda en Peso Argentina,83
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,1.13,210409322,,,Operaciones a Plazo en Peso Argentina,195
+e,Letra Tesoro Nac D31M7,Soberano,Tesoro Nacional,ARS,1.07,199237146,,,Titulos de Deuda en Peso Argentina,30
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,1.06,197375116,,,Titulos de Deuda en Peso Argentina,250
+e,ON Pluspetrol Clase 2,ON,Pluspetrol,ARS,1.05,195513087,,,Titulos de Deuda en Peso Argentina,13
+e,ON YPF Clase 40,ON,YPF,ARS,1.03,191789028,,,Titulos de Deuda en Peso Argentina,11
+e,ON Telecom C30,ON,Telecom,ARS,0.87,161996558,,,Titulos de Deuda en Peso Argentina,9
+e,ON Genneia Clase 47,ON,Genneia,ARS,0.68,126617999,,,Titulos de Deuda en Peso Argentina,21
+e,ON Pluspetrol Clase 6,ON,Pluspetrol,ARS,0.62,115445823,,,Titulos de Deuda en Peso Argentina,43
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,0.6,111721764,,,Participaciones Accionarias Argentina,86
+e,Bono Boncer TX26,Soberano,Tesoro Nacional,ARS,0.54,100549588,,,Titulos de Deuda en Peso Argentina,63
+e,Bono del Tesoro Nacional TZV27,Soberano,Tesoro Nacional,ARS,0.45,83791323,,,Titulos de Deuda en Peso Argentina,21
+e,ON Vista Energy 33,ON,Vista Energy,ARS,0.18,33516529,,,Titulos de Deuda en Peso Argentina,15
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.16,29792470,,,Certificados de Participacion Argentina,93
+e,ON Telecom C23,ON,Telecom,ARS,0.15,27930441,,,Titulos de Deuda en Peso Argentina,19
+e,ON Pampa Energia C22,ON,Pampa Energia,ARS,0.13,24206382,,,Titulos de Deuda en Peso Argentina,18
+p,Alpha Renta Fija Serie 1,ICBC,RF MULT Disc,26.3488,0.3828,6,,,,
+p,Fima Mix Dólares,Galicia,RF USD Disc,22.4669,0.603,3,,,,
+p,Pionero Renta Dólares Plus,Macro,RF USD Disc,21.6651,0.4757,4,,,,
+p,Axis S&C Renta Fija Dolar,Axis,RF USD corp loc,21.2632,0.4761,7,,,,
+p,Mills Renta Fija Dólares,Mills Capital,RF USD Disc,18.3032,0.2825,8,,,,
+p,Pionero Retorno,Macro,RM y Otros ARS,18.2594,0.2596,6,,,,
+p,Compass Renta Mixta VI,Investis,RM y Otros ARS,17.6832,0.2994,7,,,,
+p,Balanz Retorno Total,Balanz,RM y Otros ARS,17.1991,0.202,9,,,,

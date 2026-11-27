@@ -1,0 +1,75 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Fima Mix II,,,,,,,,
+m,gerente,Galicia Asset Management S.A.U.,,,,,,,,
+m,depositaria,Banco de Galicia y Buenos Aires S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Global,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,8312395696,,,,,,,,
+m,aum_planilla,8312395696,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/84208,,,,,,,,
+m,n_especies,19,,,,,,,,
+m,activos_pn,104.84,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,5.08,,,,,,,,
+m,top1,17.79,,,,,,,,
+m,top5,58.61,,,,,,,,
+m,top10,79.57,,,,,,,,
+m,hhi_especies,877.6389,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,73.11,,,,,,,,
+m,hhi_emisores,5415.5445,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,73.11,9,,,,,,,
+t,Acción,12.55,6,,,,,,,
+t,ETF,4.76,1,,,,,,,
+t,Subsoberano,2.74,1,,,,,,,
+t,ON,1.76,1,,,,,,,
+t,FCI,0.33,1,,,,,,,
+c,ARS,77.61,,,,,,,,
+c,sin dato,17.64,,,,,,,,
+r,Disponibilidades,5.08,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,77.61,,,,,,,,
+r,Participaciones Accionarias Estados Unidos,12.55,,,,,,,,
+r,Certificados de Participacion Estados Unidos,4.76,,,,,,,,
+r,Certificados de Participacion Argentina,0.33,,,,,,,,
+r,Otros Activos,4.51,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),4.84,,,,,,,,
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,17.79,1478775194,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,13.51,1123004658,,,Titulos de Deuda en Peso Argentina,146
+e,Bono del Tesoro Nacional TZV27,Soberano,Tesoro Nacional,ARS,10.17,845370642,,,Titulos de Deuda en Peso Argentina,21
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,8.82,733153300,,,Titulos de Deuda en Peso Argentina,250
+e,Letra Tesoro Nac D31M7,Soberano,Tesoro Nacional,ARS,8.32,691591322,,,Titulos de Deuda en Peso Argentina,30
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,5.56,462169201,,,Titulos de Deuda en Peso Argentina,75
+e,Ishares Bitcoin Trust ETF,ETF,Ishares Bitcoin Trust ETF,,4.76,395670035,,,Certificados de Participacion Estados Unidos,3
+e,Grayscale Ethereum Trust,Acción,Grayscale Ethereum Trust,,4.27,354939296,,,Participaciones Accionarias Estados Unidos,1
+e,Block Inc,Acción,Block Inc,,3.21,266827902,,,Participaciones Accionarias Estados Unidos,1
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,3.16,262671704,,,Titulos de Deuda en Peso Argentina,64
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,3.13,260177985,,,Titulos de Deuda en Peso Argentina,136
+e,Bono Prov de Buenos Aires TZV28,Subsoberano,Prov. Buenos Aires,ARS,2.74,227759642,,,Titulos de Deuda en Peso Argentina,46
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,2.65,220278486,,,Titulos de Deuda en Peso Argentina,61
+e,Proshares Bitcoin Strategy,Acción,Proshares Bitcoin Strategy,,2.04,169572872,,,Participaciones Accionarias Estados Unidos,1
+e,Coinbase Global Inc,Acción,Coinbase Global Inc,,1.93,160429237,,,Participaciones Accionarias Estados Unidos,2
+e,ON Vista Gas y Oil Arg C21,ON,Vista Gas y Oil Arg,ARS,1.76,146298164,,,Titulos de Deuda en Peso Argentina,27
+e,Riot Blockchain Inc,Acción,Riot Blockchain Inc,,0.74,61511728,,,Participaciones Accionarias Estados Unidos,1
+e,Robinhood Markets Inc,Acción,Robinhood Markets Inc,,0.36,29924625,,,Participaciones Accionarias Estados Unidos,1
+e,FCI Pionero Pesos - Clase A,FCI,Pionero Pesos,,0.33,27430906,,,Certificados de Participacion Argentina,14
+p,Fima Mix I,Galicia,RM y Otros ARS,62.9062,0.8576,12,,,,
+p,Fima Capital Plus,Galicia,RF USD Linked,54.7455,0.7956,12,,,,
+p,Pellegrini Renta Fija II,Pellegrini,T+1,47.9276,0.6416,6,,,,
+p,Ciclo Nova Multiestrategia II,Ciclo Nova,RF MULT Disc,45.711,0.6244,8,,,,
+p,Superfondo Renta $,Santander,RF ARS Disc,45.4383,0.7118,4,,,,
+p,Consultatio One Ahorro,Consultatio,RF ARS CER,42.1207,0.6141,3,,,,
+p,Bull Market Ahorro Balanceado II,Bull Market,RF MULT Disc,40.3526,0.6202,4,,,,
+p,Consultatio Tactico,Consultatio,RF MULT Disc,39.921,0.6391,3,,,,

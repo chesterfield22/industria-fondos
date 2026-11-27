@@ -1,0 +1,53 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Alycbur Renta Cobertura,,,,,,,,
+m,gerente,Adcap Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1500963732,,,,,,,,
+m,aum_planilla,1500963732,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85502,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,99.76,,,,,,,,
+m,pasivos_cnv,0.24,,,,,,,,
+m,liquidez,0.25,,,,,,,,
+m,top1,19.92,,,,,,,,
+m,top5,80.04,,,,,,,,
+m,top10,99.15,,,,,,,,
+m,hhi_especies,1453.5423,,,,,,,,
+m,n_emisores,0,,,,,,,,
+m,emisor_top,,,,,,,,,
+m,emisor_top_pct,,,,,,,,,
+m,hhi_emisores,,,,,,,,,
+m,sin_emisor_pct,99.51,,,,,,,,
+t,Pagaré,98.19,9,,,,,,,
+t,FCE,1.32,2,,,,,,,
+c,USD,98.19,,,,,,,,
+c,sin dato,1.32,,,,,,,,
+r,Disponibilidades,0.25,,,,,,,,
+r,Titulos de Deuda en Dolar 3500 BCRA,98.19,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Linked,1.32,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.24,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.24,,,,,,,,
+e,Pagare #UMV060170032,Pagaré,,USD,19.92,298991975,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV031260027,Pagaré,,USD,19.18,287884844,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV201160045,Pagaré,,USD,17.67,265220291,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV041260027,Pagaré,,USD,13.02,195425478,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV101260077,Pagaré,,USD,10.25,153848783,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV161260039,Pagaré,,USD,6.86,102966112,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV211260111,Pagaré,,USD,5.53,83003294,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV301160109,Pagaré,,USD,4.72,70845488,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV111160024,Pagaré,,USD,1.04,15610023,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Factura E %UQQ301100003,FCE,,,0.96,14409252,,,Titulos de Deuda en Dolar Estadounidense Linked,1
+e,Factura E %UQQ181100001,FCE,,,0.36,5403469,,,Titulos de Deuda en Dolar Estadounidense Linked,1

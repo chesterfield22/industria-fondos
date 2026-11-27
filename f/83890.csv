@@ -1,0 +1,70 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Delta Sustentable ASG,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,ASG,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,691027647,,,,,,,,
+m,aum_planilla,691027647,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83890,,,,,,,,
+m,n_especies,16,,,,,,,,
+m,activos_pn,100.34,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,15.96,,,,,,,,
+m,top1,17.71,,,,,,,,
+m,top5,65.31,,,,,,,,
+m,top10,87.78,,,,,,,,
+m,hhi_especies,1077.2118,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Pyme Spazios Inmuebles,,,,,,,,
+m,emisor_top_pct,19.53,,,,,,,,
+m,hhi_emisores,1354.8326,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,64.85,10,,,,,,,
+t,Soberano,15.22,3,,,,,,,
+t,Caución,14.47,1,,,,,,,
+t,FCI,4.3,2,,,,,,,
+c,ARS,94.54,,,,,,,,
+c,sin dato,3.63,,,,,,,,
+c,USD,0.67,,,,,,,,
+r,Disponibilidades,1.49,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,80.08,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,14.47,,,,,,,,
+r,Certificados de Participacion Argentina,4.3,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.34,,,,,,,,
+e,ON Pyme Spazios Inmuebles S1 C2,ON,Pyme Spazios Inmuebles,ARS,17.71,122380996,,,Titulos de Deuda en Peso Argentina,6
+e,ON Club Atletico River Plate S1,ON,Club Atletico River Plate,ARS,16.86,116507261,,,Titulos de Deuda en Peso Argentina,18
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,14.47,99991701,,,Operaciones a Plazo en Peso Argentina,73
+e,ON Genneia Clase 47,ON,Genneia,ARS,9.3,64265571,,,Titulos de Deuda en Peso Argentina,21
+e,ON Plaza Logistica C15,ON,Plaza Logistica,ARS,6.97,48164627,,,Titulos de Deuda en Peso Argentina,19
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,6.37,44018461,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,5.36,37039082,,,Titulos de Deuda en Peso Argentina,51
+e,FCI Gainvest Pesos - Clase B,FCI,Gainvest Pesos,,3.63,25084304,,,Certificados de Participacion Argentina,36
+e,ON Sumatoria C8,ON,Sumatoria,ARS,3.58,24738790,,,Titulos de Deuda en Peso Argentina,11
+e,ON Plaza Logistica C2 ZPC2O,ON,Plaza Logistica,ARS,3.53,24393276,,,Titulos de Deuda en Peso Argentina,6
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,3.49,24116865,,,Titulos de Deuda en Peso Argentina,56
+e,ON Ecofactory S1 C2,ON,Ecofactory,ARS,2.39,16515561,,,Titulos de Deuda en Peso Argentina,6
+e,ON Ecofactory S1 C1,ON,Ecofactory,ARS,2.3,15893636,,,Titulos de Deuda en Peso Argentina,3
+e,ON Pyme Spazios Inmuebles S1 C1,ON,Pyme Spazios Inmuebles,ARS,1.82,12576703,,,Titulos de Deuda en Peso Argentina,13
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,0.67,4629885,,,Certificados de Participacion Argentina,37
+e,ON Sumatoria C7 S2,ON,Sumatoria,ARS,0.39,2695008,,,Titulos de Deuda en Peso Argentina,13
+p,IAM Renta Balanceada,BIND,RF USD Linked,21.0846,0.3229,2,,,,
+p,MAF Renta Balanceada 2,Mariva,RM y Otros ARS,20.0627,0.3335,2,,,,
+p,Delta Gestion XI,Delta,RF MULT Corp,17.9388,0.2001,3,,,,
+p,Allaria Sustentable ASG,Allaria,ASG,17.766,0.1988,5,,,,
+p,Adcap Verde y Sustentable ASG,Adcap,ASG,17.3122,0.201,5,,,,
+p,Premier Sustentable ASG,Supervielle,ASG,17.0579,0.2996,1,,,,
+p,Stonex Balanceado III,StoneX,RM y Otros ARS,16.8641,0.2774,3,,,,
+p,Stonex Balanceado VI,StoneX,RF ARS Disc,16.7824,0.2566,2,,,,

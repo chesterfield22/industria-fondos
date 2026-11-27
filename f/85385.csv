@@ -1,0 +1,80 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Ciclo Nova Multiestrategia V,,,,,,,,
+m,gerente,Ciclo Nova Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,45904307970,,,,,,,,
+m,aum_planilla,45904307970,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85385,,,,,,,,
+m,n_especies,22,,,,,,,,
+m,activos_pn,100.19,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.07,,,,,,,,
+m,top1,12.46,,,,,,,,
+m,top5,54.22,,,,,,,,
+m,top10,78.3,,,,,,,,
+m,hhi_especies,777.1796,,,,,,,,
+m,n_emisores,8,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,57.45,,,,,,,,
+m,hhi_emisores,3464.4451,,,,,,,,
+m,sin_emisor_pct,17.99,,,,,,,,
+t,Soberano,57.45,8,,,,,,,
+t,Pagaré,16.46,6,,,,,,,
+t,Plazo fijo,15.34,2,,,,,,,
+t,ON,6.22,3,,,,,,,
+t,Subsoberano,2.86,1,,,,,,,
+t,Cheque,1.53,1,,,,,,,
+t,FCI,0.26,1,,,,,,,
+c,ARS,98.86,,,,,,,,
+c,USD,1,,,,,,,,
+c,sin dato,0.26,,,,,,,,
+r,Disponibilidades,0.07,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,83.52,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,15.34,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,1,,,,,,,,
+r,Certificados de Participacion Argentina,0.26,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.19,,,,,,,,
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,12.46,5719676773,,,Titulos de Deuda en Peso Argentina,84
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,11.82,5425889202,,,Titulos de Deuda en Peso Argentina,61
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,11.32,5196367662,,,Titulos de Deuda en Peso Argentina,146
+e,Pzo Fi $ Bco BBVA,Plazo fijo,Banco BBVA,ARS,10.96,5031112154,,,Operaciones a Plazo en Peso Argentina,46
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,7.66,3516269991,,,Titulos de Deuda en Peso Argentina,75
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,5.78,2653269001,,,Titulos de Deuda en Peso Argentina,67
+e,Bono Disc ARS Ley AR DICP,Soberano,Tesoro Nacional,ARS,5.35,2455880476,,,Titulos de Deuda en Peso Argentina,59
+e,Pzo Fi $ Bco Bibank,Plazo fijo,Banco Bibank,ARS,4.38,2010608689,,,Operaciones a Plazo en Peso Argentina,12
+e,Pagare #MAV121160051,Pagaré,,ARS,4.33,1987656535,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV151260070,Pagaré,,ARS,4.24,1946342658,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV130170021,Pagaré,,ARS,4.15,1905028781,,,Titulos de Deuda en Peso Argentina,1
+e,ON Toyota Clase 40,ON,Toyota,ARS,3.58,1643374225,,,Titulos de Deuda en Peso Argentina,5
+e,Letra Prov Rio Negro S1 031226,Subsoberano,Prov. Rio Negro,ARS,2.86,1312863208,,,Titulos de Deuda en Peso Argentina,15
+e,Pagare #MAV121160029,Pagaré,,ARS,2.6,1193512007,,,Titulos de Deuda en Peso Argentina,1
+e,Bono del Tesoro 2.5% 2031,Soberano,Tesoro Nacional,ARS,2.11,968580898,,,Titulos de Deuda en Peso Argentina,24
+e,ON Rombo Cia Fciera S68,ON,Rombo Cia Fciera,ARS,1.53,702335912,,,Titulos de Deuda en Peso Argentina,3
+e,Cheque E *MAV301102935,Cheque,,ARS,1.53,702335912,,,Titulos de Deuda en Peso Argentina,1
+e,ON Pyme Urbano Express Argentina S1,ON,Pyme Urbano Express Argentina,ARS,1.11,509537818,,,Titulos de Deuda en Peso Argentina,20
+e,Pagare #UMV301160114,Pagaré,,USD,1,459043080,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,0.95,436090926,,,Titulos de Deuda en Peso Argentina,160
+e,FCI Argenfunds Liquidez - Clase B,FCI,Argenfunds Liquidez,,0.26,119351201,,,Certificados de Participacion Argentina,50
+e,Pagare *MAV221201481,Pagaré,,ARS,0.14,64266031,,,Titulos de Deuda en Peso Argentina,1
+p,Allaria Renta Fija,Allaria,RF ARS CER,29.3548,0.5319,4,,,,
+p,Consultatio Tactico,Consultatio,RF MULT Disc,29.1151,0.3742,4,,,,
+p,Consultatio Deuda Argentina,Consultatio,RF ARS CER,28.9584,0.4034,3,,,,
+p,Consultatio One Ahorro,Consultatio,RF ARS CER,28.8015,0.4597,4,,,,
+p,Fundcorp Long Performance,CMF,RF ARS CER,28.1482,0.4179,4,,,,
+p,SBS Patrimonio,SBS,RM y Otros ARS,27.6431,0.5099,3,,,,
+p,Consultatio Global,Consultatio,RF MULT Disc,27.6215,0.4081,4,,,,
+p,Consultatio Estrategico,Consultatio,RF MULT Disc,26.4164,0.366,4,,,,

@@ -1,0 +1,68 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pionero Patrimonio I,,,,,,,,
+m,gerente,Macro Fondos S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF ARS Lecap,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,125360892497,,,,,,,,
+m,aum_planilla,125360892497,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85646,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,100.44,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,29.56,,,,,,,,
+m,top5,82.85,,,,,,,,
+m,top10,94.44,,,,,,,,
+m,hhi_especies,2062.052,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,77.59,,,,,,,,
+m,hhi_emisores,6060.8128,,,,,,,,
+m,sin_emisor_pct,11.8,,,,,,,,
+t,Soberano,77.59,4,,,,,,,
+t,Pagaré,11.8,7,,,,,,,
+t,Plazo fijo,8.03,2,,,,,,,
+t,FCI,3,2,,,,,,,
+c,ARS,97.42,,,,,,,,
+c,sin dato,3,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,89.41,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,8.03,,,,,,,,
+r,Certificados de Participacion Argentina,3,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.44,,,,,,,,
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,29.56,37056679822,,,Titulos de Deuda en Peso Argentina,80
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,29.51,36993999376,,,Titulos de Deuda en Peso Argentina,149
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,15.75,19744340568,,,Titulos de Deuda en Peso Argentina,86
+e,Pzo Fi $ Bco Santander Ri,Plazo fijo,Banco Santander Ri,ARS,4.02,5039507878,,,Operaciones a Plazo en Peso Argentina,68
+e,Pzo Fi $ Bco Patagonia,Plazo fijo,Banco Patagonia,ARS,4.01,5026971789,,,Operaciones a Plazo en Peso Argentina,42
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,2.89,3622929793,,,Certificados de Participacion Argentina,77
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,2.77,3472496722,,,Titulos de Deuda en Peso Argentina,166
+e,Pagare #MAV111160070,Pagaré,,ARS,1.98,2482145671,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV111160074,Pagaré,,ARS,1.98,2482145671,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV241160083,Pagaré,,ARS,1.97,2469609582,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV241160081,Pagaré,,ARS,1.97,2469609582,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV031260090,Pagaré,,ARS,1.56,1955629923,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV031260089,Pagaré,,ARS,1.56,1955629923,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV021260044,Pagaré,,ARS,0.78,977814961,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Balanz Capital Money Market Clase C,FCI,Balanz Capital Money Market,,0.11,137896982,,,Certificados de Participacion Argentina,47
+p,Alpha Renta Crecimiento,ICBC,T+1,71.8872,0.8486,4,,,,
+p,Alpha Renta Fija Serie 6,ICBC,T+1,66.1828,0.8504,4,,,,
+p,Champaquí Renta Plus,Bancor,RF ARS Lecap,59.0511,0.7746,4,,,,
+p,Pionero Renta Pesos,Macro,RF ARS Lecap,49.6531,0.6287,5,,,,
+p,ConoSur Ahorro,Cono Sur,T+1,47.9172,0.6581,3,,,,
+p,Argenfunds Financiamiento Pesos,Argenfunds,RF ARS Disc,47.2538,0.6514,2,,,,
+p,Parakeet Blend,Parakeet,RM y Otros ARS,44.6746,0.6837,3,,,,
+p,Adcap Gestión Estratégica I,Adcap,RF ARS Disc,43.9072,0.7735,3,,,,

@@ -1,0 +1,112 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Compass Renta Mixta Dólares III,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros USD,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense Billete,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5583824,,,,,,,,
+m,aum_planilla,5583824,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87633,,,,,,,,
+m,n_especies,48,,,,,,,,
+m,activos_pn,108.84,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,2.87,,,,,,,,
+m,top1,7.97,,,,,,,,
+m,top5,31.4,,,,,,,,
+m,top10,48.11,,,,,,,,
+m,hhi_especies,371.8136,,,,,,,,
+m,n_emisores,42,,,,,,,,
+m,emisor_top,Plaza Logistica,,,,,,,,
+m,emisor_top_pct,7.97,,,,,,,,
+m,hhi_emisores,387.7248,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,55.15,24,,,,,,,
+t,Acción,25.14,12,,,,,,,
+t,ETF,7.28,2,,,,,,,
+t,Cedear,5,4,,,,,,,
+t,Corporativo exterior,4.78,3,,,,,,,
+t,Soberano exterior,4.71,1,,,,,,,
+t,Otro título de deuda,2.41,1,,,,,,,
+t,Subsoberano,1.49,1,,,,,,,
+c,sin dato,82.96,,,,,,,,
+c,ARS,16.63,,,,,,,,
+c,USD,6.37,,,,,,,,
+r,Disponibilidades,2.87,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Billete,57.61,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,4.78,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,1.45,,,,,,,,
+r,Participaciones Accionarias Argentina,15.18,,,,,,,,
+r,Participaciones Accionarias Estados Unidos,11.06,,,,,,,,
+r,Participaciones Accionarias Brasil,3.19,,,,,,,,
+r,Participaciones Accionarias Luxemburgo,0.71,,,,,,,,
+r,Certificados de Participacion Estados Unidos,9.15,,,,,,,,
+r,Certificados de Participacion Brasil,2.84,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),8.84,,,,,,,,
+e,ON Plaza Logistica C5 ZPC5O,ON,Plaza Logistica,,7.97,445030.7537,,,Titulos de Deuda en Dolar Estadounidense Billete,14
+e,ON Aluar Serie 7,ON,Aluar,,7.8,435538.2533,,,Titulos de Deuda en Dolar Estadounidense Billete,15
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,6.48,361831.7796,,,Participaciones Accionarias Argentina,85
+e,ETF Global X Management,Soberano exterior,ETF (soberano),,4.71,262998.0991,,,Certificados de Participacion Estados Unidos,1
+e,FCI SPDR Gold Trust,ETF,FCI SPDR Gold Trust,,4.44,247921.7749,,,Certificados de Participacion Estados Unidos,1
+e,ADR Vale,Acción,ADR Vale,,3.74,208835.0086,,,Participaciones Accionarias Estados Unidos,2
+e,ON TGS C4 Reg S,ON,TGS,,3.74,208835.0086,,,Titulos de Deuda en Dolar Estadounidense Billete,26
+e,ON Edemsa C3,ON,Edemsa,,3.2,178682.3603,,,Titulos de Deuda en Dolar Estadounidense Billete,14
+e,ON Capex C11,ON,Capex,,3.19,178123.9779,,,Titulos de Deuda en Dolar Estadounidense Billete,19
+e,ETF VanEck Vectors Gold Miners,ETF,ETF VanEck Vectors Gold Miners,,2.84,158580.5948,,,Certificados de Participacion Brasil,1
+e,BC Adecoagro 7.5% 2032,Corporativo exterior,Adecoagro,USD,2.84,158580.5948,,,Titulos de Deuda en Dolar Estadounidense,6
+e,ON Central Puerto Clase C,ON,Central Puerto,,2.78,155230.3005,,,Titulos de Deuda en Dolar Estadounidense Billete,16
+e,ADR Loma Negra,Acción,ADR Loma Negra,,2.72,151880.0063,,,Participaciones Accionarias Estados Unidos,2
+e,ON Vaca Muerta C1,ON,Vaca Muerta,,2.69,150204.8591,,,Titulos de Deuda en Dolar Estadounidense Billete,45
+e,ON Tecpetrol C12,ON,Tecpetrol,,2.68,149646.4768,,,Titulos de Deuda en Dolar Estadounidense Billete,60
+e,ON Pluspetrol Clase 2,ON,Pluspetrol,,2.47,137920.4469,,,Titulos de Deuda en Dolar Estadounidense Billete,13
+e,Latam Airlines 2031,Otro título de deuda,Latam Airlines,,2.41,134570.1526,,,Titulos de Deuda en Dolar Estadounidense Billete,4
+e,ON Otamerica S7,ON,Otamerica,,2.16,120610.5932,,,Titulos de Deuda en Dolar Estadounidense Billete,23
+e,ON CGC C 38,ON,CGC,,2.07,115585.1518,,,Titulos de Deuda en Dolar Estadounidense Billete,21
+e,ON Pecom C2,ON,Pecom,,2.06,115026.7695,,,Titulos de Deuda en Dolar Estadounidense Billete,9
+e,Adecoagro Brasil S.A.,Acción,Adecoagro Brasil,,2.04,113910.0047,,,Participaciones Accionarias Brasil,1
+e,Cedear Paypal,Cedear,Paypal,ARS,2.02,112793.24,,,Participaciones Accionarias Argentina,1
+e,ON Mega C1,ON,Mega,,1.73,96600.151,,,Titulos de Deuda en Dolar Estadounidense Billete,16
+e,Rigetti Computing,Acción,Rigetti Computing,,1.69,94366.6215,,,Participaciones Accionarias Estados Unidos,1
+e,ON Camuzzi Gas C1 USD,ON,Camuzzi Gas,USD,1.59,88782.7978,,,Titulos de Deuda en Dolar Estadounidense Billete,13
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,1.53,85432.5035,,,Participaciones Accionarias Argentina,117
+e,Bono Prov San Juan SJO35,Subsoberano,Prov. San Juan,,1.49,83198.974,,,Titulos de Deuda en Dolar Estadounidense Billete,33
+e,Oracle Corporation,Acción,Oracle Corporation,,1.49,83198.974,,,Participaciones Accionarias Estados Unidos,1
+e,ON Oiltanking S2,ON,Oiltanking,,1.48,82640.5916,,,Titulos de Deuda en Dolar Estadounidense Billete,13
+e,ON CGC C 36,ON,CGC,ARS,1.45,80965.4445,,,Titulos de Deuda en Peso Argentina,15
+e,Coinbase Global Inc,Acción,Coinbase Global Inc,,1.42,79290.2974,,,Participaciones Accionarias Estados Unidos,2
+e,BC Compañia Minera Volcan,Corporativo exterior,Compañia Minera Volcan,USD,1.26,70356.1794,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON MSU C14,ON,MSU,,1.22,68122.6499,,,Titulos de Deuda en Dolar Estadounidense Billete,5
+e,Autopistas del Sol S.A.,Acción,Autopistas del Sol,ARS,1.22,68122.6499,,,Participaciones Accionarias Argentina,12
+e,Cedear Globant,Cedear,Globant,ARS,1.16,64772.3556,,,Participaciones Accionarias Argentina,4
+e,NU Holdings Ltd,Acción,NU Holdings Ltd,,1.15,64213.9732,,,Participaciones Accionarias Brasil,3
+e,ON Inversora Juramento C7 JNC7O,ON,Inversora Juramento,,0.97,54163.0905,,,Titulos de Deuda en Dolar Estadounidense Billete,8
+e,Aluar Aluminio Argentino S.A.I.C.,Acción,Aluar Aluminio Argentino S.A.I.C,ARS,0.95,53046.3257,,,Participaciones Accionarias Argentina,56
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,0.92,51371.1786,,,Participaciones Accionarias Argentina,38
+e,ON Pecom C3,ON,Pecom,,0.9,50254.4138,,,Titulos de Deuda en Dolar Estadounidense Billete,26
+e,Cedear Coreweave Inc,Cedear,Coreweave Inc,ARS,0.9,50254.4138,,,Participaciones Accionarias Argentina,1
+e,ON Inversora Juramento C6 JNC6O,ON,Inversora Juramento,,0.89,49696.0315,,,Titulos de Deuda en Dolar Estadounidense Billete,10
+e,ON Loma Negra C5,ON,Loma Negra,,0.83,46345.7372,,,Titulos de Deuda en Dolar Estadounidense Billete,13
+e,Globant,Acción,Globant,,0.71,39645.1487,,,Participaciones Accionarias Luxemburgo,1
+e,BC Ecopetrol 4.625% 021131,Corporativo exterior,Ecopetrol,USD,0.68,37970.0016,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON John Deere Cia. Fin C18,ON,John Deere Cia. Fin,,0.64,35736.4721,,,Titulos de Deuda en Dolar Estadounidense Billete,13
+e,ON Aeropuertos 2000 C11,ON,Aeropuertos,,0.52,29035.8836,,,Titulos de Deuda en Dolar Estadounidense Billete,8
+e,ON Pecom C1,ON,Pecom,,0.12,6700.5885,,,Titulos de Deuda en Dolar Estadounidense Billete,7
+p,Max Renta Fija Dolares,Max Capital,RF USD corp loc,15.562,0.1315,13,,,,
+p,SBS Renta Dólar Argentina,SBS,RF USD corp loc,14.1191,0.1338,9,,,,
+p,Argentaria BAVSA Renta Fija Dólares,BAVSA,RF USD Disc,13.1676,0.0915,13,,,,
+p,Parakeet Balanced Fund II,Parakeet,RM y Otros USD,13.1091,0.1197,8,,,,
+p,Schroder Retorno Total,Schroder,RF USD corp loc,10.103,0.095,6,,,,
+p,Delta Acciones,Delta,RV ARG Merval,9.1428,0.1085,4,,,,
+p,CMA Renta Dólar,Capital Mark..,RF USD GL Inc ARG,9.103,0.0903,9,,,,
+p,Delta Select,Delta,RV ARG Merval,8.8873,0.0994,4,,,,

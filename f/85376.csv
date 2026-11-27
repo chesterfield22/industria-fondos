@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Max Estrategico IV,,,,,,,,
+m,gerente,Max Capital Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF USD GL Inc ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Global,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,16723913,,,,,,,,
+m,aum_planilla,16723913,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85376,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,100.01,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,13.81,,,,,,,,
+m,top1,23.02,,,,,,,,
+m,top5,75.84,,,,,,,,
+m,top10,98.42,,,,,,,,
+m,hhi_especies,1382.0348,,,,,,,,
+m,n_emisores,7,,,,,,,,
+m,emisor_top,BCRA,,,,,,,,
+m,emisor_top_pct,38.24,,,,,,,,
+m,hhi_emisores,2236.244,,,,,,,,
+m,sin_emisor_pct,0.94,,,,,,,,
+t,BCRA,38.24,3,,,,,,,
+t,ON,30.92,4,,,,,,,
+t,Caución,13.15,1,,,,,,,
+t,Soberano,12.22,1,,,,,,,
+t,FCI,3.89,1,,,,,,,
+t,Pagaré,0.94,3,,,,,,,
+c,USD,99.36,,,,,,,,
+r,Disponibilidades,0.66,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,82.31,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,13.15,,,,,,,,
+r,Certificados de Participacion Argentina,3.89,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.01,,,,,,,,
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,USD,23.02,3849845,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON TGS C4,ON,TGS,USD,18.33,3065493,,,Titulos de Deuda en Dolar Estadounidense,4
+e,Caucion Colocadora U$S Merval,Caución,Caución Merval,USD,13.15,2199195,,,Operaciones a Plazo en Dolar Estadounidense,55
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,12.22,2043662,,,Titulos de Deuda en Dolar Estadounidense,83
+e,Bono Bopreal 2027 Serie 1 Clase B BPOB7,BCRA,BCRA,USD,9.12,1525221,,,Titulos de Deuda en Dolar Estadounidense,13
+e,Bono Bopreal 2027 Serie 1 Clase A BPOA7,BCRA,BCRA,USD,6.1,1020159,,,Titulos de Deuda en Dolar Estadounidense,3
+e,ON CGC C 36,ON,CGC,USD,6.01,1005107,,,Titulos de Deuda en Dolar Estadounidense,15
+e,FCI Balanz Money Market USD - Clase B,FCI,Balanz Money Market USD,USD,3.89,650560.2293,,,Certificados de Participacion Argentina,7
+e,ON CGC C 41,ON,CGC,USD,3.55,593698.9239,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Banco de Valores C4,ON,Banco de Valores,USD,3.03,506734.5745,,,Titulos de Deuda en Dolar Estadounidense,13
+e,Pagare #UVA080370001,Pagaré,,USD,0.64,107033.0454,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UVA200170003,Pagaré,,USD,0.15,25085.87,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UVA170270001,Pagaré,,USD,0.15,25085.87,,,Titulos de Deuda en Dolar Estadounidense,1
+p,Allaria Dólar Performance II,Allaria,RF USD Disc,44.6599,0.6159,3,,,,
+p,Novus Ahorro Dólares,Novus,RF USD Disc,40.9439,0.5999,3,,,,
+p,Parakeet Cobalto Advanced Strategy Fund,Parakeet,RF USD Disc,38.3867,0.4773,3,,,,
+p,Intervalores Total Return,Allaria Fondos Administrados S.G.F.C.I.S.A.,,35.467,0.5359,2,,,,
+p,Allaria Dólar Retorno Total,Allaria,RM y Otros USD,32.3769,0.4452,3,,,,
+p,Allaria Dólar Global,Allaria,RF USD Disc,32.347,0.4741,2,,,,
+p,Superfondo Renta Fija Dólares,Santander,RF USD GL Inc ARG,30.3412,0.5512,3,,,,
+p,Consultatio Estrategia III,Consultatio,RM y Otros USD,24.7353,0.4821,2,,,,

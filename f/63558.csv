@@ -1,0 +1,78 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Delta Ahorro Plus,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,65600541906,,,,,,,,
+m,aum_planilla,65600541906,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63558,,,,,,,,
+m,n_especies,26,,,,,,,,
+m,activos_pn,88.58,,,,,,,,
+m,pasivos_cnv,11.42,,,,,,,,
+m,liquidez,0.04,,,,,,,,
+m,top1,21.53,,,,,,,,
+m,top5,56.28,,,,,,,,
+m,top10,72.93,,,,,,,,
+m,hhi_especies,872.6681,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,68.69,,,,,,,,
+m,hhi_emisores,4871.9767,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,68.69,13,,,,,,,
+t,Subsoberano,15.86,5,,,,,,,
+t,ON,2.6,7,,,,,,,
+t,FCI,1.4,1,,,,,,,
+c,ARS,87.15,,,,,,,,
+c,sin dato,1.4,,,,,,,,
+r,Disponibilidades,0.04,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,87.14,,,,,,,,
+r,Certificados de Participacion Argentina,1.4,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,11.42,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-11.42,,,,,,,,
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,21.53,14123796672,,,Titulos de Deuda en Peso Argentina,165
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,12.08,7924545462,,,Titulos de Deuda en Peso Argentina,136
+e,Boncer TZXY7,Soberano,Tesoro Nacional,ARS,10.11,6632214787,,,Titulos de Deuda en Peso Argentina,76
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,6.94,4552677608,,,Titulos de Deuda en Peso Argentina,66
+e,Bono Prov Cordoba Clase 4,Subsoberano,Prov. Cordoba,ARS,5.62,3686750455,,,Titulos de Deuda en Peso Argentina,37
+e,Bono Prov Cordoba Clase 5,Subsoberano,Prov. Cordoba,ARS,5.08,3332507529,,,Titulos de Deuda en Peso Argentina,19
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,3.36,2204178208,,,Titulos de Deuda en Peso Argentina,61
+e,Bono Muni Cordoba S1 01102027,Subsoberano,Muni. Cordoba,ARS,3.1,2033616799,,,Titulos de Deuda en Peso Argentina,7
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,2.87,1882735553,,,Titulos de Deuda en Peso Argentina,67
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,2.24,1469452139,,,Titulos de Deuda en Peso Argentina,250
+e,Boncer Mendoza C1,Soberano,Tesoro Nacional,ARS,2.1,1377611380,,,Titulos de Deuda en Peso Argentina,49
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,1.95,1279210567,,,Titulos de Deuda en Peso Argentina,142
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,1.57,1029928508,,,Titulos de Deuda en Peso Argentina,84
+e,Letra Tamar TEM TMF28,Soberano,Tesoro Nacional,ARS,1.45,951207858,,,Titulos de Deuda en Peso Argentina,12
+e,FCI Pionero Pesos Plus - Clase B,FCI,Pionero Pesos Plus,,1.4,918407587,,,Certificados de Participacion Argentina,40
+e,Bono CER TZX27,Soberano,Tesoro Nacional,ARS,1.28,839686936,,,Titulos de Deuda en Peso Argentina,43
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,1.21,793766557,,,Titulos de Deuda en Peso Argentina,146
+e,Bono Prov Cordoba 2027 COY27,Subsoberano,Prov. Cordoba,ARS,1.1,721605961,,,Titulos de Deuda en Peso Argentina,28
+e,Bono Prov de Buenos Aires TZV28,Subsoberano,Prov. Buenos Aires,ARS,0.96,629765202,,,Titulos de Deuda en Peso Argentina,46
+e,ON Rombo Cia Fciera S60,ON,Rombo Cia Fciera,ARS,0.83,544484498,,,Titulos de Deuda en Peso Argentina,3
+e,ON PSA Serie 34,ON,PSA,ARS,0.51,334562764,,,Titulos de Deuda en Peso Argentina,7
+e,ON Rombo Cia Fciera S66,ON,Rombo Cia Fciera,ARS,0.35,229601897,,,Titulos de Deuda en Peso Argentina,15
+e,ON FCA Comp. Finac CL 20 S1,ON,FCA Comp. Finac,ARS,0.32,209921734,,,Titulos de Deuda en Peso Argentina,7
+e,ON PyME Sion Serie 13 UVA,ON,PyME Sion,ARS,0.29,190241572,,,Titulos de Deuda en Peso Argentina,9
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,0.19,124641030,,,Titulos de Deuda en Peso Argentina,56
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,0.11,72160596,,,Titulos de Deuda en Peso Argentina,67
+p,Galileo Multimercado II,Delta,RF ARS CER,44.2451,0.6226,7,,,,
+p,Delta Retorno Real,Delta,RF ARS CER,44.2344,0.712,9,,,,
+p,Galileo Ahorro Plus,Delta,T+1,43.6783,0.5523,10,,,,
+p,Pellegrini Renta Fija II,Pellegrini,T+1,41.6334,0.6028,8,,,,
+p,Allaria Patrimonio V,Allaria,RF ARS Disc,40.4158,0.7204,7,,,,
+p,Delta Renta,Delta,RF MULT Disc,38.9879,0.6182,8,,,,
+p,Toronto Trust Retorno Total,Investis,RF ARS CER,38.1462,0.5743,9,,,,
+p,Delta Gestion V,Delta,RM y Otros ARS,37.2923,0.6883,10,,,,

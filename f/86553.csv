@@ -1,0 +1,63 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Tandem Dólares Retorno Total,,,,,,,,
+m,gerente,Tandem Capital S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,18253359,,,,,,,,
+m,aum_planilla,18253359,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86553,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,69.45,,,,,,,,
+m,pasivos_cnv,30.55,,,,,,,,
+m,liquidez,0.11,,,,,,,,
+m,top1,19,,,,,,,,
+m,top5,50.2,,,,,,,,
+m,top10,64.2,,,,,,,,
+m,hhi_especies,703.0517,,,,,,,,
+m,n_emisores,9,,,,,,,,
+m,emisor_top,Pampa Energia,,,,,,,,
+m,emisor_top_pct,19,,,,,,,,
+m,hhi_emisores,595.9179,,,,,,,,
+m,sin_emisor_pct,15.38,,,,,,,,
+t,ON,45.96,7,,,,,,,
+t,Pagaré,15.38,3,,,,,,,
+t,BCRA,4.84,1,,,,,,,
+t,Soberano,3.15,2,,,,,,,
+c,USD,69.33,,,,,,,,
+r,Disponibilidades,0.11,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,69.34,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,30.55,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-30.55,,,,,,,,
+e,ON Pampa Energia C26,ON,Pampa Energia,USD,19,3468138,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON YPF Clase 34,ON,YPF,USD,12.54,2288971,,,Titulos de Deuda en Dolar Estadounidense,46
+e,Pagare #UMV120290001,Pagaré,,USD,9.77,1783353,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Bono Bopreal 2028 Serie 4 Clase B BPOB8,BCRA,BCRA,USD,4.84,883462.5529,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,USD,4.05,739261.0205,,,Titulos de Deuda en Dolar Estadounidense,58
+e,ON Pan American C43,ON,Pan American,USD,3.39,618788.8542,,,Titulos de Deuda en Dolar Estadounidense,9
+e,Pagare #UMV100870031,Pagaré,,USD,2.96,540299.4125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV110870007,Pagaré,,USD,2.65,483714.001,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Edenor C11,ON,Edenor,USD,2.54,463635.3067,,,Titulos de Deuda en Dolar Estadounidense,31
+e,ON Pluspetrol 8.5% 2032 (REGS),ON,Pluspetrol,USD,2.46,449032.6198,,,Titulos de Deuda en Dolar Estadounidense,34
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,USD,2.23,407049.8952,,,Titulos de Deuda en Dolar Estadounidense,74
+e,ON Vista Energy 31,ON,Vista Energy,USD,1.98,361416.4989,,,Titulos de Deuda en Dolar Estadounidense,9
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,USD,0.92,167930.8985,,,Titulos de Deuda en Dolar Estadounidense,40
+p,Tandem Global II,Tandem Capi..,RM y Otros USD,28.5158,0.3742,4,,,,
+p,Parakeet Income,Parakeet,RF USD corp loc,22.7686,0.5364,3,,,,
+p,Tandem Global,Tandem Capi..,RF USD Disc,20.4255,0.2492,4,,,,
+p,MAF Mix II,Mariva,RF USD corp loc,20.3634,0.3396,5,,,,
+p,Schroder Retorno Total Dos,Schroder,RF USD GL Inc ARG,20.296,0.2548,2,,,,
+p,MEGAQM Gestión Dólares 2,MegaQM,RF USD Disc,20.0487,0.1381,6,,,,
+p,Galileo Multi Strategy,Delta,RF USD corp loc,19.9084,0.4423,7,,,,
+p,Balanz Capital Estrategia II USD,Balanz,RF USD Disc,18.1967,0.2166,2,,,,

@@ -1,0 +1,70 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,BAVSA Retorno Total,,,,,,,,
+m,gerente,BAVSA Fondos S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,2690036284,,,,,,,,
+m,aum_planilla,2690036284,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86732,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,100.13,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,3.03,,,,,,,,
+m,top1,18.79,,,,,,,,
+m,top5,69.55,,,,,,,,
+m,top10,89.42,,,,,,,,
+m,hhi_especies,1196.7878,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,63.66,,,,,,,,
+m,hhi_emisores,4188.8328,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,63.66,4,,,,,,,
+t,Cedear,23.85,8,,,,,,,
+t,ETF,9.21,2,,,,,,,
+t,FCI,0.38,1,,,,,,,
+c,ARS,70.71,,,,,,,,
+c,USD,16.8,,,,,,,,
+c,sin dato,9.59,,,,,,,,
+r,Disponibilidades,3.03,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,46.86,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,16.8,,,,,,,,
+r,Participaciones Accionarias Argentina,33.06,,,,,,,,
+r,Certificados de Participacion Argentina,0.38,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.13,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,18.79,505457818,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,17.99,483937527,,,Titulos de Deuda en Peso Argentina,67
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,16.8,451926096,,,Titulos de Deuda en Dolar Estadounidense,83
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,10.08,271155657,,,Titulos de Deuda en Peso Argentina,118
+e,Cedear Utilities Select Sectar SPDR Fund,ETF,Cedear Utilities Select Sectar SPDR Fund,,5.89,158443137,,,Participaciones Accionarias Argentina,8
+e,Cedear Google,Cedear,Google,ARS,5.79,155753101,,,Participaciones Accionarias Argentina,30
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,5.24,140957901,,,Participaciones Accionarias Argentina,52
+e,Cedear Shares MSCI Brazil ETF,ETF,Cedear Shares MSCI Brazil ETF,,3.32,89309205,,,Participaciones Accionarias Argentina,23
+e,Cedear Nvidia Corp.,Cedear,Nvidia Corp.,ARS,3.08,82853118,,,Participaciones Accionarias Argentina,14
+e,Cedear Arista Networks Inc,Cedear,Arista Networks Inc,ARS,2.44,65636885,,,Participaciones Accionarias Argentina,1
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,2.3,61870835,,,Participaciones Accionarias Argentina,38
+e,Cedear Novo Nordisk A/S,Cedear,Novo Nordisk A/S,ARS,2.13,57297773,,,Participaciones Accionarias Argentina,1
+e,Cedear Eli Lilly,Cedear,Eli Lilly,ARS,1.51,40619548,,,Participaciones Accionarias Argentina,2
+e,Cedear Banco Bradesco,Cedear,Banco Bradesco,ARS,1.36,36584493,,,Participaciones Accionarias Argentina,10
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.38,10222138,,,Certificados de Participacion Argentina,96
+p,Galileo Estrategia,Delta,T+1,37.8785,0.613,2,,,,
+p,Galileo Renta Fija,Delta,RF MULT Disc,36.8549,0.4978,2,,,,
+p,MEGAQM Estrategia 7,MegaQM,RF ARS Disc,36.8359,0.5315,2,,,,
+p,Bull Market Ahorro Balanceado II,Bull Market,RF MULT Disc,35.4135,0.4906,3,,,,
+p,Toronto Trust Dinamico,Investis,RF MULT Disc,34.832,0.6447,3,,,,
+p,Balanz Performance V,Balanz,RF USD Linked,32.086,0.5124,2,,,,
+p,BAVSA Renta Balanceado XI,BAVSA,RV ARG Otros,29.8844,0.5362,3,,,,
+p,Allaria Gestion II,Allaria,RF ARS Disc,29.7322,0.4234,2,,,,

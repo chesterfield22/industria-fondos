@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Zofingen Dollar Linked,,,,,,,,
+m,gerente,Zofingen Investment S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,4062983826,,,,,,,,
+m,aum_planilla,4062983826,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63991,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,100.03,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.54,,,,,,,,
+m,top1,27.2,,,,,,,,
+m,top5,77.96,,,,,,,,
+m,top10,97.2,,,,,,,,
+m,hhi_especies,1596.2577,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,71.32,,,,,,,,
+m,hhi_emisores,5139.5302,,,,,,,,
+m,sin_emisor_pct,16.11,,,,,,,,
+t,Soberano,71.32,4,,,,,,,
+t,Pagaré,16.11,3,,,,,,,
+t,ON,11.06,4,,,,,,,
+t,Caución,1.5,1,,,,,,,
+c,ARS,90.52,,,,,,,,
+c,USD,9.47,,,,,,,,
+r,Disponibilidades,0.04,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,89.01,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,1.5,,,,,,,,
+r,Titulos de Deuda en Dolar 3500 BCRA,9.48,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.03,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,27.2,1105131601,,,Titulos de Deuda en Peso Argentina,250
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,ARS,18.75,761809467,,,Titulos de Deuda en Peso Argentina,72
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,17.5,711022170,,,Titulos de Deuda en Peso Argentina,103
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,7.87,319756827,,,Titulos de Deuda en Peso Argentina,56
+e,Pagare #MAV111260032,Pagaré,,ARS,6.64,269782126,,,Titulos de Deuda en Peso Argentina,1
+e,ON CNH Arg. C9,ON,CNH Arg,ARS,5.81,236059360,,,Titulos de Deuda en Peso Argentina,7
+e,Pagare #UMV181160013,Pagaré,,USD,5.68,230777481,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV161160047,Pagaré,,USD,3.79,153987087,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,2.46,99949402,,,Titulos de Deuda en Peso Argentina,56
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,1.5,60944757,,,Operaciones a Plazo en Peso Argentina,195
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,1.43,58100669,,,Titulos de Deuda en Peso Argentina,67
+e,ON MSU S11,ON,MSU,ARS,1.36,55256580,,,Titulos de Deuda en Peso Argentina,11
+p,First Renta Mixta VII,First Cap Mkts,RF MULT Disc,52.2596,0.6298,3,,,,
+p,Novus Valor,Novus,RF USD Linked,51.9559,0.7242,4,,,,
+p,MEGAQM Performance II,MegaQM,MM ARS Clásico,51.6001,0.7383,3,,,,
+p,Lombard Renta Fija,Patagonia,RF USD Linked,50.9273,0.7455,3,,,,
+p,Schroder Patrimonio Dos,Schroder,RF MULT Disc,50.1301,0.7406,3,,,,
+p,First Renta Mixta I,First Cap Mkts,RF USD Linked,48.0811,0.764,3,,,,
+p,First Renta Mixta V,First Cap Mkts,RF USD Linked,47.9485,0.7544,3,,,,
+p,1810 Renta Fija Argentina,Proahorro,RF MULT Disc,46.933,0.6759,3,,,,

@@ -1,0 +1,74 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Ciclo Nova Balanceado,,,,,,,,
+m,gerente,Ciclo Nova Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,7464893274,,,,,,,,
+m,aum_planilla,7464893274,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87300,,,,,,,,
+m,n_especies,18,,,,,,,,
+m,activos_pn,100.09,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.13,,,,,,,,
+m,top1,14.57,,,,,,,,
+m,top5,55.72,,,,,,,,
+m,top10,88.15,,,,,,,,
+m,hhi_especies,901.795,,,,,,,,
+m,n_emisores,7,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,79.2,,,,,,,,
+m,hhi_emisores,6353.9122,,,,,,,,
+m,sin_emisor_pct,9.6,,,,,,,,
+t,Soberano,79.2,9,,,,,,,
+t,Pagaré,9.6,3,,,,,,,
+t,FCI,8.94,1,,,,,,,
+t,Cedear,1.74,3,,,,,,,
+t,Acción,0.5,2,,,,,,,
+c,ARS,81.44,,,,,,,,
+c,USD,9.6,,,,,,,,
+c,sin dato,8.94,,,,,,,,
+r,Disponibilidades,0.13,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,79.19,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,9.59,,,,,,,,
+r,Participaciones Accionarias Argentina,2.24,,,,,,,,
+r,Certificados de Participacion Argentina,8.94,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.09,,,,,,,,
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,14.57,1087634950,,,Titulos de Deuda en Peso Argentina,142
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,10.62,792771666,,,Titulos de Deuda en Peso Argentina,136
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,10.54,786799751,,,Titulos de Deuda en Peso Argentina,82
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,10.02,747982306,,,Titulos de Deuda en Peso Argentina,250
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,9.97,744249859,,,Titulos de Deuda en Peso Argentina,84
+e,FCI Tango Money Market Dinámico - Clase B,FCI,Tango Money Market Dinámico,,8.94,667361459,,,Certificados de Participacion Argentina,13
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,8.34,622572099,,,Titulos de Deuda en Peso Argentina,67
+e,Bono del Tesoro 2.5% 2031,Soberano,Tesoro Nacional,ARS,6.92,516570615,,,Titulos de Deuda en Peso Argentina,24
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,4.39,327708815,,,Titulos de Deuda en Peso Argentina,61
+e,Pagare #UMV200970005,Pagaré,,USD,3.84,286651902,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV150970056,Pagaré,,USD,3.84,286651902,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,3.83,285905412,,,Titulos de Deuda en Peso Argentina,66
+e,Pagare #UMV230970004,Pagaré,,USD,1.92,143325951,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Cedear Microsoft,Cedear,Microsoft,ARS,0.92,68677018,,,Participaciones Accionarias Argentina,14
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,0.47,35084998,,,Participaciones Accionarias Argentina,52
+e,YPF S.A.,Acción,YPF,ARS,0.38,28366594,,,Participaciones Accionarias Argentina,122
+e,Cedear Wal Mart,Cedear,Wal Mart,ARS,0.35,26127126,,,Participaciones Accionarias Argentina,3
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,0.12,8957872,,,Participaciones Accionarias Argentina,129
+p,Allaria Estrategico,Allaria,RM y Otros ARS,45.7592,0.7291,4,,,,
+p,Galileo Ahorro Plus,Delta,T+1,44.52,0.6127,7,,,,
+p,MEGAQM Estrategia 7,MegaQM,RF ARS Disc,42.3937,0.597,4,,,,
+p,Pionero Renta Estrategico,Macro,RM y Otros ARS,40.5581,0.5298,7,,,,
+p,Stonex Global VIII,StoneX,RM y Otros ARS,39.9341,0.5946,4,,,,
+p,GMC Retorno Total VI,GMC,RM y Otros ARS,38.7188,0.6118,5,,,,
+p,Allaria Estructurado,Allaria,RF ARS Disc,38.5316,0.5673,4,,,,
+p,Pionero Gestion,Macro,RF MULT Disc,36.5701,0.4444,5,,,,

@@ -1,0 +1,79 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Galileo Multimercado VI,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,19366530925,,,,,,,,
+m,aum_planilla,19366530925,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85658,,,,,,,,
+m,n_especies,23,,,,,,,,
+m,activos_pn,86.72,,,,,,,,
+m,pasivos_cnv,13.28,,,,,,,,
+m,liquidez,0.13,,,,,,,,
+m,top1,12.33,,,,,,,,
+m,top5,47.67,,,,,,,,
+m,top10,68.24,,,,,,,,
+m,hhi_especies,611.4368,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,61.95,,,,,,,,
+m,hhi_emisores,3928.1356,,,,,,,,
+m,sin_emisor_pct,3.76,,,,,,,,
+t,Soberano,61.95,9,,,,,,,
+t,ON,16.65,9,,,,,,,
+t,Pagaré,3.76,1,,,,,,,
+t,Subsoberano,3.66,2,,,,,,,
+t,FCI,0.31,1,,,,,,,
+t,BCRA,0.25,1,,,,,,,
+c,ARS,82.51,,,,,,,,
+c,USD,3.76,,,,,,,,
+c,sin dato,0.31,,,,,,,,
+r,Disponibilidades,0.13,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,82.52,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Billete,3.76,,,,,,,,
+r,Certificados de Participacion Argentina,0.31,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,13.28,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-13.28,,,,,,,,
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,12.33,2387893263,,,Titulos de Deuda en Peso Argentina,146
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,11.09,2147748280,,,Titulos de Deuda en Peso Argentina,75
+e,Boncer TZXY7,Soberano,Tesoro Nacional,ARS,10.58,2048978972,,,Titulos de Deuda en Peso Argentina,76
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,8.51,1648091782,,,Titulos de Deuda en Peso Argentina,103
+e,ON Telecom C12 TLCDO,ON,Telecom,ARS,5.16,999312996,,,Titulos de Deuda en Peso Argentina,29
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,ARS,4.51,873430545,,,Titulos de Deuda en Peso Argentina,83
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,4.42,856000667,,,Titulos de Deuda en Peso Argentina,128
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,4.34,840507442,,,Titulos de Deuda en Peso Argentina,84
+e,Pagare #UMV221070005,Pagaré,,USD,3.76,728181563,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,Bono CER TZX27,Soberano,Tesoro Nacional,ARS,3.54,685575195,,,Titulos de Deuda en Peso Argentina,43
+e,ON Telecom C19 TLCKO,ON,Telecom,ARS,2.96,573249315,,,Titulos de Deuda en Peso Argentina,30
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,2.93,567439356,,,Titulos de Deuda en Peso Argentina,42
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,2.63,509339763,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Muni Cordoba S2 13022027,Subsoberano,Muni. Cordoba,ARS,2.45,474480008,,,Titulos de Deuda en Peso Argentina,29
+e,ON CGC C 38,ON,CGC,ARS,1.82,352470863,,,Titulos de Deuda en Peso Argentina,21
+e,ON Capex C10,ON,Capex,ARS,1.56,302117882,,,Titulos de Deuda en Peso Argentina,17
+e,ON Pan Amer. Energy C 18,ON,Pan Amer. Energy,ARS,1.44,278878045,,,Titulos de Deuda en Peso Argentina,14
+e,Letra Prov Bs As PBA27,Subsoberano,Prov. Buenos Aires,ARS,1.21,234335024,,,Titulos de Deuda en Peso Argentina,38
+e,ON MSU S11,ON,MSU,ARS,0.57,110389226,,,Titulos de Deuda en Peso Argentina,11
+e,FCI Pionero Pesos Plus - Clase B,FCI,Pionero Pesos Plus,,0.31,60036246,,,Certificados de Participacion Argentina,40
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,ARS,0.25,48416327,,,Titulos de Deuda en Peso Argentina,33
+e,ON Agrofina Clase 11,ON,Agrofina,ARS,0.13,25176490,,,Titulos de Deuda en Peso Argentina,9
+e,ON Agrofina Clase 12,ON,Agrofina,ARS,0.08,15493225,,,Titulos de Deuda en Peso Argentina,10
+p,SBS Patrimonio II,SBS,RF MULT Disc,34.7358,0.6336,3,,,,
+p,Consultatio Crecimiento,Consultatio,RF MULT Disc,34.7078,0.4283,4,,,,
+p,Pionero Renta,Macro,RF ARS CER,34.5318,0.4232,5,,,,
+p,Champaquí Renta Futura,Bancor,RF ARS Disc,34.1533,0.4356,4,,,,
+p,SBS Patrimonio IX,SBS,RF MULT Disc,32.347,0.5097,5,,,,
+p,Pellegrini Renta Fija II,Pellegrini,T+1,31.913,0.4332,6,,,,
+p,Fima Mix I,Galicia,RM y Otros ARS,30.8724,0.5057,6,,,,
+p,Pellegrini Agro FCI,Pellegrini,RM y Otros ARS,30.7808,0.5248,4,,,,

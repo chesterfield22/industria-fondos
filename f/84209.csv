@@ -1,0 +1,70 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Fima Cartera Sustentable FCI ASG,,,,,,,,
+m,gerente,Galicia Asset Management S.A.U.,,,,,,,,
+m,depositaria,Banco de Galicia y Buenos Aires S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,ASG,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5703550314,,,,,,,,
+m,aum_planilla,5703550314,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/84209,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,100.18,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,2.13,,,,,,,,
+m,top1,20.06,,,,,,,,
+m,top5,79.53,,,,,,,,
+m,top10,92.62,,,,,,,,
+m,hhi_especies,1384.0136,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Telecom,,,,,,,,
+m,emisor_top_pct,20.51,,,,,,,,
+m,hhi_emisores,1549.4514,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,79.02,14,,,,,,,
+t,Soberano,17.42,1,,,,,,,
+t,Caución,1.75,1,,,,,,,
+t,FCI,1.61,1,,,,,,,
+c,ARS,98.19,,,,,,,,
+c,sin dato,1.61,,,,,,,,
+r,Disponibilidades,0.38,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,96.44,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,1.75,,,,,,,,
+r,Certificados de Participacion Argentina,1.61,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.18,,,,,,,,
+e,ON Genneia Clase 39,ON,Genneia,ARS,20.06,1144132193,,,Titulos de Deuda en Peso Argentina,9
+e,ON Telecom C14 TLCFO,ON,Telecom,ARS,17.81,1015802311,,,Titulos de Deuda en Peso Argentina,23
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,17.42,993558465,,,Titulos de Deuda en Peso Argentina,158
+e,ON BBVA Frances Cl 47,ON,BBVA Frances,ARS,15.53,885761364,,,Titulos de Deuda en Peso Argentina,45
+e,ON Pampa Energia C13,ON,Pampa Energia,ARS,8.71,496779232,,,Titulos de Deuda en Peso Argentina,30
+e,ON Plaza Logistica C2 ZPC2O,ON,Plaza Logistica,ARS,2.85,162551184,,,Titulos de Deuda en Peso Argentina,6
+e,ON Telecom C12 TLCDO,ON,Telecom,ARS,2.7,153995858,,,Titulos de Deuda en Peso Argentina,29
+e,ON Sumatoria C9,ON,Sumatoria,ARS,2.66,151714438,,,Titulos de Deuda en Peso Argentina,7
+e,ON Cloronor S1,ON,Cloronor,ARS,2.65,151144083,,,Titulos de Deuda en Peso Argentina,10
+e,ON BBVA Frances Cl 46,ON,BBVA Frances,ARS,2.23,127189172,,,Titulos de Deuda en Peso Argentina,35
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,1.75,99812131,,,Operaciones a Plazo en Peso Argentina,73
+e,FCI Pionero Pesos - Clase A,FCI,Pionero Pesos,,1.61,91827160,,,Certificados de Participacion Argentina,14
+e,ON Red Surcos S12 Clase A,ON,Red Surcos,ARS,1.19,67872249,,,Titulos de Deuda en Peso Argentina,6
+e,ON Club Atletico River Plate S1,ON,Club Atletico River Plate,ARS,1.01,57605858,,,Titulos de Deuda en Peso Argentina,18
+e,ON San Miguel Serie 13 CA,ON,San Miguel,ARS,0.97,55324438,,,Titulos de Deuda en Peso Argentina,19
+e,ON C&C Medicals S1,ON,C&C Medicals,ARS,0.63,35932367,,,Titulos de Deuda en Peso Argentina,9
+e,ON Fundación IFI C2,ON,Fundación IFI,ARS,0.02,1140710,,,Titulos de Deuda en Peso Argentina,6
+p,Consultatio ST Fondo Comun De Inversión ASG,Consultatio,ASG,24.4233,0.4399,2,,,,
+p,Delta Crecimiento Infraestructura,Delta,INFRA,23.9908,0.3539,2,,,,
+p,Fima Retorno Total,Galicia,RF ARS Disc,21.9681,0.3085,3,,,,
+p,1810 Renta Fija Argentina,Proahorro,RF MULT Disc,18.287,0.1979,2,,,,
+p,Stonex Balanceado V,StoneX,RF MULT Disc,18.2165,0.2262,2,,,,
+p,Stonex Crecimiento III,StoneX,RM y Otros ARS,17.4549,0.3723,1,,,,
+p,Champaquí Renta Pesos,Bancor,T+1,17.4549,0.3652,1,,,,
+p,MEGAQM Retorno Absoluto,MegaQM,RF ARS CER,17.4549,0.3585,1,,,,

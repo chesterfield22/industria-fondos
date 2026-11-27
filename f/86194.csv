@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Ciclo Nova Renta Fija Dólar 2,,,,,,,,
+m,gerente,Ciclo Nova Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Latinoamerica,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1896798,,,,,,,,
+m,aum_planilla,1896798,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86194,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,99.85,,,,,,,,
+m,pasivos_cnv,0.15,,,,,,,,
+m,liquidez,11.22,,,,,,,,
+m,top1,13.27,,,,,,,,
+m,top5,56.51,,,,,,,,
+m,top10,91.36,,,,,,,,
+m,hhi_especies,913.8613,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Banco Serv Transac,,,,,,,,
+m,emisor_top_pct,13.27,,,,,,,,
+m,hhi_emisores,895.8438,,,,,,,,
+m,sin_emisor_pct,8.09,,,,,,,,
+t,ON,75.26,8,,,,,,,
+t,Caución,10.83,1,,,,,,,
+t,Pagaré,8.09,4,,,,,,,
+t,FCI,5.27,1,,,,,,,
+c,USD,99.45,,,,,,,,
+r,Disponibilidades,0.39,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,83.36,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,10.83,,,,,,,,
+r,Certificados de Participacion Argentina,5.27,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.15,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.15,,,,,,,,
+e,ON Bco Serv Transac C26,ON,Banco Serv Transac,USD,13.27,251705.0614,,,Titulos de Deuda en Dolar Estadounidense,9
+e,Caucion Colocadora U$S Merval,Caución,Caución Merval,USD,10.83,205423.1963,,,Operaciones a Plazo en Dolar Estadounidense,55
+e,ON Camuzzi Gas C1 USD,ON,Camuzzi Gas,USD,10.82,205233.5166,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Edesa Clase 2,ON,Edesa,USD,10.8,204854.157,,,Titulos de Deuda en Dolar Estadounidense,4
+e,ON Minas Argentinas C1,ON,Minas Argentinas,USD,10.79,204664.4772,,,Titulos de Deuda en Dolar Estadounidense,4
+e,ON Banco Hipotecario C12,ON,Banco Hipotecario,USD,8.14,154399.3368,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Sidersa Clase 1,ON,Sidersa,USD,8.13,154209.6571,,,Titulos de Deuda en Dolar Estadounidense,5
+e,ON Arcor Clase 26,ON,Arcor,USD,8,151743.82,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Endanik S1,ON,Endanik,USD,5.31,100719.9605,,,Titulos de Deuda en Dolar Estadounidense,2
+e,FCI Toronto Trust Money Market Dólar - Clase B,FCI,Toronto Trust Money Market Dólar,USD,5.27,99961.2414,,,Certificados de Participacion Argentina,6
+e,Pagare #UIG061160001,Pagaré,,USD,2.63,49885.7808,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UTD100970002,Pagaré,,USD,2.49,47230.264,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UTD151070001,Pagaré,,USD,1.98,37556.5954,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UCU290970001,Pagaré,,USD,0.99,18778.2977,,,Titulos de Deuda en Dolar Estadounidense,1
+p,Champaquí Fondo Liquidez Dólar,Bancor,MM USD Clásico,19.1971,0.3751,3,,,,
+p,Max Estrategico III,Max Capital,RF USD Disc,19.0649,0.3962,2,,,,
+p,Valiant Money Market Dolares,Valiant,MM USD Clásico,15.7134,0.2166,3,,,,
+p,First Renta Dolares,First Cap Mkts,RF USD Disc,13.2552,0.3498,3,,,,
+p,Chaco FCI Renta Fija Dólares,Chaco,RF USD corp loc,12.4878,0.2644,3,,,,
+p,Superfondo Renta Fija Dólares,Santander,RF USD GL Inc ARG,11.492,0.1922,2,,,,
+p,FBA Renta Fija Dólar I,BBVA,RF USD GL Inc ARG,11.3254,0.2715,2,,,,
+p,Cocos Ahorro Dólares,Cocos,RF USD GL Inc ARG,11.2089,0.1998,2,,,,

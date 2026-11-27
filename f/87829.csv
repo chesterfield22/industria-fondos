@@ -1,0 +1,111 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Ciclo Nova Estratégico II,,,,,,,,
+m,gerente,Ciclo Nova Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,43733239,,,,,,,,
+m,aum_planilla,43733239,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87829,,,,,,,,
+m,n_especies,51,,,,,,,,
+m,activos_pn,101.96,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.02,,,,,,,,
+m,top1,9.87,,,,,,,,
+m,top5,38.19,,,,,,,,
+m,top10,58.24,,,,,,,,
+m,hhi_especies,470.7477,,,,,,,,
+m,n_emisores,30,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,26.95,,,,,,,,
+m,hhi_emisores,1123.1449,,,,,,,,
+m,sin_emisor_pct,7.02,,,,,,,,
+t,Acción,33.77,14,,,,,,,
+t,Soberano,26.95,9,,,,,,,
+t,ON,13.19,11,,,,,,,
+t,Soberano exterior,12.54,5,,,,,,,
+t,ETF,7.6,3,,,,,,,
+t,Pagaré,7.02,8,,,,,,,
+t,FCI,0.78,1,,,,,,,
+c,USD,60.36,,,,,,,,
+c,ARS,25.3,,,,,,,,
+c,sin dato,16.19,,,,,,,,
+r,Disponibilidades,0.02,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,59.57,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,0.13,,,,,,,,
+r,Participaciones Accionarias Argentina,32.27,,,,,,,,
+r,Participaciones Accionarias Estados Unidos,8.59,,,,,,,,
+r,Certificados de Participacion Argentina,0.78,,,,,,,,
+r,Certificados de Participacion Estados Unidos,0.51,,,,,,,,
+r,Otros Activos,0.09,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.96,,,,,,,,
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,9.87,4316471,,,Participaciones Accionarias Argentina,117
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,USD,8.39,3669219,,,Titulos de Deuda en Dolar Estadounidense,72
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,USD,7.36,3218766,,,Titulos de Deuda en Dolar Estadounidense,56
+e,Cedear FCI SPDR Gold Trust,ETF,Cedear FCI SPDR Gold Trust,,6.88,3008847,,,Participaciones Accionarias Argentina,12
+e,Pagare #UMV161260033,Pagaré,,USD,5.69,2488421,,,Titulos de Deuda en Dolar Estadounidense,1
+e,US Treasury Bill 040327,Soberano exterior,Tesoro EE.UU.,USD,4.78,2090449,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Bono Dual TXMJ0,Soberano,Tesoro Nacional,USD,4.74,2072956,,,Titulos de Deuda en Dolar Estadounidense,28
+e,Matba Rofex S.A.,Acción,Matba Rofex,ARS,3.61,1578770,,,Participaciones Accionarias Argentina,8
+e,US Treasury Bill 150256,Soberano exterior,Tesoro EE.UU.,USD,3.49,1526290,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Inversora Juramento C6 JNC6O,ON,Inversora Juramento,USD,3.43,1500050,,,Titulos de Deuda en Dolar Estadounidense,10
+e,Dycasa S.A.,Acción,Dycasa,ARS,3.31,1447570,,,Participaciones Accionarias Argentina,3
+e,ON IEB Construcciones C1,ON,IEB Construcciones,USD,3.24,1416957,,,Titulos de Deuda en Dolar Estadounidense,5
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,3.14,1373224,,,Participaciones Accionarias Argentina,104
+e,ON Mirgor Clase 4,ON,Mirgor,USD,2.76,1207037,,,Titulos de Deuda en Dolar Estadounidense,9
+e,Rockwell Automation Inc,Acción,Rockwell Automation Inc,,2.51,1097704,,,Participaciones Accionarias Estados Unidos,1
+e,Eaton Corporation PLC,Acción,Eaton Corporation PLC,,2.5,1093331,,,Participaciones Accionarias Estados Unidos,1
+e,ON Havanna S1,ON,Havanna,USD,2.19,957757.9297,,,Titulos de Deuda en Dolar Estadounidense,6
+e,Vertiv Holdings Co,Acción,Vertiv Holdings Co,,2.01,879038.0999,,,Participaciones Accionarias Estados Unidos,1
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,USD,1.98,865918.1282,,,Titulos de Deuda en Dolar Estadounidense,66
+e,US Treasury Bill 100627,Soberano exterior,Tesoro EE.UU.,USD,1.83,800318.27,,,Titulos de Deuda en Dolar Estadounidense,4
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,USD,1.75,765331.679,,,Titulos de Deuda en Dolar Estadounidense,40
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,1.45,634131.9626,,,Participaciones Accionarias Argentina,93
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,1.41,616638.6671,,,Participaciones Accionarias Argentina,129
+e,ADR Grupo Fciero Galicia,Acción,ADR Grupo Fciero Galicia,,1.4,612265.3432,,,Participaciones Accionarias Estados Unidos,3
+e,US Treasury Bill 171226,Soberano exterior,Tesoro EE.UU.,USD,1.22,533545.5134,,,Titulos de Deuda en Dolar Estadounidense,4
+e,US Treasury Bill 030927,Soberano exterior,Tesoro EE.UU.,USD,1.22,533545.5134,,,Titulos de Deuda en Dolar Estadounidense,3
+e,Pagare #UMV020870011,Pagaré,,USD,1.21,529172.1895,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,1.14,498558.9223,,,Participaciones Accionarias Argentina,104
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,USD,0.9,393599.1492,,,Titulos de Deuda en Dolar Estadounidense,67
+e,Bonos Rep Argentina AL35,Soberano,Tesoro Nacional,USD,0.87,380479.1776,,,Titulos de Deuda en Dolar Estadounidense,31
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,0.86,376105.8537,,,Participaciones Accionarias Argentina,77
+e,FCI Toronto Trust Money Market Dólar - Clase B,FCI,Toronto Trust Money Market Dólar,USD,0.78,341119.2626,,,Certificados de Participacion Argentina,6
+e,Global X Uranium ETF,ETF,Global X Uranium ETF,,0.51,223039.5179,,,Certificados de Participacion Estados Unidos,2
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,USD,0.49,214292.8701,,,Titulos de Deuda en Dolar Estadounidense,64
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,USD,0.47,205546.2224,,,Titulos de Deuda en Dolar Estadounidense,128
+e,ON Transp Gas Sur Cl 3,ON,Transp Gas Sur,USD,0.4,174932.9552,,,Titulos de Deuda en Dolar Estadounidense,43
+e,ON YPF Clase 33,ON,YPF,USD,0.4,174932.9552,,,Titulos de Deuda en Dolar Estadounidense,12
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,0.39,170559.6313,,,Participaciones Accionarias Argentina,86
+e,ON John Deere Cia. Fin C19,ON,John Deere Cia. Fin,USD,0.26,113706.4209,,,Titulos de Deuda en Dolar Estadounidense,20
+e,Cedear ETF Global X Copper Miners,ETF,Cedear ETF Global X Copper Miners,,0.21,91839.8015,,,Participaciones Accionarias Argentina,2
+e,ON 360 Energy Solar C4,ON,360 Energy Solar,USD,0.21,91839.8015,,,Titulos de Deuda en Dolar Estadounidense,4
+e,ADR Loma Negra,Acción,ADR Loma Negra,,0.17,74346.506,,,Participaciones Accionarias Estados Unidos,2
+e,ON Otamerica S7,ON,Otamerica,USD,0.11,48106.5627,,,Titulos de Deuda en Dolar Estadounidense,23
+e,ON YPF Clase 39,ON,YPF,USD,0.1,43733.2388,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Telecom C25,ON,Telecom,USD,0.09,39359.9149,,,Titulos de Deuda en Dolar Estadounidense,15
+e,Pagare #MAV050170008,Pagaré,,ARS,0.02,8746.6478,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV101260006,Pagaré,,ARS,0.02,8746.6478,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV050570010,Pagaré,,ARS,0.02,8746.6478,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV040270008,Pagaré,,ARS,0.02,8746.6478,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV060470002,Pagaré,,ARS,0.02,8746.6478,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV090370003,Pagaré,,ARS,0.02,8746.6478,,,Titulos de Deuda en Peso Argentina,1
+p,CMA Acciones,Capital Mark..,RV ARG Merval,22.382,0.3291,6,,,,
+p,Delta Internacional,Delta,RV ARG Merval,19.9901,0.2884,8,,,,
+p,Ciclo Nova Value,Ciclo Nova,RV ARG Rofex 20,19.8529,0.293,10,,,,
+p,Bull Market Acciones Argentinas,Bull Market,RV ARG Merval,19.0288,0.3063,8,,,,
+p,Toronto Trust Multimercado,Investis,RV ARG Otros,18.8574,0.283,8,,,,
+p,Novus Renta Variable,Novus,RV ARG Merval,17.9283,0.3504,7,,,,
+p,Ualintec Renta Variable Pesos,Ualá,RV ARG Rofex 20,17.9283,0.3417,7,,,,
+p,Champaquí Renta Variable,Bancor,RV ARG Rofex 20,17.9283,0.3385,7,,,,

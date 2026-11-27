@@ -1,0 +1,68 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Parakeet Dinámico III,,,,,,,,
+m,gerente,Parakeet S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1410345585,,,,,,,,
+m,aum_planilla,1410345585,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87781,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,100.01,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,40.14,,,,,,,,
+m,top5,69.09,,,,,,,,
+m,top10,92.33,,,,,,,,
+m,hhi_especies,1961.7393,,,,,,,,
+m,n_emisores,7,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,44.96,,,,,,,,
+m,hhi_emisores,3703.4577,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,44.96,8,,,,,,,
+t,FCI,40.14,1,,,,,,,
+t,BCRA,6.95,1,,,,,,,
+t,Subsoberano,4.23,1,,,,,,,
+t,Acción,3.73,3,,,,,,,
+c,ARS,59.87,,,,,,,,
+c,sin dato,40.14,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,56.14,,,,,,,,
+r,Participaciones Accionarias Argentina,3.73,,,,,,,,
+r,Certificados de Participacion Argentina,40.14,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.01,,,,,,,,
+e,FCI SBS Ahorro Pesos Cl B,FCI,SBS Ahorro Pesos Cl B,,40.14,566112718,,,Certificados de Participacion Argentina,46
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,9.9,139624213,,,Titulos de Deuda en Peso Argentina,128
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,7.11,100275571,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Bopreal 2028 Serie 4 Clase B BPOB8,BCRA,BCRA,ARS,6.95,98019018,,,Titulos de Deuda en Peso Argentina,16
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,4.99,70376245,,,Titulos de Deuda en Peso Argentina,84
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,4.92,69389003,,,Titulos de Deuda en Peso Argentina,86
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,4.9,69106934,,,Titulos de Deuda en Peso Argentina,250
+e,Bono del Tesoro 2.5% 2031,Soberano,Tesoro Nacional,ARS,4.89,68965899,,,Titulos de Deuda en Peso Argentina,24
+e,Bono Dual TXMJ8,Soberano,Tesoro Nacional,ARS,4.3,60644860,,,Titulos de Deuda en Peso Argentina,45
+e,Bono Prov de Buenos Aires TZV28,Subsoberano,Prov. Buenos Aires,ARS,4.23,59657618,,,Titulos de Deuda en Peso Argentina,46
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,3.95,55708651,,,Titulos de Deuda en Peso Argentina,74
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,1.29,18193458,,,Participaciones Accionarias Argentina,104
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,1.23,17347251,,,Participaciones Accionarias Argentina,77
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,1.21,17065182,,,Participaciones Accionarias Argentina,129
+p,Parakeet Gestion Activa III,Parakeet,RM y Otros ARS,40.136,0.7752,1,,,,
+p,Consultatio Gestion I,Consultatio,RM y Otros ARS,28.1783,0.2424,6,,,,
+p,Consultatio One Ahorro,Consultatio,RF ARS CER,26.8973,0.246,4,,,,
+p,Consultatio Global,Consultatio,RF MULT Disc,26.2392,0.2339,4,,,,
+p,Consultatio Balance Fund,Consultatio,RF MULT Disc,26.1848,0.2408,5,,,,
+p,Delta Renta,Delta,RF MULT Disc,26.1016,0.2248,5,,,,
+p,Galileo Renta Fija,Delta,RF MULT Disc,26.0309,0.2246,4,,,,
+p,Consultatio Tactico,Consultatio,RF MULT Disc,25.7859,0.2494,4,,,,

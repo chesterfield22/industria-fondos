@@ -1,0 +1,104 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Quiron Fixed Income,,,,,,,,
+m,gerente,Quiron Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,3826782352,,,,,,,,
+m,aum_planilla,3826782352,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63583,,,,,,,,
+m,n_especies,49,,,,,,,,
+m,activos_pn,136.2,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,37.13,,,,,,,,
+m,top1,36.62,,,,,,,,
+m,top5,74.12,,,,,,,,
+m,top10,91.93,,,,,,,,
+m,hhi_especies,1871.9482,,,,,,,,
+m,n_emisores,6,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,40.58,,,,,,,,
+m,hhi_emisores,3004.3398,,,,,,,,
+m,sin_emisor_pct,51.94,,,,,,,,
+t,Pagaré,46.79,36,,,,,,,
+t,Soberano,40.58,5,,,,,,,
+t,Caución,36.62,1,,,,,,,
+t,Cheque,5.15,3,,,,,,,
+t,Subsoberano,3.31,1,,,,,,,
+t,ON,2.11,2,,,,,,,
+t,FCI,1.12,1,,,,,,,
+c,ARS,135.68,,,,,,,,
+r,Disponibilidades,0.51,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,97.95,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,36.62,,,,,,,,
+r,Certificados de Participacion Argentina,1.12,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),36.2,,,,,,,,
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,36.62,1401367697,,,Operaciones a Plazo en Peso Argentina,195
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,14.36,549525946,,,Titulos de Deuda en Peso Argentina,250
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,10.48,401046790,,,Titulos de Deuda en Peso Argentina,75
+e,Pagare #UMV251160007,Pagaré,,ARS,7.26,277824399,,,Titulos de Deuda en Peso Argentina,1
+e,Bono Dual TXMJ8,Soberano,Tesoro Nacional,ARS,5.4,206646247,,,Titulos de Deuda en Peso Argentina,45
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,5.23,200140717,,,Titulos de Deuda en Peso Argentina,74
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,5.11,195548578,,,Titulos de Deuda en Peso Argentina,61
+e,Bono Prov de Buenos Aires TZV28,Subsoberano,Prov. Buenos Aires,ARS,3.31,126666496,,,Titulos de Deuda en Peso Argentina,46
+e,ON CGC C 39,ON,CGC,ARS,2.09,79979751,,,Titulos de Deuda en Peso Argentina,34
+e,Cheque E *MAV220101354,Cheque,,ARS,2.07,79214395,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220300987,Cheque,,ARS,1.96,75004934,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV101260024,Pagaré,,ARS,1.82,69647439,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV101260023,Pagaré,,ARS,1.82,69647439,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV151260046,Pagaré,,ARS,1.82,69647439,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV201260004,Pagaré,,ARS,1.82,69647439,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV201260005,Pagaré,,ARS,1.82,69647439,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV151260045,Pagaré,,ARS,1.82,69647439,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV201260006,Pagaré,,ARS,1.82,69647439,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV201260007,Pagaré,,ARS,1.82,69647439,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UCU080470001,Pagaré,,ARS,1.66,63524587,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UCU150470003,Pagaré,,ARS,1.65,63141909,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UCU050570001,Pagaré,,ARS,1.65,63141909,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UCU120570001,Pagaré,,ARS,1.65,63141909,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UCU220470001,Pagaré,,ARS,1.65,63141909,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #USO280270001,Pagaré,,ARS,1.28,48982814,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Premier Renta CP $ CC,FCI,Premier Renta CP $ CC,ARS,1.12,42859962,,,Certificados de Participacion Argentina,27
+e,Cheque E *MAV220401407,Cheque,,ARS,1.12,42859962,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UFA140470001,Pagaré,,ARS,1.07,40946571,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UFA210470001,Pagaré,,ARS,1.07,40946571,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV131160022,Pagaré,,ARS,0.77,29466224,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV271160026,Pagaré,,ARS,0.77,29466224,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV201160032,Pagaré,,ARS,0.77,29466224,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV061160012,Pagaré,,ARS,0.77,29466224,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV120270007,Pagaré,,ARS,0.76,29083546,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV010370014,Pagaré,,ARS,0.75,28700868,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV050370021,Pagaré,,ARS,0.75,28700868,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV260270020,Pagaré,,ARS,0.75,28700868,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV190270011,Pagaré,,ARS,0.75,28700868,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV150770061,Pagaré,,ARS,0.74,28318189,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV140770005,Pagaré,,ARS,0.74,28318189,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMO160770001,Pagaré,,ARS,0.74,28318189,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV190770009,Pagaré,,ARS,0.74,28318189,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV180670004,Pagaré,,ARS,0.74,28318189,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV220770008,Pagaré,,ARS,0.73,27935511,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAB090770001,Pagaré,,ARS,0.56,21429981,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMO230770002,Pagaré,,ARS,0.55,21047303,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMO300770001,Pagaré,,ARS,0.55,21047303,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #USO160570001,Pagaré,,ARS,0.36,13776416,,,Titulos de Deuda en Peso Argentina,1
+e,ON Red Surcos S12 Clase A,ON,Red Surcos,ARS,0.02,765356.4703,,,Titulos de Deuda en Peso Argentina,6
+p,Wise Capital Hedge,Wise,RM y Otros ARS,47.7373,0.8671,4,,,,
+p,Schroder Retorno Absoluto,Schroder,RF ARS Disc,37.5737,0.7542,2,,,,
+p,Schroder Argentina,Schroder,RF MULT Disc,36.5779,0.6403,2,,,,
+p,Schroder Multiactivos,Schroder,RF MULT Disc,34.8728,0.7089,2,,,,
+p,Schroder Corto Plazo,Schroder,RF MULT Disc,31.3966,0.688,2,,,,
+p,Schroder Balanceado,Schroder,RM y Otros ARS,30.1498,0.4645,2,,,,
+p,Puente Renta Fija Pesos IV,Puente,RF ARS Disc,29.6275,0.6534,2,,,,
+p,Conosur Financiamiento III,Cono Sur,Sin clasificar,26.99,0.8464,1,,,,

@@ -1,0 +1,112 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,IAM Liquidez en Dólares,,,,,,,,
+m,gerente,Industrial Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Industrial S.A.,,,,,,,,
+m,clasificacion,Plazo Fijo,,,,,,,,
+m,subtipo,MM USD Clásico,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,215012563,,,,,,,,
+m,aum_planilla,215012563,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86551,,,,,,,,
+m,n_especies,62,,,,,,,,
+m,activos_pn,86.5,,,,,,,,
+m,pasivos_cnv,13.5,,,,,,,,
+m,liquidez,44.1,,,,,,,,
+m,top1,25.24,,,,,,,,
+m,top5,59.02,,,,,,,,
+m,top10,65.32,,,,,,,,
+m,hhi_especies,1131.6899,,,,,,,,
+m,n_emisores,8,,,,,,,,
+m,emisor_top,Caución BYMA,,,,,,,,
+m,emisor_top_pct,25.24,,,,,,,,
+m,hhi_emisores,1131.1425,,,,,,,,
+m,sin_emisor_pct,2.96,,,,,,,,
+t,Plazo fijo,39.37,7,,,,,,,
+t,Caución,25.24,1,,,,,,,
+t,Pagaré,2.96,54,,,,,,,
+c,USD,67.57,,,,,,,,
+r,Disponibilidades,18.86,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,3.03,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,64.61,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,13.5,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-13.5,,,,,,,,
+e,Caucion Colocadora U$S BYMA,Caución,Caución BYMA,USD,25.24,54269171,,,Operaciones a Plazo en Dolar Estadounidense,35
+e,Pzo Fi U$S Bco Nacion,Plazo fijo,Banco Nacion,USD,20.5,44077575,,,Operaciones a Plazo en Dolar Estadounidense,40
+e,Pzo Fi U$S Bco Galicia,Plazo fijo,Banco Galicia,USD,5.58,11997701,,,Operaciones a Plazo en Dolar Estadounidense,20
+e,Pzo Fi U$S Bco Patagonia,Plazo fijo,Banco Patagonia,USD,4.9,10535616,,,Operaciones a Plazo en Dolar Estadounidense,23
+e,Pzo Fi U$S Bco Supervielle,Plazo fijo,Banco Supervielle,USD,2.8,6020352,,,Operaciones a Plazo en Dolar Estadounidense,30
+e,Pzo Fi U$S Bco Hipotecario,Plazo fijo,Banco Hipotecario,USD,2.33,5009793,,,Operaciones a Plazo en Dolar Estadounidense,9
+e,Pzo Fi U$S Bco Comafi,Plazo fijo,Banco Comafi,USD,1.86,3999234,,,Operaciones a Plazo en Dolar Estadounidense,9
+e,Pzo Fi U$S Bco Mariva,Plazo fijo,Banco Mariva,USD,1.4,3010176,,,Operaciones a Plazo en Dolar Estadounidense,10
+e,Pagare #UMV100570054,Pagaré,,USD,0.45,967556.5315,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV091160001,Pagaré,,USD,0.26,559032.6627,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV081260001,Pagaré,,USD,0.25,537531.4064,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV311260004,Pagaré,,USD,0.25,537531.4064,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV231160013,Pagaré,,USD,0.23,494528.8939,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UTD021260001,Pagaré,,USD,0.14,301017.5876,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO051160002,Pagaré,,USD,0.12,258015.0751,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO301160014,Pagaré,,USD,0.09,193511.3063,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO301160013,Pagaré,,USD,0.09,193511.3063,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO151260019,Pagaré,,USD,0.09,193511.3063,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO151260018,Pagaré,,USD,0.09,193511.3063,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO301260006,Pagaré,,USD,0.09,193511.3063,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO301260005,Pagaré,,USD,0.09,193511.3063,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO010370001,Pagaré,,USD,0.06,129007.5375,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UTD200470001,Pagaré,,USD,0.05,107506.2813,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO151260002,Pagaré,,USD,0.03,64503.7688,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO191160001,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO091160001,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO251160002,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO021260002,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPD300370001,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPD300370002,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO051160001,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAR050170002,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO161260003,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO161260001,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UTD140470001,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UTD090470001,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPD300370004,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPD300370003,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFT071160001,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFT211160001,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UCM100270001,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UCM090870002,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPD260570001,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPD260570002,Pagaré,,USD,0.02,43002.5125,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMF130370001,Pagaré,,USD,0.01,21501.2563,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMF200370001,Pagaré,,USD,0.01,21501.2563,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO180570001,Pagaré,,USD,0.01,21501.2563,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO180470001,Pagaré,,USD,0.01,21501.2563,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO030470002,Pagaré,,USD,0.01,21501.2563,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO030570002,Pagaré,,USD,0.01,21501.2563,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UCM110570001,Pagaré,,USD,0.01,21501.2563,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMF100470002,Pagaré,,USD,0.01,21501.2563,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMF030470002,Pagaré,,USD,0.01,21501.2563,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMF270370001,Pagaré,,USD,0.01,21501.2563,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UCE150270001,Pagaré,,USD,0.01,21501.2563,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO161260002,Pagaré,,USD,0.01,21501.2563,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFT201160001,Pagaré,,USD,0.01,21501.2563,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFT010370001,Pagaré,,USD,0.01,21501.2563,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFT011260002,Pagaré,,USD,0.01,21501.2563,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFT200270001,Pagaré,,USD,0.01,21501.2563,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO030570003,Pagaré,,USD,0.01,21501.2563,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO030470003,Pagaré,,USD,0.01,21501.2563,,,Titulos de Deuda en Dolar Estadounidense,1
+p,Stonex Dólares Premium,StoneX,MM USD Clásico,66.4048,0.8783,4,,,,
+p,Delta Dólares,Delta,MM USD Clásico,65.1227,0.8417,6,,,,
+p,Toronto Trust Money Market Dólar,Investis,MM USD Clásico,65.0844,0.8914,4,,,,
+p,IAM Retorno Dólares,BIND,MM USD Clásico,64.8989,0.7978,6,,,,
+p,Pionero Money Market Dólar,Macro,MM USD Clásico,59.7488,0.8856,6,,,,
+p,Fima Premium Dólares,Galicia,MM USD Clásico,59.1512,0.7679,7,,,,
+p,MEGAQM Liquidez Dólar,MegaQM,MM USD Clásico,58.3776,0.7593,4,,,,
+p,1822 Raices Ahorro Dólares,Provinfondos,MM USD Clásico,55.9011,0.8781,7,,,,

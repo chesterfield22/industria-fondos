@@ -1,0 +1,121 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Superfondo Estrategico,,,,,,,,
+m,gerente,Santander Asset Management G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Santander Argentina S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense Billete,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,451272488,,,,,,,,
+m,aum_planilla,451272488,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63760,,,,,,,,
+m,n_especies,64,,,,,,,,
+m,activos_pn,100.63,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,13.64,,,,,,,,
+m,top1,11.41,,,,,,,,
+m,top5,41.87,,,,,,,,
+m,top10,57.19,,,,,,,,
+m,hhi_especies,453.9902,,,,,,,,
+m,n_emisores,36,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,26.84,,,,,,,,
+m,hhi_emisores,1304.9218,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,33.15,49,,,,,,,
+t,Soberano,26.84,5,,,,,,,
+t,BCRA,21.7,3,,,,,,,
+t,Caución,4.43,1,,,,,,,
+t,FCI,2.98,4,,,,,,,
+t,Subsoberano,2.3,2,,,,,,,
+c,sin dato,82.38,,,,,,,,
+c,USD,7.41,,,,,,,,
+c,ARS,1.61,,,,,,,,
+r,Disponibilidades,9.21,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Billete,82.39,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense Billete,4.43,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,1.62,,,,,,,,
+r,Certificados de Participacion Argentina,2.98,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.63,,,,,,,,
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,,11.41,51490191,,,Titulos de Deuda en Dolar Estadounidense Billete,72
+e,Bono Bopreal 2027 Serie 1 Clase D BPOD7,BCRA,BCRA,,9.06,40885287,,,Titulos de Deuda en Dolar Estadounidense Billete,22
+e,Bonos Rep Argentina GD41,Soberano,Tesoro Nacional,,8.48,38267907,,,Titulos de Deuda en Dolar Estadounidense Billete,38
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,,7.69,34702854,,,Titulos de Deuda en Dolar Estadounidense Billete,33
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,,5.23,23601551,,,Titulos de Deuda en Dolar Estadounidense Billete,74
+e,Bono Bopreal 2028 Serie 4 Clase A BPOA8,BCRA,BCRA,,4.95,22337988,,,Titulos de Deuda en Dolar Estadounidense Billete,6
+e,Caucion Colocadora U$S Merval,Caución,Caución Merval,USD,4.43,19991371,,,Operaciones a Plazo en Dolar Estadounidense Billete,55
+e,ON YPF 210727,ON,YPF,,2.53,11417194,,,Titulos de Deuda en Dolar Estadounidense Billete,14
+e,Bono Prov Cordoba 030235,Subsoberano,Prov. Cordoba,,1.71,7716760,,,Titulos de Deuda en Dolar Estadounidense Billete,29
+e,ON YPF Clase 32,ON,YPF,,1.7,7671632,,,Titulos de Deuda en Dolar Estadounidense Billete,15
+e,ON Banco Macro Clase H Reg S,ON,Banco Macro,,1.43,6453197,,,Titulos de Deuda en Dolar Estadounidense Billete,23
+e,FCI Megaqm Liquidez Dólar - Clase B,FCI,Megaqm Liquidez Dólar,USD,1.38,6227560,,,Certificados de Participacion Argentina,20
+e,ON YPF Clase 34,ON,YPF,,1.19,5370143,,,Titulos de Deuda en Dolar Estadounidense Billete,46
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,1.19,5370143,,,Titulos de Deuda en Peso Argentina,250
+e,ON Tecpetrol C10,ON,Tecpetrol,,1.13,5099379,,,Titulos de Deuda en Dolar Estadounidense Billete,33
+e,ON YPF Luz C20,ON,YPF Luz,,1.08,4873743,,,Titulos de Deuda en Dolar Estadounidense Billete,20
+e,ON Oiltanking S2,ON,Oiltanking,,1.05,4738361,,,Titulos de Deuda en Dolar Estadounidense Billete,13
+e,ON YPF Clase 42,ON,YPF,,0.99,4467598,,,Titulos de Deuda en Dolar Estadounidense Billete,48
+e,ON Oldelval Clase 6,ON,Oldelval,,0.95,4287089,,,Titulos de Deuda en Dolar Estadounidense Billete,41
+e,ON Cresud Clase 50,ON,Cresud,,0.92,4151707,,,Titulos de Deuda en Dolar Estadounidense Billete,19
+e,ON PCR Clase R,ON,PCR,,0.88,3971198,,,Titulos de Deuda en Dolar Estadounidense Billete,19
+e,ON Pluspetrol 8.5% 2032 (REGS),ON,Pluspetrol,,0.84,3790689,,,Titulos de Deuda en Dolar Estadounidense Billete,34
+e,ON YPF Luz C18 YFCJO,ON,YPF Luz,,0.83,3745562,,,Titulos de Deuda en Dolar Estadounidense Billete,41
+e,ON YPF Luz C19,ON,YPF Luz,,0.83,3745562,,,Titulos de Deuda en Dolar Estadounidense Billete,5
+e,ON Oiltanking S3,ON,Oiltanking,,0.8,3610180,,,Titulos de Deuda en Dolar Estadounidense Billete,13
+e,ON Pluspetrol Clase 1,ON,Pluspetrol,,0.79,3565053,,,Titulos de Deuda en Dolar Estadounidense Billete,13
+e,ON Loma Negra C7,ON,Loma Negra,,0.78,3519925,,,Titulos de Deuda en Dolar Estadounidense Billete,30
+e,ON Pan American C37,ON,Pan American,,0.75,3384544,,,Titulos de Deuda en Dolar Estadounidense Billete,18
+e,ON Bco Galicia Clase 16,ON,Banco Galicia,,0.74,3339416,,,Titulos de Deuda en Dolar Estadounidense Billete,23
+e,ON Banco Macro Clase G,ON,Banco Macro,,0.72,3249162,,,Titulos de Deuda en Dolar Estadounidense Billete,32
+e,ON John Deere Cia. Fin C16,ON,John Deere Cia. Fin,,0.7,3158907,,,Titulos de Deuda en Dolar Estadounidense Billete,10
+e,ON Tecpetrol C8,ON,Tecpetrol,,0.67,3023526,,,Titulos de Deuda en Dolar Estadounidense Billete,13
+e,ON Pampa Energia C22,ON,Pampa Energia,,0.67,3023526,,,Titulos de Deuda en Dolar Estadounidense Billete,18
+e,ON Vaca Muerta C1,ON,Vaca Muerta,,0.67,3023526,,,Titulos de Deuda en Dolar Estadounidense Billete,45
+e,Premier Corto Plazo en Dólares - Clase B,FCI,ier Corto Plazo en Dólares,USD,0.67,3023526,,,Certificados de Participacion Argentina,2
+e,ON Pampa Energia C29,ON,Pampa Energia,,0.66,2978398,,,Titulos de Deuda en Dolar Estadounidense Billete,28
+e,ON Central Puerto Clase D,ON,Central Puerto,,0.66,2978398,,,Titulos de Deuda en Dolar Estadounidense Billete,24
+e,ON Oiltanking S4 C1,ON,Oiltanking,,0.65,2933271,,,Titulos de Deuda en Dolar Estadounidense Billete,10
+e,Bono Prov Mendoza 2029,Subsoberano,Prov. Mendoza,,0.59,2662508,,,Titulos de Deuda en Dolar Estadounidense Billete,16
+e,Bono del Tesoro Nacional AN29,Soberano,Tesoro Nacional,,0.53,2391744,,,Titulos de Deuda en Dolar Estadounidense Billete,25
+e,ON YPF Luz C23,ON,YPF Luz,,0.53,2391744,,,Titulos de Deuda en Dolar Estadounidense Billete,15
+e,ON CNH Arg. C7,ON,CNH Arg,,0.5,2256362,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,0.48,2166108,,,Certificados de Participacion Argentina,37
+e,ON Cresud S31 C47,ON,Cresud,,0.47,2120981,,,Titulos de Deuda en Dolar Estadounidense Billete,18
+e,ON Edenor C11,ON,Edenor,,0.46,2075853,,,Titulos de Deuda en Dolar Estadounidense Billete,31
+e,ON CGC C 40,ON,CGC,,0.46,2075853,,,Titulos de Deuda en Dolar Estadounidense Billete,10
+e,ON Capex C12,ON,Capex,,0.46,2075853,,,Titulos de Deuda en Dolar Estadounidense Billete,20
+e,ON YPF Luz C17,ON,YPF Luz,,0.45,2030726,,,Titulos de Deuda en Dolar Estadounidense Billete,4
+e,ON Genneia Clase 47,ON,Genneia,,0.45,2030726,,,Titulos de Deuda en Dolar Estadounidense Billete,21
+e,FCI Max Money Market Dólares - Clase B,FCI,Max Money Market Dólares,USD,0.45,2030726,,,Certificados de Participacion Argentina,11
+e,ON Edenor C7 DNC7O,ON,Edenor,,0.45,2030726,,,Titulos de Deuda en Dolar Estadounidense Billete,13
+e,ON CGC C 36,ON,CGC,,0.4,1805090,,,Titulos de Deuda en Dolar Estadounidense Billete,15
+e,ON Aluar Serie 8,ON,Aluar,,0.39,1759963,,,Titulos de Deuda en Dolar Estadounidense Billete,6
+e,ON Mega C1,ON,Mega,,0.3,1353817,,,Titulos de Deuda en Dolar Estadounidense Billete,16
+e,ON Sidersa Clase 2,ON,Sidersa,,0.3,1353817,,,Titulos de Deuda en Dolar Estadounidense Billete,13
+e,ON YPF Luz Clase 15,ON,YPF Luz,,0.29,1308690,,,Titulos de Deuda en Dolar Estadounidense Billete,6
+e,ON Tecpetrol C13,ON,Tecpetrol,,0.26,1173308,,,Titulos de Deuda en Dolar Estadounidense Billete,24
+e,ON Oldelval Clase 7,ON,Oldelval,,0.24,1083054,,,Titulos de Deuda en Dolar Estadounidense Billete,41
+e,ON Epec C1,ON,Epec,,0.22,992799.4732,,,Titulos de Deuda en Dolar Estadounidense Billete,14
+e,ON Pan Amer. Energy C 12,ON,Pan Amer. Energy,,0.21,947672.2244,,,Titulos de Deuda en Dolar Estadounidense Billete,34
+e,ON Oldelval Clase 2,ON,Oldelval,ARS,0.21,947672.2244,,,Titulos de Deuda en Peso Argentina,16
+e,ON Pampa Energia C13,ON,Pampa Energia,ARS,0.21,947672.2244,,,Titulos de Deuda en Peso Argentina,30
+e,ON CNH Arg. C11,ON,CNH Arg,,0.19,857417.7269,,,Titulos de Deuda en Dolar Estadounidense Billete,9
+e,ON Banco de Galicia 30 BYCWO,ON,Banco de Galicia,,0.09,406145.239,,,Titulos de Deuda en Dolar Estadounidense Billete,11
+p,Superfondo Renta Fija Dólares,Santander,RF USD GL Inc ARG,32.7775,0.4379,22,,,,
+p,Crecer Renta Dólares,Ciudad,RF USD Disc,31.8312,0.4384,4,,,,
+p,Parakeet Cobalto Advanced Strategy Fund,Parakeet,RF USD Disc,30.8096,0.6282,3,,,,
+p,Novus Capital,Novus,RM y Otros USD,29.3143,0.4789,16,,,,
+p,IOL Dólar Ahorro Plus,Adcap,RF USD Disc,23.1798,0.2806,10,,,,
+p,Novus Ahorro Dólares,Novus,RF USD Disc,23.1729,0.4411,3,,,,
+p,Balanz Capital Renta Fija en Dólares,Balanz,RF USD Disc,22.9869,0.4406,4,,,,
+p,Consultatio Gestion XI Dolar,Consultatio,RF USD Disc,22.851,0.4493,6,,,,

@@ -1,0 +1,92 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Superfondo Acciones Brasil,,,,,,,,
+m,gerente,Santander Asset Management G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Santander Argentina S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,RV Global,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Latinoamerica,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,41663938,,,,,,,,
+m,aum_planilla,41684305,,,,,,,,
+m,dif_pn_aum,-0.0005,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63444,,,,,,,,
+m,n_especies,39,,,,,,,,
+m,activos_pn,100.71,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,9.47,,,,,,,,
+m,top1,12.84,,,,,,,,
+m,top5,48.4,,,,,,,,
+m,top10,64.2,,,,,,,,
+m,hhi_especies,589.107,,,,,,,,
+m,n_emisores,37,,,,,,,,
+m,emisor_top,Petroleo Brasileiro,,,,,,,,
+m,emisor_top_pct,12.84,,,,,,,,
+m,hhi_emisores,593.4652,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,80.29,33,,,,,,,
+t,ETF,7.33,1,,,,,,,
+t,Cedear,3.62,5,,,,,,,
+c,sin dato,87.48,,,,,,,,
+c,ARS,3.76,,,,,,,,
+r,Disponibilidades,9.47,,,,,,,,
+r,Participaciones Accionarias Brasil,75.91,,,,,,,,
+r,Participaciones Accionarias Estados Unidos,4.24,,,,,,,,
+r,Participaciones Accionarias Argentina,3.76,,,,,,,,
+r,Certificados de Participacion Estados Unidos,7.33,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.71,,,,,,,,
+e,Petroleo Brasileiro S.A.,Acción,Petroleo Brasileiro,,12.84,5349650,,,Participaciones Accionarias Brasil,5
+e,Banco Itau Holding Financiera S.A.,Acción,Banco Itau Holding Financiera,,10.5,4374714,,,Participaciones Accionarias Brasil,4
+e,NU Holdings Ltd,Acción,NU Holdings Ltd,,10.41,4337216,,,Participaciones Accionarias Brasil,3
+e,Ishares MSCI Brasil,ETF,Ishares MSCI Brasil,,7.33,3053967,,,Certificados de Participacion Estados Unidos,5
+e,Vale S.A.,Acción,Vale,,7.32,3049800,,,Participaciones Accionarias Brasil,4
+e,Banco Bradesco Brasil S.A.,Acción,Banco Bradesco Brasil,,3.58,1491569,,,Participaciones Accionarias Brasil,4
+e,Bolsa de Sao Pablo,Acción,Bolsa de Sao Pablo,,3.44,1433239,,,Participaciones Accionarias Brasil,3
+e,Axia Energía,Acción,Axia Energía,,3.35,1395742,,,Participaciones Accionarias Brasil,1
+e,Weg S.A.,Acción,Weg,,2.79,1162424,,,Participaciones Accionarias Brasil,4
+e,Embraer Empresa Brasilera de Aeronautica S.A.,Acción,Embraer Empresa Brasilera de Aeronautica,,2.64,1099928,,,Participaciones Accionarias Brasil,3
+e,Companhia Saneamento Basico Sao Paulo,Acción,Companhia Saneamento Basico Sao Paulo,,2.46,1024933,,,Participaciones Accionarias Brasil,3
+e,ADR Petrobras ON,Acción,ADR Petrobras ON,,2.46,1024933,,,Participaciones Accionarias Estados Unidos,3
+e,Suzano Bahia Sul Papel e Celulose S.A.,Acción,Suzano Bahia Sul Papel e Celulose,,2.24,933272.2159,,,Participaciones Accionarias Brasil,2
+e,Ambev S.A.,Acción,Ambev,,2.2,916606.6406,,,Participaciones Accionarias Brasil,3
+e,Gerdau S.A.,Acción,Gerdau,,1.98,824945.9766,,,Participaciones Accionarias Brasil,2
+e,Banco do Brasil S.A.,Acción,Banco do Brasil,,1.83,762450.0692,,,Participaciones Accionarias Brasil,9
+e,XP Inc.,Acción,XP Inc,,1.81,754117.2816,,,Participaciones Accionarias Brasil,1
+e,Equatorial Energia,Acción,Equatorial Energia,,1.79,745784.494,,,Participaciones Accionarias Brasil,3
+e,ADR Itau Unibanco Holding,Acción,ADR Itau Unibanco Holding,,1.78,741618.1001,,,Participaciones Accionarias Estados Unidos,2
+e,Cedear Vale R Doce ON ADR,Cedear,Vale R Doce ON ADR,ARS,1.65,687454.9805,,,Participaciones Accionarias Argentina,12
+e,Petro Rio S.A.,Acción,Petro Rio,,1.38,574962.3473,,,Participaciones Accionarias Brasil,1
+e,Cedear Petrobras,Cedear,Petrobras,ARS,1.3,541631.1967,,,Participaciones Accionarias Argentina,10
+e,Rumo Logistica,Acción,Rumo Logistica,,1.24,516632.8338,,,Participaciones Accionarias Brasil,2
+e,Centrais Eletricas Brasileiras S.A. Eletrobras,Acción,Centrais Eletricas Brasileiras S.A. Eletrobras,,0.71,295813.9613,,,Participaciones Accionarias Brasil,1
+e,Companhia Energetica de Minas Gerais S.A.,Acción,Companhia Energetica de Minas Gerais,,0.34,141657.3899,,,Participaciones Accionarias Brasil,3
+e,Localiza Rent a Car S.A.,Acción,Localiza Rent a Car,,0.29,120825.4208,,,Participaciones Accionarias Brasil,2
+e,Cedear Banco Bradesco,Cedear,Banco Bradesco,ARS,0.27,112492.6332,,,Participaciones Accionarias Argentina,10
+e,Cedear ADR Itau Unibanco Holding,Cedear,ADR Itau Unibanco Holding,ARS,0.23,95827.0579,,,Participaciones Accionarias Argentina,8
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,0.17,70828.695,,,Participaciones Accionarias Argentina,38
+e,Vibra Energia S.A.,Acción,Vibra Energia,ARS,0.14,58329.5135,,,Participaciones Accionarias Argentina,2
+e,Ultrapar Participacoes S.A.,Acción,Ultrapar Participacoes,,0.13,54163.1197,,,Participaciones Accionarias Brasil,2
+e,JBS S.A.,Acción,JBS,,0.11,45830.332,,,Participaciones Accionarias Brasil,2
+e,BB Seguridade Participacoes,Acción,BB Seguridade Participacoes,,0.11,45830.332,,,Participaciones Accionarias Brasil,1
+e,Motiva Infraestrutura de Mobilidade S.A. (Motiva),Acción,Motiva Infraestrutura de Mobilidade S.A. (Motiva),,0.1,41663.9382,,,Participaciones Accionarias Brasil,3
+e,Klabin S.A.,Acción,Klabin,,0.09,37497.5444,,,Participaciones Accionarias Brasil,1
+e,Totvs S.A.,Acción,Totvs,,0.08,33331.1506,,,Participaciones Accionarias Brasil,2
+e,Telefonica Brasil,Acción,Telefonica Brasil,,0.07,29164.7567,,,Participaciones Accionarias Brasil,3
+e,Tim Participacoes S.A.,Acción,Tim Participacoes,,0.06,24998.3629,,,Participaciones Accionarias Brasil,1
+e,Natura Cosmeticos S.A.,Acción,Natura Cosmeticos,,0.02,8332.7876,,,Participaciones Accionarias Brasil,2
+p,Fima Acciones Latinoamerica,Galicia,RV Global,51.6081,0.7248,13,,,,
+p,Superfondo Latinoamerica,Santander,RV Global,49.0596,0.7138,18,,,,
+p,Alpha Latam,ICBC,RV Global,32.4339,0.3807,13,,,,
+p,Argenfunds Calificado III,Argenfunds,RV Global,5.2827,0.0579,2,,,,
+p,Pionero Ahorro Dolár Plus,Macro,RF USD Disc,5.03,0.0495,4,,,,
+p,SF Value,Delta,RV ARG Otros,3.2332,0.0212,2,,,,
+p,DXA PMKT Total Return,Dracma,RV ARG Otros,2.2675,0.0205,1,,,,
+p,Allaria Equity Selection,Allaria,RV Global,2.192,0.0116,2,,,,

@@ -1,0 +1,71 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pionero Ahorro Dólares,,,,,,,,
+m,gerente,Macro Fondos S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD corp loc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,113981806,,,,,,,,
+m,aum_planilla,113981806,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63796,,,,,,,,
+m,n_especies,21,,,,,,,,
+m,activos_pn,103.29,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,25.23,,,,,,,,
+m,top1,19.3,,,,,,,,
+m,top5,61.24,,,,,,,,
+m,top10,86.34,,,,,,,,
+m,hhi_especies,1007.3836,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Caución BYMA,,,,,,,,
+m,emisor_top_pct,19.3,,,,,,,,
+m,hhi_emisores,1263.2676,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,77.79,19,,,,,,,
+t,Caución,19.3,1,,,,,,,
+t,Corporativo exterior,0.27,1,,,,,,,
+c,USD,97.36,,,,,,,,
+r,Disponibilidades,5.93,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,78.06,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,19.3,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),3.29,,,,,,,,
+e,Caucion Colocadora U$S BYMA,Caución,Caución BYMA,USD,19.3,21998489,,,Operaciones a Plazo en Dolar Estadounidense,35
+e,ON Bco Galicia Clase 16,ON,Banco Galicia,USD,14.5,16527362,,,Titulos de Deuda en Dolar Estadounidense,23
+e,ON Tecpetrol C12,ON,Tecpetrol,USD,9.83,11204412,,,Titulos de Deuda en Dolar Estadounidense,60
+e,ON Telecom 9.5% 2031,ON,Telecom,USD,9.24,10531919,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON Transp Gas Sur Cl 3,ON,Transp Gas Sur,USD,8.37,9540277,,,Titulos de Deuda en Dolar Estadounidense,43
+e,ON YPF C 17,ON,YPF,USD,8.22,9369304,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Pluspetrol Clase 5,ON,Pluspetrol,USD,7.28,8297875,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON YPF Clase 31,ON,YPF,USD,3.82,4354105,,,Titulos de Deuda en Dolar Estadounidense,48
+e,ON YPF 2029,ON,YPF,USD,2.94,3351065,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Inversora Juramento C6 JNC6O,ON,Inversora Juramento,USD,2.84,3237083,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON Pan American C38,ON,Pan American,USD,2.81,3202889,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Pluspetrol 8.5% 2032 (REGS),ON,Pluspetrol,USD,2.41,2746962,,,Titulos de Deuda en Dolar Estadounidense,34
+e,ON YPF 210727,ON,YPF,USD,2.31,2632980,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON Pan American C31,ON,Pan American,USD,0.74,843465.365,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON Cresud S32 C48,ON,Cresud,USD,0.54,615501.7528,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Genneia Clase 47,ON,Genneia,USD,0.44,501519.9468,,,Titulos de Deuda en Dolar Estadounidense,21
+e,ON YPF Clase 28,ON,YPF,USD,0.4,455927.2243,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Pan Amer. Energy C 12,ON,Pan Amer. Energy,USD,0.4,455927.2243,,,Titulos de Deuda en Dolar Estadounidense,34
+e,ON Aeropuertos 2000 Regs 2031,ON,Aeropuertos,USD,0.37,421732.6825,,,Titulos de Deuda en Dolar Estadounidense,22
+e,ON Capex C5 9.250%,ON,Capex,USD,0.33,376139.9601,,,Titulos de Deuda en Dolar Estadounidense,13
+e,BC AES 9.5%,Corporativo exterior,AES,USD,0.27,307750.8764,,,Titulos de Deuda en Dolar Estadounidense,12
+p,Pionero Renta Dólar Estrategia,Macro,RF USD GL Inc ARG,35.0881,0.5867,10,,,,
+p,Balanz Ahorro en Dólares,Balanz,RF USD corp loc,31.4947,0.4165,10,,,,
+p,Balanz Capital Estrategia V USD,Balanz,RF USD corp loc,28.0266,0.3203,5,,,,
+p,Compass Best Ideas,Investis,RF USD corp loc,23.869,0.2503,13,,,,
+p,Balanz Crecimiento FCI Ab para Financ Infra y Econ Real,Balanz,INFRA,23.561,0.2897,6,,,,
+p,Galileo Multi Strategy II,Delta,RF USD corp loc,22.9031,0.2059,6,,,,
+p,Tandem Global IV,Tandem Capi..,RF USD Disc,21.2496,0.2581,3,,,,
+p,MEGAQM Corporativo Dólares,MegaQM,RF USD corp loc,20.6855,0.4276,13,,,,

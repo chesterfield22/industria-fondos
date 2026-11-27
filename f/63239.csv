@@ -1,0 +1,63 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Fima Balanceado,,,,,,,,
+m,gerente,Galicia Asset Management S.A.U.,,,,,,,,
+m,depositaria,Banco de Galicia y Buenos Aires S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,11986489256,,,,,,,,
+m,aum_planilla,11986489256,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63239,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,99.87,,,,,,,,
+m,pasivos_cnv,0.13,,,,,,,,
+m,liquidez,0.62,,,,,,,,
+m,top1,22.41,,,,,,,,
+m,top5,74.5,,,,,,,,
+m,top10,99.09,,,,,,,,
+m,hhi_especies,1340.8787,,,,,,,,
+m,n_emisores,4,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,89.9,,,,,,,,
+m,hhi_emisores,8145.0649,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,89.9,8,,,,,,,
+t,Subsoberano,7.82,1,,,,,,,
+t,Fideicomiso financiero,1.37,1,,,,,,,
+t,FCI,0.16,1,,,,,,,
+c,ARS,97.72,,,,,,,,
+c,sin dato,1.53,,,,,,,,
+r,Disponibilidades,0.62,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,97.72,,,,,,,,
+r,Certificados de Participacion Argentina,1.53,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.13,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.13,,,,,,,,
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,22.41,2686172242,,,Titulos de Deuda en Peso Argentina,142
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,14.01,1679307145,,,Titulos de Deuda en Peso Argentina,158
+e,Boncer TZXY7,Soberano,Tesoro Nacional,ARS,13.9,1666122007,,,Titulos de Deuda en Peso Argentina,76
+e,Bono del Tesoro Nacional TZV27,Soberano,Tesoro Nacional,ARS,12.83,1537866572,,,Titulos de Deuda en Peso Argentina,21
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,11.35,1360466531,,,Titulos de Deuda en Peso Argentina,146
+e,Bono Prov Mendoza TAMAR C2,Subsoberano,Prov. Mendoza TAMAR,ARS,7.82,937343460,,,Titulos de Deuda en Peso Argentina,24
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,7.34,879808311,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,5.81,696415026,,,Titulos de Deuda en Peso Argentina,165
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,2.25,269696008,,,Titulos de Deuda en Peso Argentina,149
+e,FF Mercado Credito 44 CA,Fideicomiso financiero,Mercado Credito,,1.37,164214903,,,Certificados de Participacion Argentina,26
+e,FCI Pionero Pesos - Clase A,FCI,Pionero Pesos,,0.16,19178383,,,Certificados de Participacion Argentina,14
+p,MEGAQM Acciones Latam,MegaQM,T+1,50.7003,0.6278,3,,,,
+p,Toronto Trust Estrategico,Investis,RF ARS Disc,47.0056,0.5627,5,,,,
+p,Champaquí Ahorro Mixto,Bancor,RF ARS CER,46.9521,0.6113,4,,,,
+p,Delta Performance,Delta,T+1,43.5707,0.6224,3,,,,
+p,Pionero Multiestrategia Mix,Macro,RF MULT Disc,42.2803,0.5483,4,,,,
+p,Pellegrini Renta Fija II,Pellegrini,T+1,41.9513,0.5265,5,,,,
+p,Pionero Crecimiento,Macro,RF MULT Disc,41.8817,0.5194,5,,,,
+p,Pionero Renta,Macro,RF ARS CER,41.5183,0.5003,4,,,,

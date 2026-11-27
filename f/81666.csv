@@ -1,0 +1,121 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,First Renta Mixta I,,,,,,,,
+m,gerente,First Capital Markets S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,26931865988,,,,,,,,
+m,aum_planilla,26931865988,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/81666,,,,,,,,
+m,n_especies,66,,,,,,,,
+m,activos_pn,102.13,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,6.54,,,,,,,,
+m,top1,23.19,,,,,,,,
+m,top5,69.72,,,,,,,,
+m,top10,80.32,,,,,,,,
+m,hhi_especies,1262.2362,,,,,,,,
+m,n_emisores,42,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,58.56,,,,,,,,
+m,hhi_emisores,3586.5681,,,,,,,,
+m,sin_emisor_pct,1.71,,,,,,,,
+t,Soberano,58.56,4,,,,,,,
+t,ON,14.69,27,,,,,,,
+t,Fideicomiso financiero,11.6,32,,,,,,,
+t,Subsoberano,9.04,1,,,,,,,
+t,Pase,6.52,1,,,,,,,
+t,Cheque,1.71,1,,,,,,,
+c,ARS,90.52,,,,,,,,
+c,sin dato,11.6,,,,,,,,
+r,Disponibilidades,0.02,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,83.99,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,6.52,,,,,,,,
+r,Certificados de Participacion Argentina,11.6,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),2.13,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,23.19,6245499723,,,Titulos de Deuda en Peso Argentina,250
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,21.81,5873839972,,,Titulos de Deuda en Peso Argentina,103
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,9.16,2466958925,,,Titulos de Deuda en Peso Argentina,56
+e,Bono Prov de Buenos Aires TZV28,Subsoberano,Prov. Buenos Aires,ARS,9.04,2434640685,,,Titulos de Deuda en Peso Argentina,46
+e,Pase Colocador ARS MAV,Pase,Pase MAV,ARS,6.52,1755957662,,,Operaciones a Plazo en Peso Argentina,9
+e,Bono Dual TXMJ8,Soberano,Tesoro Nacional,ARS,4.4,1185002103,,,Titulos de Deuda en Peso Argentina,45
+e,Cheque E *MAV100301672,Cheque,,ARS,1.71,460534908,,,Titulos de Deuda en Peso Argentina,1
+e,ON YPF Clase 42,ON,YPF,ARS,1.57,422830296,,,Titulos de Deuda en Peso Argentina,48
+e,FF Crucianelli S1 CA,Fideicomiso financiero,Crucianelli,,1.48,398591617,,,Certificados de Participacion Argentina,10
+e,FF Megabono 326 Clase B,Fideicomiso financiero,Megabono,,1.44,387818870,,,Certificados de Participacion Argentina,5
+e,ON Pluspetrol Clase 6,ON,Pluspetrol,ARS,0.94,253159540,,,Titulos de Deuda en Peso Argentina,43
+e,ON Pan American C37,ON,Pan American,ARS,0.85,228920861,,,Titulos de Deuda en Peso Argentina,18
+e,FF Megabono 340 Clase B,Fideicomiso financiero,Megabono,,0.81,218148115,,,Certificados de Participacion Argentina,6
+e,ON Scania Credit C2,ON,Scania Credit,ARS,0.74,199295808,,,Titulos de Deuda en Peso Argentina,11
+e,ON CNH Arg. C10,ON,CNH Arg,ARS,0.64,172363942,,,Titulos de Deuda en Peso Argentina,13
+e,ON Oldelval Clase 5,ON,Oldelval,ARS,0.63,169670756,,,Titulos de Deuda en Peso Argentina,34
+e,ON Loma Negra C6,ON,Loma Negra,ARS,0.63,169670756,,,Titulos de Deuda en Peso Argentina,19
+e,ON John Deere Cia. Fin C19,ON,John Deere Cia. Fin,ARS,0.63,169670756,,,Titulos de Deuda en Peso Argentina,20
+e,FF Elebar XVII Clase A,Fideicomiso financiero,Elebar XVII,,0.63,169670756,,,Certificados de Participacion Argentina,10
+e,FF Agrocap S5 CA,Fideicomiso financiero,Agrocap,,0.63,169670756,,,Certificados de Participacion Argentina,9
+e,ON John Deere Cia. Fin C20,ON,John Deere Cia. Fin,ARS,0.62,166977569,,,Titulos de Deuda en Peso Argentina,19
+e,ON Pluspetrol Clase 3,ON,Pluspetrol,ARS,0.62,166977569,,,Titulos de Deuda en Peso Argentina,18
+e,FF Agrocap S4,Fideicomiso financiero,Agrocap,,0.61,164284383,,,Certificados de Participacion Argentina,6
+e,ON Del Fabro Hnos S1 DFS1L,ON,Del Fabro Hnos,ARS,0.61,164284383,,,Titulos de Deuda en Peso Argentina,16
+e,ON Diransa C2,ON,Diransa,ARS,0.6,161591196,,,Titulos de Deuda en Peso Argentina,13
+e,ON Pampa Energia C22,ON,Pampa Energia,ARS,0.6,161591196,,,Titulos de Deuda en Peso Argentina,18
+e,ON Pyme Gar Bajo Imp Apache S1 C1,ON,Pyme Gar Bajo Imp Apache,ARS,0.6,161591196,,,Titulos de Deuda en Peso Argentina,14
+e,ON Diesel Lange S1,ON,Diesel Lange,ARS,0.6,161591196,,,Titulos de Deuda en Peso Argentina,10
+e,ON John Deere Cia. Fin C21,ON,John Deere Cia. Fin,ARS,0.59,158898009,,,Titulos de Deuda en Peso Argentina,7
+e,ON Pyme Gar Venturino S2,ON,Pyme Gar Venturino,ARS,0.59,158898009,,,Titulos de Deuda en Peso Argentina,13
+e,ON Sidersa Clase 2,ON,Sidersa,ARS,0.58,156204823,,,Titulos de Deuda en Peso Argentina,13
+e,FF Moni Mobile 19 A,Fideicomiso financiero,Moni Mobile,,0.57,153511636,,,Certificados de Participacion Argentina,9
+e,ON Arcor C5,ON,Arcor,ARS,0.55,148125263,,,Titulos de Deuda en Peso Argentina,13
+e,FF Venturino S1 A,Fideicomiso financiero,Venturino,,0.43,115807024,,,Certificados de Participacion Argentina,7
+e,FF Mercado Credito 49 CA,Fideicomiso financiero,Mercado Credito,,0.37,99647904,,,Certificados de Participacion Argentina,25
+e,FF Mercado Credito 50 CA,Fideicomiso financiero,Mercado Credito,,0.37,99647904,,,Certificados de Participacion Argentina,29
+e,FF Mercado Credito 51 CA,Fideicomiso financiero,Mercado Credito,,0.37,99647904,,,Certificados de Participacion Argentina,34
+e,FF Moni Mobile 18 A,Fideicomiso financiero,Moni Mobile,,0.35,94261531,,,Certificados de Participacion Argentina,10
+e,ON Oldelval Clase 6,ON,Oldelval,ARS,0.31,83488785,,,Titulos de Deuda en Peso Argentina,41
+e,ON Futuros y Opciones.com S4 CB,ON,Futuros y Opciones.com,ARS,0.3,80795598,,,Titulos de Deuda en Peso Argentina,7
+e,ON Supervielle Clase W,ON,Supervielle,ARS,0.3,80795598,,,Titulos de Deuda en Peso Argentina,22
+e,FF Creditech S7 CA,Fideicomiso financiero,Creditech,,0.29,78102411,,,Certificados de Participacion Argentina,10
+e,FF San Cristobal S2 CA,Fideicomiso financiero,San Cristobal,,0.26,70022852,,,Certificados de Participacion Argentina,12
+e,FF Tarj Fertil S26 CA,Fideicomiso financiero,Tarj Fertil,,0.25,67329665,,,Certificados de Participacion Argentina,11
+e,FF Waynimovil S14 CA,Fideicomiso financiero,Waynimovil,,0.25,67329665,,,Certificados de Participacion Argentina,9
+e,FF Megabono 347 Clase A,Fideicomiso financiero,Megabono,,0.24,64636478,,,Certificados de Participacion Argentina,10
+e,ON Oiltanking S3,ON,Oiltanking,ARS,0.24,64636478,,,Titulos de Deuda en Peso Argentina,13
+e,FF Megabono 348 Clase A,Fideicomiso financiero,Megabono,,0.22,59250105,,,Certificados de Participacion Argentina,11
+e,FF Megabono 351 Clase A,Fideicomiso financiero,Megabono,,0.22,59250105,,,Certificados de Participacion Argentina,13
+e,FF Megabono 353 Clase A,Fideicomiso financiero,Megabono,,0.22,59250105,,,Certificados de Participacion Argentina,11
+e,FF Creditech S6 CA,Fideicomiso financiero,Creditech,,0.21,56556919,,,Certificados de Participacion Argentina,11
+e,FF Confibono S86 Clase A,Fideicomiso financiero,Confibono,,0.21,56556919,,,Certificados de Participacion Argentina,9
+e,FF Inverlease FSA S2 CA,Fideicomiso financiero,Inverlease FSA,,0.18,48477359,,,Certificados de Participacion Argentina,13
+e,ON Oldelval Clase 3,ON,Oldelval,ARS,0.18,48477359,,,Titulos de Deuda en Peso Argentina,40
+e,FF Megabono 346 Clase A,Fideicomiso financiero,Megabono,,0.16,43090986,,,Certificados de Participacion Argentina,9
+e,FF Fiducar 32 Clase A,Fideicomiso financiero,Fiducar,,0.14,37704612,,,Certificados de Participacion Argentina,10
+e,FF AMFAyS S51 Clase A,Fideicomiso financiero,AMFAyS,,0.13,35011426,,,Certificados de Participacion Argentina,10
+e,FF Elebar XVI Clase A,Fideicomiso financiero,Elebar XVI,,0.13,35011426,,,Certificados de Participacion Argentina,9
+e,FF Moni Mobile 17 A,Fideicomiso financiero,Moni Mobile,,0.13,35011426,,,Certificados de Participacion Argentina,9
+e,ON Agronorte Serie 1,ON,Agronorte,ARS,0.1,26931866,,,Titulos de Deuda en Peso Argentina,16
+e,FF Provincia Leasing S 6A,Fideicomiso financiero,Provincia Leasing,,0.08,21545493,,,Certificados de Participacion Argentina,13
+e,FF Grupo GEP Colservice S1 CA,Fideicomiso financiero,Grupo GEP Colservice,,0.08,21545493,,,Certificados de Participacion Argentina,11
+e,FF Confibono S85 Clase A,Fideicomiso financiero,Confibono,,0.07,18852306,,,Certificados de Participacion Argentina,7
+e,FF Creditech S5 CA,Fideicomiso financiero,Creditech,,0.07,18852306,,,Certificados de Participacion Argentina,10
+e,ON Pan American C33,ON,Pan American,ARS,0.06,16159120,,,Titulos de Deuda en Peso Argentina,36
+e,ON BBVA Frances Cl 44,ON,BBVA Frances,ARS,0.01,2693187,,,Titulos de Deuda en Peso Argentina,24
+p,First Renta Mixta V,First Cap Mkts,RF USD Linked,78.3357,0.9717,37,,,,
+p,Novus Valor,Novus,RF USD Linked,59.5195,0.9054,4,,,,
+p,First Renta Mixta VII,First Cap Mkts,RF MULT Disc,57.9099,0.843,4,,,,
+p,Lombard Renta Fija,Patagonia,RF USD Linked,56.3845,0.9007,4,,,,
+p,First Renta Mixta III,First Cap Mkts,RF USD Linked,54.5715,0.764,4,,,,
+p,Schroder Patrimonio Dos,Schroder,RF MULT Disc,53.0356,0.8546,3,,,,
+p,MEGAQM Performance II,MegaQM,MM ARS Clásico,53.0356,0.8537,3,,,,
+p,Zofingen Dollar Linked,Zofingen Inv.,RF MULT Disc,48.0811,0.764,3,,,,

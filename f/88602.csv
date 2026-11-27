@@ -1,0 +1,74 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Adcap Patrimonio III,,,,,,,,
+m,gerente,Adcap Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD corp loc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,345226.57,,,,,,,,
+m,aum_planilla,345226.57,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88602,,,,,,,,
+m,n_especies,21,,,,,,,,
+m,activos_pn,100.07,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.5,,,,,,,,
+m,top1,22.6,,,,,,,,
+m,top5,58.36,,,,,,,,
+m,top10,77.99,,,,,,,,
+m,hhi_especies,976.4402,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,7.81,,,,,,,,
+m,hhi_emisores,135.7072,,,,,,,,
+m,sin_emisor_pct,65.34,,,,,,,,
+t,Pagaré,65.34,6,,,,,,,
+t,ON,22.32,9,,,,,,,
+t,Soberano,7.81,5,,,,,,,
+t,FCI,4.09,1,,,,,,,
+c,USD,96.87,,,,,,,,
+c,sin dato,2.69,,,,,,,,
+r,Disponibilidades,0.5,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,92.79,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Cable,2.69,,,,,,,,
+r,Certificados de Participacion Argentina,4.09,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.07,,,,,,,,
+e,Pagare #UMV030270022,Pagaré,,USD,22.6,78021.2048,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV070370004,Pagaré,,USD,11.2,38665.3758,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV100270073,Pagaré,,USD,9.02,31139.4366,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV190170005,Pagaré,,USD,8.55,29516.8717,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV120370015,Pagaré,,USD,6.99,24131.3372,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV190370018,Pagaré,,USD,6.98,24096.8146,,,Titulos de Deuda en Dolar Estadounidense,1
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,4.09,14119.7667,,,Certificados de Participacion Argentina,37
+e,ON YPF Clase 31,ON,YPF,USD,2.9,10011.5705,,,Titulos de Deuda en Dolar Estadounidense,48
+e,ON Telecom 9.5% 2031,ON,Telecom,USD,2.84,9804.4346,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON Vista Gas y Oil Arg C28,ON,Vista Gas y Oil Arg,USD,2.82,9735.3893,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON TGS C4 Reg S,ON,TGS,USD,2.76,9528.2533,,,Titulos de Deuda en Dolar Estadounidense,26
+e,ON Aeropuertos 2000 Regs 2031,ON,Aeropuertos,USD,2.74,9459.208,,,Titulos de Deuda en Dolar Estadounidense,22
+e,ON Pluspetrol Clase 5,ON,Pluspetrol,,2.69,9286.5947,,,Titulos de Deuda en Dolar Estadounidense Cable,38
+e,ON Edenor C10 DNCAO,ON,Edenor,USD,2.61,9010.4135,,,Titulos de Deuda en Dolar Estadounidense,26
+e,Bonos Rep Argentina GD38,Soberano,Tesoro Nacional,USD,2.16,7456.8939,,,Titulos de Deuda en Dolar Estadounidense,38
+e,Bonos Rep Argentina GD29,Soberano,Tesoro Nacional,USD,2.1,7249.758,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Tecpetrol C12,ON,Tecpetrol,USD,1.5,5178.3985,,,Titulos de Deuda en Dolar Estadounidense,60
+e,ON Pampa Energia C27,ON,Pampa Energia,USD,1.46,5040.3079,,,Titulos de Deuda en Dolar Estadounidense,32
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,USD,1.38,4764.1267,,,Titulos de Deuda en Dolar Estadounidense,72
+e,Bonos Rep Argentina GD35,Soberano,Tesoro Nacional,USD,1.36,4695.0814,,,Titulos de Deuda en Dolar Estadounidense,54
+e,Bonos Rep Argentina GD30,Soberano,Tesoro Nacional,USD,0.81,2796.3352,,,Titulos de Deuda en Dolar Estadounidense,37
+p,Balanz Ahorro en Dólares,Balanz,RF USD corp loc,15.9803,0.0978,8,,,,
+p,MEGAQM Corporativo Dólares,MegaQM,RF USD corp loc,12.7563,0.0894,6,,,,
+p,Consultatio Gestion XI Dolar,Consultatio,RF USD Disc,12.7168,0.0744,8,,,,
+p,Compass Best Ideas,Investis,RF USD corp loc,12.3539,0.0789,5,,,,
+p,Consultatio Multimercado III,Consultatio,RF USD corp loc,12.2303,0.0824,7,,,,
+p,Schroder Renta Global,Schroder,RM y Otros ARS,11.9398,0.0697,12,,,,
+p,Balanz Capital Estrategia V USD,Balanz,RF USD corp loc,11.4403,0.085,5,,,,
+p,MAF Mix II,Mariva,RF USD corp loc,11.3722,0.0545,5,,,,

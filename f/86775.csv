@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,SBS Patrimonio X,,,,,,,,
+m,gerente,SBS Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,7581431854,,,,,,,,
+m,aum_planilla,7581431854,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86775,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,100.58,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,20.55,,,,,,,,
+m,top5,67.34,,,,,,,,
+m,top10,95.93,,,,,,,,
+m,hhi_especies,1252.3095,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,65.44,,,,,,,,
+m,hhi_emisores,4386.8967,,,,,,,,
+m,sin_emisor_pct,19,,,,,,,,
+t,Soberano,65.44,5,,,,,,,
+t,Subsoberano,13.37,2,,,,,,,
+t,Cheque,12.62,4,,,,,,,
+t,Pagaré,6.38,1,,,,,,,
+t,FCI,2.78,2,,,,,,,
+c,ARS,97.81,,,,,,,,
+c,sin dato,2.78,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,97.8,,,,,,,,
+r,Certificados de Participacion Argentina,2.78,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.58,,,,,,,,
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,20.55,1557984246,,,Titulos de Deuda en Peso Argentina,166
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,20.02,1517802657,,,Titulos de Deuda en Peso Argentina,80
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,10.05,761933901,,,Titulos de Deuda en Peso Argentina,86
+e,Bono Muni Cordoba S2 13022027,Subsoberano,Muni. Cordoba,ARS,8.67,657310142,,,Titulos de Deuda en Peso Argentina,29
+e,Cheque E *MAV061101771,Cheque,,ARS,8.05,610305264,,,Titulos de Deuda en Peso Argentina,1
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,7.49,567849246,,,Titulos de Deuda en Peso Argentina,165
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,7.33,555718955,,,Titulos de Deuda en Peso Argentina,149
+e,Pagare $MAV181260032,Pagaré,,ARS,6.38,483695352,,,Titulos de Deuda en Peso Argentina,1
+e,Letra Prov Bs As PBA27,Subsoberano,Prov. Buenos Aires,ARS,4.7,356327297,,,Titulos de Deuda en Peso Argentina,38
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,2.69,203940517,,,Certificados de Participacion Argentina,96
+e,Cheque E *MAV071101743,Cheque,,ARS,2.49,188777653,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181101769,Cheque,,ARS,1.07,81121321,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281101766,Cheque,,ARS,1.01,76572462,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,0.09,6823289,,,Certificados de Participacion Argentina,47
+p,Alpha Renta Crecimiento,ICBC,T+1,60.2843,0.8362,5,,,,
+p,Alpha Renta Fija Serie 6,ICBC,T+1,57.737,0.845,5,,,,
+p,Champaquí Renta Plus,Bancor,RF ARS Lecap,50.9596,0.6694,4,,,,
+p,Alpha Renta Fija Serie 4,ICBC,RF ARS Lecap,46.8689,0.6306,3,,,,
+p,Pionero Renta Pesos,Macro,RF ARS Lecap,43.8116,0.6082,4,,,,
+p,Stonex Global VI,StoneX,RM y Otros ARS,43.6475,0.6526,4,,,,
+p,Adcap Balanceado XVI,Adcap,RF ARS Lecap,41.5561,0.6622,3,,,,
+p,Pionero Patrimonio I,Macro,RF ARS Lecap,39.939,0.6368,4,,,,

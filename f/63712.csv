@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Delta Performance,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,26572998745,,,,,,,,
+m,aum_planilla,26572998745,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63712,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,92.14,,,,,,,,
+m,pasivos_cnv,7.86,,,,,,,,
+m,liquidez,0.04,,,,,,,,
+m,top1,28.23,,,,,,,,
+m,top5,76.48,,,,,,,,
+m,top10,87.65,,,,,,,,
+m,hhi_especies,1569.8568,,,,,,,,
+m,n_emisores,4,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,72.79,,,,,,,,
+m,hhi_emisores,5492.2924,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,72.79,5,,,,,,,
+t,Fideicomiso financiero,12.13,7,,,,,,,
+t,Subsoberano,6.83,1,,,,,,,
+t,FCI,0.35,1,,,,,,,
+c,ARS,79.62,,,,,,,,
+c,sin dato,12.48,,,,,,,,
+r,Disponibilidades,0.04,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,79.62,,,,,,,,
+r,Certificados de Participacion Argentina,12.48,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,7.86,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-7.86,,,,,,,,
+e,Boncer TZXY7,Soberano,Tesoro Nacional,ARS,28.23,7501557546,,,Titulos de Deuda en Peso Argentina,76
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,20.4,5420891744,,,Titulos de Deuda en Peso Argentina,142
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,15.85,4211820301,,,Titulos de Deuda en Peso Argentina,160
+e,Bono Prov Mendoza TAMAR C2,Subsoberano,Prov. Mendoza TAMAR,ARS,6.83,1814935814,,,Titulos de Deuda en Peso Argentina,24
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,5.17,1373824035,,,Titulos de Deuda en Peso Argentina,92
+e,Bono CER TZX27,Soberano,Tesoro Nacional,ARS,3.14,834392161,,,Titulos de Deuda en Peso Argentina,43
+e,FF Mercado Credito 54 CA,Fideicomiso financiero,Mercado Credito,,2.24,595235172,,,Certificados de Participacion Argentina,28
+e,FF Mercado Credito 49 CA,Fideicomiso financiero,Mercado Credito,,1.99,528802675,,,Certificados de Participacion Argentina,25
+e,FF Mercado Credito 47 CA,Fideicomiso financiero,Mercado Credito,,1.9,504886976,,,Certificados de Participacion Argentina,35
+e,FF Mercado Credito 48 CA,Fideicomiso financiero,Mercado Credito,,1.9,504886976,,,Certificados de Participacion Argentina,27
+e,FF Mercado Credito 53 CA,Fideicomiso financiero,Mercado Credito,,1.87,496915077,,,Certificados de Participacion Argentina,25
+e,FF Mercado Credito 52 CA,Fideicomiso financiero,Mercado Credito,,1.13,300274886,,,Certificados de Participacion Argentina,21
+e,FF Mercado Credito 55 CA,Fideicomiso financiero,Mercado Credito,,1.1,292302986,,,Certificados de Participacion Argentina,30
+e,FCI Pionero Pesos Plus - Clase B,FCI,Pionero Pesos Plus,,0.35,93005496,,,Certificados de Participacion Argentina,40
+p,Fima Balanceado,Galicia,RF MULT Disc,43.5707,0.6224,3,,,,
+p,Novus Liquidez Plus,Novus,T+1,40.5863,0.4824,3,,,,
+p,MEGAQM Acciones Latam,MegaQM,T+1,37.9309,0.4907,2,,,,
+p,Delta Patrimonio I,Delta,RV Global,36.6176,0.3998,2,,,,
+p,Gainvest Renta Fija,StoneX,T+1,35.8517,0.4568,2,,,,
+p,First Renta Pesos,First Cap Mkts,T+1,32.7309,0.4756,9,,,,
+p,Parakeet Renta Pesos,Parakeet,T+1,32.1147,0.4583,2,,,,
+p,Schroder Renta Performance,Schroder,RF ARS CER,30.6074,0.4583,1,,,,

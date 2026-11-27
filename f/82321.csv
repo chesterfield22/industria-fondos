@@ -1,0 +1,70 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,BM Active Renta Fija Argentina,,,,,,,,
+m,gerente,Bull Market Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS CER,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,16456806622,,,,,,,,
+m,aum_planilla,16456806622,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/82321,,,,,,,,
+m,n_especies,16,,,,,,,,
+m,activos_pn,99.62,,,,,,,,
+m,pasivos_cnv,0.38,,,,,,,,
+m,liquidez,10.43,,,,,,,,
+m,top1,23.05,,,,,,,,
+m,top5,61.89,,,,,,,,
+m,top10,89.65,,,,,,,,
+m,hhi_especies,1096.2349,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,86.72,,,,,,,,
+m,hhi_emisores,7608.185,,,,,,,,
+m,sin_emisor_pct,1.19,,,,,,,,
+t,Soberano,86.72,11,,,,,,,
+t,Caución,9.33,1,,,,,,,
+t,FCI,1.21,2,,,,,,,
+t,Cheque,1.19,1,,,,,,,
+t,Fideicomiso financiero,0.06,1,,,,,,,
+c,ARS,97.24,,,,,,,,
+c,sin dato,1.27,,,,,,,,
+r,Disponibilidades,1.1,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,87.92,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,9.33,,,,,,,,
+r,Certificados de Participacion Argentina,1.27,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.38,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.38,,,,,,,,
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,23.05,3793293926,,,Titulos de Deuda en Peso Argentina,159
+e,Bono Boncer TX28,Soberano,Tesoro Nacional,ARS,10.35,1703279485,,,Titulos de Deuda en Peso Argentina,40
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,9.8,1612767049,,,Titulos de Deuda en Peso Argentina,250
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,9.36,1540357100,,,Titulos de Deuda en Peso Argentina,84
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,9.33,1535420058,,,Operaciones a Plazo en Peso Argentina,195
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,7.77,1278693875,,,Titulos de Deuda en Peso Argentina,142
+e,Bono Boncer TX26,Soberano,Tesoro Nacional,ARS,6.28,1033487456,,,Titulos de Deuda en Peso Argentina,63
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,5.21,857399625,,,Titulos de Deuda en Peso Argentina,61
+e,Boncer TZXY7,Soberano,Tesoro Nacional,ARS,5.06,832714415,,,Titulos de Deuda en Peso Argentina,76
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,3.44,566114148,,,Titulos de Deuda en Peso Argentina,136
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,3.35,551303022,,,Titulos de Deuda en Peso Argentina,128
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,3.05,501932602,,,Titulos de Deuda en Peso Argentina,112
+e,Cheque E *MAV301102261,Cheque,,ARS,1.19,195835999,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Wise Capital Money Markets - Clase D,FCI,Wise Capital Money Markets,,0.75,123426050,,,Certificados de Participacion Argentina,9
+e,FCI Cocos Ahorro - Clase C,FCI,Cocos Ahorro,,0.46,75701310,,,Certificados de Participacion Argentina,32
+e,FF Mercado Credito 44 CA,Fideicomiso financiero,Mercado Credito,,0.06,9874084,,,Certificados de Participacion Argentina,26
+p,Schroder Balanceado,Schroder,RM y Otros ARS,46.0699,0.5817,4,,,,
+p,Fima Retorno Total,Galicia,RF ARS Disc,45.3991,0.6038,6,,,,
+p,GMC Multiestrategia II,GMC,RM y Otros ARS,44.5428,0.6365,5,,,,
+p,Schroder Renta Global Cinco,Schroder,RM y Otros ARS,41.9431,0.6444,4,,,,
+p,Schroder Retorno Absoluto,Schroder,RF ARS Disc,40.9897,0.5845,5,,,,
+p,Schroder Multiactivos,Schroder,RF MULT Disc,40.7526,0.6527,3,,,,
+p,Stonex Global VIII,StoneX,RM y Otros ARS,40.4205,0.5903,6,,,,
+p,Wise Capital Saving,Wise,T+1,39.2111,0.5953,3,,,,

@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MAF Renta Fija Cobertura,,,,,,,,
+m,gerente,Mariva Asset Management S.A.U.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Mariva S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1430560091,,,,,,,,
+m,aum_planilla,1430560080,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63631,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,100.35,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,33.47,,,,,,,,
+m,top5,88.36,,,,,,,,
+m,top10,99.27,,,,,,,,
+m,hhi_especies,2100.0893,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,38.91,,,,,,,,
+m,hhi_emisores,2474.4933,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,61.42,11,,,,,,,
+t,Soberano,38.91,3,,,,,,,
+t,BCRA,0.02,1,,,,,,,
+c,ARS,94.27,,,,,,,,
+c,USD,6.08,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,94.26,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,6.08,,,,,,,,
+r,Certificados de Participacion Argentina,,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.35,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,33.47,478808462,,,Titulos de Deuda en Peso Argentina,103
+e,ON CGC C 39,ON,CGC,ARS,24.6,351917782,,,Titulos de Deuda en Peso Argentina,34
+e,ON Oldelval Clase 3,ON,Oldelval,ARS,13.9,198847853,,,Titulos de Deuda en Peso Argentina,40
+e,ON Pan Amer. Energy C 18,ON,Pan Amer. Energy,ARS,10.83,154929658,,,Titulos de Deuda en Peso Argentina,14
+e,ON Petroqui C Rivadavia PQCOO,ON,Petroqui C Rivadavia PQCOO,ARS,5.56,79539141,,,Titulos de Deuda en Peso Argentina,13
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,4.35,62229364,,,Titulos de Deuda en Peso Argentina,160
+e,ON Central Dock Sud C1,ON,Central Dock Sud,USD,2.77,39626515,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Bco Serv Transac C31,ON,Banco Serv Transac,USD,2.22,31758434,,,Titulos de Deuda en Dolar Estadounidense,19
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,1.09,15593105,,,Titulos de Deuda en Dolar Estadounidense,83
+e,ON Vista Gas y Oil Arg C21,ON,Vista Gas y Oil Arg,ARS,0.48,6866688,,,Titulos de Deuda en Peso Argentina,27
+e,ON Vista Gas y Oil Arg C17,ON,Vista Gas y Oil Arg,ARS,0.41,5865296,,,Titulos de Deuda en Peso Argentina,23
+e,ON Telecom C12 TLCDO,ON,Telecom,ARS,0.33,4720848,,,Titulos de Deuda en Peso Argentina,29
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,0.21,3004176,,,Titulos de Deuda en Peso Argentina,42
+e,ON Pan American C33,ON,Pan American,ARS,0.11,1573616,,,Titulos de Deuda en Peso Argentina,36
+e,Bono Bopreal 2027 Serie 1 Clase D BPOD7,BCRA,BCRA,ARS,0.02,286112.0181,,,Titulos de Deuda en Peso Argentina,22
+p,MAF Renta Argentina,Mariva,RF USD Linked,48.176,0.728,11,,,,
+p,Max Dinamico IV,Max Capital,RF USD Linked,47.2048,0.7686,2,,,,
+p,Optimum Renta Mixta Flexible Argentina,Santander,RF USD Linked,39.7203,0.5362,3,,,,
+p,Galileo Multimercado V,Delta,RF MULT Corp,38.427,0.7262,6,,,,
+p,Superfondo Multirenta,Santander,RF MULT Disc,35.7884,0.4456,4,,,,
+p,SBS Renta Fija Total,SBS,RF MULT Corp,35.3775,0.7184,7,,,,
+p,Max Multigestión I,Max Capital,RF USD Linked,34.4395,0.6866,2,,,,
+p,Allaria Calificado,Allaria,RF USD Linked,33.3533,0.7303,1,,,,

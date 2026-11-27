@@ -1,0 +1,90 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Stonex Crecimiento II,,,,,,,,
+m,gerente,StoneX Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,55562790867,,,,,,,,
+m,aum_planilla,55562790867,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63792,,,,,,,,
+m,n_especies,35,,,,,,,,
+m,activos_pn,113.95,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.77,,,,,,,,
+m,top1,15.27,,,,,,,,
+m,top5,56.72,,,,,,,,
+m,top10,78.45,,,,,,,,
+m,hhi_especies,827.7066,,,,,,,,
+m,n_emisores,16,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,62.54,,,,,,,,
+m,hhi_emisores,3972.5914,,,,,,,,
+m,sin_emisor_pct,14.9,,,,,,,,
+t,Soberano,62.54,7,,,,,,,
+t,Pagaré,14.9,3,,,,,,,
+t,Fideicomiso financiero,11.15,16,,,,,,,
+t,Acción,4.48,3,,,,,,,
+t,FCI,3.48,4,,,,,,,
+t,ON,1.71,2,,,,,,,
+c,ARS,83.64,,,,,,,,
+c,sin dato,14.62,,,,,,,,
+r,Disponibilidades,0.77,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,79.14,,,,,,,,
+r,Participaciones Accionarias Argentina,4.48,,,,,,,,
+r,Certificados de Participacion Argentina,14.63,,,,,,,,
+r,Otros Activos,14.93,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),13.95,,,,,,,,
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,15.27,8484438165,,,Titulos de Deuda en Peso Argentina,149
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,13.88,7712115372,,,Titulos de Deuda en Peso Argentina,75
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,12.42,6900898626,,,Titulos de Deuda en Peso Argentina,159
+e,Pagare #MAV101260108,Pagaré,,ARS,8.78,4878413038,,,Titulos de Deuda en Peso Argentina,1
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,6.37,3539349778,,,Titulos de Deuda en Peso Argentina,158
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,6.12,3400442801,,,Titulos de Deuda en Peso Argentina,146
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,4.62,2567000938,,,Titulos de Deuda en Peso Argentina,166
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,3.86,2144723727,,,Titulos de Deuda en Peso Argentina,165
+e,FF Mercado Credito 53 CA,Fideicomiso financiero,Mercado Credito,,3.58,1989147913,,,Certificados de Participacion Argentina,25
+e,Pagare #MAV241160050,Pagaré,,ARS,3.55,1972479076,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,2.73,1516864191,,,Certificados de Participacion Argentina,47
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,2.57,1427963725,,,Participaciones Accionarias Argentina,129
+e,Pagare #MAV040170038,Pagaré,,ARS,2.57,1427963725,,,Titulos de Deuda en Peso Argentina,1
+e,FF Megabono 343 Clase A,Fideicomiso financiero,Megabono,,1.41,783435351,,,Certificados de Participacion Argentina,7
+e,FF Mercado Credito 46 CA,Fideicomiso financiero,Mercado Credito,,1.14,633415816,,,Certificados de Participacion Argentina,28
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,1.12,622303258,,,Participaciones Accionarias Argentina,104
+e,ON NewSan Clase 23,ON,NewSan,ARS,0.96,533402792,,,Titulos de Deuda en Peso Argentina,13
+e,FF Megabono 354 Clase B,Fideicomiso financiero,Megabono,,0.92,511177676,,,Certificados de Participacion Argentina,2
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,0.79,438946048,,,Participaciones Accionarias Argentina,83
+e,FF Megabono 347 Clase A,Fideicomiso financiero,Megabono,,0.77,427833490,,,Certificados de Participacion Argentina,10
+e,ON Mirgor Clase 7,ON,Mirgor,ARS,0.75,416720932,,,Titulos de Deuda en Peso Argentina,7
+e,FCI Unico Liquidez Pesos - Clase B,FCI,Unico Liquidez Pesos,,0.73,405608373,,,Certificados de Participacion Argentina,7
+e,FF Prendo S1 CA,Fideicomiso financiero,Prendo,,0.67,372270699,,,Certificados de Participacion Argentina,5
+e,FF Megabono 345 Clase A,Fideicomiso financiero,Megabono,,0.59,327820466,,,Certificados de Participacion Argentina,14
+e,FF Megabono 359 Clase B,Fideicomiso financiero,Megabono,,0.56,311151629,,,Certificados de Participacion Argentina,3
+e,FF Confibono S86 Clase A,Fideicomiso financiero,Confibono,,0.41,227807443,,,Certificados de Participacion Argentina,9
+e,FF Centrocard Creditos S8,Fideicomiso financiero,Centrocard Creditos,,0.34,188913489,,,Certificados de Participacion Argentina,11
+e,FF Metalcred 17A,Fideicomiso financiero,Metalcred,,0.29,161132094,,,Certificados de Participacion Argentina,8
+e,FF Centrocard Creditos S7,Fideicomiso financiero,Centrocard Creditos,,0.24,133350698,,,Certificados de Participacion Argentina,4
+e,FF Megabono 331 Clase A,Fideicomiso financiero,Megabono,,0.1,55562791,,,Certificados de Participacion Argentina,5
+e,FF Megabono 324 Clase A,Fideicomiso financiero,Megabono,,0.09,50006512,,,Certificados de Participacion Argentina,9
+e,FF Megabono 329 Clase A,Fideicomiso financiero,Megabono,,0.02,11112558,,,Certificados de Participacion Argentina,5
+e,FF Megabono 340 Clase A,Fideicomiso financiero,Megabono,,0.02,11112558,,,Certificados de Participacion Argentina,11
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.01,5556279,,,Certificados de Participacion Argentina,96
+e,FCI Delta $ - Clase B,FCI,Delta $,ARS,0.01,5556279,,,Certificados de Participacion Argentina,5
+p,Chimpay Pesos Conservador,Chimpay,RF ARS Disc,39.5782,0.573,6,,,,
+p,Pellegrini Agro FCI,Pellegrini,RM y Otros ARS,37.9486,0.4491,7,,,,
+p,SBS Patrimonio II,SBS,RF MULT Disc,34.6207,0.4662,6,,,,
+p,Compass Renta Mixta III,Investis,RF ARS Lecap,32.8821,0.4924,3,,,,
+p,FBA Horizonte,BBVA,RF USD Linked,30.8951,0.4369,4,,,,
+p,Max Retorno Total Pesos III,Max Capital,RF MULT Disc,29.7227,0.3883,3,,,,
+p,Fima Ahorro Plus,Galicia,T+1,29.5192,0.4856,4,,,,
+p,GSS Renta Fija Argentina,Grupo SS,RF ARS CER,29.2795,0.4738,4,,,,

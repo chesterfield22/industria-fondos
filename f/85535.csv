@@ -1,0 +1,99 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Julio A. Roca Abierto Pymes,,,,,,,,
+m,gerente,Tutelar Inversora S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,PYME,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,947062529,,,,,,,,
+m,aum_planilla,947062529,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85535,,,,,,,,
+m,n_especies,49,,,,,,,,
+m,activos_pn,97.08,,,,,,,,
+m,pasivos_cnv,2.92,,,,,,,,
+m,liquidez,2.86,,,,,,,,
+m,top1,5.28,,,,,,,,
+m,top5,24.94,,,,,,,,
+m,top10,42.94,,,,,,,,
+m,hhi_especies,290.8874,,,,,,,,
+m,n_emisores,37,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,11.51,,,,,,,,
+m,hhi_emisores,448.9156,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,82.73,42,,,,,,,
+t,Soberano,11.51,6,,,,,,,
+t,Caución,2.86,1,,,,,,,
+c,ARS,97.1,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,94.22,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,2.86,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,2.92,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-2.92,,,,,,,,
+e,ON Arbitra C1,ON,Arbitra,ARS,5.28,50004902,,,Titulos de Deuda en Peso Argentina,8
+e,ON Ratto Hnos S1 C1 110228,ON,Ratto Hnos,ARS,5.28,50004902,,,Titulos de Deuda en Peso Argentina,14
+e,ON Remonda S1 C1,ON,Remonda,ARS,5.28,50004902,,,Titulos de Deuda en Peso Argentina,11
+e,ON Madero Harbour S1 C2 161027,ON,Madero Harbour,ARS,4.76,45080176,,,Titulos de Deuda en Peso Argentina,6
+e,ON Madero Harbour S1 C1 161027,ON,Madero Harbour,ARS,4.34,41102514,,,Titulos de Deuda en Peso Argentina,6
+e,Bonos Rep Argentina AL35,Soberano,Tesoro Nacional,ARS,4.08,38640151,,,Titulos de Deuda en Peso Argentina,31
+e,ON C&C Medicals S2,ON,C&C Medicals,ARS,3.76,35609551,,,Titulos de Deuda en Peso Argentina,9
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,ARS,3.58,33904839,,,Titulos de Deuda en Peso Argentina,62
+e,ON Agricola Noroeste,ON,Agricola Noroeste,ARS,3.35,31726595,,,Titulos de Deuda en Peso Argentina,8
+e,ON ALZ Nutrientes S1 BI,ON,ALZ Nutrientes,ARS,3.23,30590120,,,Titulos de Deuda en Peso Argentina,7
+e,ON Materia Hermanos S1 221227,ON,Materia Hermanos,ARS,3.17,30021882,,,Titulos de Deuda en Peso Argentina,8
+e,ON Sumatoria C8,ON,Sumatoria,ARS,3.17,30021882,,,Titulos de Deuda en Peso Argentina,11
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,2.86,27085988,,,Operaciones a Plazo en Peso Argentina,73
+e,ON YPF C 18,ON,YPF,ARS,2.41,22824207,,,Titulos de Deuda en Peso Argentina,5
+e,ON Yacopinin S1,ON,Yacopinin,ARS,2.19,20740669,,,Titulos de Deuda en Peso Argentina,7
+e,ON PyMe Gar Cheek S1,ON,PyMe Gar Cheek,ARS,2.11,19983019,,,Titulos de Deuda en Peso Argentina,11
+e,ON PyMe Colgas C1,ON,PyMe Colgas,ARS,2.11,19983019,,,Titulos de Deuda en Peso Argentina,15
+e,ON Hector Bertone Mediano Impacto S1 C1,ON,Hector Bertone Mediano Impacto,ARS,2.11,19983019,,,Titulos de Deuda en Peso Argentina,5
+e,ON Hector Bertone Mediano Impacto S1 C2,ON,Hector Bertone Mediano Impacto,ARS,2.11,19983019,,,Titulos de Deuda en Peso Argentina,2
+e,ON Tecpetrol C11,ON,Tecpetrol,ARS,2.1,19888313,,,Titulos de Deuda en Peso Argentina,27
+e,ON PyMe Gar Agropecuaria Sur S1,ON,PyMe Gar Agropecuaria Sur,ARS,2.09,19793607,,,Titulos de Deuda en Peso Argentina,11
+e,ON Vista Gas y Oil Arg C27,ON,Vista Gas y Oil Arg,ARS,1.7,16100063,,,Titulos de Deuda en Peso Argentina,16
+e,ON Pyme Riboldi S1,ON,Pyme Riboldi,ARS,1.68,15910650,,,Titulos de Deuda en Peso Argentina,13
+e,ON Del Fabro Hnos S1 DFS1L,ON,Del Fabro Hnos,ARS,1.68,15910650,,,Titulos de Deuda en Peso Argentina,16
+e,ON Arcor C1 7.6%,ON,Arcor,ARS,1.65,15626532,,,Titulos de Deuda en Peso Argentina,16
+e,ON Pyme RDA Renting S2,ON,Pyme RDA Renting,ARS,1.62,15342413,,,Titulos de Deuda en Peso Argentina,15
+e,ON Aluar Serie 8,ON,Aluar,ARS,1.53,14490057,,,Titulos de Deuda en Peso Argentina,6
+e,Bonos Rep Argentina GD35,Soberano,Tesoro Nacional,ARS,1.53,14490057,,,Titulos de Deuda en Peso Argentina,54
+e,ON San Juan Bautista del Sur S1 C2,ON,San Juan Bautista del Sur,ARS,1.42,13448288,,,Titulos de Deuda en Peso Argentina,9
+e,ON PyMe Gar Tresnal S4 CB,ON,PyMe Gar Tresnal,ARS,1.34,12690638,,,Titulos de Deuda en Peso Argentina,4
+e,ON Pyme Zafra S3 CB,ON,Pyme Zafra,ARS,1.32,12501225,,,Titulos de Deuda en Peso Argentina,4
+e,Bono Boncer TX28,Soberano,Tesoro Nacional,ARS,1.29,12217107,,,Titulos de Deuda en Peso Argentina,40
+e,ON Lancioni S1,ON,Lancioni,ARS,1.1,10417688,,,Titulos de Deuda en Peso Argentina,17
+e,ON PyMe Gar Tresnal S4 CA,ON,PyMe Gar Tresnal,ARS,1.09,10322982,,,Titulos de Deuda en Peso Argentina,8
+e,ON Pyme Zafra S3 CA,ON,Pyme Zafra,ARS,1.08,10228275,,,Titulos de Deuda en Peso Argentina,2
+e,ON San Antonio O&G S1 CB,ON,San Antonio O&G,ARS,1.06,10038863,,,Titulos de Deuda en Peso Argentina,2
+e,ON San Antonio O&G S1 CA,ON,San Antonio O&G,ARS,1.06,10038863,,,Titulos de Deuda en Peso Argentina,4
+e,ON Pyme DeRentas S1,ON,Pyme DeRentas,ARS,1.05,9944157,,,Titulos de Deuda en Peso Argentina,17
+e,ON Argensun C2,ON,Argensun,ARS,0.93,8807682,,,Titulos de Deuda en Peso Argentina,9
+e,Bono del Tesoro 2.5% 2031,Soberano,Tesoro Nacional,ARS,0.74,7008263,,,Titulos de Deuda en Peso Argentina,24
+e,ON Inclusión Financiera Integral S2 C2,ON,Inclusión Financiera Integral,ARS,0.42,3977663,,,Titulos de Deuda en Peso Argentina,1
+e,ON PyME Gar. Agro de Souza S2 C2,ON,PyME Gar. Agro de Souza,ARS,0.34,3220013,,,Titulos de Deuda en Peso Argentina,12
+e,ON Matias Ruiz S1,ON,Matias Ruiz,ARS,0.33,3125306,,,Titulos de Deuda en Peso Argentina,11
+e,ON Pyme Gar Latitud 45 S2 C1,ON,Pyme Gar Latitud,ARS,0.32,3030600,,,Titulos de Deuda en Peso Argentina,9
+e,ON Interconnect S1,ON,Interconnect,ARS,0.32,3030600,,,Titulos de Deuda en Peso Argentina,9
+e,ON Pyme Gar Latitud 45 S2 C3,ON,Pyme Gar Latitud,ARS,0.3,2841188,,,Titulos de Deuda en Peso Argentina,4
+e,ON Paramerica S2 C1,ON,Paramerica,ARS,0.29,2746481,,,Titulos de Deuda en Peso Argentina,1
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,0.29,2746481,,,Titulos de Deuda en Peso Argentina,166
+e,ON PyMe Gar Tresnal S3 CA,ON,PyMe Gar Tresnal,ARS,0.25,2367656,,,Titulos de Deuda en Peso Argentina,9
+p,1822 Raices Abierto Pymes,Provinfondos,PYME,17.338,0.2246,18,,,,
+p,Premier Abierto Pymes,Supervielle,PYME,16.7018,0.1808,15,,,,
+p,Champaquí FCI Abierto Pymes,Bancor,PYME,9.7289,0.1263,9,,,,
+p,Fima Mix Dólares,Galicia,RF USD Disc,9.4645,0.2955,3,,,,
+p,MEGAQM Gestión Balanceada Dólares,MegaQM,RF USD Disc,9.4645,0.2483,3,,,,
+p,Axis S&C Renta Fija Dolar,Axis,RF USD corp loc,8.8422,0.1825,4,,,,
+p,Axis Multiplo Bursatil Retorno Absoluto,Axis,RM y Otros ARS,8.1874,0.1704,3,,,,
+p,Alpha Renta Fija Serie 1,ICBC,RF MULT Disc,8.1874,0.0997,3,,,,

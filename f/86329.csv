@@ -1,0 +1,147 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Cocos Dólares Plus,,,,,,,,
+m,gerente,Cocos Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,268154620,,,,,,,,
+m,aum_planilla,268154620,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86329,,,,,,,,
+m,n_especies,90,,,,,,,,
+m,activos_pn,101.81,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,20.8,,,,,,,,
+m,top1,18.65,,,,,,,,
+m,top5,55.56,,,,,,,,
+m,top10,74.93,,,,,,,,
+m,hhi_especies,831.9847,,,,,,,,
+m,n_emisores,30,,,,,,,,
+m,emisor_top,Caución Merval,,,,,,,,
+m,emisor_top_pct,18.65,,,,,,,,
+m,hhi_emisores,1075.2282,,,,,,,,
+m,sin_emisor_pct,0.69,,,,,,,,
+t,ON,50.45,29,,,,,,,
+t,Plazo fijo,18.67,3,,,,,,,
+t,Caución,18.65,1,,,,,,,
+t,Soberano,8.31,4,,,,,,,
+t,FCI,2.94,6,,,,,,,
+t,Cheque,0.43,43,,,,,,,
+t,Pagaré,0.26,4,,,,,,,
+c,sin dato,58.85,,,,,,,,
+c,USD,40.6,,,,,,,,
+c,ARS,0.26,,,,,,,,
+r,Disponibilidades,2.15,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense MEP,59.4,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense MEP,37.32,,,,,,,,
+r,Certificados de Participacion Argentina,2.94,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.81,,,,,,,,
+e,Caucion Colocadora U$S Merval,Caución,Caución Merval,USD,18.65,50010837,,,Operaciones a Plazo en Dolar Estadounidense MEP,55
+e,ON CT Barragan C10,ON,CT Barragan,,11.46,30730519,,,Titulos de Deuda en Dolar Estadounidense MEP,10
+e,Pzo Fi U$S Bco Nacion,Plazo fijo,Banco Nacion,USD,11.19,30006502,,,Operaciones a Plazo en Dolar Estadounidense MEP,40
+e,ON Pampa Energia C28,ON,Pampa Energia,,9.44,25313796,,,Titulos de Deuda en Dolar Estadounidense MEP,16
+e,ON Loma Negra C7,ON,Loma Negra,,4.82,12925053,,,Titulos de Deuda en Dolar Estadounidense MEP,30
+e,ON Pampa Energia C21,ON,Pampa Energia,,4.61,12361928,,,Titulos de Deuda en Dolar Estadounidense MEP,36
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,,3.85,10323953,,,Titulos de Deuda en Dolar Estadounidense MEP,40
+e,Pzo Fi U$S Bco Supervielle,Plazo fijo,Banco Supervielle,USD,3.74,10028983,,,Operaciones a Plazo en Dolar Estadounidense MEP,30
+e,Pzo Fi U$S Bco BBVA,Plazo fijo,Banco BBVA,USD,3.74,10028983,,,Operaciones a Plazo en Dolar Estadounidense MEP,13
+e,ON YPF Clase 44,ON,YPF,,3.43,9197703,,,Titulos de Deuda en Dolar Estadounidense MEP,13
+e,ON Transp Gas Sur Cl 3,ON,Transp Gas Sur,,3.29,8822287,,,Titulos de Deuda en Dolar Estadounidense MEP,43
+e,ON Pampa Energia C26,ON,Pampa Energia,,2.57,6891574,,,Titulos de Deuda en Dolar Estadounidense MEP,38
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,,2.5,6703865,,,Titulos de Deuda en Dolar Estadounidense MEP,72
+e,FCI 1822 Raices Ahorro Dólares - Clase A,FCI,1822 Raices Ahorro Dólares,USD,1.51,4049135,,,Certificados de Participacion Argentina,3
+e,ON Tecpetrol C13,ON,Tecpetrol,,1.51,4049135,,,Titulos de Deuda en Dolar Estadounidense MEP,24
+e,ON Central Puerto Clase E,ON,Central Puerto,,1.47,3941873,,,Titulos de Deuda en Dolar Estadounidense MEP,31
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,,1.33,3566456,,,Titulos de Deuda en Dolar Estadounidense MEP,83
+e,ON YPF Clase 43,ON,YPF,,1.32,3539641,,,Titulos de Deuda en Dolar Estadounidense MEP,34
+e,ON Bco Provincia Cl 5 PVC5O,ON,Banco Provincia,,1.26,3378748,,,Titulos de Deuda en Dolar Estadounidense MEP,17
+e,ON Oldelval Clase 7,ON,Oldelval,,1.03,2761993,,,Titulos de Deuda en Dolar Estadounidense MEP,41
+e,ON Futuros y Opciones.com S4 CA,ON,Futuros y Opciones.com,,0.76,2037975,,,Titulos de Deuda en Dolar Estadounidense MEP,13
+e,FCI Pellegrini Money Market USD - Clase B,FCI,Pellegrini Money Market USD,USD,0.69,1850267,,,Certificados de Participacion Argentina,1
+e,Bonos Rep Argentina AL41,Soberano,Tesoro Nacional,,0.63,1689374,,,Titulos de Deuda en Dolar Estadounidense MEP,14
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,0.52,1394404,,,Certificados de Participacion Argentina,37
+e,ON Tecpetrol C10,ON,Tecpetrol,,0.51,1367589,,,Titulos de Deuda en Dolar Estadounidense MEP,33
+e,ON Pampa Energia C22,ON,Pampa Energia,,0.46,1233511,,,Titulos de Deuda en Dolar Estadounidense MEP,18
+e,ON Oldelval Clase 6,ON,Oldelval,,0.37,992172.0934,,,Titulos de Deuda en Dolar Estadounidense MEP,41
+e,ON Central Puerto Clase D,ON,Central Puerto,,0.37,992172.0934,,,Titulos de Deuda en Dolar Estadounidense MEP,24
+e,ON Banco Prov Clase 8,ON,Banco Provincia,,0.34,911725.7074,,,Titulos de Deuda en Dolar Estadounidense MEP,12
+e,ON Agronorte S3 CA,ON,Agronorte,,0.29,777648.3975,,,Titulos de Deuda en Dolar Estadounidense MEP,8
+e,ON Convertible Fiplasto C1,ON,Convertible Fiplasto,,0.26,697202.0116,,,Titulos de Deuda en Dolar Estadounidense MEP,3
+e,ON Banco Nacion Argentina Clase 7,ON,Banco Nacion Argentina,,0.19,509493.7777,,,Titulos de Deuda en Dolar Estadounidense MEP,17
+e,ON Pampa Energia C27,ON,Pampa Energia,,0.16,429047.3917,,,Titulos de Deuda en Dolar Estadounidense MEP,32
+e,ON Cresud Clase 52,ON,Cresud,,0.13,348601.0058,,,Titulos de Deuda en Dolar Estadounidense MEP,13
+e,SBS Liquidez USD - Clase B,FCI,Liquidez USD,USD,0.12,321785.5438,,,Certificados de Participacion Argentina,14
+e,ON Pampa Energia C29,ON,Pampa Energia,,0.12,321785.5438,,,Titulos de Deuda en Dolar Estadounidense MEP,28
+e,Pagare #UPO310870007,Pagaré,,ARS,0.11,294970.0818,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,ON Hijos S. Muñoz C3 S2,ON,Hijos S. Muñoz,,0.11,294970.0818,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,FCI Allaria Lendar Creditos - Clase A,FCI,Allaria Lendar Creditos,,0.09,241339.1578,,,Certificados de Participacion Argentina,2
+e,ON Irsa Clase 18,ON,Irsa,,0.06,160892.7719,,,Titulos de Deuda en Dolar Estadounidense MEP,5
+e,ON Banco Macro Clase G,ON,Banco Macro,,0.06,160892.7719,,,Titulos de Deuda en Dolar Estadounidense MEP,32
+e,Pagare #UBI300670003,Pagaré,,ARS,0.05,134077.3099,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UFE150670001,Pagaré,,ARS,0.05,134077.3099,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UBI310570002,Pagaré,,ARS,0.05,134077.3099,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,ON Vaca Muerta C1,ON,Vaca Muerta,,0.03,80446.3859,,,Titulos de Deuda en Dolar Estadounidense MEP,45
+e,ON Supervielle Clase X,ON,Supervielle,,0.02,53630.924,,,Titulos de Deuda en Dolar Estadounidense MEP,18
+e,Cheque #UMV280890002,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV281070004,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280990001,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280490002,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280670003,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280590001,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280580002,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280980003,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280870002,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280790001,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280780002,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280690002,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280500001,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280100002,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280180002,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280190001,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280200002,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280300001,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280370002,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280390001,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280400001,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV281260025,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV281160006,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV281170001,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280170006,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280270012,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280280004,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV281080002,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280970002,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280880003,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280770007,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280680003,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280570006,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280480007,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280470021,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280380003,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280290002,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV281180001,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV281190001,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV281270004,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV281290002,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV281090002,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV281280002,Cheque,,USD,0.01,26815.462,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,FCI Balanz Money Market USD - Clase B,FCI,Balanz Money Market USD,USD,0.01,26815.462,,,Certificados de Participacion Argentina,7
+p,Superfondo Ahorro en Dólares,Santander,MM USD Clásico,37.4285,0.6468,4,,,,
+p,Novus Dólar MM,Novus,MM USD Clásico,36.5505,0.7126,4,,,,
+p,SBS Liquidez USD,SBS,MM USD Clásico,33.6777,0.7258,3,,,,
+p,Alpha Dólar,ICBC,MM USD Clásico,33.6777,0.6904,3,,,,
+p,Ciclo Nova Corto Plazo Dólar,Ciclo Nova,MM USD Clásico,33.6777,0.5909,3,,,,
+p,Bull Market Liquidez Dólar,Bull Market,MM USD Clásico,32.4435,0.4688,4,,,,
+p,BAVSA Ahorro Dólar,BAVSA,MM USD Clásico,32.1528,0.5002,3,,,,
+p,Cocos Ahorro Dólares,Cocos,RF USD GL Inc ARG,31.7044,0.4852,8,,,,

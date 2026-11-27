@@ -1,0 +1,61 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Consultatio Multimercado I,,,,,,,,
+m,gerente,Consultatio Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,17021908449,,,,,,,,
+m,aum_planilla,17021908449,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83676,,,,,,,,
+m,n_especies,10,,,,,,,,
+m,activos_pn,109.45,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.46,,,,,,,,
+m,top1,30.23,,,,,,,,
+m,top5,91.44,,,,,,,,
+m,top10,108.99,,,,,,,,
+m,hhi_especies,2203.4661,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,93.48,,,,,,,,
+m,hhi_emisores,8841.1021,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,93.48,6,,,,,,,
+t,FCI,9.41,1,,,,,,,
+t,ON,6.1,3,,,,,,,
+c,ARS,99.58,,,,,,,,
+c,sin dato,9.41,,,,,,,,
+r,Disponibilidades,0.46,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.58,,,,,,,,
+r,Certificados de Participacion Argentina,9.41,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),9.45,,,,,,,,
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,30.23,5145722924,,,Titulos de Deuda en Peso Argentina,165
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,29.29,4985716985,,,Titulos de Deuda en Peso Argentina,250
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,ARS,12.95,2204337144,,,Titulos de Deuda en Peso Argentina,72
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,9.56,1627294448,,,Titulos de Deuda en Peso Argentina,67
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,9.41,1601761585,,,Certificados de Participacion Argentina,96
+e,Bono Dual TXMJ0,Soberano,Tesoro Nacional,ARS,7.22,1228981790,,,Titulos de Deuda en Peso Argentina,28
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,4.23,720026727,,,Titulos de Deuda en Peso Argentina,84
+e,ON Arcor C8,ON,Arcor,ARS,3.02,514061635,,,Titulos de Deuda en Peso Argentina,22
+e,ON Banco de Galicia 32 BYY1O,ON,Banco de Galicia,ARS,1.84,313203115,,,Titulos de Deuda en Peso Argentina,44
+e,ON Toyota Clase 34,ON,Toyota,ARS,1.24,211071665,,,Titulos de Deuda en Peso Argentina,22
+p,Galileo Renta Fija,Delta,RF MULT Disc,58.5072,0.8242,4,,,,
+p,Consultatio Retorno Total,Consultatio,RM y Otros ARS,54.5755,0.6835,3,,,,
+p,Consultatio Tactico,Consultatio,RF MULT Disc,50.5608,0.7124,4,,,,
+p,IAM Renta Mixta,BIND,RM y Otros ARS,49.8495,0.7331,2,,,,
+p,BAVSA Renta Balanceado XI,BAVSA,RV ARG Otros,44.3383,0.5519,4,,,,
+p,Galileo Ahorro Plus,Delta,T+1,44.2007,0.6838,4,,,,
+p,Bull Market Ahorro Balanceado II,Bull Market,RF MULT Disc,41.8884,0.6767,3,,,,
+p,Delta Renta,Delta,RF MULT Disc,41.7852,0.6335,4,,,,

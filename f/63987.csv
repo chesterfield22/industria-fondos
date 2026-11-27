@@ -1,0 +1,62 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Julio A. Roca Ahorro Pesos,,,,,,,,
+m,gerente,Tutelar Inversora S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,657155114,,,,,,,,
+m,aum_planilla,657155114,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,atipica,,,,,,,,
+m,aviso,"Datos atípicos: activos 916,28% del patrimonio. Se muestra como lo informa la CNV.",,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63987,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,916.28,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,830.58,,,,,,,,
+m,top5,897.04,,,,,,,,
+m,top10,915.54,,,,,,,,
+m,hhi_especies,691071.0575,,,,,,,,
+m,n_emisores,3,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,894.18,,,,,,,,
+m,hhi_emisores,799827.1497,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,894.18,11,,,,,,,
+t,Cedear,22.11,2,,,,,,,
+c,ARS,916.29,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,894.17,,,,,,,,
+r,Participaciones Accionarias Argentina,22.11,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),816.28,,,,,,,,
+e,Bonos Rep Argentina GD38,Soberano,Tesoro Nacional,ARS,830.58,5458198946,,,Titulos de Deuda en Peso Argentina,38
+e,Bonos Rep Argentina AL35,Soberano,Tesoro Nacional,ARS,18.55,121902274,,,Titulos de Deuda en Peso Argentina,31
+e,Bonos Rep Argentina GD35,Soberano,Tesoro Nacional,ARS,16.91,111124930,,,Titulos de Deuda en Peso Argentina,54
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,ARS,16.42,107904870,,,Titulos de Deuda en Peso Argentina,62
+e,Cedear Facebook,Cedear,Facebook,ARS,14.58,95813216,,,Participaciones Accionarias Argentina,18
+e,Cedear Google,Cedear,Google,ARS,7.53,49483780,,,Participaciones Accionarias Argentina,30
+e,Bono del Tesoro Nacional AN29,Soberano,Tesoro Nacional,ARS,4.84,31806308,,,Titulos de Deuda en Peso Argentina,25
+e,Bono Par ARS Ley AR PARP,Soberano,Tesoro Nacional,ARS,3.39,22277558,,,Titulos de Deuda en Peso Argentina,17
+e,Bono del Tesoro 2.5% 2031,Soberano,Tesoro Nacional,ARS,1.46,9594465,,,Titulos de Deuda en Peso Argentina,24
+e,Bono Boncer TX28,Soberano,Tesoro Nacional,ARS,1.28,8411585,,,Titulos de Deuda en Peso Argentina,40
+e,Bono Boncer TX26,Soberano,Tesoro Nacional,ARS,0.51,3351491,,,Titulos de Deuda en Peso Argentina,63
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,0.13,854301.6482,,,Titulos de Deuda en Peso Argentina,166
+e,Bono del Tesoro Nacional TZV27,Soberano,Tesoro Nacional,ARS,0.11,722870.6254,,,Titulos de Deuda en Peso Argentina,21
+p,Pionero Renta Fija Dólares,Macro,RF USD Disc,30.8401,0.5666,2,,,,
+p,Toronto Trust Crecimiento,Investis,RF USD Disc,29.2863,0.5836,2,,,,
+p,Compass Ahorro en Dolares,Investis,RF USD Disc,26.7152,0.5631,3,,,,
+p,MEGAQM Ahorro Dólares,MegaQM,RF USD Disc,21.2217,0.4942,3,,,,
+p,SBS Retorno Total,SBS,MM ARS Clásico,16.6236,0.3595,2,,,,
+p,Stonex Global VI,StoneX,RM y Otros ARS,14.9508,0.3901,2,,,,
+p,Compass Renta Fija III,Investis,RF USD Linked,13.5461,0.4383,1,,,,
+p,Alpha Renta Capital Dólar,ICBC,RF USD Disc,13.1054,0.2789,2,,,,

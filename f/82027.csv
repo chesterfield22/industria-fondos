@@ -1,0 +1,580 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Champaquí FCI Abierto Pymes,,,,,,,,
+m,gerente,Bancor Fondos S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,Banco de Cordoba S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,PYME,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,17260342489,,,,,,,,
+m,aum_planilla,17260342489,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/82027,,,,,,,,
+m,n_especies,528,,,,,,,,
+m,activos_pn,99.55,,,,,,,,
+m,pasivos_cnv,0.45,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,5.31,,,,,,,,
+m,top5,19.3,,,,,,,,
+m,top10,32.13,,,,,,,,
+m,hhi_especies,164.328,,,,,,,,
+m,n_emisores,47,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,5.31,,,,,,,,
+m,hhi_emisores,166.5329,,,,,,,,
+m,sin_emisor_pct,31.73,,,,,,,,
+t,ON,59.03,49,,,,,,,
+t,Cheque,31.73,477,,,,,,,
+t,Soberano,5.31,1,,,,,,,
+t,FCI,3.37,1,,,,,,,
+c,ARS,96.07,,,,,,,,
+c,sin dato,3.37,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,96.18,,,,,,,,
+r,Certificados de Participacion Argentina,3.37,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.45,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.45,,,,,,,,
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,5.31,916524186,,,Titulos de Deuda en Peso Argentina,159
+e,ON AFS Group S2,ON,AFS Group,ARS,4.07,702495939,,,Titulos de Deuda en Peso Argentina,14
+e,ON Automotores Pampeanos Clase 1,ON,Automotores Pampeanos,ARS,3.56,614468193,,,Titulos de Deuda en Peso Argentina,13
+e,FCI MAF Money Market - Clase B,FCI,MAF Money Market,,3.37,581673542,,,Certificados de Participacion Argentina,39
+e,ON Pyme Gar Venturino S2,ON,Pyme Gar Venturino,ARS,2.99,516084240,,,Titulos de Deuda en Peso Argentina,13
+e,ON Pyme Transportes Cruz del Sur S1,ON,Pyme Transportes Cruz del Sur,ARS,2.92,504002001,,,Titulos de Deuda en Peso Argentina,13
+e,ON Pyme Gar Rafaela Alimentos S1 C1,ON,Pyme Gar Rafaela Alimentos,ARS,2.65,457399076,,,Titulos de Deuda en Peso Argentina,9
+e,ON Pyme Spazios Inmuebles S1 C1,ON,Pyme Spazios Inmuebles,ARS,2.49,429782528,,,Titulos de Deuda en Peso Argentina,13
+e,ON Pyme DeRentas S2,ON,Pyme DeRentas,ARS,2.39,412522185,,,Titulos de Deuda en Peso Argentina,13
+e,ON Pyme Datastar S1,ON,Pyme Datastar,ARS,2.38,410796151,,,Titulos de Deuda en Peso Argentina,13
+e,ON Madero Harbour S1 C1 161027,ON,Madero Harbour,ARS,2.13,367645295,,,Titulos de Deuda en Peso Argentina,6
+e,ON Pyme Lacteos Silvia S1,ON,Pyme Lacteos Silvia,ARS,2.06,355563055,,,Titulos de Deuda en Peso Argentina,14
+e,ON Pyme Gar Bajo Imp Apache S1 C1,ON,Pyme Gar Bajo Imp Apache,ARS,1.99,343480816,,,Titulos de Deuda en Peso Argentina,14
+e,ON C&C Medicals S2,ON,C&C Medicals,ARS,1.87,322768405,,,Titulos de Deuda en Peso Argentina,9
+e,ON Lancioni S1,ON,Lancioni,ARS,1.83,315864268,,,Titulos de Deuda en Peso Argentina,17
+e,ON Taraborelli S1,ON,Taraborelli,ARS,1.83,315864268,,,Titulos de Deuda en Peso Argentina,10
+e,ON Liliana S3,ON,Liliana,ARS,1.6,276165480,,,Titulos de Deuda en Peso Argentina,16
+e,ON Pyme RDA Renting S3 C2,ON,Pyme RDA Renting,ARS,1.6,276165480,,,Titulos de Deuda en Peso Argentina,2
+e,ON Pyme Gar Gruas San Blas S1,ON,Pyme Gar Gruas San Blas,ARS,1.56,269261343,,,Titulos de Deuda en Peso Argentina,13
+e,ON Pyme Riboldi S1,ON,Pyme Riboldi,ARS,1.4,241644795,,,Titulos de Deuda en Peso Argentina,13
+e,ON Famiq S1,ON,Famiq,ARS,1.19,205398076,,,Titulos de Deuda en Peso Argentina,6
+e,ON Eskabe S1,ON,Eskabe,ARS,1.16,200219973,,,Titulos de Deuda en Peso Argentina,13
+e,ON Serviaut S1,ON,Serviaut,ARS,1.16,200219973,,,Titulos de Deuda en Peso Argentina,12
+e,Cheque ARP011200201,Cheque,,ARS,1.13,195041870,,,Titulos de Deuda en Peso Argentina,1
+e,ON Pyme Agroempresa Colon S1,ON,Pyme Agroempresa Colon,ARS,1.1,189863767,,,Titulos de Deuda en Peso Argentina,7
+e,ON BI Georgalos S2 C1,ON,BI Georgalos,ARS,1.06,182959630,,,Titulos de Deuda en Peso Argentina,9
+e,ON Pyme RDA Renting S2,ON,Pyme RDA Renting,ARS,1.05,181233596,,,Titulos de Deuda en Peso Argentina,15
+e,ON PyMe Gar Agropecuaria Sur S1,ON,PyMe Gar Agropecuaria Sur,ARS,1.01,174329459,,,Titulos de Deuda en Peso Argentina,11
+e,ON BI Georgalos S1 C1,ON,BI Georgalos,ARS,0.94,162247219,,,Titulos de Deuda en Peso Argentina,14
+e,ON Pyme Indave S1,ON,Pyme Indave,ARS,0.94,162247219,,,Titulos de Deuda en Peso Argentina,8
+e,ON Latamly S1,ON,Latamly,ARS,0.92,158795151,,,Titulos de Deuda en Peso Argentina,16
+e,Cheque BIN101100104,Cheque,,ARS,0.66,113918260,,,Titulos de Deuda en Peso Argentina,1
+e,ON Pamisa S1,ON,Pamisa,ARS,0.6,103562055,,,Titulos de Deuda en Peso Argentina,8
+e,ON Pyme Gar Demagro S1 C1,ON,Pyme Gar Demagro,ARS,0.6,103562055,,,Titulos de Deuda en Peso Argentina,6
+e,ON Sumatoria C9,ON,Sumatoria,ARS,0.59,101836021,,,Titulos de Deuda en Peso Argentina,7
+e,ON Pyme Prigioni Agro S2 C1,ON,Pyme Prigioni Agro,ARS,0.58,100109986,,,Titulos de Deuda en Peso Argentina,9
+e,Cheque FIN070100033,Cheque,,ARS,0.55,94931884,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP011200061,Cheque,,ARS,0.52,89753781,,,Titulos de Deuda en Peso Argentina,1
+e,ON Metallo S1 C2,ON,Metallo,ARS,0.51,88027747,,,Titulos de Deuda en Peso Argentina,3
+e,ON Ratto Hnos S1 C1 110228,ON,Ratto Hnos,ARS,0.45,77671541,,,Titulos de Deuda en Peso Argentina,14
+e,ON AFS Group S1,ON,AFS Group,ARS,0.4,69041370,,,Titulos de Deuda en Peso Argentina,9
+e,Cheque POT090300065,Cheque,,ARS,0.4,69041370,,,Titulos de Deuda en Peso Argentina,1
+e,ON Matias Ruiz S1,ON,Matias Ruiz,ARS,0.4,69041370,,,Titulos de Deuda en Peso Argentina,11
+e,Cheque POT160300095,Cheque,,ARS,0.39,67315336,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT301100177,Cheque,,ARS,0.38,65589301,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT301200195,Cheque,,ARS,0.37,63863267,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque Gar.BIND 00007,Cheque,,ARS,0.36,62137233,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN300100150,Cheque,,ARS,0.36,62137233,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP280200505,Cheque,,ARS,0.36,62137233,,,Titulos de Deuda en Peso Argentina,1
+e,ON Hitcowork C1,ON,Hitcowork,ARS,0.36,62137233,,,Titulos de Deuda en Peso Argentina,6
+e,Cheque BIN280200186,Cheque,,ARS,0.36,62137233,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN300300098,Cheque,,ARS,0.35,60411199,,,Titulos de Deuda en Peso Argentina,1
+e,ON Pyme Prigioni Agro S1 C1,ON,Pyme Prigioni Agro,ARS,0.34,58685164,,,Titulos de Deuda en Peso Argentina,10
+e,Cheque GAR100300497,Cheque,,ARS,0.33,56959130,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT120200055,Cheque,,ARS,0.33,56959130,,,Titulos de Deuda en Peso Argentina,1
+e,ON Laboratorio Asserca S1,ON,Laboratorio Asserca,ARS,0.31,53507062,,,Titulos de Deuda en Peso Argentina,12
+e,ON BLM Desarrollos S1,ON,BLM Desarrollos,ARS,0.31,53507062,,,Titulos de Deuda en Peso Argentina,14
+e,ON Pyme Garantizada Collins S1,ON,Pyme Garantizada Collins,ARS,0.31,53507062,,,Titulos de Deuda en Peso Argentina,8
+e,ON Yacopinin S1,ON,Yacopinin,ARS,0.3,51781027,,,Titulos de Deuda en Peso Argentina,7
+e,Cheque ARP310100438,Cheque,,ARS,0.29,50054993,,,Titulos de Deuda en Peso Argentina,1
+e,ON PyMe Gar Recard S1 300927,ON,PyMe Gar Recard,ARS,0.28,48328959,,,Titulos de Deuda en Peso Argentina,9
+e,Cheque FIN101200041,Cheque,,ARS,0.28,48328959,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN151200159,Cheque,,ARS,0.28,48328959,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP310300401,Cheque,,ARS,0.28,48328959,,,Titulos de Deuda en Peso Argentina,1
+e,ON Ruta 3 Automotores C3,ON,Ruta,ARS,0.28,48328959,,,Titulos de Deuda en Peso Argentina,10
+e,Cheque BIS080300110,Cheque,,ARS,0.27,46602925,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS090300093,Cheque,,ARS,0.27,46602925,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS110300137,Cheque,,ARS,0.27,46602925,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS100300177,Cheque,,ARS,0.27,46602925,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP300100335,Cheque,,ARS,0.27,46602925,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS160200173,Cheque,,ARS,0.27,46602925,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS150200198,Cheque,,ARS,0.27,46602925,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS160300112,Cheque,,ARS,0.27,46602925,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS170200150,Cheque,,ARS,0.27,46602925,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS240300092,Cheque,,ARS,0.26,44876890,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS170300124,Cheque,,ARS,0.26,44876890,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS180300142,Cheque,,ARS,0.26,44876890,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN300600418,Cheque,,ARS,0.25,43150856,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN210600119,Cheque,,ARS,0.25,43150856,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN210600121,Cheque,,ARS,0.25,43150856,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque GAR260200461,Cheque,,ARS,0.24,41424822,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque GAR260200462,Cheque,,ARS,0.24,41424822,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT280500122,Cheque,,ARS,0.23,39698788,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS151100294,Cheque,,ARS,0.22,37972753,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN150200138,Cheque,,ARS,0.22,37972753,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN200100118,Cheque,,ARS,0.22,37972753,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS030200117,Cheque,,ARS,0.22,37972753,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT190600096,Cheque,,ARS,0.2,34520685,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP231200102,Cheque,,ARS,0.2,34520685,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN210600118,Cheque,,ARS,0.2,34520685,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN210600120,Cheque,,ARS,0.2,34520685,,,Titulos de Deuda en Peso Argentina,1
+e,ON Pimento S1 C1,ON,Pimento,ARS,0.19,32794651,,,Titulos de Deuda en Peso Argentina,9
+e,Cheque ARP300400561,Cheque,,ARS,0.18,31068616,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP290500246,Cheque,,ARS,0.18,31068616,,,Titulos de Deuda en Peso Argentina,1
+e,ON Agroideas 4,ON,Agroideas,ARS,0.15,25890514,,,Titulos de Deuda en Peso Argentina,10
+e,Cheque ARP120600263,Cheque,,ARS,0.15,25890514,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT231200092,Cheque,,ARS,0.14,24164479,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE211200054,Cheque,,ARS,0.14,24164479,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS021200102,Cheque,,ARS,0.14,24164479,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT250400148,Cheque,,ARS,0.14,24164479,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT091200067,Cheque,,ARS,0.14,24164479,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT250500092,Cheque,,ARS,0.14,24164479,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP041100051,Cheque,,ARS,0.14,24164479,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS041200087,Cheque,,ARS,0.14,24164479,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT261200074,Cheque,,ARS,0.13,22438445,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS160700155,Cheque,,ARS,0.13,22438445,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN090200026,Cheque,,ARS,0.13,22438445,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS170700201,Cheque,,ARS,0.13,22438445,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS150700201,Cheque,,ARS,0.13,22438445,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT070600094,Cheque,,ARS,0.12,20712411,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS110100097,Cheque,,ARS,0.12,20712411,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT070600096,Cheque,,ARS,0.12,20712411,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT070600093,Cheque,,ARS,0.12,20712411,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT040600089,Cheque,,ARS,0.11,18986377,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT280500126,Cheque,,ARS,0.11,18986377,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT180600151,Cheque,,ARS,0.11,18986377,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT180600150,Cheque,,ARS,0.11,18986377,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT110600094,Cheque,,ARS,0.11,18986377,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN200100047,Cheque,,ARS,0.11,18986377,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT110600093,Cheque,,ARS,0.11,18986377,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN081200044,Cheque,,ARS,0.11,18986377,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque GAR170200302,Cheque,,ARS,0.11,18986377,,,Titulos de Deuda en Peso Argentina,1
+e,ON Maximia S1,ON,Maximia,ARS,0.11,18986377,,,Titulos de Deuda en Peso Argentina,11
+e,Cheque BIN081200045,Cheque,,ARS,0.11,18986377,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT310500327,Cheque,,ARS,0.11,18986377,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN081200043,Cheque,,ARS,0.11,18986377,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT280500125,Cheque,,ARS,0.11,18986377,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT040600088,Cheque,,ARS,0.11,18986377,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT200100145,Cheque,,ARS,0.1,17260342,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT200600139,Cheque,,ARS,0.1,17260342,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT200100146,Cheque,,ARS,0.1,17260342,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT010600082,Cheque,,ARS,0.1,17260342,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT070600095,Cheque,,ARS,0.1,17260342,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT200500250,Cheque,,ARS,0.1,17260342,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT200500249,Cheque,,ARS,0.1,17260342,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN300600419,Cheque,,ARS,0.1,17260342,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE220500079,Cheque,,ARS,0.1,17260342,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT200500248,Cheque,,ARS,0.1,17260342,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT300500209,Cheque,,ARS,0.1,17260342,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT100600148,Cheque,,ARS,0.1,17260342,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT150600154,Cheque,,ARS,0.1,17260342,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE201100076,Cheque,,ARS,0.09,15534308,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE301100102,Cheque,,ARS,0.09,15534308,,,Titulos de Deuda en Peso Argentina,1
+e,ON Grz Georgalos S2 C2,ON,Grz Georgalos,ARS,0.09,15534308,,,Titulos de Deuda en Peso Argentina,14
+e,Cheque POT100300124,Cheque,,ARS,0.09,15534308,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque GAR120300408,Cheque,,ARS,0.09,15534308,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS190400108,Cheque,,ARS,0.08,13808274,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque GAR100300496,Cheque,,ARS,0.08,13808274,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP150100387,Cheque,,ARS,0.08,13808274,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP270100076,Cheque,,ARS,0.08,13808274,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP250100057,Cheque,,ARS,0.08,13808274,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP020200054,Cheque,,ARS,0.08,13808274,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT101200089,Cheque,,ARS,0.08,13808274,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP201200084,Cheque,,ARS,0.08,13808274,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN010200015,Cheque,,ARS,0.08,13808274,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP251100301,Cheque,,ARS,0.07,12082240,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP291100261,Cheque,,ARS,0.07,12082240,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE231100061,Cheque,,ARS,0.07,12082240,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT310500330,Cheque,,ARS,0.07,12082240,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP110300274,Cheque,,ARS,0.07,12082240,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT310300217,Cheque,,ARS,0.07,12082240,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP201100298,Cheque,,ARS,0.07,12082240,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP180300271,Cheque,,ARS,0.07,12082240,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS310300273,Cheque,,ARS,0.07,12082240,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP050300223,Cheque,,ARS,0.07,12082240,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN310100072,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF221100065,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF221200088,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP100300066,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT311200135,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE171200058,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP091100174,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP150500381,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP080500213,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP010500111,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN081200042,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP261200251,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP231200262,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP211200206,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP181200264,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP161200251,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP281200217,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP141200185,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN300100040,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE031200060,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF300100126,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP240300187,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN300100042,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP100200078,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF110100052,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE221200053,Cheque,,ARS,0.06,10356205,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE111100063,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT220100080,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP300400560,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP280500251,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN201200134,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN301100216,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN300400104,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP100200325,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN310500040,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF180100044,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE260400073,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE290300047,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE250200072,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP160400240,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP180500225,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE250100048,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF080200028,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF150200065,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN100500027,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE260500055,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN120500040,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN210500026,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN250500017,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN280500044,Cheque,,ARS,0.05,8630171,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE250600081,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE151200084,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE151200085,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE171100055,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT131200139,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT131100057,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT120100072,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF261200140,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF271200058,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF301200181,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF281200046,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE260500054,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP040600181,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN300100041,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN151200158,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS300400375,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS290100203,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS260200163,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS310500306,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS311200401,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS260100242,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF291200156,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS310300274,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN161100064,Cheque,,ARS,0.04,6904137,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF020200054,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP290400300,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP300400559,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP270400215,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP260400195,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP230400240,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP280400287,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP210400226,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP230300219,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP220300196,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP190300265,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP180300270,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP170300284,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP160300234,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP130400230,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP120400251,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP140100225,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP310300399,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP300300273,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP260300240,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP250300310,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP240300186,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP220400290,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS310100456,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF130100056,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF270100066,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF200100154,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS050200184,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS100200225,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS150200201,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS200200299,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN020200017,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN270100028,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN290100028,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN310100070,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT040100067,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE261100080,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE041100061,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP160300235,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE251100088,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE271100088,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE301100104,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE021200056,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE141200051,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE211200053,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE281200055,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN160400051,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN230400055,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN200400048,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN220400059,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF250100065,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP180200238,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP270300260,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP010400223,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN021200022,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF010200055,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF030200068,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS030200118,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS050200182,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS080200078,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS100200224,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN150400074,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT010300075,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN211200062,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN221200097,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP131100212,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN231200105,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE251100083,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE301100100,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP061100041,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP061100207,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT020600068,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT190500119,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN281200080,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN291200158,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN301200181,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN171200068,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN181200061,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT080500102,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP100200324,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP030200194,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP170200236,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT290500152,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT260500104,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT220500132,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT150500268,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE061100071,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE101100079,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE121100073,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE191100076,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP091200074,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP031200045,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP101200063,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP111200060,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE131100068,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP140500237,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP150400423,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP170500188,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP160400239,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP190400202,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP190500292,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP200400340,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP180500224,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP060500240,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP070500287,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP100500283,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP110500192,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP120500264,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP130500266,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP140400259,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP050500252,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP070400190,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN241200044,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP210500248,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP200500426,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP200500427,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP030500168,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP040500183,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP210500249,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP201100104,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP201200083,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP260300241,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP190300267,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN051100084,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN061100044,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT171200061,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP240300185,Cheque,,ARS,0.03,5178103,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP131100065,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP111100067,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP171100110,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP050500253,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT011200044,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT081200044,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT101100071,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT171100072,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT241100077,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,ON Ricardo Almar C2,ON,Ricardo Almar,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,8
+e,Cheque ARP221100207,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP301100471,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP061100197,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP081100186,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP101100294,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP131100200,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP171100218,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP201100276,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP241100240,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE281200053,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BMA281100020,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BMA261200037,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN021200023,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT160400072,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT120400106,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT150400196,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT130400099,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT140400109,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP220200194,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP301100109,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP271100053,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP261100047,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP241100084,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP191100084,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE201100077,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE241200037,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE261100083,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE280100054,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE311200071,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP270200296,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP091100041,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE101200070,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP091200073,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE031200062,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE070100032,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE101200071,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE110200064,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE121100074,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE140100042,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE171200059,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT220300075,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT290300089,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT250300114,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT230300078,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE281200054,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT070400060,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE251100087,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN291200157,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN291200156,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN291200155,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN281200082,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN281200081,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN301200180,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN301200183,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN301200182,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP040500184,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN281200079,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP271100274,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque FIN271100046,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP191100078,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP161100050,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN231200106,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN231200107,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN231200108,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN181200062,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN221200098,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN221200099,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN221200096,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN211200060,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN211200059,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN211200061,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT300300178,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT310300218,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT050400093,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT010400074,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POT060400101,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN161200093,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN151200170,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN171200069,Cheque,,ARS,0.02,3452068,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP110200203,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP230200250,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP250200300,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP020200168,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP180200233,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP040200183,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE311200070,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE280100053,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP110300273,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP261200252,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP250100211,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP250200302,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP260400196,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP220300197,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP120100251,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP070100162,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP160500250,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP190100297,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP210100223,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP230100239,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP140100224,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP260100219,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP020300190,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP050100217,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP280100285,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP130200255,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP160200219,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP160300233,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP040300235,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP090200234,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP090300171,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN161200094,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS090300094,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS200300221,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS180300143,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS130300126,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS230200141,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS280200431,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS270200238,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS250200137,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP250200306,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS160300113,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF150100130,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque CMF140100106,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP011200063,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIS110300138,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP021200073,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP241100083,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN171200067,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP051100060,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP171100101,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP181100072,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque INP191100079,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP181200270,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP231200267,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN181200060,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque BIN151200169,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP111100218,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP171100230,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP141200190,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP231100194,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP220100255,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP171200248,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP150100388,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ARP291200312,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE040200052,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE101200069,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE121100069,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE180200065,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE191100075,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE210100036,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE241200036,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACE261100077,Cheque,,ARS,0.01,1726034,,,Titulos de Deuda en Peso Argentina,1
+p,1822 Raices Abierto Pymes,Provinfondos,PYME,26.2931,0.3682,26,,,,
+p,Schroder Desarrollo y Crecimiento PyMEs,Schroder,PYME,13.9662,0.211,32,,,,
+p,Fima FCI Abierto Pymes,Galicia,PYME,12.7768,0.3096,23,,,,
+p,Pionero Empresas FCI Abierto Pymes,Macro,PYME,11.0855,0.2156,9,,,,
+p,MEGAQM Acciones Latam,MegaQM,T+1,8.6046,0.2678,2,,,,
+p,Schroder Renta Plus,Schroder,T+1,6.341,0.2266,2,,,,
+p,Superfondo Renta Fija,Santander,RF ARS CER,5.8349,0.2033,2,,,,
+p,Consultatio Renta y Capital,Consultatio,RM y Otros ARS,5.3599,0.245,2,,,,

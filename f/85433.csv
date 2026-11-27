@@ -1,0 +1,63 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Stonex Global VI,,,,,,,,
+m,gerente,StoneX Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,41389765236,,,,,,,,
+m,aum_planilla,41389765236,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85433,,,,,,,,
+m,n_especies,10,,,,,,,,
+m,activos_pn,100.06,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.5,,,,,,,,
+m,top1,24.14,,,,,,,,
+m,top5,73.97,,,,,,,,
+m,top10,98.55,,,,,,,,
+m,hhi_especies,1422.3451,,,,,,,,
+m,n_emisores,4,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,92.74,,,,,,,,
+m,hhi_emisores,8617.3647,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,92.74,7,,,,,,,
+t,ON,3.69,1,,,,,,,
+t,Cedear,1.69,1,,,,,,,
+t,FCI,0.43,1,,,,,,,
+c,ARS,98.12,,,,,,,,
+c,sin dato,0.43,,,,,,,,
+r,Disponibilidades,1.5,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,96.44,,,,,,,,
+r,Participaciones Accionarias Argentina,1.69,,,,,,,,
+r,Certificados de Participacion Argentina,0.43,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.06,,,,,,,,
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,24.14,9991489328,,,Titulos de Deuda en Peso Argentina,166
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,15.27,6320217152,,,Titulos de Deuda en Peso Argentina,80
+e,Bonos Rep Argentina GD38,Soberano,Tesoro Nacional,ARS,14.72,6092573443,,,Titulos de Deuda en Peso Argentina,38
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,10.15,4201061171,,,Titulos de Deuda en Peso Argentina,112
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,9.69,4010668251,,,Titulos de Deuda en Peso Argentina,75
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,9.49,3927888721,,,Titulos de Deuda en Peso Argentina,160
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,9.28,3840970214,,,Titulos de Deuda en Peso Argentina,149
+e,ON Telecom C14 TLCFO,ON,Telecom,ARS,3.69,1527282337,,,Titulos de Deuda en Peso Argentina,23
+e,Cedear The Coca Cola,Cedear,The Coca Cola,ARS,1.69,699487032,,,Participaciones Accionarias Argentina,12
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.43,177975991,,,Certificados de Participacion Argentina,96
+p,Alpha Renta Fija Serie 4,ICBC,RF ARS Lecap,56.7966,0.7639,4,,,,
+p,Pionero Renta Pesos,Macro,RF ARS Lecap,56.5175,0.7307,4,,,,
+p,Adcap Moneda,Adcap,RF USD Linked,55.2462,0.6638,5,,,,
+p,Consultatio Renta Local,Consultatio,RF ARS Lecap,54.9816,0.7591,4,,,,
+p,Alpha Renta Fija Serie 6,ICBC,T+1,51.7802,0.6665,5,,,,
+p,Champaquí Renta Plus,Bancor,RF ARS Lecap,50.1494,0.6427,4,,,,
+p,Alpha Renta Crecimiento,ICBC,T+1,49.8427,0.7183,4,,,,
+p,Adcap Balanceado XVI,Adcap,RF ARS Lecap,48.9074,0.6778,4,,,,

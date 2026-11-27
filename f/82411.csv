@@ -1,0 +1,64 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Balanz Infraestructura,,,,,,,,
+m,gerente,Balanz S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,INFRA,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,9216424926,,,,,,,,
+m,aum_planilla,9216424926,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/82411,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,100.37,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.08,,,,,,,,
+m,top1,21.85,,,,,,,,
+m,top5,78.18,,,,,,,,
+m,top10,97.68,,,,,,,,
+m,hhi_especies,1462.4079,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Prov. Santa Fe,,,,,,,,
+m,emisor_top_pct,21.85,,,,,,,,
+m,hhi_emisores,1475.8127,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,76.68,11,,,,,,,
+t,Subsoberano,21.85,1,,,,,,,
+t,FCI,1.76,1,,,,,,,
+c,ARS,98.53,,,,,,,,
+c,sin dato,1.76,,,,,,,,
+r,Disponibilidades,0.08,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,98.53,,,,,,,,
+r,Certificados de Participacion Argentina,1.76,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.37,,,,,,,,
+e,Bono Prov Santa Fe 8.1% 111234,Subsoberano,Prov. Santa Fe,ARS,21.85,2013788846,,,Titulos de Deuda en Peso Argentina,37
+e,ON Vista Gas y Oil Arg C21,ON,Vista Gas y Oil Arg,ARS,19.06,1756650591,,,Titulos de Deuda en Peso Argentina,27
+e,ON Telecom C18 TLCJO,ON,Telecom,ARS,18.25,1681997549,,,Titulos de Deuda en Peso Argentina,11
+e,ON YPF C 20,ON,YPF,ARS,12.17,1121638913,,,Titulos de Deuda en Peso Argentina,6
+e,ON Pampa Energia C13,ON,Pampa Energia,ARS,6.85,631325107,,,Titulos de Deuda en Peso Argentina,30
+e,ON Banco Nacion Argentina Clase 3,ON,Banco Nacion Argentina,ARS,6.52,600910905,,,Titulos de Deuda en Peso Argentina,33
+e,ON Pan Amer. Energy C 13,ON,Pan Amer. Energy,ARS,4.72,435015257,,,Titulos de Deuda en Peso Argentina,11
+e,ON Capex C4,ON,Capex,ARS,4.15,382481634,,,Titulos de Deuda en Peso Argentina,8
+e,ON Plaza Logistica C13,ON,Plaza Logistica,ARS,2.35,216585986,,,Titulos de Deuda en Peso Argentina,3
+e,FCI Schroder Liquidez - Clase B,FCI,Schroder Liquidez,,1.76,162209079,,,Certificados de Participacion Argentina,44
+e,ON Pan Amer. Energy C 12,ON,Pan Amer. Energy,ARS,1.42,130873234,,,Titulos de Deuda en Peso Argentina,34
+e,ON Pan American C26,ON,Pan American,ARS,0.95,87556037,,,Titulos de Deuda en Peso Argentina,38
+e,ON GEMSA 18,ON,GEMSA,ARS,0.24,22119420,,,Titulos de Deuda en Peso Argentina,9
+p,Balanz Desarrollo FCI Ab para Financ Infra y Econ Real,Balanz,INFRA,23.7465,0.4016,3,,,,
+p,Chaco FCI Abierto Infraestructura,Chaco,INFRA,20.989,0.2907,5,,,,
+p,SBS Tavelli Renta,SBS,RF MULT Disc,20.162,0.2543,3,,,,
+p,Allaria Desarrollo e Infraestructura,Allaria,INFRA,19.5562,0.2368,3,,,,
+p,Balanz Performance III,Balanz,RF MULT Corp,18.1363,0.2602,4,,,,
+p,Desarrollo Argentino I FCI Abierto para el Fin. de la Infra. y la Econ. Real,Investis,INFRA,17.7295,0.2338,2,,,,
+p,Zofingen Infraestructura,Zofingen Inv.,INFRA,16.1706,0.2891,3,,,,
+p,1822 Raices Infraestructura,Provinfondos,INFRA,15.884,0.2289,4,,,,

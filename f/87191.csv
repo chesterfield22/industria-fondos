@@ -1,0 +1,69 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Cocos Medalla,,,,,,,,
+m,gerente,Cocos Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,2033489145,,,,,,,,
+m,aum_planilla,2033489145,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87191,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,100.72,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.39,,,,,,,,
+m,top1,17.01,,,,,,,,
+m,top5,62.09,,,,,,,,
+m,top10,91.55,,,,,,,,
+m,hhi_especies,1032.5608,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,61.78,,,,,,,,
+m,hhi_emisores,4098.7396,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,61.78,6,,,,,,,
+t,Cedear,22.86,3,,,,,,,
+t,Acción,12.44,3,,,,,,,
+t,FCI,2.35,2,,,,,,,
+t,ETF,0.91,1,,,,,,,
+c,ARS,97.08,,,,,,,,
+c,sin dato,3.26,,,,,,,,
+r,Disponibilidades,0.39,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,61.77,,,,,,,,
+r,Participaciones Accionarias Argentina,36.21,,,,,,,,
+r,Certificados de Participacion Argentina,2.35,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.72,,,,,,,,
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,17.01,345896504,,,Titulos de Deuda en Peso Argentina,160
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,15.03,305633418,,,Titulos de Deuda en Peso Argentina,136
+e,Cedear Google,Cedear,Google,ARS,12.48,253779445,,,Participaciones Accionarias Argentina,30
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,9.91,201518774,,,Titulos de Deuda en Peso Argentina,86
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,7.66,155765269,,,Titulos de Deuda en Peso Argentina,158
+e,Boncer TZXY7,Soberano,Tesoro Nacional,ARS,7.57,153935128,,,Titulos de Deuda en Peso Argentina,76
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,6.91,140514100,,,Participaciones Accionarias Argentina,85
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,6.22,126483025,,,Participaciones Accionarias Argentina,38
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,4.6,93540501,,,Titulos de Deuda en Peso Argentina,74
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,4.16,84593148,,,Participaciones Accionarias Argentina,52
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,3.48,70765422,,,Participaciones Accionarias Argentina,117
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,2.31,46973599,,,Certificados de Participacion Argentina,96
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,2.05,41686527,,,Participaciones Accionarias Argentina,129
+e,Cedear Spdr SyP 500 ETF,ETF,Cedear Spdr SyP 500 ETF,,0.91,18504751,,,Participaciones Accionarias Argentina,13
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,0.04,813395.658,,,Certificados de Participacion Argentina,47
+p,Cocos Crecimiento,Cocos,T+1,35.5311,0.4558,4,,,,
+p,Axis Estrategia 18,Axis,RF MULT Disc,34.7314,0.4283,3,,,,
+p,Chimpay Pesos Conservador,Chimpay,RF ARS Disc,34.1809,0.4503,6,,,,
+p,Adcap Balance Multiactivo,Adcap,RF ARS Disc,30.1575,0.3863,3,,,,
+p,Allaria Dinámico,Allaria,RM y Otros ARS,28.2765,0.4775,5,,,,
+p,Galileo Ahorro,Delta,RF ARS Lecap,26.8288,0.4977,2,,,,
+p,1810 Mas Ahorro,Proahorro,RF ARS Lecap,26.8288,0.4069,2,,,,
+p,Champaquí Renta Plus,Bancor,RF ARS Lecap,26.8288,0.3994,2,,,,

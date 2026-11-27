@@ -1,0 +1,64 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pellegrini Agro FCI,,,,,,,,
+m,gerente,Pellegrini S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de La Nacion Argentina,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5612438776,,,,,,,,
+m,aum_planilla,5612438776,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63622,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,100.93,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.02,,,,,,,,
+m,top1,23.59,,,,,,,,
+m,top5,74.07,,,,,,,,
+m,top10,95.19,,,,,,,,
+m,hhi_especies,1450.7173,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,90.39,,,,,,,,
+m,hhi_emisores,8184.0773,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,90.39,8,,,,,,,
+t,FCI,3.47,3,,,,,,,
+t,ON,1.35,1,,,,,,,
+c,ARS,91.74,,,,,,,,
+c,sin dato,3.47,,,,,,,,
+r,Disponibilidades,0.02,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,91.76,,,,,,,,
+r,Participaciones Accionarias Argentina,,,,,,,,,
+r,Certificados de Participacion Argentina,3.47,,,,,,,,
+r,Otros Activos,5.68,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.93,,,,,,,,
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,23.59,1323974307,,,Titulos de Deuda en Peso Argentina,75
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,21.65,1215092995,,,Titulos de Deuda en Peso Argentina,103
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,15,841865816,,,Titulos de Deuda en Peso Argentina,92
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,7.92,444505151,,,Titulos de Deuda en Peso Argentina,128
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,5.91,331695132,,,Titulos de Deuda en Peso Argentina,159
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,5.9,331133888,,,Titulos de Deuda en Peso Argentina,158
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,5.33,299142987,,,Titulos de Deuda en Peso Argentina,166
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,5.09,285673134,,,Titulos de Deuda en Peso Argentina,165
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,3.45,193629138,,,Certificados de Participacion Argentina,47
+e,ON Red Surcos S12 Clase A,ON,Red Surcos,ARS,1.35,75767923,,,Titulos de Deuda en Peso Argentina,6
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.01,561243.8776,,,Certificados de Participacion Argentina,96
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.01,561243.8776,,,Certificados de Participacion Argentina,93
+p,FBA Horizonte,BBVA,RF USD Linked,65.6027,0.8789,5,,,,
+p,First Renta Mixta III,First Cap Mkts,RF USD Linked,58.9844,0.7889,4,,,,
+p,Superfondo Multirenta,Santander,RF MULT Disc,58.7604,0.8031,4,,,,
+p,SBS Patrimonio V,SBS,RM y Otros ARS,54.3523,0.7018,4,,,,
+p,Max Retorno Total Pesos III,Max Capital,RF MULT Disc,52.9549,0.8143,3,,,,
+p,Pionero Desarrollo,Macro,RF MULT Disc,52.0465,0.7194,4,,,,
+p,Optimum Renta Mixta Flexible Argentina,Santander,RF USD Linked,50.5061,0.6877,3,,,,
+p,Premier Renta Mixta,Supervielle,RF USD Linked,49.4992,0.731,3,,,,

@@ -1,0 +1,84 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Optimum Global Investment Grade,,,,,,,,
+m,gerente,SAM Argentina S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,BNP Paribas,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Global,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,58591991995,,,,,,,,
+m,aum_planilla,58591991995,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63360,,,,,,,,
+m,n_especies,29,,,,,,,,
+m,activos_pn,100.07,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.4,,,,,,,,
+m,top1,21.93,,,,,,,,
+m,top5,54.61,,,,,,,,
+m,top10,72.62,,,,,,,,
+m,hhi_especies,893.7297,,,,,,,,
+m,n_emisores,22,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,44.13,,,,,,,,
+m,hhi_emisores,2498.6401,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,44.13,7,,,,,,,
+t,Subsoberano,21.93,1,,,,,,,
+t,Cedear,20.16,10,,,,,,,
+t,ON,10.17,8,,,,,,,
+t,ETF,3.09,2,,,,,,,
+t,FCI,0.19,1,,,,,,,
+c,ARS,96.39,,,,,,,,
+c,sin dato,3.28,,,,,,,,
+r,Disponibilidades,0.4,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,76.23,,,,,,,,
+r,Participaciones Accionarias Argentina,23.25,,,,,,,,
+r,Certificados de Participacion Argentina,0.19,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.07,,,,,,,,
+e,Bono Prov de Buenos Aires TZV28,Subsoberano,Prov. Buenos Aires,ARS,21.93,12849223845,,,Titulos de Deuda en Peso Argentina,46
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,11.76,6890418259,,,Titulos de Deuda en Peso Argentina,250
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,10.08,5906072793,,,Titulos de Deuda en Peso Argentina,103
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,5.61,3287010751,,,Titulos de Deuda en Peso Argentina,146
+e,Bono Disc ARS Ley AR DICP,Soberano,Tesoro Nacional,ARS,5.23,3064361181,,,Titulos de Deuda en Peso Argentina,59
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,4.37,2560470050,,,Titulos de Deuda en Peso Argentina,128
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,ARS,3.6,2109311712,,,Titulos de Deuda en Peso Argentina,62
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,3.48,2039001321,,,Titulos de Deuda en Peso Argentina,165
+e,ON Telecom C12 TLCDO,ON,Telecom,ARS,3.28,1921817337,,,Titulos de Deuda en Peso Argentina,29
+e,Cedear Mc Donalds,Cedear,Mc Donalds,ARS,3.28,1921817337,,,Participaciones Accionarias Argentina,6
+e,Cedear Google,Cedear,Google,ARS,2.52,1476518198,,,Participaciones Accionarias Argentina,30
+e,Cedear Procter y Gamble,Cedear,Procter y Gamble,ARS,2.37,1388630210,,,Participaciones Accionarias Argentina,6
+e,Cedear The Coca Cola,Cedear,The Coca Cola,ARS,2.27,1330038218,,,Participaciones Accionarias Argentina,12
+e,Cedear Facebook,Cedear,Facebook,ARS,1.96,1148403043,,,Participaciones Accionarias Argentina,18
+e,ON CGC C 39,ON,CGC,ARS,1.95,1142543844,,,Titulos de Deuda en Peso Argentina,34
+e,Cedear Spdr SyP 500 ETF,ETF,Cedear Spdr SyP 500 ETF,,1.92,1124966246,,,Participaciones Accionarias Argentina,13
+e,Cedear Amazon,Cedear,Amazon,ARS,1.77,1037078258,,,Participaciones Accionarias Argentina,17
+e,Cedear Johnson y Johnson,Cedear,Johnson y Johnson,ARS,1.67,978486266,,,Participaciones Accionarias Argentina,6
+e,Cedear Microsoft,Cedear,Microsoft,ARS,1.64,960908669,,,Participaciones Accionarias Argentina,14
+e,ON Pan Amer. Energy C 17,ON,Pan Amer. Energy,ARS,1.64,960908669,,,Titulos de Deuda en Peso Argentina,15
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,1.59,931612673,,,Titulos de Deuda en Peso Argentina,67
+e,Cedear Visa,Cedear,Visa,ARS,1.39,814428689,,,Participaciones Accionarias Argentina,7
+e,Cedear JP Morgan,Cedear,JP Morgan,ARS,1.29,755836697,,,Participaciones Accionarias Argentina,9
+e,Cedear SPDR Dow Jones Industrial,ETF,Cedear SPDR Dow Jones Industrial,,1.17,685526306,,,Participaciones Accionarias Argentina,3
+e,ON Vista Gas y Oil Arg C19,ON,Vista Gas y Oil Arg,ARS,0.76,445299139,,,Titulos de Deuda en Peso Argentina,8
+e,ON Mega C1,ON,Mega,ARS,0.71,416003143,,,Titulos de Deuda en Peso Argentina,16
+e,FCI Argenfunds Liquidez - Clase B,FCI,Argenfunds Liquidez,,0.19,111324785,,,Certificados de Participacion Argentina,50
+e,ON Agrofina Clase 11,ON,Agrofina,ARS,0.13,76169590,,,Titulos de Deuda en Peso Argentina,9
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,0.11,64451191,,,Titulos de Deuda en Peso Argentina,56
+p,First Renta Mixta VII,First Cap Mkts,RF MULT Disc,43.9149,0.7134,3,,,,
+p,Novus Valor,Novus,RF USD Linked,43.3774,0.7656,5,,,,
+p,Optimum FAE (Fondo de Aplicaciones Especiales),SAM Arg,RF MULT Disc,43.2957,0.6584,7,,,,
+p,Consultatio Renta Fija Argentina F.C.I.,Consultatio,RF USD Linked,42.2896,0.7305,6,,,,
+p,Alpha Renta Cobertura,ICBC,RF USD Linked,41.9242,0.7498,7,,,,
+p,Super Bonos,Santander,RF USD Linked,40.9324,0.7208,7,,,,
+p,Lombard Renta Fija,Patagonia,RF USD Linked,40.8318,0.7006,4,,,,
+p,MAF Gestión Activa III,Mariva,RF USD Linked,39.686,0.7154,3,,,,

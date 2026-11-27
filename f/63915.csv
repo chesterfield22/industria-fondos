@@ -1,0 +1,74 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Toronto Trust Retorno Total,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Credito y Securitizacion S.A. (BACS),,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS CER,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,31787567019,,,,,,,,
+m,aum_planilla,31787567019,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63915,,,,,,,,
+m,n_especies,21,,,,,,,,
+m,activos_pn,100.33,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.23,,,,,,,,
+m,top1,24.57,,,,,,,,
+m,top5,57.39,,,,,,,,
+m,top10,80.02,,,,,,,,
+m,hhi_especies,1045.9048,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,91.17,,,,,,,,
+m,hhi_emisores,8317.9668,,,,,,,,
+m,sin_emisor_pct,4.58,,,,,,,,
+t,Soberano,91.17,16,,,,,,,
+t,Cheque,4.58,1,,,,,,,
+t,ON,1.9,2,,,,,,,
+t,FCI,1.36,1,,,,,,,
+t,Subsoberano,1.09,1,,,,,,,
+c,ARS,98.74,,,,,,,,
+c,sin dato,1.36,,,,,,,,
+r,Disponibilidades,0.23,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,98.74,,,,,,,,
+r,Certificados de Participacion Argentina,1.36,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.33,,,,,,,,
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,24.57,7810205217,,,Titulos de Deuda en Peso Argentina,136
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,12.02,3820865556,,,Titulos de Deuda en Peso Argentina,61
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,7.75,2463536444,,,Titulos de Deuda en Peso Argentina,165
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,6.92,2199699638,,,Titulos de Deuda en Peso Argentina,250
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,6.13,1948577858,,,Titulos de Deuda en Peso Argentina,112
+e,Bono del Tesoro 2.5% 2031,Soberano,Tesoro Nacional,ARS,5.78,1837321374,,,Titulos de Deuda en Peso Argentina,24
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,4.67,1484479380,,,Titulos de Deuda en Peso Argentina,84
+e,Cheque E *MAV161201663,Cheque,,ARS,4.58,1455870569,,,Titulos de Deuda en Peso Argentina,1
+e,Boncer TZXY7,Soberano,Tesoro Nacional,ARS,4.03,1281038951,,,Titulos de Deuda en Peso Argentina,76
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,3.57,1134816143,,,Titulos de Deuda en Peso Argentina,146
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,3.15,1001308361,,,Titulos de Deuda en Peso Argentina,84
+e,Bono Boncer TX28,Soberano,Tesoro Nacional,ARS,3.1,985414578,,,Titulos de Deuda en Peso Argentina,40
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,2.77,880515606,,,Titulos de Deuda en Peso Argentina,67
+e,Boncer Mendoza C1,Soberano,Tesoro Nacional,ARS,2.4,762901608,,,Titulos de Deuda en Peso Argentina,49
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,2.06,654823881,,,Titulos de Deuda en Peso Argentina,82
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,1.93,613500043,,,Titulos de Deuda en Peso Argentina,61
+e,ON Banco Nacion Argentina Clase 6,ON,Banco Nacion Argentina,ARS,1.71,543567396,,,Titulos de Deuda en Peso Argentina,12
+e,FCI GMC Money Market - Clase C,FCI,GMC Money Market,,1.36,432310911,,,Certificados de Participacion Argentina,22
+e,Letra Prov Bs As PBA28,Subsoberano,Prov. Buenos Aires,ARS,1.09,346484481,,,Titulos de Deuda en Peso Argentina,28
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,0.32,101720214,,,Titulos de Deuda en Peso Argentina,128
+e,ON GEMSA Clase 30,ON,GEMSA,ARS,0.19,60396377,,,Titulos de Deuda en Peso Argentina,1
+p,Bull Market Ahorro Balanceado II,Bull Market,RF MULT Disc,44.8404,0.57,9,,,,
+p,Pellegrini Renta Fija III,Pellegrini,T+1,43.5393,0.5814,8,,,,
+p,Bull Market Ahorro Balanceado III,Bull Market,RF ARS CER,43.4665,0.6724,3,,,,
+p,Valiant Renta Fija,Valiant,T+1,43.4074,0.6062,7,,,,
+p,Allaria Estructurado,Allaria,RF ARS Disc,42.1581,0.6896,5,,,,
+p,Toronto Trust,Investis,RF MULT Disc,40.8658,0.6795,7,,,,
+p,Mills Renta Fija Crecimiento Pesos,Mills Capital,RF ARS Disc,39.5105,0.4023,6,,,,
+p,Novus Gestion,Novus,RF ARS Disc,39.3236,0.6775,5,,,,

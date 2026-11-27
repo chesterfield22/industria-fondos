@@ -1,0 +1,69 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Axis Gestión 2,,,,,,,,
+m,gerente,Axis S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,14627557415,,,,,,,,
+m,aum_planilla,14627557415,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88177,,,,,,,,
+m,n_especies,19,,,,,,,,
+m,activos_pn,100.12,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,10.88,,,,,,,,
+m,top5,35.75,,,,,,,,
+m,top10,66.48,,,,,,,,
+m,hhi_especies,638.0737,,,,,,,,
+m,n_emisores,1,,,,,,,,
+m,emisor_top,MEGAQM Pesos,,,,,,,,
+m,emisor_top_pct,0.04,,,,,,,,
+m,hhi_emisores,0.0016,,,,,,,,
+m,sin_emisor_pct,100.07,,,,,,,,
+t,Pagaré,100.07,18,,,,,,,
+t,FCI,0.04,1,,,,,,,
+c,ARS,100.07,,,,,,,,
+c,sin dato,0.04,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,100.08,,,,,,,,
+r,Certificados de Participacion Argentina,0.04,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.12,,,,,,,,
+e,Pagare #MAV160270008,Pagaré,,ARS,10.88,1591478247,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV030270021,Pagaré,,ARS,6.24,912759583,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV080270013,Pagaré,,ARS,6.22,909834071,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV250370009,Pagaré,,ARS,6.21,908371315,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV120470008,Pagaré,,ARS,6.2,906908560,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV010270018,Pagaré,,ARS,6.19,905445804,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV090270011,Pagaré,,ARS,6.17,902520293,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV050270008,Pagaré,,ARS,6.14,898132025,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV290370007,Pagaré,,ARS,6.12,895206514,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV300370018,Pagaré,,ARS,6.11,893743758,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV040370004,Pagaré,,ARS,5.95,870339666,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV190370016,Pagaré,,ARS,5.84,854249353,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV030370007,Pagaré,,ARS,5.82,851323842,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV220370023,Pagaré,,ARS,5.25,767946764,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV180270012,Pagaré,,ARS,5.25,767946764,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV020370003,Pagaré,,ARS,4.01,586565052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV260470014,Pagaré,,ARS,1.25,182844468,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV030370008,Pagaré,,ARS,0.22,32180626,,,Titulos de Deuda en Peso Argentina,1
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.04,5851023,,,Certificados de Participacion Argentina,93
+p,Axis Rosental FCI Abierto Pymes,Axis,PYME,0.04,0.0008,1,,,,
+p,Allaria Selection II Abierto Pymes,Allaria,PYME,0.04,0.0007,1,,,,
+p,Numancia Pesos III,Zofingen Inv.,RF MULT Disc,0.04,0.0006,1,,,,
+p,Axis Estrategia 16,Axis,RF MULT Disc,0.04,0.0005,1,,,,
+p,CMA Acciones,Capital Mark..,RV ARG Merval,0.04,0.0003,1,,,,
+p,Axis Estrategia 33,Axis,RM y Otros ARS,0.04,0.0003,1,,,,
+p,Axis Estrategia 20,Axis,RM y Otros ARS,0.04,0.0003,1,,,,
+p,Mills M1000 Balanceado Pesos,Mills Capital,RM y Otros ARS,0.04,0.0002,1,,,,

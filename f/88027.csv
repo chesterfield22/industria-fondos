@@ -1,0 +1,54 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Ciclo Nova Retorno Total III,,,,,,,,
+m,gerente,Ciclo Nova Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,17924690615,,,,,,,,
+m,aum_planilla,17924690615,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88027,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,100.09,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.11,,,,,,,,
+m,top1,47.34,,,,,,,,
+m,top5,97.27,,,,,,,,
+m,top10,99.01,,,,,,,,
+m,hhi_especies,3428.922,,,,,,,,
+m,n_emisores,0,,,,,,,,
+m,emisor_top,,,,,,,,,
+m,emisor_top_pct,,,,,,,,,
+m,hhi_emisores,,,,,,,,,
+m,sin_emisor_pct,99.98,,,,,,,,
+t,Pagaré,96.48,10,,,,,,,
+t,Cheque,3.5,4,,,,,,,
+c,ARS,99.98,,,,,,,,
+r,Disponibilidades,0.11,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.98,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.09,,,,,,,,
+e,Pagare #MAV111260009,Pagaré,,ARS,47.34,8485548537,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV111260005,Pagaré,,ARS,32.27,5784297661,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare *MAV061101220,Pagaré,,ARS,11.11,1991433127,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV241160055,Pagaré,,ARS,3.84,688308120,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201902,Cheque,,ARS,2.71,485759116,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV020370013,Pagaré,,ARS,0.67,120095427,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171101648,Cheque,,ARS,0.29,51981603,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare *MAV101102018,Pagaré,,ARS,0.28,50189134,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare *MAV061101305,Pagaré,,ARS,0.25,44811727,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251101950,Cheque,,ARS,0.25,44811727,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201933,Cheque,,ARS,0.25,44811727,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV141260049,Pagaré,,ARS,0.24,43019257,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV141260050,Pagaré,,ARS,0.24,43019257,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare *MAV091101149,Pagaré,,ARS,0.24,43019257,,,Titulos de Deuda en Peso Argentina,1

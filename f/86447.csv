@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Ciclo Nova Estructurado II,,,,,,,,
+m,gerente,Ciclo Nova Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5828822032,,,,,,,,
+m,aum_planilla,5828822032,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86447,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,99.67,,,,,,,,
+m,pasivos_cnv,0.33,,,,,,,,
+m,liquidez,0.82,,,,,,,,
+m,top1,16.33,,,,,,,,
+m,top5,63.83,,,,,,,,
+m,top10,93.16,,,,,,,,
+m,hhi_especies,1048.1804,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Vista Gas y Oil Arg,,,,,,,,
+m,emisor_top_pct,16.33,,,,,,,,
+m,hhi_emisores,1046.8499,,,,,,,,
+m,sin_emisor_pct,12.89,,,,,,,,
+t,ON,64.12,10,,,,,,,
+t,BCRA,12.44,1,,,,,,,
+t,Soberano,9.41,1,,,,,,,
+t,Pagaré,8.15,1,,,,,,,
+t,Cheque,4.74,1,,,,,,,
+c,ARS,98.86,,,,,,,,
+r,Disponibilidades,0.82,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,98.85,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.33,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.33,,,,,,,,
+e,ON Vista Gas y Oil Arg C25,ON,Vista Gas y Oil Arg,ARS,16.33,951846638,,,Titulos de Deuda en Peso Argentina,18
+e,ON Aluar Serie 6,ON,Aluar,ARS,13.21,769987390,,,Titulos de Deuda en Peso Argentina,28
+e,Bono Bopreal 2028 Serie 4 Clase B BPOB8,BCRA,BCRA,ARS,12.44,725105461,,,Titulos de Deuda en Peso Argentina,16
+e,ON Telecom C14 TLCFO,ON,Telecom,ARS,12.44,725105461,,,Titulos de Deuda en Peso Argentina,23
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,9.41,548492153,,,Titulos de Deuda en Peso Argentina,250
+e,ON Pan American C26,ON,Pan American,ARS,8.79,512353457,,,Titulos de Deuda en Peso Argentina,38
+e,Pagare *MAV041101606,Pagaré,,ARS,8.15,475048996,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201966,Cheque,,ARS,4.74,276286164,,,Titulos de Deuda en Peso Argentina,1
+e,ON Pampa Energia C13,ON,Pampa Energia,ARS,4.1,238981703,,,Titulos de Deuda en Peso Argentina,30
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,3.55,206923182,,,Titulos de Deuda en Peso Argentina,56
+e,ON Telecom C19 TLCKO,ON,Telecom,ARS,2.92,170201603,,,Titulos de Deuda en Peso Argentina,30
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,2.1,122405263,,,Titulos de Deuda en Peso Argentina,67
+e,ON YPF Clase 33,ON,YPF,ARS,0.67,39053108,,,Titulos de Deuda en Peso Argentina,12
+e,ON Agrofina Clase 12,ON,Agrofina,ARS,0.01,582882.2032,,,Titulos de Deuda en Peso Argentina,10
+p,Delta Crecimiento Infraestructura,Delta,INFRA,31.8364,0.4853,4,,,,
+p,GMC Retorno Total V,GMC,RF MULT Disc,25.9559,0.3199,3,,,,
+p,Argenfunds Infraestructura,Argenfunds,INFRA,24.0534,0.3315,3,,,,
+p,Alpha Renta Cobertura,ICBC,RF USD Linked,22.529,0.2428,5,,,,
+p,Consultatio Renta Fija Argentina F.C.I.,Consultatio,RF USD Linked,21.9111,0.2682,6,,,,
+p,SBS Desarrollo Infraestructura,SBS,INFRA,20.8421,0.3687,3,,,,
+p,Delta Gestion IX,Delta,RF USD Linked,20.4126,0.2759,6,,,,
+p,SBS Tavelli Renta,SBS,RF MULT Disc,20.0037,0.2405,3,,,,

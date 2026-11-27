@@ -1,0 +1,69 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Schroder Crecimiento,,,,,,,,
+m,gerente,Schroder S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,80026259005,,,,,,,,
+m,aum_planilla,80026259005,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86666,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,100.08,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,4.39,,,,,,,,
+m,top1,21.95,,,,,,,,
+m,top5,80.11,,,,,,,,
+m,top10,96.93,,,,,,,,
+m,hhi_especies,1478.8646,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,64.22,,,,,,,,
+m,hhi_emisores,4489.703,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,64.22,5,,,,,,,
+t,Subsoberano,18.32,2,,,,,,,
+t,ON,8.78,4,,,,,,,
+t,Caución,4.39,1,,,,,,,
+t,FCI,4.22,1,,,,,,,
+t,Fideicomiso financiero,0.17,1,,,,,,,
+c,ARS,95.71,,,,,,,,
+c,sin dato,4.39,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,91.3,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,4.39,,,,,,,,
+r,Certificados de Participacion Argentina,4.39,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.08,,,,,,,,
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,21.95,17565763852,,,Titulos de Deuda en Peso Argentina,159
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,20.05,16045264930,,,Titulos de Deuda en Peso Argentina,158
+e,Bono Prov San Juan SJO35,Subsoberano,Prov. San Juan,ARS,17.37,13900561189,,,Titulos de Deuda en Peso Argentina,33
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,12.85,10283374282,,,Titulos de Deuda en Peso Argentina,250
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,7.89,6314071835,,,Titulos de Deuda en Peso Argentina,118
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,4.39,3513152770,,,Operaciones a Plazo en Peso Argentina,195
+e,FCI Balanz Capital Money Market Clase C,FCI,Balanz Capital Money Market,,4.22,3377108130,,,Certificados de Participacion Argentina,47
+e,ON Pampa Energia C26,ON,Pampa Energia,ARS,4.01,3209052986,,,Titulos de Deuda en Peso Argentina,38
+e,ON Banco Nacion Argentina Clase 3,ON,Banco Nacion Argentina,ARS,2.72,2176714245,,,Titulos de Deuda en Peso Argentina,33
+e,Boncer Mendoza C1,Soberano,Tesoro Nacional,ARS,1.48,1184388633,,,Titulos de Deuda en Peso Argentina,49
+e,ON Tarj Naranja C67 S1,ON,Tarj Naranja,ARS,1.33,1064349245,,,Titulos de Deuda en Peso Argentina,40
+e,Letra Entre Rios ERE27,Subsoberano,Prov. Entre Rios,ARS,0.95,760249461,,,Titulos de Deuda en Peso Argentina,11
+e,ON Telecom C18 TLCJO,ON,Telecom,ARS,0.72,576189065,,,Titulos de Deuda en Peso Argentina,11
+e,FF Megabono 333 Clase A,Fideicomiso financiero,Megabono,,0.17,136044640,,,Certificados de Participacion Argentina,14
+p,GSS Retorno Total,Grupo SS,RF MULT Disc,60.768,0.7874,4,,,,
+p,ACA Valores Retorno Total,Schroder,RF MULT Disc,60.6871,0.7316,6,,,,
+p,Fima Retorno Total,Galicia,RF ARS Disc,56.18,0.7703,5,,,,
+p,FBA Cobertura Pesos,BBVA,RF ARS CER,50.8268,0.693,4,,,,
+p,Schroder Retorno Absoluto,Schroder,RF ARS Disc,49.9758,0.5849,5,,,,
+p,Adcap Gestion Estrategica VI,Adcap,RM y Otros ARS,49.8402,0.6722,3,,,,
+p,MAF Ahorro Pesos,Mariva,RF ARS CER,49.8402,0.6677,3,,,,
+p,GSS Renta Fija Argentina,Grupo SS,RF ARS CER,49.0394,0.6731,4,,,,

@@ -1,0 +1,86 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Compass Renta Fija IV,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,27253249591,,,,,,,,
+m,aum_planilla,27253249591,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63772,,,,,,,,
+m,n_especies,33,,,,,,,,
+m,activos_pn,99.92,,,,,,,,
+m,pasivos_cnv,0.08,,,,,,,,
+m,liquidez,3.28,,,,,,,,
+m,top1,11.8,,,,,,,,
+m,top5,45.11,,,,,,,,
+m,top10,68.25,,,,,,,,
+m,hhi_especies,612.0923,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,45.03,,,,,,,,
+m,hhi_emisores,2775.3895,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Subsoberano,51.08,16,,,,,,,
+t,Soberano,45.03,10,,,,,,,
+t,Caución,3.23,1,,,,,,,
+t,FCI,0.55,6,,,,,,,
+c,ARS,99.4,,,,,,,,
+c,sin dato,0.49,,,,,,,,
+r,Disponibilidades,0.05,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,96.09,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,3.23,,,,,,,,
+r,Certificados de Participacion Argentina,0.55,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.08,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.08,,,,,,,,
+e,Boncer Mendoza C2,Soberano,Tesoro Nacional,ARS,11.8,3215883452,,,Titulos de Deuda en Peso Argentina,13
+e,Boncer Mendoza C1,Soberano,Tesoro Nacional,ARS,11.16,3041462654,,,Titulos de Deuda en Peso Argentina,49
+e,Bono Prov Santa Fe 8.1% 111234,Subsoberano,Prov. Santa Fe,ARS,7.47,2035817744,,,Titulos de Deuda en Peso Argentina,37
+e,Bono Prov Cordoba 030235,Subsoberano,Prov. Cordoba,ARS,7.4,2016740470,,,Titulos de Deuda en Peso Argentina,29
+e,Bono Prov San Juan SJO35,Subsoberano,Prov. San Juan,ARS,7.28,1984036570,,,Titulos de Deuda en Peso Argentina,33
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,5.84,1591589776,,,Titulos de Deuda en Peso Argentina,61
+e,Bono Prov Cordoba Clase 6,Subsoberano,Prov. Cordoba,ARS,5.65,1539808602,,,Titulos de Deuda en Peso Argentina,36
+e,Bono Prov Cordoba 2027 COY27,Subsoberano,Prov. Cordoba,ARS,4.87,1327233255,,,Titulos de Deuda en Peso Argentina,28
+e,Letra Prov Bs As PBA28,Subsoberano,Prov. Buenos Aires,ARS,3.4,926610486,,,Titulos de Deuda en Peso Argentina,28
+e,Bono Prov Cordoba Clase 4,Subsoberano,Prov. Cordoba,ARS,3.38,921159836,,,Titulos de Deuda en Peso Argentina,37
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,3.23,880279962,,,Operaciones a Plazo en Peso Argentina,195
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,2.91,793069563,,,Titulos de Deuda en Peso Argentina,136
+e,Bono Prov de Buenos Aires PBM27,Subsoberano,Prov. Buenos Aires,ARS,2.7,735837739,,,Titulos de Deuda en Peso Argentina,17
+e,Bono Prov Cordoba Clase 5,Subsoberano,Prov. Cordoba,ARS,2.67,727661764,,,Titulos de Deuda en Peso Argentina,19
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,2.66,724936439,,,Titulos de Deuda en Peso Argentina,165
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,2.56,697683190,,,Titulos de Deuda en Peso Argentina,112
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,2.35,640451365,,,Titulos de Deuda en Peso Argentina,142
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,2.32,632275391,,,Titulos de Deuda en Peso Argentina,159
+e,Letra Prov Rio Negro S1 240927,Subsoberano,Prov. Rio Negro,ARS,1.9,517811742,,,Titulos de Deuda en Peso Argentina,9
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,1.88,512361092,,,Titulos de Deuda en Peso Argentina,84
+e,Bono Boncer MDZ C II,Soberano,Tesoro Nacional,ARS,1.55,422425369,,,Titulos de Deuda en Peso Argentina,3
+e,Letra Prov Chubut S119 C1,Subsoberano,Prov. Chubut,ARS,1.21,329764320,,,Titulos de Deuda en Peso Argentina,8
+e,Letra Muni Cordoba S53,Subsoberano,Muni. Cordoba,ARS,1.15,313412370,,,Titulos de Deuda en Peso Argentina,17
+e,Letra Prov Chubut S119 C2,Subsoberano,Prov. Chubut,ARS,1.14,310687045,,,Titulos de Deuda en Peso Argentina,4
+e,Bono Muni Cordoba S1 26032027,Subsoberano,Muni. Cordoba,ARS,0.67,182596772,,,Titulos de Deuda en Peso Argentina,20
+e,Bono Prov Santa Fe 2027 SF27D,Subsoberano,Prov. Santa Fe,ARS,0.15,40879874,,,Titulos de Deuda en Peso Argentina,20
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.13,35429224,,,Certificados de Participacion Argentina,77
+e,FCI Zofingen Pesos Ya - Clase A,FCI,Zofingen Pesos Ya,,0.12,32703900,,,Certificados de Participacion Argentina,7
+e,FCI BM Smart Money Market - Clase B,FCI,BM Smart Money Market,,0.11,29978575,,,Certificados de Participacion Argentina,34
+e,FCI 1822 Raices Ahorro Pesos,FCI,1822 Raices Ahorro Pesos,,0.1,27253250,,,Certificados de Participacion Argentina,3
+e,FCI Premier Renta CP $ CC,FCI,Premier Renta CP $ CC,ARS,0.06,16351950,,,Certificados de Participacion Argentina,27
+e,Bono Prov Cordoba 2029 CO27D,Subsoberano,Prov. Cordoba,ARS,0.04,10901300,,,Titulos de Deuda en Peso Argentina,15
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,0.03,8175975,,,Certificados de Participacion Argentina,47
+p,Delta Federal I,Delta,RF ARS Disc,39.1145,0.5442,9,,,,
+p,MEGAQM Provincial,MegaQM,T+1,29.4016,0.3539,9,,,,
+p,Argenfunds Renta Dinamica,Argenfunds,RF MULT Disc,26.6569,0.3223,9,,,,
+p,Compass Renta Fija II,Investis,RF MULT Disc,23.973,0.3723,21,,,,
+p,Delta Ahorro Plus,Delta,T+1,23.0162,0.2476,9,,,,
+p,Argenfunds Renta Fija II,Argenfunds,RF MULT Disc,21.3517,0.3351,15,,,,
+p,Schroder Renta Global,Schroder,RM y Otros ARS,21.2894,0.3689,15,,,,
+p,1822 Raices Inversion,Provinfondos,RF ARS CER,21.0833,0.254,8,,,,

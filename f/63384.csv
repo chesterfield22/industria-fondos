@@ -1,0 +1,122 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Schroder Infraestructura,,,,,,,,
+m,gerente,Schroder S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,INFRA,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,365217109226,,,,,,,,
+m,aum_planilla,365217109226,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63384,,,,,,,,
+m,n_especies,68,,,,,,,,
+m,activos_pn,100.42,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,3,,,,,,,,
+m,top1,12.55,,,,,,,,
+m,top5,36.08,,,,,,,,
+m,top10,55.15,,,,,,,,
+m,hhi_especies,445.7264,,,,,,,,
+m,n_emisores,42,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,20.79,,,,,,,,
+m,hhi_emisores,949.5246,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,41.03,36,,,,,,,
+t,Subsoberano,27.33,7,,,,,,,
+t,Soberano,20.79,7,,,,,,,
+t,FCI,3.89,9,,,,,,,
+t,Fideicomiso financiero,3.05,8,,,,,,,
+t,Corporativo exterior,1.37,1,,,,,,,
+c,ARS,90.52,,,,,,,,
+c,sin dato,6.94,,,,,,,,
+r,Disponibilidades,3,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,90.54,,,,,,,,
+r,Certificados de Participacion Argentina,6.88,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.42,,,,,,,,
+e,Bono Prov Cordoba 2027 COY27,Subsoberano,Prov. Cordoba,ARS,12.55,45834747208,,,Titulos de Deuda en Peso Argentina,28
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,8.28,30239976644,,,Titulos de Deuda en Peso Argentina,128
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,5.35,19539115344,,,Titulos de Deuda en Peso Argentina,250
+e,ON YPF 2047,ON,YPF,ARS,5.3,19356506789,,,Titulos de Deuda en Peso Argentina,6
+e,ON Pampa Energia C26,ON,Pampa Energia,ARS,4.6,16799987024,,,Titulos de Deuda en Peso Argentina,38
+e,Bono Prov San Juan SJO35,Subsoberano,Prov. San Juan,ARS,4.26,15558248853,,,Titulos de Deuda en Peso Argentina,33
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,4.03,14718249502,,,Titulos de Deuda en Peso Argentina,118
+e,ON Pan American C33,ON,Pan American,ARS,3.73,13622598174,,,Titulos de Deuda en Peso Argentina,36
+e,ON Oldelval Clase 3,ON,Oldelval,ARS,3.69,13476511330,,,Titulos de Deuda en Peso Argentina,40
+e,ON YPF 210727,ON,YPF,ARS,3.36,12271294870,,,Titulos de Deuda en Peso Argentina,14
+e,Bono Prov Santa Fe 2027 SF27D,Subsoberano,Prov. Santa Fe,ARS,3.16,11540860652,,,Titulos de Deuda en Peso Argentina,20
+e,ON YPF Clase 28,ON,YPF,ARS,2.99,10919991566,,,Titulos de Deuda en Peso Argentina,15
+e,ON Aeropuertos 2000 Regs 2031,ON,Aeropuertos,ARS,2.96,10810426433,,,Titulos de Deuda en Peso Argentina,22
+e,Bono Prov Santa Fe 8.1% 111234,Subsoberano,Prov. Santa Fe,ARS,2.65,9678253394,,,Titulos de Deuda en Peso Argentina,37
+e,Bono Prov Mendoza 2029,Subsoberano,Prov. Mendoza,ARS,2.48,9057384309,,,Titulos de Deuda en Peso Argentina,16
+e,Boncer Mendoza C2,Soberano,Tesoro Nacional,ARS,1.96,7158255341,,,Titulos de Deuda en Peso Argentina,13
+e,Bono Entre Rios 9.55% 040333,Subsoberano,Prov. Entre Rios,ARS,1.91,6975646786,,,Titulos de Deuda en Peso Argentina,11
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,1.58,5770430326,,,Titulos de Deuda en Peso Argentina,42
+e,BC AES 9.5%,Corporativo exterior,AES,ARS,1.37,5003474396,,,Titulos de Deuda en Peso Argentina,12
+e,ON Aeropuertos 2000 C5,ON,Aeropuertos,ARS,1.35,4930430975,,,Titulos de Deuda en Peso Argentina,3
+e,ON Vista Gas y Oil Arg C21,ON,Vista Gas y Oil Arg,ARS,1.24,4528692154,,,Titulos de Deuda en Peso Argentina,27
+e,ON Oldelval Clase 2,ON,Oldelval,ARS,1.09,3980866491,,,Titulos de Deuda en Peso Argentina,16
+e,ON Pan American C26,ON,Pan American,ARS,1.08,3944344780,,,Titulos de Deuda en Peso Argentina,38
+e,FCI Cocos Ahorro - Clase B,FCI,Cocos Ahorro,,1.07,3907823069,,,Certificados de Participacion Argentina,3
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,1.01,3688692803,,,Certificados de Participacion Argentina,96
+e,FF Nasa Clase 4 Tramo II,Fideicomiso financiero,Nasa,,1,3652171092,,,Certificados de Participacion Argentina,4
+e,FCI Pellegrini I FCIC - Clase U,FCI,Pellegrini I FCIC,,0.98,3579127670,,,Certificados de Participacion Argentina,11
+e,FF Inmobiliario Dorrego y Libertador VRD,Fideicomiso financiero,Inmobiliario Dorrego y Libertador VRD,,0.94,3433040827,,,Certificados de Participacion Argentina,1
+e,ON YPF Clase 44,ON,YPF,ARS,0.85,3104345428,,,Titulos de Deuda en Peso Argentina,13
+e,ON Pampa Energia C23 (RegS),ON,Pampa Energia,ARS,0.69,2519998054,,,Titulos de Deuda en Peso Argentina,36
+e,FF Proyecto VIDA CP,Fideicomiso financiero,Proyecto VIDA CP,,0.68,2483476343,,,Certificados de Participacion Argentina,9
+e,ON Pampa Energia C13,ON,Pampa Energia,ARS,0.66,2410432921,,,Titulos de Deuda en Peso Argentina,30
+e,ON Vista Gas y Oil Arg C19,ON,Vista Gas y Oil Arg,ARS,0.55,2008694101,,,Titulos de Deuda en Peso Argentina,8
+e,Bono Disc ARS Ley AR DICP,Soberano,Tesoro Nacional,ARS,0.54,1972172390,,,Titulos de Deuda en Peso Argentina,59
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,0.54,1972172390,,,Titulos de Deuda en Peso Argentina,84
+e,ON Pan Amer. Energy C 12,ON,Pan Amer. Energy,ARS,0.5,1826085546,,,Titulos de Deuda en Peso Argentina,34
+e,ON Edenor C7 DNC7O,ON,Edenor,ARS,0.45,1643476992,,,Titulos de Deuda en Peso Argentina,13
+e,ON Vaca Muerta C1,ON,Vaca Muerta,ARS,0.44,1606955281,,,Titulos de Deuda en Peso Argentina,45
+e,ON GEMSA 15 GMCGO,ON,GEMSA,ARS,0.43,1570433570,,,Titulos de Deuda en Peso Argentina,6
+e,ON Vista Gas y Oil Arg C25,ON,Vista Gas y Oil Arg,ARS,0.42,1533911859,,,Titulos de Deuda en Peso Argentina,18
+e,ON Aluar Serie 6,ON,Aluar,ARS,0.38,1387825015,,,Titulos de Deuda en Peso Argentina,28
+e,ON YPF C 20,ON,YPF,ARS,0.36,1314781593,,,Titulos de Deuda en Peso Argentina,6
+e,ON Oldelval Clase 5,ON,Oldelval,ARS,0.36,1314781593,,,Titulos de Deuda en Peso Argentina,34
+e,Bono Muni San Isidro,Subsoberano,Muni. San Isidro,ARS,0.32,1168694750,,,Titulos de Deuda en Peso Argentina,10
+e,ON Epec C2,ON,Epec,ARS,0.29,1059129617,,,Titulos de Deuda en Peso Argentina,12
+e,ON Pampa Energia C21,ON,Pampa Energia,ARS,0.28,1022607906,,,Titulos de Deuda en Peso Argentina,36
+e,ON GEMSA 17,ON,GEMSA,ARS,0.25,913042773,,,Titulos de Deuda en Peso Argentina,6
+e,FCI Gainvest Pesos - Clase B,FCI,Gainvest Pesos,,0.23,839999351,,,Certificados de Participacion Argentina,36
+e,ON Pluspetrol Clase 3,ON,Pluspetrol,ARS,0.22,803477640,,,Titulos de Deuda en Peso Argentina,18
+e,FCI Allaria Lendar Creditos - Clase A,FCI,Allaria Lendar Creditos,,0.22,803477640,,,Certificados de Participacion Argentina,2
+e,ON GEMSA 18,ON,GEMSA,ARS,0.22,803477640,,,Titulos de Deuda en Peso Argentina,9
+e,ON Vista Gas y Oil Arg C17,ON,Vista Gas y Oil Arg,ARS,0.21,766955929,,,Titulos de Deuda en Peso Argentina,23
+e,FF ILLA Belgrano 010427,Fideicomiso financiero,ILLA Belgrano,,0.21,766955929,,,Certificados de Participacion Argentina,1
+e,FCI Balanz Capital Money Market Clase C,FCI,Balanz Capital Money Market,,0.16,584347375,,,Certificados de Participacion Argentina,47
+e,ON Generacion Litoral C1,ON,Generacion Litoral,ARS,0.16,584347375,,,Titulos de Deuda en Peso Argentina,12
+e,FF Nasa Clase 4 Tramo III,Fideicomiso financiero,Nasa,,0.14,511303953,,,Certificados de Participacion Argentina,3
+e,ON Generacion Litoral C3,ON,Generacion Litoral,ARS,0.12,438260531,,,Titulos de Deuda en Peso Argentina,2
+e,ON TGLT Clase 16,ON,TGLT,ARS,0.11,401738820,,,Titulos de Deuda en Peso Argentina,14
+e,FCI SBS Ahorro Pesos Cl B,FCI,SBS Ahorro Pesos Cl B,,0.11,401738820,,,Certificados de Participacion Argentina,46
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,0.09,328695398,,,Titulos de Deuda en Peso Argentina,159
+e,FCI MAF Money Market - Clase B,FCI,MAF Money Market,,0.07,255651976,,,Certificados de Participacion Argentina,39
+e,FF Individual Inmobiliario Invita,Fideicomiso financiero,Individual Inmobiliario Invita,,0.06,219130266,,,Certificados de Participacion Argentina,1
+e,ON Telecom C14 TLCFO,ON,Telecom,ARS,0.05,182608555,,,Titulos de Deuda en Peso Argentina,23
+e,FCI Terrazas del Volcan Inmobiliario FCIC,FCI,Terrazas del Volcan Inmobiliario FCIC,,0.04,146086844,,,Certificados de Participacion Argentina,5
+e,ON Irsa USD TF 8.75%,ON,Irsa USD TF,ARS,0.03,109565133,,,Titulos de Deuda en Peso Argentina,6
+e,ON Impsa Clase 7 2036,ON,Impsa,ARS,0.03,109565133,,,Titulos de Deuda en Peso Argentina,17
+e,FF Inmobiliario Dorrego y Libertador CP,Fideicomiso financiero,Inmobiliario Dorrego y Libertador CP,,0.01,36521711,,,Certificados de Participacion Argentina,1
+e,FF Vicentin Export S8 A,Fideicomiso financiero,Vicentin Export,,0.01,36521711,,,Certificados de Participacion Argentina,13
+p,Schroder Renta Global,Schroder,RM y Otros ARS,21.368,0.2413,26,,,,
+p,SBS Tavelli Global,SBS,RM y Otros ARS,18.891,0.2307,21,,,,
+p,Balanz Performance XIII,Balanz,RF ARS Disc,18.6743,0.4128,4,,,,
+p,Schroder Crecimiento,Schroder,RF ARS Disc,18.258,0.241,6,,,,
+p,GSS Retorno Total,Grupo SS,RF MULT Disc,18.2326,0.2436,5,,,,
+p,Schroder Retorno Total,Schroder,RF USD corp loc,17.9391,0.2287,7,,,,
+p,Puente Retorno Pesos,Puente,RF ARS Disc,17.6735,0.3221,4,,,,
+p,GMC Retorno Total V,GMC,RF MULT Disc,17.4841,0.3275,5,,,,

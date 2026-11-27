@@ -1,0 +1,79 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Alpha Renta Cobertura,,,,,,,,
+m,gerente,ICBC Investments Argentina S.A.U.S.G.F.C.I.,,,,,,,,
+m,depositaria,ICBC (Arg) S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,30177848427,,,,,,,,
+m,aum_planilla,30177550798,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63331,,,,,,,,
+m,n_especies,24,,,,,,,,
+m,activos_pn,100.07,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,4.27,,,,,,,,
+m,top1,15.25,,,,,,,,
+m,top5,49.34,,,,,,,,
+m,top10,72.38,,,,,,,,
+m,hhi_especies,737.1739,,,,,,,,
+m,n_emisores,16,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,42.63,,,,,,,,
+m,hhi_emisores,2241.8401,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,42.63,8,,,,,,,
+t,ON,29.92,9,,,,,,,
+t,Subsoberano,15.25,1,,,,,,,
+t,FCI,4.95,1,,,,,,,
+t,Caución,3.98,1,,,,,,,
+t,Fideicomiso financiero,3.06,4,,,,,,,
+c,ARS,91.78,,,,,,,,
+c,sin dato,8.01,,,,,,,,
+r,Disponibilidades,0.29,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,87.79,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,3.98,,,,,,,,
+r,Certificados de Participacion Argentina,8.01,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.07,,,,,,,,
+e,Bono Prov de Buenos Aires TZV28,Subsoberano,Prov. Buenos Aires,ARS,15.25,4602121885,,,Titulos de Deuda en Peso Argentina,46
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,11.76,3548914975,,,Titulos de Deuda en Peso Argentina,103
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,11.18,3373883454,,,Titulos de Deuda en Peso Argentina,250
+e,Bonos Rep Argentina 2029,Soberano,Tesoro Nacional,ARS,5.92,1786528627,,,Titulos de Deuda en Peso Argentina,24
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,5.23,1578301473,,,Titulos de Deuda en Peso Argentina,75
+e,ON Cresud S30 C46,ON,Cresud,ARS,5.08,1533034700,,,Titulos de Deuda en Peso Argentina,7
+e,FCI Pionero Pesos Plus - Clase B,FCI,Pionero Pesos Plus,,4.95,1493803497,,,Certificados de Participacion Argentina,40
+e,ON Aluar Serie 6,ON,Aluar,ARS,4.84,1460607864,,,Titulos de Deuda en Peso Argentina,28
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,4.17,1258416279,,,Titulos de Deuda en Peso Argentina,56
+e,ON Pan Amer. Energy C 17,ON,Pan Amer. Energy,ARS,4,1207113937,,,Titulos de Deuda en Peso Argentina,15
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,3.98,1201078367,,,Operaciones a Plazo en Peso Argentina,195
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,3.84,1158829380,,,Titulos de Deuda en Peso Argentina,67
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,2.72,820837477,,,Titulos de Deuda en Peso Argentina,166
+e,ON FCA Comp. Finac CL 22 S3,ON,FCA Comp. Finac,ARS,2.64,796695198,,,Titulos de Deuda en Peso Argentina,12
+e,ON Aeropuertos 2000 C5,ON,Aeropuertos,ARS,2.57,775570705,,,Titulos de Deuda en Peso Argentina,3
+e,ON Pan American C26,ON,Pan American,ARS,2.44,736339502,,,Titulos de Deuda en Peso Argentina,38
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,2.31,697108299,,,Titulos de Deuda en Peso Argentina,158
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,1.97,594503614,,,Titulos de Deuda en Peso Argentina,146
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,1.54,464738866,,,Titulos de Deuda en Peso Argentina,136
+e,FF Megabono 345 Clase A,Fideicomiso financiero,Megabono,,1.1,331956333,,,Certificados de Participacion Argentina,14
+e,FF Mercado Credito 45 CA,Fideicomiso financiero,Mercado Credito,,0.9,271600636,,,Certificados de Participacion Argentina,25
+e,FF San Cristobal S1 CA,Fideicomiso financiero,San Cristobal,,0.54,162960382,,,Certificados de Participacion Argentina,5
+e,FF AMFAyS S51 Clase A,Fideicomiso financiero,AMFAyS,,0.52,156924812,,,Certificados de Participacion Argentina,10
+e,ON Refi Pampa S3 B,ON,Refi Pampa,ARS,0.34,102604685,,,Titulos de Deuda en Peso Argentina,11
+p,Super Bonos,Santander,RF USD Linked,44.459,0.726,8,,,,
+p,Lombard Renta Fija,Patagonia,RF USD Linked,42.6578,0.6988,7,,,,
+p,Optimum Global Investment Grade,SAM Arg,RM y Otros ARS,41.9242,0.7498,7,,,,
+p,Novus Valor,Novus,RF USD Linked,38.2704,0.7304,3,,,,
+p,First Renta Mixta VII,First Cap Mkts,RF MULT Disc,38.2704,0.6667,3,,,,
+p,MAF Gestión Activa III,Mariva,RF USD Linked,34.6368,0.7063,3,,,,
+p,First Renta Mixta III,First Cap Mkts,RF USD Linked,34.2803,0.6376,4,,,,
+p,Delta Moneda,Delta,RF USD Linked,34.107,0.6043,5,,,,

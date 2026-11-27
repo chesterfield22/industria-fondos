@@ -1,0 +1,60 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Consultatio Estrategia I,,,,,,,,
+m,gerente,Consultatio Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RV Global,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,50221421,,,,,,,,
+m,aum_planilla,50221421,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87761,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,94.48,,,,,,,,
+m,pasivos_cnv,5.52,,,,,,,,
+m,liquidez,9.61,,,,,,,,
+m,top1,10.84,,,,,,,,
+m,top5,45.05,,,,,,,,
+m,top10,71.61,,,,,,,,
+m,hhi_especies,598.9765,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Facebook,,,,,,,,
+m,emisor_top_pct,10.84,,,,,,,,
+m,hhi_emisores,598.9765,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,82.42,14,,,,,,,
+t,ETF,2.45,1,,,,,,,
+c,sin dato,84.87,,,,,,,,
+r,Disponibilidades,9.61,,,,,,,,
+r,Participaciones Accionarias Estados Unidos,82.42,,,,,,,,
+r,Certificados de Participacion Estados Unidos,2.45,,,,,,,,
+r,Certificados de Participacion Argentina,,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,5.52,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-5.52,,,,,,,,
+e,Facebook,Acción,Facebook,,10.84,5444002,,,Participaciones Accionarias Estados Unidos,2
+e,Mc Donalds Corporation,Acción,Mc Donalds Corporation,,9.44,4740902,,,Participaciones Accionarias Estados Unidos,1
+e,Mastercard Incorporated,Acción,Mastercard Incorporated,,9.29,4665570,,,Participaciones Accionarias Estados Unidos,2
+e,"Domino's Pizza, Inc.",Acción,"Domino's Pizza, Inc",,7.96,3997625,,,Participaciones Accionarias Estados Unidos,2
+e,Morgan Stanley Capital International (MSCI),Acción,Morgan Stanley Capital International (MSCI),,7.52,3776651,,,Participaciones Accionarias Estados Unidos,2
+e,Pepsico Incorporated,Acción,Pepsico Incorporated,,6.25,3138839,,,Participaciones Accionarias Estados Unidos,2
+e,Nvidia Corp.,Acción,Nvidia Corp,,5.97,2998219,,,Participaciones Accionarias Estados Unidos,4
+e,ADR Taiwan Semiconductor,Acción,ADR Taiwan Semiconductor,,5.27,2646669,,,Participaciones Accionarias Estados Unidos,3
+e,TransDigm Group Incorporated,Acción,TransDigm Group Incorporated,,4.97,2496005,,,Participaciones Accionarias Estados Unidos,2
+e,Pool Corporation,Acción,Pool Corporation,,4.1,2059078,,,Participaciones Accionarias Estados Unidos,1
+e,Canadian Pacific Kansas City,Acción,Canadian Pacific Kansas City,,3.73,1873259,,,Participaciones Accionarias Estados Unidos,2
+e,Microsoft Corporation,Acción,Microsoft Corporation,,3.73,1873259,,,Participaciones Accionarias Estados Unidos,1
+e,CME Group Inc,Acción,CME Group Inc,,2.84,1426288,,,Participaciones Accionarias Estados Unidos,1
+e,Ishares Barclays 20,ETF,Ishares Barclays 20,,2.45,1230425,,,Certificados de Participacion Estados Unidos,1
+e,Broadcom Inc.,Acción,Broadcom Inc,,0.51,256129.2453,,,Participaciones Accionarias Estados Unidos,4
+p,Consultatio Estrategia III,Consultatio,RM y Otros USD,21.995,0.2433,10,,,,
+p,Argenfunds Calificado III,Argenfunds,RV Global,10.497,0.1041,3,,,,
+p,Allaria Dólar Retorno Total,Allaria,RM y Otros USD,4.7011,0.0248,2,,,,

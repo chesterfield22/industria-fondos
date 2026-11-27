@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MEGAQM Balanceado,,,,,,,,
+m,gerente,MEGA QM S.A.,,,,,,,,
+m,depositaria,Banco de Servicios y Transacciones S.A. (BST),,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF ARS Lecap,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,52177004954,,,,,,,,
+m,aum_planilla,52177004954,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63735,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,123.36,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,19.18,,,,,,,,
+m,top1,27.19,,,,,,,,
+m,top5,98.72,,,,,,,,
+m,top10,123.32,,,,,,,,
+m,hhi_especies,2304.853,,,,,,,,
+m,n_emisores,9,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,52.26,,,,,,,,
+m,hhi_emisores,3446.2362,,,,,,,,
+m,sin_emisor_pct,20.98,,,,,,,,
+t,Soberano,52.26,2,,,,,,,
+t,Plazo fijo,22.89,3,,,,,,,
+t,Pagaré,20.98,2,,,,,,,
+t,Caución,19.17,1,,,,,,,
+t,FCI,8.04,4,,,,,,,
+c,ARS,115.3,,,,,,,,
+c,sin dato,8.04,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,73.25,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,42.06,,,,,,,,
+r,Certificados de Participacion Argentina,8.04,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),23.36,,,,,,,,
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,27.19,14186927647,,,Titulos de Deuda en Peso Argentina,86
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,25.07,13080775142,,,Titulos de Deuda en Peso Argentina,112
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,19.17,10002331850,,,Operaciones a Plazo en Peso Argentina,73
+e,Pzo Fi $ ICBC,Plazo fijo,ICBC,ARS,15.84,8264837585,,,Operaciones a Plazo en Peso Argentina,32
+e,Pagare #MAV101160029,Pagaré,,ARS,11.45,5974267067,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV111160037,Pagaré,,ARS,9.53,4972468572,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,8.01,4179378097,,,Certificados de Participacion Argentina,96
+e,Pzo Fi $ Bco Nacion,Plazo fijo,Banco Nacion,ARS,5.49,2864517572,,,Operaciones a Plazo en Peso Argentina,84
+e,Pzo Fi $ Bco Galicia,Plazo fijo,Banco Galicia,ARS,1.56,813961277,,,Operaciones a Plazo en Peso Argentina,67
+e,FCI Balanz Capital Money Market Clase C,FCI,Balanz Capital Money Market,,0.01,5217700,,,Certificados de Participacion Argentina,47
+e,FCI BAVSA Ahorro - Clase B,FCI,BAVSA Ahorro,,0.01,5217700,,,Certificados de Participacion Argentina,18
+e,FCI Cocos Ahorro - Clase C,FCI,Cocos Ahorro,,0.01,5217700,,,Certificados de Participacion Argentina,32
+p,MEGAQM Ahorro,MegaQM,T+1,55.444,0.8035,5,,,,
+p,Delta Patrimonio I,Delta,RV Global,39.398,0.5058,2,,,,
+p,Galileo Ahorro,Delta,RF ARS Lecap,38.9654,0.4827,2,,,,
+p,MEGAQM Estrategia 4,MegaQM,RM y Otros ARS,34.2596,0.4497,2,,,,
+p,Balanz Lecaps,Balanz,RF ARS Lecap,33.0757,0.4548,4,,,,
+p,MEGAQM Pesos,MegaQM,MM ARS Clásico,28.9335,0.3702,4,,,,
+p,Pionero Pesos Plus,Macro,MM ARS Clásico,24.971,0.3028,4,,,,
+p,Pellegrini Renta Fija Publica,Pellegrini,RF ARS Lecap,24.8221,0.359,2,,,,

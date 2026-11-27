@@ -1,0 +1,91 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Ciclo Nova Estratégico,,,,,,,,
+m,gerente,Ciclo Nova Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD corp loc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,12786568,,,,,,,,
+m,aum_planilla,12786568,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86650,,,,,,,,
+m,n_especies,40,,,,,,,,
+m,activos_pn,108.38,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.07,,,,,,,,
+m,top1,20.78,,,,,,,,
+m,top5,44.27,,,,,,,,
+m,top10,63.33,,,,,,,,
+m,hhi_especies,740.3843,,,,,,,,
+m,n_emisores,25,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,23.1,,,,,,,,
+m,hhi_emisores,894.6182,,,,,,,,
+m,sin_emisor_pct,10.95,,,,,,,,
+t,ON,73.97,26,,,,,,,
+t,Soberano,23.1,2,,,,,,,
+t,Pagaré,10.95,11,,,,,,,
+t,FCI,0.31,1,,,,,,,
+c,USD,108.33,,,,,,,,
+r,Disponibilidades,0.07,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,108,,,,,,,,
+r,Certificados de Participacion Argentina,0.31,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),8.38,,,,,,,,
+e,Bonos Rep Argentina AL35,Soberano,Tesoro Nacional,USD,20.78,2657049,,,Titulos de Deuda en Dolar Estadounidense,31
+e,ON Banco Nacion Argentina Clase 2,ON,Banco Nacion Argentina,USD,6.95,888666.4552,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Havanna S1,ON,Havanna,USD,6.71,857978.6927,,,Titulos de Deuda en Dolar Estadounidense,6
+e,ON Vaca Muerta C1,ON,Vaca Muerta,USD,5.09,650836.2959,,,Titulos de Deuda en Dolar Estadounidense,45
+e,ON ICBC Clase 6 220527,ON,ICBC,USD,4.74,606083.309,,,Titulos de Deuda en Dolar Estadounidense,18
+e,ON Capex C11,ON,Capex,USD,3.98,508905.3945,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON AES Argentina Gen 060828,ON,AES Argentina Gen,USD,3.98,508905.3945,,,Titulos de Deuda en Dolar Estadounidense,24
+e,ON Credicuotas Consumo S23,ON,Credicuotas Consumo,USD,3.91,499954.7971,,,Titulos de Deuda en Dolar Estadounidense,7
+e,Pagare #UMV060570016,Pagaré,,USD,3.75,479496.2887,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Edesa Clase 2,ON,Edesa,USD,3.44,439857.9289,,,Titulos de Deuda en Dolar Estadounidense,4
+e,ON Plaza Logistica C15,ON,Plaza Logistica,USD,3.19,407891.5096,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON PCR Clase R,ON,PCR,USD,3.14,401498.2258,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Loma Negra C7,ON,Loma Negra,USD,2.75,351630.6117,,,Titulos de Deuda en Dolar Estadounidense,30
+e,ON Camuzzi Gas C1 USD,ON,Camuzzi Gas,USD,2.54,324778.8196,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Banco de Valores C4,ON,Banco de Valores,USD,2.54,324778.8196,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Bco Provincia Cl 5 PVC5O,ON,Banco Provincia,USD,2.52,322221.506,,,Titulos de Deuda en Dolar Estadounidense,17
+e,ON Pluspetrol Clase 6,ON,Pluspetrol,USD,2.5,319664.1925,,,Titulos de Deuda en Dolar Estadounidense,43
+e,ON Banco Nacion Argentina Clase 5,ON,Banco Nacion Argentina,USD,2.39,305598.968,,,Titulos de Deuda en Dolar Estadounidense,25
+e,ON Banco Nacion Argentina Clase 7,ON,Banco Nacion Argentina,USD,2.35,300484.3409,,,Titulos de Deuda en Dolar Estadounidense,17
+e,Bonos Rep Argentina AL41,Soberano,Tesoro Nacional,USD,2.32,296648.3706,,,Titulos de Deuda en Dolar Estadounidense,14
+e,Pagare #UMV010370022,Pagaré,,USD,2.29,292812.4003,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Mirgor Clase 4,ON,Mirgor,USD,1.59,203306.4264,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Bco Serv Transac C29,ON,Banco Serv Transac,USD,1.55,198191.7993,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Telecom C25,ON,Telecom,USD,1.5,191798.5155,,,Titulos de Deuda en Dolar Estadounidense,15
+e,Pagare #UMV110570016,Pagaré,,USD,1.5,191798.5155,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Mega C1,ON,Mega,USD,1.44,184126.5749,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Inversora Juramento C6 JNC6O,ON,Inversora Juramento,USD,1.21,154717.4692,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON Mirgor Clase 6,ON,Mirgor,USD,1.21,154717.4692,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON Tecpetrol C10,ON,Tecpetrol,USD,1.19,152160.1556,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON John Deere Cia. Fin C19,ON,John Deere Cia. Fin,USD,1.16,148324.1853,,,Titulos de Deuda en Dolar Estadounidense,20
+e,Pagare #UPO301260008,Pagaré,,USD,0.77,98456.5713,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Minas Argentinas C1,ON,Minas Argentinas,USD,0.4,51146.2708,,,Titulos de Deuda en Dolar Estadounidense,4
+e,Pagare #UFM301160003,Pagaré,,USD,0.39,49867.614,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFM301160004,Pagaré,,USD,0.39,49867.614,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFM301160005,Pagaré,,USD,0.39,49867.614,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFM301160006,Pagaré,,USD,0.39,49867.614,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFM301160007,Pagaré,,USD,0.39,49867.614,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFM301160008,Pagaré,,USD,0.39,49867.614,,,Titulos de Deuda en Dolar Estadounidense,1
+e,FCI Toronto Trust Money Market Dólar - Clase B,FCI,Toronto Trust Money Market Dólar,USD,0.31,39638.3599,,,Certificados de Participacion Argentina,6
+e,Pagare #UFM301160009,Pagaré,,USD,0.3,38359.7031,,,Titulos de Deuda en Dolar Estadounidense,1
+p,Ciclo Nova Renta Fija Dólar,Ciclo Nova,RF USD GL Inc ARG,25.2955,0.5074,5,,,,
+p,Pionero Renta Dólares Plus,Macro,RF USD Disc,21.3237,0.4755,2,,,,
+p,Fima Mix Dólares,Galicia,RF USD Disc,19.1821,0.4933,1,,,,
+p,Toronto Trust Special Opportunities,Investis,RF MULT Disc,19.1821,0.4021,1,,,,
+p,MEGAQM Gestión Balanceada Dólares,MegaQM,RF USD Disc,19.1821,0.3651,1,,,,
+p,Allaria Dólar Global,Allaria,RF USD Disc,19.1821,0.3319,1,,,,
+p,Dracma Estrategia Dólar,Dracma,RF USD GL Inc ARG,18.1231,0.2758,5,,,,
+p,Toronto Trust Renta Dólar,Investis,RF USD corp loc,16.8945,0.1625,14,,,,

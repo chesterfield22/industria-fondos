@@ -1,0 +1,63 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pionero Pesos,,,,,,,,
+m,gerente,Macro Fondos S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Plazo Fijo,,,,,,,,
+m,subtipo,MM ARS Clásico,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,444618184681,,,,,,,,
+m,aum_planilla,444618184681,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63244,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,99.99,,,,,,,,
+m,pasivos_cnv,0.01,,,,,,,,
+m,liquidez,50.4,,,,,,,,
+m,top1,19.9,,,,,,,,
+m,top5,42.71,,,,,,,,
+m,top10,63.57,,,,,,,,
+m,hhi_especies,633.3404,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Caución BYMA,,,,,,,,
+m,emisor_top_pct,19.9,,,,,,,,
+m,hhi_emisores,846.3866,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Plazo fijo,31.45,9,,,,,,,
+t,Caución,19.9,1,,,,,,,
+t,Soberano,18.13,3,,,,,,,
+c,ARS,69.48,,,,,,,,
+r,Disponibilidades,30.5,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,18.13,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,51.36,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.01,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.01,,,,,,,,
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,19.9,88479018752,,,Operaciones a Plazo en Peso Argentina,73
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,8.05,35791763867,,,Titulos de Deuda en Peso Argentina,166
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,5.19,23075683785,,,Titulos de Deuda en Peso Argentina,149
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,4.89,21741829231,,,Titulos de Deuda en Peso Argentina,160
+e,Pzo Fi $ Bco Galicia,Plazo fijo,Banco Galicia,ARS,4.68,20808131043,,,Operaciones a Plazo en Peso Argentina,67
+e,Pzo Fi $ Bco Credicoop,Plazo fijo,Banco Credicoop,ARS,4.56,20274589221,,,Operaciones a Plazo en Peso Argentina,15
+e,Pzo Fi $ Bco Santander Ri,Plazo fijo,Banco Santander Ri,ARS,4.46,19829971037,,,Operaciones a Plazo en Peso Argentina,68
+e,Pzo Fi $ Bco BBVA,Plazo fijo,Banco BBVA,ARS,4.21,18718425575,,,Operaciones a Plazo en Peso Argentina,46
+e,Pzo Fi $ Bco Provincia,Plazo fijo,Banco Provincia,ARS,4.01,17829189206,,,Operaciones a Plazo en Peso Argentina,33
+e,Pzo Fi $ Bco Nacion,Plazo fijo,Banco Nacion,ARS,3.62,16095178285,,,Operaciones a Plazo en Peso Argentina,84
+e,Pzo Fi $ ICBC,Plazo fijo,ICBC,ARS,2.29,10181756429,,,Operaciones a Plazo en Peso Argentina,32
+e,Pzo Fi $ Bco Patagonia,Plazo fijo,Banco Patagonia,ARS,2.25,10003909155,,,Operaciones a Plazo en Peso Argentina,42
+e,Pzo Fi $ Nvo Bco Indus,Plazo fijo,Nvo Bco Indus,ARS,1.37,6091269130,,,Operaciones a Plazo en Peso Argentina,44
+p,Pionero Pesos Plus,Macro,MM ARS Clásico,56.4577,0.6853,10,,,,
+p,Pellegrini Renta Pesos,Pellegrini,MM ARS Clásico,54.3365,0.701,9,,,,
+p,IAM Ahorro Pesos,BIND,MM ARS Clásico,51.7379,0.6906,7,,,,
+p,MAF Money Market,Mariva,MM ARS Clásico,50.8424,0.76,7,,,,
+p,MAF Ahorro Plus,Mariva,RF ARS Disc,46.9071,0.5649,5,,,,
+p,Delta Pesos,Delta,MM ARS Clásico,44.3287,0.4522,9,,,,
+p,Fima Premium,Galicia,MM ARS Clásico,43.4945,0.5285,9,,,,
+p,Lombard Renta en Pesos,Patagonia,MM ARS Clásico,42.7642,0.6086,7,,,,

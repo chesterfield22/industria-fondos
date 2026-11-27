@@ -1,0 +1,76 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,GSS I,,,,,,,,
+m,gerente,Grupo SS S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,14714020222,,,,,,,,
+m,aum_planilla,14714020222,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63450,,,,,,,,
+m,n_especies,21,,,,,,,,
+m,activos_pn,100.2,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,2.09,,,,,,,,
+m,top1,14.84,,,,,,,,
+m,top5,53.11,,,,,,,,
+m,top10,81.05,,,,,,,,
+m,hhi_especies,819.1079,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,30.39,,,,,,,,
+m,hhi_emisores,1494.8287,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,47.9,11,,,,,,,
+t,Soberano,30.39,3,,,,,,,
+t,Plazo fijo,18.93,2,,,,,,,
+t,Caución,2.04,1,,,,,,,
+t,FCI,0.8,2,,,,,,,
+t,Fideicomiso financiero,0.09,2,,,,,,,
+c,ARS,99.26,,,,,,,,
+c,sin dato,0.89,,,,,,,,
+r,Disponibilidades,0.05,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,78.29,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,20.97,,,,,,,,
+r,Certificados de Participacion Argentina,0.89,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.2,,,,,,,,
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,14.84,2183560601,,,Titulos de Deuda en Peso Argentina,166
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,11.85,1743611396,,,Titulos de Deuda en Peso Argentina,149
+e,Pzo Fi $ Bco Galicia,Plazo fijo,Banco Galicia,ARS,11.22,1650913069,,,Operaciones a Plazo en Peso Argentina,67
+e,Pzo Fi $ Toyota Cia. Fin.,Plazo fijo,Toyota Cia. Fin,ARS,7.71,1134450959,,,Operaciones a Plazo en Peso Argentina,2
+e,ON Banco Hipotecario C11,ON,Banco Hipotecario,ARS,7.49,1102080115,,,Titulos de Deuda en Peso Argentina,21
+e,ON Banco de Galicia 32 BYY1O,ON,Banco de Galicia,ARS,6.38,938754490,,,Titulos de Deuda en Peso Argentina,44
+e,ON BBVA Frances Cl 46,ON,BBVA Frances,ARS,6.1,897555234,,,Titulos de Deuda en Peso Argentina,35
+e,ON BBVA Frances Cl 47,ON,BBVA Frances,ARS,6.06,891669625,,,Titulos de Deuda en Peso Argentina,45
+e,ON Mercado Pago C5,ON,Mercado Pago,ARS,5.03,740115217,,,Titulos de Deuda en Peso Argentina,15
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,4.37,643002684,,,Titulos de Deuda en Peso Argentina,61
+e,ON Santander Rio S 31,ON,Santander Rio,ARS,4.1,603274829,,,Titulos de Deuda en Peso Argentina,40
+e,ON ICBC Clase 5 110327,ON,ICBC,ARS,3.9,573846789,,,Titulos de Deuda en Peso Argentina,36
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,3.7,544418748,,,Titulos de Deuda en Peso Argentina,160
+e,ON ICBC Clase 7 170627,ON,ICBC,ARS,2.25,331065455,,,Titulos de Deuda en Peso Argentina,23
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,2.04,300166013,,,Operaciones a Plazo en Peso Argentina,195
+e,ON BBVA Frances Cl 38,ON,BBVA Frances,ARS,1.44,211881891,,,Titulos de Deuda en Peso Argentina,29
+e,ON Tarj Naranja C67 S1,ON,Tarj Naranja,ARS,0.78,114769358,,,Titulos de Deuda en Peso Argentina,40
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.56,82398513,,,Certificados de Participacion Argentina,77
+e,FCI BM Smart Money Market - Clase B,FCI,BM Smart Money Market,,0.24,35313649,,,Certificados de Participacion Argentina,34
+e,FF Megabono 333 Clase A,Fideicomiso financiero,Megabono,,0.05,7357010,,,Certificados de Participacion Argentina,14
+e,FF Megabono 337 Clase A,Fideicomiso financiero,Megabono,,0.04,5885608,,,Certificados de Participacion Argentina,6
+p,GSS II,Grupo SS,RF ARS Disc,54.8454,0.5904,17,,,,
+p,Pionero Renta Ahorro,Macro,T+1,37.7701,0.5441,13,,,,
+p,Crecer Ahorro,Ciudad,RF ARS Disc,35.2225,0.544,12,,,,
+p,Fima Ahorro Pesos,Galicia,T+1,33.7031,0.508,10,,,,
+p,Consultatio Renta Local,Consultatio,RF ARS Lecap,32.3814,0.5795,4,,,,
+p,BAVSA Ahorro Plus,BAVSA,RF ARS Lecap,32.3814,0.5719,4,,,,
+p,Cocos Crecimiento,Cocos,T+1,32.0515,0.4886,4,,,,
+p,Adcap Balanceado XVI,Adcap,RF ARS Lecap,31.9302,0.4097,4,,,,

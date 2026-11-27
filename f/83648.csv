@@ -1,0 +1,70 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pellegrini Renta Fija II,,,,,,,,
+m,gerente,Pellegrini S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de La Nacion Argentina,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,260470045927,,,,,,,,
+m,aum_planilla,260470045927,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83648,,,,,,,,
+m,n_especies,20,,,,,,,,
+m,activos_pn,100.04,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,18.69,,,,,,,,
+m,top5,67.25,,,,,,,,
+m,top10,89.39,,,,,,,,
+m,hhi_especies,1164.3558,,,,,,,,
+m,n_emisores,4,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,99.42,,,,,,,,
+m,hhi_emisores,9884.4654,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,99.42,17,,,,,,,
+t,FCI,0.62,3,,,,,,,
+c,ARS,99.42,,,,,,,,
+c,sin dato,0.62,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.42,,,,,,,,
+r,Certificados de Participacion Argentina,0.62,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.04,,,,,,,,
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,18.69,48681851584,,,Titulos de Deuda en Peso Argentina,158
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,18.48,48134864487,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,15.76,41050079238,,,Titulos de Deuda en Peso Argentina,146
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,8.69,22634846991,,,Titulos de Deuda en Peso Argentina,136
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,5.63,14664463586,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,4.99,12997455292,,,Titulos de Deuda en Peso Argentina,128
+e,Boncer TZXY7,Soberano,Tesoro Nacional,ARS,4.92,12815126260,,,Titulos de Deuda en Peso Argentina,76
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,4.71,12268139163,,,Titulos de Deuda en Peso Argentina,51
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,4.14,10783459901,,,Titulos de Deuda en Peso Argentina,75
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,3.38,8803887552,,,Titulos de Deuda en Peso Argentina,67
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,2.22,5782435020,,,Titulos de Deuda en Peso Argentina,64
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,2.1,5469870964,,,Titulos de Deuda en Peso Argentina,61
+e,Bono Capitalizable T30J7,Soberano,Tesoro Nacional,ARS,2.03,5287541932,,,Titulos de Deuda en Peso Argentina,11
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,1.83,4766601840,,,Titulos de Deuda en Peso Argentina,66
+e,Bono Boncer TZXD8,Soberano,Tesoro Nacional,ARS,0.68,1771196312,,,Titulos de Deuda en Peso Argentina,26
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,0.59,1536773271,,,Titulos de Deuda en Peso Argentina,84
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,0.58,1510726266,,,Titulos de Deuda en Peso Argentina,160
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.23,599081106,,,Certificados de Participacion Argentina,93
+e,FCI MAF Money Market - Clase B,FCI,MAF Money Market,,0.2,520940092,,,Certificados de Participacion Argentina,39
+e,FCI Schroder Liquidez - Clase B,FCI,Schroder Liquidez,,0.19,494893087,,,Certificados de Participacion Argentina,44
+p,Pellegrini Crecimiento,Pellegrini,RF ARS CER,70.4607,0.8802,14,,,,
+p,Pellegrini Renta Fija Ahorro,Pellegrini,RF ARS Disc,55.2092,0.7232,9,,,,
+p,Pionero Renta,Macro,RF ARS CER,54.2692,0.7595,8,,,,
+p,Argenfunds Renta Balanceada,Argenfunds,RF ARS CER,52.173,0.6476,6,,,,
+p,Toronto Trust Estrategico,Investis,RF ARS Disc,51.8658,0.7126,6,,,,
+p,Superfondo Renta Fija,Santander,RF ARS CER,50.989,0.6377,11,,,,
+p,Puente Retorno Pesos,Puente,RF ARS Disc,48.9495,0.6244,5,,,,
+p,Fima Mix II,Galicia,RM y Otros ARS,47.9276,0.6416,6,,,,

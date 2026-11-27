@@ -1,0 +1,64 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Balanz Lecaps,,,,,,,,
+m,gerente,Balanz S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Lecap,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,164025746947,,,,,,,,
+m,aum_planilla,164025746947,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/81959,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,100.23,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,16.36,,,,,,,,
+m,top5,69.44,,,,,,,,
+m,top10,98.92,,,,,,,,
+m,hhi_especies,1217.171,,,,,,,,
+m,n_emisores,6,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,78.67,,,,,,,,
+m,hhi_emisores,6344.5684,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,78.67,7,,,,,,,
+t,Plazo fijo,19.14,3,,,,,,,
+t,FCI,2.41,2,,,,,,,
+c,ARS,97.81,,,,,,,,
+c,sin dato,2.41,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,78.67,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,19.14,,,,,,,,
+r,Certificados de Participacion Argentina,2.41,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.23,,,,,,,,
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,16.36,26834612201,,,Titulos de Deuda en Peso Argentina,166
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,16.29,26719794178,,,Titulos de Deuda en Peso Argentina,160
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,13.96,22897994274,,,Titulos de Deuda en Peso Argentina,112
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,13.46,22077865539,,,Titulos de Deuda en Peso Argentina,86
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,9.37,15369212489,,,Titulos de Deuda en Peso Argentina,149
+e,Pzo Fi $ Bco Santander Ri,Plazo fijo,Banco Santander Ri,ARS,9.24,15155979018,,,Operaciones a Plazo en Peso Argentina,68
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,7.94,13023644308,,,Titulos de Deuda en Peso Argentina,82
+e,Pzo Fi $ Bco Nacion,Plazo fijo,Banco Nacion,ARS,7.73,12679190239,,,Operaciones a Plazo en Peso Argentina,84
+e,FCI Schroder Liquidez - Clase B,FCI,Schroder Liquidez,,2.4,3936617927,,,Certificados de Participacion Argentina,44
+e,Pzo Fi $ Bco Galicia,Plazo fijo,Banco Galicia,ARS,2.17,3559358709,,,Operaciones a Plazo en Peso Argentina,67
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,1.29,2115932136,,,Titulos de Deuda en Peso Argentina,80
+e,FCI Adcap Ahorro Pesos - Clase C,FCI,Adcap Ahorro Pesos,,0.01,16402575,,,Certificados de Participacion Argentina,15
+p,Galileo Ahorro,Delta,RF ARS Lecap,59.5836,0.8129,5,,,,
+p,Pellegrini Renta Fija Publica,Pellegrini,RF ARS Lecap,56.1838,0.7203,7,,,,
+p,Champaquí Renta Plus,Bancor,RF ARS Lecap,55.9298,0.7212,5,,,,
+p,1810 Mas Ahorro,Proahorro,RF ARS Lecap,55.6819,0.6716,7,,,,
+p,Fima Ahorro Pesos,Galicia,T+1,53.7167,0.7439,8,,,,
+p,SBS Tavelli Mix,SBS,T+1,51.1475,0.6912,4,,,,
+p,Consultatio Renta Local,Consultatio,RF ARS Lecap,50.5715,0.6841,5,,,,
+p,Adcap Balanceado XI,Adcap,RF ARS Disc,48.8724,0.6793,5,,,,

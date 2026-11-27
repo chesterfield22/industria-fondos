@@ -1,0 +1,96 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Allaria Dólar Dinámico,,,,,,,,
+m,gerente,Allaria Fondos Administrados S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD corp loc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,182408321,,,,,,,,
+m,aum_planilla,182166059,,,,,,,,
+m,dif_pn_aum,0.0013,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86171,,,,,,,,
+m,n_especies,47,,,,,,,,
+m,activos_pn,100.04,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.9,,,,,,,,
+m,top1,8.39,,,,,,,,
+m,top5,33.25,,,,,,,,
+m,top10,55.63,,,,,,,,
+m,hhi_especies,409.5282,,,,,,,,
+m,n_emisores,36,,,,,,,,
+m,emisor_top,Banco Nacion Argentina,,,,,,,,
+m,emisor_top_pct,9.1,,,,,,,,
+m,hhi_emisores,472.7984,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,93.72,38,,,,,,,
+t,FCI,4.42,9,,,,,,,
+c,USD,98.14,,,,,,,,
+r,Disponibilidades,1.9,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,93.72,,,,,,,,
+r,Certificados de Participacion Argentina,4.42,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.04,,,,,,,,
+e,ON Banco Nacion Argentina Clase 5,ON,Banco Nacion Argentina,USD,8.39,15304058,,,Titulos de Deuda en Dolar Estadounidense,25
+e,ON Pampa Energia C27,ON,Pampa Energia,USD,7.44,13571179,,,Titulos de Deuda en Dolar Estadounidense,32
+e,ON John Deere Cia. Fin C19,ON,John Deere Cia. Fin,USD,6.26,11418761,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON Loma Negra C6,ON,Loma Negra,USD,5.59,10196625,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Banco de Galicia 33 BYZ2O,ON,Banco de Galicia,USD,5.57,10160143,,,Titulos de Deuda en Dolar Estadounidense,18
+e,ON Tarj Naranja C68 S2,ON,Tarj Naranja,USD,5.49,10014217,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Otamerica S6,ON,Otamerica,USD,5.49,10014217,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Oldelval Clase 6,ON,Oldelval,USD,4.85,8846804,,,Titulos de Deuda en Dolar Estadounidense,41
+e,ON Cresud Clase 50,ON,Cresud,USD,3.33,6074197,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Central Puerto Clase E,ON,Central Puerto,USD,3.22,5873548,,,Titulos de Deuda en Dolar Estadounidense,31
+e,ON Central Puerto Clase D,ON,Central Puerto,USD,2.94,5362805,,,Titulos de Deuda en Dolar Estadounidense,24
+e,ON Pluspetrol Clase 6,ON,Pluspetrol,USD,2.9,5289841,,,Titulos de Deuda en Dolar Estadounidense,43
+e,ON BBVA Frances Cl 50,ON,BBVA Frances,USD,2.78,5070951,,,Titulos de Deuda en Dolar Estadounidense,30
+e,ON Supervielle Clase W,ON,Supervielle,USD,2.78,5070951,,,Titulos de Deuda en Dolar Estadounidense,22
+e,ON Luz De Tres Picos C5,ON,Luz De Tres Picos,USD,2.71,4943265,,,Titulos de Deuda en Dolar Estadounidense,17
+e,ON CNH Arg. C10,ON,CNH Arg,USD,2.31,4213632,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Banco Comafi C27,ON,Banco Comafi,USD,2.22,4049465,,,Titulos de Deuda en Dolar Estadounidense,5
+e,ON Pecom C3,ON,Pecom,USD,2.19,3994742,,,Titulos de Deuda en Dolar Estadounidense,26
+e,ON Scania Credit C4,ON,Scania Credit,USD,1.66,3027978,,,Titulos de Deuda en Dolar Estadounidense,8
+e,ON Mastellone Clase 2,ON,Mastellone,USD,1.57,2863811,,,Titulos de Deuda en Dolar Estadounidense,11
+e,SBS Liquidez USD - Clase B,FCI,Liquidez USD,USD,1.42,2590198,,,Certificados de Participacion Argentina,14
+e,ON Capex C12,ON,Capex,USD,1.16,2115937,,,Titulos de Deuda en Dolar Estadounidense,20
+e,FCI Gainvest Dólares Premium - Clase B,FCI,Gainvest Dólares Premium,USD,1.15,2097696,,,Certificados de Participacion Argentina,4
+e,ON Farmacity C1,ON,Farmacity,USD,1.14,2079455,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Plaza Logistica C5 ZPC5O,ON,Plaza Logistica,USD,1.12,2042973,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON CNH Arg. C11,ON,CNH Arg,USD,1.12,2042973,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Cresud Clase 52,ON,Cresud,USD,1.11,2024732,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Banco de Cordoba C4,ON,Banco de Cordoba,USD,1.06,1933528,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON BBVA Frances Cl 44,ON,BBVA Frances,USD,0.97,1769361,,,Titulos de Deuda en Dolar Estadounidense,24
+e,ON Central Dock Sud C1,ON,Central Dock Sud,USD,0.88,1605193,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON CGC C 41,ON,CGC,USD,0.83,1513989,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON YPF Clase 43,ON,YPF,USD,0.74,1349822,,,Titulos de Deuda en Dolar Estadounidense,34
+e,ON Banco Nacion Argentina Clase 7,ON,Banco Nacion Argentina,USD,0.71,1295099,,,Titulos de Deuda en Dolar Estadounidense,17
+e,FCI Schroder Liquidez Dolares - Clase B,FCI,Schroder Liquidez Dolares,USD,0.67,1222136,,,Certificados de Participacion Argentina,6
+e,ON Banco Comafi C19,ON,Banco Comafi,USD,0.57,1039727,,,Titulos de Deuda en Dolar Estadounidense,6
+e,ON CGC C 40,ON,CGC,USD,0.56,1021487,,,Titulos de Deuda en Dolar Estadounidense,10
+e,FCI Max Money Market Dólares - Clase B,FCI,Max Money Market Dólares,USD,0.56,1021487,,,Certificados de Participacion Argentina,11
+e,FCI Megaqm Liquidez Dólar - Clase B,FCI,Megaqm Liquidez Dólar,USD,0.55,1003246,,,Certificados de Participacion Argentina,20
+e,ON AES Argentina Gen 060828,ON,AES Argentina Gen,USD,0.55,1003246,,,Titulos de Deuda en Dolar Estadounidense,24
+e,ON Pluspetrol Clase 2,ON,Pluspetrol,USD,0.51,930282.4368,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Oldelval Clase 5,ON,Oldelval,USD,0.45,820837.4443,,,Titulos de Deuda en Dolar Estadounidense,34
+e,ON Otamerica S7,ON,Otamerica,USD,0.28,510743.2987,,,Titulos de Deuda en Dolar Estadounidense,23
+e,ON Plaza Logistica C15,ON,Plaza Logistica,USD,0.27,492502.4666,,,Titulos de Deuda en Dolar Estadounidense,19
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,0.04,72963.3284,,,Certificados de Participacion Argentina,37
+e,FCI Cocos Dólar Money Market - Clase C,FCI,Cocos Dólar Money Market,USD,0.01,18240.8321,,,Certificados de Participacion Argentina,14
+e,FCI Consultatio Liquidez Dólar - Clase C,FCI,Consultatio Liquidez Dólar,USD,0.01,18240.8321,,,Certificados de Participacion Argentina,4
+e,FCI IEB Corto Plazo Dólar - Clase B,FCI,IEB Corto Plazo Dólar,USD,0.01,18240.8321,,,Certificados de Participacion Argentina,12
+p,ConoSur Renta Fija Corporativa,Cono Sur,RF USD corp loc,32.4609,0.4492,20,,,,
+p,Argenfunds Inversión Dólares,Argenfunds,RF USD Disc,27.1786,0.3089,7,,,,
+p,BAVSA Renta Dólares,BAVSA,RF USD corp loc,24.3712,0.3316,8,,,,
+p,Alpha Renta Fija Corporativa Dólar,ICBC,RF USD corp loc,23.1542,0.2923,23,,,,
+p,Crecer Capital Dolares,Ciudad,RF USD corp loc,21.6499,0.2182,11,,,,
+p,Chaco FCI Renta Fija Dólares,Chaco,RF USD corp loc,21.5617,0.2435,16,,,,
+p,Champaquí Renta Dólar,Bancor,RF USD corp loc,21.4517,0.3367,12,,,,
+p,Max Renta Fija Dolares,Max Capital,RF USD corp loc,21.2231,0.2244,22,,,,

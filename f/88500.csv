@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Tango Ahorro USD,,,,,,,,
+m,gerente,Tango Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD corp loc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense Billete,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,4501093,,,,,,,,
+m,aum_planilla,4501093,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88500,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,100.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,15.86,,,,,,,,
+m,top5,61.88,,,,,,,,
+m,top10,89.82,,,,,,,,
+m,hhi_especies,990.2278,,,,,,,,
+m,n_emisores,13,,,,,,,,
+m,emisor_top,Banco Nacion Argentina,,,,,,,,
+m,emisor_top_pct,20.3,,,,,,,,
+m,hhi_emisores,1136.0422,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,93.56,13,,,,,,,
+t,FCI,6.46,2,,,,,,,
+c,sin dato,93.56,,,,,,,,
+c,USD,6.46,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense MEP,93.56,,,,,,,,
+r,Certificados de Participacion Argentina,6.46,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.02,,,,,,,,
+e,ON Banco Nacion Argentina Clase 5,ON,Banco Nacion Argentina,,15.86,713873.4275,,,Titulos de Deuda en Dolar Estadounidense MEP,25
+e,ON BBVA Frances Cl 44,ON,BBVA Frances,,13.7,616649.8081,,,Titulos de Deuda en Dolar Estadounidense MEP,24
+e,ON Vaca Muerta C1,ON,Vaca Muerta,,12.27,552284.1712,,,Titulos de Deuda en Dolar Estadounidense MEP,45
+e,ON Pampa Energia C29,ON,Pampa Energia,,11.09,499171.268,,,Titulos de Deuda en Dolar Estadounidense MEP,28
+e,ON Loma Negra C7,ON,Loma Negra,,8.96,403297.9767,,,Titulos de Deuda en Dolar Estadounidense MEP,30
+e,ON YPF Clase 42,ON,YPF,,8.45,380342.3999,,,Titulos de Deuda en Dolar Estadounidense MEP,48
+e,FCI IEB Corto Plazo Dólar - Clase B,FCI,IEB Corto Plazo Dólar,USD,6.24,280868.2338,,,Certificados de Participacion Argentina,12
+e,ON Supervielle Clase W,ON,Supervielle,,4.53,203899.5351,,,Titulos de Deuda en Dolar Estadounidense MEP,22
+e,ON Banco Nacion Argentina Clase 7,ON,Banco Nacion Argentina,,4.44,199848.551,,,Titulos de Deuda en Dolar Estadounidense MEP,17
+e,ON Tecpetrol C13,ON,Tecpetrol,,4.28,192646.8014,,,Titulos de Deuda en Dolar Estadounidense MEP,24
+e,ON Pluspetrol Clase 6,ON,Pluspetrol,,3.41,153487.288,,,Titulos de Deuda en Dolar Estadounidense MEP,43
+e,ON Arcor C7,ON,Arcor,,3.31,148986.1945,,,Titulos de Deuda en Dolar Estadounidense MEP,8
+e,ON Banco de Galicia 32 BYY2O,ON,Banco de Galicia,,2.04,91822.3072,,,Titulos de Deuda en Dolar Estadounidense MEP,13
+e,ON Banco de Galicia 33 BYZ2O,ON,Banco de Galicia,,1.22,54913.3406,,,Titulos de Deuda en Dolar Estadounidense MEP,18
+e,FCI Valiant Money Market Dolares - Clase A,FCI,Valiant Money Market Dolares,USD,0.22,9902.4057,,,Certificados de Participacion Argentina,1
+p,Argenfunds Inversión Dólares,Argenfunds,RF USD Disc,29.3447,0.3893,5,,,,
+p,Chimpay Ahorro en Dólares,Chimpay,RF USD Disc,20.2266,0.2413,4,,,,
+p,Crecer Capital Dolares,Ciudad,RF USD corp loc,19.5223,0.2174,8,,,,
+p,1810 Renta Dólar,Proahorro,RF USD corp loc,18.322,0.271,8,,,,
+p,Allaria Dólar Dinámico,Allaria,RF USD corp loc,17.2784,0.2808,7,,,,
+p,Novus Renta Dólar,Novus,RF USD Disc,16.7754,0.1565,3,,,,
+p,Stonex Renta Fija Dolares,StoneX,RF USD corp loc,15.8739,0.2827,4,,,,
+p,Champaquí Renta Dólar,Bancor,RF USD corp loc,15.811,0.1948,7,,,,

@@ -1,0 +1,97 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Consultatio Estrategia III,,,,,,,,
+m,gerente,Consultatio Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros USD,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,4273116,,,,,,,,
+m,aum_planilla,4273116,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87763,,,,,,,,
+m,n_especies,38,,,,,,,,
+m,activos_pn,171.11,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,4.7,,,,,,,,
+m,top1,24.92,,,,,,,,
+m,top5,82.09,,,,,,,,
+m,top10,114.71,,,,,,,,
+m,hhi_especies,1887.1436,,,,,,,,
+m,n_emisores,35,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,49.1,,,,,,,,
+m,hhi_emisores,3445.0118,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,49.1,3,,,,,,,
+t,Acción,44.96,25,,,,,,,
+t,BCRA,20.59,1,,,,,,,
+t,Cedear,19.17,5,,,,,,,
+t,Subsoberano,12.4,1,,,,,,,
+t,Soberano exterior,10.25,1,,,,,,,
+t,ON,9.09,2,,,,,,,
+c,USD,77.93,,,,,,,,
+c,sin dato,44.96,,,,,,,,
+c,ARS,42.67,,,,,,,,
+r,Disponibilidades,4.7,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,77.93,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,23.5,,,,,,,,
+r,Participaciones Accionarias Estados Unidos,44.96,,,,,,,,
+r,Participaciones Accionarias Argentina,19.17,,,,,,,,
+r,Certificados de Participacion Argentina,,,,,,,,,
+r,Otros Activos,0.85,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),71.11,,,,,,,,
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,24.92,1064861,,,Titulos de Deuda en Dolar Estadounidense,83
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,USD,20.59,879834.6009,,,Titulos de Deuda en Dolar Estadounidense,33
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,USD,13.08,558923.5833,,,Titulos de Deuda en Dolar Estadounidense,72
+e,Letra Prov Bs As PBA27,Subsoberano,Prov. Buenos Aires,ARS,12.4,529866.3939,,,Titulos de Deuda en Peso Argentina,38
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,11.1,474315.8849,,,Titulos de Deuda en Peso Argentina,250
+e,US Treasury Bond 150136,Soberano exterior,Tesoro EE.UU.,USD,10.25,437994.3982,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Facebook,Acción,Facebook,,6.15,262796.6389,,,Participaciones Accionarias Estados Unidos,2
+e,Morgan Stanley Capital International (MSCI),Acción,Morgan Stanley Capital International (MSCI),,5.71,243994.9282,,,Participaciones Accionarias Estados Unidos,2
+e,ON Pluspetrol Clase 7,ON,Pluspetrol,USD,5.44,232457.5148,,,Titulos de Deuda en Dolar Estadounidense,7
+e,Cedear Facebook,Cedear,Facebook,ARS,5.07,216646.9853,,,Participaciones Accionarias Argentina,18
+e,Cedear Microsoft,Cedear,Microsoft,ARS,4.73,202118.3906,,,Participaciones Accionarias Argentina,14
+e,Pepsico Incorporated,Acción,Pepsico Incorporated,,4.63,197845.2745,,,Participaciones Accionarias Estados Unidos,2
+e,TransDigm Group Incorporated,Acción,TransDigm Group Incorporated,,4.31,184171.303,,,Participaciones Accionarias Estados Unidos,2
+e,"Domino's Pizza, Inc.",Acción,"Domino's Pizza, Inc",,4.09,174770.4477,,,Participaciones Accionarias Estados Unidos,2
+e,ON Telecom 9.5% 2031,ON,Telecom,USD,3.65,155968.7369,,,Titulos de Deuda en Dolar Estadounidense,38
+e,Cedear Taiwan Semiconduct,Cedear,Taiwan Semiconduct,ARS,3.5,149559.0628,,,Participaciones Accionarias Argentina,4
+e,Cedear Nvidia Corp.,Cedear,Nvidia Corp.,ARS,3.46,147849.8164,,,Participaciones Accionarias Argentina,14
+e,Mastercard Incorporated,Acción,Mastercard Incorporated,,3.39,144858.6351,,,Participaciones Accionarias Estados Unidos,2
+e,Canadian Pacific Kansas City,Acción,Canadian Pacific Kansas City,,3.36,143576.7003,,,Participaciones Accionarias Estados Unidos,2
+e,Broadcom Inc.,Acción,Broadcom Inc,,2.52,107682.5252,,,Participaciones Accionarias Estados Unidos,4
+e,ADR Taiwan Semiconductor,Acción,ADR Taiwan Semiconductor,,2.48,105973.2788,,,Participaciones Accionarias Estados Unidos,3
+e,Cedear Mastercard,Cedear,Mastercard,ARS,2.41,102982.0975,,,Participaciones Accionarias Argentina,3
+e,Nvidia Corp.,Acción,Nvidia Corp,,1.3,55550.509,,,Participaciones Accionarias Estados Unidos,4
+e,Vertex Pharmaceuticals Inc,Acción,Vertex Pharmaceuticals Inc,,0.81,34612.2402,,,Participaciones Accionarias Estados Unidos,1
+e,Newmont Mining Corporation,Acción,Newmont Mining Corporation,,0.75,32048.3706,,,Participaciones Accionarias Estados Unidos,1
+e,Expedia Incorporated,Acción,Expedia Incorporated,,0.64,27347.9429,,,Participaciones Accionarias Estados Unidos,1
+e,Signet Jewelers Ltd,Acción,Signet Jewelers Ltd,,0.63,26920.6313,,,Participaciones Accionarias Estados Unidos,1
+e,Altria Group Incorporated,Acción,Altria Group Incorporated,,0.56,23929.45,,,Participaciones Accionarias Estados Unidos,1
+e,Micron Technology Incorporated,Acción,Micron Technology Incorporated,,0.55,23502.1384,,,Participaciones Accionarias Estados Unidos,2
+e,Comfort Systems USA Inc,Acción,Comfort Systems USA Inc,,0.5,21365.5804,,,Participaciones Accionarias Estados Unidos,1
+e,Canadian National Railway,Acción,Canadian National Railway,,0.49,20938.2688,,,Participaciones Accionarias Estados Unidos,1
+e,SanDisk Corporation,Acción,SanDisk Corporation,,0.47,20083.6456,,,Participaciones Accionarias Estados Unidos,1
+e,MGM Resorts International,Acción,MGM Resorts International,,0.46,19656.334,,,Participaciones Accionarias Estados Unidos,1
+e,Crocs Inc.,Acción,Crocs Inc,,0.42,17947.0875,,,Participaciones Accionarias Estados Unidos,1
+e,Centene Corporation (CNC),Acción,Centene Corporation (CNC),,0.29,12392.0366,,,Participaciones Accionarias Estados Unidos,1
+e,United Parks Resorts,Acción,United Parks Resorts,,0.24,10255.4786,,,Participaciones Accionarias Estados Unidos,1
+e,V2X Inc.,Acción,V2X Inc,,0.14,5982.3625,,,Participaciones Accionarias Estados Unidos,1
+e,National Beverage Corp.,Acción,National Beverage Corp,,0.07,2991.1813,,,Participaciones Accionarias Estados Unidos,1
+p,Novus Capital,Novus,RM y Otros USD,27.7112,0.5749,4,,,,
+p,Novus Ahorro Dólares,Novus,RF USD Disc,27.4885,0.6368,2,,,,
+p,Allaria Dólar Performance II,Allaria,RF USD Disc,27.4885,0.5813,2,,,,
+p,Intervalores Total Return,Allaria Fondos Administrados S.G.F.C.I.S.A.,,27.4885,0.5385,2,,,,
+p,FBA Renta Fija Dólar Plus I,BBVA,RF USD Disc,25.8201,0.493,3,,,,
+p,Max Estrategico IV,Max Capital,RF USD GL Inc ARG,24.7353,0.4821,2,,,,
+p,FCIC Inmobiliario Reit Ciclo Nova,IEB,MM ARS Clásico,24.4273,0.5196,3,,,,
+p,BAVSA Retorno Total,BAVSA,RM y Otros ARS,23.8463,0.4245,3,,,,

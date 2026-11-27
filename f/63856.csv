@@ -1,0 +1,62 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Toronto Trust Liquidez Dólar,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Credito y Securitizacion S.A. (BACS),,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Ex ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,9188829,,,,,,,,
+m,aum_planilla,9188829,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63856,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,100.25,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,2.74,,,,,,,,
+m,top1,19.67,,,,,,,,
+m,top5,70.67,,,,,,,,
+m,top10,94.46,,,,,,,,
+m,hhi_especies,1232.8429,,,,,,,,
+m,n_emisores,8,,,,,,,,
+m,emisor_top,Chile (soberano),,,,,,,,
+m,emisor_top_pct,22.96,,,,,,,,
+m,hhi_emisores,1620.3447,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano exterior,53.88,7,,,,,,,
+t,Corporativo exterior,23.97,2,,,,,,,
+t,Acción,16.43,1,,,,,,,
+t,Otro título de deuda,3.23,1,,,,,,,
+c,sin dato,97.51,,,,,,,,
+r,Disponibilidades,2.74,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense MEP,81.08,,,,,,,,
+r,Participaciones Accionarias Chile,16.43,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.25,,,,,,,,
+e,BC Bradesco 2027,Corporativo exterior,Bradesco,,19.67,1807443,,,Titulos de Deuda en Dolar Estadounidense MEP,10
+e,CL Rep Chile 2027,Soberano exterior,Chile (soberano),,16.69,1533616,,,Titulos de Deuda en Dolar Estadounidense MEP,22
+e,Caja los Andes,Acción,Caja los Andes,,16.43,1509725,,,Participaciones Accionarias Chile,3
+e,US Treasury Bill 241226,Soberano exterior,Tesoro EE.UU.,,9.74,894991.9368,,,Titulos de Deuda en Dolar Estadounidense MEP,4
+e,US Treasury Bill 031226,Soberano exterior,Tesoro EE.UU.,,8.14,747970.6741,,,Titulos de Deuda en Dolar Estadounidense MEP,4
+e,BR Rep Brasil 28,Soberano exterior,Brasil (soberano),,7.68,705702.0611,,,Titulos de Deuda en Dolar Estadounidense MEP,11
+e,PAR Rep del Paraguay 2027,Soberano exterior,Paraguay (soberano),,5.36,492521.2301,,,Titulos de Deuda en Dolar Estadounidense MEP,3
+e,BC Bco Credito e Inv 2027,Corporativo exterior,Banco Credito e Inv,,4.3,395119.6436,,,Titulos de Deuda en Dolar Estadounidense MEP,16
+e,Bono Corporativo 3.625% 010827,Otro título de deuda,Bono Corporativo,,3.23,296799.1741,,,Titulos de Deuda en Dolar Estadounidense MEP,24
+e,CL Rep Chile 28,Soberano exterior,Chile (soberano),,3.22,295880.2912,,,Titulos de Deuda en Dolar Estadounidense MEP,18
+e,Chile 4.85%,Soberano exterior,Chile (soberano),,3.05,280259.2821,,,Titulos de Deuda en Dolar Estadounidense MEP,12
+p,Lombard Renta Fija en Dolares,Patagonia,RF USD GL Ex ARG,38.5491,0.5081,6,,,,
+p,Consultatio Income Fund,Consultatio,RF USD GL Ex ARG,32.9969,0.4245,6,,,,
+p,Pionero Renta Dólares,Macro,RF USD GL Ex ARG,31.3257,0.3896,4,,,,
+p,Balanz Capital Sudamericano,Balanz,RF USD GL Ex ARG,30.676,0.3125,6,,,,
+p,Balanz Capital Estrategia IV USD,Balanz,RF USD GL Inc ARG,30.1798,0.3238,5,,,,
+p,Galileo Income,Delta,RF USD GL Ex ARG,26.3954,0.3466,7,,,,
+p,Fima Renta Fija Internacional,Galicia,RF USD GL Ex ARG,25.9965,0.3361,4,,,,
+p,Argenfunds Renta Capital,Argenfunds,RF USD GL Inc ARG,24.7436,0.3256,4,,,,

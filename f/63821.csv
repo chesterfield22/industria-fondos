@@ -1,0 +1,98 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Premier Estrategico,,,,,,,,
+m,gerente,Supervielle Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Supervielle S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,12068624983,,,,,,,,
+m,aum_planilla,12068624983,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63821,,,,,,,,
+m,n_especies,40,,,,,,,,
+m,activos_pn,99.73,,,,,,,,
+m,pasivos_cnv,0.27,,,,,,,,
+m,liquidez,11.01,,,,,,,,
+m,top1,13.23,,,,,,,,
+m,top5,48.86,,,,,,,,
+m,top10,72.62,,,,,,,,
+m,hhi_especies,677.1608,,,,,,,,
+m,n_emisores,13,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,28.16,,,,,,,,
+m,hhi_emisores,1180.5157,,,,,,,,
+m,sin_emisor_pct,21.29,,,,,,,,
+t,ON,37.04,7,,,,,,,
+t,Soberano,28.16,6,,,,,,,
+t,Pagaré,16.94,3,,,,,,,
+t,Caución,10.52,1,,,,,,,
+t,Cheque,4.35,19,,,,,,,
+t,Fideicomiso financiero,1.8,2,,,,,,,
+t,FCI,0.43,2,,,,,,,
+c,ARS,75.49,,,,,,,,
+c,USD,21.95,,,,,,,,
+c,sin dato,1.8,,,,,,,,
+r,Disponibilidades,0.49,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,64.56,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,10.52,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,21.93,,,,,,,,
+r,Certificados de Participacion Argentina,2.23,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.27,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.27,,,,,,,,
+e,ON Oldelval Clase 7,ON,Oldelval,USD,13.23,1596679085,,,Titulos de Deuda en Dolar Estadounidense,41
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,10.52,1269619348,,,Operaciones a Plazo en Peso Argentina,195
+e,Bono CER TZX27,Soberano,Tesoro Nacional,ARS,8.68,1047556649,,,Titulos de Deuda en Peso Argentina,43
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,8.3,1001695874,,,Titulos de Deuda en Peso Argentina,56
+e,Pagare #MAV021260040,Pagaré,,ARS,8.13,981179211,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAC150170005,Pagaré,,ARS,5.65,681877312,,,Titulos de Deuda en Peso Argentina,1
+e,ON Capex C12,ON,Capex,USD,5.53,667394962,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON Banco Comafi C22,ON,Banco Comafi,ARS,4.22,509295974,,,Titulos de Deuda en Peso Argentina,30
+e,ON Tarj Naranja C68 S1,ON,Tarj Naranja,ARS,4.2,506882249,,,Titulos de Deuda en Peso Argentina,17
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,4.16,502054799,,,Titulos de Deuda en Peso Argentina,61
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,3.69,445332262,,,Titulos de Deuda en Peso Argentina,158
+e,Bono Boncer TX28,Soberano,Tesoro Nacional,ARS,3.32,400678349,,,Titulos de Deuda en Peso Argentina,40
+e,ON Inversora Juramento C7 JNC7O,ON,Inversora Juramento,USD,3.16,381368549,,,Titulos de Deuda en Dolar Estadounidense,8
+e,Pagare #UAC150470001,Pagaré,,ARS,3.16,381368549,,,Titulos de Deuda en Peso Argentina,1
+e,ON Pyme Urbano Express Argentina S1,ON,Pyme Urbano Express Argentina,ARS,2.54,306543075,,,Titulos de Deuda en Peso Argentina,20
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,2.43,293267587,,,Titulos de Deuda en Peso Argentina,250
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,1.74,209994075,,,Titulos de Deuda en Peso Argentina,136
+e,FF Moni Mobile 19 A,Fideicomiso financiero,Moni Mobile,,1.27,153271537,,,Certificados de Participacion Argentina,9
+e,Cheque E *FTR101200024,Cheque,,ARS,1.21,146030362,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *SOL201200008,Cheque,,ARS,1.2,144823500,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ACI170200237,Cheque,,ARS,0.92,111031350,,,Titulos de Deuda en Peso Argentina,1
+e,FF Mercado Credito 46 CA,Fideicomiso financiero,Mercado Credito,,0.53,63963712,,,Certificados de Participacion Argentina,28
+e,FCI Lombard Renta en $,FCI,Lombard Renta en $,ARS,0.4,48274500,,,Certificados de Participacion Argentina,29
+e,Cheque E *SOL260400006,Cheque,,ARS,0.11,13275487,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *SOL301100025,Cheque,,ARS,0.08,9654900,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *SOL200100009,Cheque,,ARS,0.08,9654900,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *SOL100100005,Cheque,,ARS,0.08,9654900,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *SOL301200009,Cheque,,ARS,0.08,9654900,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *SOL201100010,Cheque,,ARS,0.08,9654900,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *SOL201200007,Cheque,,ARS,0.08,9654900,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *SOL160400006,Cheque,,ARS,0.07,8448037,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FTR071100012,Cheque,,ARS,0.05,6034312,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FTR070100010,Cheque,,ARS,0.05,6034312,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FTR070200013,Cheque,,ARS,0.05,6034312,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FTR071200023,Cheque,,ARS,0.05,6034312,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *SOL101200008,Cheque,,ARS,0.04,4827450,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *SOL101100014,Cheque,,ARS,0.04,4827450,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *SOL051200003,Cheque,,ARS,0.04,4827450,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *SOL051100006,Cheque,,ARS,0.04,4827450,,,Titulos de Deuda en Peso Argentina,1
+e,Lombard Liquidez Dolares - Clase A,FCI,ard Liquidez Dolares,USD,0.03,3620587,,,Certificados de Participacion Argentina,7
+p,Schroder Argentina,Schroder,RF MULT Disc,25.131,0.4926,4,,,,
+p,Fundcorp Performance Balanceado,CMF,RF ARS Disc,23.1963,0.3481,6,,,,
+p,Superfondo Renta Mixta,Santander,RF MULT Disc,21.4127,0.3261,3,,,,
+p,Premier Renta Plus en Pesos,Supervielle,RF MULT Corp,20.9826,0.2934,5,,,,
+p,Allaria Dinámico,Allaria,RM y Otros ARS,19.4265,0.2821,4,,,,
+p,Lombard Renta Fija,Patagonia,RF USD Linked,18.3797,0.2197,5,,,,
+p,Schroder Retorno Absoluto,Schroder,RF ARS Disc,16.7674,0.3836,3,,,,
+p,Schroder Multiactivos,Schroder,RF MULT Disc,16.7674,0.3564,3,,,,

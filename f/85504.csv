@@ -1,0 +1,95 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Adcap Balanceado X,,,,,,,,
+m,gerente,Adcap Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,53532105224,,,,,,,,
+m,aum_planilla,53532105224,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85504,,,,,,,,
+m,n_especies,44,,,,,,,,
+m,activos_pn,100.04,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,9.98,,,,,,,,
+m,top5,38.22,,,,,,,,
+m,top10,51.23,,,,,,,,
+m,hhi_especies,437.818,,,,,,,,
+m,n_emisores,8,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,41.18,,,,,,,,
+m,hhi_emisores,1726.96,,,,,,,,
+m,sin_emisor_pct,46.14,,,,,,,,
+t,Pagaré,46.14,29,,,,,,,
+t,Soberano,41.18,7,,,,,,,
+t,ON,11.72,7,,,,,,,
+t,Subsoberano,0.98,1,,,,,,,
+c,ARS,100.02,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,100.04,,,,,,,,
+r,Certificados de Participacion Argentina,,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.04,,,,,,,,
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,9.98,5342504101,,,Titulos de Deuda en Peso Argentina,112
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,9.61,5144435312,,,Titulos de Deuda en Peso Argentina,136
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,8.64,4625173891,,,Titulos de Deuda en Peso Argentina,250
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,6.59,3527765734,,,Titulos de Deuda en Peso Argentina,166
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,3.4,1820091578,,,Titulos de Deuda en Peso Argentina,61
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,3.3,1766559472,,,Titulos de Deuda en Peso Argentina,80
+e,Pagare #MAV141260028,Pagaré,,ARS,2.51,1343655841,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV280170022,Pagaré,,ARS,2.41,1290123736,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV280170023,Pagaré,,ARS,2.41,1290123736,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV010170002,Pagaré,,ARS,2.38,1274064104,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV010270026,Pagaré,,ARS,2.34,1252651262,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV010270029,Pagaré,,ARS,2.34,1252651262,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV010270031,Pagaré,,ARS,2.34,1252651262,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV010270030,Pagaré,,ARS,2.31,1236591631,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV010270027,Pagaré,,ARS,2.31,1236591631,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV010270028,Pagaré,,ARS,2.31,1236591631,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV280170025,Pagaré,,ARS,2.31,1236591631,,,Titulos de Deuda en Peso Argentina,1
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,2.11,1129527420,,,Titulos de Deuda en Peso Argentina,149
+e,ON Payway C1,ON,Payway,ARS,1.95,1043876052,,,Titulos de Deuda en Peso Argentina,21
+e,Pagare #MAV280170026,Pagaré,,ARS,1.9,1017109999,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV280170027,Pagaré,,ARS,1.9,1017109999,,,Titulos de Deuda en Peso Argentina,1
+e,ON Banco Prov Clase 7,ON,Banco Provincia,ARS,1.75,936811841,,,Titulos de Deuda en Peso Argentina,16
+e,ON Banco Prov Clase 6,ON,Banco Provincia,ARS,1.72,920752210,,,Titulos de Deuda en Peso Argentina,43
+e,Pagare #MAV141260032,Pagaré,,ARS,1.44,770862315,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV280170024,Pagaré,,ARS,1.19,637032052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV010270035,Pagaré,,ARS,1.19,637032052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV010270036,Pagaré,,ARS,1.19,637032052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV010270033,Pagaré,,ARS,1.19,637032052,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV141260025,Pagaré,,ARS,1.15,615619210,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV141260029,Pagaré,,ARS,1.15,615619210,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV141260030,Pagaré,,ARS,1.15,615619210,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV141260026,Pagaré,,ARS,1.02,546027473,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV141260027,Pagaré,,ARS,1.02,546027473,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV141260033,Pagaré,,ARS,1.02,546027473,,,Titulos de Deuda en Peso Argentina,1
+e,ON ICBC Clase 5 110327,ON,ICBC,ARS,0.98,524614631,,,Titulos de Deuda en Peso Argentina,36
+e,Letra Muni Cordoba S53,Subsoberano,Muni. Cordoba,ARS,0.98,524614631,,,Titulos de Deuda en Peso Argentina,17
+e,ON Rombo Cia Fciera S69,ON,Rombo Cia Fciera,ARS,0.97,519261421,,,Titulos de Deuda en Peso Argentina,15
+e,ON Bco Serv Transac C27,ON,Banco Serv Transac,ARS,0.95,508555000,,,Titulos de Deuda en Peso Argentina,12
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,0.95,508555000,,,Titulos de Deuda en Peso Argentina,142
+e,Pagare #MAV010270025,Pagaré,,ARS,0.9,481788947,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV010270034,Pagaré,,ARS,0.9,481788947,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV141260031,Pagaré,,ARS,0.87,465729315,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV010270032,Pagaré,,ARS,0.75,401490789,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV070170016,Pagaré,,ARS,0.24,128477053,,,Titulos de Deuda en Peso Argentina,1
+p,GMC Retorno Total VI,GMC,RM y Otros ARS,36.6244,0.6543,12,,,,
+p,Adcap Balance Multiactivo,Adcap,RF ARS Disc,34.3715,0.6682,4,,,,
+p,Valiant Renta Fija Balanceado VI,Valiant,RF ARS Lecap,31.5837,0.6537,5,,,,
+p,Valiant Renta Fija,Valiant,T+1,31.516,0.5515,4,,,,
+p,Pellegrini Renta Fija Publica,Pellegrini,RF ARS Lecap,30.8174,0.5141,5,,,,
+p,Valiant Renta Fija Balanceado II,Valiant,RF ARS Disc,30.14,0.651,5,,,,
+p,Pellegrini Renta Fija,Pellegrini,T+1,29.9918,0.6077,7,,,,
+p,Pellegrini Renta Fija III,Pellegrini,T+1,29.5308,0.4823,5,,,,

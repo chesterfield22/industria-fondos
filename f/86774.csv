@@ -1,0 +1,72 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,SBS Patrimonio IX,,,,,,,,
+m,gerente,SBS Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,54309653470,,,,,,,,
+m,aum_planilla,54309653470,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86774,,,,,,,,
+m,n_especies,19,,,,,,,,
+m,activos_pn,99.99,,,,,,,,
+m,pasivos_cnv,0.01,,,,,,,,
+m,liquidez,0.23,,,,,,,,
+m,top1,20.52,,,,,,,,
+m,top5,64.02,,,,,,,,
+m,top10,87.57,,,,,,,,
+m,hhi_especies,1087.5883,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,42.33,,,,,,,,
+m,hhi_emisores,2271.9905,,,,,,,,
+m,sin_emisor_pct,8.9,,,,,,,,
+t,ON,47.36,12,,,,,,,
+t,Soberano,42.33,3,,,,,,,
+t,Pagaré,8.9,2,,,,,,,
+t,FCI,1.16,2,,,,,,,
+c,ARS,98.59,,,,,,,,
+c,sin dato,0.88,,,,,,,,
+c,USD,0.28,,,,,,,,
+r,Disponibilidades,0.23,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,98.6,,,,,,,,
+r,Certificados de Participacion Argentina,1.16,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.01,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.01,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,20.52,11144340892,,,Titulos de Deuda en Peso Argentina,103
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,15.86,8613511040,,,Titulos de Deuda en Peso Argentina,75
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,12.95,7033100124,,,Titulos de Deuda en Peso Argentina,42
+e,ON Pan American C33,ON,Pan American,ARS,8.74,4746663713,,,Titulos de Deuda en Peso Argentina,36
+e,Letra Tesoro Nac D31M7,Soberano,Tesoro Nacional,ARS,5.95,3231424381,,,Titulos de Deuda en Peso Argentina,30
+e,ON Aluar Serie 6,ON,Aluar,ARS,5.34,2900135495,,,Titulos de Deuda en Peso Argentina,28
+e,Pagare $MAV291260018,Pagaré,,ARS,5.31,2883842599,,,Titulos de Deuda en Peso Argentina,1
+e,ON Oldelval Clase 3,ON,Oldelval,ARS,4.66,2530829852,,,Titulos de Deuda en Peso Argentina,40
+e,ON Telecom C12 TLCDO,ON,Telecom,ARS,4.65,2525398886,,,Titulos de Deuda en Peso Argentina,29
+e,Pagare $MAV101260039,Pagaré,,ARS,3.59,1949716560,,,Titulos de Deuda en Peso Argentina,1
+e,ON Vista Gas y Oil Arg C21,ON,Vista Gas y Oil Arg,ARS,3.04,1651013465,,,Titulos de Deuda en Peso Argentina,27
+e,ON Pan Amer. Energy C 18,ON,Pan Amer. Energy,ARS,2.21,1200243342,,,Titulos de Deuda en Peso Argentina,14
+e,ON Vista Gas y Oil Arg C25,ON,Vista Gas y Oil Arg,ARS,1.54,836368663,,,Titulos de Deuda en Peso Argentina,18
+e,ON YPF Clase XXIV,ON,YPF,ARS,1.44,782059010,,,Titulos de Deuda en Peso Argentina,2
+e,ON Telecom C14 TLCFO,ON,Telecom,ARS,1.36,738611287,,,Titulos de Deuda en Peso Argentina,23
+e,ON YPF Luz Clase 14,ON,YPF Luz,ARS,1.07,581113292,,,Titulos de Deuda en Peso Argentina,8
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.88,477924951,,,Certificados de Participacion Argentina,96
+e,ON YPF Clase XXVI,ON,YPF,ARS,0.36,195514752,,,Titulos de Deuda en Peso Argentina,3
+e,FCI Cocos Dólar Money Market - Clase C,FCI,Cocos Dólar Money Market,USD,0.28,152067030,,,Certificados de Participacion Argentina,14
+p,Blacktoro Cobertura,BlackToro,RF USD Linked,47.3892,0.6304,5,,,,
+p,Balanz Soja,Balanz,RV ARG Rofex 20,45.2331,0.7523,3,,,,
+p,Max Cobertura,Max Capital,RF USD Linked,42.4361,0.7642,3,,,,
+p,Allaria Agro,Allaria,RF MULT Disc,42.4361,0.7379,3,,,,
+p,Megainver Renta Global,MegaQM,T+1,42.4361,0.719,3,,,,
+p,Allaria Patrimonio II,Allaria,RF USD Linked,42.0021,0.7295,4,,,,
+p,FBA Horizonte,BBVA,RF USD Linked,41.9046,0.7635,3,,,,
+p,Optimum Global Balanced,Santander,RM y Otros ARS,41.4331,0.5692,5,,,,

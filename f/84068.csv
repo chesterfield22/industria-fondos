@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,SBS Renta Mixta III,,,,,,,,
+m,gerente,SBS Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF USD GL Inc ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,9485113,,,,,,,,
+m,aum_planilla,9485113,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/84068,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,100.1,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,2.78,,,,,,,,
+m,top1,22.62,,,,,,,,
+m,top5,63.22,,,,,,,,
+m,top10,89.08,,,,,,,,
+m,hhi_especies,1130.7726,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Tesoro EE.UU.,,,,,,,,
+m,emisor_top_pct,24.56,,,,,,,,
+m,hhi_emisores,1496.242,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano exterior,52.46,4,,,,,,,
+t,ON,27.91,6,,,,,,,
+t,Otro título de deuda,7.9,1,,,,,,,
+t,Corporativo exterior,5.28,1,,,,,,,
+t,FCI,3.77,1,,,,,,,
+c,USD,97.32,,,,,,,,
+r,Disponibilidades,2.78,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,93.55,,,,,,,,
+r,Certificados de Participacion Argentina,3.77,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.1,,,,,,,,
+e,BR Bono Global 2027 10.12%,Soberano exterior,Brasil (soberano),USD,22.62,2145533,,,Titulos de Deuda en Dolar Estadounidense,11
+e,US Treasury Bill 171126,Soberano exterior,Tesoro EE.UU.,USD,16.11,1528052,,,Titulos de Deuda en Dolar Estadounidense,3
+e,US Treasury Bill 101226,Soberano exterior,Tesoro EE.UU.,USD,8.45,801492.0772,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON Pan American C38,ON,Pan American,USD,8.14,772088.2259,,,Titulos de Deuda en Dolar Estadounidense,15
+e,Bono Corporativo 3.625% 010827,Otro título de deuda,Bono Corporativo,USD,7.9,749323.9539,,,Titulos de Deuda en Dolar Estadounidense,24
+e,ON YPF Clase 42,ON,YPF,USD,5.55,526423.7904,,,Titulos de Deuda en Dolar Estadounidense,48
+e,ON Pampa Energia C25,ON,Pampa Energia,USD,5.43,515041.6544,,,Titulos de Deuda en Dolar Estadounidense,19
+e,BC Inversiones CMPC 2027,Corporativo exterior,Inversiones CMPC,USD,5.28,500813.9844,,,Titulos de Deuda en Dolar Estadounidense,9
+e,CL Rep Chile 2027,Soberano exterior,Chile (soberano),USD,5.28,500813.9844,,,Titulos de Deuda en Dolar Estadounidense,22
+e,ON YPF Clase 38,ON,YPF,USD,4.32,409756.8963,,,Titulos de Deuda en Dolar Estadounidense,26
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,3.77,357588.7729,,,Certificados de Participacion Argentina,37
+e,ON Pan American C37,ON,Pan American,USD,2.78,263686.1509,,,Titulos de Deuda en Dolar Estadounidense,18
+e,ON Oldelval Clase 5,ON,Oldelval,USD,1.69,160298.4154,,,Titulos de Deuda en Dolar Estadounidense,34
+p,SBS Renta Dólar Latam,SBS,RF USD GL Inc ARG,37.6303,0.5182,6,,,,
+p,Consultatio Gestion III,Consultatio,RF USD GL Ex ARG,35.7834,0.4998,3,,,,
+p,Fima Renta Fija Internacional,Galicia,RF USD GL Ex ARG,34.2767,0.49,3,,,,
+p,Consultatio Gestion II,Consultatio,RM y Otros ARS,22.6694,0.3691,2,,,,
+p,Pionero Renta Dólares,Macro,RF USD GL Ex ARG,18.4897,0.2229,4,,,,
+p,Balanz Capital Sudamericano,Balanz,RF USD GL Ex ARG,18.408,0.2399,3,,,,
+p,Lombard Renta Fija en Dolares,Patagonia,RF USD GL Ex ARG,17.1338,0.1861,4,,,,
+p,MEGAQM Renta Fija LATAM,MegaQM,RF USD GL Ex ARG,17.1316,0.1586,4,,,,

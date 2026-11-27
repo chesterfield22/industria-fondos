@@ -1,0 +1,80 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MAF Renta Argentina,,,,,,,,
+m,gerente,Mariva Asset Management S.A.U.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Mariva S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,18891064967,,,,,,,,
+m,aum_planilla,18891064959,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63644,,,,,,,,
+m,n_especies,25,,,,,,,,
+m,activos_pn,99.88,,,,,,,,
+m,pasivos_cnv,0.12,,,,,,,,
+m,liquidez,0.15,,,,,,,,
+m,top1,42.96,,,,,,,,
+m,top5,74.01,,,,,,,,
+m,top10,86.12,,,,,,,,
+m,hhi_especies,2261.9893,,,,,,,,
+m,n_emisores,14,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,72.82,,,,,,,,
+m,hhi_emisores,5371.5703,,,,,,,,
+m,sin_emisor_pct,4.36,,,,,,,,
+t,Soberano,72.82,7,,,,,,,
+t,ON,14.82,12,,,,,,,
+t,BCRA,6.32,2,,,,,,,
+t,Pagaré,4.36,3,,,,,,,
+t,FCI,1.39,1,,,,,,,
+c,ARS,77.17,,,,,,,,
+c,USD,21.15,,,,,,,,
+c,sin dato,1.39,,,,,,,,
+r,Disponibilidades,0.15,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,77.19,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,21.15,,,,,,,,
+r,Certificados de Participacion Argentina,1.39,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.12,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.12,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,42.96,8115601510,,,Titulos de Deuda en Peso Argentina,103
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,17.37,3281377985,,,Titulos de Deuda en Dolar Estadounidense,83
+e,Bono Bopreal 2027 Serie 1 Clase B BPOB7,BCRA,BCRA,ARS,6.21,1173135134,,,Titulos de Deuda en Peso Argentina,13
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,4.12,778311877,,,Titulos de Deuda en Peso Argentina,160
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,3.35,632850676,,,Titulos de Deuda en Peso Argentina,159
+e,ON CGC C 39,ON,CGC,ARS,3.04,574288375,,,Titulos de Deuda en Peso Argentina,34
+e,Letra Tesoro Nac D31M7,Soberano,Tesoro Nacional,ARS,2.93,553508204,,,Titulos de Deuda en Peso Argentina,30
+e,ON Central Dock Sud C1,ON,Central Dock Sud,USD,2.1,396712364,,,Titulos de Deuda en Dolar Estadounidense,12
+e,Pagare #UBS040270001,Pagaré,,ARS,2.02,381599512,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UBS180270001,Pagaré,,ARS,2.02,381599512,,,Titulos de Deuda en Peso Argentina,1
+e,Bonos Rep Argentina GD35,Soberano,Tesoro Nacional,ARS,1.71,323037211,,,Titulos de Deuda en Peso Argentina,54
+e,ON Bco Serv Transac C31,ON,Banco Serv Transac,USD,1.68,317369891,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Capex C10,ON,Capex,ARS,1.61,304146146,,,Titulos de Deuda en Peso Argentina,17
+e,ON Oldelval Clase 3,ON,Oldelval,ARS,1.6,302257039,,,Titulos de Deuda en Peso Argentina,40
+e,ON Telecom C19 TLCKO,ON,Telecom,ARS,1.56,294700613,,,Titulos de Deuda en Peso Argentina,30
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,1.39,262585803,,,Certificados de Participacion Argentina,93
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,0.89,168130478,,,Titulos de Deuda en Peso Argentina,56
+e,ON Pan American C33,ON,Pan American,ARS,0.78,147350307,,,Titulos de Deuda en Peso Argentina,36
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,0.48,90677112,,,Titulos de Deuda en Peso Argentina,67
+e,ON Vista Gas y Oil Arg C17,ON,Vista Gas y Oil Arg,ARS,0.44,83120686,,,Titulos de Deuda en Peso Argentina,23
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,0.38,71786047,,,Titulos de Deuda en Peso Argentina,158
+e,ON Pan Amer. Energy C 18,ON,Pan Amer. Energy,ARS,0.32,60451408,,,Titulos de Deuda en Peso Argentina,14
+e,Pagare #UBI080370002,Pagaré,,ARS,0.32,60451408,,,Titulos de Deuda en Peso Argentina,1
+e,ON Petroqui C Rivadavia PQCOO,ON,Petroqui C Rivadavia PQCOO,ARS,0.32,60451408,,,Titulos de Deuda en Peso Argentina,13
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,ARS,0.11,20780171,,,Titulos de Deuda en Peso Argentina,33
+p,Max Multigestión I,Max Capital,RF USD Linked,54.8762,0.9289,2,,,,
+p,MAF Renta Fija Cobertura,Mariva,RF MULT Disc,48.176,0.728,11,,,,
+p,MAF Gestión Activa III,Mariva,RF USD Linked,47.0747,0.7516,3,,,,
+p,Max Retorno Total Pesos III,Max Capital,RF MULT Disc,46.4447,0.7464,2,,,,
+p,Max Dinamico IV,Max Capital,RF USD Linked,44.6896,0.7834,2,,,,
+p,Allaria Calificado,Allaria,RF USD Linked,43.0849,0.9032,1,,,,
+p,Megainver Renta Global,MegaQM,T+1,41.9014,0.6488,3,,,,
+p,Pionero Soja,Macro,RM y Otros ARS,39.7498,0.6063,1,,,,

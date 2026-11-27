@@ -1,0 +1,69 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Consultatio Acciones Argentina,,,,,,,,
+m,gerente,Consultatio Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,RV ARG Merval,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,61876173203,,,,,,,,
+m,aum_planilla,61876173203,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63312,,,,,,,,
+m,n_especies,19,,,,,,,,
+m,activos_pn,100.05,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.17,,,,,,,,
+m,top1,17.59,,,,,,,,
+m,top5,68.99,,,,,,,,
+m,top10,91.65,,,,,,,,
+m,hhi_especies,1161.145,,,,,,,,
+m,n_emisores,19,,,,,,,,
+m,emisor_top,YPF,,,,,,,,
+m,emisor_top_pct,17.59,,,,,,,,
+m,hhi_emisores,1161.145,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,99.79,16,,,,,,,
+t,FCI,0.09,3,,,,,,,
+c,ARS,99.79,,,,,,,,
+c,sin dato,0.09,,,,,,,,
+r,Disponibilidades,0.17,,,,,,,,
+r,Participaciones Accionarias Argentina,99.79,,,,,,,,
+r,Certificados de Participacion Argentina,0.09,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.05,,,,,,,,
+e,YPF S.A.,Acción,YPF,ARS,17.59,10884018866,,,Participaciones Accionarias Argentina,122
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,16.96,10494198975,,,Participaciones Accionarias Argentina,117
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,15.41,9535118291,,,Participaciones Accionarias Argentina,129
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,12.51,7740709268,,,Participaciones Accionarias Argentina,93
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,6.52,4034326493,,,Participaciones Accionarias Argentina,104
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,6.24,3861073208,,,Participaciones Accionarias Argentina,85
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,5.59,3458878082,,,Participaciones Accionarias Argentina,86
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,5.26,3254686710,,,Participaciones Accionarias Argentina,104
+e,Transener S.A.,Acción,Transener,ARS,3.18,1967662308,,,Participaciones Accionarias Argentina,84
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,2.39,1478840540,,,Participaciones Accionarias Argentina,77
+e,Transportadora de Gas del Norte S.A.,Acción,Transportadora de Gas del Norte,ARS,2.22,1373651045,,,Participaciones Accionarias Argentina,70
+e,Banco de Valores S.A.,Acción,Banco de Valores,ARS,1.93,1194210143,,,Participaciones Accionarias Argentina,31
+e,Telecom Argentina S.A.,Acción,Telecom Argentina,ARS,1.73,1070457796,,,Participaciones Accionarias Argentina,43
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,1.11,686825523,,,Participaciones Accionarias Argentina,83
+e,Aluar Aluminio Argentino S.A.I.C.,Acción,Aluar Aluminio Argentino S.A.I.C,ARS,1.02,631136967,,,Participaciones Accionarias Argentina,56
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,0.13,80439025,,,Participaciones Accionarias Argentina,77
+e,FCI MEGAQM Pesos - Clase A,FCI,MEGAQM Pesos,,0.04,24750469,,,Certificados de Participacion Argentina,8
+e,FCI Argenfunds Liquidez - Clase B,FCI,Argenfunds Liquidez,,0.04,24750469,,,Certificados de Participacion Argentina,50
+e,FCI GMC Money Market - Clase C,FCI,GMC Money Market,,0.01,6187617,,,Certificados de Participacion Argentina,22
+p,Consultatio Rofex 20,Consultatio,RV ARG Rofex 20,93.057,0.9916,15,,,,
+p,SBS Acciones Argentina,SBS,RV ARG Merval,90.9101,0.9875,13,,,,
+p,Delta Select,Delta,RV ARG Merval,89.7106,0.9874,15,,,,
+p,Alpha Acciones,ICBC,RV ARG Merval,86.634,0.9833,16,,,,
+p,MEGAQM Acciones,MegaQM,RV ARG Rofex 20,86.2651,0.9775,16,,,,
+p,Fima Acciones,Galicia,RV ARG Merval,86.1155,0.9729,15,,,,
+p,Argenfunds Renta Variable,Argenfunds,RV ARG Rofex 20,85.9562,0.975,16,,,,
+p,Champaquí Renta Variable,Bancor,RV ARG Rofex 20,85.6535,0.9754,16,,,,

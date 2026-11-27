@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Consultatio Renta Fija Argentina F.C.I.,,,,,,,,
+m,gerente,Consultatio Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,23228746993,,,,,,,,
+m,aum_planilla,23228746993,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63581,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,94.7,,,,,,,,
+m,pasivos_cnv,5.3,,,,,,,,
+m,liquidez,0.57,,,,,,,,
+m,top1,28.28,,,,,,,,
+m,top5,71.82,,,,,,,,
+m,top10,89.41,,,,,,,,
+m,hhi_especies,1502.9345,,,,,,,,
+m,n_emisores,8,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,39.21,,,,,,,,
+m,hhi_emisores,2286.9077,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,39.21,3,,,,,,,
+t,ON,33.68,9,,,,,,,
+t,Subsoberano,20.84,1,,,,,,,
+t,FCI,0.38,1,,,,,,,
+c,ARS,93.73,,,,,,,,
+c,sin dato,0.38,,,,,,,,
+r,Disponibilidades,0.57,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,93.75,,,,,,,,
+r,Certificados de Participacion Argentina,0.38,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,5.3,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-5.3,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,28.28,6569089650,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Prov de Buenos Aires TZV28,Subsoberano,Prov. Buenos Aires,ARS,20.84,4840870873,,,Titulos de Deuda en Peso Argentina,46
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,9.4,2183502217,,,Titulos de Deuda en Peso Argentina,165
+e,ON Telecom C19 TLCKO,ON,Telecom,ARS,6.68,1551680299,,,Titulos de Deuda en Peso Argentina,30
+e,ON Telecom C12 TLCDO,ON,Telecom,ARS,6.62,1537743051,,,Titulos de Deuda en Peso Argentina,29
+e,ON Pampa Energia C13,ON,Pampa Energia,ARS,6.51,1512191429,,,Titulos de Deuda en Peso Argentina,30
+e,ON Pan American C33,ON,Pan American,ARS,5.84,1356558824,,,Titulos de Deuda en Peso Argentina,36
+e,ON Pampa Energia C23 (RegS),ON,Pampa Energia,ARS,1.8,418117446,,,Titulos de Deuda en Peso Argentina,36
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,1.75,406503072,,,Titulos de Deuda en Peso Argentina,56
+e,ON Pan American C26,ON,Pan American,ARS,1.69,392565824,,,Titulos de Deuda en Peso Argentina,38
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,1.54,357722704,,,Titulos de Deuda en Peso Argentina,67
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,1.53,355399829,,,Titulos de Deuda en Peso Argentina,56
+e,ON PCR Clase K,ON,PCR,ARS,1.25,290359337,,,Titulos de Deuda en Peso Argentina,26
+e,FCI Ciclo Nova Ahorro - Clase E,FCI,Ciclo Nova Ahorro,,0.38,88269239,,,Certificados de Participacion Argentina,38
+p,Novus Valor,Novus,RF USD Linked,54.5163,0.7539,4,,,,
+p,First Renta Mixta VII,First Cap Mkts,RF MULT Disc,50.7798,0.6972,3,,,,
+p,Lombard Renta Fija,Patagonia,RF USD Linked,44.2502,0.735,3,,,,
+p,Optimum Global Investment Grade,SAM Arg,RM y Otros ARS,42.2896,0.7305,6,,,,
+p,Optimum FAE (Fondo de Aplicaciones Especiales),SAM Arg,RF MULT Disc,41.0935,0.635,4,,,,
+p,IAM Renta Mixta,BIND,RM y Otros ARS,40.0481,0.6033,3,,,,
+p,Super Bonos,Santander,RF USD Linked,37.6182,0.5554,10,,,,
+p,Consultatio Multimercado I,Consultatio,RF MULT Disc,36.8623,0.6113,2,,,,

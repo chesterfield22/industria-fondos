@@ -1,0 +1,74 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,IAM Estrategia,,,,,,,,
+m,gerente,Industrial Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Industrial S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Inc ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,20855883,,,,,,,,
+m,aum_planilla,20855883,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63933,,,,,,,,
+m,n_especies,19,,,,,,,,
+m,activos_pn,91.47,,,,,,,,
+m,pasivos_cnv,8.53,,,,,,,,
+m,liquidez,4.81,,,,,,,,
+m,top1,12.44,,,,,,,,
+m,top5,42.16,,,,,,,,
+m,top10,65.92,,,,,,,,
+m,hhi_especies,607.6407,,,,,,,,
+m,n_emisores,16,,,,,,,,
+m,emisor_top,Tesoro EE.UU.,,,,,,,,
+m,emisor_top_pct,24.12,,,,,,,,
+m,hhi_emisores,972.3195,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano exterior,38.21,5,,,,,,,
+t,Corporativo exterior,34.3,8,,,,,,,
+t,Soberano,6.37,1,,,,,,,
+t,Caución,4.79,1,,,,,,,
+t,ON,4.77,1,,,,,,,
+t,FCI,3.03,3,,,,,,,
+c,USD,90.59,,,,,,,,
+c,sin dato,0.88,,,,,,,,
+r,Disponibilidades,0.02,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,83.63,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,4.79,,,,,,,,
+r,Certificados de Participacion Argentina,3.03,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,8.53,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-8.53,,,,,,,,
+e,US Treasury Bill 271126,Soberano exterior,Tesoro EE.UU.,USD,12.44,2594472,,,Titulos de Deuda en Dolar Estadounidense,10
+e,US Treasury Bill 311226,Soberano exterior,Tesoro EE.UU.,USD,11.68,2435967,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BC Codelco 300929,Corporativo exterior,Codelco,USD,6.74,1405686,,,Titulos de Deuda en Dolar Estadounidense,9
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,USD,6.37,1328520,,,Titulos de Deuda en Dolar Estadounidense,82
+e,BC Cencosud 5.95%,Corporativo exterior,Cencosud,USD,4.93,1028195,,,Titulos de Deuda en Dolar Estadounidense,16
+e,Caucion Colocadora U$S BYMA,Caución,Caución BYMA,USD,4.79,998996.7804,,,Operaciones a Plazo en Dolar Estadounidense,35
+e,ON Vista Energy 31,ON,Vista Energy,USD,4.77,994825.6038,,,Titulos de Deuda en Dolar Estadounidense,9
+e,BC Banco Do Brasil 2029,Corporativo exterior,Banco Do Brasil,USD,4.75,990654.4273,,,Titulos de Deuda en Dolar Estadounidense,15
+e,CL Rep Chile 28,Soberano exterior,Chile (soberano),USD,4.73,986483.2508,,,Titulos de Deuda en Dolar Estadounidense,18
+e,BC Brasil 110630,Soberano exterior,Brasil (soberano),USD,4.72,984397.6625,,,Titulos de Deuda en Dolar Estadounidense,9
+e,CL Rep Chile 2031,Soberano exterior,Chile (soberano),USD,4.64,967712.9564,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC Falabella 150132,Corporativo exterior,Falabella,USD,4.3,896802.9552,,,Titulos de Deuda en Dolar Estadounidense,8
+e,BC De Credito de Inversiones 2.875%,Corporativo exterior,De Credito de Inversiones,USD,4.23,882203.8374,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BC Falabella 2027,Corporativo exterior,Falabella,USD,3.51,732041.4821,,,Titulos de Deuda en Dolar Estadounidense,5
+e,BC Mercado Libre 2031,Corporativo exterior,Mercado Libre,USD,3.47,723699.129,,,Titulos de Deuda en Dolar Estadounidense,5
+e,BC Bco Credito e Inv 2027,Corporativo exterior,Banco Credito e Inv,USD,2.37,494284.4195,,,Titulos de Deuda en Dolar Estadounidense,16
+e,FCI Cocos Ahorro Dólares - Clase B,FCI,Cocos Ahorro Dólares,USD,2.14,446315.8894,,,Certificados de Participacion Argentina,3
+e,FCI MAF Money Market - Clase B,FCI,MAF Money Market,,0.88,183531.7676,,,Certificados de Participacion Argentina,39
+e,FCI Megaqm Liquidez Dólar - Clase B,FCI,Megaqm Liquidez Dólar,USD,0.01,2085.5883,,,Certificados de Participacion Argentina,20
+p,IAM Performance Americas,BIND,RF USD GL Ex ARG,28.3153,0.3075,7,,,,
+p,Consultatio Income Fund,Consultatio,RF USD GL Ex ARG,22.5235,0.1853,7,,,,
+p,1822 Raices Renta Fija Internacional,Provinfondos,RF USD GL Ex ARG,20.5204,0.2619,4,,,,
+p,Superfondo Renta Fija Dólares II,Santander,RF USD GL Ex ARG,18.2903,0.1554,4,,,,
+p,MEGAQM Renta Fija LATAM,MegaQM,RF USD GL Ex ARG,17.0768,0.1744,5,,,,
+p,Allaria Dolar Crecimiento,Allaria,RF USD GL Inc ARG,16.0324,0.162,4,,,,
+p,Lombard Renta Fija en Dolares,Patagonia,RF USD GL Ex ARG,15.5224,0.1112,4,,,,
+p,Allaria Dólar Latam,Allaria,RF USD GL Ex ARG,15.2938,0.1958,4,,,,

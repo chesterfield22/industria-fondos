@@ -1,0 +1,81 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Chimpay Retorno Total,,,,,,,,
+m,gerente,Chimpay S.A.,,,,,,,,
+m,depositaria,Banco Industrial S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,24635796837,,,,,,,,
+m,aum_planilla,24635796837,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88238,,,,,,,,
+m,n_especies,24,,,,,,,,
+m,activos_pn,99.99,,,,,,,,
+m,pasivos_cnv,0.01,,,,,,,,
+m,liquidez,0.2,,,,,,,,
+m,top1,15.77,,,,,,,,
+m,top5,55.68,,,,,,,,
+m,top10,78.29,,,,,,,,
+m,hhi_especies,812.0589,,,,,,,,
+m,n_emisores,19,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,26.18,,,,,,,,
+m,hhi_emisores,1326.7961,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,57.73,10,,,,,,,
+t,Soberano,26.18,4,,,,,,,
+t,Subsoberano,6.71,2,,,,,,,
+t,Cedear,5.59,4,,,,,,,
+t,ETF,2.72,1,,,,,,,
+t,FCI,0.56,1,,,,,,,
+t,ON,0.3,2,,,,,,,
+c,ARS,96.51,,,,,,,,
+c,sin dato,3.28,,,,,,,,
+r,Disponibilidades,0.2,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,33.19,,,,,,,,
+r,Participaciones Accionarias Argentina,63.77,,,,,,,,
+r,Participaciones Accionarias Luxemburgo,2.27,,,,,,,,
+r,Certificados de Participacion Argentina,0.56,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.01,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.01,,,,,,,,
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,15.77,3885065161,,,Participaciones Accionarias Argentina,117
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,12.24,3015421533,,,Participaciones Accionarias Argentina,93
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,10.45,2574440770,,,Participaciones Accionarias Argentina,86
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,9.04,2227076034,,,Titulos de Deuda en Peso Argentina,250
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,8.18,2015208181,,,Titulos de Deuda en Peso Argentina,74
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,5.91,1455975593,,,Titulos de Deuda en Peso Argentina,51
+e,Grupo Supervielle S.A.,Acción,Grupo Supervielle,ARS,5.37,1322942290,,,Participaciones Accionarias Argentina,64
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,4.51,1111074437,,,Participaciones Accionarias Argentina,129
+e,Bono Prov Cordoba Clase 4,Subsoberano,Prov. Cordoba,ARS,3.77,928769541,,,Titulos de Deuda en Peso Argentina,37
+e,Bonos Rep Argentina AL41,Soberano,Tesoro Nacional,ARS,3.05,751391804,,,Titulos de Deuda en Peso Argentina,14
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,3,739073905,,,Participaciones Accionarias Argentina,83
+e,Bono Prov Cordoba 2027 COY27,Subsoberano,Prov. Cordoba,ARS,2.94,724292427,,,Titulos de Deuda en Peso Argentina,28
+e,Cedear iShares Silver Trust,ETF,Cedear iShares Silver Trust,,2.72,670093674,,,Participaciones Accionarias Argentina,7
+e,Cedear Broadcom Inc,Cedear,Broadcom Inc,ARS,2.36,581404805,,,Participaciones Accionarias Argentina,8
+e,Cedear Corporacion America Airports,Cedear,Corporacion America Airports,ARS,2.27,559232588,,,Participaciones Accionarias Luxemburgo,5
+e,Inversiones y Representaciones S.A. (IRSA),Acción,Inversiones y Representaciones S.A. (IRSA),ARS,2.08,512424574,,,Participaciones Accionarias Argentina,35
+e,Telecom Argentina S.A.,Acción,Telecom Argentina,ARS,1.84,453298662,,,Participaciones Accionarias Argentina,43
+e,Cresud S.A.,Acción,Cresud,ARS,1.83,450835082,,,Participaciones Accionarias Argentina,38
+e,Transener S.A.,Acción,Transener,ARS,0.64,157669100,,,Participaciones Accionarias Argentina,84
+e,Cedear Amazon,Cedear,Amazon,ARS,0.61,150278361,,,Participaciones Accionarias Argentina,17
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,0.56,137960462,,,Certificados de Participacion Argentina,47
+e,Cedear Nvidia Corp.,Cedear,Nvidia Corp.,ARS,0.35,86225289,,,Participaciones Accionarias Argentina,14
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,0.19,46808014,,,Titulos de Deuda en Peso Argentina,56
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,0.11,27099377,,,Titulos de Deuda en Peso Argentina,67
+p,Chimpay Agresivo,Chimpay,RV ARG Merval,57.4045,0.8072,12,,,,
+p,1822 Raices Valores Negociables,Provinfondos,RV ARG Merval,47.4271,0.6419,8,,,,
+p,Novus Renta Mixta,Novus,RM y Otros ARS,45.7588,0.6998,6,,,,
+p,Chimpay Pesos Moderado,Chimpay,RM y Otros ARS,44.9783,0.6007,14,,,,
+p,Julio A. Roca Valores Negociables,Tutelar,RV ARG Otros,43.9472,0.5807,6,,,,
+p,MAF Acciones Argentina,Mariva,RV ARG Merval,43.1397,0.6104,9,,,,
+p,Novus Renta Variable,Novus,RV ARG Merval,43.0952,0.6065,9,,,,
+p,Bull Market Acciones Argentinas,Bull Market,RV ARG Merval,42.0081,0.5932,10,,,,

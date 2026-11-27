@@ -1,0 +1,74 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,IAM Renta Balanceada,,,,,,,,
+m,gerente,Industrial Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Industrial S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,15208659766,,,,,,,,
+m,aum_planilla,15208659766,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/81670,,,,,,,,
+m,n_especies,18,,,,,,,,
+m,activos_pn,114.5,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,17.75,,,,,,,,
+m,top1,39.72,,,,,,,,
+m,top5,86.92,,,,,,,,
+m,top10,109.25,,,,,,,,
+m,hhi_especies,2314.9755,,,,,,,,
+m,n_emisores,7,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,81.04,,,,,,,,
+m,hhi_emisores,6927.4142,,,,,,,,
+m,sin_emisor_pct,3.57,,,,,,,,
+t,Soberano,81.04,6,,,,,,,
+t,Caución,17.75,1,,,,,,,
+t,ON,10.81,4,,,,,,,
+t,Pagaré,3.57,6,,,,,,,
+t,FCI,1.34,1,,,,,,,
+c,ARS,109.6,,,,,,,,
+c,USD,3.57,,,,,,,,
+c,sin dato,1.34,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,91.84,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,17.75,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,3.57,,,,,,,,
+r,Certificados de Participacion Argentina,1.34,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),14.5,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,39.72,6040879659,,,Titulos de Deuda en Peso Argentina,250
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,17.75,2699537108,,,Operaciones a Plazo en Peso Argentina,73
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,12.69,1929978924,,,Titulos de Deuda en Peso Argentina,128
+e,Bono Bocon 2029 PR17,Soberano,Tesoro Nacional,ARS,8.95,1361175049,,,Titulos de Deuda en Peso Argentina,15
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,7.81,1187796328,,,Titulos de Deuda en Peso Argentina,84
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,6.74,1025063668,,,Titulos de Deuda en Peso Argentina,166
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,5.13,780204246,,,Titulos de Deuda en Peso Argentina,92
+e,ON Telecom C12 TLCDO,ON,Telecom,ARS,5.06,769558184,,,Titulos de Deuda en Peso Argentina,29
+e,ON PCR Clase K,ON,PCR,ARS,3.93,597700329,,,Titulos de Deuda en Peso Argentina,26
+e,Pagare #UPO220570001,Pagaré,,USD,1.47,223567299,,,Titulos de Deuda en Dolar Estadounidense,1
+e,FCI MAF Money Market - Clase B,FCI,MAF Money Market,,1.34,203796041,,,Certificados de Participacion Argentina,39
+e,ON CGC C 39,ON,CGC,ARS,1.34,203796041,,,Titulos de Deuda en Peso Argentina,34
+e,Pagare #UAR271160003,Pagaré,,USD,0.89,135357072,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAV100470002,Pagaré,,USD,0.59,89731093,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Oldelval Clase 3,ON,Oldelval,ARS,0.48,73001567,,,Titulos de Deuda en Peso Argentina,40
+e,Pagare #UPO120470001,Pagaré,,USD,0.4,60834639,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO150470001,Pagaré,,USD,0.11,16729526,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO171260001,Pagaré,,USD,0.11,16729526,,,Titulos de Deuda en Dolar Estadounidense,1
+p,IAM Renta Plus,BIND,T+1,44.1508,0.5883,7,,,,
+p,Allaria Renta Mixta,Allaria,RM y Otros ARS,40.3894,0.5252,2,,,,
+p,SBS Patrimonio VIII,SBS,RF ARS Disc,40.0737,0.7024,3,,,,
+p,Galileo Estrategia,Delta,T+1,39.3538,0.6484,2,,,,
+p,Allaria Diversificado,Allaria,RM y Otros ARS,38.6062,0.6427,2,,,,
+p,Consultatio Retorno Total,Consultatio,RM y Otros ARS,37.881,0.5837,2,,,,
+p,SBS Capital Plus,SBS,RF USD Linked,37.2335,0.6147,2,,,,
+p,Novus Performance,Novus,RF MULT Disc,37.203,0.5668,4,,,,

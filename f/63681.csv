@@ -1,0 +1,61 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Toronto Trust Special Opportunities,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Credito y Securitizacion S.A. (BACS),,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,39684540419,,,,,,,,
+m,aum_planilla,39684540419,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63681,,,,,,,,
+m,n_especies,10,,,,,,,,
+m,activos_pn,100.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,21.7,,,,,,,,
+m,top5,90.06,,,,,,,,
+m,top10,100.01,,,,,,,,
+m,hhi_especies,1698.3449,,,,,,,,
+m,n_emisores,4,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,96.35,,,,,,,,
+m,hhi_emisores,9291.0351,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,96.35,7,,,,,,,
+t,Subsoberano,3.65,2,,,,,,,
+t,FCI,0.01,1,,,,,,,
+c,ARS,100,,,,,,,,
+c,sin dato,0.01,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,100,,,,,,,,
+r,Certificados de Participacion Argentina,0.01,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.02,,,,,,,,
+e,Bonos Rep Argentina AL35,Soberano,Tesoro Nacional,ARS,21.7,8611545271,,,Titulos de Deuda en Peso Argentina,31
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,20.59,8171046872,,,Titulos de Deuda en Peso Argentina,142
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,16.47,6536043807,,,Titulos de Deuda en Peso Argentina,92
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,16.4,6508264629,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,14.9,5912996522,,,Titulos de Deuda en Peso Argentina,146
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,5.77,2289797982,,,Titulos de Deuda en Peso Argentina,128
+e,Bono Muni Cordoba S2 13022027,Subsoberano,Muni. Cordoba,ARS,2.55,1011955781,,,Titulos de Deuda en Peso Argentina,29
+e,Letra Prov Rio Negro S1 031226,Subsoberano,Prov. Rio Negro,ARS,1.1,436529945,,,Titulos de Deuda en Peso Argentina,15
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,0.52,206359610,,,Titulos de Deuda en Peso Argentina,160
+e,FCI GMC Money Market - Clase C,FCI,GMC Money Market,,0.01,3968454,,,Certificados de Participacion Argentina,22
+p,Toronto Trust Estrategico,Investis,RF ARS Disc,42.762,0.4873,4,,,,
+p,Allaria Renta Mixta,Allaria,RM y Otros ARS,42.7557,0.5362,3,,,,
+p,Novus Performance,Novus,RF MULT Disc,40.713,0.4735,5,,,,
+p,Fima Balanceado,Galicia,RF MULT Disc,39.4192,0.4976,3,,,,
+p,Stonex Global VIII,StoneX,RM y Otros ARS,37.797,0.5947,5,,,,
+p,Allaria Estrategico,Allaria,RM y Otros ARS,36.9863,0.5228,2,,,,
+p,Allaria Gestion II,Allaria,RF ARS Disc,36.9863,0.4297,2,,,,
+p,Pampa BAVSA Pesos Plus,BAVSA,RM y Otros ARS,36.9863,0.4292,2,,,,

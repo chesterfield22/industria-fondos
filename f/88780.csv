@@ -1,0 +1,74 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Allaria Dólar Performance II,,,,,,,,
+m,gerente,Allaria Fondos Administrados S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,13835339,,,,,,,,
+m,aum_planilla,13835339,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88780,,,,,,,,
+m,n_especies,20,,,,,,,,
+m,activos_pn,99.85,,,,,,,,
+m,pasivos_cnv,0.15,,,,,,,,
+m,liquidez,10.22,,,,,,,,
+m,top1,22.16,,,,,,,,
+m,top5,82.21,,,,,,,,
+m,top10,97.2,,,,,,,,
+m,hhi_especies,1593.5116,,,,,,,,
+m,n_emisores,6,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,38.71,,,,,,,,
+m,hhi_emisores,2319.8348,,,,,,,,
+m,sin_emisor_pct,7.32,,,,,,,,
+t,Soberano,38.71,2,,,,,,,
+t,BCRA,22.14,1,,,,,,,
+t,FCI,10.91,2,,,,,,,
+t,ON,10.55,1,,,,,,,
+t,Caución,10.15,1,,,,,,,
+t,Pagaré,7.32,13,,,,,,,
+c,USD,99.78,,,,,,,,
+r,Disponibilidades,0.07,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,78.72,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,10.15,,,,,,,,
+r,Certificados de Participacion Argentina,10.91,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.15,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.15,,,,,,,,
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,22.16,3065911,,,Titulos de Deuda en Dolar Estadounidense,83
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,USD,22.14,3063144,,,Titulos de Deuda en Dolar Estadounidense,33
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,USD,16.55,2289749,,,Titulos de Deuda en Dolar Estadounidense,74
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,10.81,1495600,,,Certificados de Participacion Argentina,37
+e,ON Central Dock Sud C1,ON,Central Dock Sud,USD,10.55,1459628,,,Titulos de Deuda en Dolar Estadounidense,12
+e,Caucion Colocadora U$S Merval,Caución,Caución Merval,USD,10.15,1404287,,,Operaciones a Plazo en Dolar Estadounidense,55
+e,Pagare #UAR220370001,Pagaré,,USD,1.55,214447.7554,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAR160270002,Pagaré,,USD,1.19,164640.5348,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAR280570003,Pagaré,,USD,1.05,145271.0601,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAR280570004,Pagaré,,USD,1.05,145271.0601,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAR040270003,Pagaré,,USD,0.71,98230.9073,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAR130870008,Pagaré,,USD,0.69,95463.8395,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAR020770006,Pagaré,,USD,0.17,23520.0764,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAR020870001,Pagaré,,USD,0.17,23520.0764,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAR020970004,Pagaré,,USD,0.17,23520.0764,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAR021070001,Pagaré,,USD,0.17,23520.0764,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAR151070006,Pagaré,,USD,0.14,19369.4747,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAR121170001,Pagaré,,USD,0.13,17985.9408,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAR200670003,Pagaré,,USD,0.13,17985.9408,,,Titulos de Deuda en Dolar Estadounidense,1
+e,FCI Toronto Trust Money Market Dólar - Clase B,FCI,Toronto Trust Money Market Dólar,USD,0.1,13835.3391,,,Certificados de Participacion Argentina,6
+p,Novus Ahorro Dólares,Novus,RF USD Disc,49.8746,0.6973,3,,,,
+p,Max Estrategico IV,Max Capital,RF USD GL Inc ARG,44.6599,0.6159,3,,,,
+p,FBA Renta Fija Dólar Plus I,BBVA,RF USD Disc,43.0799,0.7097,3,,,,
+p,Novus Capital,Novus,RM y Otros USD,42.5091,0.6352,4,,,,
+p,Allaria Dólar Global,Allaria,RF USD Disc,39.8413,0.4717,3,,,,
+p,Intervalores Total Return,Allaria Fondos Administrados S.G.F.C.I.S.A.,,39.0049,0.5956,3,,,,
+p,Ualintec Cobertura,Ualá,RF USD Linked,38.7953,0.5005,2,,,,
+p,Allaria Dólar Retorno Total,Allaria,RM y Otros USD,38.7753,0.5792,2,,,,

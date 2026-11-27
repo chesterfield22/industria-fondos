@@ -1,0 +1,60 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Adcap Ahorro Dinámico Fondo de Dinero,,,,,,,,
+m,gerente,Adcap Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Plazo Fijo,,,,,,,,
+m,subtipo,MM ARS Dinámico,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,30960618125,,,,,,,,
+m,aum_planilla,30349482511,,,,,,,,
+m,dif_pn_aum,0.0201,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85503,,,,,,,,
+m,n_especies,10,,,,,,,,
+m,activos_pn,88.47,,,,,,,,
+m,pasivos_cnv,11.53,,,,,,,,
+m,liquidez,12.44,,,,,,,,
+m,top1,14.08,,,,,,,,
+m,top5,55.4,,,,,,,,
+m,top10,85.71,,,,,,,,
+m,hhi_especies,840.5907,,,,,,,,
+m,n_emisores,7,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,35.15,,,,,,,,
+m,hhi_emisores,1706.4611,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Plazo fijo,40.87,5,,,,,,,
+t,Soberano,35.15,4,,,,,,,
+t,Caución,9.69,1,,,,,,,
+c,ARS,85.71,,,,,,,,
+r,Disponibilidades,2.75,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,35.15,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,50.57,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,11.53,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-11.53,,,,,,,,
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,14.08,4359255032,,,Titulos de Deuda en Peso Argentina,160
+e,Pzo Fi $ Nvo Bco Chaco,Plazo fijo,Nvo Bco Chaco,ARS,11.43,3538798652,,,Operaciones a Plazo en Peso Argentina,13
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,10.23,3167271234,,,Titulos de Deuda en Peso Argentina,80
+e,Pzo Fi $ Bco Sol,Plazo fijo,Banco Sol,ARS,9.86,3052716947,,,Operaciones a Plazo en Peso Argentina,31
+e,Pzo Fi $ Bco Bibank,Plazo fijo,Banco Bibank,ARS,9.8,3034140576,,,Operaciones a Plazo en Peso Argentina,12
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,9.69,3000083896,,,Operaciones a Plazo en Peso Argentina,195
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,7.42,2297277865,,,Titulos de Deuda en Peso Argentina,149
+e,Pzo Fi $ Bco Nacion,Plazo fijo,Banco Nacion,ARS,6.52,2018632302,,,Operaciones a Plazo en Peso Argentina,84
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,3.42,1058853140,,,Titulos de Deuda en Peso Argentina,166
+e,Pzo Fi $ Bco Meridian,Plazo fijo,Banco Meridian,ARS,3.26,1009316151,,,Operaciones a Plazo en Peso Argentina,1
+p,Adcap Balanceado XVI,Adcap,RF ARS Lecap,54.7441,0.6985,6,,,,
+p,Adcap Balanceado XI,Adcap,RF ARS Disc,48.2493,0.6589,6,,,,
+p,Consultatio Renta Local,Consultatio,RF ARS Lecap,47.7316,0.5454,5,,,,
+p,Pionero Renta Pesos,Macro,RF ARS Lecap,41.0104,0.567,4,,,,
+p,Champaquí Renta Plus,Bancor,RF ARS Lecap,41.0104,0.5576,4,,,,
+p,Alpha Renta Fija Serie 4,ICBC,RF ARS Lecap,39.5304,0.5558,4,,,,
+p,Parakeet Blend,Parakeet,RM y Otros ARS,38.906,0.5171,4,,,,
+p,Crecer Renta Plus,Ciudad,RF ARS Disc,38.5255,0.5346,5,,,,

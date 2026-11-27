@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,SBS Multiactivos,,,,,,,,
+m,gerente,SBS Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Global,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,15388250859,,,,,,,,
+m,aum_planilla,15388250859,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63852,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,100.1,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.63,,,,,,,,
+m,top1,21.69,,,,,,,,
+m,top5,73.55,,,,,,,,
+m,top10,98.95,,,,,,,,
+m,hhi_especies,1418.133,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,97.99,,,,,,,,
+m,hhi_emisores,9603.0798,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,97.99,9,,,,,,,
+t,ON,0.96,1,,,,,,,
+t,FCI,0.53,3,,,,,,,
+c,ARS,99.14,,,,,,,,
+c,sin dato,0.28,,,,,,,,
+c,USD,0.06,,,,,,,,
+r,Disponibilidades,0.63,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,98.94,,,,,,,,
+r,Certificados de Participacion Argentina,0.53,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.1,,,,,,,,
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,21.69,3337711611,,,Titulos de Deuda en Peso Argentina,84
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,21.53,3313090410,,,Titulos de Deuda en Peso Argentina,64
+e,Bonos Rep Argentina GD35,Soberano,Tesoro Nacional,ARS,14.04,2160510421,,,Titulos de Deuda en Peso Argentina,54
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,9.17,1411102604,,,Titulos de Deuda en Peso Argentina,118
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,7.12,1095643461,,,Titulos de Deuda en Peso Argentina,160
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,7,1077177560,,,Titulos de Deuda en Peso Argentina,146
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,6.19,952532728,,,Titulos de Deuda en Peso Argentina,56
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,6.17,949455078,,,Titulos de Deuda en Peso Argentina,159
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,5.08,781723144,,,Titulos de Deuda en Peso Argentina,84
+e,ON Pampa Energia C13,ON,Pampa Energia,ARS,0.96,147727208,,,Titulos de Deuda en Peso Argentina,30
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,0.28,43087102,,,Certificados de Participacion Argentina,47
+e,FCI Premier Renta CP $ CC,FCI,Premier Renta CP $ CC,ARS,0.19,29237677,,,Certificados de Participacion Argentina,27
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,0.06,9232951,,,Certificados de Participacion Argentina,37
+p,1810 Renta Mixta,Proahorro,RM y Otros ARS,46.7757,0.74,5,,,,
+p,Axis Estrategia 15,Axis,RF MULT Disc,43.9707,0.5439,4,,,,
+p,Alpha Renta Balanceada Global,ICBC,RM y Otros ARS,42.119,0.5741,3,,,,
+p,Balanz Renta Fija Estrategica,Balanz,RF MULT Disc,35.6194,0.5566,4,,,,
+p,Fima Renta Plus,Galicia,RF ARS CER,35.5743,0.4944,4,,,,
+p,Premier Capital,Supervielle,RF ARS CER,35.5173,0.4077,3,,,,
+p,1810 Ahorros Activos,Proahorro,RF ARS CER,35.2382,0.4924,3,,,,
+p,Superfondo Renta Fija,Santander,RF ARS CER,33.1387,0.3734,6,,,,

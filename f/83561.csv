@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,First Renta Mixta VI,,,,,,,,
+m,gerente,First Capital Markets S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,653782289,,,,,,,,
+m,aum_planilla,653782289,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83561,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,100.06,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.17,,,,,,,,
+m,top1,30.03,,,,,,,,
+m,top5,79.27,,,,,,,,
+m,top10,98.03,,,,,,,,
+m,hhi_especies,1977.8966,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,66.19,,,,,,,,
+m,hhi_emisores,4388.9738,,,,,,,,
+m,sin_emisor_pct,29.7,,,,,,,,
+t,Soberano,66.19,3,,,,,,,
+t,Pagaré,29.7,6,,,,,,,
+t,FCI,2.2,3,,,,,,,
+t,ON,1.81,1,,,,,,,
+c,ARS,68,,,,,,,,
+c,USD,29.7,,,,,,,,
+c,sin dato,2.2,,,,,,,,
+r,Disponibilidades,0.17,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,68,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,29.69,,,,,,,,
+r,Certificados de Participacion Argentina,2.2,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.06,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,30.03,196330822,,,Titulos de Deuda en Peso Argentina,103
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,29.43,192408128,,,Titulos de Deuda en Peso Argentina,75
+e,Pagare #UMV261160001,Pagaré,,USD,7.12,46549299,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,6.73,43999548,,,Titulos de Deuda en Peso Argentina,250
+e,Pagare #UMV281160001,Pagaré,,USD,5.96,38965424,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV161160002,Pagaré,,USD,4.81,31446928,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV121160003,Pagaré,,USD,4.34,28374151,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV121160002,Pagaré,,USD,4.34,28374151,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV121160001,Pagaré,,USD,3.13,20463386,,,Titulos de Deuda en Dolar Estadounidense,1
+e,FCI Tango Money Market Dinámico - Clase B,FCI,Tango Money Market Dinámico,,2.14,13990941,,,Certificados de Participacion Argentina,13
+e,ON Oldelval Clase 3,ON,Oldelval,ARS,1.81,11833459,,,Titulos de Deuda en Peso Argentina,40
+e,FCI Axis Pesos - Clase B,FCI,Axis Pesos,,0.04,261512.9158,,,Certificados de Participacion Argentina,12
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.02,130756.4579,,,Certificados de Participacion Argentina,93
+p,Pionero Soja,Macro,RM y Otros ARS,66.2563,0.9451,3,,,,
+p,Megainver Renta Global,MegaQM,T+1,65.5185,0.8907,3,,,,
+p,Pionero Renta Ahorro Plus,Macro,RF USD Linked,63.4041,0.8851,3,,,,
+p,Max Retorno Total Pesos III,Max Capital,RF MULT Disc,59.5195,0.9108,2,,,,
+p,Balanz Soja,Balanz,RV ARG Rofex 20,59.5195,0.8384,2,,,,
+p,Allaria Agro,Allaria,RF MULT Disc,59.5195,0.769,2,,,,
+p,Max Cobertura,Max Capital,RF USD Linked,59.3583,0.8503,2,,,,
+p,Allaria Patrimonio II,Allaria,RF USD Linked,59.193,0.842,2,,,,

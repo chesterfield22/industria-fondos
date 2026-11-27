@@ -1,0 +1,98 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Superfondo Renta Mixta,,,,,,,,
+m,gerente,Santander Asset Management G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Santander Argentina S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Global,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,186789320093,,,,,,,,
+m,aum_planilla,186789320093,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63740,,,,,,,,
+m,n_especies,44,,,,,,,,
+m,activos_pn,100,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,10.75,,,,,,,,
+m,top1,10.92,,,,,,,,
+m,top5,44.78,,,,,,,,
+m,top10,66.43,,,,,,,,
+m,hhi_especies,569.8033,,,,,,,,
+m,n_emisores,27,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,40.63,,,,,,,,
+m,hhi_emisores,1952.1863,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,43.56,35,,,,,,,
+t,Soberano,40.63,6,,,,,,,
+t,Caución,10.71,1,,,,,,,
+t,Subsoberano,4.74,1,,,,,,,
+t,FCI,0.37,1,,,,,,,
+c,ARS,99.64,,,,,,,,
+c,sin dato,0.37,,,,,,,,
+r,Disponibilidades,0.04,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,88.88,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,10.71,,,,,,,,
+r,Certificados de Participacion Argentina,0.37,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0,,,,,,,,
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,10.92,20397393754,,,Titulos de Deuda en Peso Argentina,159
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,10.71,20005136182,,,Operaciones a Plazo en Peso Argentina,195
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,9.91,18510821621,,,Titulos de Deuda en Peso Argentina,56
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,6.65,12421489786,,,Titulos de Deuda en Peso Argentina,103
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,6.59,12309416194,,,Titulos de Deuda en Peso Argentina,75
+e,ON Telecom C19 TLCKO,ON,Telecom,ARS,5.38,10049265421,,,Titulos de Deuda en Peso Argentina,30
+e,Bono Prov de Buenos Aires TZV28,Subsoberano,Prov. Buenos Aires,ARS,4.74,8853813772,,,Titulos de Deuda en Peso Argentina,46
+e,ON Capex C10,ON,Capex,ARS,4.45,8312124744,,,Titulos de Deuda en Peso Argentina,17
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,3.66,6836489115,,,Titulos de Deuda en Peso Argentina,42
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,3.42,6388194747,,,Titulos de Deuda en Peso Argentina,142
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,3.14,5865184651,,,Titulos de Deuda en Peso Argentina,250
+e,ON Telecom C12 TLCDO,ON,Telecom,ARS,2.5,4669733002,,,Titulos de Deuda en Peso Argentina,29
+e,ON PCR Clase K,ON,PCR,ARS,2.29,4277475430,,,Titulos de Deuda en Peso Argentina,26
+e,ON Oldelval Clase 3,ON,Oldelval,ARS,2.25,4202759702,,,Titulos de Deuda en Peso Argentina,40
+e,ON Pampa Energia C13,ON,Pampa Energia,ARS,2.19,4090686110,,,Titulos de Deuda en Peso Argentina,30
+e,ON Genneia Clase 50,ON,Genneia,ARS,2.13,3978612518,,,Titulos de Deuda en Peso Argentina,19
+e,ON Pampa Energia C29,ON,Pampa Energia,ARS,1.69,3156739510,,,Titulos de Deuda en Peso Argentina,28
+e,ON Petroqui C Rivadavia Clase Q,ON,Petroqui C Rivadavia,ARS,1.64,3063344850,,,Titulos de Deuda en Peso Argentina,12
+e,ON Genneia Clase 42,ON,Genneia,ARS,1.44,2689766209,,,Titulos de Deuda en Peso Argentina,12
+e,ON Luz De Tres Picos C5,ON,Luz De Tres Picos,ARS,1.3,2428261161,,,Titulos de Deuda en Peso Argentina,17
+e,ON Pan American C33,ON,Pan American,ARS,0.96,1793177473,,,Titulos de Deuda en Peso Argentina,36
+e,ON YPF Luz Clase 14,ON,YPF Luz,ARS,0.96,1793177473,,,Titulos de Deuda en Peso Argentina,8
+e,ON Tecpetrol C12,ON,Tecpetrol,ARS,0.88,1643746017,,,Titulos de Deuda en Peso Argentina,60
+e,ON Loma Negra C7,ON,Loma Negra,ARS,0.85,1587709221,,,Titulos de Deuda en Peso Argentina,30
+e,ON Profertil C3,ON,Profertil,ARS,0.84,1569030289,,,Titulos de Deuda en Peso Argentina,30
+e,ON Vista Gas y Oil Arg C17,ON,Vista Gas y Oil Arg,ARS,0.83,1550351357,,,Titulos de Deuda en Peso Argentina,23
+e,ON Aluar Serie 6,ON,Aluar,ARS,0.78,1456956697,,,Titulos de Deuda en Peso Argentina,28
+e,ON John Deere Cia. Fin C20,ON,John Deere Cia. Fin,ARS,0.67,1251488445,,,Titulos de Deuda en Peso Argentina,19
+e,ON Otamerica S7,ON,Otamerica,ARS,0.64,1195451649,,,Titulos de Deuda en Peso Argentina,23
+e,ON Central Puerto Clase F,ON,Central Puerto,ARS,0.64,1195451649,,,Titulos de Deuda en Peso Argentina,14
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,0.58,1083378057,,,Titulos de Deuda en Peso Argentina,52
+e,ON Petroqui C Rivadavia PQCOO,ON,Petroqui C Rivadavia PQCOO,ARS,0.56,1046020193,,,Titulos de Deuda en Peso Argentina,13
+e,ON Oldelval Clase 6,ON,Oldelval,ARS,0.5,933946600,,,Titulos de Deuda en Peso Argentina,41
+e,ON Genneia Clase 37,ON,Genneia,ARS,0.49,915267668,,,Titulos de Deuda en Peso Argentina,23
+e,ON Central Puerto Clase E,ON,Central Puerto,ARS,0.43,803194076,,,Titulos de Deuda en Peso Argentina,31
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.37,691120484,,,Certificados de Participacion Argentina,93
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,0.33,616404756,,,Titulos de Deuda en Peso Argentina,56
+e,ON YPF Clase 31,ON,YPF,ARS,0.32,597725824,,,Titulos de Deuda en Peso Argentina,48
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,0.31,579046892,,,Titulos de Deuda en Peso Argentina,67
+e,ON Pan Amer. Energy C 18,ON,Pan Amer. Energy,ARS,0.29,541689028,,,Titulos de Deuda en Peso Argentina,14
+e,ON Capex C4,ON,Capex,ARS,0.25,466973300,,,Titulos de Deuda en Peso Argentina,8
+e,ON Pan American C26,ON,Pan American,ARS,0.24,448294368,,,Titulos de Deuda en Peso Argentina,38
+e,ON Capex C7,ON,Capex,ARS,0.18,336220776,,,Titulos de Deuda en Peso Argentina,21
+e,ON Pampa Energia C25,ON,Pampa Energia,ARS,0.11,205468252,,,Titulos de Deuda en Peso Argentina,19
+p,Balanz Capital Renta Fija,Balanz,RF USD Linked,43.0952,0.6081,15,,,,
+p,Optimum Renta Mixta Flexible,Santander,RF USD Linked,40.0481,0.6005,16,,,,
+p,Super Bonos,Santander,RF USD Linked,39.4127,0.5604,21,,,,
+p,Schroder Patrimonio Dos,Schroder,RF MULT Disc,31.3969,0.5003,5,,,,
+p,MEGAQM Performance II,MegaQM,MM ARS Clásico,29.5083,0.4618,4,,,,
+p,Supergestion Balanceado,Santander,RM y Otros ARS,28.633,0.4278,17,,,,
+p,MAF Gestión Activa III,Mariva,RF USD Linked,28.3285,0.4518,6,,,,
+p,First Renta Mixta III,First Cap Mkts,RF USD Linked,27.2914,0.4576,6,,,,

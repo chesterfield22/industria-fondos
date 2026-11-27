@@ -1,0 +1,63 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Adcap Moneda,,,,,,,,
+m,gerente,Adcap Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5940403907,,,,,,,,
+m,aum_planilla,5940403907,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63621,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,99.95,,,,,,,,
+m,pasivos_cnv,0.05,,,,,,,,
+m,liquidez,0.13,,,,,,,,
+m,top1,15.32,,,,,,,,
+m,top5,66.49,,,,,,,,
+m,top10,99.62,,,,,,,,
+m,hhi_especies,1199.0378,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,89.21,,,,,,,,
+m,hhi_emisores,8008.819,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,89.21,7,,,,,,,
+t,ON,6.05,4,,,,,,,
+t,FCI,4.56,1,,,,,,,
+c,ARS,95.26,,,,,,,,
+c,sin dato,4.56,,,,,,,,
+r,Disponibilidades,0.13,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,95.26,,,,,,,,
+r,Certificados de Participacion Argentina,4.56,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.05,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.05,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,15.32,910069879,,,Titulos de Deuda en Peso Argentina,250
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,13.38,794826043,,,Titulos de Deuda en Peso Argentina,166
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,12.94,768688266,,,Titulos de Deuda en Peso Argentina,80
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,12.9,766312104,,,Titulos de Deuda en Peso Argentina,160
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,11.95,709878267,,,Titulos de Deuda en Peso Argentina,149
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,11.66,692651096,,,Titulos de Deuda en Peso Argentina,75
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,11.06,657008672,,,Titulos de Deuda en Peso Argentina,103
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,5.42,321969892,,,Titulos de Deuda en Peso Argentina,52
+e,FCI SBS Ahorro Pesos Cl B,FCI,SBS Ahorro Pesos Cl B,,4.56,270882418,,,Certificados de Participacion Argentina,46
+e,ON Red Surcos S9 Clase A,ON,Red Surcos,ARS,0.43,25543737,,,Titulos de Deuda en Peso Argentina,9
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,0.12,7128485,,,Titulos de Deuda en Peso Argentina,56
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,0.08,4752323,,,Titulos de Deuda en Peso Argentina,67
+p,Adcap Balanceado XVI,Adcap,RF ARS Lecap,56.2812,0.702,5,,,,
+p,Stonex Global VI,StoneX,RM y Otros ARS,55.2462,0.6638,5,,,,
+p,Pionero Renta Pesos,Macro,RF ARS Lecap,53.0217,0.7146,5,,,,
+p,Parakeet Blend,Parakeet,RM y Otros ARS,52.65,0.6251,5,,,,
+p,Champaquí Renta Plus,Bancor,RF ARS Lecap,51.2623,0.6506,4,,,,
+p,Consultatio Renta Local,Consultatio,RF ARS Lecap,49.7392,0.6615,4,,,,
+p,Alamerica Renta Fija Argentina,Allaria,RM y Otros ARS,47.2834,0.653,6,,,,
+p,Adcap Balanceado XI,Adcap,RF ARS Disc,47.1452,0.618,4,,,,

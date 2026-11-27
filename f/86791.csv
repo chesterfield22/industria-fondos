@@ -1,0 +1,63 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Novus Income Dólares,,,,,,,,
+m,gerente,Novus Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1551660,,,,,,,,
+m,aum_planilla,1551660,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86791,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,100.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,24.54,,,,,,,,
+m,top1,21.73,,,,,,,,
+m,top5,49.53,,,,,,,,
+m,top10,65.56,,,,,,,,
+m,hhi_especies,794.3381,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,42.56,,,,,,,,
+m,hhi_emisores,1912.8823,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,42.56,3,,,,,,,
+t,ON,21.46,7,,,,,,,
+t,Subsoberano,11.47,4,,,,,,,
+c,USD,75.49,,,,,,,,
+r,Disponibilidades,24.54,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,75.48,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.02,,,,,,,,
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,USD,21.73,337175.8136,,,Titulos de Deuda en Dolar Estadounidense,74
+e,Bono del Tesoro Nacional AN29,Soberano,Tesoro Nacional,USD,11.77,182630.4338,,,Titulos de Deuda en Dolar Estadounidense,25
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,USD,9.06,140580.4359,,,Titulos de Deuda en Dolar Estadounidense,62
+e,ON Telecom C24,ON,Telecom,USD,3.51,54463.2814,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON YPF Clase 34,ON,YPF,USD,3.46,53687.4512,,,Titulos de Deuda en Dolar Estadounidense,46
+e,ON BBVA Frances Cl 50,ON,BBVA Frances,USD,3.25,50428.9643,,,Titulos de Deuda en Dolar Estadounidense,30
+e,ON Central Puerto Clase E,ON,Central Puerto,USD,3.22,49963.4662,,,Titulos de Deuda en Dolar Estadounidense,31
+e,ON Banco Mariva S3 060727,ON,Banco Mariva,USD,3.22,49963.4662,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Vista Energy 33,ON,Vista Energy,USD,3.19,49497.968,,,Titulos de Deuda en Dolar Estadounidense,15
+e,Bono Prov Cordoba 030235,Subsoberano,Prov. Cordoba,USD,3.15,48877.3039,,,Titulos de Deuda en Dolar Estadounidense,29
+e,Bono Prov Santa Fe 8.1% 111234,Subsoberano,Prov. Santa Fe,USD,3.1,48101.4736,,,Titulos de Deuda en Dolar Estadounidense,37
+e,Bono Prov Neuquen 2025,Subsoberano,Prov. Neuquen,USD,2.69,41739.6658,,,Titulos de Deuda en Dolar Estadounidense,5
+e,Bono Prov Mendoza 2029,Subsoberano,Prov. Mendoza,USD,2.53,39257.0091,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON AES Argentina Gen 060828,ON,AES Argentina Gen,USD,1.61,24981.7331,,,Titulos de Deuda en Dolar Estadounidense,24
+p,Ualintec Renta Dólares,Ualá,RF USD Disc,49.2067,0.8399,5,,,,
+p,Ualintec Cobertura,Ualá,RF USD Linked,39.2446,0.5928,2,,,,
+p,Pellegrini Renta Dolares,Pellegrini,RF USD Disc,36.4648,0.6063,3,,,,
+p,Pionero Dólar Dinámico,Macro,RF USD Disc,33.284,0.5788,2,,,,
+p,MEGAQM Ahorro Dólares,MegaQM,RF USD Disc,32.1259,0.5441,2,,,,
+p,MEGAQM Gestión Dólares 2,MegaQM,RF USD Disc,30.8811,0.4351,3,,,,
+p,Novus Capital,Novus,RM y Otros USD,30.0485,0.4817,10,,,,
+p,Allaria Dólar Retorno Total,Allaria,RM y Otros USD,28.7853,0.504,1,,,,

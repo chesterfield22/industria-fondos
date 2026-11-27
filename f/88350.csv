@@ -1,0 +1,63 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,GMC Retorno Total V,,,,,,,,
+m,gerente,GMC Asset Management S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,45281369934,,,,,,,,
+m,aum_planilla,45281369934,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88350,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,99.95,,,,,,,,
+m,pasivos_cnv,0.05,,,,,,,,
+m,liquidez,0.34,,,,,,,,
+m,top1,14.46,,,,,,,,
+m,top5,57.59,,,,,,,,
+m,top10,89.06,,,,,,,,
+m,hhi_especies,929.8633,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,68.63,,,,,,,,
+m,hhi_emisores,4962.4227,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,68.63,10,,,,,,,
+t,ON,16.37,2,,,,,,,
+t,Subsoberano,14.59,2,,,,,,,
+c,ARS,99.59,,,,,,,,
+r,Disponibilidades,0.34,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.61,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.05,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.05,,,,,,,,
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,14.46,6547686093,,,Titulos de Deuda en Peso Argentina,128
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,13.45,6090344256,,,Titulos de Deuda en Peso Argentina,165
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,11.33,5130379214,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Entre Rios 9.55% 040333,Subsoberano,Prov. Entre Rios,ARS,9.69,4387764747,,,Titulos de Deuda en Peso Argentina,11
+e,ON Vista Gas y Oil Arg C25,ON,Vista Gas y Oil Arg,ARS,8.66,3921366636,,,Titulos de Deuda en Peso Argentina,18
+e,ON Pan American C26,ON,Pan American,ARS,7.71,3491193622,,,Titulos de Deuda en Peso Argentina,38
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,7.42,3359877649,,,Titulos de Deuda en Peso Argentina,112
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,6.62,2997626690,,,Titulos de Deuda en Peso Argentina,64
+e,Bono Buenos Aires 2037,Subsoberano,Prov. Buenos Aires,ARS,4.9,2218787127,,,Titulos de Deuda en Peso Argentina,13
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,4.82,2182562031,,,Titulos de Deuda en Peso Argentina,61
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,4.12,1865592441,,,Titulos de Deuda en Peso Argentina,136
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,3.63,1643713729,,,Titulos de Deuda en Peso Argentina,146
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,2.62,1186371892,,,Titulos de Deuda en Peso Argentina,51
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,ARS,0.16,72450192,,,Titulos de Deuda en Peso Argentina,62
+p,Balanz Performance XI,Balanz,RF ARS Disc,49.0695,0.6187,8,,,,
+p,Valiant Renta Fija,Valiant,T+1,46.5011,0.5943,6,,,,
+p,Chaco Fondos Renta Fija I,Chaco,RF ARS Disc,46.0488,0.7139,4,,,,
+p,Pellegrini Retorno Total,Pellegrini,RF MULT Disc,46.0488,0.7063,4,,,,
+p,Superfondo Renta $,Santander,RF ARS Disc,41.617,0.6105,5,,,,
+p,Consultatio One Ahorro,Consultatio,RF ARS CER,41.5998,0.5577,4,,,,
+p,Pellegrini Renta Fija Ahorro,Pellegrini,RF ARS Disc,40.7217,0.5635,5,,,,
+p,Pellegrini Crecimiento,Pellegrini,RF ARS CER,40.628,0.4967,6,,,,

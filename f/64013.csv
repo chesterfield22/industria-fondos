@@ -1,0 +1,59 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,FBA Renta Fija Dólar Plus I,,,,,,,,
+m,gerente,BBVA Asset Management Argentina S.A.U.S.G.F.C.I.,,,,,,,,
+m,depositaria,BBVA Argentina S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,49141186,,,,,,,,
+m,aum_planilla,49141186,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/64013,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,99.88,,,,,,,,
+m,pasivos_cnv,0.12,,,,,,,,
+m,liquidez,3.02,,,,,,,,
+m,top1,32.65,,,,,,,,
+m,top5,81.26,,,,,,,,
+m,top10,96.69,,,,,,,,
+m,hhi_especies,2099.0234,,,,,,,,
+m,n_emisores,2,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,89.59,,,,,,,,
+m,hhi_emisores,8079.221,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,89.59,9,,,,,,,
+t,BCRA,7.27,2,,,,,,,
+c,USD,96.86,,,,,,,,
+r,Disponibilidades,3.02,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,96.86,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.12,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.12,,,,,,,,
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,32.65,16044597,,,Titulos de Deuda en Dolar Estadounidense,83
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,USD,29.16,14329570,,,Titulos de Deuda en Dolar Estadounidense,74
+e,Bonos Rep Argentina GD30,Soberano,Tesoro Nacional,USD,7.21,3543080,,,Titulos de Deuda en Dolar Estadounidense,37
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,USD,6.28,3086067,,,Titulos de Deuda en Dolar Estadounidense,72
+e,Bonos Rep Argentina GD35,Soberano,Tesoro Nacional,USD,5.96,2928815,,,Titulos de Deuda en Dolar Estadounidense,54
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,USD,4.66,2289979,,,Titulos de Deuda en Dolar Estadounidense,40
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,USD,4.15,2039359,,,Titulos de Deuda en Dolar Estadounidense,33
+e,Bono Bopreal 2027 Serie 1 Clase D BPOD7,BCRA,BCRA,USD,3.12,1533205,,,Titulos de Deuda en Dolar Estadounidense,22
+e,Bonos Rep Argentina GD41,Soberano,Tesoro Nacional,USD,2.43,1194131,,,Titulos de Deuda en Dolar Estadounidense,38
+e,Bonos Rep Argentina GD38,Soberano,Tesoro Nacional,USD,1.07,525810.6939,,,Titulos de Deuda en Dolar Estadounidense,38
+e,Bonos Rep Argentina 2029,Soberano,Tesoro Nacional,USD,0.17,83540.0168,,,Titulos de Deuda en Dolar Estadounidense,24
+p,Ualintec Cobertura,Ualá,RF USD Linked,58.4614,0.7557,3,,,,
+p,Alpha Renta Capital Dólar,ICBC,RF USD Disc,54.3703,0.6533,7,,,,
+p,Novus Capital,Novus,RM y Otros USD,50.7098,0.861,6,,,,
+p,Pionero Inversión Dólar,Macro,RF USD GL Inc ARG,48.2841,0.8154,3,,,,
+p,MEGAQM Ahorro Dólares,MegaQM,RF USD Disc,47.4684,0.735,5,,,,
+p,Allaria Dólar Performance II,Allaria,RF USD Disc,43.0799,0.7097,3,,,,
+p,Novus Ahorro Dólares,Novus,RF USD Disc,41.2096,0.5411,3,,,,
+p,Consultatio Multimercado V,Consultatio,RF USD Disc,40.8494,0.5923,3,,,,

@@ -1,0 +1,68 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Max Renta Fija Latam,,,,,,,,
+m,gerente,Max Capital Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Ex ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Latinoamerica,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,3716309,,,,,,,,
+m,aum_planilla,3716309,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86144,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,100.17,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,18.8,,,,,,,,
+m,top1,18.16,,,,,,,,
+m,top5,53.25,,,,,,,,
+m,top10,84.52,,,,,,,,
+m,hhi_especies,913.4509,,,,,,,,
+m,n_emisores,13,,,,,,,,
+m,emisor_top,Caución Merval,,,,,,,,
+m,emisor_top_pct,18.16,,,,,,,,
+m,hhi_emisores,913.4509,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Corporativo exterior,61.8,9,,,,,,,
+t,Caución,18.16,1,,,,,,,
+t,Otro título de deuda,8.41,1,,,,,,,
+t,Acción,6,1,,,,,,,
+t,FCI,4.9,1,,,,,,,
+c,USD,93.27,,,,,,,,
+c,sin dato,6,,,,,,,,
+r,Disponibilidades,0.64,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,70.2,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,18.16,,,,,,,,
+r,Participaciones Accionarias Chile,6,,,,,,,,
+r,Certificados de Participacion Argentina,4.9,,,,,,,,
+r,Otros Activos,0.27,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.17,,,,,,,,
+e,Caucion Colocadora U$S Merval,Caución,Caución Merval,USD,18.16,674881.6563,,,Operaciones a Plazo en Dolar Estadounidense,55
+e,BC Enap 2029,Corporativo exterior,Enap,USD,10.67,396530.1362,,,Titulos de Deuda en Dolar Estadounidense,10
+e,Bono Corporativo 3.625% 010827,Otro título de deuda,Bono Corporativo,USD,8.41,312541.56,,,Titulos de Deuda en Dolar Estadounidense,24
+e,BC Inversiones CMPC 2027,Corporativo exterior,Inversiones CMPC,USD,8.09,300649.3722,,,Titulos de Deuda en Dolar Estadounidense,9
+e,BC Banco Santander Chile 201130,Corporativo exterior,Banco Santander Chile,USD,7.92,294331.6475,,,Titulos de Deuda en Dolar Estadounidense,6
+e,BC Enel Chile 160628,Corporativo exterior,Enel Chile,USD,7.66,284669.2449,,,Titulos de Deuda en Dolar Estadounidense,12
+e,BC Suzano 150131,Corporativo exterior,Suzano,USD,6.31,234499.0777,,,Titulos de Deuda en Dolar Estadounidense,2
+e,Banco de Chile,Acción,Banco de Chile,,6,222978.5208,,,Participaciones Accionarias Chile,11
+e,BC Entel 3.05,Corporativo exterior,Entel,USD,5.78,214802.6417,,,Titulos de Deuda en Dolar Estadounidense,4
+e,BC Cencosud 5.95%,Corporativo exterior,Cencosud,USD,5.52,205140.2391,,,Titulos de Deuda en Dolar Estadounidense,16
+e,BC Colbun 30,Corporativo exterior,Colbun,USD,5.03,186930.3266,,,Titulos de Deuda en Dolar Estadounidense,6
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,4.9,182099.1253,,,Certificados de Participacion Argentina,37
+e,BC Falabella 150132,Corporativo exterior,Falabella,USD,4.82,179126.0784,,,Titulos de Deuda en Dolar Estadounidense,8
+p,Allaria Dólar Latam,Allaria,RF USD GL Ex ARG,28.7096,0.4609,3,,,,
+p,Lombard Renta Fija en Dolares,Patagonia,RF USD GL Ex ARG,26.605,0.2901,4,,,,
+p,Alpha Renta Fija Global,ICBC,RF USD GL Inc ARG,25.2569,0.3858,8,,,,
+p,Galileo Income,Delta,RF USD GL Ex ARG,25.0336,0.2784,7,,,,
+p,Schroder Income,Schroder,RF USD GL Ex ARG,23.8734,0.2568,3,,,,
+p,BAVSA MG Alfa Renta Dolares Balanceado,BAVSA,RM y Otros USD,23.2296,0.2974,2,,,,
+p,Parakeet Latam,Parakeet,RF USD GL Ex ARG,22.4574,0.4068,2,,,,
+p,MEGAQM Latam Corporativo,MegaQM,RF USD GL Ex ARG,20.5469,0.1814,4,,,,

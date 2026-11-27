@@ -1,0 +1,63 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pionero Moneda,,,,,,,,
+m,gerente,Macro Fondos S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,17549803983,,,,,,,,
+m,aum_planilla,17549803983,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85647,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,100.01,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,21.21,,,,,,,,
+m,top5,68.03,,,,,,,,
+m,top10,98.82,,,,,,,,
+m,hhi_especies,1274.1215,,,,,,,,
+m,n_emisores,3,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,76.08,,,,,,,,
+m,hhi_emisores,5798.9906,,,,,,,,
+m,sin_emisor_pct,20.63,,,,,,,,
+t,Soberano,76.08,7,,,,,,,
+t,Pagaré,20.63,3,,,,,,,
+t,FCI,3.3,2,,,,,,,
+c,ARS,96.72,,,,,,,,
+c,sin dato,3.29,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,96.71,,,,,,,,
+r,Certificados de Participacion Argentina,3.3,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.01,,,,,,,,
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,21.21,3722313425,,,Titulos de Deuda en Peso Argentina,142
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,18.47,3241448796,,,Titulos de Deuda en Peso Argentina,82
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,11.48,2014717497,,,Titulos de Deuda en Peso Argentina,86
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,8.57,1504018201,,,Titulos de Deuda en Peso Argentina,61
+e,Pagare #MAV151260050,Pagaré,,ARS,8.3,1456633731,,,Titulos de Deuda en Peso Argentina,1
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,7.86,1379414593,,,Titulos de Deuda en Peso Argentina,80
+e,Pagare #MAV011260033,Pagaré,,ARS,7.83,1374149652,,,Titulos de Deuda en Peso Argentina,1
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,7.31,1282890671,,,Titulos de Deuda en Peso Argentina,166
+e,Pagare #MAV241160077,Pagaré,,ARS,4.5,789741179,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,3.29,577388551,,,Certificados de Participacion Argentina,77
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,1.18,207087687,,,Titulos de Deuda en Peso Argentina,160
+e,FCI Lombard Renta en $,FCI,Lombard Renta en $,ARS,0.01,1754980,,,Certificados de Participacion Argentina,29
+p,Delta Patrimonio I,Delta,RV Global,40.6421,0.5363,4,,,,
+p,ConoSur Ahorro,Cono Sur,T+1,40.5459,0.6509,3,,,,
+p,Galileo Ahorro,Delta,RF ARS Lecap,38.4362,0.4365,4,,,,
+p,Pionero Capital,Macro,T+1,37.2078,0.4589,5,,,,
+p,GMC Multiestrategia II,GMC,RM y Otros ARS,35.3258,0.4286,3,,,,
+p,Parakeet Renta Pesos,Parakeet,T+1,33.6001,0.445,4,,,,
+p,Allaria Estrategico,Allaria,RM y Otros ARS,33.0383,0.4751,2,,,,
+p,Max Retorno Total Pesos IV,Max Capital,RF ARS Disc,32.6867,0.5386,2,,,,

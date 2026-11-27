@@ -1,0 +1,95 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Superfondo Renta Balance,,,,,,,,
+m,gerente,Santander Asset Management G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Santander Argentina S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Global,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,25685044703,,,,,,,,
+m,aum_planilla,25685044703,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63758,,,,,,,,
+m,n_especies,41,,,,,,,,
+m,activos_pn,100.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.03,,,,,,,,
+m,top1,8.28,,,,,,,,
+m,top5,35.36,,,,,,,,
+m,top10,56.97,,,,,,,,
+m,hhi_especies,441.8397,,,,,,,,
+m,n_emisores,27,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,31.49,,,,,,,,
+m,hhi_emisores,1415.6017,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,40.53,24,,,,,,,
+t,Soberano,31.49,8,,,,,,,
+t,Subsoberano,15.54,6,,,,,,,
+t,Plazo fijo,12.28,2,,,,,,,
+t,FCI,0.15,1,,,,,,,
+c,ARS,99.84,,,,,,,,
+c,sin dato,0.15,,,,,,,,
+r,Disponibilidades,0.03,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,87.55,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,12.29,,,,,,,,
+r,Certificados de Participacion Argentina,0.15,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.02,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,8.28,2126721701,,,Titulos de Deuda en Peso Argentina,250
+e,Pzo Fi $ Bco Nacion,Plazo fijo,Banco Nacion,ARS,7.94,2039392549,,,Operaciones a Plazo en Peso Argentina,84
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,7.63,1959768911,,,Titulos de Deuda en Peso Argentina,56
+e,ON Telecom C19 TLCKO,ON,Telecom,ARS,6.01,1543671187,,,Titulos de Deuda en Peso Argentina,30
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,5.5,1412677459,,,Titulos de Deuda en Peso Argentina,66
+e,ON Capex C10,ON,Capex,ARS,5,1284252235,,,Titulos de Deuda en Peso Argentina,17
+e,ON Capex C7,ON,Capex,ARS,4.68,1202060092,,,Titulos de Deuda en Peso Argentina,21
+e,Pzo Fi $ Bco Galicia,Plazo fijo,Banco Galicia,ARS,4.34,1114730940,,,Operaciones a Plazo en Peso Argentina,67
+e,Bono Prov Cordoba 2032,Subsoberano,Prov. Cordoba,ARS,3.83,983737212,,,Titulos de Deuda en Peso Argentina,16
+e,Bono Prov Cordoba 030235,Subsoberano,Prov. Cordoba,ARS,3.76,965757681,,,Titulos de Deuda en Peso Argentina,29
+e,Bono del Tesoro Nacional TY30P,Soberano,Tesoro Nacional,ARS,3.75,963189176,,,Titulos de Deuda en Peso Argentina,30
+e,Bono Prov de Buenos Aires TZV28,Subsoberano,Prov. Buenos Aires,ARS,3.65,937504132,,,Titulos de Deuda en Peso Argentina,46
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,3.49,896408060,,,Titulos de Deuda en Peso Argentina,142
+e,ON Pampa Energia C13,ON,Pampa Energia,ARS,2.89,742297792,,,Titulos de Deuda en Peso Argentina,30
+e,Bono Prov Cordoba Clase 6,Subsoberano,Prov. Cordoba,ARS,2.73,701201720,,,Titulos de Deuda en Peso Argentina,36
+e,ON Plaza Logistica C5 ZPC5O,ON,Plaza Logistica,ARS,2.45,629283595,,,Titulos de Deuda en Peso Argentina,14
+e,ON Capex C5 9.250%,ON,Capex,ARS,1.99,511132390,,,Titulos de Deuda en Peso Argentina,13
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,1.88,482878840,,,Titulos de Deuda en Peso Argentina,158
+e,Bono Ciudad Bs As 130536,Subsoberano,Prov. Ciudad Bs As,ARS,1.55,398118193,,,Titulos de Deuda en Peso Argentina,5
+e,ON YPF C 17,ON,YPF,ARS,1.47,377570157,,,Titulos de Deuda en Peso Argentina,19
+e,ON BBVA Frances Cl 38,ON,BBVA Frances,ARS,1.43,367296139,,,Titulos de Deuda en Peso Argentina,29
+e,ON MSU C14,ON,MSU,ARS,1.27,326200068,,,Titulos de Deuda en Peso Argentina,5
+e,ON Edenor C7 DNC7O,ON,Edenor,ARS,1.26,323631563,,,Titulos de Deuda en Peso Argentina,13
+e,ON Central Puerto Clase F,ON,Central Puerto,ARS,1.24,318494554,,,Titulos de Deuda en Peso Argentina,14
+e,ON Loma Negra C7,ON,Loma Negra,ARS,1.24,318494554,,,Titulos de Deuda en Peso Argentina,30
+e,ON Genneia Clase 50,ON,Genneia,ARS,1.24,318494554,,,Titulos de Deuda en Peso Argentina,19
+e,ON Pampa Energia C29,ON,Pampa Energia,ARS,1.23,315926050,,,Titulos de Deuda en Peso Argentina,28
+e,ON Pluspetrol Clase 6,ON,Pluspetrol,ARS,1.05,269692969,,,Titulos de Deuda en Peso Argentina,43
+e,ON Plaza Logistica C15,ON,Plaza Logistica,ARS,0.94,241439420,,,Titulos de Deuda en Peso Argentina,19
+e,ON ICBC Clase 6 220527,ON,ICBC,ARS,0.93,238870916,,,Titulos de Deuda en Peso Argentina,18
+e,ON Edenor C10 DNCAO,ON,Edenor,ARS,0.87,223459889,,,Titulos de Deuda en Peso Argentina,26
+e,ON Scania Credit C1,ON,Scania Credit,ARS,0.82,210617367,,,Titulos de Deuda en Peso Argentina,11
+e,ON Banco Comafi C22,ON,Banco Comafi,ARS,0.79,202911853,,,Titulos de Deuda en Peso Argentina,30
+e,Boncer Mendoza C2,Soberano,Tesoro Nacional,ARS,0.67,172089800,,,Titulos de Deuda en Peso Argentina,13
+e,ON Luz De Tres Picos C5,ON,Luz De Tres Picos,ARS,0.63,161815782,,,Titulos de Deuda en Peso Argentina,17
+e,ON FCA Comp. Finac CL 22 S1,ON,FCA Comp. Finac,ARS,0.53,136130737,,,Titulos de Deuda en Peso Argentina,7
+e,ON Oldelval Clase 5,ON,Oldelval,ARS,0.33,84760648,,,Titulos de Deuda en Peso Argentina,34
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,ARS,0.29,74486630,,,Titulos de Deuda en Peso Argentina,62
+e,ON 360 Energy Solar C5,ON,360 Energy Solar,ARS,0.24,61644107,,,Titulos de Deuda en Peso Argentina,7
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.15,38527567,,,Certificados de Participacion Argentina,93
+e,Bono Prov Mendoza TAMAR C2,Subsoberano,Prov. Mendoza TAMAR,ARS,0.02,5137009,,,Titulos de Deuda en Peso Argentina,24
+p,Superfondo Renta Mixta,Santander,RF MULT Disc,34.7794,0.3987,14,,,,
+p,Supergestion Balanceado,Santander,RM y Otros ARS,23.8171,0.4467,11,,,,
+p,Balanz Capital Renta Fija,Balanz,RF USD Linked,22.5969,0.4036,7,,,,
+p,Consultatio Renta Fija Argentina F.C.I.,Consultatio,RF USD Linked,22.4578,0.4674,5,,,,
+p,Lombard Renta Fija,Patagonia,RF USD Linked,21.4421,0.4848,4,,,,
+p,Consultatio Gestion IV,Consultatio,RF MULT Disc,21.4121,0.4988,3,,,,
+p,Novus Valor,Novus,RF USD Linked,21.4031,0.3976,4,,,,
+p,1822 Raices Gestion,Provinfondos,RM y Otros ARS,20.9065,0.3126,3,,,,

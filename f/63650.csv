@@ -1,0 +1,150 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pellegrini Desarrollo Arg. Infraest.,,,,,,,,
+m,gerente,Pellegrini S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de La Nacion Argentina,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,INFRA,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,373734204737,,,,,,,,
+m,aum_planilla,373734204737,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63650,,,,,,,,
+m,n_especies,95,,,,,,,,
+m,activos_pn,99.92,,,,,,,,
+m,pasivos_cnv,0.08,,,,,,,,
+m,liquidez,0.11,,,,,,,,
+m,top1,10.32,,,,,,,,
+m,top5,26.92,,,,,,,,
+m,top10,40.82,,,,,,,,
+m,hhi_especies,283.8129,,,,,,,,
+m,n_emisores,52,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,16.16,,,,,,,,
+m,hhi_emisores,634.8425,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,74.39,67,,,,,,,
+t,Soberano,16.16,7,,,,,,,
+t,Subsoberano,4.11,7,,,,,,,
+t,FCI,3.63,9,,,,,,,
+t,Fideicomiso financiero,1.52,5,,,,,,,
+c,ARS,68.17,,,,,,,,
+c,USD,26.49,,,,,,,,
+c,sin dato,5.15,,,,,,,,
+r,Disponibilidades,0.11,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,68.16,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,26.5,,,,,,,,
+r,Certificados de Participacion Argentina,5.15,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.08,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.08,,,,,,,,
+e,ON Pan American C26,ON,Pan American,ARS,10.32,38569369929,,,Titulos de Deuda en Peso Argentina,38
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,4.94,18462469714,,,Titulos de Deuda en Peso Argentina,75
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,4.15,15509969497,,,Titulos de Deuda en Peso Argentina,103
+e,ON Telecom C12 TLCDO,ON,Telecom,ARS,3.79,14164526360,,,Titulos de Deuda en Peso Argentina,29
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,3.72,13902912416,,,Titulos de Deuda en Peso Argentina,42
+e,ON CGC C 39,ON,CGC,ARS,3.52,13155444007,,,Titulos de Deuda en Peso Argentina,34
+e,ON Aluar Serie 6,ON,Aluar,ARS,2.95,11025159040,,,Titulos de Deuda en Peso Argentina,28
+e,ON Oldelval Clase 3,ON,Oldelval,ARS,2.55,9530222221,,,Titulos de Deuda en Peso Argentina,40
+e,ON Pan Amer. Energy C 17,ON,Pan Amer. Energy,ARS,2.47,9231234857,,,Titulos de Deuda en Peso Argentina,15
+e,ON Capex C10,ON,Capex,ARS,2.41,9006994334,,,Titulos de Deuda en Peso Argentina,17
+e,ON Vista Gas y Oil Arg C25,ON,Vista Gas y Oil Arg,ARS,2.39,8932247493,,,Titulos de Deuda en Peso Argentina,18
+e,ON Vaca Muerta C1,ON,Vaca Muerta,USD,2.34,8745380391,,,Titulos de Deuda en Dolar Estadounidense,45
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,2.25,8409019607,,,Titulos de Deuda en Peso Argentina,118
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,1.87,6988829629,,,Titulos de Deuda en Peso Argentina,61
+e,ON MSU C12,ON,MSU,USD,1.79,6689842265,,,Titulos de Deuda en Dolar Estadounidense,8
+e,ON Loma Negra C7,ON,Loma Negra,USD,1.77,6615095424,,,Titulos de Deuda en Dolar Estadounidense,30
+e,Bono Prov Cordoba 2027 COY27,Subsoberano,Prov. Cordoba,ARS,1.74,6502975162,,,Titulos de Deuda en Peso Argentina,28
+e,ON Oldelval Clase 6,ON,Oldelval,USD,1.65,6166614378,,,Titulos de Deuda en Dolar Estadounidense,41
+e,ON YPF Clase 42,ON,YPF,USD,1.63,6091867537,,,Titulos de Deuda en Dolar Estadounidense,48
+e,FCI Inmobiliario Puerto Nizuc FCIC,FCI,Inmobiliario Puerto Nizuc FCIC,,1.51,5643386492,,,Certificados de Participacion Argentina,2
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,1.51,5643386492,,,Titulos de Deuda en Peso Argentina,136
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,1.27,4746424400,,,Titulos de Deuda en Peso Argentina,158
+e,ON Genneia Clase 38,ON,Genneia,ARS,1.19,4447437036,,,Titulos de Deuda en Peso Argentina,2
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,1.17,4372690195,,,Titulos de Deuda en Peso Argentina,67
+e,ON Pampa Energia C13,ON,Pampa Energia,ARS,1.13,4223196514,,,Titulos de Deuda en Peso Argentina,30
+e,ON Profertil C4,ON,Profertil,USD,1.09,4073702832,,,Titulos de Deuda en Dolar Estadounidense,17
+e,ON YPF Clase 39,ON,YPF,USD,0.97,3625221786,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,USD,0.96,3587848365,,,Titulos de Deuda en Dolar Estadounidense,58
+e,ON Genneia Clase 39,ON,Genneia,ARS,0.93,3475728104,,,Titulos de Deuda en Peso Argentina,9
+e,ON Pampa Energia C26,ON,Pampa Energia,USD,0.91,3400981263,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON YPF Luz C24,ON,YPF Luz,USD,0.91,3400981263,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON CGC C 40,ON,CGC,USD,0.91,3400981263,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON Telecom C14 TLCFO,ON,Telecom,ARS,0.9,3363607843,,,Titulos de Deuda en Peso Argentina,23
+e,ON Pampa Energia C27,ON,Pampa Energia,USD,0.89,3326234422,,,Titulos de Deuda en Dolar Estadounidense,32
+e,ON Otamerica S7,ON,Otamerica,USD,0.89,3326234422,,,Titulos de Deuda en Dolar Estadounidense,23
+e,ON Central Puerto Clase F,ON,Central Puerto,USD,0.88,3288861002,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON AES Argentina Gen 060828,ON,AES Argentina Gen,USD,0.86,3214114161,,,Titulos de Deuda en Dolar Estadounidense,24
+e,ON Vista Gas y Oil Arg C21,ON,Vista Gas y Oil Arg,ARS,0.84,3139367320,,,Titulos de Deuda en Peso Argentina,27
+e,ON Epec C2,ON,Epec,ARS,0.83,3101993899,,,Titulos de Deuda en Peso Argentina,12
+e,ON Petroqui C Rivadavia Clase Q,ON,Petroqui C Rivadavia,ARS,0.82,3064620479,,,Titulos de Deuda en Peso Argentina,12
+e,ON Edenor C10 DNCAO,ON,Edenor,USD,0.8,2989873638,,,Titulos de Deuda en Dolar Estadounidense,26
+e,ON Oiltanking S2,ON,Oiltanking,USD,0.79,2952500217,,,Titulos de Deuda en Dolar Estadounidense,13
+e,Bono Prov Cordoba Clase 6,Subsoberano,Prov. Cordoba,ARS,0.75,2803006536,,,Titulos de Deuda en Peso Argentina,36
+e,ON Petroqui C Rivadavia PQCOO,ON,Petroqui C Rivadavia PQCOO,ARS,0.74,2765633115,,,Titulos de Deuda en Peso Argentina,13
+e,ON Tecpetrol C10,ON,Tecpetrol,USD,0.73,2728259695,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON Telecom C19 TLCKO,ON,Telecom,ARS,0.71,2653512854,,,Titulos de Deuda en Peso Argentina,30
+e,Bonos de Infra.Vial Prov. de Santa Fe,Subsoberano,Prov. Santa Fe,ARS,0.71,2653512854,,,Titulos de Deuda en Peso Argentina,21
+e,Letra Prov Bs As PBA27,Subsoberano,Prov. Buenos Aires,ARS,0.71,2653512854,,,Titulos de Deuda en Peso Argentina,38
+e,ON Pan American C33,ON,Pan American,ARS,0.68,2541392592,,,Titulos de Deuda en Peso Argentina,36
+e,ON Genneia Clase 50,ON,Genneia,USD,0.66,2466645751,,,Titulos de Deuda en Dolar Estadounidense,19
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.66,2466645751,,,Certificados de Participacion Argentina,93
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.64,2391898910,,,Certificados de Participacion Argentina,96
+e,ON Plaza Logistica C6 ZPC6O,ON,Plaza Logistica,USD,0.64,2391898910,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Oldelval Clase 2,ON,Oldelval,ARS,0.62,2317152069,,,Titulos de Deuda en Peso Argentina,16
+e,FF Nasa Clase 4 Tramo III,Fideicomiso financiero,Nasa,,0.62,2317152069,,,Certificados de Participacion Argentina,3
+e,FF Proyecto VIDA CP,Fideicomiso financiero,Proyecto VIDA CP,,0.58,2167658387,,,Certificados de Participacion Argentina,9
+e,ON YPF Luz Clase 14,ON,YPF Luz,ARS,0.53,1980791285,,,Titulos de Deuda en Peso Argentina,8
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,0.48,1793924183,,,Titulos de Deuda en Peso Argentina,52
+e,ON Vista Gas y Oil Arg C28,ON,Vista Gas y Oil Arg,USD,0.47,1756550762,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON Edenor Clase 5,ON,Edenor,USD,0.45,1681803921,,,Titulos de Deuda en Dolar Estadounidense,6
+e,ON Plaza Logistica C5 ZPC5O,ON,Plaza Logistica,USD,0.44,1644430501,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON MSU S15,ON,MSU,USD,0.44,1644430501,,,Titulos de Deuda en Dolar Estadounidense,2
+e,ON Pampa Energia C29,ON,Pampa Energia,USD,0.44,1644430501,,,Titulos de Deuda en Dolar Estadounidense,28
+e,ON Epec C1,ON,Epec,USD,0.44,1644430501,,,Titulos de Deuda en Dolar Estadounidense,14
+e,FCI Chaco FCI Money Market - Clase B,FCI,Chaco FCI Money Market,,0.43,1607057080,,,Certificados de Participacion Argentina,1
+e,ON CGC C 36,ON,CGC,USD,0.42,1569683660,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Edesa Clase 3,ON,Edesa,ARS,0.41,1532310239,,,Titulos de Deuda en Peso Argentina,21
+e,ON YPF Clase 34,ON,YPF,USD,0.36,1345443137,,,Titulos de Deuda en Dolar Estadounidense,46
+e,ON Vista Gas y Oil Arg C17,ON,Vista Gas y Oil Arg,ARS,0.34,1270696296,,,Titulos de Deuda en Peso Argentina,23
+e,ON YPF Clase XXIV,ON,YPF,ARS,0.33,1233322876,,,Titulos de Deuda en Peso Argentina,2
+e,ON CGC C 27,ON,CGC,ARS,0.32,1195949455,,,Titulos de Deuda en Peso Argentina,3
+e,ON PCR Clase K,ON,PCR,ARS,0.28,1046455773,,,Titulos de Deuda en Peso Argentina,26
+e,ON Pan Amer. Energy C 13,ON,Pan Amer. Energy,ARS,0.26,971708932,,,Titulos de Deuda en Peso Argentina,11
+e,ON Vista Gas y Oil Arg C19,ON,Vista Gas y Oil Arg,ARS,0.25,934335512,,,Titulos de Deuda en Peso Argentina,8
+e,ON Tecpetrol C12,ON,Tecpetrol,USD,0.23,859588671,,,Titulos de Deuda en Dolar Estadounidense,60
+e,ON CNH Arg. C12,ON,CNH Arg,USD,0.22,822215250,,,Titulos de Deuda en Dolar Estadounidense,9
+e,FF Sion Conecta Infraestructura Privada S1,Fideicomiso financiero,Sion Conecta Infraestructura Privada,,0.19,710094989,,,Certificados de Participacion Argentina,16
+e,FCI Adblick Granos Plus FCIC,FCI,Adblick Granos Plus FCIC,,0.17,635348148,,,Certificados de Participacion Argentina,3
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,0.17,635348148,,,Titulos de Deuda en Peso Argentina,159
+e,ON Edenor Clase 3,ON,Edenor,USD,0.14,523227887,,,Titulos de Deuda en Dolar Estadounidense,7
+e,ON Scania Credit C1,ON,Scania Credit,USD,0.12,448481046,,,Titulos de Deuda en Dolar Estadounidense,11
+e,FF Nasa Clase 4 Tramo II,Fideicomiso financiero,Nasa,,0.11,411107625,,,Certificados de Participacion Argentina,4
+e,ON YPF Clase 37,ON,YPF,USD,0.11,411107625,,,Titulos de Deuda en Dolar Estadounidense,13
+e,FCI Terrazas del Volcan Inmobiliario FCIC,FCI,Terrazas del Volcan Inmobiliario FCIC,,0.1,373734205,,,Certificados de Participacion Argentina,5
+e,Bono La Rioja C1,Subsoberano,Prov. La Rioja,ARS,0.09,336360784,,,Titulos de Deuda en Peso Argentina,1
+e,ON Profertil C2,ON,Profertil,USD,0.09,336360784,,,Titulos de Deuda en Dolar Estadounidense,20
+e,FCI GSS Inmobiliario I FCIC,FCI,GSS Inmobiliario I FCIC,,0.08,298987364,,,Certificados de Participacion Argentina,1
+e,Bono Muni San Isidro,Subsoberano,Muni. San Isidro,ARS,0.06,224240523,,,Titulos de Deuda en Peso Argentina,10
+e,Bono Prov Cordoba 010924,Subsoberano,Prov. Cordoba,USD,0.05,186867102,,,Titulos de Deuda en Dolar Estadounidense,4
+e,ON GEMSA 17,ON,GEMSA,ARS,0.04,149493682,,,Titulos de Deuda en Peso Argentina,6
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,0.03,112120261,,,Certificados de Participacion Argentina,47
+e,FF Nasa Clase 4,Fideicomiso financiero,Nasa,,0.02,74746841,,,Certificados de Participacion Argentina,5
+e,ON GEMSA 15 GMCGO,ON,GEMSA,ARS,0.02,74746841,,,Titulos de Deuda en Peso Argentina,6
+e,ON Refi Pampa S3 B,ON,Refi Pampa,ARS,0.01,37373420,,,Titulos de Deuda en Peso Argentina,11
+e,FCI Dracma FCIC Inmobiliario - Clase B,FCI,Dracma FCIC Inmobiliario,,0.01,37373420,,,Certificados de Participacion Argentina,7
+p,Toronto Trust Infraestructura,Investis,INFRA,31.3226,0.4889,16,,,,
+p,Superfondo Renta Mixta,Santander,RF MULT Disc,31.3029,0.3063,27,,,,
+p,SBS Patrimonio IX,SBS,RF MULT Disc,27.6134,0.4895,13,,,,
+p,MEGAQM FCI Abierto Financiamiento de Infraestructura,MegaQM,INFRA,26.2598,0.3958,22,,,,
+p,Fima Capital Plus,Galicia,RF USD Linked,24.0729,0.288,17,,,,
+p,Delta Gestion IX,Delta,RF USD Linked,23.9427,0.382,13,,,,
+p,Desarrollo Argentino III FCI Abierto para el Fin. de la Infra. y la Econ. Real,Investis,INFRA,22.8334,0.4185,10,,,,
+p,SBS Renta Fija Total,SBS,RF MULT Corp,22.7982,0.3471,19,,,,

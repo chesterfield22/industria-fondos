@@ -1,0 +1,60 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Valiant Ahorro,,,,,,,,
+m,gerente,Valiant Asset Management S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Plazo Fijo,,,,,,,,
+m,subtipo,MM ARS Clásico,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,9176691934,,,,,,,,
+m,aum_planilla,9176691934,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/81213,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,98.37,,,,,,,,
+m,pasivos_cnv,1.63,,,,,,,,
+m,liquidez,40.7,,,,,,,,
+m,top1,17.27,,,,,,,,
+m,top5,64.26,,,,,,,,
+m,top10,93.76,,,,,,,,
+m,hhi_especies,1063.3634,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Caución Merval,,,,,,,,
+m,emisor_top_pct,17.27,,,,,,,,
+m,hhi_emisores,1063.3634,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Plazo fijo,57.66,8,,,,,,,
+t,Pase,21.25,2,,,,,,,
+t,Caución,17.27,1,,,,,,,
+c,ARS,96.18,,,,,,,,
+r,Disponibilidades,2.18,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,96.19,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,1.63,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-1.63,,,,,,,,
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,17.27,1584814697,,,Operaciones a Plazo en Peso Argentina,195
+e,Pase Colocador ARS MAE,Pase,Pase MAE,ARS,14.17,1300337247,,,Operaciones a Plazo en Peso Argentina,14
+e,Pzo Fi $ Bco Provincia,Plazo fijo,Banco Provincia,ARS,13.03,1195722959,,,Operaciones a Plazo en Peso Argentina,33
+e,Pzo Fi $ Banco de Serv y Transacciones (BST),Plazo fijo,Banco de Serv y Transacciones (BST),ARS,11.09,1017695135,,,Operaciones a Plazo en Peso Argentina,20
+e,Pzo Fi $ Bco Patagonia,Plazo fijo,Banco Patagonia,ARS,8.7,798372198,,,Operaciones a Plazo en Peso Argentina,42
+e,Pzo Fi $ Bco Bibank,Plazo fijo,Banco Bibank,ARS,8.53,782771822,,,Operaciones a Plazo en Peso Argentina,12
+e,Pase Colocador ARS BYMA,Pase,Pase BYMA,ARS,7.08,649709789,,,Operaciones a Plazo en Peso Argentina,11
+e,Pzo Fi $ Bco Galicia,Plazo fijo,Banco Galicia,ARS,5.44,499212041,,,Operaciones a Plazo en Peso Argentina,67
+e,Pzo Fi $ Bco CMF,Plazo fijo,Banco CMF,ARS,5.18,475352642,,,Operaciones a Plazo en Peso Argentina,4
+e,Pzo Fi $ Bco Cordoba,Plazo fijo,Banco Cordoba,ARS,3.27,300077826,,,Operaciones a Plazo en Peso Argentina,41
+e,Pzo Fi $ Bco Nacion,Plazo fijo,Banco Nacion,ARS,2.42,222075945,,,Operaciones a Plazo en Peso Argentina,84
+p,Chaco FCI Money Market,Chaco,MM ARS Clásico,60.8605,0.7929,9,,,,
+p,Fundcorp Liquidez,CMF,MM ARS Clásico,51.3592,0.7069,8,,,,
+p,Premier Renta CP en Pesos,Supervielle,MM ARS Clásico,42.1882,0.4784,7,,,,
+p,Zofingen Pesos Ya,Zofingen Inv.,MM ARS Clásico,41.2992,0.5514,7,,,,
+p,1810 Ahorro,Proahorro,MM ARS Clásico,38.408,0.4444,6,,,,
+p,Super Ahorro Plus,Santander,MM ARS Dinámico,38.3126,0.5545,6,,,,
+p,Novus Liquidez Fondo de Dinero,Novus,MM ARS Clásico,37.9857,0.4581,5,,,,
+p,Vinci Compass Liquidez,Investis,MM ARS Clásico,37.4938,0.4791,4,,,,

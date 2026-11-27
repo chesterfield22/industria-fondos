@@ -1,0 +1,68 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Adcap Ahorro Pesos Fondo de Dinero,,,,,,,,
+m,gerente,Adcap Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Plazo Fijo,,,,,,,,
+m,subtipo,MM ARS Clásico,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,754266156832,,,,,,,,
+m,aum_planilla,754266156832,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/81208,,,,,,,,
+m,n_especies,20,,,,,,,,
+m,activos_pn,87.2,,,,,,,,
+m,pasivos_cnv,12.8,,,,,,,,
+m,liquidez,10.28,,,,,,,,
+m,top1,24.1,,,,,,,,
+m,top5,52.25,,,,,,,,
+m,top10,67.09,,,,,,,,
+m,hhi_especies,967.4362,,,,,,,,
+m,n_emisores,20,,,,,,,,
+m,emisor_top,Banco Nacion,,,,,,,,
+m,emisor_top_pct,24.1,,,,,,,,
+m,hhi_emisores,967.4362,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Plazo fijo,76.93,19,,,,,,,
+t,Caución,2.05,1,,,,,,,
+c,ARS,78.98,,,,,,,,
+r,Disponibilidades,8.23,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,78.97,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,12.8,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-12.8,,,,,,,,
+e,Pzo Fi $ Bco Nacion,Plazo fijo,Banco Nacion,ARS,24.1,181778143796,,,Operaciones a Plazo en Peso Argentina,84
+e,Pzo Fi $ Bco Santander Ri,Plazo fijo,Banco Santander Ri,ARS,16.71,126037874807,,,Operaciones a Plazo en Peso Argentina,68
+e,Pzo Fi $ Nvo Bco Indus,Plazo fijo,Nvo Bco Indus,ARS,4.14,31226618893,,,Operaciones a Plazo en Peso Argentina,44
+e,Pzo Fi $ Nvo Bco Chaco,Plazo fijo,Nvo Bco Chaco,ARS,3.96,29868939811,,,Operaciones a Plazo en Peso Argentina,13
+e,Pzo Fi $ Bco Cordoba,Plazo fijo,Banco Cordoba,ARS,3.34,25192489638,,,Operaciones a Plazo en Peso Argentina,41
+e,Pzo Fi $ Bco Supervielle,Plazo fijo,Banco Supervielle,ARS,3.34,25192489638,,,Operaciones a Plazo en Peso Argentina,37
+e,Pzo Fi $ Bco Valores,Plazo fijo,Banco Valores,ARS,3.21,24211943634,,,Operaciones a Plazo en Peso Argentina,12
+e,Pzo Fi $ Bco Sol,Plazo fijo,Banco Sol,ARS,3.01,22703411321,,,Operaciones a Plazo en Peso Argentina,31
+e,Pzo Fi $ Banco de Serv y Transacciones (BST),Plazo fijo,Banco de Serv y Transacciones (BST),ARS,2.87,21647438701,,,Operaciones a Plazo en Peso Argentina,20
+e,Pzo Fi $ Bco Provincia,Plazo fijo,Banco Provincia,ARS,2.41,18177814380,,,Operaciones a Plazo en Peso Argentina,33
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,2.05,15462456215,,,Operaciones a Plazo en Peso Argentina,195
+e,Pzo Fi $ Bco Patagonia,Plazo fijo,Banco Patagonia,ARS,2,15085323137,,,Operaciones a Plazo en Peso Argentina,42
+e,Pzo Fi $ Bco Coinag,Plazo fijo,Banco Coinag,ARS,1.87,14104777133,,,Operaciones a Plazo en Peso Argentina,12
+e,Pzo Fi $ Bco Macro Bansud,Plazo fijo,Banco Macro Bansud,ARS,1.74,13124231129,,,Operaciones a Plazo en Peso Argentina,21
+e,Pzo Fi $ Banco VOII,Plazo fijo,Banco VOII,ARS,1.47,11087712505,,,Operaciones a Plazo en Peso Argentina,13
+e,Pzo Fi $ Bco Mariva,Plazo fijo,Banco Mariva,ARS,0.94,7090101874,,,Operaciones a Plazo en Peso Argentina,32
+e,Pzo Fi $ Bco Bibank,Plazo fijo,Banco Bibank,ARS,0.74,5581569561,,,Operaciones a Plazo en Peso Argentina,12
+e,Pzo Fi $ ICBC,Plazo fijo,ICBC,ARS,0.67,5053583251,,,Operaciones a Plazo en Peso Argentina,32
+e,Pzo Fi $ Bco BACS,Plazo fijo,Banco BACS,ARS,0.27,2036518623,,,Operaciones a Plazo en Peso Argentina,19
+e,Plazo Fi $ Bco Municipal de Rosario,Plazo fijo,Banco Municipal de Rosario,ARS,0.14,1055972620,,,Operaciones a Plazo en Peso Argentina,2
+p,Ciclo Nova Ahorro,Ciclo Nova,MM ARS Clásico,66.2914,0.8896,8,,,,
+p,Argenfunds Liquidez,Argenfunds,MM ARS Clásico,57.2021,0.7888,11,,,,
+p,Fima Premium,Galicia,MM ARS Clásico,56.0907,0.8359,10,,,,
+p,1810 Ahorro,Proahorro,MM ARS Clásico,56.0495,0.7976,10,,,,
+p,Champaquí Fondo Inmediato,Bancor,MM ARS Clásico,55.5174,0.7995,13,,,,
+p,Tango Money Market,Tango,MM ARS Clásico,54.6957,0.767,6,,,,
+p,FBA Money Market Pesos,BBVA,MM ARS Clásico,54.5932,0.7799,10,,,,
+p,Balanz Capital Money Market,Balanz,MM ARS Clásico,53.6815,0.7398,8,,,,

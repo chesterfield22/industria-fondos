@@ -1,0 +1,131 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,First Renta Dolares,,,,,,,,
+m,gerente,First Capital Markets S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,6679206,,,,,,,,
+m,aum_planilla,6679206,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63859,,,,,,,,
+m,n_especies,77,,,,,,,,
+m,activos_pn,100.05,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,22.88,,,,,,,,
+m,top1,20.51,,,,,,,,
+m,top5,32.18,,,,,,,,
+m,top10,40.33,,,,,,,,
+m,hhi_especies,528.065,,,,,,,,
+m,n_emisores,54,,,,,,,,
+m,emisor_top,Caución Merval,,,,,,,,
+m,emisor_top_pct,20.51,,,,,,,,
+m,hhi_emisores,566.3943,,,,,,,,
+m,sin_emisor_pct,4.17,,,,,,,,
+t,ON,64.59,67,,,,,,,
+t,Caución,20.51,1,,,,,,,
+t,FCI,4.49,1,,,,,,,
+t,Pagaré,4.17,2,,,,,,,
+t,Fideicomiso financiero,3.9,6,,,,,,,
+c,USD,93.76,,,,,,,,
+c,sin dato,3.9,,,,,,,,
+r,Disponibilidades,2.37,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,68.78,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,20.51,,,,,,,,
+r,Certificados de Participacion Argentina,8.39,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.05,,,,,,,,
+e,Caucion Colocadora U$S Merval,Caución,Caución Merval,USD,20.51,1369905,,,Operaciones a Plazo en Dolar Estadounidense,55
+e,FCI Megaqm Liquidez Dólar - Clase B,FCI,Megaqm Liquidez Dólar,USD,4.49,299896.3319,,,Certificados de Participacion Argentina,20
+e,Pagare #UPO151160001,Pagaré,,USD,2.98,199040.3272,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON YPF Clase 42,ON,YPF,USD,2.37,158297.173,,,Titulos de Deuda en Dolar Estadounidense,48
+e,ON Profertil C2,ON,Profertil,USD,1.83,122229.4627,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON Genneia Clase 47,ON,Genneia,USD,1.79,119557.7804,,,Titulos de Deuda en Dolar Estadounidense,21
+e,ON Cresud S32 C48,ON,Cresud,USD,1.6,106867.2898,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Central Puerto Clase C,ON,Central Puerto,USD,1.6,106867.2898,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON CNH Arg. C9,ON,CNH Arg,USD,1.58,105531.4486,,,Titulos de Deuda en Dolar Estadounidense,7
+e,ON John Deere Cia. Fin C17,ON,John Deere Cia. Fin,USD,1.58,105531.4486,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Mega C1,ON,Mega,USD,1.57,104863.5281,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Loma Negra C6,ON,Loma Negra,USD,1.55,103527.687,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Sidersa Clase 1,ON,Sidersa,USD,1.54,102859.7664,,,Titulos de Deuda en Dolar Estadounidense,5
+e,ON Pluspetrol Clase 1,ON,Pluspetrol,USD,1.52,101523.9253,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON John Deere Cia. Fin C21,ON,John Deere Cia. Fin,USD,1.51,100856.0047,,,Titulos de Deuda en Dolar Estadounidense,7
+e,ON Sidersa Clase 2,ON,Sidersa,USD,1.51,100856.0047,,,Titulos de Deuda en Dolar Estadounidense,13
+e,FF Crucianelli S1 CA,Fideicomiso financiero,Crucianelli,,1.51,100856.0047,,,Certificados de Participacion Argentina,10
+e,ON Edenor C11,ON,Edenor,USD,1.43,95512.6402,,,Titulos de Deuda en Dolar Estadounidense,31
+e,ON Pluspetrol Clase 3,ON,Pluspetrol,USD,1.41,94176.7991,,,Titulos de Deuda en Dolar Estadounidense,18
+e,ON Scania Credit C1,ON,Scania Credit,USD,1.29,86161.7524,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON Aluar Serie 7,ON,Aluar,USD,1.28,85493.8318,,,Titulos de Deuda en Dolar Estadounidense,15
+e,Pagare #UDO201160001,Pagaré,,USD,1.19,79482.5468,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Minera Exar Clase 1,ON,Minera Exar,USD,1.18,78814.6262,,,Titulos de Deuda en Dolar Estadounidense,8
+e,ON Oiltanking S2,ON,Oiltanking,USD,1.15,76810.8645,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON John Deere Cia. Fin C19,ON,John Deere Cia. Fin,USD,0.96,64120.3739,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON Supervielle Clase T,ON,Supervielle,USD,0.94,62784.5327,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON Pan American C37,ON,Pan American,USD,0.87,58109.0888,,,Titulos de Deuda en Dolar Estadounidense,18
+e,ON PCR Clase R,ON,PCR,USD,0.87,58109.0888,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Irsa Clase 22,ON,Irsa,USD,0.85,56773.2477,,,Titulos de Deuda en Dolar Estadounidense,4
+e,ON Pan American C31,ON,Pan American,USD,0.82,54769.486,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON CNH Arg. C10,ON,CNH Arg,USD,0.8,53433.6449,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Oldelval Clase 5,ON,Oldelval,USD,0.8,53433.6449,,,Titulos de Deuda en Dolar Estadounidense,34
+e,ON Oldelval Clase 6,ON,Oldelval,USD,0.8,53433.6449,,,Titulos de Deuda en Dolar Estadounidense,41
+e,ON Agronorte S3 CB,ON,Agronorte,USD,0.79,52765.7243,,,Titulos de Deuda en Dolar Estadounidense,6
+e,ON Pampa Energia C25,ON,Pampa Energia,USD,0.78,52097.8038,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Banco de Galicia 30 BYCWO,ON,Banco de Galicia,USD,0.77,51429.8832,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON Bco Patagonia Cl 4,ON,Banco Patagonia,USD,0.77,51429.8832,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON YPF Clase 38,ON,YPF,USD,0.77,51429.8832,,,Titulos de Deuda en Dolar Estadounidense,26
+e,ON Oldelval Clase 7,ON,Oldelval,USD,0.77,51429.8832,,,Titulos de Deuda en Dolar Estadounidense,41
+e,ON Luz De Tres Picos C5,ON,Luz De Tres Picos,USD,0.77,51429.8832,,,Titulos de Deuda en Dolar Estadounidense,17
+e,ON Camuzzi Gas C1 USD,ON,Camuzzi Gas,USD,0.77,51429.8832,,,Titulos de Deuda en Dolar Estadounidense,13
+e,FF Agrocap S4,Fideicomiso financiero,Agrocap,,0.77,51429.8832,,,Certificados de Participacion Argentina,6
+e,ON Supervielle Clase U,ON,Supervielle,USD,0.77,51429.8832,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON BBVA Frances Cl 39,ON,BBVA Frances,USD,0.77,51429.8832,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON BBVA Frances Cl 44,ON,BBVA Frances,USD,0.76,50761.9626,,,Titulos de Deuda en Dolar Estadounidense,24
+e,ON Supervielle Clase W,ON,Supervielle,USD,0.76,50761.9626,,,Titulos de Deuda en Dolar Estadounidense,22
+e,ON Tarj Naranja C67 S2,ON,Tarj Naranja,USD,0.76,50761.9626,,,Titulos de Deuda en Dolar Estadounidense,22
+e,ON ICBC Clase 6 220527,ON,ICBC,USD,0.76,50761.9626,,,Titulos de Deuda en Dolar Estadounidense,18
+e,ON BBVA Frances Cl 50,ON,BBVA Frances,USD,0.76,50761.9626,,,Titulos de Deuda en Dolar Estadounidense,30
+e,ON Scania Credit C4,ON,Scania Credit,USD,0.76,50761.9626,,,Titulos de Deuda en Dolar Estadounidense,8
+e,ON Tecpetrol C11,ON,Tecpetrol,USD,0.76,50761.9626,,,Titulos de Deuda en Dolar Estadounidense,27
+e,ON Banco Comafi C27,ON,Banco Comafi,USD,0.75,50094.0421,,,Titulos de Deuda en Dolar Estadounidense,5
+e,ON Banco de Galicia 34 BY34O,ON,Banco de Galicia,USD,0.75,50094.0421,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON Banco de Galicia 33 BYZ1O,ON,Banco de Galicia,USD,0.75,50094.0421,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Diesel Lange S1,ON,Diesel Lange,USD,0.75,50094.0421,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON Pyme Gar Bajo Imp Apache S1 C1,ON,Pyme Gar Bajo Imp Apache,USD,0.75,50094.0421,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON Bco Patagonia Cl 6,ON,Banco Patagonia,USD,0.75,50094.0421,,,Titulos de Deuda en Dolar Estadounidense,7
+e,ON Banco Comafi C24,ON,Banco Comafi,USD,0.75,50094.0421,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON Central Dock Sud C1,ON,Central Dock Sud,USD,0.75,50094.0421,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Banco Nacion Argentina Clase 7,ON,Banco Nacion Argentina,USD,0.75,50094.0421,,,Titulos de Deuda en Dolar Estadounidense,17
+e,ON Del Fabro Hnos S1 DFS1L,ON,Del Fabro Hnos,USD,0.75,50094.0421,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Banco Hipotecario C16,ON,Banco Hipotecario,USD,0.74,49426.1215,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Tarj Naranja C68 S2,ON,Tarj Naranja,USD,0.74,49426.1215,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Diransa C2,ON,Diransa,USD,0.74,49426.1215,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Pyme Gar Venturino S2,ON,Pyme Gar Venturino,USD,0.74,49426.1215,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Epec C1,ON,Epec,USD,0.74,49426.1215,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON Pyme Indave S1,ON,Pyme Indave,USD,0.73,48758.201,,,Titulos de Deuda en Dolar Estadounidense,8
+e,ON Bco CMF Serie 20,ON,Banco CMF,USD,0.73,48758.201,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Pyme Riboldi S1,ON,Pyme Riboldi,USD,0.56,37403.5514,,,Titulos de Deuda en Dolar Estadounidense,13
+e,FF Venturino S1 A,Fideicomiso financiero,Venturino,,0.54,36067.7103,,,Certificados de Participacion Argentina,7
+e,FF Desarrollo Minero Martin Bronce,Fideicomiso financiero,Desarrollo Minero Martin Bronce,,0.5,33396.0281,,,Certificados de Participacion Argentina,6
+e,FF Agrocap S5 CA,Fideicomiso financiero,Agrocap,,0.48,32060.1869,,,Certificados de Participacion Argentina,9
+e,ON Futuros y Opciones.com S4 CA,ON,Futuros y Opciones.com,USD,0.38,25380.9813,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Otamerica S6,ON,Otamerica,USD,0.38,25380.9813,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Agronorte Serie 1,ON,Agronorte,USD,0.35,23377.2196,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Arcor C5,ON,Arcor,USD,0.21,14026.3318,,,Titulos de Deuda en Dolar Estadounidense,13
+e,FF Vicentin Export S8 A,Fideicomiso financiero,Vicentin Export,,0.1,6679.2056,,,Certificados de Participacion Argentina,13
+p,Balanz Capital Estrategia I USD,Balanz,RF USD CP,28.6116,0.4547,37,,,,
+p,Chaco FCI Renta Fija Dólares,Chaco,RF USD corp loc,28.4817,0.6579,22,,,,
+p,Crecer Capital Dolares,Ciudad,RF USD corp loc,28.1973,0.7013,13,,,,
+p,Max Estrategico III,Max Capital,RF USD Disc,24.9642,0.7676,4,,,,
+p,FBA Renta Fija Dólar I,BBVA,RF USD GL Inc ARG,24.87,0.6837,7,,,,
+p,Superfondo Renta Fija Dólares,Santander,RF USD GL Inc ARG,24.6992,0.4942,21,,,,
+p,Max Renta Fija Dolares,Max Capital,RF USD corp loc,24.2525,0.5916,22,,,,
+p,1810 Renta Dólar,Proahorro,RF USD corp loc,21.083,0.3628,23,,,,

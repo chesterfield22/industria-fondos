@@ -1,0 +1,96 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Galileo Multimercado V,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF MULT Corp,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,74749819436,,,,,,,,
+m,aum_planilla,74749819436,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85657,,,,,,,,
+m,n_especies,37,,,,,,,,
+m,activos_pn,93.93,,,,,,,,
+m,pasivos_cnv,6.07,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,25.15,,,,,,,,
+m,top5,56.38,,,,,,,,
+m,top10,68.89,,,,,,,,
+m,hhi_especies,1041.6268,,,,,,,,
+m,n_emisores,24,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,27.21,,,,,,,,
+m,hhi_emisores,1201.3873,,,,,,,,
+m,sin_emisor_pct,11.61,,,,,,,,
+t,ON,46.9,17,,,,,,,
+t,Soberano,27.21,2,,,,,,,
+t,Cheque,6.23,3,,,,,,,
+t,Corporativo exterior,5.92,4,,,,,,,
+t,Pagaré,5.27,4,,,,,,,
+t,Subsoberano,1.22,3,,,,,,,
+t,Soberano exterior,1.09,2,,,,,,,
+t,FCE,0.11,1,,,,,,,
+t,FCI,0.03,1,,,,,,,
+c,ARS,92.39,,,,,,,,
+c,sin dato,1.59,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,92.34,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Cable,1.45,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Billete,0.11,,,,,,,,
+r,Certificados de Participacion Argentina,0.03,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,6.07,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-6.07,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,25.15,18799579588,,,Titulos de Deuda en Peso Argentina,103
+e,ON Aluar Serie 6,ON,Aluar,ARS,15.67,11713296706,,,Titulos de Deuda en Peso Argentina,28
+e,ON CGC C 39,ON,CGC,ARS,8.26,6174335085,,,Titulos de Deuda en Peso Argentina,34
+e,ON Vista Energy 31,ON,Vista Energy,ARS,4.18,3124542452,,,Titulos de Deuda en Peso Argentina,9
+e,ON Tecpetrol C10 RETAP,ON,Tecpetrol,ARS,3.12,2332194366,,,Titulos de Deuda en Peso Argentina,5
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,3.07,2294819457,,,Titulos de Deuda en Peso Argentina,42
+e,Cheque E *MAV061101191,Cheque,,ARS,2.66,1988345197,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201758,Cheque,,ARS,2.61,1950970287,,,Titulos de Deuda en Peso Argentina,1
+e,ON Aluar Serie 7,ON,Aluar,ARS,2.11,1577221190,,,Titulos de Deuda en Peso Argentina,15
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,2.06,1539846280,,,Titulos de Deuda en Peso Argentina,75
+e,BC Puma 7.75% 250429,Corporativo exterior,Puma,ARS,2.05,1532371298,,,Titulos de Deuda en Peso Argentina,2
+e,ON Pan American C33,ON,Pan American,ARS,2.03,1517421335,,,Titulos de Deuda en Peso Argentina,36
+e,ON Oldelval Clase 3,ON,Oldelval,ARS,2.02,1509946353,,,Titulos de Deuda en Peso Argentina,40
+e,ON Pampa Energia C13,ON,Pampa Energia,ARS,1.96,1465096461,,,Titulos de Deuda en Peso Argentina,30
+e,ON Genneia Clase 42,ON,Genneia,ARS,1.82,1360446714,,,Titulos de Deuda en Peso Argentina,12
+e,BC Goldman Sachs 6.15% 160631,Corporativo exterior,Goldman Sachs,ARS,1.54,1151147219,,,Titulos de Deuda en Peso Argentina,2
+e,Pagare #MAV251160060,Pagaré,,ARS,1.32,986697617,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV251160062,Pagaré,,ARS,1.32,986697617,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV251160063,Pagaré,,ARS,1.32,986697617,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV031260041,Pagaré,,ARS,1.31,979222635,,,Titulos de Deuda en Peso Argentina,1
+e,BC Rakuten 2029,Corporativo exterior,Rakuten,ARS,1.2,896997833,,,Titulos de Deuda en Peso Argentina,3
+e,ON Vista Gas y Oil Arg C27,ON,Vista Gas y Oil Arg,ARS,1.19,889522851,,,Titulos de Deuda en Peso Argentina,16
+e,BC Aon North America 280231,Corporativo exterior,Aon North America,ARS,1.13,844672960,,,Titulos de Deuda en Peso Argentina,1
+e,US Treasury Bill 271126,Soberano exterior,Tesoro EE.UU.,,1.07,799823068,,,Titulos de Deuda en Dolar Estadounidense Cable,10
+e,Cheque E *MAV241101630,Cheque,,ARS,0.96,717598267,,,Titulos de Deuda en Peso Argentina,1
+e,ON Vista Gas y Oil Arg C17,ON,Vista Gas y Oil Arg,ARS,0.52,388699061,,,Titulos de Deuda en Peso Argentina,23
+e,Bono Prov Neuquen 2028 NDT11,Subsoberano,Prov. Neuquen,ARS,0.48,358799133,,,Titulos de Deuda en Peso Argentina,4
+e,Bono Prov Santa Fe 2027 SF27D,Subsoberano,Prov. Santa Fe,ARS,0.38,284049314,,,Titulos de Deuda en Peso Argentina,20
+e,ON YPF Clase XXVI,ON,YPF,ARS,0.36,269099350,,,Titulos de Deuda en Peso Argentina,3
+e,Bono CABA 01062027,Subsoberano,Prov. CABA,,0.36,269099350,,,Titulos de Deuda en Dolar Estadounidense Cable,7
+e,ON Capex C5 9.250%,ON,Capex,ARS,0.29,216774476,,,Titulos de Deuda en Peso Argentina,13
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,0.17,127074693,,,Titulos de Deuda en Peso Argentina,52
+e,Factura E %UVI271100009,FCE,,,0.11,82224801,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,ON Agrofina Clase 12,ON,Agrofina,ARS,0.09,67274837,,,Titulos de Deuda en Peso Argentina,10
+e,ON Refi Pampa S3 B,ON,Refi Pampa,ARS,0.04,29899928,,,Titulos de Deuda en Peso Argentina,11
+e,FCI Pionero Pesos Plus - Clase B,FCI,Pionero Pesos Plus,,0.03,22424946,,,Certificados de Participacion Argentina,40
+e,US Treasury Bill 241226,Soberano exterior,Tesoro EE.UU.,,0.02,14949964,,,Titulos de Deuda en Dolar Estadounidense Cable,4
+p,SBS Renta Fija Total,SBS,RF MULT Corp,50.0641,0.8561,16,,,,
+p,SBS Renta Capital,SBS,RF MULT Disc,42.605,0.7356,4,,,,
+p,MAF Renta Fija Cobertura,Mariva,RF MULT Disc,38.427,0.7262,6,,,,
+p,Optimum Renta Mixta Flexible Argentina,Santander,RF USD Linked,37.1096,0.5005,4,,,,
+p,SBS Patrimonio IX,SBS,RF MULT Disc,36.0537,0.6572,7,,,,
+p,Compass Renta Mixta V,Investis,RF MULT Disc,33.9227,0.7104,5,,,,
+p,Allaria Patrimonio II,Allaria,RF USD Linked,33.1701,0.5392,5,,,,
+p,FBA Horizonte,BBVA,RF USD Linked,32.7729,0.5839,4,,,,

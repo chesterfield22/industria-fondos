@@ -1,0 +1,64 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Delta Renta Dolares,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,7662080,,,,,,,,
+m,aum_planilla,7910696,,,,,,,,
+m,dif_pn_aum,-0.0314,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63805,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,100.38,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.32,,,,,,,,
+m,top1,21.37,,,,,,,,
+m,top5,78.35,,,,,,,,
+m,top10,98.17,,,,,,,,
+m,hhi_especies,1403.1203,,,,,,,,
+m,n_emisores,9,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,48.86,,,,,,,,
+m,hhi_emisores,2929.6685,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,48.86,4,,,,,,,
+t,ON,39.44,6,,,,,,,
+t,Soberano exterior,6.6,1,,,,,,,
+t,Subsoberano,4.15,1,,,,,,,
+c,USD,57.46,,,,,,,,
+c,sin dato,41.59,,,,,,,,
+r,Disponibilidades,1.32,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,57.47,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Cable,41.59,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.38,,,,,,,,
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,21.37,1637387,,,Titulos de Deuda en Dolar Estadounidense,83
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,USD,17.38,1331670,,,Titulos de Deuda en Dolar Estadounidense,62
+e,ON BBVA Frances Cl 48,ON,BBVA Frances,USD,16.55,1268074,,,Titulos de Deuda en Dolar Estadounidense,5
+e,ON Banco Macro Clase G,ON,Banco Macro,,12.95,992239.4183,,,Titulos de Deuda en Dolar Estadounidense Cable,32
+e,Bonos Rep Argentina GD35,Soberano,Tesoro Nacional,,10.1,773870.1254,,,Titulos de Deuda en Dolar Estadounidense Cable,54
+e,US Treasury Bill 310528,Soberano exterior,Tesoro EE.UU.,,6.6,505697.3097,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,ON Vista Energy 32,ON,Vista Energy,,5.8,444400.6661,,,Titulos de Deuda en Dolar Estadounidense Cable,6
+e,Bono Prov San Juan SJO35,Subsoberano,Prov. San Juan,,4.15,317976.3387,,,Titulos de Deuda en Dolar Estadounidense Cable,33
+e,ON Tecpetrol C12,ON,Tecpetrol,,1.98,151709.1929,,,Titulos de Deuda en Dolar Estadounidense Cable,60
+e,ON Pampa Energia C25,ON,Pampa Energia,USD,1.29,98840.8378,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON TGLT Clase 16,ON,TGLT,USD,0.87,66660.0999,,,Titulos de Deuda en Dolar Estadounidense,14
+e,Bonos Rep Argentina GD41,Soberano,Tesoro Nacional,,0.01,766.208,,,Titulos de Deuda en Dolar Estadounidense Cable,38
+p,Consultatio Multimercado V,Consultatio,RF USD Disc,53.3168,0.7211,4,,,,
+p,Ualintec Cobertura,Ualá,RF USD Linked,39.1217,0.5315,2,,,,
+p,IOL Dólar Ahorro Plus,Adcap,RF USD Disc,29.7762,0.5353,3,,,,
+p,Alpha Renta Capital Dólar,ICBC,RF USD Disc,27.9319,0.4685,3,,,,
+p,MEGAQM Gestión Balanceada Dólares,MegaQM,RF USD Disc,27.7537,0.3323,3,,,,
+p,Fima Mix Dólares,Galicia,RF USD Disc,27.7436,0.337,2,,,,
+p,FBA Renta Fija Dólar Plus I,BBVA,RF USD Disc,27.7383,0.4417,3,,,,
+p,1822 Raices Dólares Plus,Provinfondos,RF USD Disc,25.5732,0.4622,4,,,,

@@ -1,0 +1,58 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Adcap Gestion Estrategica VIII,,,,,,,,
+m,gerente,Adcap Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,19430533246,,,,,,,,
+m,aum_planilla,19430533246,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/81088,,,,,,,,
+m,n_especies,10,,,,,,,,
+m,activos_pn,100.04,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,25.84,,,,,,,,
+m,top5,92.29,,,,,,,,
+m,top10,100.05,,,,,,,,
+m,hhi_especies,1973.0121,,,,,,,,
+m,n_emisores,6,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,92.29,,,,,,,,
+m,hhi_emisores,8530.6015,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,92.29,5,,,,,,,
+t,ON,7.76,5,,,,,,,
+c,ARS,100.05,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,100.03,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.04,,,,,,,,
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,25.84,5020849791,,,Titulos de Deuda en Peso Argentina,118
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,22.97,4463193487,,,Titulos de Deuda en Peso Argentina,92
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,20.65,4012405115,,,Titulos de Deuda en Peso Argentina,159
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,17.64,3427546065,,,Titulos de Deuda en Peso Argentina,158
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,5.19,1008444675,,,Titulos de Deuda en Peso Argentina,86
+e,ON Pampa Energia C29,ON,Pampa Energia,ARS,2.44,474105011,,,Titulos de Deuda en Peso Argentina,28
+e,ON Arcor C7,ON,Arcor,ARS,1.64,318660745,,,Titulos de Deuda en Peso Argentina,8
+e,ON YPF Clase 43,ON,YPF,ARS,1.23,238995559,,,Titulos de Deuda en Peso Argentina,34
+e,ON Vaca Muerta C1,ON,Vaca Muerta,ARS,1.23,238995559,,,Titulos de Deuda en Peso Argentina,45
+e,ON Loma Negra C7,ON,Loma Negra,ARS,1.22,237052506,,,Titulos de Deuda en Peso Argentina,30
+p,Adcap Gestion Estrategica VI,Adcap,RM y Otros ARS,80.1016,0.9443,4,,,,
+p,Pionero Renta Balanceado,Macro,RF ARS CER,65.5767,0.8067,4,,,,
+p,FBA Cobertura Pesos,BBVA,RF ARS CER,64.0979,0.7786,3,,,,
+p,Compass Ahorro,Investis,T+1,54.888,0.7683,4,,,,
+p,MAF Ahorro Pesos,Mariva,RF ARS CER,54.4565,0.6838,3,,,,
+p,Blacktoro Gestion Calificado I,BlackToro,RF ARS Disc,51.5981,0.724,5,,,,
+p,FBA Renta Fija Pesos II,BBVA,T+1,51.4123,0.6695,4,,,,
+p,GSS Retorno Total,Grupo SS,RF MULT Disc,50.7484,0.6886,4,,,,

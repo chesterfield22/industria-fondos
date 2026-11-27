@@ -1,0 +1,72 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Novus Renta Balanceado,,,,,,,,
+m,gerente,Novus Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,3530903726,,,,,,,,
+m,aum_planilla,3530903726,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85289,,,,,,,,
+m,n_especies,19,,,,,,,,
+m,activos_pn,100.08,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,5.98,,,,,,,,
+m,top1,13.07,,,,,,,,
+m,top5,53.94,,,,,,,,
+m,top10,82.26,,,,,,,,
+m,hhi_especies,803.3525,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,34.17,,,,,,,,
+m,hhi_emisores,1665.7393,,,,,,,,
+m,sin_emisor_pct,3.96,,,,,,,,
+t,Subsoberano,41.16,6,,,,,,,
+t,Soberano,34.17,7,,,,,,,
+t,ON,9.81,4,,,,,,,
+t,FCI,4.99,1,,,,,,,
+t,Cheque,3.96,1,,,,,,,
+c,ARS,89.1,,,,,,,,
+c,sin dato,4.99,,,,,,,,
+r,Disponibilidades,5.98,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,89.11,,,,,,,,
+r,Certificados de Participacion Argentina,4.99,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.08,,,,,,,,
+e,Letra Prov Bs As PBA27,Subsoberano,Prov. Buenos Aires,ARS,13.07,461489117,,,Titulos de Deuda en Peso Argentina,38
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,12.78,451249496,,,Titulos de Deuda en Peso Argentina,159
+e,Letra Prov Rio Negro S1 031226,Subsoberano,Prov. Rio Negro,ARS,12.26,432888797,,,Titulos de Deuda en Peso Argentina,15
+e,Bono Muni Cordoba S1 26032027,Subsoberano,Muni. Cordoba,ARS,9.18,324136962,,,Titulos de Deuda en Peso Argentina,20
+e,ON Edenor Clase 3,ON,Edenor,ARS,6.65,234805098,,,Titulos de Deuda en Peso Argentina,7
+e,Letra Tesoro Nac D31M7,Soberano,Tesoro Nacional,ARS,6.53,230568013,,,Titulos de Deuda en Peso Argentina,30
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,6.45,227743290,,,Titulos de Deuda en Peso Argentina,250
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,ARS,6.39,225624748,,,Titulos de Deuda en Peso Argentina,83
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,4.99,176192096,,,Certificados de Participacion Argentina,77
+e,Cheque E *MAV211101375,Cheque,,ARS,3.96,139823788,,,Titulos de Deuda en Peso Argentina,1
+e,Bono Prov Cordoba 2027 COY27,Subsoberano,Prov. Cordoba,ARS,3.42,120756907,,,Titulos de Deuda en Peso Argentina,28
+e,Letra Prov Chubut S121 C1,Subsoberano,Prov. Chubut,ARS,2.51,88625684,,,Titulos de Deuda en Peso Argentina,7
+e,ON Credicuotas Consumo S17,ON,Credicuotas Consumo,ARS,1.82,64262448,,,Titulos de Deuda en Peso Argentina,16
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,1.27,44842477,,,Titulos de Deuda en Peso Argentina,74
+e,ON Banco Prov Clase 6,ON,Banco Provincia,ARS,0.74,26128688,,,Titulos de Deuda en Peso Argentina,43
+e,Letra Entre Rios ERE27,Subsoberano,Prov. Entre Rios,ARS,0.72,25422507,,,Titulos de Deuda en Peso Argentina,11
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,ARS,0.61,21538513,,,Titulos de Deuda en Peso Argentina,72
+e,ON Bco Provincia Cl 4,ON,Banco Provincia,ARS,0.6,21185422,,,Titulos de Deuda en Peso Argentina,25
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,0.14,4943265,,,Titulos de Deuda en Peso Argentina,160
+p,Novus Balanceado,Novus,RM y Otros ARS,40.9459,0.4712,9,,,,
+p,Novus Renta Capital,Novus,RF ARS Disc,32.4224,0.4235,10,,,,
+p,Parakeet Premium,Parakeet,RF ARS Disc,30.3136,0.4389,6,,,,
+p,Adcap Gestión Estratégica III,Adcap,RF MULT Disc,26.3438,0.3725,4,,,,
+p,Novus Income,Novus,RF MULT Disc,25.8862,0.4165,8,,,,
+p,Super Bonos,Santander,RF USD Linked,25.665,0.2942,3,,,,
+p,BAVSA Multiestrategia I,BAVSA,RM y Otros ARS,22.8972,0.3041,5,,,,
+p,ACA Valores Retorno Total,Schroder,RF MULT Disc,21.6716,0.379,3,,,,

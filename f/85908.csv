@@ -1,0 +1,75 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Schroder Retorno Total Cuatro,,,,,,,,
+m,gerente,Schroder S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF USD CP,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Latinoamerica,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,109466464,,,,,,,,
+m,aum_planilla,109466464,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85908,,,,,,,,
+m,n_especies,20,,,,,,,,
+m,activos_pn,100.31,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,19.8,,,,,,,,
+m,top1,24.56,,,,,,,,
+m,top5,72.26,,,,,,,,
+m,top10,84.93,,,,,,,,
+m,hhi_especies,1346.0571,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,24.56,,,,,,,,
+m,hhi_emisores,1410.3969,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,24.56,1,,,,,,,
+t,ON,24.41,13,,,,,,,
+t,Caución,18.73,1,,,,,,,
+t,Soberano exterior,15.66,2,,,,,,,
+t,Plazo fijo,11.01,1,,,,,,,
+t,FCI,4.86,2,,,,,,,
+c,USD,80.5,,,,,,,,
+c,sin dato,18.73,,,,,,,,
+r,Disponibilidades,1.07,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,64.65,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense Billete,29.73,,,,,,,,
+r,Certificados de Participacion Argentina,4.86,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.31,,,,,,,,
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,24.56,26884964,,,Titulos de Deuda en Dolar Estadounidense,83
+e,Caucion Colocadora USB Merval,Caución,Caución Merval,,18.73,20503069,,,Operaciones a Plazo en Dolar Estadounidense Billete,5
+e,CL Rep Chile 2027,Soberano exterior,Chile (soberano),USD,14.21,15555185,,,Titulos de Deuda en Dolar Estadounidense,22
+e,Pzo Fi U$S Bco Nacion,Plazo fijo,Banco Nacion,USD,11.01,12052258,,,Operaciones a Plazo en Dolar Estadounidense Billete,40
+e,ON Banco de Galicia 31 BYCXO,ON,Banco de Galicia,USD,3.75,4104992,,,Titulos de Deuda en Dolar Estadounidense,8
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,3.02,3305887,,,Certificados de Participacion Argentina,37
+e,ON Banco de Galicia 33 BYZ1O,ON,Banco de Galicia,USD,2.74,2999381,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON BBVA Frances Cl 40,ON,BBVA Frances,USD,2.4,2627195,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON BBVA Frances Cl 39,ON,BBVA Frances,USD,2.34,2561515,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON YPF Clase 38,ON,YPF,USD,2.17,2375422,,,Titulos de Deuda en Dolar Estadounidense,26
+e,ON Banco Hipotecario C14,ON,Banco Hipotecario,USD,1.85,2025130,,,Titulos de Deuda en Dolar Estadounidense,19
+e,FCI Cocos Dólar Money Market - Clase B,FCI,Cocos Dólar Money Market,USD,1.84,2014183,,,Certificados de Participacion Argentina,2
+e,ON ICBC Clase 6 220527,ON,ICBC,USD,1.83,2003236,,,Titulos de Deuda en Dolar Estadounidense,18
+e,ON Banco Comafi C21,ON,Banco Comafi,USD,1.82,1992290,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON BBVA Frances Cl 45,ON,BBVA Frances,USD,1.81,1981343,,,Titulos de Deuda en Dolar Estadounidense,11
+e,US Treasury Bill 171226,Soberano exterior,Tesoro EE.UU.,USD,1.45,1587264,,,Titulos de Deuda en Dolar Estadounidense,4
+e,ON Supervielle Clase U,ON,Supervielle,USD,0.94,1028985,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Banco Hipotecario C12,ON,Banco Hipotecario,USD,0.94,1028985,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Telecom C29,ON,Telecom,USD,0.91,996144.823,,,Titulos de Deuda en Dolar Estadounidense,7
+e,ON BBVA Frances Cl 44,ON,BBVA Frances,USD,0.91,996144.823,,,Titulos de Deuda en Dolar Estadounidense,24
+p,MEGAQM Renta Dólares,MegaQM,RF USD CP,31.9857,0.5098,5,,,,
+p,Schroder Liquidez Dolares,Schroder,MM USD Clásico,29.9708,0.5665,2,,,,
+p,MAF Mix I,Mariva,RF USD Disc,29.3743,0.5224,5,,,,
+p,Stonex Global I,StoneX,RF USD GL Ex ARG,28.986,0.4104,2,,,,
+p,IOL Dólar Ahorro Plus,Adcap,RF USD Disc,28.9757,0.5479,6,,,,
+p,SBS Renta Dólar Latam,SBS,RF USD GL Inc ARG,28.7886,0.4589,3,,,,
+p,Wise Capital Global Markets,Wise,RF USD GL Inc ARG,26.9374,0.3947,2,,,,
+p,Novus Ahorro Dólares,Novus,RF USD Disc,26.5948,0.43,2,,,,

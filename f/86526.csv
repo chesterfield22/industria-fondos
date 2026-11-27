@@ -1,0 +1,68 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Champaquí Renta Pesos,,,,,,,,
+m,gerente,Bancor Fondos S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,Banco de Cordoba S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,19381111335,,,,,,,,
+m,aum_planilla,19381111335,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86526,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,98.41,,,,,,,,
+m,pasivos_cnv,1.59,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,26.24,,,,,,,,
+m,top5,58.43,,,,,,,,
+m,top10,83.33,,,,,,,,
+m,hhi_especies,1132.2296,,,,,,,,
+m,n_emisores,9,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,60.55,,,,,,,,
+m,hhi_emisores,3943.2926,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,60.55,7,,,,,,,
+t,ON,36.51,9,,,,,,,
+t,FCI,1.36,1,,,,,,,
+c,ARS,97.06,,,,,,,,
+c,sin dato,1.36,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,97.05,,,,,,,,
+r,Certificados de Participacion Argentina,1.36,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,1.59,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-1.59,,,,,,,,
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,26.24,5085603614,,,Titulos de Deuda en Peso Argentina,158
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,10.4,2015635579,,,Titulos de Deuda en Peso Argentina,86
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,9.9,1918730022,,,Titulos de Deuda en Peso Argentina,142
+e,ON Santander Rio S 32,ON,Santander Rio,ARS,6.41,1242329237,,,Titulos de Deuda en Peso Argentina,42
+e,ON Mercado Pago C8,ON,Mercado Pago,ARS,5.48,1062084901,,,Titulos de Deuda en Peso Argentina,17
+e,ON Banco Prov Clase 6,ON,Banco Provincia,ARS,5.41,1048518123,,,Titulos de Deuda en Peso Argentina,43
+e,ON Arcor C8,ON,Arcor,ARS,5.33,1033013234,,,Titulos de Deuda en Peso Argentina,22
+e,ON Santander Rio S 31,ON,Santander Rio,ARS,5.21,1009755901,,,Titulos de Deuda en Peso Argentina,40
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,4.86,941922011,,,Titulos de Deuda en Peso Argentina,160
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,4.09,792687454,,,Titulos de Deuda en Peso Argentina,136
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,3.98,771368231,,,Titulos de Deuda en Peso Argentina,149
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,2.77,536856784,,,Titulos de Deuda en Peso Argentina,61
+e,ON Mercado Pago C6,ON,Mercado Pago,ARS,2.74,531042451,,,Titulos de Deuda en Peso Argentina,19
+e,ON Banco Comafi C22,ON,Banco Comafi,ARS,2.63,509723228,,,Titulos de Deuda en Peso Argentina,30
+e,FCI Argenfunds Liquidez - Clase B,FCI,Argenfunds Liquidez,,1.36,263583114,,,Certificados de Participacion Argentina,50
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,1.08,209316002,,,Titulos de Deuda en Peso Argentina,118
+e,ON Pyme Urbano Express Argentina S1,ON,Pyme Urbano Express Argentina,ARS,0.53,102719890,,,Titulos de Deuda en Peso Argentina,20
+p,MEGAQM Retorno Absoluto,MegaQM,RF ARS CER,45.4955,0.7588,5,,,,
+p,Cocos Crecimiento,Cocos,T+1,38.1198,0.5573,5,,,,
+p,Argenfunds Financiamiento Pesos,Argenfunds,RF ARS Disc,37.3842,0.5943,3,,,,
+p,Fima Retorno Total,Galicia,RF ARS Disc,37.373,0.5545,6,,,,
+p,MEGAQM Estrategia 2,MegaQM,RF MULT Disc,35.2981,0.5561,4,,,,
+p,MEGAQM Acciones Latam,MegaQM,T+1,34.8806,0.5515,2,,,,
+p,Argenfunds Financiamiento Pesos II,Argenfunds,INFRA,34.0288,0.5166,3,,,,
+p,Blacktoro Gestion Calificado I,BlackToro,RF ARS Disc,33.3909,0.5127,4,,,,

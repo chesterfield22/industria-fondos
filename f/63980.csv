@@ -1,0 +1,74 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pionero Renta Estrategico,,,,,,,,
+m,gerente,Macro Fondos S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,34636565189,,,,,,,,
+m,aum_planilla,34636565189,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63980,,,,,,,,
+m,n_especies,21,,,,,,,,
+m,activos_pn,100.04,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.06,,,,,,,,
+m,top1,13.56,,,,,,,,
+m,top5,52.33,,,,,,,,
+m,top10,79.58,,,,,,,,
+m,hhi_especies,768.2816,,,,,,,,
+m,n_emisores,8,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,89,,,,,,,,
+m,hhi_emisores,7946.1406,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,89,14,,,,,,,
+t,Acción,8.5,4,,,,,,,
+t,ON,1.74,1,,,,,,,
+t,FCI,0.74,2,,,,,,,
+c,ARS,99.26,,,,,,,,
+c,sin dato,0.72,,,,,,,,
+r,Disponibilidades,0.06,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,90.74,,,,,,,,
+r,Participaciones Accionarias Argentina,8.5,,,,,,,,
+r,Certificados de Participacion Argentina,0.74,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.04,,,,,,,,
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,13.56,4696718240,,,Titulos de Deuda en Peso Argentina,136
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,12.02,4163315136,,,Titulos de Deuda en Peso Argentina,67
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,9.74,3373601449,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,8.83,3058408706,,,Titulos de Deuda en Peso Argentina,165
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,8.18,2833271032,,,Titulos de Deuda en Peso Argentina,82
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,6.76,2341431807,,,Titulos de Deuda en Peso Argentina,51
+e,Bono Dual TXMJ0,Soberano,Tesoro Nacional,ARS,5.55,1922329368,,,Titulos de Deuda en Peso Argentina,28
+e,Bono Dual TXMJ8,Soberano,Tesoro Nacional,ARS,5.31,1839201612,,,Titulos de Deuda en Peso Argentina,45
+e,Bono del Tesoro Nacional TY30P,Soberano,Tesoro Nacional,ARS,5.28,1828810642,,,Titulos de Deuda en Peso Argentina,30
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,4.35,1506690586,,,Titulos de Deuda en Peso Argentina,128
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,3.75,1298871195,,,Participaciones Accionarias Argentina,117
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,3.17,1097979116,,,Titulos de Deuda en Peso Argentina,66
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,2.58,893623382,,,Titulos de Deuda en Peso Argentina,64
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,2.06,713513243,,,Titulos de Deuda en Peso Argentina,84
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,1.74,602676234,,,Titulos de Deuda en Peso Argentina,52
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,1.64,568039669,,,Participaciones Accionarias Argentina,129
+e,Bono Boncer 2029 TZXM9,Soberano,Tesoro Nacional,ARS,1.61,557648700,,,Titulos de Deuda en Peso Argentina,5
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,1.61,557648700,,,Participaciones Accionarias Argentina,86
+e,YPF S.A.,Acción,YPF,ARS,1.5,519548478,,,Participaciones Accionarias Argentina,122
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.72,249383269,,,Certificados de Participacion Argentina,77
+e,FCI Lombard Renta en $,FCI,Lombard Renta en $,ARS,0.02,6927313,,,Certificados de Participacion Argentina,29
+p,Pionero Gestion,Macro,RF MULT Disc,72.7294,0.8635,17,,,,
+p,Bull Market Ahorro Balanceado II,Bull Market,RF MULT Disc,44.7598,0.6329,6,,,,
+p,Galileo Estrategia,Delta,T+1,41.5622,0.6524,6,,,,
+p,Pellegrini Renta Fija Ahorro,Pellegrini,RF ARS Disc,40.8931,0.5691,7,,,,
+p,Ciclo Nova Balanceado,Ciclo Nova,RM y Otros ARS,40.5581,0.5298,7,,,,
+p,Mills M1000 Balanceado Pesos,Mills Capital,RM y Otros ARS,40.5223,0.5105,6,,,,
+p,Pionero Retorno Total,Macro,RM y Otros ARS,40.4711,0.4941,9,,,,
+p,Pionero Crecimiento,Macro,RF MULT Disc,40.4553,0.5098,8,,,,

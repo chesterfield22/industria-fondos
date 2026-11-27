@@ -1,0 +1,73 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Premier Renta Plus en Pesos,,,,,,,,
+m,gerente,Supervielle Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Supervielle S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Corp,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5978664500,,,,,,,,
+m,aum_planilla,5978664500,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63481,,,,,,,,
+m,n_especies,20,,,,,,,,
+m,activos_pn,111.08,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,17.05,,,,,,,,
+m,top1,17.03,,,,,,,,
+m,top5,50.27,,,,,,,,
+m,top10,82.77,,,,,,,,
+m,hhi_especies,898.3926,,,,,,,,
+m,n_emisores,16,,,,,,,,
+m,emisor_top,ICBC,,,,,,,,
+m,emisor_top_pct,18.93,,,,,,,,
+m,hhi_emisores,1198.6672,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,93.26,16,,,,,,,
+t,Caución,17.03,1,,,,,,,
+t,Fideicomiso financiero,0.69,1,,,,,,,
+t,FCI,0.08,2,,,,,,,
+c,ARS,110.36,,,,,,,,
+c,sin dato,0.7,,,,,,,,
+r,Disponibilidades,0.02,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,93.26,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,17.03,,,,,,,,
+r,Certificados de Participacion Argentina,0.77,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),11.08,,,,,,,,
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,17.03,1018166564,,,Operaciones a Plazo en Peso Argentina,195
+e,ON BBVA Frances Cl 41,ON,BBVA Frances,ARS,8.8,526122476,,,Titulos de Deuda en Peso Argentina,18
+e,ON Banco de Galicia 32 BYY1O,ON,Banco de Galicia,ARS,8.76,523731010,,,Titulos de Deuda en Peso Argentina,44
+e,ON Santander Rio S 32,ON,Santander Rio,ARS,8.56,511773681,,,Titulos de Deuda en Peso Argentina,42
+e,ON Mercado Pago C8,ON,Mercado Pago,ARS,7.12,425680912,,,Titulos de Deuda en Peso Argentina,17
+e,ON Arcor C3,ON,Arcor,ARS,6.98,417310782,,,Titulos de Deuda en Peso Argentina,35
+e,ON ICBC Clase 7 170627,ON,ICBC,ARS,6.95,415517183,,,Titulos de Deuda en Peso Argentina,23
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,6.59,393993991,,,Titulos de Deuda en Peso Argentina,52
+e,ON ICBC Clase 8 280827,ON,ICBC,ARS,6.17,368883600,,,Titulos de Deuda en Peso Argentina,10
+e,ON ICBC Clase 4 281126,ON,ICBC,ARS,5.81,347360407,,,Titulos de Deuda en Peso Argentina,23
+e,ON Banco Prov Clase 7,ON,Banco Provincia,ARS,5.22,312086287,,,Titulos de Deuda en Peso Argentina,16
+e,ON Tarj Naranja C68 S1,ON,Tarj Naranja,ARS,5.08,303716157,,,Titulos de Deuda en Peso Argentina,17
+e,ON BACS Clase 20,ON,BACS,ARS,5.05,301922557,,,Titulos de Deuda en Peso Argentina,18
+e,ON Arcor C4,ON,Arcor,ARS,3.55,212242590,,,Titulos de Deuda en Peso Argentina,28
+e,ON Banco Comafi C22,ON,Banco Comafi,ARS,3.4,203274593,,,Titulos de Deuda en Peso Argentina,30
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,3.36,200883127,,,Titulos de Deuda en Peso Argentina,61
+e,ON Banco Nacion Argentina Clase 3,ON,Banco Nacion Argentina,ARS,1.86,111203160,,,Titulos de Deuda en Peso Argentina,33
+e,FF River Plate S1,Fideicomiso financiero,River Plate,,0.69,41252785,,,Certificados de Participacion Argentina,6
+e,FCI Lombard Renta en $,FCI,Lombard Renta en $,ARS,0.07,4185065,,,Certificados de Participacion Argentina,29
+e,FCI Gainvest Pesos - Clase B,FCI,Gainvest Pesos,,0.01,597866.45,,,Certificados de Participacion Argentina,36
+p,Adcap Balanceado XIII,Adcap,RF ARS Disc,42.3206,0.4776,11,,,,
+p,Toronto Trust Balanceado,Investis,RF ARS Disc,24.7763,0.325,7,,,,
+p,Premier Estrategico,Supervielle,RF MULT Disc,20.9826,0.2934,5,,,,
+p,Super Ahorro Plus,Santander,MM ARS Dinámico,17.5792,0.4146,9,,,,
+p,Conosur Financiamiento III,Cono Sur,Sin clasificar,15.3341,0.5682,1,,,,
+p,Wise Capital Money Markets,Wise,MM ARS Clásico,15.3341,0.5682,1,,,,
+p,Adcap Ahorro Dólares,Adcap,MM USD Clásico,15.3341,0.527,1,,,,
+p,Tango Performance I,Tango,Sin clasificar,15.3341,0.5132,1,,,,

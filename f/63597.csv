@@ -1,0 +1,99 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,SBS Desarrollo Infraestructura,,,,,,,,
+m,gerente,SBS Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,INFRA,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,42027354864,,,,,,,,
+m,aum_planilla,42027354864,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63597,,,,,,,,
+m,n_especies,44,,,,,,,,
+m,activos_pn,100.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.43,,,,,,,,
+m,top1,12.24,,,,,,,,
+m,top5,36.14,,,,,,,,
+m,top10,55.35,,,,,,,,
+m,hhi_especies,442.1583,,,,,,,,
+m,n_emisores,32,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,14.07,,,,,,,,
+m,hhi_emisores,619.3781,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,56.69,23,,,,,,,
+t,Fideicomiso financiero,14.25,6,,,,,,,
+t,Soberano,14.07,3,,,,,,,
+t,FCI,9.41,8,,,,,,,
+t,Subsoberano,4.18,3,,,,,,,
+t,Caución,0.67,1,,,,,,,
+c,ARS,75.61,,,,,,,,
+c,sin dato,23.66,,,,,,,,
+r,Disponibilidades,0.76,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,74.93,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,0.67,,,,,,,,
+r,Certificados de Participacion Argentina,23.66,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.02,,,,,,,,
+e,ON Aluar Serie 6,ON,Aluar,ARS,12.24,5144148235,,,Titulos de Deuda en Peso Argentina,28
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,6.75,2836846453,,,Titulos de Deuda en Peso Argentina,146
+e,ON Pan American C26,ON,Pan American,ARS,6.46,2714967124,,,Titulos de Deuda en Peso Argentina,38
+e,ON Cresud S30 C46,ON,Cresud,ARS,5.4,2269477163,,,Titulos de Deuda en Peso Argentina,7
+e,FF Udaondo Bs As Tramo I,Fideicomiso financiero,Udaondo Bs As Tramo I,,5.29,2223247072,,,Certificados de Participacion Argentina,1
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,4.71,1979488414,,,Titulos de Deuda en Peso Argentina,84
+e,ON Capex C11,ON,Capex,ARS,4.03,1693702401,,,Titulos de Deuda en Peso Argentina,19
+e,FF Proyecto VIDA CP,Fideicomiso financiero,Proyecto VIDA CP,,3.85,1618053162,,,Certificados de Participacion Argentina,9
+e,ON Oldelval Clase 3,ON,Oldelval,ARS,3.59,1508782040,,,Titulos de Deuda en Peso Argentina,40
+e,FCI Pellegrini I FCIC - Clase U,FCI,Pellegrini I FCIC,,3.03,1273428852,,,Certificados de Participacion Argentina,11
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,2.61,1096913962,,,Titulos de Deuda en Peso Argentina,160
+e,FCI Schroder Liquidez - Clase B,FCI,Schroder Liquidez,,2.39,1004453781,,,Certificados de Participacion Argentina,44
+e,ON Oldelval Clase 5,ON,Oldelval,ARS,2.1,882574452,,,Titulos de Deuda en Peso Argentina,34
+e,ON Pluspetrol Clase 6,ON,Pluspetrol,ARS,2.08,874168981,,,Titulos de Deuda en Peso Argentina,43
+e,ON Oiltanking S4 C2,ON,Oiltanking,ARS,2.07,869966246,,,Titulos de Deuda en Peso Argentina,7
+e,ON Oiltanking S4 C1,ON,Oiltanking,ARS,2,840547097,,,Titulos de Deuda en Peso Argentina,10
+e,ON Crown Point Energy C10,ON,Crown Point Energy,ARS,1.99,836344362,,,Titulos de Deuda en Peso Argentina,4
+e,ON Vista Gas y Oil Arg C25,ON,Vista Gas y Oil Arg,ARS,1.99,836344362,,,Titulos de Deuda en Peso Argentina,18
+e,FF Nasa Clase 4 Tramo III,Fideicomiso financiero,Nasa,,1.97,827938891,,,Certificados de Participacion Argentina,3
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,1.82,764897859,,,Titulos de Deuda en Peso Argentina,42
+e,FF Nasa Clase 4 Tramo II,Fideicomiso financiero,Nasa,,1.82,764897859,,,Certificados de Participacion Argentina,4
+e,ON YPF Clase 31,ON,YPF,ARS,1.79,752289652,,,Titulos de Deuda en Peso Argentina,48
+e,Bono Prov Cordoba Clase 6,Subsoberano,Prov. Cordoba,ARS,1.66,697654091,,,Titulos de Deuda en Peso Argentina,36
+e,ON GEMSA 17,ON,GEMSA,ARS,1.5,630410323,,,Titulos de Deuda en Peso Argentina,6
+e,ON Generacion Litoral C3,ON,Generacion Litoral,ARS,1.43,600991175,,,Titulos de Deuda en Peso Argentina,2
+e,Bono Prov Cordoba Clase 4,Subsoberano,Prov. Cordoba,ARS,1.31,550558349,,,Titulos de Deuda en Peso Argentina,37
+e,ON Genneia Clase 37,ON,Genneia,ARS,1.28,537950142,,,Titulos de Deuda en Peso Argentina,23
+e,Letra Prov Chaco BLN26,Subsoberano,Prov. Chaco,ARS,1.21,508530994,,,Titulos de Deuda en Peso Argentina,12
+e,FF Infraestructura Elec 14,Fideicomiso financiero,Infraestructura Elec,,1.2,504328258,,,Certificados de Participacion Argentina,9
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,1.2,504328258,,,Titulos de Deuda en Peso Argentina,52
+e,ON YPF Luz C24,ON,YPF Luz,ARS,1.12,470706374,,,Titulos de Deuda en Peso Argentina,16
+e,FCI Wise Capital Money Markets - Clase D,FCI,Wise Capital Money Markets,,1,420273549,,,Certificados de Participacion Argentina,9
+e,FCI Adblick Granos Plus FCIC,FCI,Adblick Granos Plus FCIC,,0.9,378246194,,,Certificados de Participacion Argentina,3
+e,ON Profertil C3,ON,Profertil,ARS,0.88,369840723,,,Titulos de Deuda en Peso Argentina,30
+e,FCI Terrazas del Volcan Inmobiliario FCIC,FCI,Terrazas del Volcan Inmobiliario FCIC,,0.85,357232516,,,Certificados de Participacion Argentina,5
+e,ON Generacion Litoral C1,ON,Generacion Litoral,ARS,0.83,348827045,,,Titulos de Deuda en Peso Argentina,12
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,0.67,281583278,,,Operaciones a Plazo en Peso Argentina,195
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.57,239555923,,,Certificados de Participacion Argentina,93
+e,FCI Tango Money Market Dinámico - Clase A,FCI,Tango Money Market Dinámico,,0.49,205934039,,,Certificados de Participacion Argentina,8
+e,ON Capex C7,ON,Capex,ARS,0.45,189123097,,,Titulos de Deuda en Peso Argentina,21
+e,ON Oldelval Clase 2,ON,Oldelval,ARS,0.38,159703948,,,Titulos de Deuda en Peso Argentina,16
+e,FCI Novus Liquidez Fondo de Dinero - Clase D,FCI,Novus Liquidez Fondo de Dinero,,0.18,75649239,,,Certificados de Participacion Argentina,2
+e,FF Nasa Clase 4,Fideicomiso financiero,Nasa,,0.12,50432826,,,Certificados de Participacion Argentina,5
+e,ON Vista Gas y Oil Arg C21,ON,Vista Gas y Oil Arg,ARS,0.06,25216413,,,Titulos de Deuda en Peso Argentina,27
+p,Toronto Trust Infraestructura,Investis,INFRA,21.6422,0.3292,9,,,,
+p,Ciclo Nova Estructurado II,Ciclo Nova,RM y Otros ARS,20.8421,0.3687,3,,,,
+p,Pellegrini Desarrollo Arg. Infraest.,Pellegrini,INFRA,20.6606,0.3696,18,,,,
+p,Galileo Premium,Delta,RF USD Linked,18.2331,0.3317,4,,,,
+p,Fima Capital Plus,Galicia,RF USD Linked,18.0698,0.315,10,,,,
+p,SBS Renta Capital,SBS,RF MULT Disc,17.8946,0.2171,4,,,,
+p,Galileo Multimercado V,Delta,RF MULT Corp,16.4937,0.3018,4,,,,
+p,Supergestion,Santander,RM y Otros ARS,16.0652,0.2616,7,,,,

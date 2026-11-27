@@ -1,0 +1,75 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Valiant Renta Fija Balanceado III,,,,,,,,
+m,gerente,Valiant Asset Management S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,845085757,,,,,,,,
+m,aum_planilla,845085757,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87122,,,,,,,,
+m,n_especies,24,,,,,,,,
+m,activos_pn,94.74,,,,,,,,
+m,pasivos_cnv,5.26,,,,,,,,
+m,liquidez,0.04,,,,,,,,
+m,top1,6.28,,,,,,,,
+m,top5,29.61,,,,,,,,
+m,top10,55.98,,,,,,,,
+m,hhi_especies,433.2079,,,,,,,,
+m,n_emisores,1,,,,,,,,
+m,emisor_top,Tango Money Market Dinámico,,,,,,,,
+m,emisor_top_pct,4.63,,,,,,,,
+m,hhi_emisores,21.4369,,,,,,,,
+m,sin_emisor_pct,90.08,,,,,,,,
+t,Pagaré,90.08,23,,,,,,,
+t,FCI,4.63,1,,,,,,,
+c,ARS,68.34,,,,,,,,
+c,USD,21.74,,,,,,,,
+c,sin dato,4.63,,,,,,,,
+r,Disponibilidades,0.04,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,68.35,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,21.72,,,,,,,,
+r,Certificados de Participacion Argentina,4.63,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,5.26,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-5.26,,,,,,,,
+e,Pagare #MAV141260053,Pagaré,,ARS,6.28,53071386,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV281260039,Pagaré,,ARS,5.85,49437517,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV120170029,Pagaré,,ARS,5.84,49353008,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV220170029,Pagaré,,ARS,5.83,49268500,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV010270037,Pagaré,,ARS,5.81,49099482,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV200660010,Pagaré,,ARS,5.62,47493820,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV131260002,Pagaré,,USD,5.43,45888157,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV080170003,Pagaré,,USD,5.39,45550122,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #MAV151160002,Pagaré,,ARS,4.98,42085271,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV151260008,Pagaré,,ARS,4.95,41831745,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Tango Money Market Dinámico - Clase A,FCI,Tango Money Market Dinámico,,4.63,39127471,,,Certificados de Participacion Argentina,8
+e,Pagare #UMV131160012,Pagaré,,USD,3.65,30845630,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV131160013,Pagaré,,USD,3.65,30845630,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV131260003,Pagaré,,USD,3.62,30592104,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #MAV050270016,Pagaré,,ARS,3.54,29916036,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV021260006,Pagaré,,ARS,2.59,21887721,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV131160020,Pagaré,,ARS,2.56,21634195,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV111160030,Pagaré,,ARS,2.48,20958127,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV261160031,Pagaré,,ARS,2.46,20789110,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV301260019,Pagaré,,ARS,2.38,20113041,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV260270026,Pagaré,,ARS,2.31,19521481,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV111260021,Pagaré,,ARS,1.82,15380561,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV181260022,Pagaré,,ARS,1.8,15211544,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV181160019,Pagaré,,ARS,1.24,10479063,,,Titulos de Deuda en Peso Argentina,1
+p,Valiant Total Return,Valiant,RM y Otros ARS,4.8886,0.0394,1,,,,
+p,Valiant Renta Variable,Valiant,RV ARG Merval,4.8886,0.0392,1,,,,
+p,Alpha Planeamiento Equilibrado,ICBC,RM y Otros ARS,1.7376,0.0223,1,,,,
+p,Alpha Planeamiento Conservador,ICBC,RF MULT Disc,0.5831,0.0062,1,,,,
+p,Alpha Mercosur,ICBC,RV Global,0.5415,0.0037,1,,,,
+p,SBS Desarrollo Infraestructura,SBS,INFRA,0.4936,0.0052,1,,,,
+p,SBS Patrimonio VIII,SBS,RF ARS Disc,0.11,0.0006,1,,,,

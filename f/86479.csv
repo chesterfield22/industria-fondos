@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,BAVSA Ahorro Plus,,,,,,,,
+m,gerente,BAVSA Fondos S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Lecap,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,2700136233,,,,,,,,
+m,aum_planilla,2700136233,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86479,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,100.12,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,7.17,,,,,,,,
+m,top1,25.05,,,,,,,,
+m,top5,88.75,,,,,,,,
+m,top10,99.13,,,,,,,,
+m,hhi_especies,1861.4786,,,,,,,,
+m,n_emisores,3,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,86.22,,,,,,,,
+m,hhi_emisores,7497.14,,,,,,,,
+m,sin_emisor_pct,3.04,,,,,,,,
+t,Soberano,86.22,5,,,,,,,
+t,Caución,7.04,1,,,,,,,
+t,FCI,3.7,1,,,,,,,
+t,Cheque,3.04,7,,,,,,,
+c,ARS,96.3,,,,,,,,
+c,sin dato,3.7,,,,,,,,
+r,Disponibilidades,0.13,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,89.25,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,7.04,,,,,,,,
+r,Certificados de Participacion Argentina,3.7,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.12,,,,,,,,
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,25.05,676384126,,,Titulos de Deuda en Peso Argentina,149
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,23.67,639122246,,,Titulos de Deuda en Peso Argentina,166
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,21.19,572158868,,,Titulos de Deuda en Peso Argentina,118
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,11.8,318616076,,,Titulos de Deuda en Peso Argentina,160
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,7.04,190089591,,,Operaciones a Plazo en Peso Argentina,195
+e,Bono Boncer TX26,Soberano,Tesoro Nacional,ARS,4.51,121776144,,,Titulos de Deuda en Peso Argentina,63
+e,FCI Argenfunds Liquidez - Clase B,FCI,Argenfunds Liquidez,,3.7,99905041,,,Certificados de Participacion Argentina,50
+e,Cheque E *NOV221100046,Cheque,,ARS,0.83,22411131,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NOV231100045,Cheque,,ARS,0.79,21331076,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *POT101100120,Cheque,,ARS,0.55,14850749,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NOV211100060,Cheque,,ARS,0.42,11340572,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ACE051100062,Cheque,,ARS,0.15,4050204,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ACE061100069,Cheque,,ARS,0.15,4050204,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ACE041100057,Cheque,,ARS,0.15,4050204,,,Titulos de Deuda en Peso Argentina,1
+p,SBS Tavelli Mix,SBS,T+1,65.03,0.7699,4,,,,
+p,Pionero Renta Pesos,Macro,RF ARS Lecap,60.52,0.781,3,,,,
+p,Allaria Dinámico III,Allaria,RF ARS Lecap,60.52,0.7593,3,,,,
+p,Alpha Renta Fija Serie 1,ICBC,RF MULT Disc,57.3948,0.7724,4,,,,
+p,Consultatio Renta Local,Consultatio,RF ARS Lecap,56.953,0.7394,4,,,,
+p,Adcap Balanceado XI,Adcap,RF ARS Disc,56.423,0.7346,4,,,,
+p,Compass Renta Mixta III,Investis,RF ARS Lecap,56.3766,0.6836,3,,,,
+p,Cocos Crecimiento,Cocos,T+1,53.8881,0.6605,4,,,,

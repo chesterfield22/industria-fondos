@@ -1,0 +1,89 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pellegrini Proteccion,,,,,,,,
+m,gerente,Pellegrini S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de La Nacion Argentina,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,98493486421,,,,,,,,
+m,aum_planilla,98493486421,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/81642,,,,,,,,
+m,n_especies,34,,,,,,,,
+m,activos_pn,100.01,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.1,,,,,,,,
+m,top1,21.88,,,,,,,,
+m,top5,75.14,,,,,,,,
+m,top10,89.21,,,,,,,,
+m,hhi_especies,1402.3409,,,,,,,,
+m,n_emisores,21,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,71.86,,,,,,,,
+m,hhi_emisores,5292.7786,,,,,,,,
+m,sin_emisor_pct,0.37,,,,,,,,
+t,Soberano,71.86,5,,,,,,,
+t,ON,24.68,20,,,,,,,
+t,FCI,2.7,3,,,,,,,
+t,Pagaré,0.37,5,,,,,,,
+t,Fideicomiso financiero,0.3,1,,,,,,,
+c,ARS,83.51,,,,,,,,
+c,USD,13.4,,,,,,,,
+c,sin dato,3,,,,,,,,
+r,Disponibilidades,0.1,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,83.51,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,13.4,,,,,,,,
+r,Certificados de Participacion Argentina,3,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.01,,,,,,,,
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,21.88,21550374829,,,Titulos de Deuda en Peso Argentina,75
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,21.22,20900317819,,,Titulos de Deuda en Peso Argentina,103
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,17.87,17600786023,,,Titulos de Deuda en Peso Argentina,250
+e,ON Capex C10,ON,Capex,ARS,7.52,7406710179,,,Titulos de Deuda en Peso Argentina,17
+e,Bono del Tesoro Nacional AN29,Soberano,Tesoro Nacional,USD,6.65,6549816847,,,Titulos de Deuda en Dolar Estadounidense,25
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,USD,4.24,4176123824,,,Titulos de Deuda en Dolar Estadounidense,74
+e,ON Telecom C14 TLCFO,ON,Telecom,ARS,3.56,3506368117,,,Titulos de Deuda en Peso Argentina,23
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,2.13,2097911261,,,Certificados de Participacion Argentina,96
+e,ON Capex C7,ON,Capex,ARS,2.13,2097911261,,,Titulos de Deuda en Peso Argentina,21
+e,ON Pan American C26,ON,Pan American,ARS,2.01,1979719077,,,Titulos de Deuda en Peso Argentina,38
+e,ON Arcor C7,ON,Arcor,USD,1.66,1634991875,,,Titulos de Deuda en Dolar Estadounidense,8
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,1.23,1211469883,,,Titulos de Deuda en Peso Argentina,67
+e,ON Futuros y Opciones.com S4 CB,ON,Futuros y Opciones.com,ARS,1.15,1132675094,,,Titulos de Deuda en Peso Argentina,7
+e,ON YPF Luz Clase 14,ON,YPF Luz,ARS,0.94,925838772,,,Titulos de Deuda en Peso Argentina,8
+e,ON CNH Arg. C12,ON,CNH Arg,USD,0.85,837194635,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Vista Gas y Oil Arg C17,ON,Vista Gas y Oil Arg,ARS,0.78,768249194,,,Titulos de Deuda en Peso Argentina,23
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.56,551563524,,,Certificados de Participacion Argentina,93
+e,ON CGC C 27,ON,CGC,ARS,0.53,522015478,,,Titulos de Deuda en Peso Argentina,3
+e,ON Cresud Clase 40,ON,Cresud,ARS,0.53,522015478,,,Titulos de Deuda en Peso Argentina,7
+e,ON Telecom C19 TLCKO,ON,Telecom,ARS,0.47,462919386,,,Titulos de Deuda en Peso Argentina,30
+e,ON Pan American C33,ON,Pan American,ARS,0.44,433371340,,,Titulos de Deuda en Peso Argentina,36
+e,ON Celulosa Argentina C21,ON,Celulosa Argentina,ARS,0.4,393973946,,,Titulos de Deuda en Peso Argentina,5
+e,FF Metalcred 15A,Fideicomiso financiero,Metalcred,,0.3,295480459,,,Certificados de Participacion Argentina,10
+e,ON Aluar Serie 6,ON,Aluar,ARS,0.19,187137624,,,Titulos de Deuda en Peso Argentina,28
+e,ON GEMSA 17,ON,GEMSA,ARS,0.15,147740230,,,Titulos de Deuda en Peso Argentina,6
+e,ON PCR Clase K,ON,PCR,ARS,0.1,98493486,,,Titulos de Deuda en Peso Argentina,26
+e,Pagare #UMV290370034,Pagaré,,ARS,0.08,78794789,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV290370030,Pagaré,,ARS,0.08,78794789,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV290370029,Pagaré,,ARS,0.08,78794789,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV290370031,Pagaré,,ARS,0.08,78794789,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV290370025,Pagaré,,ARS,0.05,49246743,,,Titulos de Deuda en Peso Argentina,1
+e,ON Red Surcos S9 Clase A,ON,Red Surcos,ARS,0.03,29548046,,,Titulos de Deuda en Peso Argentina,9
+e,ON Vista Gas y Oil Arg C21,ON,Vista Gas y Oil Arg,ARS,0.01,9849349,,,Titulos de Deuda en Peso Argentina,27
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,0.01,9849349,,,Certificados de Participacion Argentina,47
+p,Stonex Renta Fija Proteccion Plus,StoneX,RF USD Linked,61.3252,0.914,4,,,,
+p,First Renta Mixta III,First Cap Mkts,RF USD Linked,61.0453,0.8697,4,,,,
+p,Pionero Renta Ahorro Plus,Macro,RF USD Linked,61.0249,0.8995,3,,,,
+p,Megainver Renta Global,MegaQM,T+1,57.7048,0.8748,3,,,,
+p,Champaquí Estratégico,Bancor,RF USD Linked,56.546,0.8817,3,,,,
+p,Schroder Patrimonio Dos,Schroder,RF MULT Disc,52.3739,0.8328,4,,,,
+p,Pionero Soja,Macro,RM y Otros ARS,52.186,0.8671,3,,,,
+p,Premier Renta Mixta,Supervielle,RF USD Linked,51.419,0.7851,4,,,,

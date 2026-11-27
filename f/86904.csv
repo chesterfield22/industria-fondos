@@ -1,0 +1,57 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,BAVSA Ahorro Dólar,,,,,,,,
+m,gerente,BAVSA Fondos S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Plazo Fijo,,,,,,,,
+m,subtipo,MM USD Clásico,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,20063220,,,,,,,,
+m,aum_planilla,20063220,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86904,,,,,,,,
+m,n_especies,9,,,,,,,,
+m,activos_pn,65.07,,,,,,,,
+m,pasivos_cnv,34.93,,,,,,,,
+m,liquidez,34.15,,,,,,,,
+m,top1,13.96,,,,,,,,
+m,top5,39.54,,,,,,,,
+m,top10,44.54,,,,,,,,
+m,hhi_especies,433.8966,,,,,,,,
+m,n_emisores,8,,,,,,,,
+m,emisor_top,Banco Patagonia,,,,,,,,
+m,emisor_top_pct,13.96,,,,,,,,
+m,hhi_emisores,447.0166,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Plazo fijo,30.92,7,,,,,,,
+t,Caución,13.62,2,,,,,,,
+c,USD,44.54,,,,,,,,
+r,Disponibilidades,20.53,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,44.54,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,34.93,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-34.93,,,,,,,,
+e,Pzo Fi U$S Bco Patagonia,Plazo fijo,Banco Patagonia,USD,13.96,2800826,,,Operaciones a Plazo en Dolar Estadounidense,23
+e,Caucion Colocadora U$S Merval,Caución,Caución Merval,USD,13.12,2632294,,,Operaciones a Plazo en Dolar Estadounidense,55
+e,Pzo Fi U$S Bco Sol,Plazo fijo,Banco Sol,USD,5.98,1199781,,,Operaciones a Plazo en Dolar Estadounidense,4
+e,Pzo Fi U$S Bco Nacion,Plazo fijo,Banco Nacion,USD,4.49,900838.5762,,,Operaciones a Plazo en Dolar Estadounidense,40
+e,Pzo Fi U$S Banco de Serv y Transacciones (BST),Plazo fijo,Banco de Serv y Transacciones (BST),USD,1.99,399258.0772,,,Operaciones a Plazo en Dolar Estadounidense,16
+e,Pzo Fi U$S Bco Galicia,Plazo fijo,Banco Galicia,USD,1.5,300948.2994,,,Operaciones a Plazo en Dolar Estadounidense,20
+e,Pzo Fi U$S Bco Mariva,Plazo fijo,Banco Mariva,USD,1.5,300948.2994,,,Operaciones a Plazo en Dolar Estadounidense,10
+e,Pzo Fi U$S Bco Supervielle,Plazo fijo,Banco Supervielle,USD,1.5,300948.2994,,,Operaciones a Plazo en Dolar Estadounidense,30
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,USD,0.5,100316.0998,,,Operaciones a Plazo en Dolar Estadounidense,195
+p,Bull Market Liquidez Dólar,Bull Market,MM USD Clásico,60.4911,0.778,6,,,,
+p,Max Money Market Dólares,Max Capital,MM USD Clásico,56.7872,0.6993,5,,,,
+p,Alpha Dólar,ICBC,MM USD Clásico,53.4076,0.6789,6,,,,
+p,SBS Liquidez USD,SBS,MM USD Clásico,52.3907,0.7075,5,,,,
+p,Novus Dólar MM,Novus,MM USD Clásico,51.6907,0.6087,6,,,,
+p,Superfondo Ahorro en Dólares,Santander,MM USD Clásico,50.8451,0.6318,6,,,,
+p,Puente Liquidez Dólares,Puente,MM USD Clásico,46.1786,0.5991,4,,,,
+p,Consultatio Liquidez Dólar,Consultatio,MM USD Clásico,42.9053,0.6492,3,,,,

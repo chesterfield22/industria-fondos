@@ -1,0 +1,110 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,BAVSA Renta Dólares,,,,,,,,
+m,gerente,BAVSA Fondos S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD corp loc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,31797698,,,,,,,,
+m,aum_planilla,31797698,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86733,,,,,,,,
+m,n_especies,58,,,,,,,,
+m,activos_pn,99.54,,,,,,,,
+m,pasivos_cnv,0.46,,,,,,,,
+m,liquidez,6.95,,,,,,,,
+m,top1,8.34,,,,,,,,
+m,top5,32.9,,,,,,,,
+m,top10,54.6,,,,,,,,
+m,hhi_especies,422.0853,,,,,,,,
+m,n_emisores,22,,,,,,,,
+m,emisor_top,Credicuotas Consumo,,,,,,,,
+m,emisor_top_pct,11.53,,,,,,,,
+m,hhi_emisores,482.9459,,,,,,,,
+m,sin_emisor_pct,8.86,,,,,,,,
+t,ON,79.98,23,,,,,,,
+t,Pagaré,8.86,33,,,,,,,
+t,Caución,6.92,1,,,,,,,
+t,FCI,3.77,1,,,,,,,
+c,USD,99.53,,,,,,,,
+r,Disponibilidades,0.03,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,88.82,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,6.92,,,,,,,,
+r,Certificados de Participacion Argentina,3.77,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.46,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.46,,,,,,,,
+e,ON Credicuotas Consumo S21,ON,Credicuotas Consumo,USD,8.34,2651928,,,Titulos de Deuda en Dolar Estadounidense,5
+e,Caucion Colocadora U$S Merval,Caución,Caución Merval,USD,6.92,2200401,,,Operaciones a Plazo en Dolar Estadounidense,55
+e,ON Tarj Naranja C68 S2,ON,Tarj Naranja,USD,6.29,2000075,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Otamerica S7,ON,Otamerica,USD,5.87,1866525,,,Titulos de Deuda en Dolar Estadounidense,23
+e,ON Central Puerto Clase E,ON,Central Puerto,USD,5.48,1742514,,,Titulos de Deuda en Dolar Estadounidense,31
+e,ON Banco Nacion Argentina Clase 5,ON,Banco Nacion Argentina,USD,4.82,1532649,,,Titulos de Deuda en Dolar Estadounidense,25
+e,ON Banco Mariva S3 060727,ON,Banco Mariva,USD,4.75,1510391,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Edenor C11,ON,Edenor,USD,4.34,1380020,,,Titulos de Deuda en Dolar Estadounidense,31
+e,ON MSU Energy C13,ON,MSU Energy,USD,3.94,1252829,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON Inversora Juramento C7 JNC7O,ON,Inversora Juramento,USD,3.85,1224211,,,Titulos de Deuda en Dolar Estadounidense,8
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,3.77,1198773,,,Certificados de Participacion Argentina,37
+e,ON BBVA Frances Cl 50,ON,BBVA Frances,USD,3.51,1116099,,,Titulos de Deuda en Dolar Estadounidense,30
+e,ON Oldelval Clase 6,ON,Oldelval,USD,3.35,1065223,,,Titulos de Deuda en Dolar Estadounidense,41
+e,ON YPF Clase 42,ON,YPF,USD,3.33,1058863,,,Titulos de Deuda en Dolar Estadounidense,48
+e,ON Grupo ST C14,ON,Grupo ST,USD,3.22,1023886,,,Titulos de Deuda en Dolar Estadounidense,6
+e,ON Credicuotas Consumo S23,ON,Credicuotas Consumo,USD,3.19,1014347,,,Titulos de Deuda en Dolar Estadounidense,7
+e,ON Loma Negra C7,ON,Loma Negra,USD,3.14,998447.7307,,,Titulos de Deuda en Dolar Estadounidense,30
+e,ON Pluspetrol Clase 6,ON,Pluspetrol,USD,2.5,794942.4608,,,Titulos de Deuda en Dolar Estadounidense,43
+e,ON John Deere Cia. Fin C19,ON,John Deere Cia. Fin,USD,1.65,524662.0241,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON YPF Luz C20,ON,YPF Luz,USD,1.63,518302.4844,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON Tecpetrol C9,ON,Tecpetrol,USD,1.62,515122.7146,,,Titulos de Deuda en Dolar Estadounidense,8
+e,ON Oldelval Clase 7,ON,Oldelval,USD,1.61,511942.9447,,,Titulos de Deuda en Dolar Estadounidense,41
+e,Pagare #UMV151160011,Pagaré,,USD,1.57,499223.8654,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Pyme Jefesa 231028,ON,Pyme Jefesa,USD,1.57,499223.8654,,,Titulos de Deuda en Dolar Estadounidense,2
+e,ON Bco Serv Transac C31,ON,Banco Serv Transac,USD,1.43,454707.0875,,,Titulos de Deuda en Dolar Estadounidense,19
+e,Pagare #UMV201260021,Pagaré,,USD,0.78,248022.0478,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Bco Serv Transac C29,ON,Banco Serv Transac,USD,0.55,174887.3414,,,Titulos de Deuda en Dolar Estadounidense,15
+e,Pagare #UMV200570018,Pagaré,,USD,0.45,143089.6429,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO120870001,Pagaré,,USD,0.37,117651.4842,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO130970001,Pagaré,,USD,0.37,117651.4842,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO060870002,Pagaré,,USD,0.3,95393.0953,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO090870002,Pagaré,,USD,0.3,95393.0953,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO100870001,Pagaré,,USD,0.3,95393.0953,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO200870002,Pagaré,,USD,0.3,95393.0953,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UUN300770002,Pagaré,,USD,0.27,85853.7858,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO250270001,Pagaré,,USD,0.26,82674.0159,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO100970002,Pagaré,,USD,0.25,79494.2461,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UUN310570002,Pagaré,,USD,0.24,76314.4762,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UUN300670002,Pagaré,,USD,0.24,76314.4762,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO310570005,Pagaré,,USD,0.23,73134.7064,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO300670003,Pagaré,,USD,0.23,73134.7064,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO151260001,Pagaré,,USD,0.2,63595.3969,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV270470014,Pagaré,,USD,0.2,63595.3969,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV250370029,Pagaré,,USD,0.2,63595.3969,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMO020870001,Pagaré,,USD,0.19,60415.627,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV290470014,Pagaré,,USD,0.18,57235.8572,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV310370026,Pagaré,,USD,0.18,57235.8572,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO291070004,Pagaré,,USD,0.15,47696.5476,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO291070003,Pagaré,,USD,0.15,47696.5476,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO291070002,Pagaré,,USD,0.15,47696.5476,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO020870002,Pagaré,,USD,0.15,47696.5476,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE160470001,Pagaré,,USD,0.12,38157.2381,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE260570001,Pagaré,,USD,0.12,38157.2381,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMO150970002,Pagaré,,USD,0.1,31797.6984,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO310570004,Pagaré,,USD,0.1,31797.6984,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO200570002,Pagaré,,USD,0.08,25438.1587,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO280570001,Pagaré,,USD,0.08,25438.1587,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO150470001,Pagaré,,USD,0.05,15898.8492,,,Titulos de Deuda en Dolar Estadounidense,1
+p,Chaco FCI Renta Fija Dólares,Chaco,RF USD corp loc,24.7123,0.409,12,,,,
+p,Allaria Dólar Dinámico,Allaria,RF USD corp loc,24.3712,0.3316,8,,,,
+p,ConoSur Renta Fija Corporativa,Cono Sur,RF USD corp loc,20.2877,0.2608,11,,,,
+p,Crecer Capital Dolares,Ciudad,RF USD corp loc,20.0854,0.3775,7,,,,
+p,Argenfunds Inversión Dólares,Argenfunds,RF USD Disc,18.8897,0.2561,6,,,,
+p,Cocos Ahorro Dólares,Cocos,RF USD GL Inc ARG,17.9787,0.2775,6,,,,
+p,Adcap Renta Dólar,Adcap,RF USD GL Inc ARG,16.8622,0.1617,12,,,,
+p,CMA Dólar Dinamico,Capital Mark..,RF USD GL Inc ARG,16.6522,0.2185,8,,,,

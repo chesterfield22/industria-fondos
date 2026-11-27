@@ -1,0 +1,81 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,SBS Balanceado,,,,,,,,
+m,gerente,SBS Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,39672584129,,,,,,,,
+m,aum_planilla,39672584129,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63560,,,,,,,,
+m,n_especies,23,,,,,,,,
+m,activos_pn,100.17,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.76,,,,,,,,
+m,top1,13.95,,,,,,,,
+m,top5,41.02,,,,,,,,
+m,top10,67.29,,,,,,,,
+m,hhi_especies,618.9834,,,,,,,,
+m,n_emisores,14,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,61.9,,,,,,,,
+m,hhi_emisores,3978.3714,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,61.9,9,,,,,,,
+t,Acción,14.13,5,,,,,,,
+t,Subsoberano,8.77,3,,,,,,,
+t,Cedear,6.03,2,,,,,,,
+t,FCI,4.71,2,,,,,,,
+t,ON,2.87,1,,,,,,,
+t,Caución,0.13,1,,,,,,,
+c,ARS,93.83,,,,,,,,
+c,USD,3.91,,,,,,,,
+c,sin dato,0.8,,,,,,,,
+r,Disponibilidades,1.63,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,73.54,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,0.13,,,,,,,,
+r,Participaciones Accionarias Argentina,20.16,,,,,,,,
+r,Certificados de Participacion Argentina,4.71,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.17,,,,,,,,
+e,Bonos Rep Argentina GD35,Soberano,Tesoro Nacional,ARS,13.95,5534325486,,,Titulos de Deuda en Peso Argentina,54
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,7.48,2967509293,,,Titulos de Deuda en Peso Argentina,84
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,7.2,2856426057,,,Titulos de Deuda en Peso Argentina,56
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,6.84,2713604754,,,Titulos de Deuda en Peso Argentina,128
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,5.55,2201828419,,,Titulos de Deuda en Peso Argentina,250
+e,Bonos Rep Argentina GD41,Soberano,Tesoro Nacional,ARS,5.51,2185959386,,,Titulos de Deuda en Peso Argentina,38
+e,Bono Disc ARS Ley AR DICP,Soberano,Tesoro Nacional,ARS,5.42,2150254060,,,Titulos de Deuda en Peso Argentina,59
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,5.27,2090745184,,,Participaciones Accionarias Argentina,129
+e,Bono Dual TXMJ8,Soberano,Tesoro Nacional,ARS,5.21,2066941633,,,Titulos de Deuda en Peso Argentina,45
+e,Bono Prov Cordoba Clase 4,Subsoberano,Prov. Cordoba,ARS,4.86,1928087589,,,Titulos de Deuda en Peso Argentina,37
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,4.74,1880480488,,,Titulos de Deuda en Peso Argentina,51
+e,Cedear Petroleo Brasilero,Cedear,Petroleo Brasilero,ARS,4.67,1852709679,,,Participaciones Accionarias Argentina,8
+e,FCI Cocos Dólar Money Market - Clase C,FCI,Cocos Dólar Money Market,USD,3.91,1551198039,,,Certificados de Participacion Argentina,14
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,3.59,1424245770,,,Participaciones Accionarias Argentina,104
+e,ON Rombo Cia Fciera S66,ON,Rombo Cia Fciera,ARS,2.87,1138603165,,,Titulos de Deuda en Peso Argentina,15
+e,YPF S.A.,Acción,YPF,ARS,2.19,868829592,,,Participaciones Accionarias Argentina,122
+e,Letra Prov Bs As PBA28,Subsoberano,Prov. Buenos Aires,ARS,2.15,852960559,,,Titulos de Deuda en Peso Argentina,28
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,1.91,757746357,,,Participaciones Accionarias Argentina,85
+e,Bono Prov Cordoba Clase 6,Subsoberano,Prov. Cordoba,ARS,1.76,698237481,,,Titulos de Deuda en Peso Argentina,36
+e,Cedear Itau Unibanco Holdings,Cedear,Itau Unibanco Holdings,ARS,1.36,539547144,,,Participaciones Accionarias Argentina,10
+e,Transportadora de Gas del Norte S.A.,Acción,Transportadora de Gas del Norte,ARS,1.17,464169234,,,Participaciones Accionarias Argentina,70
+e,FCI Parakeet Pesos - Clase B,FCI,Parakeet Pesos,,0.8,317380673,,,Certificados de Participacion Argentina,8
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,0.13,51574359,,,Operaciones a Plazo en Peso Argentina,195
+p,SBS Renta Pesos,SBS,RF ARS Disc,32.0048,0.3449,8,,,,
+p,Pionero Renta Mixta I,Macro,RM y Otros ARS,29.9833,0.3993,6,,,,
+p,Schroder Capital Renta Fija,Schroder,RF MULT Disc,29.3241,0.5077,5,,,,
+p,Optimum FAE (Fondo de Aplicaciones Especiales),SAM Arg,RF MULT Disc,28.76,0.2824,5,,,,
+p,Pionero Gestion,Macro,RF MULT Disc,28.1719,0.3157,5,,,,
+p,SBS Multiactivos,SBS,RF MULT Disc,27.9266,0.4298,3,,,,
+p,MAF Renta,Mariva,RM y Otros ARS,27.9251,0.3679,5,,,,
+p,Alpha Renta Balanceada Global,ICBC,RM y Otros ARS,27.0956,0.5061,3,,,,

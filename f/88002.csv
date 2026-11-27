@@ -1,0 +1,440 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,BAVSA Deuda Privada Argentina USD,,,,,,,,
+m,gerente,BAVSA Fondos S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,35194633,,,,,,,,
+m,aum_planilla,35194633,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88002,,,,,,,,
+m,n_especies,387,,,,,,,,
+m,activos_pn,111.24,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.69,,,,,,,,
+m,top1,11.01,,,,,,,,
+m,top5,32.54,,,,,,,,
+m,top10,44.09,,,,,,,,
+m,hhi_especies,342.4824,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Allaria Ahorro,,,,,,,,
+m,emisor_top_pct,11,,,,,,,,
+m,hhi_emisores,188.933,,,,,,,,
+m,sin_emisor_pct,81.88,,,,,,,,
+t,Pagaré,81.88,376,,,,,,,
+t,ON,15.82,8,,,,,,,
+t,FCI,12.98,3,,,,,,,
+c,USD,77.18,,,,,,,,
+c,ARS,21.51,,,,,,,,
+c,sin dato,11.99,,,,,,,,
+r,Disponibilidades,0.69,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,58.18,,,,,,,,
+r,Titulos de Deuda en Dolar 3500 BCRA,39.39,,,,,,,,
+r,Certificados de Participacion Argentina,12.98,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),11.24,,,,,,,,
+e,Pagare #UMV261160029,Pagaré,,USD,11.01,3874929,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,11,3871410,,,Certificados de Participacion Argentina,96
+e,ON Pyme Jefesa 231028,ON,Pyme Jefesa,USD,4.83,1699901,,,Titulos de Deuda en Dolar Estadounidense,2
+e,ON Bco Serv Transac C28,ON,Banco Serv Transac,USD,2.85,1003047,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Bco Serv Transac C29,ON,Banco Serv Transac,USD,2.85,1003047,,,Titulos de Deuda en Dolar Estadounidense,15
+e,Pagare #UMV011260078,Pagaré,,USD,2.84,999527.5664,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,ON CGC C 41,ON,CGC,USD,2.79,981930.2501,,,Titulos de Deuda en Dolar Estadounidense,13
+e,Pagare #UMV010970018,Pagaré,,USD,2.63,925618.8379,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV230670015,Pagaré,,USD,1.87,658139.63,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV191160014,Pagaré,,USD,1.42,499763.7832,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UBS291260001,Pagaré,,ARS,1.37,482166.4669,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV210670007,Pagaré,,USD,1.31,461049.6873,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV260870005,Pagaré,,USD,1.31,461049.6873,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Telecom C27,ON,Telecom,USD,1.19,418816.1282,,,Titulos de Deuda en Dolar Estadounidense,8
+e,Pagare #UMV150970058,Pagaré,,USD,1.1,387140.9588,,,Titulos de Deuda en Dolar Estadounidense,1
+e,FCI Argenfunds Liquidez - Clase B,FCI,Argenfunds Liquidez,,0.99,348426.8629,,,Certificados de Participacion Argentina,50
+e,Pagare #UMV060770011,Pagaré,,USD,0.99,348426.8629,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,FCI Cocos Dólar Money Market - Clase C,FCI,Cocos Dólar Money Market,USD,0.99,348426.8629,,,Certificados de Participacion Argentina,14
+e,Pagare #UPO181160004,Pagaré,,ARS,0.97,341387.9364,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV270770007,Pagaré,,USD,0.94,330829.5466,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV050670009,Pagaré,,USD,0.94,330829.5466,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV200770012,Pagaré,,USD,0.93,327310.0834,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV070570005,Pagaré,,USD,0.92,323790.6201,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,ON Pluspetrol Clase 5,ON,Pluspetrol,USD,0.92,323790.6201,,,Titulos de Deuda en Dolar Estadounidense,38
+e,Pagare #UMV100370040,Pagaré,,USD,0.82,288595.9875,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV081160014,Pagaré,,USD,0.71,249881.8916,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV091260014,Pagaré,,USD,0.7,246362.4283,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV150370067,Pagaré,,USD,0.69,242842.9651,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV070470010,Pagaré,,USD,0.68,239323.5018,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV200570020,Pagaré,,USD,0.67,235804.0386,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV060670003,Pagaré,,USD,0.67,235804.0386,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UVA190870001,Pagaré,,ARS,0.65,228765.112,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPO260580008,Pagaré,,USD,0.63,221726.1855,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO260580007,Pagaré,,USD,0.63,221726.1855,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO091260003,Pagaré,,USD,0.61,214687.259,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO091260004,Pagaré,,USD,0.61,214687.259,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV160670013,Pagaré,,USD,0.58,204128.8692,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPO091270001,Pagaré,,USD,0.57,200609.4059,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO091270002,Pagaré,,USD,0.57,200609.4059,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO091270003,Pagaré,,USD,0.57,200609.4059,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO091270004,Pagaré,,USD,0.57,200609.4059,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO151260017,Pagaré,,USD,0.56,197089.9427,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO151260016,Pagaré,,USD,0.56,197089.9427,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV170570053,Pagaré,,USD,0.54,190051.0161,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV280670004,Pagaré,,USD,0.54,190051.0161,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO231070005,Pagaré,,USD,0.53,186531.5529,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO231070003,Pagaré,,USD,0.53,186531.5529,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO231070007,Pagaré,,USD,0.53,186531.5529,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO231070002,Pagaré,,USD,0.53,186531.5529,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAR110670003,Pagaré,,ARS,0.49,172453.6998,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV070270003,Pagaré,,USD,0.42,147817.457,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UUN281260001,Pagaré,,ARS,0.41,144297.9937,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV280470022,Pagaré,,USD,0.41,144297.9937,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UIG030970001,Pagaré,,USD,0.4,140778.5305,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO230870006,Pagaré,,USD,0.38,133739.604,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO230870002,Pagaré,,USD,0.38,133739.604,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO230870003,Pagaré,,USD,0.38,133739.604,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UVA240270002,Pagaré,,ARS,0.35,123181.2142,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,ON Aeropuertos 2000 C11,ON,Aeropuertos,USD,0.32,112622.8244,,,Titulos de Deuda en Dolar Estadounidense,8
+e,Pagare #UNE110170001,Pagaré,,USD,0.32,112622.8244,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO150670005,Pagaré,,ARS,0.32,112622.8244,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UFM260770005,Pagaré,,USD,0.31,109103.3611,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO281260001,Pagaré,,USD,0.28,98544.9713,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UBI171160001,Pagaré,,ARS,0.28,98544.9713,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UBI151260004,Pagaré,,ARS,0.28,98544.9713,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPO251160004,Pagaré,,ARS,0.28,98544.9713,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UBI241160001,Pagaré,,ARS,0.28,98544.9713,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UNO120770002,Pagaré,,USD,0.27,95025.5081,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO090870003,Pagaré,,USD,0.27,95025.5081,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO250670001,Pagaré,,ARS,0.27,95025.5081,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAC300670003,Pagaré,,ARS,0.27,95025.5081,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UNO160870003,Pagaré,,USD,0.27,95025.5081,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO090870004,Pagaré,,USD,0.27,95025.5081,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO250170001,Pagaré,,ARS,0.27,95025.5081,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPO281260002,Pagaré,,ARS,0.27,95025.5081,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPO010670001,Pagaré,,ARS,0.27,95025.5081,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR120170001,Pagaré,,ARS,0.27,95025.5081,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPO250370002,Pagaré,,ARS,0.27,95025.5081,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPO250270002,Pagaré,,ARS,0.27,95025.5081,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPO240570002,Pagaré,,ARS,0.27,95025.5081,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPO260470001,Pagaré,,ARS,0.27,95025.5081,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UFM120770003,Pagaré,,USD,0.27,95025.5081,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO020870006,Pagaré,,USD,0.27,95025.5081,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO300770001,Pagaré,,USD,0.27,95025.5081,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO020870003,Pagaré,,USD,0.27,95025.5081,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO300670001,Pagaré,,USD,0.27,95025.5081,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO160870002,Pagaré,,USD,0.27,95025.5081,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO260770001,Pagaré,,ARS,0.26,91506.0448,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPO200870001,Pagaré,,ARS,0.26,91506.0448,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPO210670001,Pagaré,,ARS,0.26,91506.0448,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPO060770001,Pagaré,,ARS,0.26,91506.0448,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV150570015,Pagaré,,USD,0.26,91506.0448,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPO130770001,Pagaré,,ARS,0.26,91506.0448,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UNO301160006,Pagaré,,ARS,0.25,87986.5815,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UNO301260001,Pagaré,,ARS,0.25,87986.5815,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UFR171160002,Pagaré,,ARS,0.25,87986.5815,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UFR011260001,Pagaré,,ARS,0.25,87986.5815,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMO160170001,Pagaré,,ARS,0.24,84467.1183,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV050470017,Pagaré,,USD,0.23,80947.655,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE310370001,Pagaré,,USD,0.23,80947.655,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV020870010,Pagaré,,USD,0.21,73908.7285,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFM140170001,Pagaré,,USD,0.21,73908.7285,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV080970008,Pagaré,,USD,0.21,73908.7285,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV210970017,Pagaré,,USD,0.21,73908.7285,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO271160003,Pagaré,,USD,0.2,70389.2652,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO190670002,Pagaré,,ARS,0.2,70389.2652,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV050570013,Pagaré,,USD,0.19,66869.802,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV051070017,Pagaré,,USD,0.18,63350.3387,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO071260001,Pagaré,,USD,0.17,59830.8755,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UIG200370001,Pagaré,,ARS,0.17,59830.8755,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA150870001,Pagaré,,ARS,0.16,56311.4122,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV010770009,Pagaré,,USD,0.16,56311.4122,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UVA150470009,Pagaré,,ARS,0.16,56311.4122,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA150570002,Pagaré,,ARS,0.16,56311.4122,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA150770001,Pagaré,,ARS,0.16,56311.4122,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UNE140670001,Pagaré,,USD,0.16,56311.4122,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE250170001,Pagaré,,USD,0.16,56311.4122,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UVA150670002,Pagaré,,ARS,0.16,56311.4122,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV160870049,Pagaré,,USD,0.15,52791.9489,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO271160002,Pagaré,,USD,0.14,49272.4857,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO090270001,Pagaré,,USD,0.14,49272.4857,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UUN300670001,Pagaré,,USD,0.14,49272.4857,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UUN310570001,Pagaré,,USD,0.14,49272.4857,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO201160004,Pagaré,,USD,0.14,49272.4857,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV200170035,Pagaré,,USD,0.14,49272.4857,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO281260001,Pagaré,,USD,0.14,49272.4857,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO260270002,Pagaré,,USD,0.14,49272.4857,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV120770007,Pagaré,,USD,0.14,49272.4857,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UCO270570001,Pagaré,,USD,0.14,49272.4857,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO090270002,Pagaré,,USD,0.14,49272.4857,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO080270001,Pagaré,,ARS,0.14,49272.4857,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UNO131160002,Pagaré,,ARS,0.14,49272.4857,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UNO110370001,Pagaré,,ARS,0.14,49272.4857,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UFD290170001,Pagaré,,USD,0.14,49272.4857,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO090270003,Pagaré,,USD,0.14,49272.4857,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO150170001,Pagaré,,ARS,0.14,49272.4857,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UFD180170001,Pagaré,,USD,0.14,49272.4857,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFD040170001,Pagaré,,USD,0.14,49272.4857,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAU200470002,Pagaré,,ARS,0.13,45753.0224,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAU200470001,Pagaré,,ARS,0.13,45753.0224,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPO110670002,Pagaré,,ARS,0.13,45753.0224,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UBI280470001,Pagaré,,ARS,0.13,45753.0224,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPO150670004,Pagaré,,ARS,0.13,45753.0224,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR180670008,Pagaré,,ARS,0.13,45753.0224,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR180670009,Pagaré,,ARS,0.13,45753.0224,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR180670007,Pagaré,,ARS,0.13,45753.0224,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR180670006,Pagaré,,ARS,0.13,45753.0224,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR180670005,Pagaré,,ARS,0.13,45753.0224,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR180670004,Pagaré,,ARS,0.13,45753.0224,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMO230770001,Pagaré,,ARS,0.13,45753.0224,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAB260770001,Pagaré,,ARS,0.13,45753.0224,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAB200470001,Pagaré,,ARS,0.13,45753.0224,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA221070002,Pagaré,,USD,0.13,45753.0224,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO200970003,Pagaré,,USD,0.13,45753.0224,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UVA291070001,Pagaré,,USD,0.13,45753.0224,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UVA091070001,Pagaré,,USD,0.13,45753.0224,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO200970002,Pagaré,,USD,0.13,45753.0224,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO040870002,Pagaré,,USD,0.13,45753.0224,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV140470007,Pagaré,,USD,0.13,45753.0224,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO200970001,Pagaré,,USD,0.13,45753.0224,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO260470001,Pagaré,,USD,0.13,45753.0224,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO110870001,Pagaré,,USD,0.13,45753.0224,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UVA151070003,Pagaré,,USD,0.13,45753.0224,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV041070003,Pagaré,,USD,0.13,45753.0224,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UUN300770001,Pagaré,,USD,0.13,45753.0224,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFR100470001,Pagaré,,ARS,0.12,42233.5591,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UCU100170001,Pagaré,,ARS,0.12,42233.5591,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UNO280170001,Pagaré,,ARS,0.12,42233.5591,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UNO180270001,Pagaré,,ARS,0.12,42233.5591,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UFR100370001,Pagaré,,ARS,0.12,42233.5591,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA151070001,Pagaré,,USD,0.11,38714.0959,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO310370005,Pagaré,,ARS,0.11,38714.0959,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPO300470002,Pagaré,,ARS,0.11,38714.0959,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPO310570007,Pagaré,,ARS,0.11,38714.0959,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA111070001,Pagaré,,USD,0.11,38714.0959,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO201170001,Pagaré,,USD,0.11,38714.0959,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO201070002,Pagaré,,USD,0.11,38714.0959,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UVA150570003,Pagaré,,ARS,0.11,38714.0959,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA150670003,Pagaré,,ARS,0.11,38714.0959,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UNT260270001,Pagaré,,ARS,0.11,38714.0959,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA150470010,Pagaré,,ARS,0.11,38714.0959,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UCM251260001,Pagaré,,ARS,0.1,35194.6326,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA150870002,Pagaré,,ARS,0.1,35194.6326,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UNO301060001,Pagaré,,USD,0.1,35194.6326,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UVA150770002,Pagaré,,ARS,0.1,35194.6326,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UNE050370001,Pagaré,,USD,0.1,35194.6326,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFD021260001,Pagaré,,USD,0.1,35194.6326,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMO250670001,Pagaré,,USD,0.1,35194.6326,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMO300770002,Pagaré,,USD,0.1,35194.6326,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMO240970001,Pagaré,,USD,0.1,35194.6326,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE050270001,Pagaré,,USD,0.1,35194.6326,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMO240570001,Pagaré,,USD,0.1,35194.6326,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMO310870002,Pagaré,,USD,0.1,35194.6326,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMO150970001,Pagaré,,USD,0.1,35194.6326,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAB070470001,Pagaré,,USD,0.09,31675.1694,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAB140370001,Pagaré,,USD,0.09,31675.1694,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMO140970001,Pagaré,,USD,0.09,31675.1694,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMO300670001,Pagaré,,ARS,0.09,31675.1694,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA200770002,Pagaré,,ARS,0.09,31675.1694,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR290570001,Pagaré,,ARS,0.09,31675.1694,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR050670001,Pagaré,,ARS,0.09,31675.1694,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAB300370001,Pagaré,,USD,0.09,31675.1694,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAB030470001,Pagaré,,USD,0.09,31675.1694,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAB100670001,Pagaré,,ARS,0.09,31675.1694,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UNO020670001,Pagaré,,USD,0.08,28155.7061,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFM260170001,Pagaré,,USD,0.08,28155.7061,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAC010170001,Pagaré,,USD,0.08,28155.7061,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UVA130770001,Pagaré,,ARS,0.08,28155.7061,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAC300670004,Pagaré,,ARS,0.08,28155.7061,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UNO080670001,Pagaré,,USD,0.08,28155.7061,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE121260001,Pagaré,,USD,0.08,28155.7061,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFT101160003,Pagaré,,USD,0.08,28155.7061,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFM190170001,Pagaré,,USD,0.08,28155.7061,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO300670006,Pagaré,,ARS,0.08,28155.7061,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UGA211260001,Pagaré,,ARS,0.08,28155.7061,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UGA190670001,Pagaré,,ARS,0.08,28155.7061,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #USO110170001,Pagaré,,ARS,0.08,28155.7061,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAC300970003,Pagaré,,ARS,0.08,28155.7061,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAC311070001,Pagaré,,ARS,0.08,28155.7061,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAC300870001,Pagaré,,ARS,0.08,28155.7061,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAC300770003,Pagaré,,ARS,0.08,28155.7061,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UNO011070001,Pagaré,,USD,0.07,24636.2428,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPD030370001,Pagaré,,USD,0.07,24636.2428,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Oiltanking S4 C2,ON,Oiltanking,USD,0.07,24636.2428,,,Titulos de Deuda en Dolar Estadounidense,7
+e,Pagare #UNO280570002,Pagaré,,USD,0.07,24636.2428,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFM240470001,Pagaré,,USD,0.07,24636.2428,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO240470001,Pagaré,,USD,0.07,24636.2428,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UIG260670001,Pagaré,,ARS,0.07,24636.2428,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UNE041160003,Pagaré,,ARS,0.07,24636.2428,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UFD150670001,Pagaré,,ARS,0.07,24636.2428,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UFD150770002,Pagaré,,ARS,0.07,24636.2428,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UFD150870001,Pagaré,,ARS,0.07,24636.2428,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UFD150470001,Pagaré,,ARS,0.07,24636.2428,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UNE131160002,Pagaré,,ARS,0.07,24636.2428,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPR020470001,Pagaré,,ARS,0.07,24636.2428,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPR020470002,Pagaré,,ARS,0.07,24636.2428,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPR020470003,Pagaré,,ARS,0.07,24636.2428,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPR020470004,Pagaré,,ARS,0.07,24636.2428,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UNE271160002,Pagaré,,ARS,0.07,24636.2428,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UCU140470001,Pagaré,,ARS,0.07,24636.2428,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UCU250370002,Pagaré,,ARS,0.07,24636.2428,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UCU160570001,Pagaré,,ARS,0.07,24636.2428,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA301260001,Pagaré,,ARS,0.07,24636.2428,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAU280570001,Pagaré,,ARS,0.07,24636.2428,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UUN030670001,Pagaré,,ARS,0.07,24636.2428,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMO041260001,Pagaré,,USD,0.07,24636.2428,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAB150970001,Pagaré,,USD,0.07,24636.2428,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAB250670002,Pagaré,,USD,0.07,24636.2428,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO080970001,Pagaré,,USD,0.07,24636.2428,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO150970001,Pagaré,,USD,0.07,24636.2428,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO081070001,Pagaré,,USD,0.07,24636.2428,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMO040270002,Pagaré,,USD,0.07,24636.2428,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMO100270002,Pagaré,,USD,0.07,24636.2428,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAB300770001,Pagaré,,USD,0.07,24636.2428,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMO190170001,Pagaré,,USD,0.07,24636.2428,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAB240970001,Pagaré,,USD,0.07,24636.2428,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFM120170001,Pagaré,,USD,0.06,21116.7796,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFM211260002,Pagaré,,USD,0.06,21116.7796,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO040270001,Pagaré,,USD,0.06,21116.7796,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAC101160003,Pagaré,,ARS,0.06,21116.7796,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAB020270001,Pagaré,,ARS,0.06,21116.7796,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UFM050170001,Pagaré,,USD,0.06,21116.7796,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UCM020270001,Pagaré,,USD,0.06,21116.7796,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO110270001,Pagaré,,USD,0.06,21116.7796,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO170270001,Pagaré,,USD,0.06,21116.7796,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #URG260870001,Pagaré,,ARS,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #URG180570001,Pagaré,,ARS,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UIG250670001,Pagaré,,ARS,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UIG300670002,Pagaré,,ARS,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAC100570001,Pagaré,,ARS,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV080270020,Pagaré,,USD,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAC150270002,Pagaré,,ARS,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAC120770001,Pagaré,,ARS,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UIG160770001,Pagaré,,ARS,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UIG180670001,Pagaré,,ARS,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAU300170003,Pagaré,,ARS,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAU100270001,Pagaré,,ARS,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UIG050270001,Pagaré,,ARS,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAC200770001,Pagaré,,ARS,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAC100870001,Pagaré,,ARS,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #USO250670001,Pagaré,,ARS,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA150170002,Pagaré,,ARS,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA120270001,Pagaré,,ARS,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV101160057,Pagaré,,USD,0.05,17597.3163,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMO300670004,Pagaré,,USD,0.05,17597.3163,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #USO300570001,Pagaré,,ARS,0.04,14077.853,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA040370001,Pagaré,,ARS,0.04,14077.853,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA040380001,Pagaré,,ARS,0.04,14077.853,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAU180270002,Pagaré,,ARS,0.04,14077.853,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAU180170001,Pagaré,,ARS,0.04,14077.853,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA040970001,Pagaré,,ARS,0.04,14077.853,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #URG100870001,Pagaré,,ARS,0.04,14077.853,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #URG280570001,Pagaré,,ARS,0.04,14077.853,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMO300670003,Pagaré,,USD,0.04,14077.853,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UCU230470001,Pagaré,,ARS,0.04,14077.853,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UCU260470001,Pagaré,,ARS,0.04,14077.853,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMO300470002,Pagaré,,USD,0.04,14077.853,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPR070570001,Pagaré,,USD,0.04,14077.853,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMO310770002,Pagaré,,USD,0.04,14077.853,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMO310570002,Pagaré,,USD,0.04,14077.853,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO021160002,Pagaré,,USD,0.04,14077.853,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UCU100370002,Pagaré,,ARS,0.04,14077.853,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UCU150370002,Pagaré,,ARS,0.04,14077.853,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA200270001,Pagaré,,ARS,0.04,14077.853,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMO140470001,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UCU200370002,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UCU200470001,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV030370021,Pagaré,,USD,0.03,10558.3898,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFM300170001,Pagaré,,USD,0.03,10558.3898,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPT310870001,Pagaré,,USD,0.03,10558.3898,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMO280670001,Pagaré,,USD,0.03,10558.3898,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFM121160002,Pagaré,,USD,0.03,10558.3898,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMO140470002,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMO140470003,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMO140470004,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMO140470005,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMO140470006,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMO140470007,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMO140470008,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMO140470009,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMO140470010,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA010370001,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UFM231160001,Pagaré,,USD,0.03,10558.3898,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UCU250370003,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPR080470001,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPR150470001,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPR220470001,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #USO020570001,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #USO090570001,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #USO260470001,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UIG140570001,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UIG310570001,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAU290170001,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UFD270570008,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA200270002,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UCU050370002,Pagaré,,ARS,0.03,10558.3898,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR221070001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV230680002,Pagaré,,USD,0.02,7038.9265,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV281070010,Pagaré,,USD,0.02,7038.9265,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAR211270001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR310870001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR160770001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR300770001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR300670003,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR180670002,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR160970003,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR180870001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR300970003,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR311070001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA041260003,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UVA040170001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV300670045,Pagaré,,USD,0.02,7038.9265,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNO141170001,Pagaré,,USD,0.02,7038.9265,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPT310570002,Pagaré,,USD,0.02,7038.9265,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPT300670002,Pagaré,,USD,0.02,7038.9265,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPT300470002,Pagaré,,USD,0.02,7038.9265,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAR311270001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR210180001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR310180001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR180280001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR290280001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR170380001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR310380001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV231080002,Pagaré,,USD,0.02,7038.9265,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV240280002,Pagaré,,USD,0.02,7038.9265,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPT170280001,Pagaré,,USD,0.02,7038.9265,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPT020380001,Pagaré,,USD,0.02,7038.9265,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPR050570001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR301170001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR191170002,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPT310770002,Pagaré,,USD,0.02,7038.9265,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPR190570001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPR070470001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPR210470001,Pagaré,,ARS,0.02,7038.9265,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV130470014,Pagaré,,USD,0.01,3519.4633,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV031270003,Pagaré,,USD,0.01,3519.4633,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV110870009,Pagaré,,USD,0.01,3519.4633,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV030880001,Pagaré,,USD,0.01,3519.4633,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV060480003,Pagaré,,USD,0.01,3519.4633,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPR150770001,Pagaré,,ARS,0.01,3519.4633,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR210480001,Pagaré,,ARS,0.01,3519.4633,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPR080770001,Pagaré,,ARS,0.01,3519.4633,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UAR300480001,Pagaré,,ARS,0.01,3519.4633,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPR221260001,Pagaré,,ARS,0.01,3519.4633,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV141260021,Pagaré,,USD,0.01,3519.4633,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPR260570001,Pagaré,,ARS,0.01,3519.4633,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UPR280470001,Pagaré,,ARS,0.01,3519.4633,,,Titulos de Deuda en Dolar 3500 BCRA,1
+p,Cocos Premium Equity,Cocos,RM y Otros ARS,9.9386,0.5944,1,,,,
+p,Consultatio Estrategia V,Consultatio,RF USD Disc,9.9386,0.5944,1,,,,
+p,IOL Portafolio Potenciado,Adcap,RM y Otros ARS,9.9386,0.3869,1,,,,
+p,Adcap Financiamiento Megra,Adcap,T+1,9.9386,0.3783,1,,,,
+p,Tandem Pesos Ahorro Plus,Tandem Capi..,RF ARS Disc,8.6972,0.2119,1,,,,
+p,Consultatio Multimercado I,Consultatio,RF MULT Disc,8.6338,0.1192,1,,,,
+p,MEGAQM Balanceado,MegaQM,RF ARS Lecap,6.4942,0.0992,1,,,,
+p,Alpha Abierto Pymes,ICBC,PYME,4.9276,0.217,1,,,,

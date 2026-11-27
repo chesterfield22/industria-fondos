@@ -1,0 +1,75 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Ciclo Nova Renta Fija Dólar,,,,,,,,
+m,gerente,Ciclo Nova Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Inc ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,10623917,,,,,,,,
+m,aum_planilla,10623917,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/81184,,,,,,,,
+m,n_especies,21,,,,,,,,
+m,activos_pn,98.13,,,,,,,,
+m,pasivos_cnv,1.87,,,,,,,,
+m,liquidez,0.25,,,,,,,,
+m,top1,16.68,,,,,,,,
+m,top5,50.41,,,,,,,,
+m,top10,73.62,,,,,,,,
+m,hhi_especies,743.2415,,,,,,,,
+m,n_emisores,13,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,26.5,,,,,,,,
+m,hhi_emisores,1252.9691,,,,,,,,
+m,sin_emisor_pct,2.1,,,,,,,,
+t,Soberano,26.5,4,,,,,,,
+t,Soberano exterior,22.92,6,,,,,,,
+t,ON,21.94,5,,,,,,,
+t,Corporativo exterior,19.76,4,,,,,,,
+t,Acción,4.67,1,,,,,,,
+t,Pagaré,2.1,1,,,,,,,
+c,USD,93.22,,,,,,,,
+c,sin dato,4.67,,,,,,,,
+r,Disponibilidades,0.25,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,93.21,,,,,,,,
+r,Participaciones Accionarias Chile,4.67,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,1.87,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-1.87,,,,,,,,
+e,Bonos Rep Argentina AL35,Soberano,Tesoro Nacional,USD,16.68,1772069,,,Titulos de Deuda en Dolar Estadounidense,31
+e,ON Banco Macro Clase G,ON,Banco Macro,USD,10.24,1087889,,,Titulos de Deuda en Dolar Estadounidense,32
+e,Chile 4.85%,Soberano exterior,Chile (soberano),USD,10.07,1069828,,,Titulos de Deuda en Dolar Estadounidense,12
+e,BC Bco Credito e Inv 2027,Corporativo exterior,Banco Credito e Inv,USD,7.89,838227.045,,,Titulos de Deuda en Dolar Estadounidense,16
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,USD,5.53,587502.6057,,,Titulos de Deuda en Dolar Estadounidense,40
+e,ON Tecpetrol C10,ON,Tecpetrol,USD,5.27,559880.4217,,,Titulos de Deuda en Dolar Estadounidense,33
+e,BC BTG 080429,Corporativo exterior,BTG,USD,5,531195.846,,,Titulos de Deuda en Dolar Estadounidense,13
+e,BC Falabella 2027,Corporativo exterior,Falabella,USD,4.88,518447.1457,,,Titulos de Deuda en Dolar Estadounidense,5
+e,Telefonica Moviles Chile,Acción,Telefonica Moviles Chile,,4.67,496136.9202,,,Participaciones Accionarias Chile,4
+e,US Treasury Note 310529,Soberano exterior,Tesoro EE.UU.,USD,3.39,360150.7836,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Capex C11,ON,Capex,USD,2.88,305968.8073,,,Titulos de Deuda en Dolar Estadounidense,19
+e,US Treasury Bill 281027,Soberano exterior,Tesoro EE.UU.,USD,2.87,304906.4156,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Bonos Rep Argentina AL41,Soberano,Tesoro Nacional,USD,2.79,296407.2821,,,Titulos de Deuda en Dolar Estadounidense,14
+e,US Treasury Note 150728,Soberano exterior,Tesoro EE.UU.,USD,2.5,265597.923,,,Titulos de Deuda en Dolar Estadounidense,1
+e,US Treasury Note 300931,Soberano exterior,Tesoro EE.UU.,USD,2.21,234788.5639,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV110570017,Pagaré,,USD,2.1,223102.2553,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Loma Negra C7,ON,Loma Negra,USD,2.03,215665.5135,,,Titulos de Deuda en Dolar Estadounidense,30
+e,BC BTG Pactual 2030,Corporativo exterior,BTG Pactual,USD,1.99,211415.9467,,,Titulos de Deuda en Dolar Estadounidense,6
+e,US Treasury Note 300928,Soberano exterior,Tesoro EE.UU.,USD,1.88,199729.6381,,,Titulos de Deuda en Dolar Estadounidense,2
+e,ON Pluspetrol Clase 5,ON,Pluspetrol,USD,1.52,161483.5372,,,Titulos de Deuda en Dolar Estadounidense,38
+e,Bono del Tesoro Nacional AN29,Soberano,Tesoro Nacional,USD,1.5,159358.7538,,,Titulos de Deuda en Dolar Estadounidense,25
+p,Pionero Renta Dólares Plus,Macro,RF USD Disc,26.7263,0.4244,4,,,,
+p,Ciclo Nova Estratégico,Ciclo Nova,RF USD corp loc,25.2955,0.5074,5,,,,
+p,IAM Performance Americas,BIND,RF USD GL Ex ARG,18.153,0.1923,3,,,,
+p,Fima Mix Dólares,Galicia,RF USD Disc,17.0395,0.3952,1,,,,
+p,Toronto Trust Special Opportunities,Investis,RF MULT Disc,17.0395,0.3222,1,,,,
+p,MEGAQM Gestión Balanceada Dólares,MegaQM,RF USD Disc,17.0395,0.2925,1,,,,
+p,Allaria Dólar Global,Allaria,RF USD Disc,17.0395,0.2659,1,,,,
+p,Balanz Capital Sudamericano,Balanz,RF USD GL Ex ARG,16.1897,0.1563,3,,,,

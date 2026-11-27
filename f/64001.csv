@@ -1,0 +1,68 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,1810 Renta Mixta,,,,,,,,
+m,gerente,Proahorro Administradora de Activos S.A.,,,,,,,,
+m,depositaria,Banco Credicoop Coop. Ltdo.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,12887048159,,,,,,,,
+m,aum_planilla,12887048159,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/64001,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,100.34,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.01,,,,,,,,
+m,top1,25.29,,,,,,,,
+m,top5,66.2,,,,,,,,
+m,top10,89.76,,,,,,,,
+m,hhi_especies,1240.9356,,,,,,,,
+m,n_emisores,6,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,81.27,,,,,,,,
+m,hhi_emisores,6697.5092,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,81.27,12,,,,,,,
+t,Acción,18.06,4,,,,,,,
+t,Caución,0.91,1,,,,,,,
+c,ARS,100.24,,,,,,,,
+r,Disponibilidades,0.1,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,81.27,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,0.91,,,,,,,,
+r,Participaciones Accionarias Argentina,18.06,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.34,,,,,,,,
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,25.29,3259134479,,,Titulos de Deuda en Peso Argentina,64
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,14.82,1909860537,,,Titulos de Deuda en Peso Argentina,84
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,12.32,1587684333,,,Titulos de Deuda en Peso Argentina,146
+e,YPF S.A.,Acción,YPF,ARS,6.94,894361142,,,Participaciones Accionarias Argentina,122
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,6.83,880185389,,,Titulos de Deuda en Peso Argentina,250
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,5.96,768068070,,,Titulos de Deuda en Peso Argentina,142
+e,Bonos Rep Argentina GD30,Soberano,Tesoro Nacional,ARS,5.26,677858733,,,Titulos de Deuda en Peso Argentina,37
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,4.94,636620179,,,Participaciones Accionarias Argentina,129
+e,Bono Disc ARS Ley AR DICP,Soberano,Tesoro Nacional,ARS,3.99,514193222,,,Titulos de Deuda en Peso Argentina,59
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,3.41,439448342,,,Participaciones Accionarias Argentina,93
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,2.77,356971234,,,Participaciones Accionarias Argentina,117
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,2.48,319598794,,,Titulos de Deuda en Peso Argentina,160
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,1.77,228100752,,,Titulos de Deuda en Peso Argentina,166
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,0.98,126293072,,,Titulos de Deuda en Peso Argentina,158
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,0.91,117272138,,,Operaciones a Plazo en Peso Argentina,73
+e,Bonos Rep Argentina GD35,Soberano,Tesoro Nacional,ARS,0.84,108251205,,,Titulos de Deuda en Peso Argentina,54
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,0.73,94075452,,,Titulos de Deuda en Peso Argentina,74
+p,SBS Multiactivos,SBS,RF MULT Disc,46.7757,0.74,5,,,,
+p,1810 Ahorros Activos,Proahorro,RF ARS CER,41.4,0.5988,4,,,,
+p,Balanz Renta Fija Estrategica,Balanz,RF MULT Disc,40.9395,0.5854,5,,,,
+p,SBS Patrimonio VIII,SBS,RF ARS Disc,39.8279,0.5681,5,,,,
+p,Axis Estrategia 15,Axis,RF MULT Disc,36.7802,0.4852,3,,,,
+p,SBS Renta Pesos,SBS,RF ARS Disc,35.3652,0.5938,5,,,,
+p,SBS Patrimonio,SBS,RM y Otros ARS,33.7373,0.4747,8,,,,
+p,Novus Performance,Novus,RF MULT Disc,32.2723,0.3988,5,,,,

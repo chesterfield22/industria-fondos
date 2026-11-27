@@ -1,0 +1,75 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Desarrollo Argentino I FCI Abierto para el Fin. de la Infra. y la Econ. Real,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,INFRA,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,45885755275,,,,,,,,
+m,aum_planilla,45885755275,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63220,,,,,,,,
+m,n_especies,20,,,,,,,,
+m,activos_pn,89.09,,,,,,,,
+m,pasivos_cnv,10.91,,,,,,,,
+m,liquidez,5.56,,,,,,,,
+m,top1,29.32,,,,,,,,
+m,top5,70.9,,,,,,,,
+m,top10,84.19,,,,,,,,
+m,hhi_especies,1387.374,,,,,,,,
+m,n_emisores,16,,,,,,,,
+m,emisor_top,Prov. Cordoba,,,,,,,,
+m,emisor_top_pct,29.76,,,,,,,,
+m,hhi_emisores,1768.053,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Subsoberano,59.42,5,,,,,,,
+t,ON,18.95,7,,,,,,,
+t,FCI,5.01,5,,,,,,,
+t,Caución,4.91,1,,,,,,,
+t,Corporativo exterior,0.11,1,,,,,,,
+t,Fideicomiso financiero,0.04,1,,,,,,,
+c,ARS,83.39,,,,,,,,
+c,sin dato,5.05,,,,,,,,
+r,Disponibilidades,0.65,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,78.48,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,4.91,,,,,,,,
+r,Certificados de Participacion Argentina,5.05,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,10.91,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-10.91,,,,,,,,
+e,Bono Prov Cordoba 2029 CO27D,Subsoberano,Prov. Cordoba,ARS,29.32,13453703446,,,Titulos de Deuda en Peso Argentina,15
+e,Bono Prov Santa Fe 8.1% 111234,Subsoberano,Prov. Santa Fe,ARS,15.21,6979223377,,,Titulos de Deuda en Peso Argentina,37
+e,Bono Prov Santa Fe 2027 SF27D,Subsoberano,Prov. Santa Fe,ARS,10.99,5042844505,,,Titulos de Deuda en Peso Argentina,20
+e,ON YPF 2047,ON,YPF,ARS,10.47,4804238577,,,Titulos de Deuda en Peso Argentina,6
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,4.91,2252990584,,,Operaciones a Plazo en Peso Argentina,195
+e,ON Pan Amer. Energy C 17,ON,Pan Amer. Energy,ARS,3.83,1757424427,,,Titulos de Deuda en Peso Argentina,15
+e,Bono Prov San Juan SJO35,Subsoberano,Prov. San Juan,ARS,3.46,1587647132,,,Titulos de Deuda en Peso Argentina,33
+e,ON YPF Luz Clase 14,ON,YPF Luz,ARS,2.54,1165498184,,,Titulos de Deuda en Peso Argentina,8
+e,FCI Inmobiliario Puerto Nizuc FCIC,FCI,Inmobiliario Puerto Nizuc FCIC,,2.01,922303681,,,Certificados de Participacion Argentina,2
+e,FCI Pellegrini I FCIC - Clase U,FCI,Pellegrini I FCIC,,1.45,665343451,,,Certificados de Participacion Argentina,11
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.83,380851769,,,Certificados de Participacion Argentina,77
+e,ON YPF 2029,ON,YPF,ARS,0.81,371674618,,,Titulos de Deuda en Peso Argentina,15
+e,FCI Dracma FCIC Inmobiliario - Clase B,FCI,Dracma FCIC Inmobiliario,,0.68,312023136,,,Certificados de Participacion Argentina,7
+e,ON Transp Gas Sur Cl 3,ON,Transp Gas Sur,ARS,0.56,256960230,,,Titulos de Deuda en Peso Argentina,43
+e,ON Pan Amer. Energy C 12,ON,Pan Amer. Energy,ARS,0.47,215663050,,,Titulos de Deuda en Peso Argentina,34
+e,Bono Prov Cordoba 010924,Subsoberano,Prov. Cordoba,ARS,0.44,201897323,,,Titulos de Deuda en Peso Argentina,4
+e,ON Refi Pampa S3 B,ON,Refi Pampa,ARS,0.27,123891539,,,Titulos de Deuda en Peso Argentina,11
+e,BC AES 9.5%,Corporativo exterior,AES,ARS,0.11,50474331,,,Titulos de Deuda en Peso Argentina,12
+e,FF Nasa Clase 4,Fideicomiso financiero,Nasa,,0.04,18354302,,,Certificados de Participacion Argentina,5
+e,FCI Cocos Ahorro - Clase C,FCI,Cocos Ahorro,,0.04,18354302,,,Certificados de Participacion Argentina,32
+p,Desarrollo Argentino II FCI Abierto para el Fin. de la Infra. y la Econ. Real,Investis,INFRA,68.9267,0.9188,14,,,,
+p,Balanz Crecimiento FCI Ab para Financ Infra y Econ Real,Balanz,INFRA,20.8756,0.2406,3,,,,
+p,Balanz Desarrollo FCI Ab para Financ Infra y Econ Real,Balanz,INFRA,17.7295,0.2814,2,,,,
+p,Balanz Infraestructura,Balanz,INFRA,17.7295,0.2338,2,,,,
+p,Schroder Infraestructura,Schroder,INFRA,16.9548,0.187,7,,,,
+p,Compass Renta Fija IV,Investis,RF MULT Disc,14.9444,0.171,6,,,,
+p,Compass Renta Fija II,Investis,RF MULT Disc,13.8035,0.4247,8,,,,
+p,Delta Gestion I,Delta,RF MULT Disc,12.2517,0.4523,6,,,,

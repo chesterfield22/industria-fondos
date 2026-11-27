@@ -1,0 +1,70 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Allaria Renta Balanceada I,,,,,,,,
+m,gerente,Allaria Fondos Administrados S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,13646394332,,,,,,,,
+m,aum_planilla,13646394332,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63665,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,100.05,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,2.86,,,,,,,,
+m,top1,26.82,,,,,,,,
+m,top5,86.18,,,,,,,,
+m,top10,96.21,,,,,,,,
+m,hhi_especies,1818.8429,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,73,,,,,,,,
+m,hhi_emisores,5543.9861,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,73,5,,,,,,,
+t,BCRA,10.41,1,,,,,,,
+t,ON,10.19,1,,,,,,,
+t,Acción,2.81,4,,,,,,,
+t,Cedear,0.73,1,,,,,,,
+t,FCI,0.05,3,,,,,,,
+c,ARS,97.14,,,,,,,,
+c,sin dato,0.05,,,,,,,,
+r,Disponibilidades,2.86,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,93.6,,,,,,,,
+r,Participaciones Accionarias Argentina,3.54,,,,,,,,
+r,Certificados de Participacion Argentina,0.05,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.05,,,,,,,,
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,26.82,3659962960,,,Titulos de Deuda en Peso Argentina,159
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,26.49,3614929858,,,Titulos de Deuda en Peso Argentina,165
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,12.27,1674412584,,,Titulos de Deuda en Peso Argentina,92
+e,Bono Bopreal 2027 Serie 1 Clase D BPOD7,BCRA,BCRA,ARS,10.41,1420589650,,,Titulos de Deuda en Peso Argentina,22
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,ARS,10.19,1390567582,,,Titulos de Deuda en Peso Argentina,58
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,5.25,716435702,,,Titulos de Deuda en Peso Argentina,146
+e,Bono Disc ARS Ley AR DICP,Soberano,Tesoro Nacional,ARS,2.17,296126757,,,Titulos de Deuda en Peso Argentina,59
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,1.07,146016419,,,Participaciones Accionarias Argentina,104
+e,YPF S.A.,Acción,YPF,ARS,0.81,110535794,,,Participaciones Accionarias Argentina,122
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,0.73,99618679,,,Participaciones Accionarias Argentina,52
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,0.55,75055169,,,Participaciones Accionarias Argentina,117
+e,Transener S.A.,Acción,Transener,ARS,0.38,51856298,,,Participaciones Accionarias Argentina,84
+e,FCI ST Zero - Clase B,FCI,ST Zero,,0.03,4093918,,,Certificados de Participacion Argentina,15
+e,FCI Adcap Ahorro Pesos - Clase C,FCI,Adcap Ahorro Pesos,,0.01,1364639,,,Certificados de Participacion Argentina,15
+e,FCI SBS Ahorro Pesos Cl B,FCI,SBS Ahorro Pesos Cl B,,0.01,1364639,,,Certificados de Participacion Argentina,46
+p,Optimum Multi Asset Fund,SAM Arg,RF ARS CER,59.414,0.7625,4,,,,
+p,MAF Ahorro Pesos,Mariva,RF ARS CER,44.8689,0.6213,3,,,,
+p,Consultatio Renta Mixta,Consultatio,RF MULT Disc,44.1806,0.7405,3,,,,
+p,Lombard Abierto Plus,Patagonia,RF ARS CER,42.4876,0.5827,4,,,,
+p,Parakeet Multimercado III,Parakeet,RM y Otros ARS,40.9389,0.6126,5,,,,
+p,Delta Multimercado II,Delta,T+1,40.8588,0.5746,2,,,,
+p,Consultatio Multimercado VI,Consultatio,RF ARS Disc,40.2202,0.4854,2,,,,
+p,GSS III,Grupo SS,RF ARS Disc,38.1119,0.5679,4,,,,

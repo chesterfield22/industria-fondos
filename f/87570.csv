@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Compass Renta Mixta Dólares II,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense Billete,,,,,,,,
+m,region,Latinoamerica,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,2010154,,,,,,,,
+m,aum_planilla,2010154,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87570,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,99.99,,,,,,,,
+m,pasivos_cnv,0.01,,,,,,,,
+m,liquidez,6.26,,,,,,,,
+m,top1,17.27,,,,,,,,
+m,top5,68.92,,,,,,,,
+m,top10,98.77,,,,,,,,
+m,hhi_especies,1165.9313,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Banco Serv Transac,,,,,,,,
+m,emisor_top_pct,17.29,,,,,,,,
+m,hhi_emisores,1287.6521,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,83.49,9,,,,,,,
+t,Soberano,9.13,1,,,,,,,
+t,Caución,6.26,1,,,,,,,
+t,FCI,1.11,1,,,,,,,
+c,sin dato,98.88,,,,,,,,
+c,USD,1.11,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Billete,92.62,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense Billete,6.26,,,,,,,,
+r,Certificados de Participacion Argentina,1.11,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.01,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.01,,,,,,,,
+e,ON Bco Provincia Cl 5 PVC5O,ON,Banco Provincia,,17.27,347153.5682,,,Titulos de Deuda en Dolar Estadounidense Billete,17
+e,ON Banco Mariva S3 060727,ON,Banco Mariva,,14.97,300920.0298,,,Titulos de Deuda en Dolar Estadounidense Billete,19
+e,ON Pecom C2,ON,Pecom,,12.37,248656.03,,,Titulos de Deuda en Dolar Estadounidense Billete,9
+e,ON Bco Serv Transac C31,ON,Banco Serv Transac,,12.37,248656.03,,,Titulos de Deuda en Dolar Estadounidense Billete,19
+e,ON Loma Negra C5,ON,Loma Negra,,11.94,240012.3685,,,Titulos de Deuda en Dolar Estadounidense Billete,13
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,,9.13,183527.0456,,,Titulos de Deuda en Dolar Estadounidense Billete,83
+e,Caucion Colocadora USB Merval,Caución,Caución Merval,,6.26,125835.6304,,,Operaciones a Plazo en Dolar Estadounidense Billete,5
+e,ON John Deere Cia. Fin C18,ON,John Deere Cia. Fin,,5.63,113171.6612,,,Titulos de Deuda en Dolar Estadounidense Billete,13
+e,ON Bco Serv Transac C29,ON,Banco Serv Transac,,4.92,98899.5689,,,Titulos de Deuda en Dolar Estadounidense Billete,15
+e,ON Irsa Clase 18,ON,Irsa,,3.91,78597.0151,,,Titulos de Deuda en Dolar Estadounidense Billete,5
+e,FCI IAM Liquidez en Dólares - Clase B,FCI,IAM Liquidez en Dólares,USD,1.11,22312.7076,,,Certificados de Participacion Argentina,13
+e,ON Inversora Juramento C6 JNC6O,ON,Inversora Juramento,,0.11,2211.1692,,,Titulos de Deuda en Dolar Estadounidense Billete,10
+p,MAF Mix I,Mariva,RF USD Disc,18.9657,0.2854,3,,,,
+p,Schroder Retorno Total Cuatro,Schroder,RF USD CP,15.3915,0.2726,2,,,,
+p,CMA Renta Dólar,Capital Mark..,RF USD GL Inc ARG,14.0142,0.2526,2,,,,
+p,IOL Dólar Ahorro Plus,Adcap,RF USD Disc,13.6629,0.2782,5,,,,
+p,Toronto Trust Ahorro Dólar,Investis,RF USD CP,13.0641,0.1845,2,,,,
+p,GMC Renta Fija Dolares,GMC,RF USD Disc,12.3712,0.1415,1,,,,
+p,1822 Raices Renta en Dolares,Provinfondos,RF USD Disc,12.2581,0.208,2,,,,
+p,CMA Dólar Dinamico,Capital Mark..,RF USD GL Inc ARG,11.6234,0.179,4,,,,

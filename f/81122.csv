@@ -1,0 +1,77 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MAF Mix I,,,,,,,,
+m,gerente,Mariva Asset Management S.A.U.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Mariva S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,9336336,,,,,,,,
+m,aum_planilla,9336335,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/81122,,,,,,,,
+m,n_especies,24,,,,,,,,
+m,activos_pn,100,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.22,,,,,,,,
+m,top1,28.57,,,,,,,,
+m,top5,75.84,,,,,,,,
+m,top10,91.33,,,,,,,,
+m,hhi_especies,1498.1127,,,,,,,,
+m,n_emisores,17,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,28.61,,,,,,,,
+m,hhi_emisores,1488.3261,,,,,,,,
+m,sin_emisor_pct,5.28,,,,,,,,
+t,ON,60.23,18,,,,,,,
+t,Soberano,28.61,2,,,,,,,
+t,Pagaré,5.28,2,,,,,,,
+t,FCI,4.66,1,,,,,,,
+t,Caución,1.07,1,,,,,,,
+c,USD,99.85,,,,,,,,
+r,Disponibilidades,0.15,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,94.12,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,1.07,,,,,,,,
+r,Certificados de Participacion Argentina,4.66,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0,,,,,,,,
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,28.57,2667391,,,Titulos de Deuda en Dolar Estadounidense,83
+e,ON Edenor C11,ON,Edenor,USD,15.75,1470473,,,Titulos de Deuda en Dolar Estadounidense,31
+e,ON BBVA Frances Cl 40,ON,BBVA Frances,USD,15.45,1442464,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Loma Negra C5,ON,Loma Negra,USD,9.68,903757.2861,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Tarj Naranja C67 S2,ON,Tarj Naranja,USD,6.39,596591.8448,,,Titulos de Deuda en Dolar Estadounidense,22
+e,FCI Balanz Money Market USD - Clase B,FCI,Balanz Money Market USD,USD,4.66,435073.239,,,Certificados de Participacion Argentina,7
+e,ON Pyme Gar Bajo Imp Apache S1 C1,ON,Pyme Gar Bajo Imp Apache,USD,3.35,312767.2426,,,Titulos de Deuda en Dolar Estadounidense,14
+e,Pagare #UMV230270019,Pagaré,,USD,2.64,246479.2598,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV240270052,Pagaré,,USD,2.64,246479.2598,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Edesa Clase 4,ON,Edesa,USD,2.2,205399.3832,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON Banco Hipotecario C12,ON,Banco Hipotecario,USD,1.45,135376.8662,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Supervielle Clase U,ON,Supervielle,USD,1.27,118571.4621,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Central Dock Sud C1,ON,Central Dock Sud,USD,1.08,100832.4245,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Bco Serv Transac C26,ON,Banco Serv Transac,USD,1.08,100832.4245,,,Titulos de Deuda en Dolar Estadounidense,9
+e,Caucion Colocadora U$S BYMA,Caución,Caución BYMA,USD,1.07,99898.7909,,,Operaciones a Plazo en Dolar Estadounidense,35
+e,ON YPF Luz Clase 15,ON,YPF Luz,USD,0.88,82159.7533,,,Titulos de Deuda en Dolar Estadounidense,6
+e,ON Pan American C42,ON,Pan American,USD,0.82,76557.9519,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Banco Hipotecario C14,ON,Banco Hipotecario,USD,0.31,28942.6404,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Supervielle Clase T,ON,Supervielle,USD,0.3,28009.0068,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON John Deere Cia. Fin C18,ON,John Deere Cia. Fin,USD,0.14,13070.8698,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Supervielle Clase W,ON,Supervielle,USD,0.06,5601.8014,,,Titulos de Deuda en Dolar Estadounidense,22
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,USD,0.04,3734.5342,,,Titulos de Deuda en Dolar Estadounidense,74
+e,ON Tecpetrol C8,ON,Tecpetrol,USD,0.01,933.6336,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON YPF Luz C17,ON,YPF Luz,USD,0.01,933.6336,,,Titulos de Deuda en Dolar Estadounidense,4
+p,MEGAQM Renta Dólares,MegaQM,RF USD CP,36.9054,0.5801,4,,,,
+p,Pionero Dólar Gestión,Macro,RF USD Disc,35.4017,0.6267,4,,,,
+p,Schroder Retorno Total Cuatro,Schroder,RF USD CP,29.3743,0.5224,5,,,,
+p,FBA Renta Fija Dólar Plus I,BBVA,RF USD Disc,28.653,0.5267,2,,,,
+p,Alpha Renta Capital Dólar,ICBC,RF USD Disc,28.6129,0.5518,1,,,,
+p,Novus Ahorro Dólares,Novus,RF USD Disc,28.6129,0.4715,1,,,,
+p,Wise Capital Global Markets,Wise,RF USD GL Inc ARG,28.6129,0.4181,1,,,,
+p,Consultatio Multimercado V,Consultatio,RF USD Disc,28.2126,0.5321,1,,,,

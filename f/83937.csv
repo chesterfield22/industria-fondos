@@ -1,0 +1,92 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,1822 Raices Gestion,,,,,,,,
+m,gerente,Provinfondos S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Provincia de Buenos Aires,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,11593635779,,,,,,,,
+m,aum_planilla,11593635779,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83937,,,,,,,,
+m,n_especies,37,,,,,,,,
+m,activos_pn,100.95,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.25,,,,,,,,
+m,top1,10.68,,,,,,,,
+m,top5,40.92,,,,,,,,
+m,top10,66.53,,,,,,,,
+m,hhi_especies,554.2415,,,,,,,,
+m,n_emisores,28,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,57.23,,,,,,,,
+m,hhi_emisores,3435.6239,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,57.23,9,,,,,,,
+t,ON,12.91,4,,,,,,,
+t,Cedear,10.65,3,,,,,,,
+t,Acción,9.99,19,,,,,,,
+t,ETF,7.44,1,,,,,,,
+t,FCI,0.23,1,,,,,,,
+c,ARS,90.78,,,,,,,,
+c,sin dato,7.67,,,,,,,,
+r,Disponibilidades,0.25,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,70.13,,,,,,,,
+r,Participaciones Accionarias Argentina,28.08,,,,,,,,
+r,Certificados de Participacion Argentina,0.23,,,,,,,,
+r,Otros Activos,2.26,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.95,,,,,,,,
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,ARS,10.68,1238200301,,,Titulos de Deuda en Peso Argentina,83
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,8.56,992415223,,,Titulos de Deuda en Peso Argentina,250
+e,Cedear Shares MSCI Brazil ETF,ETF,Cedear Shares MSCI Brazil ETF,,7.44,862566502,,,Participaciones Accionarias Argentina,23
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,7.25,840538594,,,Titulos de Deuda en Peso Argentina,56
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,6.99,810395141,,,Titulos de Deuda en Peso Argentina,149
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,5.65,655040422,,,Titulos de Deuda en Peso Argentina,166
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,5.18,600550333,,,Titulos de Deuda en Peso Argentina,66
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,5.09,590116061,,,Participaciones Accionarias Argentina,50
+e,Bono Boncer TX28,Soberano,Tesoro Nacional,ARS,4.9,568088153,,,Titulos de Deuda en Peso Argentina,40
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,4.79,555335154,,,Titulos de Deuda en Peso Argentina,74
+e,ON Pluspetrol 8.5% 2032 (REGS),ON,Pluspetrol,ARS,3.69,427805160,,,Titulos de Deuda en Peso Argentina,34
+e,ON YPF Clase 31,ON,YPF,ARS,3.67,425486433,,,Titulos de Deuda en Peso Argentina,48
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,3.23,374474436,,,Titulos de Deuda en Peso Argentina,165
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,ARS,2.97,344330983,,,Titulos de Deuda en Peso Argentina,58
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,2.79,323462438,,,Participaciones Accionarias Argentina,52
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,2.77,321143711,,,Participaciones Accionarias Argentina,38
+e,ON Pan American C33,ON,Pan American,ARS,2.58,299115803,,,Titulos de Deuda en Peso Argentina,36
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,1.56,180860718,,,Participaciones Accionarias Argentina,117
+e,YPF S.A.,Acción,YPF,ARS,1.5,173904537,,,Participaciones Accionarias Argentina,122
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,1.38,159992174,,,Participaciones Accionarias Argentina,93
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,1.24,143761084,,,Participaciones Accionarias Argentina,129
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,0.86,99705268,,,Participaciones Accionarias Argentina,86
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,0.48,55649452,,,Participaciones Accionarias Argentina,104
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,0.45,52171361,,,Participaciones Accionarias Argentina,104
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,0.44,51011997,,,Participaciones Accionarias Argentina,85
+e,Cresud S.A.,Acción,Cresud,ARS,0.37,42896452,,,Participaciones Accionarias Argentina,38
+e,Aluar Aluminio Argentino S.A.I.C.,Acción,Aluar Aluminio Argentino S.A.I.C,ARS,0.34,39418362,,,Participaciones Accionarias Argentina,56
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,0.29,33621544,,,Participaciones Accionarias Argentina,77
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,0.28,32462180,,,Participaciones Accionarias Argentina,83
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.23,26665362,,,Certificados de Participacion Argentina,77
+e,Grupo Supervielle S.A.,Acción,Grupo Supervielle,ARS,0.18,20868544,,,Participaciones Accionarias Argentina,64
+e,Edenor S.A.,Acción,Edenor,ARS,0.13,15071727,,,Participaciones Accionarias Argentina,49
+e,Transener S.A.,Acción,Transener,ARS,0.12,13912363,,,Participaciones Accionarias Argentina,84
+e,Metrogas S.A.,Acción,Metrogas,ARS,0.11,12752999,,,Participaciones Accionarias Argentina,54
+e,Banco de Valores S.A.,Acción,Banco de Valores,ARS,0.11,12752999,,,Participaciones Accionarias Argentina,31
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,0.1,11593636,,,Participaciones Accionarias Argentina,77
+e,Transportadora de Gas del Norte S.A.,Acción,Transportadora de Gas del Norte,ARS,0.05,5796818,,,Participaciones Accionarias Argentina,70
+p,Galileo Blend,Delta,RM y Otros ARS,32.5343,0.352,16,,,,
+p,Axis Estrategia 8,Axis,RM y Otros ARS,29.4597,0.5476,9,,,,
+p,Axis S&C Argentina Absolute Return,Axis,RM y Otros ARS,28.5255,0.4254,18,,,,
+p,Consultatio Gestion I,Consultatio,RM y Otros ARS,28.51,0.3724,16,,,,
+p,BAVSA Retorno Total,BAVSA,RM y Otros ARS,28.1647,0.4739,5,,,,
+p,Alpha Planeamiento Equilibrado,ICBC,RM y Otros ARS,27.7633,0.327,20,,,,
+p,Consultatio Crecimiento,Consultatio,RF MULT Disc,26.8998,0.4153,5,,,,
+p,Novus Renta Mixta,Novus,RM y Otros ARS,23.7065,0.3738,13,,,,

@@ -1,0 +1,137 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Bull Market Ahorro Pesos,,,,,,,,
+m,gerente,Bull Market Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,220884996671,,,,,,,,
+m,aum_planilla,220884996671,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87031,,,,,,,,
+m,n_especies,81,,,,,,,,
+m,activos_pn,103.57,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,3.77,,,,,,,,
+m,top1,10.91,,,,,,,,
+m,top5,37.15,,,,,,,,
+m,top10,53.59,,,,,,,,
+m,hhi_especies,415.3922,,,,,,,,
+m,n_emisores,14,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,40.56,,,,,,,,
+m,hhi_emisores,1687.2646,,,,,,,,
+m,sin_emisor_pct,46.78,,,,,,,,
+t,Pagaré,46.78,59,,,,,,,
+t,Soberano,40.56,7,,,,,,,
+t,ON,11.21,12,,,,,,,
+t,Caución,3.69,1,,,,,,,
+t,BCRA,1.2,1,,,,,,,
+t,Subsoberano,0.02,1,,,,,,,
+c,ARS,91.67,,,,,,,,
+c,USD,11.79,,,,,,,,
+r,Disponibilidades,0.08,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,88,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,3.69,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,11.8,,,,,,,,
+r,Certificados de Participacion Argentina,,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),3.57,,,,,,,,
+e,Bono del Tesoro Nacional TY30P,Soberano,Tesoro Nacional,ARS,10.91,24098553137,,,Titulos de Deuda en Peso Argentina,30
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,8.54,18863578716,,,Titulos de Deuda en Peso Argentina,136
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,7.03,15528215266,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,6.06,13385630798,,,Titulos de Deuda en Peso Argentina,146
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,4.61,10182798347,,,Titulos de Deuda en Peso Argentina,61
+e,Pagare #MAV130970001,Pagaré,,ARS,4.22,9321346860,,,Titulos de Deuda en Peso Argentina,1
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,3.69,8150656377,,,Operaciones a Plazo en Peso Argentina,195
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,3.24,7156673892,,,Titulos de Deuda en Peso Argentina,61
+e,ON Pampa Energia C27,ON,Pampa Energia,ARS,2.9,6405664903,,,Titulos de Deuda en Peso Argentina,32
+e,ON YPF Clase 42,ON,YPF,ARS,2.39,5279151420,,,Titulos de Deuda en Peso Argentina,48
+e,Pagare #MAV250170006,Pagaré,,ARS,2.32,5124531923,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV110170011,Pagaré,,ARS,2.05,4528142432,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV110170058,Pagaré,,USD,2.01,4439788433,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #MAV161260006,Pagaré,,ARS,1.91,4218903436,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV110170010,Pagaré,,ARS,1.79,3953841440,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV161260034,Pagaré,,USD,1.67,3688779444,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV160870048,Pagaré,,USD,1.49,3291186450,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #MAV080670001,Pagaré,,ARS,1.46,3224920951,,,Titulos de Deuda en Peso Argentina,1
+e,ON YPF Clase 43,ON,YPF,ARS,1.44,3180743952,,,Titulos de Deuda en Peso Argentina,34
+e,Pagare #MAV120470005,Pagaré,,ARS,1.41,3114478453,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV200170009,Pagaré,,ARS,1.41,3114478453,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV120470004,Pagaré,,ARS,1.32,2915681956,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV120470003,Pagaré,,ARS,1.29,2849416457,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV240370001,Pagaré,,ARS,1.23,2716885459,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV240370002,Pagaré,,ARS,1.23,2716885459,,,Titulos de Deuda en Peso Argentina,1
+e,ON Tarj Naranja C67 S1,ON,Tarj Naranja,ARS,1.21,2672708460,,,Titulos de Deuda en Peso Argentina,40
+e,Bono Bopreal 2028 Serie 4 Clase B BPOB8,BCRA,BCRA,USD,1.2,2650619960,,,Titulos de Deuda en Dolar Estadounidense,16
+e,Pagare #MAV151260075,Pagaré,,ARS,1.19,2628531460,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV151260074,Pagaré,,ARS,1.19,2628531460,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV010670039,Pagaré,,USD,1.12,2473911963,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #MAV190570004,Pagaré,,ARS,1.08,2385557964,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV150170010,Pagaré,,ARS,1.08,2385557964,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV120770001,Pagaré,,ARS,1.02,2253026966,,,Titulos de Deuda en Peso Argentina,1
+e,ON Genneia Clase 48,ON,Genneia,ARS,0.9,1987964970,,,Titulos de Deuda en Peso Argentina,14
+e,Pagare #UMV090370019,Pagaré,,USD,0.89,1965876470,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #MAV090370011,Pagaré,,ARS,0.87,1921699471,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV090370012,Pagaré,,ARS,0.85,1877522472,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV090370014,Pagaré,,ARS,0.85,1877522472,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV310370013,Pagaré,,ARS,0.76,1678725975,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV010370014,Pagaré,,ARS,0.76,1678725975,,,Titulos de Deuda en Peso Argentina,1
+e,ON Oldelval Clase 6,ON,Oldelval,ARS,0.71,1568283476,,,Titulos de Deuda en Peso Argentina,41
+e,Pagare #MAV190170005,Pagaré,,ARS,0.68,1502017977,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV040170028,Pagaré,,USD,0.61,1347398480,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #MAV040470002,Pagaré,,ARS,0.6,1325309980,,,Titulos de Deuda en Peso Argentina,1
+e,ON Santander Rio S 31,ON,Santander Rio,ARS,0.57,1259044481,,,Titulos de Deuda en Peso Argentina,40
+e,Pagare #UMV110270018,Pagaré,,USD,0.55,1214867482,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV120270015,Pagaré,,USD,0.53,1170690482,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #MAV110170014,Pagaré,,ARS,0.5,1104424983,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV150270004,Pagaré,,ARS,0.48,1060247984,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV050470020,Pagaré,,USD,0.43,949805486,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #MAV020870010,Pagaré,,ARS,0.36,795185988,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV020870009,Pagaré,,ARS,0.36,795185988,,,Titulos de Deuda en Peso Argentina,1
+e,ON Banco de Galicia 33 BYZ2O,ON,Banco de Galicia,ARS,0.36,795185988,,,Titulos de Deuda en Peso Argentina,18
+e,Pagare #UMV150270080,Pagaré,,USD,0.35,773097488,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #MAV100370005,Pagaré,,ARS,0.33,728920489,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV100370004,Pagaré,,ARS,0.33,728920489,,,Titulos de Deuda en Peso Argentina,1
+e,ON Gpat Cia. Financ. 39 A,ON,Gpat Cia. Financ,ARS,0.31,684743490,,,Titulos de Deuda en Peso Argentina,17
+e,Pagare #MAV040270005,Pagaré,,ARS,0.28,618477991,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV030370018,Pagaré,,USD,0.24,530123992,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Mercado Pago C8,ON,Mercado Pago,ARS,0.24,530123992,,,Titulos de Deuda en Peso Argentina,17
+e,Pagare #MAV010370009,Pagaré,,ARS,0.22,485946993,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV010370008,Pagaré,,ARS,0.22,485946993,,,Titulos de Deuda en Peso Argentina,1
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,0.17,375504494,,,Titulos de Deuda en Peso Argentina,142
+e,Pagare #UMV100570048,Pagaré,,USD,0.15,331327495,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV080270021,Pagaré,,USD,0.14,309238995,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV020870008,Pagaré,,USD,0.14,309238995,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #MAV070670003,Pagaré,,ARS,0.12,265061996,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV260270009,Pagaré,,ARS,0.12,265061996,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV070670002,Pagaré,,ARS,0.12,265061996,,,Titulos de Deuda en Peso Argentina,1
+e,ON CT Barragan C10,ON,CT Barragan,ARS,0.1,220884997,,,Titulos de Deuda en Peso Argentina,10
+e,Pagare #UMV220370020,Pagaré,,USD,0.1,220884997,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV100570050,Pagaré,,USD,0.09,198796497,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON YPF Clase 40,ON,YPF,ARS,0.08,176707997,,,Titulos de Deuda en Peso Argentina,11
+e,Pagare #UMV100570047,Pagaré,,USD,0.08,176707997,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #MAV240370003,Pagaré,,ARS,0.04,88353999,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV240370004,Pagaré,,ARS,0.04,88353999,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV210270015,Pagaré,,ARS,0.03,66265499,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV070670001,Pagaré,,ARS,0.03,66265499,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV210270014,Pagaré,,ARS,0.02,44176999,,,Titulos de Deuda en Peso Argentina,1
+e,Bono CABA 2028 BDC28,Subsoberano,Prov. CABA,ARS,0.02,44176999,,,Titulos de Deuda en Peso Argentina,18
+e,Pagare #MAV210270016,Pagaré,,ARS,0.02,44176999,,,Titulos de Deuda en Peso Argentina,1
+p,Bull Market Renta Fija Plus,Bull Market,RF ARS Disc,32.7018,0.6614,12,,,,
+p,Bull Market Ahorro Balanceado III,Bull Market,RF ARS CER,30.0503,0.7668,4,,,,
+p,Allaria Dinamico II,Allaria,RF ARS Disc,28.7261,0.6939,4,,,,
+p,GMC Retorno Total VI,GMC,RM y Otros ARS,25.8379,0.5543,7,,,,
+p,Balanz Opportunity,Balanz,RF MULT Disc,25.2432,0.3862,5,,,,
+p,Toronto Trust Retorno Total,Investis,RF ARS CER,24.9996,0.5185,5,,,,
+p,Pellegrini Renta Fija III,Pellegrini,T+1,24.9662,0.3433,5,,,,
+p,BAVSA Global II,BAVSA,RF ARS CER,24.9275,0.5681,4,,,,

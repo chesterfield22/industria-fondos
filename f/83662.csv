@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MEGAQM Sustentable ASG,,,,,,,,
+m,gerente,MEGA QM S.A.,,,,,,,,
+m,depositaria,Banco de Servicios y Transacciones S.A. (BST),,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,ASG,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1358189077,,,,,,,,
+m,aum_planilla,1358189077,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83662,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,100.05,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.92,,,,,,,,
+m,top1,22.37,,,,,,,,
+m,top5,79.59,,,,,,,,
+m,top10,98.55,,,,,,,,
+m,hhi_especies,1451.4517,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Banco de Galicia,,,,,,,,
+m,emisor_top_pct,22.37,,,,,,,,
+m,hhi_emisores,1480.4677,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,82.51,7,,,,,,,
+t,Soberano,11.64,1,,,,,,,
+t,FCI,3.96,3,,,,,,,
+t,Caución,0.74,1,,,,,,,
+c,ARS,94.89,,,,,,,,
+c,USD,3.66,,,,,,,,
+c,sin dato,0.3,,,,,,,,
+r,Disponibilidades,1.18,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,94.17,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,0.74,,,,,,,,
+r,Certificados de Participacion Argentina,3.96,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.05,,,,,,,,
+e,ON Banco de Galicia 32 BYY1O,ON,Banco de Galicia,ARS,22.37,303826897,,,Titulos de Deuda en Peso Argentina,44
+e,ON Genneia Clase 47,ON,Genneia,ARS,17.75,241078561,,,Titulos de Deuda en Peso Argentina,21
+e,ON YPF Clase 42,ON,YPF,ARS,16.03,217717709,,,Titulos de Deuda en Peso Argentina,48
+e,ON BBVA Frances Cl 50,ON,BBVA Frances,ARS,11.8,160266311,,,Titulos de Deuda en Peso Argentina,30
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,11.64,158093209,,,Titulos de Deuda en Peso Argentina,159
+e,ON YPF Luz Cl10,ON,YPF Luz,ARS,8.06,109470040,,,Titulos de Deuda en Peso Argentina,8
+e,ON Red Surcos S9 Clase A,ON,Red Surcos,ARS,4.7,63834887,,,Titulos de Deuda en Peso Argentina,9
+e,FCI IAM Liquidez en Dólares - Clase B,FCI,IAM Liquidez en Dólares,USD,3.66,49709720,,,Certificados de Participacion Argentina,13
+e,ON YPF Luz Clase 14,ON,YPF Luz,ARS,1.8,24447403,,,Titulos de Deuda en Peso Argentina,8
+e,Caucion Colocadora $ MAE,Caución,Caución MAE,ARS,0.74,10050599,,,Operaciones a Plazo en Peso Argentina,15
+e,FCI Balanz Capital Money Market Clase C,FCI,Balanz Capital Money Market,,0.15,2037284,,,Certificados de Participacion Argentina,47
+e,FCI Cocos Ahorro - Clase C,FCI,Cocos Ahorro,,0.15,2037284,,,Certificados de Participacion Argentina,32
+p,GMC Retorno Total IV,GMC,RM y Otros ARS,20.9299,0.3229,2,,,,
+p,Argenfunds Inversión Dólares,Argenfunds,RF USD Disc,19.922,0.2541,2,,,,
+p,Superfondo Sustentable ASG,Santander,ASG,15.2378,0.1879,1,,,,
+p,Premier Renta Fija Ahorro,Supervielle,T+1,12.7125,0.2086,3,,,,
+p,BM Active Renta Fija Argentina,Bull Market,RF ARS CER,11.9272,0.2128,2,,,,
+p,ACA Valores Retorno Total,Schroder,RF MULT Disc,11.9272,0.1752,2,,,,
+p,Schroder Crecimiento,Schroder,RF ARS Disc,11.9272,0.1748,2,,,,
+p,Max Renta Fija,Max Capital,RF ARS CER,11.9272,0.1713,2,,,,

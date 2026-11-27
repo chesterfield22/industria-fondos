@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,DXA PMKT Total Return,,,,,,,,
+m,gerente,Dracma Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,RV ARG Otros,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,9758280807,,,,,,,,
+m,aum_planilla,9758280807,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87361,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,100.11,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,18.91,,,,,,,,
+m,top5,66.46,,,,,,,,
+m,top10,89.24,,,,,,,,
+m,hhi_especies,1123.1811,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Grupo Financiero Galicia,,,,,,,,
+m,emisor_top_pct,18.91,,,,,,,,
+m,hhi_emisores,1123.1811,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,80.39,9,,,,,,,
+t,Cedear,11.78,4,,,,,,,
+t,ETF,7.94,2,,,,,,,
+c,ARS,92.17,,,,,,,,
+c,sin dato,7.94,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Participaciones Accionarias Argentina,97.84,,,,,,,,
+r,Certificados de Participacion Estados Unidos,2.27,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.11,,,,,,,,
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,18.91,1845290901,,,Participaciones Accionarias Argentina,117
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,17.17,1675496815,,,Participaciones Accionarias Argentina,129
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,13.33,1300778832,,,Participaciones Accionarias Argentina,77
+e,Transener S.A.,Acción,Transener,ARS,9.27,904592631,,,Participaciones Accionarias Argentina,84
+e,Mirgor S.A.,Acción,Mirgor,ARS,7.78,759194247,,,Participaciones Accionarias Argentina,9
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,7.71,752363450,,,Participaciones Accionarias Argentina,104
+e,Cedear Spdr SyP 500 ETF,ETF,Cedear Spdr SyP 500 ETF,,5.67,553294522,,,Participaciones Accionarias Argentina,13
+e,Cedear Google,Cedear,Google,ARS,3.36,327878235,,,Participaciones Accionarias Argentina,30
+e,Cedear Facebook,Cedear,Facebook,ARS,3.13,305434189,,,Participaciones Accionarias Argentina,18
+e,Transportadora de Gas del Norte S.A.,Acción,Transportadora de Gas del Norte,ARS,2.91,283965971,,,Participaciones Accionarias Argentina,70
+e,Cedear Companhia Siderurgica Nacional,Cedear,Companhia Siderurgica Nacional,ARS,2.77,270304378,,,Participaciones Accionarias Argentina,3
+e,Cedear Micron Technology,Cedear,Micron Technology,ARS,2.52,245908676,,,Participaciones Accionarias Argentina,11
+e,Autopistas del Sol S.A.,Acción,Autopistas del Sol,ARS,2.3,224440459,,,Participaciones Accionarias Argentina,12
+e,Ishares MSCI Brasil,ETF,Ishares MSCI Brasil,,2.27,221512974,,,Certificados de Participacion Estados Unidos,5
+e,Banco Hipotecario S.A.,Acción,Banco Hipotecario,ARS,1.01,98558636,,,Participaciones Accionarias Argentina,8
+p,Fundcorp Crecimiento,CMF,RM y Otros ARS,76.5122,0.9191,12,,,,
+p,ConoSur Visus,Cono Sur,RM y Otros ARS,45.0906,0.6347,5,,,,
+p,DXA Retorno Total,Dracma,RM y Otros ARS,44.8669,0.5758,5,,,,
+p,Consultatio Acciones Argentina,Consultatio,RV ARG Merval,44.4734,0.5895,6,,,,
+p,SBS Acciones Argentina,SBS,RV ARG Merval,44.4166,0.5932,6,,,,
+p,Consultatio Rofex 20,Consultatio,RV ARG Rofex 20,44.3989,0.5809,5,,,,
+p,Adcap Acciones,Adcap,RV ARG Rofex 20,44.1266,0.6289,6,,,,
+p,Novus Renta Variable,Novus,RV ARG Merval,44.1216,0.6298,6,,,,

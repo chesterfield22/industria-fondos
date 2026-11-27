@@ -1,0 +1,75 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Argenfunds Calificado III,,,,,,,,
+m,gerente,Argenfunds S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RV Global,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1797036,,,,,,,,
+m,aum_planilla,1797034,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88492,,,,,,,,
+m,n_especies,23,,,,,,,,
+m,activos_pn,100.15,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,4.86,,,,,,,,
+m,top1,7.26,,,,,,,,
+m,top5,32.38,,,,,,,,
+m,top10,58.85,,,,,,,,
+m,hhi_especies,465.2235,,,,,,,,
+m,n_emisores,23,,,,,,,,
+m,emisor_top,Eli Lilly and Company,,,,,,,,
+m,emisor_top_pct,7.26,,,,,,,,
+m,hhi_emisores,465.2235,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,76.08,17,,,,,,,
+t,ETF,19.21,6,,,,,,,
+c,sin dato,95.29,,,,,,,,
+r,Disponibilidades,4.86,,,,,,,,
+r,Participaciones Accionarias Estados Unidos,72.15,,,,,,,,
+r,Participaciones Accionarias Uruguay,5.94,,,,,,,,
+r,Participaciones Accionarias Brasil,5.3,,,,,,,,
+r,Participaciones Accionarias Corea del Sur,2.61,,,,,,,,
+r,Certificados de Participacion Estados Unidos,9.29,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.15,,,,,,,,
+e,Eli Lilly and Company,Acción,Eli Lilly and Company,,7.26,130464.7918,,,Participaciones Accionarias Estados Unidos,1
+e,JP Morgan Chase Company,Acción,JP Morgan Chase Company,,7.01,125972.2026,,,Participaciones Accionarias Estados Unidos,1
+e,ADR Iberdrola,Acción,ADR Iberdrola,,6.13,110158.2884,,,Participaciones Accionarias Estados Unidos,1
+e,SPDR Consumer Staples,ETF,SPDR Consumer Staples,,6.04,108540.9563,,,Participaciones Accionarias Estados Unidos,1
+e,Mercado Libre Inc,Acción,Mercado Libre Inc,,5.94,106743.9206,,,Participaciones Accionarias Uruguay,1
+e,Chevron Texaco Corporation,Acción,Chevron Texaco Corporation,,5.87,105485.9956,,,Participaciones Accionarias Estados Unidos,1
+e,Palantir Technologies Inc.,Acción,Palantir Technologies Inc,,5.87,105485.9956,,,Participaciones Accionarias Estados Unidos,1
+e,Weg S.A.,Acción,Weg,,5.3,95242.8921,,,Participaciones Accionarias Brasil,4
+e,ADR Taiwan Semiconductor,Acción,ADR Taiwan Semiconductor,,4.83,86796.8243,,,Participaciones Accionarias Estados Unidos,3
+e,Nvidia Corp.,Acción,Nvidia Corp,,4.6,82663.6422,,,Participaciones Accionarias Estados Unidos,4
+e,ADR Vista Oil y Gas,Acción,ADR Vista Oil y Gas,,3.99,71701.7244,,,Participaciones Accionarias Estados Unidos,3
+e,Broadcom Inc.,Acción,Broadcom Inc,,3.95,70982.9101,,,Participaciones Accionarias Estados Unidos,4
+e,Roundhill Memory ETF,ETF,Roundhill Memory ETF,,3.88,69724.9852,,,Participaciones Accionarias Estados Unidos,1
+e,Global X Uranium ETF,ETF,Global X Uranium ETF,,3.53,63435.3602,,,Certificados de Participacion Estados Unidos,2
+e,ETF Roundhill Magnificent Seven,ETF,ETF Roundhill Magnificent Seven,,3.02,54270.4781,,,Certificados de Participacion Estados Unidos,1
+e,American Express Company,Acción,American Express Company,,2.88,51754.6282,,,Participaciones Accionarias Estados Unidos,1
+e,Amazon Com Inc,Acción,Amazon Com Inc,,2.79,50137.296,,,Participaciones Accionarias Estados Unidos,1
+e,SK Hynix Inc.,Acción,SK Hynix Inc,,2.61,46902.6318,,,Participaciones Accionarias Corea del Sur,1
+e,First Trust Porfolios,Acción,First Trust Porfolios,,2.47,44386.7818,,,Participaciones Accionarias Estados Unidos,1
+e,Google Incorporated,Acción,Google Incorporated,,2.4,43128.8568,,,Participaciones Accionarias Estados Unidos,1
+e,Goldman Sachs,Acción,Goldman Sachs,,2.18,39175.3783,,,Participaciones Accionarias Estados Unidos,1
+e,Ishares MSCI Brasil,ETF,Ishares MSCI Brasil,,2.12,38097.1568,,,Certificados de Participacion Estados Unidos,5
+e,ETF iShares Semiconductor,ETF,ETF iShares Semiconductor,,0.62,11141.6213,,,Certificados de Participacion Estados Unidos,1
+p,Consultatio Estrategia I,Consultatio,RV Global,10.497,0.1041,3,,,,
+p,Allaria Dólar Retorno Total,Allaria,RM y Otros USD,8.2454,0.0386,2,,,,
+p,Superfondo Acciones Brasil,Santander,RV Global,5.2827,0.0579,2,,,,
+p,Consultatio Estrategia III,Consultatio,RM y Otros USD,3.8053,0.0298,3,,,,
+p,Superfondo Latinoamerica,Santander,RV Global,2.9177,0.0292,1,,,,
+p,Cocos Acciones,Cocos,RV ARG Rofex 20,2.8557,0.0189,1,,,,
+p,Pionero Ahorro Dolár Plus,Macro,RF USD Disc,2.4781,0.0112,2,,,,
+p,DXA PMKT Total Return,Dracma,RV ARG Otros,2.2248,0.0067,1,,,,

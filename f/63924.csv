@@ -1,0 +1,76 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MEGAQM Gestión Dólares I,,,,,,,,
+m,gerente,MEGA QM S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Inc ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,30154188,,,,,,,,
+m,aum_planilla,30154188,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63924,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,100.01,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,3.16,,,,,,,,
+m,top1,14.14,,,,,,,,
+m,top5,49.98,,,,,,,,
+m,top10,80.45,,,,,,,,
+m,hhi_especies,789.0817,,,,,,,,
+m,n_emisores,14,,,,,,,,
+m,emisor_top,Pampa Energia,,,,,,,,
+m,emisor_top_pct,16.12,,,,,,,,
+m,hhi_emisores,1025.8435,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,51.71,8,,,,,,,
+t,ETF,17.63,2,,,,,,,
+t,Otro título de deuda,9.13,1,,,,,,,
+t,Soberano exterior,7.38,1,,,,,,,
+t,Corporativo exterior,6.56,2,,,,,,,
+t,Acción,4.39,1,,,,,,,
+t,Caución,2.82,1,,,,,,,
+t,FCI,0.05,1,,,,,,,
+c,USD,77.65,,,,,,,,
+c,sin dato,22.02,,,,,,,,
+r,Disponibilidades,0.34,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,74.78,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,2.82,,,,,,,,
+r,Participaciones Accionarias Chile,4.39,,,,,,,,
+r,Certificados de Participacion Estados Unidos,17.63,,,,,,,,
+r,Certificados de Participacion Argentina,0.05,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.01,,,,,,,,
+e,ETF SPDR Bloomberg Barclays,ETF,ETF SPDR Bloomberg Barclays,,14.14,4263802,,,Certificados de Participacion Estados Unidos,1
+e,ON Pampa Energia C21,ON,Pampa Energia,USD,11.77,3549148,,,Titulos de Deuda en Dolar Estadounidense,36
+e,Bono Corporativo 3.625% 010827,Otro título de deuda,Bono Corporativo,USD,9.13,2753077,,,Titulos de Deuda en Dolar Estadounidense,24
+e,ON Pluspetrol 8.5% 2032 (REGS),ON,Pluspetrol,USD,7.56,2279657,,,Titulos de Deuda en Dolar Estadounidense,34
+e,US Treasury Bill 241126,Soberano exterior,Tesoro EE.UU.,USD,7.38,2225379,,,Titulos de Deuda en Dolar Estadounidense,2
+e,ON Tecpetrol C10,ON,Tecpetrol,USD,6.75,2035408,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON YPF Clase 31,ON,YPF,USD,6.69,2017315,,,Titulos de Deuda en Dolar Estadounidense,48
+e,ON Pluspetrol Clase 5,ON,Pluspetrol,USD,6.44,1941930,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,USD,5.41,1631342,,,Titulos de Deuda en Dolar Estadounidense,58
+e,BC Banco Santander Chile 201130,Corporativo exterior,Banco Santander Chile,USD,5.18,1561987,,,Titulos de Deuda en Dolar Estadounidense,6
+e,Banco de Chile,Acción,Banco de Chile,,4.39,1323769,,,Participaciones Accionarias Chile,11
+e,ON Pampa Energia C26,ON,Pampa Energia,USD,4.35,1311707,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ETF Vanguard Short-Term Treasury,ETF,ETF Vanguard Short-Term Treasury,,3.49,1052381,,,Certificados de Participacion Estados Unidos,1
+e,Caucion Colocadora U$S Cable,Caución,Caución Cable,USD,2.82,850348.0914,,,Operaciones a Plazo en Dolar Estadounidense,3
+e,ON Tecpetrol C12,ON,Tecpetrol,USD,2.74,826224.7413,,,Titulos de Deuda en Dolar Estadounidense,60
+e,BC Cel Arauco 110227,Corporativo exterior,Cel Arauco,USD,1.38,416127.7894,,,Titulos de Deuda en Dolar Estadounidense,7
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,0.05,15077.0938,,,Certificados de Participacion Argentina,37
+p,Axis Rosental USD Strategic Income,Axis,RM y Otros USD,28.5795,0.4135,7,,,,
+p,Consultatio Infraestructura,Consultatio,INFRA,25.4452,0.366,4,,,,
+p,Balanz Ahorro en Dólares,Balanz,RF USD corp loc,22.414,0.3357,7,,,,
+p,Consultatio Multimercado III,Consultatio,RF USD corp loc,22.2269,0.2764,6,,,,
+p,Balanz Capital Estrategia V USD,Balanz,RF USD corp loc,21.829,0.2453,5,,,,
+p,Max Renta Fija Latam,Max Capital,RF USD GL Ex ARG,18.0735,0.1698,3,,,,
+p,Balanz Capital Estrategia II USD,Balanz,RF USD Disc,16.4024,0.1661,3,,,,
+p,Pionero Ahorro Dólares,Macro,RF USD corp loc,15.6093,0.1319,4,,,,

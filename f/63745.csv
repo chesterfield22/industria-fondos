@@ -1,0 +1,81 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Balanz Excalibur Regisseur,,,,,,,,
+m,gerente,Balanz S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,81147326683,,,,,,,,
+m,aum_planilla,81147326683,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63745,,,,,,,,
+m,n_especies,29,,,,,,,,
+m,activos_pn,100.05,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,14.25,,,,,,,,
+m,top5,59.32,,,,,,,,
+m,top10,78.96,,,,,,,,
+m,hhi_especies,848.2266,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,70.87,,,,,,,,
+m,hhi_emisores,5119.5286,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,70.87,11,,,,,,,
+t,ON,21.88,13,,,,,,,
+t,Subsoberano,7.08,4,,,,,,,
+t,FCI,0.23,1,,,,,,,
+c,ARS,99.83,,,,,,,,
+c,sin dato,0.23,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.81,,,,,,,,
+r,Certificados de Participacion Argentina,0.23,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.05,,,,,,,,
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,14.25,11563494052,,,Titulos de Deuda en Peso Argentina,146
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,13.58,11019806964,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,13.05,10589726132,,,Titulos de Deuda en Peso Argentina,84
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,9.96,8082273738,,,Titulos de Deuda en Peso Argentina,128
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,8.48,6881293303,,,Titulos de Deuda en Peso Argentina,84
+e,ON Bco Ciudad C24,ON,Banco Ciudad,ARS,5.44,4414414572,,,Titulos de Deuda en Peso Argentina,6
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,4.85,3935645344,,,Titulos de Deuda en Peso Argentina,82
+e,Letra Prov Rio Negro S1 240927,Subsoberano,Prov. Rio Negro,ARS,3.84,3116057345,,,Titulos de Deuda en Peso Argentina,9
+e,ON Rombo Cia Fciera S66,ON,Rombo Cia Fciera,ARS,2.81,2280239880,,,Titulos de Deuda en Peso Argentina,15
+e,ON Banco Nacion Argentina Clase 6,ON,Banco Nacion Argentina,ARS,2.7,2190977820,,,Titulos de Deuda en Peso Argentina,12
+e,ON Banco de Cordoba C5,ON,Banco de Cordoba,ARS,2.69,2182863088,,,Titulos de Deuda en Peso Argentina,11
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,2.59,2101715761,,,Titulos de Deuda en Peso Argentina,64
+e,ON Arcor C8,ON,Arcor,ARS,2.55,2069256830,,,Titulos de Deuda en Peso Argentina,22
+e,Bono del Tesoro 2.5% 2031,Soberano,Tesoro Nacional,ARS,1.82,1476881346,,,Titulos de Deuda en Peso Argentina,24
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,1.54,1249668831,,,Titulos de Deuda en Peso Argentina,52
+e,Boncer Mendoza C1,Soberano,Tesoro Nacional,ARS,1.46,1184750970,,,Titulos de Deuda en Peso Argentina,49
+e,ON Arcor C4,ON,Arcor,ARS,1.31,1063029980,,,Titulos de Deuda en Peso Argentina,28
+e,ON Edesa Clase 3,ON,Edesa,ARS,1.27,1030571049,,,Titulos de Deuda en Peso Argentina,21
+e,Bono Prov Cordoba 2027 COY27,Subsoberano,Prov. Cordoba,ARS,1.19,965653188,,,Titulos de Deuda en Peso Argentina,28
+e,Bono Prov Cordoba Clase 4,Subsoberano,Prov. Cordoba,ARS,1.14,925079524,,,Titulos de Deuda en Peso Argentina,37
+e,Bono Prov Cordoba Clase 6,Subsoberano,Prov. Cordoba,ARS,0.91,738440673,,,Titulos de Deuda en Peso Argentina,36
+e,ON Volkswagen Financial Services C16,ON,Volkswagen Financial Services,ARS,0.66,535572356,,,Titulos de Deuda en Peso Argentina,7
+e,Boncer TZXY7,Soberano,Tesoro Nacional,ARS,0.63,511228158,,,Titulos de Deuda en Peso Argentina,76
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,0.32,259671445,,,Titulos de Deuda en Peso Argentina,56
+e,ON BBVA Frances Cl 46,ON,BBVA Frances,ARS,0.26,210983049,,,Titulos de Deuda en Peso Argentina,35
+e,FCI Adcap Ahorro Pesos - Clase C,FCI,Adcap Ahorro Pesos,,0.23,186638851,,,Certificados de Participacion Argentina,15
+e,Bono Cuasipar ARS CUAP,Soberano,Tesoro Nacional,ARS,0.2,162294653,,,Titulos de Deuda en Peso Argentina,6
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,0.18,146065188,,,Titulos de Deuda en Peso Argentina,67
+e,ON GEMSA 15 GMCGO,ON,GEMSA,ARS,0.15,121720990,,,Titulos de Deuda en Peso Argentina,6
+p,Fima Renta Plus,Galicia,RF ARS CER,55.088,0.8679,6,,,,
+p,Axis Estrategia 15,Axis,RF MULT Disc,53.398,0.779,5,,,,
+p,SBS Renta Pesos,SBS,RF ARS Disc,51.7627,0.7723,11,,,,
+p,Fima Renta Pesos,Galicia,RF ARS CER,51.4092,0.826,5,,,,
+p,1810 Ahorros Activos,Proahorro,RF ARS CER,51.3102,0.7811,6,,,,
+p,Consultatio Deuda Argentina,Consultatio,RF ARS CER,51.2073,0.7746,8,,,,
+p,Consultatio Global,Consultatio,RF MULT Disc,50.4162,0.749,6,,,,
+p,Novus Performance,Novus,RF MULT Disc,46.9561,0.6411,5,,,,

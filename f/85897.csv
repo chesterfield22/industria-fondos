@@ -1,0 +1,85 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Quiron Money Market,,,,,,,,
+m,gerente,Quiron Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Plazo Fijo,,,,,,,,
+m,subtipo,MM ARS Clásico,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5442953083,,,,,,,,
+m,aum_planilla,5442953083,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85897,,,,,,,,
+m,n_especies,35,,,,,,,,
+m,activos_pn,99.09,,,,,,,,
+m,pasivos_cnv,0.91,,,,,,,,
+m,liquidez,58.26,,,,,,,,
+m,top1,6.36,,,,,,,,
+m,top5,26.01,,,,,,,,
+m,top10,38,,,,,,,,
+m,hhi_especies,176.4673,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Banco Cordoba,,,,,,,,
+m,emisor_top_pct,6.36,,,,,,,,
+m,hhi_emisores,173.3523,,,,,,,,
+m,sin_emisor_pct,6.48,,,,,,,,
+t,Plazo fijo,34.34,11,,,,,,,
+t,Cheque,6.48,23,,,,,,,
+t,Caución,5.51,1,,,,,,,
+c,ARS,46.33,,,,,,,,
+r,Disponibilidades,52.75,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,6.48,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,39.86,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.91,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.91,,,,,,,,
+e,Pzo Fi $ Bco Cordoba,Plazo fijo,Banco Cordoba,ARS,6.36,346171816,,,Operaciones a Plazo en Peso Argentina,41
+e,Pzo Fi $ Bco Coinag,Plazo fijo,Banco Coinag,ARS,6.32,343994635,,,Operaciones a Plazo en Peso Argentina,12
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,5.51,299906715,,,Operaciones a Plazo en Peso Argentina,195
+e,Pzo Fi $ Bco Nacion,Plazo fijo,Banco Nacion,ARS,4.56,248198661,,,Operaciones a Plazo en Peso Argentina,84
+e,Pzo Fi $ Bco Mariva,Plazo fijo,Banco Mariva,ARS,3.26,177440270,,,Operaciones a Plazo en Peso Argentina,32
+e,Pzo Fi $ Bco Bibank,Plazo fijo,Banco Bibank,ARS,2.94,160022821,,,Operaciones a Plazo en Peso Argentina,12
+e,Pzo Fi $ Bco Supervielle,Plazo fijo,Banco Supervielle,ARS,2.64,143693961,,,Operaciones a Plazo en Peso Argentina,37
+e,Pzo Fi $ Nvo Bco Indus,Plazo fijo,Nvo Bco Indus,ARS,2.38,129542283,,,Operaciones a Plazo en Peso Argentina,44
+e,Pzo Fi $ Bco BBVA,Plazo fijo,Banco BBVA,ARS,2.04,111036243,,,Operaciones a Plazo en Peso Argentina,46
+e,Pzo Fi $ Bco Hipotecario,Plazo fijo,Banco Hipotecario,ARS,1.99,108314766,,,Operaciones a Plazo en Peso Argentina,14
+e,Pzo Fi $ Bco Patagonia,Plazo fijo,Banco Patagonia,ARS,1.11,60416779,,,Operaciones a Plazo en Peso Argentina,42
+e,Pzo Fi $ Bco Valores,Plazo fijo,Banco Valores,ARS,0.74,40277853,,,Operaciones a Plazo en Peso Argentina,12
+e,Cheque E *MAV091100974,Cheque,,ARS,0.55,29936242,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV061101122,Cheque,,ARS,0.55,29936242,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091100973,Cheque,,ARS,0.55,29936242,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041101267,Cheque,,ARS,0.55,29936242,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051101192,Cheque,,ARS,0.55,29936242,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV111101426,Cheque,,ARS,0.55,29936242,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131101244,Cheque,,ARS,0.55,29936242,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301101911,Cheque,,ARS,0.54,29391947,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV271101332,Cheque,,ARS,0.54,29391947,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV161101106,Cheque,,ARS,0.54,29391947,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101201565,Cheque,,ARS,0.18,9797316,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051101106,Cheque,,ARS,0.18,9797316,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV191101277,Cheque,,ARS,0.18,9797316,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FAEC011200002,Cheque,,ARS,0.09,4898658,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAVR261100102,Cheque,,ARS,0.05,2721477,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAVR281200059,Cheque,,ARS,0.05,2721477,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAVR291200042,Cheque,,ARS,0.05,2721477,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAVR301200114,Cheque,,ARS,0.05,2721477,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAVR271100082,Cheque,,ARS,0.05,2721477,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAVR301100135,Cheque,,ARS,0.05,2721477,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FAEC311200004,Cheque,,ARS,0.04,2177181,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *CUY231100030,Cheque,,ARS,0.02,1088591,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *CUY231100031,Cheque,,ARS,0.02,1088591,,,Titulos de Deuda en Peso Argentina,1
+p,Crecer Liquidez,Ciudad,MM ARS Clásico,47.7042,0.5115,10,,,,
+p,BM Smart Money Market,Bull Market,MM ARS Clásico,47.3822,0.6193,7,,,,
+p,Consultatio Zero,Consultatio,MM ARS Clásico,45.8243,0.597,6,,,,
+p,Unico Liquidez Pesos,Comafi,MM ARS Clásico,44.499,0.5969,7,,,,
+p,Fundcorp Liquidez,CMF,MM ARS Clásico,44.4615,0.5836,9,,,,
+p,SBS Ahorro Pesos,SBS,MM ARS Clásico,43.5044,0.5311,8,,,,
+p,Novus Liquidez Fondo de Dinero,Novus,MM ARS Clásico,42.8627,0.59,5,,,,
+p,BAVSA Ahorro,BAVSA,MM ARS Clásico,42.4489,0.6993,5,,,,

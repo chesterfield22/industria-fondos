@@ -1,0 +1,85 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Parakeet Renta Pesos,,,,,,,,
+m,gerente,Parakeet S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,30887240120,,,,,,,,
+m,aum_planilla,30887240120,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86916,,,,,,,,
+m,n_especies,31,,,,,,,,
+m,activos_pn,100.12,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,16.56,,,,,,,,
+m,top5,65.28,,,,,,,,
+m,top10,87.9,,,,,,,,
+m,hhi_especies,1037.7047,,,,,,,,
+m,n_emisores,9,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,67.5,,,,,,,,
+m,hhi_emisores,4728.5672,,,,,,,,
+m,sin_emisor_pct,7.79,,,,,,,,
+t,Soberano,67.5,6,,,,,,,
+t,Subsoberano,14.58,3,,,,,,,
+t,ON,7.85,3,,,,,,,
+t,Cheque,7.79,15,,,,,,,
+t,FCI,1.52,1,,,,,,,
+t,Fideicomiso financiero,0.87,3,,,,,,,
+c,ARS,97.72,,,,,,,,
+c,sin dato,2.39,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,97.73,,,,,,,,
+r,Certificados de Participacion Argentina,2.39,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.12,,,,,,,,
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,16.56,5114926964,,,Titulos de Deuda en Peso Argentina,142
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,15.59,4815320735,,,Titulos de Deuda en Peso Argentina,160
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,12.37,3820751603,,,Titulos de Deuda en Peso Argentina,61
+e,Letra Prov Bs As LBN26,Subsoberano,Prov. Buenos Aires,ARS,11.27,3480991961,,,Titulos de Deuda en Peso Argentina,14
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,9.49,2931199087,,,Titulos de Deuda en Peso Argentina,61
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,8.31,2566729654,,,Titulos de Deuda en Peso Argentina,166
+e,ON Banco Prov Clase 6,ON,Banco Provincia,ARS,5.29,1633935002,,,Titulos de Deuda en Peso Argentina,43
+e,Bono Bocon 2029 PR17,Soberano,Tesoro Nacional,ARS,5.18,1599959038,,,Titulos de Deuda en Peso Argentina,15
+e,Cheque E *MAV091101317,Cheque,,ARS,1.92,593035010,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091101316,Cheque,,ARS,1.92,593035010,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091101315,Cheque,,ARS,1.92,593035010,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091101314,Cheque,,ARS,1.92,593035010,,,Titulos de Deuda en Peso Argentina,1
+e,ON BACS Clase 19,ON,BACS,ARS,1.72,531260530,,,Titulos de Deuda en Peso Argentina,19
+e,Letra Prov Chubut S122 C1,Subsoberano,Prov. Chubut,ARS,1.68,518905634,,,Titulos de Deuda en Peso Argentina,12
+e,Letra Prov Chubut S123 C1,Subsoberano,Prov. Chubut,ARS,1.63,503462014,,,Titulos de Deuda en Peso Argentina,14
+e,FCI Champaquí Fondo Inmediato - Clase B,FCI,Champaquí Fondo Inmediato,,1.52,469486050,,,Certificados de Participacion Argentina,10
+e,ON Lab. Richmond S8 Clase A,ON,Lab. Richmond,ARS,0.84,259452817,,,Titulos de Deuda en Peso Argentina,8
+e,FF Confibono S83 Clase A,Fideicomiso financiero,Confibono,,0.36,111194064,,,Certificados de Participacion Argentina,11
+e,FF Megabono 331 Clase A,Fideicomiso financiero,Megabono,,0.27,83395548,,,Certificados de Participacion Argentina,5
+e,FF Megabono 324 Clase A,Fideicomiso financiero,Megabono,,0.24,74129376,,,Certificados de Participacion Argentina,9
+e,Cheque ACPY151201442,Cheque,,ARS,0.01,3088724,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque ACPY151101432,Cheque,,ARS,0.01,3088724,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ACI301200477,Cheque,,ARS,0.01,3088724,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ACI231200297,Cheque,,ARS,0.01,3088724,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ACI231100142,Cheque,,ARS,0.01,3088724,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ACI151200425,Cheque,,ARS,0.01,3088724,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ACI301100532,Cheque,,ARS,0.01,3088724,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ACI070100254,Cheque,,ARS,0.01,3088724,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ACI071100284,Cheque,,ARS,0.01,3088724,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ACI071200180,Cheque,,ARS,0.01,3088724,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ACI151100376,Cheque,,ARS,0.01,3088724,,,Titulos de Deuda en Peso Argentina,1
+p,Novus Liquidez Plus,Novus,T+1,41.2546,0.5758,5,,,,
+p,Gainvest Renta Fija,StoneX,T+1,38.5445,0.5738,3,,,,
+p,BAVSA Global III,BAVSA,RF MULT Disc,35.8568,0.5187,3,,,,
+p,Argenfunds Renta Mixta,Argenfunds,RF ARS Lecap,34.5178,0.4417,3,,,,
+p,Pionero Moneda,Macro,RF MULT Disc,33.6001,0.445,4,,,,
+p,Cocos Crecimiento,Cocos,T+1,33.5854,0.4273,3,,,,
+p,Galileo Multimercado VII,Delta,RF ARS Disc,33.0263,0.5184,5,,,,
+p,GMC Multiestrategia II,GMC,RM y Otros ARS,32.728,0.4141,3,,,,

@@ -1,0 +1,63 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Balanz Capital Estrategia IV USD,,,,,,,,
+m,gerente,Balanz S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Inc ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,8459192,,,,,,,,
+m,aum_planilla,8459192,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86368,,,,,,,,
+m,n_especies,10,,,,,,,,
+m,activos_pn,100.12,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.28,,,,,,,,
+m,top1,24.33,,,,,,,,
+m,top5,79.79,,,,,,,,
+m,top10,99.83,,,,,,,,
+m,hhi_especies,1565.4385,,,,,,,,
+m,n_emisores,9,,,,,,,,
+m,emisor_top,Chile (soberano),,,,,,,,
+m,emisor_top_pct,27.6,,,,,,,,
+m,hhi_emisores,1933.4153,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano exterior,76.04,5,,,,,,,
+t,Corporativo exterior,11.1,2,,,,,,,
+t,Otro título de deuda,5.9,1,,,,,,,
+t,BCRA,5.7,1,,,,,,,
+t,ON,1.09,1,,,,,,,
+c,sin dato,82.67,,,,,,,,
+c,USD,17.16,,,,,,,,
+r,Disponibilidades,0.28,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Cable,82.67,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,17.17,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.12,,,,,,,,
+e,US Treasury Bill 013127,Soberano exterior,Tesoro EE.UU.,,24.33,2058121,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,BR Rep Brasil 28,Soberano exterior,Brasil (soberano),,20.85,1763742,,,Titulos de Deuda en Dolar Estadounidense Cable,11
+e,CL Rep Chile 28,Soberano exterior,Chile (soberano),,16.34,1382232,,,Titulos de Deuda en Dolar Estadounidense Cable,18
+e,CL Rep Chile 2027,Soberano exterior,Chile (soberano),USD,11.26,952505.0305,,,Titulos de Deuda en Dolar Estadounidense,22
+e,BC Bco Credito e Inv 2027,Corporativo exterior,Banco Credito e Inv,,7.01,592989.3662,,,Titulos de Deuda en Dolar Estadounidense Cable,16
+e,Bono Corporativo 3.625% 010827,Otro título de deuda,Bono Corporativo,USD,5.9,499092.3339,,,Titulos de Deuda en Dolar Estadounidense,24
+e,Bono Bopreal 2027 Serie 1 Clase D BPOD7,BCRA,BCRA,,5.7,482173.9497,,,Titulos de Deuda en Dolar Estadounidense Cable,22
+e,BC Petrobras 281029,Corporativo exterior,Petrobras,,4.09,345980.9569,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,UY Rep Or Uruguay 271027,Soberano exterior,Uruguay (soberano),,3.26,275769.6625,,,Titulos de Deuda en Dolar Estadounidense Cable,3
+e,ON Banco Macro Clase G,ON,Banco Macro,,1.09,92205.1939,,,Titulos de Deuda en Dolar Estadounidense Cable,32
+p,Pionero Renta Dólares,Macro,RF USD GL Ex ARG,53.6042,0.6342,4,,,,
+p,Balanz Capital Sudamericano,Balanz,RF USD GL Ex ARG,41.8306,0.4874,6,,,,
+p,Fima Renta Fija Internacional,Galicia,RF USD GL Ex ARG,35.8227,0.4388,4,,,,
+p,Consultatio Income Fund,Consultatio,RF USD GL Ex ARG,30.9427,0.4707,5,,,,
+p,Toronto Trust Liquidez Dólar,Investis,RF USD GL Ex ARG,30.1798,0.3238,5,,,,
+p,Lombard Renta Fija en Dolares,Patagonia,RF USD GL Ex ARG,28.506,0.3436,5,,,,
+p,Stonex Global I,StoneX,RF USD GL Ex ARG,27.647,0.345,2,,,,
+p,MEGAQM Renta Fija LATAM,MegaQM,RF USD GL Ex ARG,26.7099,0.3813,5,,,,

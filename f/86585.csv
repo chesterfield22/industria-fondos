@@ -1,0 +1,113 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,IOL Dólar Ahorro Plus,,,,,,,,
+m,gerente,Adcap Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,346000400,,,,,,,,
+m,aum_planilla,346000400,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86585,,,,,,,,
+m,n_especies,60,,,,,,,,
+m,activos_pn,98.35,,,,,,,,
+m,pasivos_cnv,1.65,,,,,,,,
+m,liquidez,0.19,,,,,,,,
+m,top1,22.19,,,,,,,,
+m,top5,49.49,,,,,,,,
+m,top10,65.03,,,,,,,,
+m,hhi_especies,785.3487,,,,,,,,
+m,n_emisores,32,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,25.36,,,,,,,,
+m,hhi_emisores,1123.4049,,,,,,,,
+m,sin_emisor_pct,0.48,,,,,,,,
+t,ON,50.17,43,,,,,,,
+t,Soberano,25.36,2,,,,,,,
+t,BCRA,16.72,2,,,,,,,
+t,Subsoberano,3.96,4,,,,,,,
+t,FCI,1.5,1,,,,,,,
+t,Pagaré,0.48,8,,,,,,,
+c,USD,98.19,,,,,,,,
+r,Disponibilidades,0.19,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,96.66,,,,,,,,
+r,Certificados de Participacion Argentina,1.5,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,1.65,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-1.65,,,,,,,,
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,22.19,76777489,,,Titulos de Deuda en Dolar Estadounidense,83
+e,Bono Bopreal 2027 Serie 1 Clase D BPOD7,BCRA,BCRA,USD,10.48,36260842,,,Titulos de Deuda en Dolar Estadounidense,22
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,USD,6.24,21590425,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON Banco Macro Clase G,ON,Banco Macro,USD,6.09,21071424,,,Titulos de Deuda en Dolar Estadounidense,32
+e,ON Tecpetrol C12,ON,Tecpetrol,USD,4.49,15535418,,,Titulos de Deuda en Dolar Estadounidense,60
+e,ON ICBC Clase 6 220527,ON,ICBC,USD,4.27,14774217,,,Titulos de Deuda en Dolar Estadounidense,18
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,USD,3.17,10968213,,,Titulos de Deuda en Dolar Estadounidense,74
+e,ON Banco Mariva S3 060727,ON,Banco Mariva,USD,2.84,9826411,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Supervielle Clase X,ON,Supervielle,USD,2.76,9549611,,,Titulos de Deuda en Dolar Estadounidense,18
+e,ON BBVA Frances Cl 44,ON,BBVA Frances,USD,2.5,8650010,,,Titulos de Deuda en Dolar Estadounidense,24
+e,ON Pampa Energia C23 (RegS),ON,Pampa Energia,USD,2.24,7750409,,,Titulos de Deuda en Dolar Estadounidense,36
+e,Bono Prov Santa Fe 8.1% 111234,Subsoberano,Prov. Santa Fe,USD,2.11,7300608,,,Titulos de Deuda en Dolar Estadounidense,37
+e,ON Supervielle Clase V,ON,Supervielle,USD,1.88,6504808,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON ICBC Clase 9 280827,ON,ICBC,USD,1.6,5536006,,,Titulos de Deuda en Dolar Estadounidense,13
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,1.5,5190006,,,Certificados de Participacion Argentina,37
+e,ON Banco Comafi C21,ON,Banco Comafi,USD,1.23,4255805,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON YPF Luz C18 YFCJO,ON,YPF Luz,USD,1.21,4186605,,,Titulos de Deuda en Dolar Estadounidense,41
+e,ON BBVA Frances Cl 49,ON,BBVA Frances,USD,1.18,4082805,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Epec C1,ON,Epec,USD,1.04,3598404,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON Grupo ST C14,ON,Grupo ST,USD,1.03,3563804,,,Titulos de Deuda en Dolar Estadounidense,6
+e,Bono Prov Santa Fe 2027 SF27D,Subsoberano,Prov. Santa Fe,USD,0.95,3287004,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON P. Aconcagua Energia C23,ON,P. Aconcagua Energia,USD,0.95,3287004,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Banco Prov Clase 8,ON,Banco Provincia,USD,0.94,3252404,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Arcor Clase 26,ON,Arcor,USD,0.92,3183204,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Bco Provincia Cl 5 PVC5O,ON,Banco Provincia,USD,0.89,3079404,,,Titulos de Deuda en Dolar Estadounidense,17
+e,ON P. Aconcagua Energia C22,ON,P. Aconcagua Energia,USD,0.89,3079404,,,Titulos de Deuda en Dolar Estadounidense,7
+e,ON Banco Hipotecario C14,ON,Banco Hipotecario,USD,0.82,2837203,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Bco Serv Transac C26,ON,Banco Serv Transac,USD,0.82,2837203,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON MSU Green C3,ON,MSU Green,USD,0.82,2837203,,,Titulos de Deuda en Dolar Estadounidense,2
+e,ON Rizobacter S 11 CC,ON,Rizobacter,USD,0.79,2733403,,,Titulos de Deuda en Dolar Estadounidense,4
+e,ON Bco CMF Serie 20,ON,Banco CMF,USD,0.65,2249003,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON BBVA Frances Cl 50,ON,BBVA Frances,USD,0.63,2179803,,,Titulos de Deuda en Dolar Estadounidense,30
+e,ON Banco Comafi C24,ON,Banco Comafi,USD,0.59,2041402,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON Supervielle Clase W,ON,Supervielle,USD,0.59,2041402,,,Titulos de Deuda en Dolar Estadounidense,22
+e,ON Bco Patagonia Cl 5,ON,Banco Patagonia,USD,0.58,2006802,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Banco Hipotecario C15,ON,Banco Hipotecario,USD,0.58,2006802,,,Titulos de Deuda en Dolar Estadounidense,18
+e,ON MSU Energy C13,ON,MSU Energy,USD,0.58,2006802,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON Banco Hipotecario C16,ON,Banco Hipotecario,USD,0.57,1972202,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Pampa Energia C26,ON,Pampa Energia,USD,0.55,1903002,,,Titulos de Deuda en Dolar Estadounidense,38
+e,Bono Prov Cordoba 030235,Subsoberano,Prov. Cordoba,USD,0.55,1903002,,,Titulos de Deuda en Dolar Estadounidense,29
+e,ON Banco Macro Clase H Reg S,ON,Banco Macro,USD,0.52,1799202,,,Titulos de Deuda en Dolar Estadounidense,23
+e,ON Bco Serv Transac C28,ON,Banco Serv Transac,USD,0.43,1487802,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Bco Serv Transac C29,ON,Banco Serv Transac,USD,0.43,1487802,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Banco Comafi C26,ON,Banco Comafi,USD,0.41,1418602,,,Titulos de Deuda en Dolar Estadounidense,11
+e,Bono Prov Neuquen 2028 NDT11,Subsoberano,Prov. Neuquen,USD,0.35,1211001,,,Titulos de Deuda en Dolar Estadounidense,4
+e,ON Bco Serv Transac C31,ON,Banco Serv Transac,USD,0.29,1003401,,,Titulos de Deuda en Dolar Estadounidense,19
+e,Pagare #UMV050270010,Pagaré,,USD,0.28,968801.1189,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Supervielle Clase T,ON,Supervielle,USD,0.21,726600.8392,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON Pan Amer. Energy C 12,ON,Pan Amer. Energy,USD,0.13,449800.5195,,,Titulos de Deuda en Dolar Estadounidense,34
+e,ON Genneia Clase 50,ON,Genneia,USD,0.12,415200.4795,,,Titulos de Deuda en Dolar Estadounidense,19
+e,Pagare #UMV101160018,Pagaré,,USD,0.06,207600.2398,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Plaza Logistica C15,ON,Plaza Logistica,USD,0.05,173000.1998,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Crown Point Energy C10,ON,Crown Point Energy,USD,0.04,138400.1598,,,Titulos de Deuda en Dolar Estadounidense,4
+e,Pagare #UMV141260003,Pagaré,,USD,0.03,103800.1199,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV121160007,Pagaré,,USD,0.03,103800.1199,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Profertil C2,ON,Profertil,USD,0.02,69200.0799,,,Titulos de Deuda en Dolar Estadounidense,20
+e,Pagare #UMV191250039,Pagaré,,USD,0.02,69200.0799,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV191250040,Pagaré,,USD,0.02,69200.0799,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV191250041,Pagaré,,USD,0.02,69200.0799,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV191250042,Pagaré,,USD,0.02,69200.0799,,,Titulos de Deuda en Dolar Estadounidense,1
+p,Novus Ahorro Dólares,Novus,RF USD Disc,42.1785,0.8281,4,,,,
+p,Superfondo Renta Fija Dólares,Santander,RF USD GL Inc ARG,36.1175,0.6531,16,,,,
+p,Pionero Dólar Gestión,Macro,RF USD Disc,35.1479,0.8017,3,,,,
+p,Novus Capital,Novus,RM y Otros USD,33.3795,0.5874,11,,,,
+p,FBA Renta Fija Dólar Plus I,BBVA,RF USD Disc,33.3332,0.6819,4,,,,
+p,Allaria Dólar Performance II,Allaria,RF USD Disc,31.7923,0.61,3,,,,
+p,Delta Renta Dolares,Delta,RF USD Disc,29.7762,0.5353,3,,,,
+p,Schroder Retorno Total Cuatro,Schroder,RF USD CP,28.9757,0.5479,6,,,,

@@ -1,0 +1,62 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MAF Gestión Activa,,,,,,,,
+m,gerente,Mariva Asset Management S.A.U.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Mariva S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,31524509,,,,,,,,
+m,aum_planilla,31524499,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63838,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,100.01,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,8.87,,,,,,,,
+m,top1,28.62,,,,,,,,
+m,top5,89.36,,,,,,,,
+m,top10,91.1,,,,,,,,
+m,hhi_especies,2012.0053,,,,,,,,
+m,n_emisores,8,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,86.47,,,,,,,,
+m,hhi_emisores,7491.1263,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,86.47,5,,,,,,,
+t,FCI,4.66,7,,,,,,,
+c,ARS,86.47,,,,,,,,
+c,sin dato,4.66,,,,,,,,
+r,Disponibilidades,8.87,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,86.48,,,,,,,,
+r,Certificados de Participacion Argentina,4.66,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.01,,,,,,,,
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,28.62,9022314,,,Titulos de Deuda en Peso Argentina,51
+e,Bono Dual TXMJ8,Soberano,Tesoro Nacional,ARS,26.24,8272031,,,Titulos de Deuda en Peso Argentina,45
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,18.21,5740613,,,Titulos de Deuda en Peso Argentina,66
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,12.57,3962631,,,Titulos de Deuda en Peso Argentina,146
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,3.72,1172712,,,Certificados de Participacion Argentina,93
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,0.83,261653.4244,,,Titulos de Deuda en Peso Argentina,160
+e,FCI ST Zero - Clase C,FCI,ST Zero,,0.31,97725.9778,,,Certificados de Participacion Argentina,14
+e,FCI Toronto T Ahorro B,FCI,Toronto T Ahorro B,,0.26,81963.7233,,,Certificados de Participacion Argentina,10
+e,FCI Ciclo Nova Ahorro - Clase E,FCI,Ciclo Nova Ahorro,,0.22,69353.9197,,,Certificados de Participacion Argentina,38
+e,FCI Schroder Liquidez - Clase B,FCI,Schroder Liquidez,,0.12,37829.4108,,,Certificados de Participacion Argentina,44
+e,FCI Pionero Pesos Plus - Clase A,FCI,Pionero Pesos Plus,,0.02,6304.9018,,,Certificados de Participacion Argentina,2
+e,FCI Compass Liquidez - Clase B,FCI,Compass Liquidez,,0.01,3152.4509,,,Certificados de Participacion Argentina,1
+p,MAF Renta Mixta,Mariva,RM y Otros ARS,41.0827,0.5256,2,,,,
+p,First Renta Mixta II,First Cap Mkts,RV ARG Rofex 20,35.2208,0.4652,5,,,,
+p,Pionero Renta,Macro,RF ARS CER,31.6072,0.4385,4,,,,
+p,Argenfunds Renta Balanceada,Argenfunds,RF ARS CER,29.3027,0.3939,2,,,,
+p,Wise Capital Equity,Wise,RV ARG Merval,25.9806,0.3369,1,,,,
+p,Allaria Gestion II,Allaria,RF ARS Disc,25.0175,0.3375,1,,,,
+p,Pampa BAVSA Pesos Plus,BAVSA,RM y Otros ARS,24.9428,0.3387,1,,,,
+p,CMA Estrategia Pesos,Capital Mark..,RF MULT Disc,22.8852,0.3355,3,,,,

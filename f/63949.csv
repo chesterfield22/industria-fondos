@@ -1,0 +1,36 @@
+s,a,b
+m,fondo,GMC Retorno Total
+m,gerente,GMC Asset Management S.A.U.
+m,depositaria,Banco de Valores S.A.
+m,clasificacion,Renta Mixta
+m,subtipo,RM y Otros ARS
+m,moneda_fondo,Peso Argentina
+m,region,Global
+m,horizonte,Mediano Plazo
+m,cartera_al,2026-11-05
+m,dias,21
+m,fecha_anterior,
+m,pn,5146847926
+m,aum_planilla,5146847926
+m,dif_pn_aum,0
+m,relevado,2026-11-25 23:58
+m,estado,atipica
+m,aviso,"Datos atípicos: activos 0,04% del patrimonio, pasivos informados 99,96%. Se muestra como lo informa la CNV.  ·  Sin especies informadas (solo rubros)."
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63949
+m,n_especies,0
+m,activos_pn,0.04
+m,pasivos_cnv,99.96
+m,liquidez,0.04
+m,top1,0
+m,top5,0
+m,top10,0
+m,hhi_especies,
+m,n_emisores,0
+m,emisor_top,
+m,emisor_top_pct,
+m,hhi_emisores,
+m,sin_emisor_pct,0
+r,Disponibilidades,0.04
+r,Otros Activos,
+r,Pasivos,99.96
+r,Activos − 100% (financiamiento / pasivos netos),-99.96

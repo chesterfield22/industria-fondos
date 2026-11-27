@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MEGAQM Estrategia 7,,,,,,,,
+m,gerente,MEGA QM S.A.,,,,,,,,
+m,depositaria,Banco de Servicios y Transacciones S.A. (BST),,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,209329695795,,,,,,,,
+m,aum_planilla,209329695795,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63432,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,100.05,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,28.86,,,,,,,,
+m,top5,99.19,,,,,,,,
+m,top10,99.97,,,,,,,,
+m,hhi_especies,2171.7715,,,,,,,,
+m,n_emisores,8,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,99.19,,,,,,,,
+m,hhi_emisores,9838.8041,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,99.19,5,,,,,,,
+t,FCI,0.67,4,,,,,,,
+t,ON,0.14,2,,,,,,,
+t,Subsoberano,0.03,1,,,,,,,
+c,ARS,99.36,,,,,,,,
+c,sin dato,0.47,,,,,,,,
+c,USD,0.2,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.37,,,,,,,,
+r,Certificados de Participacion Argentina,0.67,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.05,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,28.86,60412550207,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,22.79,47706237672,,,Titulos de Deuda en Peso Argentina,51
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,20.59,43100984364,,,Titulos de Deuda en Peso Argentina,142
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,17.49,36611763795,,,Titulos de Deuda en Peso Argentina,67
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,9.46,19802589222,,,Titulos de Deuda en Peso Argentina,136
+e,FCI BM Smart Money Market - Clase B,FCI,BM Smart Money Market,,0.22,460525331,,,Certificados de Participacion Argentina,34
+e,FCI Cocos Ahorro - Clase C,FCI,Cocos Ahorro,,0.21,439592361,,,Certificados de Participacion Argentina,32
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,0.2,418659392,,,Certificados de Participacion Argentina,37
+e,ON Bco Columbia S2,ON,Banco Columbia,ARS,0.11,230262665,,,Titulos de Deuda en Peso Argentina,1
+e,FCI SBS Ahorro Pesos Cl B,FCI,SBS Ahorro Pesos Cl B,,0.04,83731878,,,Certificados de Participacion Argentina,46
+e,ON Banco de Valores C1,ON,Banco de Valores,ARS,0.03,62798909,,,Titulos de Deuda en Peso Argentina,14
+e,Bono Prov Cordoba 2027 COY27,Subsoberano,Prov. Cordoba,ARS,0.03,62798909,,,Titulos de Deuda en Peso Argentina,28
+p,Allaria Gestion II,Allaria,RF ARS Disc,68.035,0.7782,3,,,,
+p,Pampa BAVSA Pesos Plus,BAVSA,RM y Otros ARS,67.7228,0.7778,3,,,,
+p,Allaria Renta Mixta,Allaria,RM y Otros ARS,58.8923,0.7099,3,,,,
+p,Allaria Estrategico,Allaria,RM y Otros ARS,57.7518,0.7125,4,,,,
+p,Novus Retorno Total,Novus,RF MULT Disc,55.9741,0.6967,3,,,,
+p,Galileo Ahorro Plus,Delta,T+1,49.3966,0.6939,4,,,,
+p,Novus Gestion,Novus,RF ARS Disc,48.1691,0.6613,3,,,,
+p,Toronto Trust Dinamico,Investis,RF MULT Disc,47.3184,0.694,3,,,,

@@ -1,0 +1,83 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Stonex Balanceado VIII,,,,,,,,
+m,gerente,StoneX Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,11461806195,,,,,,,,
+m,aum_planilla,11461806195,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86198,,,,,,,,
+m,n_especies,28,,,,,,,,
+m,activos_pn,100.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,2.1,,,,,,,,
+m,top1,14.28,,,,,,,,
+m,top5,46.64,,,,,,,,
+m,top10,68.71,,,,,,,,
+m,hhi_especies,639.009,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,54.13,,,,,,,,
+m,hhi_emisores,3076.0812,,,,,,,,
+m,sin_emisor_pct,9.42,,,,,,,,
+t,Soberano,54.13,10,,,,,,,
+t,ON,30.07,12,,,,,,,
+t,Pagaré,9.42,1,,,,,,,
+t,Subsoberano,2.74,2,,,,,,,
+t,Fideicomiso financiero,1.56,3,,,,,,,
+c,ARS,95.5,,,,,,,,
+c,sin dato,1.56,,,,,,,,
+c,USD,0.86,,,,,,,,
+r,Disponibilidades,2.1,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,95.5,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,0.86,,,,,,,,
+r,Certificados de Participacion Argentina,1.56,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.02,,,,,,,,
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,14.28,1636745925,,,Titulos de Deuda en Peso Argentina,158
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,9.5,1088871589,,,Titulos de Deuda en Peso Argentina,92
+e,Pagare #MAV110170023,Pagaré,,ARS,9.42,1079702144,,,Titulos de Deuda en Peso Argentina,1
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,6.94,795449350,,,Titulos de Deuda en Peso Argentina,61
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,ARS,6.5,745017403,,,Titulos de Deuda en Peso Argentina,72
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,5.51,631545521,,,Titulos de Deuda en Peso Argentina,80
+e,Bono CER TZX27,Soberano,Tesoro Nacional,ARS,4.58,524950724,,,Titulos de Deuda en Peso Argentina,43
+e,ON Volkswagen Financial Services C15,ON,Volkswagen Financial Services,ARS,4.52,518073640,,,Titulos de Deuda en Peso Argentina,19
+e,Bono Dual TXMJ8,Soberano,Tesoro Nacional,ARS,3.92,449302803,,,Titulos de Deuda en Peso Argentina,45
+e,ON Banco Comafi C22,ON,Banco Comafi,ARS,3.54,405747939,,,Titulos de Deuda en Peso Argentina,30
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,3.53,404601759,,,Titulos de Deuda en Peso Argentina,118
+e,ON Bco Provincia Cl 4,ON,Banco Provincia,ARS,3.32,380531966,,,Titulos de Deuda en Peso Argentina,25
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,2.73,312907309,,,Titulos de Deuda en Peso Argentina,146
+e,Boncer TZXY7,Soberano,Tesoro Nacional,ARS,2.72,311761129,,,Titulos de Deuda en Peso Argentina,76
+e,ON Credicuotas Consumo S22,ON,Credicuotas Consumo,ARS,2.32,265913904,,,Titulos de Deuda en Peso Argentina,8
+e,ON Credicuotas Consumo S17,ON,Credicuotas Consumo,ARS,2.23,255598278,,,Titulos de Deuda en Peso Argentina,16
+e,ON Banco Hipotecario C11,ON,Banco Hipotecario,ARS,1.85,212043415,,,Titulos de Deuda en Peso Argentina,21
+e,ON Tarj Naranja C66 S1,ON,Tarj Naranja,ARS,1.84,210897234,,,Titulos de Deuda en Peso Argentina,17
+e,Bono Prov Cordoba Clase 5,Subsoberano,Prov. Cordoba,ARS,1.83,209751053,,,Titulos de Deuda en Peso Argentina,19
+e,ON Credicuotas Consumo S20,ON,Credicuotas Consumo,ARS,1.7,194850705,,,Titulos de Deuda en Peso Argentina,19
+e,ON BBVA Frances Cl 38,ON,BBVA Frances,ARS,0.92,105448617,,,Titulos de Deuda en Peso Argentina,29
+e,Letra Muni Cordoba S53,Subsoberano,Muni. Cordoba,ARS,0.91,104302436,,,Titulos de Deuda en Peso Argentina,17
+e,ON Toyota Clase 34,ON,Toyota,ARS,0.87,99717714,,,Titulos de Deuda en Peso Argentina,22
+e,Bonos Rep Argentina AL35,Soberano,Tesoro Nacional,USD,0.86,98571533,,,Titulos de Deuda en Dolar Estadounidense,31
+e,FF Comafi Leasing 18 Cl A,Fideicomiso financiero,Comafi Leasing,,0.78,89402088,,,Certificados de Participacion Argentina,14
+e,FF Comafi Leasing 17 Cl A,Fideicomiso financiero,Comafi Leasing,,0.71,81378824,,,Certificados de Participacion Argentina,16
+e,FF Megabono 335 Clase A,Fideicomiso financiero,Megabono,,0.07,8023264,,,Certificados de Participacion Argentina,11
+e,ON Fundación IFI C2,ON,Fundación IFI,ARS,0.02,2292361,,,Titulos de Deuda en Peso Argentina,6
+p,GSS III,Grupo SS,RF ARS Disc,33.9011,0.4667,6,,,,
+p,Lombard Abierto Plus,Patagonia,RF ARS CER,33.5975,0.4418,5,,,,
+p,Adcap Gestion Estrategica VI,Adcap,RM y Otros ARS,31.8934,0.5946,4,,,,
+p,Champaquí Cobertura,Bancor,RF ARS CER,31.1896,0.5584,6,,,,
+p,Blacktoro Gestion Calificado I,BlackToro,RF ARS Disc,29.9918,0.4492,4,,,,
+p,Adcap Gestion Estrategica VIII,Adcap,RF ARS Disc,27.8901,0.4999,3,,,,
+p,Pionero Renta,Macro,RF ARS CER,27.7574,0.4526,5,,,,
+p,Argenfunds Inversión Pesos,Argenfunds,RF ARS Disc,26.0307,0.3738,3,,,,

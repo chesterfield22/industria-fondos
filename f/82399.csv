@@ -1,0 +1,1257 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Allaria Unicred Empresas,,,,,,,,
+m,gerente,Allaria Fondos Administrados S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS CER,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,39516297749,,,,,,,,
+m,aum_planilla,39516297749,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/82399,,,,,,,,
+m,n_especies,1202,,,,,,,,
+m,activos_pn,104.48,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,3.8,,,,,,,,
+m,top1,5.19,,,,,,,,
+m,top5,16.03,,,,,,,,
+m,top10,22.86,,,,,,,,
+m,hhi_especies,100.9219,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,9,,,,,,,,
+m,hhi_emisores,96.1792,,,,,,,,
+m,sin_emisor_pct,88.51,,,,,,,,
+t,Cheque,74.84,1163,,,,,,,
+t,Pagaré,13.67,32,,,,,,,
+t,Soberano,9,3,,,,,,,
+t,Caución,3.8,1,,,,,,,
+t,FCI,0.76,1,,,,,,,
+t,ON,0.44,2,,,,,,,
+c,ARS,101.75,,,,,,,,
+c,sin dato,0.76,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.92,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,3.8,,,,,,,,
+r,Certificados de Participacion Argentina,0.76,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),4.48,,,,,,,,
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,5.19,2050895853,,,Titulos de Deuda en Peso Argentina,166
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,3.8,1501619314,,,Operaciones a Plazo en Peso Argentina,195
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,2.54,1003713963,,,Titulos de Deuda en Peso Argentina,149
+e,Cheque #MAV031260105,Cheque,,ARS,2.47,976052554,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120101849,Cheque,,ARS,2.03,802180844,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV260270027,Pagaré,,ARS,1.52,600647726,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV051160153,Pagaré,,ARS,1.52,600647726,,,Titulos de Deuda en Peso Argentina,1
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,1.27,501856981,,,Titulos de Deuda en Peso Argentina,80
+e,Cheque E *CRE091100097,Cheque,,ARS,1.26,497905352,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV061101158,Cheque,,ARS,1.26,497905352,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101102073,Cheque,,ARS,1.26,497905352,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV261101559,Cheque,,ARS,1.24,490002092,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201734,Cheque,,ARS,1.23,486050462,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221201515,Cheque,,ARS,1.21,478147203,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221201516,Cheque,,ARS,1.21,478147203,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221201513,Cheque,,ARS,1.21,478147203,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221201519,Cheque,,ARS,1.21,478147203,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221201520,Cheque,,ARS,1.21,478147203,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221201517,Cheque,,ARS,1.21,478147203,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221201518,Cheque,,ARS,1.21,478147203,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221201514,Cheque,,ARS,1.21,478147203,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV251160037,Pagaré,,ARS,1.17,462340684,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV301160101,Pagaré,,ARS,0.97,383308088,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV101260095,Pagaré,,ARS,0.78,308227122,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV101260097,Pagaré,,ARS,0.78,308227122,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV101260096,Pagaré,,ARS,0.77,304275493,,,Titulos de Deuda en Peso Argentina,1
+e,FCI ST Zero - Clase B,FCI,ST Zero,,0.76,300323863,,,Certificados de Participacion Argentina,15
+e,Cheque E *MAV040101051,Cheque,,ARS,0.72,284517344,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120101647,Cheque,,ARS,0.66,260807565,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV110101065,Cheque,,ARS,0.66,260807565,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV011260063,Pagaré,,ARS,0.62,245001046,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV161160071,Cheque,,ARS,0.55,217339638,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250101072,Cheque,,ARS,0.53,209436378,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240101230,Cheque,,ARS,0.53,209436378,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281201201,Cheque,,ARS,0.48,189678229,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231201491,Cheque,,ARS,0.48,189678229,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV271101375,Cheque,,ARS,0.47,185726599,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV271101583,Cheque,,ARS,0.44,173871710,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV021201320,Cheque,,ARS,0.43,169920080,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220200954,Cheque,,ARS,0.41,162016821,,,Titulos de Deuda en Peso Argentina,1
+e,ON Pyme Gente de la Pampa S1 2027,ON,Pyme Gente de la Pampa,ARS,0.4,158065191,,,Titulos de Deuda en Peso Argentina,3
+e,Pagare #UMV010370007,Pagaré,,ARS,0.38,150161931,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV150370041,Pagaré,,ARS,0.38,150161931,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV080370001,Pagaré,,ARS,0.38,150161931,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV220270003,Pagaré,,ARS,0.38,150161931,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301101946,Cheque,,ARS,0.37,146210302,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV011201513,Cheque,,ARS,0.37,146210302,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV031200972,Cheque,,ARS,0.37,146210302,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV130870007,Pagaré,,ARS,0.37,146210302,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041201007,Cheque,,ARS,0.37,146210302,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV021201289,Cheque,,ARS,0.37,146210302,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV290970004,Pagaré,,ARS,0.36,142258672,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UCE061070001,Pagaré,,ARS,0.36,142258672,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV200870008,Pagaré,,ARS,0.36,142258672,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV290970003,Pagaré,,ARS,0.36,142258672,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV291201391,Cheque,,ARS,0.34,134355412,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV111201714,Cheque,,ARS,0.33,130403783,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281201343,Cheque,,ARS,0.32,126452153,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV151101607,Cheque,,ARS,0.31,122500523,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV111201360,Cheque,,ARS,0.31,122500523,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV261101259,Cheque,,ARS,0.31,122500523,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301101827,Cheque,,ARS,0.31,122500523,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV241160069,Cheque,,ARS,0.3,118548893,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV151201801,Cheque,,ARS,0.29,114597263,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130101371,Cheque,,ARS,0.27,106694004,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV021201310,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV071200912,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV011201536,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041201030,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV031200994,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FED091200024,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FED091200025,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID101200040,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID111200026,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID101200041,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV271101464,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV271101394,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281101523,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV291101329,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201505,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV081200689,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171101503,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181101392,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131101345,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV061201169,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051201429,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID111200027,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102258,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV111201215,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181201227,Cheque,,ARS,0.25,98790744,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221201449,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV211201198,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140101472,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060101455,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV110101226,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040101086,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV070101141,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210101309,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080101453,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050101482,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120101866,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180101163,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130101498,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220101430,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV111201502,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101201843,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190101453,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221201345,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150102009,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260101345,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200102041,Cheque,,ARS,0.24,94839115,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200201471,Cheque,,ARS,0.23,90887485,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240201297,Cheque,,ARS,0.23,90887485,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240101255,Cheque,,ARS,0.23,90887485,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV170101293,Cheque,,ARS,0.23,90887485,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041101320,Cheque,,ARS,0.23,90887485,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV030301226,Cheque,,ARS,0.22,86935855,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270201344,Cheque,,ARS,0.22,86935855,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301101767,Cheque,,ARS,0.21,82984225,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV300470031,Pagaré,,ARS,0.21,82984225,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171101673,Cheque,,ARS,0.21,82984225,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171201105,Cheque,,ARS,0.2,79032595,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV211201077,Cheque,,ARS,0.2,79032595,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV021201446,Cheque,,ARS,0.2,79032595,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV151201986,Cheque,,ARS,0.2,79032595,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201279,Cheque,,ARS,0.2,79032595,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV031201126,Cheque,,ARS,0.2,79032595,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101102176,Cheque,,ARS,0.2,79032595,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091101313,Cheque,,ARS,0.2,79032595,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV161201406,Cheque,,ARS,0.2,79032595,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231100883,Cheque,,ARS,0.19,75080966,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV140570002,Pagaré,,ARS,0.19,75080966,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV121170001,Pagaré,,ARS,0.18,71129336,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV100870029,Pagaré,,ARS,0.18,71129336,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV240870007,Pagaré,,ARS,0.18,71129336,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101101908,Cheque,,ARS,0.18,71129336,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150201292,Cheque,,ARS,0.18,71129336,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV020270016,Cheque,,ARS,0.18,71129336,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100201796,Cheque,,ARS,0.18,71129336,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131101982,Cheque,,ARS,0.18,71129336,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120201329,Cheque,,ARS,0.17,67177706,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV060470028,Pagaré,,ARS,0.17,67177706,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV170570028,Pagaré,,ARS,0.17,67177706,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV120470010,Pagaré,,ARS,0.17,67177706,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV190470017,Pagaré,,ARS,0.17,67177706,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV151170027,Pagaré,,ARS,0.16,63226076,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041201203,Cheque,,ARS,0.14,55322817,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV161101205,Cheque,,ARS,0.13,51371187,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV261101280,Cheque,,ARS,0.12,47419557,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV201160033,Pagaré,,ARS,0.12,47419557,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV111101438,Cheque,,ARS,0.12,47419557,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201101753,Cheque,,ARS,0.12,47419557,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201657,Cheque,,ARS,0.12,47419557,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV241200666,Cheque,,ARS,0.12,47419557,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV151101745,Cheque,,ARS,0.12,47419557,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV291201339,Cheque,,ARS,0.12,47419557,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080200807,Cheque,,ARS,0.12,47419557,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150201209,Cheque,,ARS,0.12,47419557,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV020270017,Cheque,,ARS,0.12,47419557,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV241200665,Cheque,,ARS,0.12,47419557,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180101030,Cheque,,ARS,0.11,43467928,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID301200046,Cheque,,ARS,0.11,43467928,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID140100023,Cheque,,ARS,0.11,43467928,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID150100047,Cheque,,ARS,0.11,43467928,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID130100026,Cheque,,ARS,0.11,43467928,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID120100030,Cheque,,ARS,0.11,43467928,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID110100017,Cheque,,ARS,0.11,43467928,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID080100025,Cheque,,ARS,0.11,43467928,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID060100016,Cheque,,ARS,0.11,43467928,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID070100033,Cheque,,ARS,0.11,43467928,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID040100027,Cheque,,ARS,0.11,43467928,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID050100031,Cheque,,ARS,0.11,43467928,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID180100022,Cheque,,ARS,0.11,43467928,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID190100031,Cheque,,ARS,0.11,43467928,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041101526,Cheque,,ARS,0.1,39516298,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240201243,Cheque,,ARS,0.1,39516298,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041101527,Cheque,,ARS,0.1,39516298,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041101524,Cheque,,ARS,0.1,39516298,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050201087,Cheque,,ARS,0.1,39516298,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050201089,Cheque,,ARS,0.1,39516298,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV090201310,Cheque,,ARS,0.1,39516298,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100201765,Cheque,,ARS,0.1,39516298,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV290101093,Cheque,,ARS,0.1,39516298,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FED251200012,Cheque,,ARS,0.1,39516298,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV151101874,Cheque,,ARS,0.1,39516298,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041101525,Cheque,,ARS,0.1,39516298,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041101528,Cheque,,ARS,0.1,39516298,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041201308,Cheque,,ARS,0.1,39516298,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV271101492,Cheque,,ARS,0.1,39516298,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301201819,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID221200058,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251200613,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV110101162,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130101443,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150201242,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120101753,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID201200044,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV151202165,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100101437,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150101885,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV261201701,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140101404,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV241200704,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV170201254,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171201225,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV161201538,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV191201388,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181201536,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV291201467,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281201346,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV271201353,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV090470025,Pagaré,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID211200036,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201534,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180101032,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050201088,Cheque,,ARS,0.09,35564668,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200401509,Cheque,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID231200047,Cheque,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID291200039,Cheque,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID281200031,Cheque,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040100951,Cheque,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210101172,Cheque,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041101127,Cheque,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051101008,Cheque,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120101735,Cheque,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080101348,Cheque,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280101105,Cheque,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041101529,Cheque,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100402023,Cheque,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180101112,Cheque,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200101890,Cheque,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV170201219,Cheque,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201724,Cheque,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100501437,Cheque,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV201260023,Pagaré,,ARS,0.08,31613038,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100301641,Cheque,,ARS,0.07,27661408,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200201452,Cheque,,ARS,0.07,27661408,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV170201227,Cheque,,ARS,0.07,27661408,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100201753,Cheque,,ARS,0.07,27661408,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200501932,Cheque,,ARS,0.07,27661408,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV250370030,Pagaré,,ARS,0.07,27661408,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV020470004,Pagaré,,ARS,0.07,27661408,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060101368,Cheque,,ARS,0.07,27661408,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100101419,Cheque,,ARS,0.07,27661408,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV291101353,Cheque,,ARS,0.07,27661408,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV291101354,Cheque,,ARS,0.07,27661408,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV071101346,Cheque,,ARS,0.07,27661408,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091100793,Cheque,,ARS,0.07,27661408,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV300602780,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130101450,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181101310,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221101286,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140101325,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310501543,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140401426,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201521,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131101705,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230101259,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200101826,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040100873,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080101378,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150101895,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV110101170,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140101408,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050101434,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120101763,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140201275,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140301242,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100201757,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040100983,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060101411,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV070101055,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130101394,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250401496,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV241101590,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV070101100,Cheque,,ARS,0.06,23709779,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280501365,Cheque,,ARS,0.05,19758149,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV300602774,Cheque,,ARS,0.05,19758149,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV271101924,Cheque,,ARS,0.05,19758149,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121201812,Cheque,,ARS,0.05,19758149,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201700,Cheque,,ARS,0.05,19758149,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240201283,Cheque,,ARS,0.05,19758149,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV011201881,Cheque,,ARS,0.05,19758149,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041101111,Cheque,,ARS,0.05,19758149,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101101943,Cheque,,ARS,0.05,19758149,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV300602775,Cheque,,ARS,0.05,19758149,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310101588,Cheque,,ARS,0.05,19758149,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180101020,Cheque,,ARS,0.05,19758149,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201344,Cheque,,ARS,0.05,19758149,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250101021,Cheque,,ARS,0.05,19758149,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV211201146,Cheque,,ARS,0.05,19758149,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281201120,Cheque,,ARS,0.05,19758149,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190101328,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV070101032,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140101323,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050201104,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV300602768,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160701564,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160701558,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160701557,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160701560,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160701556,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280101184,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140501327,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210501380,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210501379,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV211201358,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210501378,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV300501849,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190201021,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210101257,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160701559,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV020201170,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,ON Nuevas Tierras S1,ON,Nuevas Tierras,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,9
+e,Cheque E *MAV051101000,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160701561,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310501552,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV310770002,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV300670019,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270101462,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160701565,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV300101517,Cheque,,ARS,0.04,15806519,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100101340,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101101620,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100101341,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231201498,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210601125,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210401382,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220300979,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231201501,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231201499,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101101612,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160401176,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160401175,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230201175,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220200946,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID171100049,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131101325,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160201234,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190201015,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV020301105,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080300980,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010300920,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250201232,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180201186,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220200959,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240201274,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131102051,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV110201078,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV021201619,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040200945,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150101748,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV151202070,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280101101,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV290101119,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270101330,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140101270,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150101707,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231201500,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221201459,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120201248,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230201157,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180201158,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040200900,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV170201224,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310301598,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060101312,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160401179,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250101023,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210101184,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250101022,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190101295,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180101021,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220101239,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210101183,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260101301,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260201160,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV030301200,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040301199,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV300101463,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010300921,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190101296,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310501540,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250500778,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250601484,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250401490,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180701510,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210101173,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101101573,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260101304,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310501541,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV300501844,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV030301201,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130101322,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV191201348,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200101807,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220101240,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250201237,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150101708,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120101611,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180101022,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV110101001,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200101808,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270101331,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280101100,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV290101118,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV241200625,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101101942,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210501377,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190301084,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050301141,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160401178,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280101131,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221201458,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050201110,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121102101,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010300929,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010300928,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV111101928,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180201183,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190201009,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV021201687,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050301143,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV090301171,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260201170,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101102413,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV300470019,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV280270021,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV310370019,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV300101516,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV020301109,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040301202,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100301649,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310101653,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080300981,Cheque,,ARS,0.03,11854889,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010100514,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV290101159,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV151202122,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV241101815,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID140300015,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV170401392,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060301364,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060201251,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051201635,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV090101275,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV030401156,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231101368,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160101390,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301201893,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102920,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102919,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102918,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102917,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102916,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV161101862,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102914,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250301656,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV291201462,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV290300930,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301201898,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301201897,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301201896,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301201895,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301201894,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131201245,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120101675,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060101339,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV110101089,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060101338,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102915,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060701327,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV020501051,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260601809,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250301648,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230201158,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180301359,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140101289,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210101195,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281201512,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181201446,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV071201035,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV241200647,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220200945,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230101255,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230401178,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220200944,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240300790,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV021201455,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID220300021,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID180300032,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID200300043,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID160300024,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130101349,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV070401111,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220401409,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040101005,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160601775,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150801909,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV271101967,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181101798,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251102233,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310702259,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV070501100,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210701738,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010601324,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120401162,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV170501222,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180201170,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130301494,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180201165,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250201223,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120201259,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100501436,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV241200648,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181201549,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV071201099,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160401186,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150201203,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231201519,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270301521,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV170201230,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251200607,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160401185,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV241200690,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV291201447,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV311201408,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060301360,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV030301197,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210201182,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV020201181,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130301497,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130301496,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV211201308,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210501376,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210401379,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210101232,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210301208,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301201796,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160401183,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV020201179,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200501931,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171101806,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230201189,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160201224,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100201736,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260201149,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190201000,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV310170005,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190201024,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230201181,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270301523,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV030301221,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV030301220,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV261101638,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231101377,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171101927,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010200954,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270401216,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270501611,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240401350,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240101241,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200201466,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200301793,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230201187,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230201188,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230201190,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230201186,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280201884,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV290401327,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280501366,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280201872,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270401211,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210301211,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270201333,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV110301355,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310301619,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280601202,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID171200035,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID161200045,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID151200042,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID141200021,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID111200025,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID101200036,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV070100934,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041201005,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050501454,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060101210,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID301200039,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID290100026,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID071200022,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID211200029,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200101789,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV020201138,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201201704,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV061100953,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310501538,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260501726,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310501537,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301201633,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV071200997,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010200922,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160501423,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100602057,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID181100037,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID081200014,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV271101399,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231100985,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV271101398,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201101605,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141101563,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051201449,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID181200035,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FID091200032,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091101466,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281201286,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160401184,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120201257,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230201191,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250201225,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV110201049,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230201168,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FED091100060,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050501455,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160101346,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130301495,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160401187,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV020301099,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180101079,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240201266,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV030201183,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV021201515,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FED081100022,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FED071100033,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FED061100033,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FED051100037,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102030,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051101625,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220200952,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV061101599,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121101870,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040200912,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010300913,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050201119,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV170201215,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV111101809,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101102357,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV161101688,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131101777,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV311201390,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270501608,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150501970,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210501373,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100501431,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201101765,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310501542,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200501926,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260301228,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010200849,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221201413,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV061201195,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250101019,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310101587,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV170501220,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230501280,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV021201451,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041201243,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV211201176,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV241200646,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240300791,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230401179,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230101254,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230101253,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220200943,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV261101437,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV261101438,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050601725,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301201696,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102402,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310101599,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200101858,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200201447,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050101369,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040100893,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240300792,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230401180,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250100995,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV290101091,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280101084,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180100984,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV290101092,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190101282,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210101165,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260101284,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV031201131,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010200850,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120501885,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250500779,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220101213,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220101214,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250100994,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260101285,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV020201139,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200101788,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV111201495,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101201833,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231201466,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171201180,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100301612,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041201249,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV081200759,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201703,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270101312,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV011201701,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV031201136,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251200530,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV291101379,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210101164,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190101281,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280101083,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270101313,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180100983,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV151202096,Cheque,,ARS,0.02,7903260,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100101377,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150101689,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160101310,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181201374,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201201706,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080101197,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251200494,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231201407,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080101196,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150101687,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101201628,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301201603,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV090101214,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171201130,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201201707,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV261201615,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150101684,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221201371,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100101376,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120101591,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV081200725,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080101198,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201201705,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV211201125,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260501725,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV110501381,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200501925,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV170101257,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281201061,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150101672,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV151202002,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050101294,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV100880003,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV101190001,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV101270005,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV100780003,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV100580002,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV100180006,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV100480003,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV100190002,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV100890001,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV100390001,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV100590001,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV100980006,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV100280002,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV100990001,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV101170005,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV101280002,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080101326,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200301789,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV211201307,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200301791,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140101380,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131101861,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV071101701,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201630,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV110201047,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260201145,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260301233,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV261201659,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190200997,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260101358,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190101343,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV070101054,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270801518,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270601375,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270701394,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040100978,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200101960,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310501551,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040100977,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200101959,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230201169,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100101442,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040100976,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160101382,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050101433,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150201245,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV300101515,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040100975,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV100790001,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120401150,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120201264,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210101231,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120301385,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010300915,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250201226,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200401512,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV100380003,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV100680002,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV100290001,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV101180002,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV101080003,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV101090001,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV100690001,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV100490001,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050101479,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV311201546,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV311201545,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV311201540,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301201929,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301201924,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301201923,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV291201518,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV261201747,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV261201745,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251200649,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251200646,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251200644,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231201673,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260101452,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260101447,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230201176,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230101284,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231101289,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190201017,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060101387,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV311201523,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV311201538,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV311201543,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130101448,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150101891,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060101408,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080101374,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190101394,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231201576,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190301081,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230300872,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV241200785,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260101449,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260301247,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260301248,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281201506,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281201510,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV300101543,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260201200,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV191201473,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV191201474,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV191201475,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200102015,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200401524,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201201859,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201201860,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231201656,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140101468,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250101194,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150102007,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140101470,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181201766,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV191201470,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV191201471,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV191201472,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV291201517,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310101684,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310101690,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210101305,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200102027,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280201915,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180101158,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280201912,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040200946,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040301206,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040401060,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040501251,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050101465,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050201177,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050301151,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050401021,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV070101135,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV081200894,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV020101167,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV020201218,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV020301117,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV090101276,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100101454,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150101988,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV020101168,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150102001,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160101403,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV300101557,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280101230,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220101425,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240101261,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270201348,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200102023,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310101683,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040101096,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181201797,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080200821,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130101505,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120101863,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV311201544,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV020501052,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060701328,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120401163,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260601810,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV170401393,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV300801611,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060601352,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220501681,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160601776,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310702260,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210601126,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120501890,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010601325,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250802028,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150801910,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160701563,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210701739,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050801691,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV110601345,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260701254,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200801935,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220401410,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV070401112,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270501612,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050501458,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050601727,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050701157,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050801692,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051201633,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051201634,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010701568,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV110701494,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270301526,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270401214,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270201340,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280101208,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280201894,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV290101233,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270101432,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210401386,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV241200759,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV170101288,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091101591,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080200804,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150201246,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240101250,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240300800,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240201291,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270401212,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270101427,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270201335,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220501680,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV271101950,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV271201365,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260101415,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281101764,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV170501223,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100801765,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV070501101,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV020400550,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270401217,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231101367,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV151101985,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270301524,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV111201570,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250301652,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100301619,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV110201038,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120101677,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120401142,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121201732,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051201524,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV111101784,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101102343,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201543,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140101337,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131201256,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260201141,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV291201410,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181201538,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102497,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130301490,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130201287,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101201899,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050101370,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100101400,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200101859,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200101860,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210501381,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210301212,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210201189,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV300301228,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV311201342,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280201843,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130401255,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310101604,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV191201362,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041201202,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV111201462,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV031201102,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV011201666,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201655,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101201795,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181101566,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250301650,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201101873,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251101962,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131101590,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102343,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV311201318,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150101747,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280201836,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080101288,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051201530,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190101309,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV020201165,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040200901,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310101600,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250301649,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280201839,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV191201372,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050301129,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060201223,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220101282,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV161201524,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131201254,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101201900,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180101055,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201101847,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV300101456,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301201647,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260201132,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060201215,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231101117,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281201153,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101201803,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131201234,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV261101401,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201201729,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102274,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV151202075,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201365,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200201439,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV211201163,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV011201678,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190200982,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201673,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171101650,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201201738,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051101482,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101102186,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121101691,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270201323,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041201218,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251101942,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131101551,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV111201475,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230101242,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV021201431,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV161201467,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101201794,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201351,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV261201629,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200501924,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV280501361,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140501313,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210501374,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240501132,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301201646,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181201427,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171101642,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV161201456,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281201139,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV031201101,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV311201224,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281201138,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121101671,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102275,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181201429,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221201416,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV291201352,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV031201114,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231201449,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV071201009,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV241101572,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV161101416,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130201285,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV271101586,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV191101434,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201201730,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120201210,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171201164,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV070301158,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV271201310,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV040601135,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV170501221,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010601319,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV250500780,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190501455,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240501131,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102181,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV081101285,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240101224,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV070201081,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100101382,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210201177,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210301207,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV170101262,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102155,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102154,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130501480,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV270501607,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140501312,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100501432,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120501884,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201101785,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV110501380,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310501539,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180501120,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV191101383,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV081101283,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221101322,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180501121,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301201615,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171101405,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV161101073,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV061201165,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301101874,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091100946,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131201183,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV191201285,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091100789,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150101679,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV151202010,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV111101393,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101101807,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131101213,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141101490,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121101338,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV191101174,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201101769,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201101767,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV161101316,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141101640,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131101484,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101102093,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV081200728,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080101204,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301201604,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121101593,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281101585,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV231101078,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV211101251,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201201713,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201101772,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201101771,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251101774,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV161101184,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051101287,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV211101187,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281101529,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV241101421,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240300794,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190301077,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV061101251,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101101940,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV111101502,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041101361,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV061101252,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101101941,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121101480,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV111101500,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV011201558,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV191101258,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141101562,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171101488,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121101481,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041101360,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141101561,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121101479,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091100791,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101101577,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101101590,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051101003,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041101113,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV071101343,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101101574,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051100983,Cheque,,ARS,0.01,3951630,,,Titulos de Deuda en Peso Argentina,1
+p,Consultatio Renta Local,Consultatio,RF ARS Lecap,12.4866,0.556,4,,,,
+p,Adcap Balanceado XVI,Adcap,RF ARS Lecap,12.4866,0.4295,4,,,,
+p,Allaria Dinámico,Allaria,RM y Otros ARS,12.4866,0.4248,4,,,,
+p,Crecer Renta Plus,Ciudad,RF ARS Disc,12.4866,0.3192,4,,,,
+p,Fundcorp Performance Balanceado,CMF,RF ARS Disc,12.2042,0.4916,4,,,,
+p,BAVSA Ahorro Plus,BAVSA,RF ARS Lecap,11.2477,0.4919,3,,,,
+p,Cocos Crecimiento,Cocos,T+1,11.2477,0.3983,3,,,,
+p,Crecer Ahorro,Ciudad,RF ARS Disc,11.2477,0.3646,3,,,,

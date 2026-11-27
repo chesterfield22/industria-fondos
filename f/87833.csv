@@ -1,0 +1,92 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,BAVSA Multiestrategia I,,,,,,,,
+m,gerente,BAVSA Fondos S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,3779822306,,,,,,,,
+m,aum_planilla,3779822306,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87833,,,,,,,,
+m,n_especies,40,,,,,,,,
+m,activos_pn,104.29,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,18.74,,,,,,,,
+m,top1,18.73,,,,,,,,
+m,top5,53.09,,,,,,,,
+m,top10,85.02,,,,,,,,
+m,hhi_especies,906.6626,,,,,,,,
+m,n_emisores,8,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,19.83,,,,,,,,
+m,hhi_emisores,1401.0634,,,,,,,,
+m,sin_emisor_pct,12.76,,,,,,,,
+t,Subsoberano,53,8,,,,,,,
+t,Soberano,19.83,3,,,,,,,
+t,Caución,18.73,1,,,,,,,
+t,Cheque,12.55,27,,,,,,,
+t,Pagaré,0.21,1,,,,,,,
+c,ARS,104.32,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,85.55,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,18.73,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),4.29,,,,,,,,
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,18.73,707960718,,,Operaciones a Plazo en Peso Argentina,195
+e,Letra Prov Rio Negro S1 031226,Subsoberano,Prov. Rio Negro,ARS,9.68,365886799,,,Titulos de Deuda en Peso Argentina,15
+e,Letra Prov Rio Negro S1 240927,Subsoberano,Prov. Rio Negro,ARS,8.41,317883056,,,Titulos de Deuda en Peso Argentina,9
+e,Letra Muni Cordoba S53,Subsoberano,Muni. Cordoba,ARS,8.27,312591305,,,Titulos de Deuda en Peso Argentina,17
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,8,302385784,,,Titulos de Deuda en Peso Argentina,142
+e,Bono Boncer TX26,Soberano,Tesoro Nacional,ARS,7.94,300117891,,,Titulos de Deuda en Peso Argentina,63
+e,Bono Muni Cordoba S1 26032027,Subsoberano,Muni. Cordoba,ARS,6.6,249468272,,,Titulos de Deuda en Peso Argentina,20
+e,Letra Entre Rios ERE27,Subsoberano,Prov. Entre Rios,ARS,6.54,247200379,,,Titulos de Deuda en Peso Argentina,11
+e,Bono Prov Mendoza TAMAR C2,Subsoberano,Prov. Mendoza TAMAR,ARS,5.45,206000316,,,Titulos de Deuda en Peso Argentina,24
+e,Letra Prov Bs As PBA27,Subsoberano,Prov. Buenos Aires,ARS,5.4,204110405,,,Titulos de Deuda en Peso Argentina,38
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,3.89,147035088,,,Titulos de Deuda en Peso Argentina,74
+e,Cheque E *MAV061101422,Cheque,,ARS,3.69,139475443,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV011201782,Cheque,,ARS,2.94,111126776,,,Titulos de Deuda en Peso Argentina,1
+e,Letra Prov Chubut S123 C1,Subsoberano,Prov. Chubut,ARS,2.65,100165291,,,Titulos de Deuda en Peso Argentina,14
+e,Cheque E *MAV191101599,Cheque,,ARS,1.69,63878997,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV071101552,Cheque,,ARS,1.55,58587246,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201102069,Cheque,,ARS,0.85,32128490,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV201102070,Cheque,,ARS,0.35,13229378,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque %PXP081100001,Cheque,,ARS,0.33,12473414,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare %PAE301100023,Pagaré,,ARS,0.21,7937627,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV191201450,Cheque,,ARS,0.16,6047716,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV111101811,Cheque,,ARS,0.16,6047716,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV211101457,Cheque,,ARS,0.14,5291751,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171101688,Cheque,,ARS,0.14,5291751,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV211101456,Cheque,,ARS,0.12,4535787,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV291101446,Cheque,,ARS,0.04,1511929,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201956,Cheque,,ARS,0.03,1133947,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201955,Cheque,,ARS,0.03,1133947,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201958,Cheque,,ARS,0.03,1133947,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201959,Cheque,,ARS,0.03,1133947,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201960,Cheque,,ARS,0.03,1133947,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201957,Cheque,,ARS,0.03,1133947,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201961,Cheque,,ARS,0.03,1133947,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251102064,Cheque,,ARS,0.03,1133947,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251102066,Cheque,,ARS,0.03,1133947,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251102065,Cheque,,ARS,0.03,1133947,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251102067,Cheque,,ARS,0.03,1133947,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251102068,Cheque,,ARS,0.03,1133947,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281101756,Cheque,,ARS,0.02,755964.4612,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281101755,Cheque,,ARS,0.01,377982.2306,,,Titulos de Deuda en Peso Argentina,1
+p,Novus Income,Novus,RF MULT Disc,34.1512,0.4092,9,,,,
+p,Super Ahorro Plus,Santander,MM ARS Dinámico,29.4612,0.5271,3,,,,
+p,Wise Capital Focus II,Wise,RM y Otros ARS,27.4456,0.4527,3,,,,
+p,Novus Balanceado,Novus,RM y Otros ARS,25.9399,0.3418,6,,,,
+p,GMC Multiestrategia II,GMC,RM y Otros ARS,25.6231,0.4817,2,,,,
+p,Schroder Balanceado,Schroder,RM y Otros ARS,25.5656,0.3532,2,,,,
+p,Axis Estrategia 28,Axis,RM y Otros ARS,22.5389,0.359,6,,,,
+p,Quiron Fixed Income,Quiron,RF MULT Disc,21.6833,0.5421,2,,,,

@@ -1,0 +1,64 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,FBA Renta Fija Pesos II,,,,,,,,
+m,gerente,BBVA Asset Management Argentina S.A.U.S.G.F.C.I.,,,,,,,,
+m,depositaria,BBVA Argentina S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,244901835400,,,,,,,,
+m,aum_planilla,244901835400,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63272,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,100.49,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,2.3,,,,,,,,
+m,top1,22.86,,,,,,,,
+m,top5,79.74,,,,,,,,
+m,top10,100.14,,,,,,,,
+m,hhi_especies,1526.0915,,,,,,,,
+m,n_emisores,4,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,93.59,,,,,,,,
+m,hhi_emisores,8783.7931,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,93.59,8,,,,,,,
+t,Plazo fijo,4.55,1,,,,,,,
+t,Caución,2,1,,,,,,,
+t,FCI,0.05,1,,,,,,,
+c,ARS,100.14,,,,,,,,
+c,sin dato,0.05,,,,,,,,
+r,Disponibilidades,0.3,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,93.59,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,6.55,,,,,,,,
+r,Certificados de Participacion Argentina,0.05,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.49,,,,,,,,
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,22.86,55984559573,,,Titulos de Deuda en Peso Argentina,92
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,18.46,45208878815,,,Titulos de Deuda en Peso Argentina,159
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,18.32,44866016245,,,Titulos de Deuda en Peso Argentina,166
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,10.72,26253476755,,,Titulos de Deuda en Peso Argentina,160
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,9.38,22971792161,,,Titulos de Deuda en Peso Argentina,75
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,9.23,22604439407,,,Titulos de Deuda en Peso Argentina,118
+e,Pzo Fi $ Bco Nacion,Plazo fijo,Banco Nacion,ARS,4.55,11143033511,,,Operaciones a Plazo en Peso Argentina,84
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,3.66,8963407176,,,Titulos de Deuda en Peso Argentina,142
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,2,4898036708,,,Operaciones a Plazo en Peso Argentina,195
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,0.96,2351057620,,,Titulos de Deuda en Peso Argentina,158
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.05,122450918,,,Certificados de Participacion Argentina,77
+p,Consultatio Estrategia,Consultatio,RF MULT Disc,70.2266,0.9004,4,,,,
+p,Consultatio Multimercado II,Consultatio,RF MULT Disc,67.8877,0.8583,4,,,,
+p,Consultatio Multimercado VIII,Consultatio,RF ARS Disc,59.5269,0.7632,3,,,,
+p,Consultatio Multimercado VII,Consultatio,RF ARS Disc,59.5269,0.7616,3,,,,
+p,FBA Renta Fija Pesos Plus I,BBVA,RF ARS Disc,58.1206,0.7304,8,,,,
+p,Consultatio Multimercado VI,Consultatio,RF ARS Disc,56.4747,0.7424,3,,,,
+p,Fima Ahorro Plus,Galicia,T+1,53.728,0.7745,8,,,,
+p,Consultatio Retorno Absoluto,Consultatio,RM y Otros ARS,51.8016,0.67,3,,,,

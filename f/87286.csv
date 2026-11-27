@@ -1,0 +1,68 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Parakeet Latam,,,,,,,,
+m,gerente,Parakeet S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Ex ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,13159904,,,,,,,,
+m,aum_planilla,13159904,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87286,,,,,,,,
+m,n_especies,16,,,,,,,,
+m,activos_pn,91.91,,,,,,,,
+m,pasivos_cnv,8.09,,,,,,,,
+m,liquidez,21.8,,,,,,,,
+m,top1,19,,,,,,,,
+m,top5,55.98,,,,,,,,
+m,top10,75.34,,,,,,,,
+m,hhi_especies,884.0302,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Brasil (soberano),,,,,,,,
+m,emisor_top_pct,21.88,,,,,,,,
+m,hhi_emisores,1211.6188,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano exterior,46.35,8,,,,,,,
+t,Caución,19,1,,,,,,,
+t,Corporativo exterior,18.93,6,,,,,,,
+t,FCI,4.82,1,,,,,,,
+c,USD,89.1,,,,,,,,
+r,Disponibilidades,2.8,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,65.29,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,19,,,,,,,,
+r,Certificados de Participacion Argentina,4.82,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,8.09,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-8.09,,,,,,,,
+e,Caucion Colocadora U$S Merval,Caución,Caución Merval,USD,19,2500382,,,Operaciones a Plazo en Dolar Estadounidense,55
+e,US Treasury Note 150236,Soberano exterior,Tesoro EE.UU.,USD,15.4,2026625,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BR Rep Brasil 34 8.25%,Soberano exterior,Brasil (soberano),USD,10.83,1425218,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BR Bono Global 2027 10.12%,Soberano exterior,Brasil (soberano),USD,5.93,780382.3345,,,Titulos de Deuda en Dolar Estadounidense,11
+e,SBS Liquidez USD - Clase B,FCI,Liquidez USD,USD,4.82,634307.395,,,Certificados de Participacion Argentina,14
+e,Bono Chile 4.95 010536,Soberano exterior,Chile (soberano),USD,4.3,565875.8918,,,Titulos de Deuda en Dolar Estadounidense,3
+e,BC Centrales Elec. Brasileras 2030,Corporativo exterior,Centrales Elec. Brasileras,USD,3.81,501392.3599,,,Titulos de Deuda en Dolar Estadounidense,8
+e,BC Pemex 15062035,Corporativo exterior,Pemex,USD,3.8,500076.3695,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BR Rep Brasil 37,Soberano exterior,Brasil (soberano),USD,3.74,492180.4268,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC Cencosud 5.95%,Corporativo exterior,Cencosud,USD,3.71,488232.4555,,,Titulos de Deuda en Dolar Estadounidense,16
+e,BC Codelco 300929,Corporativo exterior,Codelco,USD,3.62,476388.5415,,,Titulos de Deuda en Dolar Estadounidense,9
+e,Bono Uruguay 4.375%,Soberano exterior,Uruguay (soberano),USD,2.77,364529.3535,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC Satellite Core Allocation S592,Corporativo exterior,Satellite Core Allocation,USD,2.41,317153.6975,,,Titulos de Deuda en Dolar Estadounidense,2
+e,CL Rep Chile 2034,Soberano exterior,Chile (soberano),USD,2,263198.0892,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BC Latam Airlines 7.875%,Corporativo exterior,Latam Airlines,USD,1.58,207926.4905,,,Titulos de Deuda en Dolar Estadounidense,15
+e,BR Brasil 06032030,Soberano exterior,Brasil (soberano),USD,1.38,181606.6815,,,Titulos de Deuda en Dolar Estadounidense,1
+p,Parakeet Global,Parakeet,RF USD GL Inc ARG,33.0953,0.4947,10,,,,
+p,Allaria Dólar Latam,Allaria,RF USD GL Ex ARG,25.2743,0.3852,3,,,,
+p,Max Renta Fija Latam,Max Capital,RF USD GL Ex ARG,22.4574,0.4068,2,,,,
+p,FBA Money Market Dólar,BBVA,MM USD Clásico,21.3244,0.639,1,,,,
+p,CYC Dólares Liquidez,CYC,MM USD Clásico,21.3244,0.5751,1,,,,
+p,Consultatio Liquidez Dólar,Consultatio,MM USD Clásico,21.3244,0.5431,1,,,,
+p,Alpha Dólar,ICBC,MM USD Clásico,21.3244,0.5257,1,,,,
+p,Max Estrategico III,Max Capital,RF USD Disc,21.3244,0.5235,1,,,,

@@ -1,0 +1,61 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Balanz Money Market USD,,,,,,,,
+m,gerente,Balanz S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Plazo Fijo,,,,,,,,
+m,subtipo,MM USD Clásico,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,358069964,,,,,,,,
+m,aum_planilla,358069964,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86759,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,98.66,,,,,,,,
+m,pasivos_cnv,1.34,,,,,,,,
+m,liquidez,36.9,,,,,,,,
+m,top1,20.39,,,,,,,,
+m,top5,73.66,,,,,,,,
+m,top10,78.81,,,,,,,,
+m,hhi_especies,1275.256,,,,,,,,
+m,n_emisores,6,,,,,,,,
+m,emisor_top,Banco Galicia,,,,,,,,
+m,emisor_top_pct,20.39,,,,,,,,
+m,hhi_emisores,1307.083,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Plazo fijo,55.58,4,,,,,,,
+t,Caución,18.08,1,,,,,,,
+t,Soberano exterior,6.18,6,,,,,,,
+c,USD,79.84,,,,,,,,
+r,Disponibilidades,18.82,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,6.17,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,73.67,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,1.34,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-1.34,,,,,,,,
+e,Pzo Fi U$S Bco Galicia,Plazo fijo,Banco Galicia,USD,20.39,73010466,,,Operaciones a Plazo en Dolar Estadounidense,20
+e,Pzo Fi U$S Bco Nacion,Plazo fijo,Banco Nacion,USD,20.39,73010466,,,Operaciones a Plazo en Dolar Estadounidense,40
+e,Caucion Colocadora U$S Merval,Caución,Caución Merval,USD,18.08,64739050,,,Operaciones a Plazo en Dolar Estadounidense,55
+e,Pzo Fi U$S Bco Comafi,Plazo fijo,Banco Comafi,USD,8.1,29003667,,,Operaciones a Plazo en Dolar Estadounidense,9
+e,Pzo Fi $ Bco Patagonia,Plazo fijo,Banco Patagonia,USD,6.7,23990688,,,Operaciones a Plazo en Dolar Estadounidense,42
+e,US Treasury Bill 171126,Soberano exterior,Tesoro EE.UU.,USD,1.03,3688121,,,Titulos de Deuda en Dolar Estadounidense,3
+e,US Treasury Bill 031226,Soberano exterior,Tesoro EE.UU.,USD,1.03,3688121,,,Titulos de Deuda en Dolar Estadounidense,4
+e,US Treasury Bill 151226,Soberano exterior,Tesoro EE.UU.,USD,1.03,3688121,,,Titulos de Deuda en Dolar Estadounidense,2
+e,US Treasury Bill 120127,Soberano exterior,Tesoro EE.UU.,USD,1.03,3688121,,,Titulos de Deuda en Dolar Estadounidense,2
+e,US Treasury Bill 291226,Soberano exterior,Tesoro EE.UU.,USD,1.03,3688121,,,Titulos de Deuda en Dolar Estadounidense,2
+e,US Treasury Bill 050127,Soberano exterior,Tesoro EE.UU.,USD,1.03,3688121,,,Titulos de Deuda en Dolar Estadounidense,2
+p,Superfondo Ahorro en Dólares,Santander,MM USD Clásico,73.6822,0.9349,4,,,,
+p,Consultatio Liquidez Dólar,Consultatio,MM USD Clásico,67.1666,0.8302,4,,,,
+p,IAM Retorno Dólares,BIND,MM USD Clásico,57.4305,0.7612,3,,,,
+p,Novus Dólar MM,Novus,MM USD Clásico,56.8023,0.7926,3,,,,
+p,Bull Market Liquidez Dólar,Bull Market,MM USD Clásico,54.8928,0.7039,3,,,,
+p,SBS Liquidez USD,SBS,MM USD Clásico,51.0778,0.7216,3,,,,
+p,Premier Corto Plazo en Dólares,Supervielle,MM USD Clásico,48.1839,0.7082,2,,,,
+p,Puente Liquidez Dólares,Puente,MM USD Clásico,48.1839,0.6685,2,,,,

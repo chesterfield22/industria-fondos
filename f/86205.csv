@@ -1,0 +1,64 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Adcap ASB Multiactivo,,,,,,,,
+m,gerente,Adcap Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RV ARG Otros,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,2618460416,,,,,,,,
+m,aum_planilla,2618460416,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86205,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,100.07,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.21,,,,,,,,
+m,top1,19.16,,,,,,,,
+m,top5,70.02,,,,,,,,
+m,top10,99.43,,,,,,,,
+m,hhi_especies,1231.0698,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Pampa Energia,,,,,,,,
+m,emisor_top_pct,19.16,,,,,,,,
+m,hhi_emisores,1231.0698,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,84.03,8,,,,,,,
+t,Cedear,10.33,1,,,,,,,
+t,BCRA,5.07,1,,,,,,,
+t,FCI,0.43,1,,,,,,,
+c,ARS,99.43,,,,,,,,
+c,sin dato,0.43,,,,,,,,
+r,Disponibilidades,0.21,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,5.07,,,,,,,,
+r,Participaciones Accionarias Argentina,94.36,,,,,,,,
+r,Certificados de Participacion Argentina,0.43,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.07,,,,,,,,
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,19.16,501697016,,,Participaciones Accionarias Argentina,129
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,15.14,396434907,,,Participaciones Accionarias Argentina,86
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,14.9,390150602,,,Participaciones Accionarias Argentina,104
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,10.49,274676498,,,Participaciones Accionarias Argentina,93
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,10.33,270486961,,,Participaciones Accionarias Argentina,52
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,10.12,264988194,,,Participaciones Accionarias Argentina,104
+e,Telecom Argentina S.A.,Acción,Telecom Argentina,ARS,5.15,134850711,,,Participaciones Accionarias Argentina,43
+e,Bono Bopreal 2027 Serie 1 Clase D BPOD7,BCRA,BCRA,ARS,5.07,132755943,,,Titulos de Deuda en Peso Argentina,22
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,4.65,121758409,,,Participaciones Accionarias Argentina,77
+e,Transener S.A.,Acción,Transener,ARS,4.42,115735950,,,Participaciones Accionarias Argentina,84
+e,FCI SBS Ahorro Pesos Cl B,FCI,SBS Ahorro Pesos Cl B,,0.43,11259380,,,Certificados de Participacion Argentina,46
+p,Parakeet Capital Plus,Parakeet,RV ARG Merval,54.7653,0.6047,8,,,,
+p,SBS Acciones Argentina,SBS,RV ARG Merval,53.359,0.6363,8,,,,
+p,Schroder Renta Variable,Schroder,RV ARG Merval,52.2315,0.6301,7,,,,
+p,Balanz Equity Selection,Balanz,RV ARG Otros,49.4086,0.6604,6,,,,
+p,Delta Select,Delta,RV ARG Merval,49.0102,0.6002,8,,,,
+p,Fima Acciones,Galicia,RV ARG Merval,48.4212,0.6442,7,,,,
+p,Consultatio Acciones Argentina,Consultatio,RV ARG Merval,48.3701,0.568,8,,,,
+p,Consultatio Rofex 20,Consultatio,RV ARG Rofex 20,48.3697,0.5338,7,,,,

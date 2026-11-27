@@ -1,0 +1,84 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,First Renta Mixta VIII,,,,,,,,
+m,gerente,First Capital Markets S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,57446172074,,,,,,,,
+m,aum_planilla,57446172074,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83563,,,,,,,,
+m,n_especies,28,,,,,,,,
+m,activos_pn,92.87,,,,,,,,
+m,pasivos_cnv,7.13,,,,,,,,
+m,liquidez,2.2,,,,,,,,
+m,top1,11.26,,,,,,,,
+m,top5,49.6,,,,,,,,
+m,top10,84.41,,,,,,,,
+m,hhi_especies,770.7207,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,65.08,,,,,,,,
+m,hhi_emisores,4635.9233,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,65.08,8,,,,,,,
+t,Soberano exterior,19.33,2,,,,,,,
+t,FCI,4.67,1,,,,,,,
+t,Caución,2.19,1,,,,,,,
+t,Fideicomiso financiero,1.58,16,,,,,,,
+c,ARS,67.27,,,,,,,,
+c,USD,19.33,,,,,,,,
+c,sin dato,6.25,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,65.08,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,2.19,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,19.34,,,,,,,,
+r,Certificados de Participacion Argentina,6.25,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,7.13,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-7.13,,,,,,,,
+e,US Treasury Bill 101226,Soberano exterior,Tesoro EE.UU.,USD,11.26,6468438976,,,Titulos de Deuda en Dolar Estadounidense,11
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,10.72,6158229646,,,Titulos de Deuda en Peso Argentina,250
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,9.86,5664192567,,,Titulos de Deuda en Peso Argentina,142
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,9.43,5417174027,,,Titulos de Deuda en Peso Argentina,166
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,8.33,4785266134,,,Titulos de Deuda en Peso Argentina,103
+e,US Treasury Bill 271126,Soberano exterior,Tesoro EE.UU.,USD,8.07,4635906086,,,Titulos de Deuda en Dolar Estadounidense,10
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,7.8,4480801422,,,Titulos de Deuda en Peso Argentina,75
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,7.14,4101656686,,,Titulos de Deuda en Peso Argentina,118
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,6.15,3532939583,,,Titulos de Deuda en Peso Argentina,92
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,5.65,3245708722,,,Titulos de Deuda en Peso Argentina,159
+e,FCI Tango Money Market Dinámico - Clase B,FCI,Tango Money Market Dinámico,,4.67,2682736236,,,Certificados de Participacion Argentina,13
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,2.19,1258071168,,,Operaciones a Plazo en Peso Argentina,73
+e,FF Waynimovil S14 CA,Fideicomiso financiero,Waynimovil,,0.17,97658493,,,Certificados de Participacion Argentina,9
+e,FF Elebar XVII Clase A,Fideicomiso financiero,Elebar XVII,,0.15,86169258,,,Certificados de Participacion Argentina,10
+e,FF Fiducar 34 Clase A,Fideicomiso financiero,Fiducar,,0.14,80424641,,,Certificados de Participacion Argentina,11
+e,FF Gocreditos Clase A,Fideicomiso financiero,Gocreditos,,0.14,80424641,,,Certificados de Participacion Argentina,11
+e,FF Creditech S7 CA,Fideicomiso financiero,Creditech,,0.13,74680024,,,Certificados de Participacion Argentina,10
+e,FF Mercado Credito 49 CA,Fideicomiso financiero,Mercado Credito,,0.13,74680024,,,Certificados de Participacion Argentina,25
+e,FF Mercado Credito 51 CA,Fideicomiso financiero,Mercado Credito,,0.13,74680024,,,Certificados de Participacion Argentina,34
+e,FF Consubond S202 Clase A,Fideicomiso financiero,Consubond,,0.11,63190789,,,Certificados de Participacion Argentina,8
+e,FF San Cristobal S2 CA,Fideicomiso financiero,San Cristobal,,0.09,51701555,,,Certificados de Participacion Argentina,12
+e,FF Moni Mobile 18 A,Fideicomiso financiero,Moni Mobile,,0.08,45956938,,,Certificados de Participacion Argentina,10
+e,FF Megabono 348 Clase A,Fideicomiso financiero,Megabono,,0.08,45956938,,,Certificados de Participacion Argentina,11
+e,FF Megabono 351 Clase A,Fideicomiso financiero,Megabono,,0.08,45956938,,,Certificados de Participacion Argentina,13
+e,FF Confibono S86 Clase A,Fideicomiso financiero,Confibono,,0.05,28723086,,,Certificados de Participacion Argentina,9
+e,FF Consubond S200 Clase A,Fideicomiso financiero,Consubond,,0.04,22978469,,,Certificados de Participacion Argentina,7
+e,FF Megabono 344 Clase A,Fideicomiso financiero,Megabono,,0.04,22978469,,,Certificados de Participacion Argentina,13
+e,FF Megabono 333 Clase A,Fideicomiso financiero,Megabono,,0.02,11489234,,,Certificados de Participacion Argentina,14
+p,First Renta Pesos,First Cap Mkts,T+1,45.1538,0.5597,22,,,,
+p,FBA Renta Fija Pesos Plus I,BBVA,RF ARS Disc,44.0291,0.5318,6,,,,
+p,FBA Renta Fija Pesos II,BBVA,T+1,42.6084,0.5466,6,,,,
+p,Alamerica Renta Fija Argentina,Allaria,RM y Otros ARS,37.7098,0.5389,5,,,,
+p,Argenfunds Ahorro Pesos,Argenfunds,T+1,37.3148,0.4433,5,,,,
+p,Blacktoro Gestion Calificado I,BlackToro,RF ARS Disc,36.8452,0.4013,5,,,,
+p,Pionero Renta Ahorro Plus,Macro,RF USD Linked,36.4006,0.446,4,,,,
+p,Supergestion Mix VI,Santander,T+1,34.7691,0.4533,5,,,,

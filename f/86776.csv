@@ -1,0 +1,78 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,SBS Renta Mixta V,,,,,,,,
+m,gerente,SBS Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,20325492,,,,,,,,
+m,aum_planilla,20325492,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86776,,,,,,,,
+m,n_especies,27,,,,,,,,
+m,activos_pn,100.08,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.53,,,,,,,,
+m,top1,9.5,,,,,,,,
+m,top5,33.71,,,,,,,,
+m,top10,58.68,,,,,,,,
+m,hhi_especies,491.6422,,,,,,,,
+m,n_emisores,18,,,,,,,,
+m,emisor_top,Pampa Energia,,,,,,,,
+m,emisor_top_pct,13.87,,,,,,,,
+m,hhi_emisores,749.2078,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,77.37,22,,,,,,,
+t,Subsoberano,14.41,3,,,,,,,
+t,Soberano,7.54,1,,,,,,,
+t,FCI,0.2,1,,,,,,,
+c,USD,99.52,,,,,,,,
+r,Disponibilidades,0.53,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,99.35,,,,,,,,
+r,Certificados de Participacion Argentina,0.2,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.08,,,,,,,,
+e,ON Pampa Energia C25,ON,Pampa Energia,USD,9.5,1930922,,,Titulos de Deuda en Dolar Estadounidense,19
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,7.54,1532542,,,Titulos de Deuda en Dolar Estadounidense,83
+e,ON Oldelval Clase 6,ON,Oldelval,USD,6.04,1227660,,,Titulos de Deuda en Dolar Estadounidense,41
+e,ON Aluar Serie 7,ON,Aluar,USD,5.5,1117902,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Pan American C31,ON,Pan American,USD,5.13,1042698,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,USD,5.04,1024405,,,Titulos de Deuda en Dolar Estadounidense,58
+e,ON Telecom C24,ON,Telecom,USD,5.02,1020340,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON YPF Clase 31,ON,YPF,USD,5.01,1018307,,,Titulos de Deuda en Dolar Estadounidense,48
+e,ON Central Puerto Clase C,ON,Central Puerto,USD,4.99,1014242,,,Titulos de Deuda en Dolar Estadounidense,16
+e,Bono Prov Cordoba 2032,Subsoberano,Prov. Cordoba,USD,4.91,997981.6528,,,Titulos de Deuda en Dolar Estadounidense,16
+e,Bono Prov Cordoba 2029 CO27D,Subsoberano,Prov. Cordoba,USD,4.78,971558.5133,,,Titulos de Deuda en Dolar Estadounidense,15
+e,Bono Prov Santa Fe 8.1% 111234,Subsoberano,Prov. Santa Fe,USD,4.72,959363.2182,,,Titulos de Deuda en Dolar Estadounidense,37
+e,ON Pluspetrol Clase 5,ON,Pluspetrol,USD,4.48,910582.0376,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON YPF Luz C23,ON,YPF Luz,USD,3.31,672773.7822,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Genneia Clase 48,ON,Genneia,USD,2.61,530495.3389,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON Oldelval Clase 5,ON,Oldelval,USD,2.55,518300.0437,,,Titulos de Deuda en Dolar Estadounidense,34
+e,ON Oldelval Clase 7,ON,Oldelval,USD,2.52,512202.3961,,,Titulos de Deuda en Dolar Estadounidense,41
+e,ON Arcor C5,ON,Arcor,USD,2.5,508137.2978,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Banco Prov Clase 8,ON,Banco Provincia,USD,2.48,504072.1994,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Pampa Energia C28,ON,Pampa Energia,USD,2.4,487811.8058,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Pampa Energia C29,ON,Pampa Energia,USD,1.97,400412.1906,,,Titulos de Deuda en Dolar Estadounidense,28
+e,ON Pan American C35,ON,Pan American,USD,1.8,365858.8544,,,Titulos de Deuda en Dolar Estadounidense,23
+e,ON Oiltanking S3,ON,Oiltanking,USD,1.52,308947.477,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Central Puerto Clase E,ON,Central Puerto,USD,1.47,298784.7311,,,Titulos de Deuda en Dolar Estadounidense,31
+e,ON Pluspetrol Clase 6,ON,Pluspetrol,USD,0.78,158538.8369,,,Titulos de Deuda en Dolar Estadounidense,43
+e,ON Genneia Clase 47,ON,Genneia,USD,0.75,152441.1893,,,Titulos de Deuda en Dolar Estadounidense,21
+e,FCI Megaqm Liquidez Dólar - Clase B,FCI,Megaqm Liquidez Dólar,USD,0.2,40650.9838,,,Certificados de Participacion Argentina,20
+p,SBS Renta Dólar Argentina,SBS,RF USD corp loc,25.1084,0.435,12,,,,
+p,Consultatio Multimercado III,Consultatio,RF USD corp loc,24.5035,0.31,7,,,,
+p,Balanz Ahorro en Dólares,Balanz,RF USD corp loc,23.2306,0.2895,12,,,,
+p,Balanz Capital Estrategia V USD,Balanz,RF USD corp loc,21.3554,0.205,7,,,,
+p,Schroder Retorno Total,Schroder,RF USD corp loc,21.134,0.2749,9,,,,
+p,Axis Rosental USD Strategic Income,Axis,RM y Otros USD,20.4788,0.2478,9,,,,
+p,Premier Renta Mixta en Dólares,Supervielle,RF USD corp loc,20.3577,0.2722,5,,,,
+p,Novus Renta Dólar,Novus,RF USD Disc,20.1152,0.2733,6,,,,

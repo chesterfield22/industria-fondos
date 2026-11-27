@@ -1,0 +1,100 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Tandem Pesos Ahorro Plus,,,,,,,,
+m,gerente,Tandem Capital S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,32424116464,,,,,,,,
+m,aum_planilla,32424116464,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86576,,,,,,,,
+m,n_especies,44,,,,,,,,
+m,activos_pn,55.34,,,,,,,,
+m,pasivos_cnv,44.66,,,,,,,,
+m,liquidez,3.17,,,,,,,,
+m,top1,8.82,,,,,,,,
+m,top5,24.12,,,,,,,,
+m,top10,35.18,,,,,,,,
+m,hhi_especies,179.7334,,,,,,,,
+m,n_emisores,7,,,,,,,,
+m,emisor_top,Megabono,,,,,,,,
+m,emisor_top_pct,12.12,,,,,,,,
+m,hhi_emisores,189.0698,,,,,,,,
+m,sin_emisor_pct,30.58,,,,,,,,
+t,Cheque,27.37,22,,,,,,,
+t,Fideicomiso financiero,13.54,16,,,,,,,
+t,FCI,4.78,1,,,,,,,
+t,ON,3.28,1,,,,,,,
+t,Pagaré,3.05,1,,,,,,,
+t,Caución,2.78,1,,,,,,,
+t,FCE,0.16,2,,,,,,,
+c,ARS,36.64,,,,,,,,
+c,sin dato,18.32,,,,,,,,
+r,Disponibilidades,0.39,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,33.85,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,2.78,,,,,,,,
+r,Certificados de Participacion Argentina,18.32,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,44.66,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-44.66,,,,,,,,
+e,Cheque E *MAV201102481,Cheque,,ARS,8.82,2859807072,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,4.78,1549872767,,,Certificados de Participacion Argentina,96
+e,FF Megabono 352 Clase A,Fideicomiso financiero,Megabono,,3.76,1219146779,,,Certificados de Participacion Argentina,7
+e,Cheque E *MAV201102317,Cheque,,ARS,3.48,1128359253,,,Titulos de Deuda en Peso Argentina,1
+e,ON Tarj Naranja C67 S1,ON,Tarj Naranja,ARS,3.28,1063511020,,,Titulos de Deuda en Peso Argentina,40
+e,Pagare #MAV161160072,Pagaré,,ARS,3.05,988935552,,,Titulos de Deuda en Peso Argentina,1
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,2.78,901390438,,,Operaciones a Plazo en Peso Argentina,195
+e,FF Megabono 348 Clase A,Fideicomiso financiero,Megabono,,1.83,593361331,,,Certificados de Participacion Argentina,11
+e,Cheque E *MAV141101895,Cheque,,ARS,1.73,560937215,,,Titulos de Deuda en Peso Argentina,1
+e,FF Megabono 351 Clase A,Fideicomiso financiero,Megabono,,1.67,541482745,,,Certificados de Participacion Argentina,13
+e,FF Megabono 347 Clase A,Fideicomiso financiero,Megabono,,1.29,418271102,,,Certificados de Participacion Argentina,10
+e,Cheque E *MAV261101677,Cheque,,ARS,1.1,356665281,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041101677,Cheque,,ARS,1.06,343695635,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101102396,Cheque,,ARS,1.04,337210811,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101102397,Cheque,,ARS,1.04,337210811,,,Titulos de Deuda en Peso Argentina,1
+e,FF Megabono 344 Clase A,Fideicomiso financiero,Megabono,,0.96,311271518,,,Certificados de Participacion Argentina,13
+e,FF Megabono 346 Clase A,Fideicomiso financiero,Megabono,,0.93,301544283,,,Certificados de Participacion Argentina,9
+e,Cheque E *MAV251101978,Cheque,,ARS,0.91,295059460,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251102014,Cheque,,ARS,0.91,295059460,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181101609,Cheque,,ARS,0.91,295059460,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041101647,Cheque,,ARS,0.87,282089813,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131102053,Cheque,,ARS,0.83,269120167,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181101822,Cheque,,ARS,0.79,256150520,,,Titulos de Deuda en Peso Argentina,1
+e,FF Elebar XVI Clase A,Fideicomiso financiero,Elebar XVI,,0.71,230211227,,,Certificados de Participacion Argentina,9
+e,Cheque E *MAV091101156,Cheque,,ARS,0.61,197787110,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251102012,Cheque,,ARS,0.6,194544699,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251102013,Cheque,,ARS,0.6,194544699,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171201419,Cheque,,ARS,0.59,191302287,,,Titulos de Deuda en Peso Argentina,1
+e,FF Confibono S83 Clase A,Fideicomiso financiero,Confibono,,0.56,181575052,,,Certificados de Participacion Argentina,11
+e,Cheque E *MAV141101896,Cheque,,ARS,0.54,175090229,,,Titulos de Deuda en Peso Argentina,1
+e,FF Megabono 341 Clase A,Fideicomiso financiero,Megabono,,0.5,162120582,,,Certificados de Participacion Argentina,12
+e,Cheque E *ZOF191100006,Cheque,,ARS,0.35,113484408,,,Titulos de Deuda en Peso Argentina,1
+e,FF Megabono 337 Clase A,Fideicomiso financiero,Megabono,,0.34,110241996,,,Certificados de Participacion Argentina,6
+e,Cheque E *MAV251102011,Cheque,,ARS,0.3,97272349,,,Titulos de Deuda en Peso Argentina,1
+e,FF Megabono 333 Clase A,Fideicomiso financiero,Megabono,,0.28,90787526,,,Certificados de Participacion Argentina,14
+e,Cheque E *MAV131101588,Cheque,,ARS,0.28,90787526,,,Titulos de Deuda en Peso Argentina,1
+e,FF Megabono 340 Clase A,Fideicomiso financiero,Megabono,,0.2,64848233,,,Certificados de Participacion Argentina,11
+e,FF Megabono 335 Clase A,Fideicomiso financiero,Megabono,,0.2,64848233,,,Certificados de Participacion Argentina,11
+e,FF Megabono Crédito 328 Clase A,Fideicomiso financiero,Megabono Crédito,,0.15,48636175,,,Certificados de Participacion Argentina,4
+e,Factura E %PAE231100007,FCE,,ARS,0.14,45393763,,,Titulos de Deuda en Peso Argentina,1
+e,FF Megabono 324 Clase A,Fideicomiso financiero,Megabono,,0.12,38908940,,,Certificados de Participacion Argentina,9
+e,FF Megabono 322 Clase A,Fideicomiso financiero,Megabono,,0.04,12969647,,,Certificados de Participacion Argentina,17
+e,Factura E %PAE271100005,FCE,,ARS,0.02,6484823,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181101864,Cheque,,ARS,0.01,3242412,,,Titulos de Deuda en Peso Argentina,1
+p,SBS Tavelli Abierto Pymes,SBS,PYME,9.4921,0.208,2,,,,
+p,Adcap Financiamiento Megra,Adcap,T+1,8.7239,0.227,2,,,,
+p,Cocos Premium Equity,Cocos,RM y Otros ARS,8.6972,0.3565,1,,,,
+p,Consultatio Estrategia V,Consultatio,RF USD Disc,8.6972,0.3565,1,,,,
+p,IOL Portafolio Potenciado,Adcap,RM y Otros ARS,8.6972,0.2321,1,,,,
+p,BAVSA Deuda Privada Argentina USD,BAVSA,RF USD Disc,8.6972,0.2119,1,,,,
+p,BAVSA Abierto Pymes Deuda Argentina,BAVSA,PYME,8.2004,0.1397,2,,,,
+p,Cocos Pesos Plus,Cocos,RF ARS Disc,8.1224,0.1157,2,,,,

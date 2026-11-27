@@ -1,0 +1,59 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,GMC Renta Fija Dolares,,,,,,,,
+m,gerente,GMC Asset Management S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,3616535,,,,,,,,
+m,aum_planilla,3616535,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88528,,,,,,,,
+m,n_especies,10,,,,,,,,
+m,activos_pn,64.18,,,,,,,,
+m,pasivos_cnv,35.82,,,,,,,,
+m,liquidez,0.13,,,,,,,,
+m,top1,10.79,,,,,,,,
+m,top5,40.55,,,,,,,,
+m,top10,64.05,,,,,,,,
+m,hhi_especies,455.7083,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Adcap Ahorro Dólares,,,,,,,,
+m,emisor_top_pct,10.79,,,,,,,,
+m,hhi_emisores,455.7083,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,53.26,9,,,,,,,
+t,FCI,10.79,1,,,,,,,
+c,USD,64.05,,,,,,,,
+r,Disponibilidades,0.13,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,53.26,,,,,,,,
+r,Certificados de Participacion Argentina,10.79,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,35.82,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-35.82,,,,,,,,
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,10.79,390224.0812,,,Certificados de Participacion Argentina,37
+e,ON CGC C 36,ON,CGC,USD,8.39,303427.2513,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Bco Serv Transac C31,ON,Banco Serv Transac,USD,8.34,301618.984,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Capex C12,ON,Capex,USD,7.18,259667.1828,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON Pluspetrol Clase 6,ON,Pluspetrol,USD,5.85,211567.2729,,,Titulos de Deuda en Dolar Estadounidense,43
+e,ON John Deere Cia. Fin C19,ON,John Deere Cia. Fin,USD,5.77,208674.0453,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON Edenor C11,ON,Edenor,USD,5.53,199994.3623,,,Titulos de Deuda en Dolar Estadounidense,31
+e,ON Havanna S1,ON,Havanna,USD,4.22,152617.7593,,,Titulos de Deuda en Dolar Estadounidense,6
+e,ON Lab. Richmond S8 Clase B,ON,Lab. Richmond,USD,4.13,149362.8782,,,Titulos de Deuda en Dolar Estadounidense,3
+e,ON Farmacity C1,ON,Farmacity,USD,3.85,139236.5813,,,Titulos de Deuda en Dolar Estadounidense,9
+p,Max Retorno Total Pesos,Max Capital,RF MULT Disc,13.0991,0.09,1,,,,
+p,Toronto Trust Ahorro Dólar,Investis,RF USD CP,13.0211,0.1874,1,,,,
+p,Compass Renta Mixta Dólares II,Investis,RF USD Disc,12.3712,0.1415,1,,,,
+p,Allaria Dólar Dinámico,Allaria,RF USD corp loc,11.718,0.1533,5,,,,
+p,Desarrollo Argentino III FCI Abierto para el Fin. de la Infra. y la Econ. Real,Investis,INFRA,10.8706,0.1664,1,,,,
+p,Allaria Dólar Performance II,Allaria,RF USD Disc,10.8338,0.1369,1,,,,
+p,Apolo Dólares,GMC,RF USD Disc,10.7298,0.1813,3,,,,
+p,Allaria Dólar Ahorro Plus,Allaria,RF USD CP,9.993,0.275,2,,,,

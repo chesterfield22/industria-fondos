@@ -1,0 +1,92 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Benedit Multiestrategia,,,,,,,,
+m,gerente,Axis S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5821636485,,,,,,,,
+m,aum_planilla,5821636485,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86701,,,,,,,,
+m,n_especies,37,,,,,,,,
+m,activos_pn,94.11,,,,,,,,
+m,pasivos_cnv,5.89,,,,,,,,
+m,liquidez,13.98,,,,,,,,
+m,top1,13.97,,,,,,,,
+m,top5,48.53,,,,,,,,
+m,top10,71.37,,,,,,,,
+m,hhi_especies,645.7593,,,,,,,,
+m,n_emisores,17,,,,,,,,
+m,emisor_top,Caución Merval,,,,,,,,
+m,emisor_top_pct,13.97,,,,,,,,
+m,hhi_emisores,634.0815,,,,,,,,
+m,sin_emisor_pct,10.42,,,,,,,,
+t,Cedear,51.38,11,,,,,,,
+t,Caución,13.97,1,,,,,,,
+t,Cheque,10.42,20,,,,,,,
+t,Soberano,9.68,1,,,,,,,
+t,Acción,5.78,3,,,,,,,
+t,ETF,2.84,1,,,,,,,
+c,ARS,91.23,,,,,,,,
+c,sin dato,2.84,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,20.13,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,13.97,,,,,,,,
+r,Participaciones Accionarias Argentina,60,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,5.89,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-5.89,,,,,,,,
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,13.97,813282617,,,Operaciones a Plazo en Peso Argentina,195
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,9.68,563534412,,,Titulos de Deuda en Peso Argentina,250
+e,Cedear Itau Unibanco Holdings,Cedear,Itau Unibanco Holdings,ARS,9,523947284,,,Participaciones Accionarias Argentina,10
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,8.1,471552555,,,Participaciones Accionarias Argentina,38
+e,Cedear Banco BTG Pactual,Cedear,Banco BTG Pactual,ARS,7.78,452923319,,,Participaciones Accionarias Argentina,5
+e,Cedear Banco Bradesco ON N1,Cedear,Banco Bradesco ON N1,ARS,6.61,384810172,,,Participaciones Accionarias Argentina,8
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,5.79,337072752,,,Participaciones Accionarias Argentina,52
+e,Cedear Petroleo Brasilero,Cedear,Petroleo Brasilero,ARS,4.06,236358441,,,Participaciones Accionarias Argentina,8
+e,Cedear Tim Participacoes S.A.,Cedear,Tim Participacoes S.A.,ARS,3.44,200264295,,,Participaciones Accionarias Argentina,4
+e,YPF S.A.,Acción,YPF,ARS,2.94,171156113,,,Participaciones Accionarias Argentina,122
+e,Cedear Ishares Bitcoin Trust,ETF,Cedear Ishares Bitcoin Trust,,2.84,165334476,,,Participaciones Accionarias Argentina,4
+e,Cedear SpaceX,Cedear,SpaceX,ARS,2.3,133897639,,,Participaciones Accionarias Argentina,2
+e,Cedear Micron Technology,Cedear,Micron Technology,ARS,1.73,100714311,,,Participaciones Accionarias Argentina,11
+e,Cheque E *MAV111101256,Cheque,,ARS,1.71,99549984,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091100794,Cheque,,ARS,1.71,99549984,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121101148,Cheque,,ARS,1.7,98967820,,,Titulos de Deuda en Peso Argentina,1
+e,Cedear Adecoagro,Cedear,Adecoagro,ARS,1.58,91981856,,,Participaciones Accionarias Argentina,9
+e,Sociedad Comercial del Plata S.A.,Acción,Sociedad Comercial del Plata,ARS,1.57,91399693,,,Participaciones Accionarias Argentina,31
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,1.27,73934783,,,Participaciones Accionarias Argentina,129
+e,Cheque E *MAV111101746,Cheque,,ARS,1.07,62291510,,,Titulos de Deuda en Peso Argentina,1
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,0.99,57634201,,,Participaciones Accionarias Argentina,50
+e,Cheque E *MAV111101748,Cheque,,ARS,0.68,39587128,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121101612,Cheque,,ARS,0.51,29690346,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121201700,Cheque,,ARS,0.49,28526019,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120101595,Cheque,,ARS,0.48,27943855,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120201183,Cheque,,ARS,0.46,26779528,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091101407,Cheque,,ARS,0.33,19211400,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051101052,Cheque,,ARS,0.27,15718419,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051101054,Cheque,,ARS,0.27,15718419,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051101053,Cheque,,ARS,0.27,15718419,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV061101506,Cheque,,ARS,0.23,13389764,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV290300924,Cheque,,ARS,0.04,2328655,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV211201133,Cheque,,ARS,0.04,2328655,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130401251,Cheque,,ARS,0.04,2328655,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120401135,Cheque,,ARS,0.04,2328655,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV300301221,Cheque,,ARS,0.04,2328655,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200101802,Cheque,,ARS,0.04,2328655,,,Titulos de Deuda en Peso Argentina,1
+p,Pionero Acciones Plus,Macro,RV ARG Otros,41.2034,0.5139,8,,,,
+p,Allaria Equity Selection,Allaria,RV Global,34.2892,0.4352,8,,,,
+p,SBS Acciones Brasil,SBS,RV Global,32.7095,0.4922,5,,,,
+p,Compass Renta Mixta II,Investis,RV Global,31.0417,0.4577,5,,,,
+p,Puente Renta Fija Pesos IV,Puente,RF ARS Disc,28.3713,0.5385,4,,,,
+p,Cocos Renta Dólar,Cocos,RM y Otros USD,26.0561,0.3796,3,,,,
+p,Quiron Fixed Income,Quiron,RF MULT Disc,25.1409,0.5917,2,,,,
+p,Schroder Retorno Absoluto,Schroder,RF ARS Disc,25.1409,0.5552,2,,,,

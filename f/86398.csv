@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Quiron Renta Mixta,,,,,,,,
+m,gerente,Quiron Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,RV ARG Otros,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,904449787,,,,,,,,
+m,aum_planilla,904449787,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86398,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,103.19,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.12,,,,,,,,
+m,top1,16.76,,,,,,,,
+m,top5,65.44,,,,,,,,
+m,top10,96.97,,,,,,,,
+m,hhi_especies,1111.2526,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Pampa Energia,,,,,,,,
+m,emisor_top_pct,16.76,,,,,,,,
+m,hhi_emisores,1111.2526,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,76.46,7,,,,,,,
+t,ETF,14.72,2,,,,,,,
+t,Soberano,4.86,1,,,,,,,
+t,Cedear,3.85,1,,,,,,,
+t,FCI,0.27,1,,,,,,,
+c,ARS,85.44,,,,,,,,
+c,sin dato,14.72,,,,,,,,
+r,Disponibilidades,0.12,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,4.86,,,,,,,,
+r,Participaciones Accionarias Argentina,95.03,,,,,,,,
+r,Certificados de Participacion Argentina,0.27,,,,,,,,
+r,Otros Activos,2.91,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),3.19,,,,,,,,
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,16.76,151585784,,,Participaciones Accionarias Argentina,129
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,15.07,136300583,,,Participaciones Accionarias Argentina,104
+e,Cedear Shares MSCI Brazil ETF,ETF,Cedear Shares MSCI Brazil ETF,,11.8,106725075,,,Participaciones Accionarias Argentina,23
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,11.49,103921281,,,Participaciones Accionarias Argentina,104
+e,Matba Rofex S.A.,Acción,Matba Rofex,ARS,10.32,93339218,,,Participaciones Accionarias Argentina,8
+e,YPF S.A.,Acción,YPF,ARS,9.31,84204275,,,Participaciones Accionarias Argentina,122
+e,Transportadora de Gas del Norte S.A.,Acción,Transportadora de Gas del Norte,ARS,7.26,65663055,,,Participaciones Accionarias Argentina,70
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,6.25,56528112,,,Participaciones Accionarias Argentina,117
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,4.86,43956260,,,Titulos de Deuda en Peso Argentina,250
+e,Cedear Berkshire Hathaway,Cedear,Berkshire Hathaway,ARS,3.85,34821317,,,Participaciones Accionarias Argentina,2
+e,Cedear Ishares FTSE/Xinhua China,ETF,Cedear Ishares FTSE/Xinhua China,,2.92,26409934,,,Participaciones Accionarias Argentina,2
+e,FCI Premier Renta CP $ CC,FCI,Premier Renta CP $ CC,ARS,0.27,2442014,,,Certificados de Participacion Argentina,27
+p,Alpha Mercosur,ICBC,RV Global,51.9027,0.7074,7,,,,
+p,Schroder Renta Variable,Schroder,RV ARG Merval,51.0885,0.6693,6,,,,
+p,Delta Recursos Naturales,Delta,RV ARG Otros,50.8204,0.6856,5,,,,
+p,Parakeet Capital Plus,Parakeet,RV ARG Merval,48.8711,0.6915,6,,,,
+p,Fima Acciones,Galicia,RV ARG Merval,48.7688,0.6548,6,,,,
+p,Superfondo Renta Variable,Santander,RV ARG Merval,47.9648,0.6495,6,,,,
+p,Axis Brio Valores I,Axis,RV ARG Otros,47.9172,0.6618,7,,,,
+p,SBS Acciones Argentina,SBS,RV ARG Merval,47.0925,0.6317,6,,,,

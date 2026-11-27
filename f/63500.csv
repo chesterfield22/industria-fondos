@@ -1,0 +1,139 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Lombard Capital,,,,,,,,
+m,gerente,Patagonia Inversora S.A.U. S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Patagonia S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,126328334130,,,,,,,,
+m,aum_planilla,126441329692,,,,,,,,
+m,dif_pn_aum,-0.0009,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63500,,,,,,,,
+m,n_especies,81,,,,,,,,
+m,activos_pn,99.26,,,,,,,,
+m,pasivos_cnv,0.74,,,,,,,,
+m,liquidez,1.07,,,,,,,,
+m,top1,14.9,,,,,,,,
+m,top5,41.7,,,,,,,,
+m,top10,54.33,,,,,,,,
+m,hhi_especies,526.9595,,,,,,,,
+m,n_emisores,38,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,36.36,,,,,,,,
+m,hhi_emisores,1495.4055,,,,,,,,
+m,sin_emisor_pct,5.78,,,,,,,,
+t,Soberano,36.36,5,,,,,,,
+t,ON,27.89,36,,,,,,,
+t,Plazo fijo,18.04,7,,,,,,,
+t,Fideicomiso financiero,5.98,17,,,,,,,
+t,Pagaré,3.47,3,,,,,,,
+t,FCI,3.32,6,,,,,,,
+t,Cheque,2.31,3,,,,,,,
+t,Caución,1.07,1,,,,,,,
+t,Subsoberano,0.85,3,,,,,,,
+c,ARS,90.12,,,,,,,,
+c,sin dato,9.17,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,70.85,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,19.11,,,,,,,,
+r,Certificados de Participacion Argentina,9.3,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.74,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.74,,,,,,,,
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,14.9,18822921785,,,Titulos de Deuda en Peso Argentina,160
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,12.08,15260462763,,,Titulos de Deuda en Peso Argentina,166
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,7.51,9487257893,,,Titulos de Deuda en Peso Argentina,159
+e,Pzo Fi $ Banco de Serv y Transacciones (BST),Plazo fijo,Banco de Serv y Transacciones (BST),ARS,3.99,5040500532,,,Operaciones a Plazo en Peso Argentina,20
+e,Pzo Fi $ Bco Santander Ri,Plazo fijo,Banco Santander Ri,ARS,3.22,4067772359,,,Operaciones a Plazo en Peso Argentina,68
+e,Pzo Fi $ Bco Cordoba,Plazo fijo,Banco Cordoba,ARS,3.2,4042506692,,,Operaciones a Plazo en Peso Argentina,41
+e,Pzo Fi $ Bco Nacion,Plazo fijo,Banco Nacion,ARS,2.8,3537193356,,,Operaciones a Plazo en Peso Argentina,84
+e,ON Arcor C6,ON,Arcor,ARS,2.5,3158208353,,,Titulos de Deuda en Peso Argentina,31
+e,Pzo Fi $ Bco Galicia,Plazo fijo,Banco Galicia,ARS,2.42,3057145686,,,Operaciones a Plazo en Peso Argentina,67
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,1.71,2160214514,,,Titulos de Deuda en Peso Argentina,61
+e,ON Tarj Naranja C67 S1,ON,Tarj Naranja,ARS,1.69,2134948847,,,Titulos de Deuda en Peso Argentina,40
+e,ON Mercado Pago C8,ON,Mercado Pago,ARS,1.68,2122316013,,,Titulos de Deuda en Peso Argentina,17
+e,ON Arcor C8,ON,Arcor,ARS,1.64,2071784680,,,Titulos de Deuda en Peso Argentina,22
+e,Pzo Fi $ Bco Macro Bansud,Plazo fijo,Banco Macro Bansud,ARS,1.61,2033886179,,,Operaciones a Plazo en Peso Argentina,21
+e,ON Rombo Cia Fciera S67,ON,Rombo Cia Fciera,ARS,1.61,2033886179,,,Titulos de Deuda en Peso Argentina,11
+e,Pagare #MAV261160105,Pagaré,,ARS,1.56,1970722012,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV301260030,Pagaré,,ARS,1.52,1920190679,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Fundcorp Liquidez - Clase C,FCI,Fundcorp Liquidez,,1.4,1768596678,,,Certificados de Participacion Argentina,2
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,1.26,1591737010,,,Titulos de Deuda en Peso Argentina,75
+e,ON Arcor C4,ON,Arcor,ARS,1.26,1591737010,,,Titulos de Deuda en Peso Argentina,28
+e,FF Mercado Credito 48 CA,Fideicomiso financiero,Mercado Credito,,1.2,1515940010,,,Certificados de Participacion Argentina,27
+e,ON Mercado Pago C3,ON,Mercado Pago,ARS,1.18,1490674343,,,Titulos de Deuda en Peso Argentina,21
+e,Caucion Colocadora $ MAE,Caución,Caución MAE,ARS,1.07,1351713175,,,Operaciones a Plazo en Peso Argentina,15
+e,ON Banco Hipotecario C11,ON,Banco Hipotecario,ARS,0.84,1061158007,,,Titulos de Deuda en Peso Argentina,21
+e,ON Tarj Naranja C66 S1,ON,Tarj Naranja,ARS,0.84,1061158007,,,Titulos de Deuda en Peso Argentina,17
+e,ON Mercado Pago C6,ON,Mercado Pago,ARS,0.84,1061158007,,,Titulos de Deuda en Peso Argentina,19
+e,ON Mercado Pago C5,ON,Mercado Pago,ARS,0.84,1061158007,,,Titulos de Deuda en Peso Argentina,15
+e,ON BBVA Frances Cl 46,ON,BBVA Frances,ARS,0.84,1061158007,,,Titulos de Deuda en Peso Argentina,35
+e,ON Banco de Galicia 32 BYY1O,ON,Banco de Galicia,ARS,0.83,1048525173,,,Titulos de Deuda en Peso Argentina,44
+e,ON Arcor C3,ON,Arcor,ARS,0.83,1048525173,,,Titulos de Deuda en Peso Argentina,35
+e,ON BBVA Frances Cl 47,ON,BBVA Frances,ARS,0.83,1048525173,,,Titulos de Deuda en Peso Argentina,45
+e,ON Mastellone Clase 3,ON,Mastellone,ARS,0.82,1035892340,,,Titulos de Deuda en Peso Argentina,8
+e,ON Santander Rio S 31,ON,Santander Rio,ARS,0.8,1010626673,,,Titulos de Deuda en Peso Argentina,40
+e,Pzo Fi $ Bco Supervielle,Plazo fijo,Banco Supervielle,ARS,0.8,1010626673,,,Operaciones a Plazo en Peso Argentina,37
+e,FF Mercado Credito 47 CA,Fideicomiso financiero,Mercado Credito,,0.8,1010626673,,,Certificados de Participacion Argentina,35
+e,Cheque #MAV011260031,Cheque,,ARS,0.78,985361006,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV161260035,Cheque,,ARS,0.77,972728173,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV050170062,Cheque,,ARS,0.76,960095339,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Pionero Pesos Plus - Clase B,FCI,Pionero Pesos Plus,,0.72,909564006,,,Certificados de Participacion Argentina,40
+e,FCI Tango Money Market Dinámico - Clase B,FCI,Tango Money Market Dinámico,,0.66,833767005,,,Certificados de Participacion Argentina,13
+e,ON Rombo Cia Fciera S64,ON,Rombo Cia Fciera,ARS,0.62,783235672,,,Titulos de Deuda en Peso Argentina,10
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,0.61,770602838,,,Titulos de Deuda en Peso Argentina,149
+e,FF Mercado Credito 50 CA,Fideicomiso financiero,Mercado Credito,,0.6,757970005,,,Certificados de Participacion Argentina,29
+e,ON BACS Clase 19,ON,BACS,ARS,0.48,606376004,,,Titulos de Deuda en Peso Argentina,19
+e,FF Mercado Credito 46 CA,Fideicomiso financiero,Mercado Credito,,0.48,606376004,,,Certificados de Participacion Argentina,28
+e,ON Mirgor Clase 7,ON,Mirgor,ARS,0.42,530579003,,,Titulos de Deuda en Peso Argentina,7
+e,Letra Muni Cordoba S53,Subsoberano,Muni. Cordoba,ARS,0.41,517946170,,,Titulos de Deuda en Peso Argentina,17
+e,ON Rombo Cia Fciera S69,ON,Rombo Cia Fciera,ARS,0.41,517946170,,,Titulos de Deuda en Peso Argentina,15
+e,Letra Prov Rio Negro S1 240927,Subsoberano,Prov. Rio Negro,ARS,0.41,517946170,,,Titulos de Deuda en Peso Argentina,9
+e,ON Santander Rio S 32,ON,Santander Rio,ARS,0.41,517946170,,,Titulos de Deuda en Peso Argentina,42
+e,ON Edesa Clase 3,ON,Edesa,ARS,0.41,517946170,,,Titulos de Deuda en Peso Argentina,21
+e,ON ICBC Clase 5 110327,ON,ICBC,ARS,0.41,517946170,,,Titulos de Deuda en Peso Argentina,36
+e,ON Volkswagen Financial Services C15,ON,Volkswagen Financial Services,ARS,0.41,517946170,,,Titulos de Deuda en Peso Argentina,19
+e,FF Mercado Credito 53 CA,Fideicomiso financiero,Mercado Credito,,0.4,505313337,,,Certificados de Participacion Argentina,25
+e,FF Mercado Credito 52 CA,Fideicomiso financiero,Mercado Credito,,0.4,505313337,,,Certificados de Participacion Argentina,21
+e,ON Banco Comafi C22,ON,Banco Comafi,ARS,0.4,505313337,,,Titulos de Deuda en Peso Argentina,30
+e,ON Tarj Naranja C68 S1,ON,Tarj Naranja,ARS,0.4,505313337,,,Titulos de Deuda en Peso Argentina,17
+e,ON BACS Clase 20,ON,BACS,ARS,0.4,505313337,,,Titulos de Deuda en Peso Argentina,18
+e,ON Toyota Clase 37,ON,Toyota,ARS,0.4,505313337,,,Titulos de Deuda en Peso Argentina,5
+e,FF Mercado Credito 49 CA,Fideicomiso financiero,Mercado Credito,,0.4,505313337,,,Certificados de Participacion Argentina,25
+e,Pagare #MAV171160076,Pagaré,,ARS,0.39,492680503,,,Titulos de Deuda en Peso Argentina,1
+e,FF Mercado Credito 54 CA,Fideicomiso financiero,Mercado Credito,,0.32,404250669,,,Certificados de Participacion Argentina,28
+e,FF Mercado Credito 55 CA,Fideicomiso financiero,Mercado Credito,,0.27,341086502,,,Certificados de Participacion Argentina,30
+e,FF Cuotas Cencosud S61 VDFA,Fideicomiso financiero,Cuotas Cencosud,,0.24,303188002,,,Certificados de Participacion Argentina,4
+e,FF Mercado Credito 51 CA,Fideicomiso financiero,Mercado Credito,,0.24,303188002,,,Certificados de Participacion Argentina,34
+e,FCI BM Smart Money Market - Clase B,FCI,BM Smart Money Market,,0.23,290555168,,,Certificados de Participacion Argentina,34
+e,ON ICBC Clase 4 281126,ON,ICBC,ARS,0.21,265289502,,,Titulos de Deuda en Peso Argentina,23
+e,ON Volkswagen Financial Services C16,ON,Volkswagen Financial Services,ARS,0.21,265289502,,,Titulos de Deuda en Peso Argentina,7
+e,ON Credicuotas Consumo S20,ON,Credicuotas Consumo,ARS,0.2,252656668,,,Titulos de Deuda en Peso Argentina,19
+e,FF Cuotas Cencosud S62 VDFA,Fideicomiso financiero,Cuotas Cencosud,,0.2,252656668,,,Certificados de Participacion Argentina,6
+e,ON ICBC Clase 8 280827,ON,ICBC,ARS,0.19,240023835,,,Titulos de Deuda en Peso Argentina,10
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.18,227391001,,,Certificados de Participacion Argentina,96
+e,ON Volkswagen Financial Services C12,ON,Volkswagen Financial Services,ARS,0.17,214758168,,,Titulos de Deuda en Peso Argentina,15
+e,ON PSA Serie 35,ON,PSA,ARS,0.16,202125335,,,Titulos de Deuda en Peso Argentina,20
+e,FCI Premier Renta CP $ CC,FCI,Premier Renta CP $ CC,ARS,0.13,164226834,,,Certificados de Participacion Argentina,27
+e,FF Mercado Credito 45 CA,Fideicomiso financiero,Mercado Credito,,0.11,138961168,,,Certificados de Participacion Argentina,25
+e,FF Cuotas Cencosud S60 VDFA,Fideicomiso financiero,Cuotas Cencosud,,0.11,138961168,,,Certificados de Participacion Argentina,4
+e,FF Cuotas Cencosud S59 VDFA,Fideicomiso financiero,Cuotas Cencosud,,0.1,126328334,,,Certificados de Participacion Argentina,5
+e,FF Mercado Credito 44 CA,Fideicomiso financiero,Mercado Credito,,0.06,75797000,,,Certificados de Participacion Argentina,26
+e,FF Cuotas Cencosud S57 VDFA,Fideicomiso financiero,Cuotas Cencosud,,0.05,63164167,,,Certificados de Participacion Argentina,5
+e,Letra Prov Rio Negro S1 031226,Subsoberano,Prov. Rio Negro,ARS,0.03,37898500,,,Titulos de Deuda en Peso Argentina,15
+p,Crecer Ahorro,Ciudad,RF ARS Disc,45.8305,0.6201,34,,,,
+p,FBA Renta Fija Pesos I,BBVA,T+1,45.3791,0.7693,29,,,,
+p,SBS Gestion Renta Fija,SBS,T+1,44.2727,0.7625,38,,,,
+p,Fima Ahorro Pesos,Galicia,T+1,42.2885,0.8043,28,,,,
+p,Fima Ahorro Plus,Galicia,T+1,41.8533,0.6789,29,,,,
+p,CMA Proteccion,Capital Mark..,T+1,36.6815,0.6135,20,,,,
+p,Balanz Lecaps,Balanz,RF ARS Lecap,36.0156,0.6277,6,,,,
+p,Champaquí Ahorro Pesos,Bancor,T+1,35.7363,0.5571,21,,,,

@@ -1,0 +1,73 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Galileo Multimercado VIII,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1171473539,,,,,,,,
+m,aum_planilla,1171473539,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86308,,,,,,,,
+m,n_especies,19,,,,,,,,
+m,activos_pn,100.37,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,2.21,,,,,,,,
+m,top1,8.45,,,,,,,,
+m,top5,34.36,,,,,,,,
+m,top10,61.88,,,,,,,,
+m,hhi_especies,492.3217,,,,,,,,
+m,n_emisores,19,,,,,,,,
+m,emisor_top,Pionero Pesos Plus,,,,,,,,
+m,emisor_top_pct,8.45,,,,,,,,
+m,hhi_emisores,492.3217,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,68.66,15,,,,,,,
+t,FCI,8.45,1,,,,,,,
+t,Cedear,6.49,1,,,,,,,
+t,ETF,4.21,1,,,,,,,
+t,Soberano,3.24,1,,,,,,,
+c,ARS,78.39,,,,,,,,
+c,sin dato,12.66,,,,,,,,
+r,Disponibilidades,2.21,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,3.24,,,,,,,,
+r,Participaciones Accionarias Argentina,79.36,,,,,,,,
+r,Certificados de Participacion Argentina,8.45,,,,,,,,
+r,Otros Activos,7.11,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.37,,,,,,,,
+e,FCI Pionero Pesos Plus - Clase B,FCI,Pionero Pesos Plus,,8.45,98989514,,,Certificados de Participacion Argentina,40
+e,Metrogas S.A.,Acción,Metrogas,ARS,7.36,86220452,,,Participaciones Accionarias Argentina,54
+e,Cedear Facebook,Cedear,Facebook,ARS,6.49,76028633,,,Participaciones Accionarias Argentina,18
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,6.05,70874149,,,Participaciones Accionarias Argentina,85
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,6.01,70405560,,,Participaciones Accionarias Argentina,93
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,5.89,68999791,,,Participaciones Accionarias Argentina,86
+e,Telecom Argentina S.A.,Acción,Telecom Argentina,ARS,5.8,67945465,,,Participaciones Accionarias Argentina,43
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,5.8,67945465,,,Participaciones Accionarias Argentina,104
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,5.5,64431045,,,Participaciones Accionarias Argentina,117
+e,Transener S.A.,Acción,Transener,ARS,4.53,53067751,,,Participaciones Accionarias Argentina,84
+e,Cedear Spdr SyP 500 ETF,ETF,Cedear Spdr SyP 500 ETF,,4.21,49319036,,,Participaciones Accionarias Argentina,13
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,4.09,47913268,,,Participaciones Accionarias Argentina,129
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,3.61,42290195,,,Participaciones Accionarias Argentina,77
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,3.42,40064395,,,Participaciones Accionarias Argentina,104
+e,YPF S.A.,Acción,YPF,ARS,3.32,38892921,,,Participaciones Accionarias Argentina,122
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,ARS,3.24,37955743,,,Titulos de Deuda en Peso Argentina,72
+e,Transportadora de Gas del Norte S.A.,Acción,Transportadora de Gas del Norte,ARS,3.14,36784269,,,Participaciones Accionarias Argentina,70
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,2.2,25772418,,,Participaciones Accionarias Argentina,77
+e,Grupo Concesionario del Oeste S.A.,Acción,Grupo Concesionario del Oeste,ARS,1.94,22726587,,,Participaciones Accionarias Argentina,2
+p,Compass Crecimiento,Investis,RV ARG Merval,60.7788,0.725,14,,,,
+p,Toronto Trust Multimercado,Investis,RV ARG Otros,58.7868,0.6945,14,,,,
+p,SBS Acciones Argentina,SBS,RV ARG Merval,54.4733,0.6208,13,,,,
+p,Consultatio Acciones Argentina,Consultatio,RV ARG Merval,52.4119,0.5998,13,,,,
+p,MAF Acciones Argentina,Mariva,RV ARG Merval,52.3482,0.6178,14,,,,
+p,Alpha Acciones,ICBC,RV ARG Merval,51.7745,0.6234,14,,,,
+p,Balanz Equity Selection,Balanz,RV ARG Otros,51.5769,0.6188,10,,,,
+p,Alpha Mega,ICBC,RV ARG Merval,51.516,0.6148,14,,,,

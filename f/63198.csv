@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,FBA Horizonte,,,,,,,,
+m,gerente,BBVA Asset Management Argentina S.A.U.S.G.F.C.I.,,,,,,,,
+m,depositaria,BBVA Argentina S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,89044288907,,,,,,,,
+m,aum_planilla,89044288907,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63198,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,99.62,,,,,,,,
+m,pasivos_cnv,0.38,,,,,,,,
+m,liquidez,5.46,,,,,,,,
+m,top1,27.82,,,,,,,,
+m,top5,74.45,,,,,,,,
+m,top10,97.65,,,,,,,,
+m,hhi_especies,1657.4632,,,,,,,,
+m,n_emisores,4,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,86.68,,,,,,,,
+m,hhi_emisores,7594.4278,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,86.68,8,,,,,,,
+t,ON,7.45,2,,,,,,,
+t,Caución,5.05,1,,,,,,,
+t,FCI,0.02,1,,,,,,,
+c,ARS,99.18,,,,,,,,
+c,sin dato,0.02,,,,,,,,
+r,Disponibilidades,0.41,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,94.14,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,5.05,,,,,,,,
+r,Certificados de Participacion Argentina,0.02,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.38,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.38,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,27.82,24772121174,,,Titulos de Deuda en Peso Argentina,103
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,24.24,21584335631,,,Titulos de Deuda en Peso Argentina,75
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,10.05,8948951035,,,Titulos de Deuda en Peso Argentina,158
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,6.58,5859114210,,,Titulos de Deuda en Peso Argentina,92
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,5.76,5128951041,,,Titulos de Deuda en Peso Argentina,166
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,5.54,4933053605,,,Titulos de Deuda en Peso Argentina,149
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,5.39,4799487172,,,Titulos de Deuda en Peso Argentina,42
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,5.16,4594685308,,,Titulos de Deuda en Peso Argentina,160
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,5.05,4496736590,,,Operaciones a Plazo en Peso Argentina,195
+e,ON Vista Gas y Oil Arg C17,ON,Vista Gas y Oil Arg,ARS,2.06,1834312351,,,Titulos de Deuda en Peso Argentina,23
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,1.53,1362377620,,,Titulos de Deuda en Peso Argentina,118
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.02,17808858,,,Certificados de Participacion Argentina,77
+p,Superfondo Multirenta,Santander,RF MULT Disc,70.6098,0.8479,6,,,,
+p,Pellegrini Agro FCI,Pellegrini,RM y Otros ARS,65.6027,0.8789,5,,,,
+p,SBS Patrimonio II,SBS,RF MULT Disc,60.2106,0.8705,4,,,,
+p,Max Retorno Total Pesos III,Max Capital,RF MULT Disc,58.0645,0.9044,3,,,,
+p,First Renta Mixta III,First Cap Mkts,RF USD Linked,56.7588,0.7764,4,,,,
+p,Champaquí Estratégico,Bancor,RF USD Linked,56.2116,0.748,4,,,,
+p,Allaria Patrimonio II,Allaria,RF USD Linked,56.0603,0.8133,4,,,,
+p,Optimum Renta Mixta Flexible Argentina,Santander,RF USD Linked,55.6803,0.7957,3,,,,

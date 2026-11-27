@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Quiron Pymes Capital Plus,,,,,,,,
+m,gerente,Quiron Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,PYME,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,52766826,,,,,,,,
+m,aum_planilla,52766826,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83888,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,99.57,,,,,,,,
+m,pasivos_cnv,0.43,,,,,,,,
+m,liquidez,19.78,,,,,,,,
+m,top1,17.66,,,,,,,,
+m,top5,53.42,,,,,,,,
+m,top10,73.28,,,,,,,,
+m,hhi_especies,735.739,,,,,,,,
+m,n_emisores,2,,,,,,,,
+m,emisor_top,Red Surcos,,,,,,,,
+m,emisor_top_pct,11.44,,,,,,,,
+m,hhi_emisores,130.8817,,,,,,,,
+m,sin_emisor_pct,68.25,,,,,,,,
+t,Cheque,68.25,12,,,,,,,
+t,ON,11.44,2,,,,,,,
+t,FCI,0.09,1,,,,,,,
+c,ARS,79.78,,,,,,,,
+r,Disponibilidades,19.78,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,79.7,,,,,,,,
+r,Certificados de Participacion Argentina,0.09,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.43,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.43,,,,,,,,
+e,Cheque E *PRO080100015,Cheque,,ARS,17.66,9318622,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *CUY101200046,Cheque,,ARS,11.07,5841288,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *PRO171200015,Cheque,,ARS,10,5276683,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FAE071200009,Cheque,,ARS,7.39,3899468,,,Titulos de Deuda en Peso Argentina,1
+e,ON Red Surcos S10 Clase A,ON,Red Surcos,ARS,7.3,3851978,,,Titulos de Deuda en Peso Argentina,7
+e,Cheque E *NEU101100039,Cheque,,ARS,5.66,2986602,,,Titulos de Deuda en Peso Argentina,1
+e,ON Red Surcos S12 Clase A,ON,Red Surcos,ARS,4.14,2184547,,,Titulos de Deuda en Peso Argentina,6
+e,Cheque E *PRO130400012,Cheque,,ARS,3.37,1778242,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *PRO200400011,Cheque,,ARS,3.35,1767689,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *PRO270400008,Cheque,,ARS,3.34,1762412,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *CUY161200052,Cheque,,ARS,1.84,970909.6074,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *CUY161200053,Cheque,,ARS,1.84,970909.6074,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *PRO161200016,Cheque,,ARS,1.38,728182.2056,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *PRO130100012,Cheque,,ARS,1.35,712352.1576,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Premier Renta CP $ CC,FCI,Premier Renta CP $ CC,ARS,0.09,47490.1438,,,Certificados de Participacion Argentina,27
+p,Premier Sustentable ASG,Supervielle,ASG,2.3653,0.0086,1,,,,
+p,GSS Cobertura,Grupo SS,RF USD Linked,2.24,0.0176,1,,,,
+p,Pellegrini Agro FCI,Pellegrini,RM y Otros ARS,1.4179,0.0054,1,,,,
+p,Fima Cartera Sustentable FCI ASG,Galicia,ASG,1.1924,0.0049,1,,,,
+p,Ciclo Nova Renta Fija,Ciclo Nova,RF USD Linked,0.7937,0.0042,2,,,,
+p,Galileo Multimercado IV,Delta,RM y Otros ARS,0.2771,0.0041,1,,,,
+p,Champaquí Estratégico,Bancor,RF USD Linked,0.1276,0.0008,1,,,,
+p,Quiron Fixed Income,Quiron,RF MULT Disc,0.1276,0.0002,2,,,,

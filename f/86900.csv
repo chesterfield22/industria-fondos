@@ -1,0 +1,83 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pionero Money Market Dólar,,,,,,,,
+m,gerente,Macro Fondos S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Plazo Fijo,,,,,,,,
+m,subtipo,MM USD Clásico,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,666366590,,,,,,,,
+m,aum_planilla,663866590,,,,,,,,
+m,dif_pn_aum,0.0038,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86900,,,,,,,,
+m,n_especies,33,,,,,,,,
+m,activos_pn,100.23,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,60,,,,,,,,
+m,top1,13.28,,,,,,,,
+m,top5,43.23,,,,,,,,
+m,top10,51.36,,,,,,,,
+m,hhi_especies,445.0642,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Caución BYMA,,,,,,,,
+m,emisor_top_pct,13.28,,,,,,,,
+m,hhi_emisores,543.1108,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Plazo fijo,30.13,8,,,,,,,
+t,Caución,20.69,2,,,,,,,
+t,Soberano exterior,10.14,23,,,,,,,
+c,USD,60.96,,,,,,,,
+r,Disponibilidades,39.31,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,10.11,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,50.81,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.23,,,,,,,,
+e,Caucion Colocadora U$S BYMA,Caución,Caución BYMA,USD,13.28,88493483,,,Operaciones a Plazo en Dolar Estadounidense,35
+e,Pzo Fi U$S Bco Nacion,Plazo fijo,Banco Nacion,USD,11.11,74033328,,,Operaciones a Plazo en Dolar Estadounidense,40
+e,Caucion Colocadora U$S MAE,Caución,Caución MAE,USD,7.41,49377764,,,Operaciones a Plazo en Dolar Estadounidense,4
+e,Pzo Fi U$S Bco Patagonia,Plazo fijo,Banco Patagonia,USD,6.38,42514188,,,Operaciones a Plazo en Dolar Estadounidense,23
+e,Pzo Fi U$S Bco Galicia,Plazo fijo,Banco Galicia,USD,5.05,33651513,,,Operaciones a Plazo en Dolar Estadounidense,20
+e,Pzo Fi U$S Bco BBVA,Plazo fijo,Banco BBVA,USD,3.38,22523191,,,Operaciones a Plazo en Dolar Estadounidense,13
+e,Pzo Fi U$S Bco Comafi,Plazo fijo,Banco Comafi,USD,2.63,17525441,,,Operaciones a Plazo en Dolar Estadounidense,9
+e,Pzo Fi U$S Bco Mariva,Plazo fijo,Banco Mariva,USD,0.9,5997299,,,Operaciones a Plazo en Dolar Estadounidense,10
+e,US Treasury Bill 101126,Soberano exterior,Tesoro EE.UU.,USD,0.62,4131473,,,Titulos de Deuda en Dolar Estadounidense,1
+e,US Treasury Bill 031226,Soberano exterior,Tesoro EE.UU.,USD,0.6,3998200,,,Titulos de Deuda en Dolar Estadounidense,4
+e,US Treasury Bill 171126,Soberano exterior,Tesoro EE.UU.,USD,0.6,3998200,,,Titulos de Deuda en Dolar Estadounidense,3
+e,US Treasury Bill 191126,Soberano exterior,Tesoro EE.UU.,USD,0.57,3798290,,,Titulos de Deuda en Dolar Estadounidense,5
+e,US Treasury Bill 190127,Soberano exterior,Tesoro EE.UU.,USD,0.56,3731653,,,Titulos de Deuda en Dolar Estadounidense,1
+e,US Treasury Bill 120127,Soberano exterior,Tesoro EE.UU.,USD,0.54,3598380,,,Titulos de Deuda en Dolar Estadounidense,2
+e,US Treasury Bill 050127,Soberano exterior,Tesoro EE.UU.,USD,0.53,3531743,,,Titulos de Deuda en Dolar Estadounidense,2
+e,US Treasury Bill 070127,Soberano exterior,Tesoro EE.UU.,USD,0.53,3531743,,,Titulos de Deuda en Dolar Estadounidense,7
+e,US Treasury Bill 280127,Soberano exterior,Tesoro EE.UU.,USD,0.5,3331833,,,Titulos de Deuda en Dolar Estadounidense,2
+e,US Treasury Bill 260127,Soberano exterior,Tesoro EE.UU.,USD,0.48,3198560,,,Titulos de Deuda en Dolar Estadounidense,1
+e,US Treasury Bill 011226,Soberano exterior,Tesoro EE.UU.,USD,0.46,3065286,,,Titulos de Deuda en Dolar Estadounidense,7
+e,US Treasury Bill 291226,Soberano exterior,Tesoro EE.UU.,USD,0.45,2998650,,,Titulos de Deuda en Dolar Estadounidense,2
+e,US Treasury Bill 140127,Soberano exterior,Tesoro EE.UU.,USD,0.45,2998650,,,Titulos de Deuda en Dolar Estadounidense,4
+e,Pzo Fi U$S Nvo Bco Indus,Plazo fijo,Nvo Bco Indus,USD,0.38,2532193,,,Operaciones a Plazo en Dolar Estadounidense,16
+e,US Treasury Bill 311226,Soberano exterior,Tesoro EE.UU.,USD,0.38,2532193,,,Titulos de Deuda en Dolar Estadounidense,2
+e,US Treasury Bill 271126,Soberano exterior,Tesoro EE.UU.,USD,0.38,2532193,,,Titulos de Deuda en Dolar Estadounidense,10
+e,US Treasury Bill 241126,Soberano exterior,Tesoro EE.UU.,USD,0.38,2532193,,,Titulos de Deuda en Dolar Estadounidense,2
+e,US Treasury Bill 210127,Soberano exterior,Tesoro EE.UU.,USD,0.36,2398920,,,Titulos de Deuda en Dolar Estadounidense,4
+e,US Treasury Bill 171226,Soberano exterior,Tesoro EE.UU.,USD,0.32,2132373,,,Titulos de Deuda en Dolar Estadounidense,4
+e,US Treasury Bill 221226,Soberano exterior,Tesoro EE.UU.,USD,0.32,2132373,,,Titulos de Deuda en Dolar Estadounidense,1
+e,US Treasury Bill 121126,Soberano exterior,Tesoro EE.UU.,USD,0.32,2132373,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pzo Fi U$S Banco de Serv y Transacciones (BST),Plazo fijo,Banco de Serv y Transacciones (BST),USD,0.3,1999100,,,Operaciones a Plazo en Dolar Estadounidense,16
+e,US Treasury Bill 151226,Soberano exterior,Tesoro EE.UU.,USD,0.28,1865826,,,Titulos de Deuda en Dolar Estadounidense,2
+e,US Treasury Bill 101226,Soberano exterior,Tesoro EE.UU.,USD,0.28,1865826,,,Titulos de Deuda en Dolar Estadounidense,11
+e,US Treasury Bill 020227,Soberano exterior,Tesoro EE.UU.,USD,0.23,1532643,,,Titulos de Deuda en Dolar Estadounidense,1
+p,Delta Dólares,Delta,MM USD Clásico,63.827,0.8767,6,,,,
+p,Fima Premium Dólares,Galicia,MM USD Clásico,63.2607,0.8624,8,,,,
+p,IAM Liquidez en Dólares,BIND,MM USD Clásico,59.7488,0.8856,6,,,,
+p,Stonex Dólares Premium,StoneX,MM USD Clásico,59.3832,0.8564,5,,,,
+p,IAM Retorno Dólares,BIND,MM USD Clásico,53.5065,0.7734,6,,,,
+p,Toronto Trust Money Market Dólar,Investis,MM USD Clásico,50.8858,0.8005,6,,,,
+p,1822 Raices Ahorro Dólares,Provinfondos,MM USD Clásico,47.8288,0.7563,6,,,,
+p,Argenfunds Liquidez Dólares,Argenfunds,RF USD Disc,47.4388,0.6434,4,,,,

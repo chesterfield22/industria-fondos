@@ -1,0 +1,81 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Parakeet Gestion Activa II,,,,,,,,
+m,gerente,Parakeet S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,4213951792,,,,,,,,
+m,aum_planilla,4213951792,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88434,,,,,,,,
+m,n_especies,29,,,,,,,,
+m,activos_pn,115.88,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.13,,,,,,,,
+m,top1,22.87,,,,,,,,
+m,top5,89.75,,,,,,,,
+m,top10,105.61,,,,,,,,
+m,hhi_especies,1822.5696,,,,,,,,
+m,n_emisores,4,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,88.92,,,,,,,,
+m,hhi_emisores,8002.841,,,,,,,,
+m,sin_emisor_pct,12.78,,,,,,,,
+t,Soberano,88.92,5,,,,,,,
+t,Cheque,12.78,21,,,,,,,
+t,ON,12.68,2,,,,,,,
+t,FCI,1.36,1,,,,,,,
+c,ARS,114.38,,,,,,,,
+c,sin dato,1.36,,,,,,,,
+r,Disponibilidades,0.13,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,114.39,,,,,,,,
+r,Certificados de Participacion Argentina,1.36,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),15.88,,,,,,,,
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,ARS,22.87,963730775,,,Titulos de Deuda en Peso Argentina,83
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,21.6,910213587,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,18.78,791380147,,,Titulos de Deuda en Peso Argentina,159
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,17.53,738705749,,,Titulos de Deuda en Peso Argentina,61
+e,ON Capex C10,ON,Capex,ARS,8.97,377991476,,,Titulos de Deuda en Peso Argentina,17
+e,Bono Disc ARS Ley AR DICP,Soberano,Tesoro Nacional,ARS,8.14,343015676,,,Titulos de Deuda en Peso Argentina,59
+e,ON Lab. Richmond S8 Clase A,ON,Lab. Richmond,ARS,3.71,156337611,,,Titulos de Deuda en Peso Argentina,8
+e,FCI SBS Ahorro Pesos Cl B,FCI,SBS Ahorro Pesos Cl B,,1.36,57309744,,,Certificados de Participacion Argentina,46
+e,Cheque E *NEU151100042,Cheque,,ARS,1.34,56466954,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NEU151200022,Cheque,,ARS,1.31,55202768,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210101210,Cheque,,ARS,1.01,42560913,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150201249,Cheque,,ARS,0.99,41718123,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV260101341,Cheque,,ARS,0.97,40875332,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150401647,Cheque,,ARS,0.95,40032542,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NEU150200026,Cheque,,ARS,0.77,32447429,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150201240,Cheque,,ARS,0.77,32447429,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NEU150300026,Cheque,,ARS,0.76,32026034,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150301370,Cheque,,ARS,0.75,31604638,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NEU121200029,Cheque,,ARS,0.39,16434412,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NEU211200025,Cheque,,ARS,0.39,16434412,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NEU290100017,Cheque,,ARS,0.38,16013017,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NEU150100039,Cheque,,ARS,0.38,16013017,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100301684,Cheque,,ARS,0.24,10113484,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140401442,Cheque,,ARS,0.23,9692089,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100402034,Cheque,,ARS,0.23,9692089,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240401360,Cheque,,ARS,0.23,9692089,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200401525,Cheque,,ARS,0.23,9692089,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200301798,Cheque,,ARS,0.23,9692089,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV240401361,Cheque,,ARS,0.23,9692089,,,Titulos de Deuda en Peso Argentina,1
+p,MAF Ahorro Pesos,Mariva,RF ARS CER,37.1894,0.4771,3,,,,
+p,Allaria Renta Balanceada I,Allaria,RM y Otros ARS,37.1316,0.6006,4,,,,
+p,Parakeet Multimercado III,Parakeet,RM y Otros ARS,36.5942,0.4517,4,,,,
+p,Optimum Multi Asset Fund,SAM Arg,RF ARS CER,34.8885,0.5421,2,,,,
+p,Delta Gestion III,Delta,RF MULT Disc,32.9598,0.5792,2,,,,
+p,Adcap Cobertura,Adcap,RF ARS CER,32.0865,0.468,3,,,,
+p,Delta Multimercado II,Delta,T+1,29.4894,0.4213,2,,,,
+p,Superfondo Renta Fija,Santander,RF ARS CER,29.1141,0.4064,2,,,,

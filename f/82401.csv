@@ -1,0 +1,84 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Allaria Dolar Crecimiento,,,,,,,,
+m,gerente,Allaria Fondos Administrados S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF USD GL Inc ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,8403621,,,,,,,,
+m,aum_planilla,8403621,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/82401,,,,,,,,
+m,n_especies,31,,,,,,,,
+m,activos_pn,100.12,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,3.37,,,,,,,,
+m,top1,4.99,,,,,,,,
+m,top5,23.67,,,,,,,,
+m,top10,44.65,,,,,,,,
+m,hhi_especies,341.5248,,,,,,,,
+m,n_emisores,31,,,,,,,,
+m,emisor_top,XP,,,,,,,,
+m,emisor_top_pct,4.99,,,,,,,,
+m,hhi_emisores,341.5248,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Corporativo exterior,60.42,17,,,,,,,
+t,ON,22.78,10,,,,,,,
+t,Otro título de deuda,4.45,1,,,,,,,
+t,Soberano exterior,4.16,1,,,,,,,
+t,BCRA,3.85,1,,,,,,,
+t,FCI,1.1,1,,,,,,,
+c,USD,96.76,,,,,,,,
+r,Disponibilidades,3.37,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,95.65,,,,,,,,
+r,Certificados de Participacion Argentina,1.1,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.12,,,,,,,,
+e,BC XP 6.75%,Corporativo exterior,XP,USD,4.99,419340.6889,,,Titulos de Deuda en Dolar Estadounidense,3
+e,BC Falabella 2027,Corporativo exterior,Falabella,USD,4.93,414298.5163,,,Titulos de Deuda en Dolar Estadounidense,5
+e,BC Latam Airlines 7.875%,Corporativo exterior,Latam Airlines,USD,4.91,412617.7921,,,Titulos de Deuda en Dolar Estadounidense,15
+e,Bono Corporativo 3.625% 010827,Otro título de deuda,Bono Corporativo,USD,4.45,373961.1354,,,Titulos de Deuda en Dolar Estadounidense,24
+e,BC Banco Do Brasil 2029,Corporativo exterior,Banco Do Brasil,USD,4.39,368918.9628,,,Titulos de Deuda en Dolar Estadounidense,15
+e,BC Banco Santander Chile 3.177% 271031,Corporativo exterior,Banco Santander Chile,USD,4.37,367238.2386,,,Titulos de Deuda en Dolar Estadounidense,7
+e,BC Usiminas International,Corporativo exterior,Usiminas International,USD,4.33,363876.7902,,,Titulos de Deuda en Dolar Estadounidense,8
+e,BC BTG 080429,Corporativo exterior,BTG,USD,4.22,354632.807,,,Titulos de Deuda en Dolar Estadounidense,13
+e,BC Brasil 110630,Soberano exterior,Brasil (soberano),USD,4.16,349590.6344,,,Titulos de Deuda en Dolar Estadounidense,9
+e,BC Vale Overseas Limited 3.75%,Corporativo exterior,Vale Overseas Limited,USD,3.9,327741.2198,,,Titulos de Deuda en Dolar Estadounidense,6
+e,Bono Bopreal 2028 Serie 4 Clase B BPOB8,BCRA,BCRA,USD,3.85,323539.4093,,,Titulos de Deuda en Dolar Estadounidense,16
+e,BC Engie Energia Chile 2030,Corporativo exterior,Engie Energia Chile,USD,3.53,296647.822,,,Titulos de Deuda en Dolar Estadounidense,5
+e,BC Enel Chile 160628,Corporativo exterior,Enel Chile,USD,3.27,274798.4074,,,Titulos de Deuda en Dolar Estadounidense,12
+e,BC Cencosud 5.95%,Corporativo exterior,Cencosud,USD,3.25,273117.6831,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON AES Argentina Gen 150329,ON,AES Argentina Gen,USD,3.22,270596.5968,,,Titulos de Deuda en Dolar Estadounidense,4
+e,BC Enap 2029,Corporativo exterior,Enap,USD,3.12,262192.9758,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON Standard Chartered,ON,Standard Chartered,USD,2.65,222695.957,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC Aeromexico 8.625% 151131,Corporativo exterior,Aeromexico,USD,2.64,221855.5949,,,Titulos de Deuda en Dolar Estadounidense,5
+e,BC Suzano Papel 2029,Corporativo exterior,Suzano Papel,USD,2.59,217653.7844,,,Titulos de Deuda en Dolar Estadounidense,4
+e,ON Pluspetrol Clase 5,ON,Pluspetrol,USD,2.57,215973.0602,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON Barclays Bank 040429,ON,Barclays Bank,USD,2.54,213451.9739,,,Titulos de Deuda en Dolar Estadounidense,2
+e,ON Jaguar Land Rover 011027,ON,Jaguar Land Rover,USD,2.5,210090.5255,,,Titulos de Deuda en Dolar Estadounidense,2
+e,ON Aramco 211029,ON,Aramco,USD,2.45,205888.715,,,Titulos de Deuda en Dolar Estadounidense,2
+e,ON YPF 210727,ON,YPF,USD,2.39,200846.5424,,,Titulos de Deuda en Dolar Estadounidense,14
+e,BC Colbun 30,Corporativo exterior,Colbun,USD,2.36,198325.4561,,,Titulos de Deuda en Dolar Estadounidense,6
+e,BC BRF 2030,Corporativo exterior,BRF,USD,2.31,194123.6456,,,Titulos de Deuda en Dolar Estadounidense,5
+e,ON BBVA Frances Cl 44,ON,BBVA Frances,USD,1.79,150424.8163,,,Titulos de Deuda en Dolar Estadounidense,24
+e,ON Tidewater Inc.,ON,Tidewater Inc,USD,1.38,115969.9701,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BC Citigroup 2034,Corporativo exterior,Citigroup,USD,1.31,110087.4354,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Turning Point Brands 150332,ON,Turning Point Brands,USD,1.29,108406.7112,,,Titulos de Deuda en Dolar Estadounidense,1
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,1.1,92439.8312,,,Certificados de Participacion Argentina,37
+p,Allaria Dólar Performance,Allaria,RF USD GL Inc ARG,56.4182,0.6919,21,,,,
+p,Consultatio Income Fund,Consultatio,RF USD GL Ex ARG,25.694,0.2944,8,,,,
+p,Superfondo Renta Fija Dólares II,Santander,RF USD GL Ex ARG,25.6248,0.3121,6,,,,
+p,MEGAQM Latam Corporativo,MegaQM,RF USD GL Ex ARG,24.0714,0.2255,7,,,,
+p,Compass Renta Fija,Investis,RF USD GL Ex ARG,23.0634,0.2362,9,,,,
+p,IAM Performance Americas,BIND,RF USD GL Ex ARG,21.9512,0.3106,5,,,,
+p,Balanz Capital Sudamericano,Balanz,RF USD GL Ex ARG,20.4839,0.2239,5,,,,
+p,Argenfunds Renta Capital,Argenfunds,RF USD GL Inc ARG,20.1013,0.1759,5,,,,

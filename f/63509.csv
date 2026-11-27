@@ -1,0 +1,137 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Compass Renta Mixta Dólares,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,RF USD GL Inc ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense Billete,,,,,,,,
+m,region,Latinoamerica,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,52210691,,,,,,,,
+m,aum_planilla,52143100,,,,,,,,
+m,dif_pn_aum,0.0013,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63509,,,,,,,,
+m,n_especies,83,,,,,,,,
+m,activos_pn,100.54,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.54,,,,,,,,
+m,top1,2.72,,,,,,,,
+m,top5,12.01,,,,,,,,
+m,top10,22.24,,,,,,,,
+m,hhi_especies,149.1657,,,,,,,,
+m,n_emisores,76,,,,,,,,
+m,emisor_top,Samarco,,,,,,,,
+m,emisor_top_pct,2.72,,,,,,,,
+m,hhi_emisores,157.9143,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Corporativo exterior,70.88,59,,,,,,,
+t,ON,11.57,13,,,,,,,
+t,Otro título de deuda,9.78,6,,,,,,,
+t,Subsoberano,4.16,3,,,,,,,
+t,Acción,2.62,2,,,,,,,
+c,sin dato,59.68,,,,,,,,
+c,USD,39.33,,,,,,,,
+r,Disponibilidades,1.54,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Billete,57.07,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,39.31,,,,,,,,
+r,Participaciones Accionarias Chile,2.62,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.54,,,,,,,,
+e,BC Samarco 9% 2031,Corporativo exterior,Samarco,,2.72,1420131,,,Titulos de Deuda en Dolar Estadounidense Billete,5
+e,Latam Airlines 2031,Otro título de deuda,Latam Airlines,,2.5,1305267,,,Titulos de Deuda en Dolar Estadounidense Billete,4
+e,BC Pretorio 6.75% 101530,Corporativo exterior,Pretorio,,2.5,1305267,,,Titulos de Deuda en Dolar Estadounidense Billete,5
+e,BC Yinson Production,Corporativo exterior,Yinson Production,USD,2.15,1122530,,,Titulos de Deuda en Dolar Estadounidense,4
+e,BC AES Clase 8.15% 2055,Corporativo exterior,AES,USD,2.14,1117309,,,Titulos de Deuda en Dolar Estadounidense,3
+e,BC Aesdom 7.75% 030833,Corporativo exterior,Aesdom,,2.07,1080761,,,Titulos de Deuda en Dolar Estadounidense Billete,3
+e,BC Promigas 240656,Corporativo exterior,Promigas,,2.06,1075540,,,Titulos de Deuda en Dolar Estadounidense Billete,2
+e,Bono Ciudad Bs As 261133,Subsoberano,Prov. Ciudad Bs As,,2.06,1075540,,,Titulos de Deuda en Dolar Estadounidense Billete,15
+e,BC Usiminas International,Corporativo exterior,Usiminas International,USD,2.03,1059877,,,Titulos de Deuda en Dolar Estadounidense,8
+e,BC Vale Overseas 2056,Corporativo exterior,Vale Overseas,,2.01,1049435,,,Titulos de Deuda en Dolar Estadounidense Billete,3
+e,BC Mundox 7.95% 200431,Corporativo exterior,Mundox,USD,1.99,1038993,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC CMPC 120957,Corporativo exterior,CMPC,USD,1.97,1028551,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC Rede 6.45% 090935,Corporativo exterior,Rede,,1.95,1018108,,,Titulos de Deuda en Dolar Estadounidense Billete,2
+e,BC Nova Securitisation 5.75% 030231,Corporativo exterior,Nova Securitisation,,1.94,1012887,,,Titulos de Deuda en Dolar Estadounidense Billete,2
+e,BC BRF 2030,Corporativo exterior,BRF,,1.89,986782.0527,,,Titulos de Deuda en Dolar Estadounidense Billete,5
+e,LD Celulose S.A. 7.95%,Otro título de deuda,LD Celulose,USD,1.81,945013.5002,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC Aegea Saneamento e Participacoes 9%,Corporativo exterior,Aegea Saneamento e Participacoes,USD,1.73,903244.9477,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Bono Neuquen NDG34,Subsoberano,Prov. Neuquen,,1.72,898023.8787,,,Titulos de Deuda en Dolar Estadounidense Billete,14
+e,BC ACUPET 7.5%,Corporativo exterior,ACUPET,USD,1.68,877139.6024,,,Titulos de Deuda en Dolar Estadounidense,2
+e,Banco de Chile,Acción,Banco de Chile,,1.67,871918.5334,,,Participaciones Accionarias Chile,11
+e,BC OHI Group 13%,Corporativo exterior,OHI Group,USD,1.66,866697.4643,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Genneia Clase 49,ON,Genneia,,1.63,851034.2571,,,Titulos de Deuda en Dolar Estadounidense Billete,20
+e,BC Petrobras Global Finance 2033,Corporativo exterior,Petrobras Global Finance,USD,1.57,819707.8427,,,Titulos de Deuda en Dolar Estadounidense,2
+e,Yinson MQ 8.498% 2045,Otro título de deuda,Yinson MQ,,1.57,819707.8427,,,Titulos de Deuda en Dolar Estadounidense Billete,3
+e,BC COS 7.7% 030833,Corporativo exterior,COS,,1.56,814486.7737,,,Titulos de Deuda en Dolar Estadounidense Billete,3
+e,BC Compañia Minera Volcan S2,Corporativo exterior,Compañia Minera Volcan,USD,1.53,798823.5665,,,Titulos de Deuda en Dolar Estadounidense,4
+e,BC Davivienda 6.65% Perp,Corporativo exterior,Davivienda,USD,1.52,793602.4974,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BC Celulosa Arauco y Constitución 6.18%,Corporativo exterior,Celulosa Arauco y Constitución,,1.49,777939.2902,,,Titulos de Deuda en Dolar Estadounidense Billete,2
+e,BC Bco de Crédito 7.5%,Corporativo exterior,Banco de Crédito,,1.47,767497.1521,,,Titulos de Deuda en Dolar Estadounidense Billete,3
+e,MV24 Capital 6.748%,Otro título de deuda,MV24 Capital,USD,1.46,762276.0831,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BC Adecoagro 7.5% 2032,Corporativo exterior,Adecoagro,USD,1.37,715286.4615,,,Titulos de Deuda en Dolar Estadounidense,6
+e,BC CAP 3.9%,Corporativo exterior,CAP,USD,1.36,710065.3924,,,Titulos de Deuda en Dolar Estadounidense,2
+e,Prumo Participacoes 7.5 311231,Otro título de deuda,Prumo Participacoes,USD,1.34,699623.2543,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC Tupy 160231,Corporativo exterior,Tupy,,1.33,694402.1852,,,Titulos de Deuda en Dolar Estadounidense Billete,2
+e,BC Simpar Europe 2031,Corporativo exterior,Simpar Europe,,1.28,668296.8399,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,ON Telecom C24,ON,Telecom,,1.25,652633.6327,,,Titulos de Deuda en Dolar Estadounidense Billete,33
+e,ON Pluspetrol 8.5% 2032 (REGS),ON,Pluspetrol,,1.25,652633.6327,,,Titulos de Deuda en Dolar Estadounidense Billete,34
+e,BC Banorte 8.375%,Corporativo exterior,Banorte,USD,1.24,647412.5637,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC La Construccion 4.75% 070232,Corporativo exterior,La Construccion,USD,1.24,647412.5637,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC Rumo Lux 4.2% 180132,Corporativo exterior,Rumo Lux,USD,1.23,642191.4946,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BC CoxMex 170931,Corporativo exterior,CoxMex,,1.22,636970.4256,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,ON Irsa 2035,ON,Irsa,,1.19,621307.2184,,,Titulos de Deuda en Dolar Estadounidense Billete,9
+e,BC Glopar 5.5%,Corporativo exterior,Glopar,,1.18,616086.1493,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,BC Cosan 2015,Corporativo exterior,Cosan,USD,1.1,574317.5968,,,Titulos de Deuda en Dolar Estadounidense,3
+e,Ecopetrol 8.875% 2033,Otro título de deuda,Ecopetrol,,1.1,574317.5968,,,Titulos de Deuda en Dolar Estadounidense Billete,4
+e,BC Banco Nac Mexico 211056,Corporativo exterior,Banco Nac Mexico,,1.04,542991.1824,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,ON YPF Clase 34,ON,YPF,,1.03,537770.1134,,,Titulos de Deuda en Dolar Estadounidense Billete,46
+e,ON Aeropuertos 2000 Regs 2031,ON,Aeropuertos,,1.02,532549.0443,,,Titulos de Deuda en Dolar Estadounidense Billete,22
+e,BC Investment Energy Resources 6.25%,Corporativo exterior,Investment Energy Resources,USD,1,522106.9062,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC Eletrobras 110135,Corporativo exterior,Eletrobras,USD,1,522106.9062,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Telefonica Moviles Chile,Acción,Telefonica Moviles Chile,,0.95,496001.5609,,,Participaciones Accionarias Chile,4
+e,ON YPF Clase 31,ON,YPF,,0.93,485559.4228,,,Titulos de Deuda en Dolar Estadounidense Billete,48
+e,BC BBVA Bancomer 080139,Corporativo exterior,BBVA Bancomer,,0.86,449011.9393,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,BC Al Candelaria 5.75% 130633,Corporativo exterior,Al Candelaria,USD,0.85,443790.8703,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BC Aeromexico 8.625% 151131,Corporativo exterior,Aeromexico,USD,0.85,443790.8703,,,Titulos de Deuda en Dolar Estadounidense,5
+e,BC CoxMex 080536,Corporativo exterior,CoxMex,,0.84,438569.8012,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,BC Orbia 130535,Corporativo exterior,Orbia,,0.84,438569.8012,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,ON Pan American C43,ON,Pan American,,0.82,428127.6631,,,Titulos de Deuda en Dolar Estadounidense Billete,9
+e,ON Pampa Energia C23 (RegS),ON,Pampa Energia,,0.81,422906.594,,,Titulos de Deuda en Dolar Estadounidense Billete,36
+e,BC Banco Nac Mexico 070836,Corporativo exterior,Banco Nac Mexico,,0.79,412464.4559,,,Titulos de Deuda en Dolar Estadounidense Billete,2
+e,BC Nutresa 170538,Corporativo exterior,Nutresa,,0.76,396801.2487,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,BC Natura 4.125% 2028,Corporativo exterior,Natura,,0.76,396801.2487,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,BC Banorte 6% Reg S,Corporativo exterior,Banorte,,0.75,391580.1796,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,BC BCICI 8.75% Perp,Corporativo exterior,BCICI,,0.65,339369.489,,,Titulos de Deuda en Dolar Estadounidense Billete,5
+e,BC UEP Penonome II 6.5%,Corporativo exterior,UEP Penonome II,USD,0.63,328927.3509,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC Arco 32,Corporativo exterior,Arco,,0.62,323706.2818,,,Titulos de Deuda en Dolar Estadounidense Billete,4
+e,ON TGS C4 Reg S,ON,TGS,,0.6,313264.1437,,,Titulos de Deuda en Dolar Estadounidense Billete,26
+e,BC Nutresa 120535,Corporativo exterior,Nutresa,,0.44,229727.0387,,,Titulos de Deuda en Dolar Estadounidense Billete,2
+e,ON Hunt Oil 030238,ON,Hunt Oil,USD,0.43,224505.9697,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BC Parex 110531,Corporativo exterior,Parex,,0.43,224505.9697,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,ON Transp Gas Sur Cl 3,ON,Transp Gas Sur,USD,0.42,219284.9006,,,Titulos de Deuda en Dolar Estadounidense,43
+e,BC Fisoma 7.125% 280536,Corporativo exterior,Fisoma,,0.41,214063.8315,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,BC Klab 040349,Corporativo exterior,Klab,,0.4,208842.7625,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,BC Pemex 6.7%,Corporativo exterior,Pemex,USD,0.4,208842.7625,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BC Banorte Perp.,Corporativo exterior,Banorte Perp,,0.4,208842.7625,,,Titulos de Deuda en Dolar Estadounidense Billete,3
+e,BC Minerva Luxembourg 130933,Corporativo exterior,Minerva Luxembourg,USD,0.39,203621.6934,,,Titulos de Deuda en Dolar Estadounidense,5
+e,Bono Prov San Juan SJO35,Subsoberano,Prov. San Juan,,0.38,198400.6244,,,Titulos de Deuda en Dolar Estadounidense Billete,33
+e,BC Fisoma 4.375% 220731,Corporativo exterior,Fisoma,USD,0.37,193179.5553,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC Raizen 050334,Corporativo exterior,Raizen,,0.35,182737.4172,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,BC Avianca 9% 2031,Corporativo exterior,Avianca,USD,0.32,167074.21,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BC Petroleos Peru 5.625% 190647,Corporativo exterior,Petroleos Peru,USD,0.3,156632.0719,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC Braskm 7.125 220741,Corporativo exterior,Braskm,USD,0.25,130526.7265,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Pampa Energia C26,ON,Pampa Energia,,0.19,99200.3122,,,Titulos de Deuda en Dolar Estadounidense Billete,38
+p,Galileo Event Driven,Delta,RF USD GL Inc ARG,36.8959,0.4643,30,,,,
+p,Vinci Compass Renta Mixta Dólares IV,Investis,RF USD GL Inc ARG,24.5127,0.4846,14,,,,
+p,Galileo Fixed Income,Delta,RF USD GL Inc ARG,24.4234,0.368,17,,,,
+p,Compass Best Ideas,Investis,RF USD corp loc,9.5081,0.1562,11,,,,
+p,Allaria Unicred Dólares,Allaria,RF USD Disc,8.8946,0.0845,11,,,,
+p,Allaria Dólar Performance,Allaria,RF USD GL Inc ARG,7.9618,0.0928,7,,,,
+p,Schroder Renta Global,Schroder,RM y Otros ARS,7.9466,0.0914,9,,,,
+p,Consultatio Income Fund,Consultatio,RF USD GL Ex ARG,7.7651,0.0785,6,,,,

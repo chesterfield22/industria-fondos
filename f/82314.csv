@@ -1,0 +1,69 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Stonex Estrategia IV,,,,,,,,
+m,gerente,StoneX Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Inc ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,14280467,,,,,,,,
+m,aum_planilla,14280467,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/82314,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,100.07,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,5.23,,,,,,,,
+m,top1,15.27,,,,,,,,
+m,top5,54.07,,,,,,,,
+m,top10,78.32,,,,,,,,
+m,hhi_especies,809.4889,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Tesoro EE.UU.,,,,,,,,
+m,emisor_top_pct,24.27,,,,,,,,
+m,hhi_emisores,1363.3781,,,,,,,,
+m,sin_emisor_pct,0.58,,,,,,,,
+t,Soberano exterior,46.6,4,,,,,,,
+t,ON,36.85,8,,,,,,,
+t,BCRA,7.43,2,,,,,,,
+t,Subsoberano,1.79,1,,,,,,,
+t,Soberano,1.6,1,,,,,,,
+t,Pagaré,0.58,1,,,,,,,
+c,USD,94.85,,,,,,,,
+r,Disponibilidades,5.23,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,94.84,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.07,,,,,,,,
+e,US Treasury Bill 210127,Soberano exterior,Tesoro EE.UU.,USD,15.27,2180627,,,Titulos de Deuda en Dolar Estadounidense,4
+e,BR Rep Brasil 28,Soberano exterior,Brasil (soberano),USD,14.26,2036395,,,Titulos de Deuda en Dolar Estadounidense,11
+e,US Treasury Bill 180227,Soberano exterior,Tesoro EE.UU.,USD,9,1285242,,,Titulos de Deuda en Dolar Estadounidense,3
+e,BC Brasil 110630,Soberano exterior,Brasil (soberano),USD,8.07,1152434,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,USD,7.47,1066751,,,Titulos de Deuda en Dolar Estadounidense,58
+e,ON YPF Clase 34,ON,YPF,USD,7.13,1018197,,,Titulos de Deuda en Dolar Estadounidense,46
+e,ON Tecpetrol C12,ON,Tecpetrol,USD,5.13,732587.955,,,Titulos de Deuda en Dolar Estadounidense,60
+e,ON Banco Macro Clase H Reg S,ON,Banco Macro,USD,4.24,605491.7991,,,Titulos de Deuda en Dolar Estadounidense,23
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,USD,4.06,579786.9586,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON Telecom C24,ON,Telecom,USD,3.69,526949.2308,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON San Miguel Serie 13 CB,ON,San Miguel,USD,3.42,488391.97,,,Titulos de Deuda en Dolar Estadounidense,3
+e,Bono Bopreal 2027 Serie 1 Clase B BPOB7,BCRA,BCRA,USD,3.37,481251.7366,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Telecom C23,ON,Telecom,USD,2.96,422701.822,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Edenor C7 DNC7O,ON,Edenor,USD,2.81,401281.1216,,,Titulos de Deuda en Dolar Estadounidense,13
+e,Bono Prov Santa Fe 8.1% 111234,Subsoberano,Prov. Santa Fe,USD,1.79,255620.3586,,,Titulos de Deuda en Dolar Estadounidense,37
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,USD,1.6,228487.4714,,,Titulos de Deuda en Dolar Estadounidense,40
+e,Pagare #UMV110560072,Pagaré,,USD,0.58,82826.7084,,,Titulos de Deuda en Dolar Estadounidense,1
+p,MAF Mix II,Mariva,RF USD corp loc,21.6289,0.2224,5,,,,
+p,Balanz Ahorro en Dólares,Balanz,RF USD corp loc,21.6068,0.2575,5,,,,
+p,Balanz Capital Estrategia V USD,Balanz,RF USD corp loc,20.653,0.2558,3,,,,
+p,Consultatio Multimercado III,Consultatio,RF USD corp loc,19.8844,0.2325,5,,,,
+p,CYC Dólares Renta Fija,CYC,RF USD Disc,16.9099,0.1662,5,,,,
+p,Balanz Crecimiento FCI Ab para Financ Infra y Econ Real,Balanz,INFRA,15.1713,0.1721,3,,,,
+p,Pionero Renta Dólares,Macro,RF USD GL Ex ARG,15.0343,0.2899,1,,,,
+p,Balanz Capital Estrategia IV USD,Balanz,RF USD GL Inc ARG,15.0343,0.2641,1,,,,

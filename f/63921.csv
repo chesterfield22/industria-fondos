@@ -1,0 +1,75 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Fundcorp Performance Plus,,,,,,,,
+m,gerente,CMF Asset Management S.A.U.,,,,,,,,
+m,depositaria,Banco C.M.F. S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,3001161,,,,,,,,
+m,aum_planilla,,,,,,,,,
+m,dif_pn_aum,,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63921,,,,,,,,
+m,n_especies,21,,,,,,,,
+m,activos_pn,100.1,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,40.8,,,,,,,,
+m,top1,10.24,,,,,,,,
+m,top5,34.57,,,,,,,,
+m,top10,51.6,,,,,,,,
+m,hhi_especies,351.373,,,,,,,,
+m,n_emisores,19,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,10.24,,,,,,,,
+m,hhi_emisores,372.8514,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,29.94,15,,,,,,,
+t,Fideicomiso financiero,11.53,3,,,,,,,
+t,Soberano,10.24,1,,,,,,,
+t,Pase,8.33,1,,,,,,,
+t,Soberano exterior,7.6,1,,,,,,,
+c,USD,56.11,,,,,,,,
+c,sin dato,11.53,,,,,,,,
+r,Disponibilidades,32.47,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,47.77,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,8.33,,,,,,,,
+r,Certificados de Participacion Argentina,11.53,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.1,,,,,,,,
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,10.24,307318.9018,,,Titulos de Deuda en Dolar Estadounidense,83
+e,Pase Colocador USD BYMA,Pase,Pase BYMA,USD,8.33,249996.7238,,,Operaciones a Plazo en Dolar Estadounidense,6
+e,US Treasury Bill 140127,Soberano exterior,Tesoro EE.UU.,USD,7.6,228088.2474,,,Titulos de Deuda en Dolar Estadounidense,4
+e,FF Venturino S1 A,Fideicomiso financiero,Venturino,,4.8,144055.7352,,,Certificados de Participacion Argentina,7
+e,ON Pluspetrol Clase 5,ON,Pluspetrol,USD,3.6,108041.8014,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON YPF Clase 33,ON,YPF,USD,3.55,106541.2208,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Oldelval Clase 7,ON,Oldelval,USD,3.44,103239.9436,,,Titulos de Deuda en Dolar Estadounidense,41
+e,FF Agrocap S5 CA,Fideicomiso financiero,Agrocap,,3.39,101739.363,,,Certificados de Participacion Argentina,9
+e,FF ASPRO S1,Fideicomiso financiero,ASPRO,,3.34,100238.7824,,,Certificados de Participacion Argentina,1
+e,ON Agronorte Serie 1,ON,Agronorte,USD,3.31,99338.4341,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Cresud S31 C47,ON,Cresud,USD,1.76,52820.4362,,,Titulos de Deuda en Dolar Estadounidense,18
+e,ON Pan American C35,ON,Pan American,USD,1.75,52520.3201,,,Titulos de Deuda en Dolar Estadounidense,23
+e,ON John Deere Cia. Fin C19,ON,John Deere Cia. Fin,USD,1.75,52520.3201,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON Pluspetrol Clase 1,ON,Pluspetrol,USD,1.69,50719.6234,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Pyme Gar Bajo Imp Apache S1 C1,ON,Pyme Gar Bajo Imp Apache,USD,1.67,50119.3912,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON Vaca Muerta C1,ON,Vaca Muerta,USD,1.67,50119.3912,,,Titulos de Deuda en Dolar Estadounidense,45
+e,ON Sidersa Clase 2,ON,Sidersa,USD,1.64,49219.0429,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Bco Galicia Clase 16,ON,Banco Galicia,USD,1.44,43216.7206,,,Titulos de Deuda en Dolar Estadounidense,23
+e,ON Scania Credit C2,ON,Scania Credit,USD,1.41,42316.3722,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON Pluspetrol Clase 6,ON,Pluspetrol,USD,0.88,26410.2181,,,Titulos de Deuda en Dolar Estadounidense,43
+e,ON Oiltanking S3,ON,Oiltanking,USD,0.38,11404.4124,,,Titulos de Deuda en Dolar Estadounidense,13
+p,SBS Renta Dólar Argentina,SBS,RF USD corp loc,22.3588,0.4672,6,,,,
+p,Premier Renta Mixta en Dólares,Supervielle,RF USD corp loc,18.6276,0.2702,3,,,,
+p,SBS Renta Mixta V,SBS,RF USD Disc,17.7644,0.256,6,,,,
+p,Axis Estrategia 8,Axis,RM y Otros ARS,17.7262,0.3924,2,,,,
+p,MAF Mix I,Mariva,RF USD Disc,17.6079,0.4109,2,,,,
+p,Pionero Dólar Gestión,Macro,RF USD Disc,16.781,0.4475,3,,,,
+p,Pionero Inversión Dólar,Macro,RF USD GL Inc ARG,16.7331,0.2643,2,,,,
+p,Novus Capital,Novus,RM y Otros USD,16.6184,0.3418,3,,,,

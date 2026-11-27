@@ -1,0 +1,71 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,SBS Patrimonio II,,,,,,,,
+m,gerente,SBS Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Global,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,11504576465,,,,,,,,
+m,aum_planilla,11504576465,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/81192,,,,,,,,
+m,n_especies,20,,,,,,,,
+m,activos_pn,100.12,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.67,,,,,,,,
+m,top1,26.91,,,,,,,,
+m,top5,73.7,,,,,,,,
+m,top10,89.77,,,,,,,,
+m,hhi_especies,1429.5142,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,73.7,,,,,,,,
+m,hhi_emisores,5498.6768,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,73.7,5,,,,,,,
+t,ON,23.43,13,,,,,,,
+t,FCI,2.31,2,,,,,,,
+c,ARS,97.13,,,,,,,,
+c,sin dato,2.31,,,,,,,,
+r,Disponibilidades,0.67,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,97.14,,,,,,,,
+r,Certificados de Participacion Argentina,2.31,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.12,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,26.91,3095881527,,,Titulos de Deuda en Peso Argentina,103
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,19.39,2230737377,,,Titulos de Deuda en Peso Argentina,75
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,12.03,1384000549,,,Titulos de Deuda en Peso Argentina,146
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,8.02,922667033,,,Titulos de Deuda en Peso Argentina,158
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,7.35,845586370,,,Titulos de Deuda en Peso Argentina,149
+e,ON Otamerica S7,ON,Otamerica,ARS,4.28,492395873,,,Titulos de Deuda en Peso Argentina,23
+e,ON Tecpetrol C10,ON,Tecpetrol,ARS,3.31,380801481,,,Titulos de Deuda en Peso Argentina,33
+e,ON Central Puerto Clase F,ON,Central Puerto,ARS,2.88,331331802,,,Titulos de Deuda en Peso Argentina,14
+e,ON Vaca Muerta C1,ON,Vaca Muerta,ARS,2.86,329030887,,,Titulos de Deuda en Peso Argentina,45
+e,ON Vista Gas y Oil Arg C24,ON,Vista Gas y Oil Arg,ARS,2.74,315225395,,,Titulos de Deuda en Peso Argentina,11
+e,ON Oldelval Clase 7,ON,Oldelval,ARS,2,230091529,,,Titulos de Deuda en Peso Argentina,41
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,1.93,222038326,,,Certificados de Participacion Argentina,96
+e,ON Pyme Gar Rafaela Alimentos S1 C2,ON,Pyme Gar Rafaela Alimentos,ARS,1.25,143807206,,,Titulos de Deuda en Peso Argentina,6
+e,ON YPF Clase 32,ON,YPF,ARS,1.22,140355833,,,Titulos de Deuda en Peso Argentina,15
+e,ON Telecom 9.5% 2031,ON,Telecom,ARS,1,115045765,,,Titulos de Deuda en Peso Argentina,38
+e,ON Pan American C36,ON,Pan American,ARS,0.68,78231120,,,Titulos de Deuda en Peso Argentina,11
+e,ON Pecom C1,ON,Pecom,ARS,0.67,77080662,,,Titulos de Deuda en Peso Argentina,7
+e,ON Pecom C3,ON,Pecom,ARS,0.49,56372425,,,Titulos de Deuda en Peso Argentina,26
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,0.38,43717391,,,Certificados de Participacion Argentina,47
+e,ON Bco Patagonia Cl 4,ON,Banco Patagonia,ARS,0.05,5752288,,,Titulos de Deuda en Peso Argentina,10
+p,FBA Horizonte,BBVA,RF USD Linked,60.2106,0.8705,4,,,,
+p,Max Retorno Total Pesos III,Max Capital,RF MULT Disc,53.9521,0.8928,3,,,,
+p,Champaquí Estratégico,Bancor,RF USD Linked,52.5475,0.7218,3,,,,
+p,Optimum Renta Mixta Flexible Argentina,Santander,RF USD Linked,51.5435,0.7494,3,,,,
+p,Pionero Desarrollo,Macro,RF MULT Disc,50.2052,0.7487,3,,,,
+p,Pionero Integral,Macro,RF MULT Disc,48.9294,0.6023,4,,,,
+p,Pellegrini Agro FCI,Pellegrini,RM y Otros ARS,48.8279,0.756,5,,,,
+p,SBS Patrimonio VI,SBS,RF MULT Disc,48.1928,0.8626,4,,,,

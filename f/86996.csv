@@ -1,0 +1,108 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Parakeet Global,,,,,,,,
+m,gerente,Parakeet S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Inc ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,24610256,,,,,,,,
+m,aum_planilla,24610256,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86996,,,,,,,,
+m,n_especies,50,,,,,,,,
+m,activos_pn,98.91,,,,,,,,
+m,pasivos_cnv,1.09,,,,,,,,
+m,liquidez,7.8,,,,,,,,
+m,top1,14.2,,,,,,,,
+m,top5,37.19,,,,,,,,
+m,top10,56.56,,,,,,,,
+m,hhi_especies,483.2711,,,,,,,,
+m,n_emisores,35,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,15.22,,,,,,,,
+m,hhi_emisores,582.1577,,,,,,,,
+m,sin_emisor_pct,1.26,,,,,,,,
+t,Corporativo exterior,32.36,16,,,,,,,
+t,ON,28.49,17,,,,,,,
+t,Soberano,15.22,2,,,,,,,
+t,Soberano exterior,9.87,3,,,,,,,
+t,Caución,7.31,1,,,,,,,
+t,FCI,2.4,1,,,,,,,
+t,Subsoberano,1.52,1,,,,,,,
+t,Pagaré,1.26,9,,,,,,,
+c,USD,97.41,,,,,,,,
+c,ARS,1.02,,,,,,,,
+r,Disponibilidades,0.49,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,87.69,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,7.31,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,1.02,,,,,,,,
+r,Certificados de Participacion Argentina,2.4,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,1.09,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-1.09,,,,,,,,
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,14.2,3494656,,,Titulos de Deuda en Dolar Estadounidense,83
+e,Caucion Colocadora U$S Merval,Caución,Caución Merval,USD,7.31,1799010,,,Operaciones a Plazo en Dolar Estadounidense,55
+e,BC Pemex 15062035,Corporativo exterior,Pemex,USD,6.5,1599667,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BR Rep Brasil 34 8.25%,Soberano exterior,Brasil (soberano),USD,4.83,1188675,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BC Pemex 2027,Corporativo exterior,Pemex,USD,4.35,1070546,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC Satellite Core Allocation S592,Corporativo exterior,Satellite Core Allocation,USD,4.3,1058241,,,Titulos de Deuda en Dolar Estadounidense,2
+e,ON Banco de Galicia 31 BYCXO,ON,Banco de Galicia,USD,4.15,1021326,,,Titulos de Deuda en Dolar Estadounidense,8
+e,US Treasury Note 150236,Soberano exterior,Tesoro EE.UU.,USD,4.12,1013943,,,Titulos de Deuda en Dolar Estadounidense,2
+e,ON John Deere Cia. Fin C21,ON,John Deere Cia. Fin,USD,4.1,1009020,,,Titulos de Deuda en Dolar Estadounidense,7
+e,ON Pampa Energia C23 (RegS),ON,Pampa Energia,USD,2.7,664476.8993,,,Titulos de Deuda en Dolar Estadounidense,36
+e,BC Cencosud 5.95%,Corporativo exterior,Cencosud,USD,2.56,630022.5416,,,Titulos de Deuda en Dolar Estadounidense,16
+e,SBS Liquidez USD - Clase B,FCI,Liquidez USD,USD,2.4,590646.1327,,,Certificados de Participacion Argentina,14
+e,BC Latam Airlines 7.875%,Corporativo exterior,Latam Airlines,USD,2.38,585724.0816,,,Titulos de Deuda en Dolar Estadounidense,15
+e,BC Petrobras 6% 2035,Corporativo exterior,Petrobras,USD,2.36,580802.0305,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Pluspetrol 8.5% 2032 (REGS),ON,Pluspetrol,USD,2.23,548808.6983,,,Titulos de Deuda en Dolar Estadounidense,34
+e,ON Banco Prov Clase 8,ON,Banco Provincia,USD,2.05,504510.2384,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Central Puerto Clase D,ON,Central Puerto,USD,2.01,494666.1362,,,Titulos de Deuda en Dolar Estadounidense,24
+e,BC Centrales Elec. Brasileras 2030,Corporativo exterior,Centrales Elec. Brasileras,USD,1.83,450367.6762,,,Titulos de Deuda en Dolar Estadounidense,8
+e,ON Arcor C1 7.6%,ON,Arcor,USD,1.75,430679.4718,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,USD,1.57,386381.0118,,,Titulos de Deuda en Dolar Estadounidense,58
+e,ON Pan American C31,ON,Pan American,USD,1.55,381458.9607,,,Titulos de Deuda en Dolar Estadounidense,20
+e,Letra Prov Chubut S36,Subsoberano,Prov. Chubut,USD,1.52,374075.8841,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Pampa Energia C21,ON,Pampa Energia,USD,1.45,356848.7052,,,Titulos de Deuda en Dolar Estadounidense,36
+e,BC Globo 4.875%,Corporativo exterior,Globo,USD,1.34,329777.4241,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC JP Morgan 4.125% 2026,Corporativo exterior,JP Morgan,USD,1.31,322394.3474,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Profertil C3,ON,Profertil,USD,1.25,307628.1941,,,Titulos de Deuda en Dolar Estadounidense,30
+e,ON AES Argentina Gen 060828,ON,AES Argentina Gen,USD,1.21,297784.0919,,,Titulos de Deuda en Dolar Estadounidense,24
+e,BC Ecopetrol 2030,Corporativo exterior,Ecopetrol,USD,1.08,265790.7597,,,Titulos de Deuda en Dolar Estadounidense,2
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,1.02,251024.6064,,,Titulos de Deuda en Peso Argentina,74
+e,CL Rep Chile 2034,Soberano exterior,Chile (soberano),USD,0.92,226414.3509,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BC Wells Fargo 6.18%,Corporativo exterior,Wells Fargo,USD,0.88,216570.2487,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC XP 6.75%,Corporativo exterior,XP,USD,0.88,216570.2487,,,Titulos de Deuda en Dolar Estadounidense,3
+e,BC Usiminas International,Corporativo exterior,Usiminas International,USD,0.86,211648.1976,,,Titulos de Deuda en Dolar Estadounidense,8
+e,ON Pan American C36,ON,Pan American,USD,0.77,189498.9676,,,Titulos de Deuda en Dolar Estadounidense,11
+e,BC Goldman Sachs 6.125%,Corporativo exterior,Goldman Sachs,USD,0.68,167349.7376,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC Braskem 7.45% 151129,Corporativo exterior,Braskem,USD,0.57,140278.4565,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Tecpetrol C10,ON,Tecpetrol,USD,0.57,140278.4565,,,Titulos de Deuda en Dolar Estadounidense,33
+e,BC CSNABZ 8.875% 051230,Corporativo exterior,CSNABZ,USD,0.48,118129.2265,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Pan American C35,ON,Pan American,USD,0.43,105824.0988,,,Titulos de Deuda en Dolar Estadounidense,23
+e,ON Vista Gas y Oil Arg C27,ON,Vista Gas y Oil Arg,USD,0.43,105824.0988,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Transp Gas Sur Cl 3,ON,Transp Gas Sur,USD,0.27,66447.6899,,,Titulos de Deuda en Dolar Estadounidense,43
+e,Pagare #UNE161260003,Pagaré,,USD,0.2,49220.5111,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE161260002,Pagaré,,USD,0.2,49220.5111,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE161260001,Pagaré,,USD,0.2,49220.5111,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE290470001,Pagaré,,USD,0.14,34454.3577,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE270470001,Pagaré,,USD,0.11,27071.2811,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE180570001,Pagaré,,USD,0.11,27071.2811,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE071260002,Pagaré,,USD,0.1,24610.2555,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE141260002,Pagaré,,USD,0.1,24610.2555,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UNE150370001,Pagaré,,USD,0.1,24610.2555,,,Titulos de Deuda en Dolar Estadounidense,1
+p,Parakeet Latam,Parakeet,RF USD GL Ex ARG,33.0953,0.4947,10,,,,
+p,Allaria Dólar Performance II,Allaria,RF USD Disc,22.8894,0.4624,3,,,,
+p,1822 Raices Dólares Plus,Provinfondos,RF USD Disc,21.5928,0.46,6,,,,
+p,SBS Renta Dólar Argentina,SBS,RF USD corp loc,20.7927,0.5114,8,,,,
+p,Superfondo Renta Fija Dólares,Santander,RF USD GL Inc ARG,20.6283,0.5202,4,,,,
+p,Novus Ahorro Dólares,Novus,RF USD Disc,19.9034,0.4471,2,,,,
+p,Max Estrategico IV,Max Capital,RF USD GL Inc ARG,19.7253,0.3299,2,,,,
+p,Premier Renta Mixta en Dólares,Supervielle,RF USD corp loc,19.1811,0.3633,4,,,,

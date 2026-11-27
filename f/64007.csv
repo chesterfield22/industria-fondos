@@ -1,0 +1,89 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Galileo Fixed Income,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Inc ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Latinoamerica,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,20449797,,,,,,,,
+m,aum_planilla,20449797,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/64007,,,,,,,,
+m,n_especies,37,,,,,,,,
+m,activos_pn,99.95,,,,,,,,
+m,pasivos_cnv,0.05,,,,,,,,
+m,liquidez,8.29,,,,,,,,
+m,top1,5.62,,,,,,,,
+m,top5,23.29,,,,,,,,
+m,top10,40.69,,,,,,,,
+m,hhi_especies,276.0104,,,,,,,,
+m,n_emisores,35,,,,,,,,
+m,emisor_top,Banco de Chile,,,,,,,,
+m,emisor_top_pct,5.62,,,,,,,,
+m,hhi_emisores,293.3164,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Corporativo exterior,57.6,25,,,,,,,
+t,ON,21.66,9,,,,,,,
+t,Acción,5.62,1,,,,,,,
+t,Soberano exterior,4.77,1,,,,,,,
+t,Otro título de deuda,2.01,1,,,,,,,
+c,sin dato,91.66,,,,,,,,
+r,Disponibilidades,8.29,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Cable,86.04,,,,,,,,
+r,Participaciones Accionarias Chile,5.62,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.05,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.05,,,,,,,,
+e,Banco de Chile,Acción,Banco de Chile,,5.62,1149279,,,Participaciones Accionarias Chile,11
+e,ON Aeropuertos 2000 Regs 2031,ON,Aeropuertos,,4.88,997950.0819,,,Titulos de Deuda en Dolar Estadounidense Cable,22
+e,BR Brasil 2036,Soberano exterior,Brasil (soberano),,4.77,975455.3055,,,Titulos de Deuda en Dolar Estadounidense Cable,4
+e,BC BCICI 8.75% Perp,Corporativo exterior,BCICI,,4.16,850711.5452,,,Titulos de Deuda en Dolar Estadounidense Cable,5
+e,BC AES Clase 8.15% 2055,Corporativo exterior,AES,,3.86,789362.1549,,,Titulos de Deuda en Dolar Estadounidense Cable,3
+e,BC Bradesco 6.5% 2025,Corporativo exterior,Bradesco,,3.74,764822.3988,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC Usiminas International,Corporativo exterior,Usiminas International,,3.67,750507.5411,,,Titulos de Deuda en Dolar Estadounidense Cable,8
+e,BC Pretorio 6.75% 101530,Corporativo exterior,Pretorio,,3.36,687113.1711,,,Titulos de Deuda en Dolar Estadounidense Cable,5
+e,ON Irsa 2035,ON,Irsa,,3.34,683023.2118,,,Titulos de Deuda en Dolar Estadounidense Cable,9
+e,BC Adecoagro 7.5% 2032,Corporativo exterior,Adecoagro,,3.29,672798.3134,,,Titulos de Deuda en Dolar Estadounidense Cable,6
+e,BC Samarco 9% 2031,Corporativo exterior,Samarco,,2.96,605313.9841,,,Titulos de Deuda en Dolar Estadounidense Cable,5
+e,ON Telecom 9.5% 2031,ON,Telecom,,2.55,521469.8174,,,Titulos de Deuda en Dolar Estadounidense Cable,38
+e,ON Transp Gas Sur Cl 3,ON,Transp Gas Sur,,2.53,517379.858,,,Titulos de Deuda en Dolar Estadounidense Cable,43
+e,BC Forsea 7.5%,Corporativo exterior,Forsea,,2.42,494885.0816,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,BC BTG Pactual 2030,Corporativo exterior,BTG Pactual,,2.42,494885.0816,,,Titulos de Deuda en Dolar Estadounidense Cable,6
+e,ON Tecpetrol C12,ON,Tecpetrol,,2.38,486705.1629,,,Titulos de Deuda en Dolar Estadounidense Cable,60
+e,BC Banco BTG Pactual 270131,Corporativo exterior,Banco BTG Pactual,,2.38,486705.1629,,,Titulos de Deuda en Dolar Estadounidense Cable,4
+e,BC Minerva Luxembourg 130933,Corporativo exterior,Minerva Luxembourg,,2.37,484660.1832,,,Titulos de Deuda en Dolar Estadounidense Cable,5
+e,ON Tecpetrol C10,ON,Tecpetrol,,2.35,480570.2239,,,Titulos de Deuda en Dolar Estadounidense Cable,33
+e,BC Cosan 2015,Corporativo exterior,Cosan,,2.34,478525.2442,,,Titulos de Deuda en Dolar Estadounidense Cable,3
+e,BC Bioenergia 2033,Corporativo exterior,Bioenergia,,2.33,476480.2645,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,BC Mercado Libre 2031,Corporativo exterior,Mercado Libre,,2.21,451940.5084,,,Titulos de Deuda en Dolar Estadounidense Cable,5
+e,BC Raizen 6.7% 2037,Corporativo exterior,Raizen,,2.08,425355.7726,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,Yinson MQ 8.498% 2045,Otro título de deuda,Yinson MQ,,2.01,411040.9149,,,Titulos de Deuda en Dolar Estadounidense Cable,3
+e,BC Azul 9.875% 150231,Corporativo exterior,Azul,,1.83,374231.2807,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,BC Yinson Production,Corporativo exterior,Yinson Production,,1.8,368096.3417,,,Titulos de Deuda en Dolar Estadounidense Cable,4
+e,BC Banco Do Brasil 2029,Corporativo exterior,Banco Do Brasil,,1.69,345601.5652,,,Titulos de Deuda en Dolar Estadounidense Cable,15
+e,BC 3R Petroleum 9.75% 050231,Corporativo exterior,3R Petroleum,,1.68,343556.5856,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,BC Braskem Idesa 2032,Corporativo exterior,Braskem Idesa,,1.3,265847.3579,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,BC COS 7.7% 030833,Corporativo exterior,COS,,1.25,255622.4595,,,Titulos de Deuda en Dolar Estadounidense Cable,3
+e,ON Pampa Energia C23 (RegS),ON,Pampa Energia,,1.22,249487.5205,,,Titulos de Deuda en Dolar Estadounidense Cable,36
+e,BC Bco Brasil 6.25% 180430,Corporativo exterior,Banco Brasil,,1.22,249487.5205,,,Titulos de Deuda en Dolar Estadounidense Cable,6
+e,ON Banco Macro Clase H Reg S,ON,Banco Macro,,1.21,247442.5408,,,Titulos de Deuda en Dolar Estadounidense Cable,23
+e,BC Vale Overseas 2056,Corporativo exterior,Vale Overseas,,1.21,247442.5408,,,Titulos de Deuda en Dolar Estadounidense Cable,3
+e,ON Telecom C27,ON,Telecom,,1.2,245397.5611,,,Titulos de Deuda en Dolar Estadounidense Cable,8
+e,BC Oceanica 080531,Corporativo exterior,Oceanica,,1.04,212677.8863,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,BC Latam Airlines 7.875%,Corporativo exterior,Latam Airlines,,0.99,202452.9879,,,Titulos de Deuda en Dolar Estadounidense Cable,15
+p,Galileo Event Driven,Delta,RF USD GL Inc ARG,40.9188,0.5302,26,,,,
+p,Compass Renta Mixta Dólares,Investis,RF USD GL Inc ARG,24.4234,0.368,17,,,,
+p,Compass Best Ideas,Investis,RF USD corp loc,15.6536,0.2261,7,,,,
+p,Balanz Ahorro en Dólares,Balanz,RF USD corp loc,13.5076,0.1944,7,,,,
+p,Allaria Dólar Performance,Allaria,RF USD GL Inc ARG,13.2722,0.1683,6,,,,
+p,Galileo Multi Strategy II,Delta,RF USD corp loc,12.1863,0.1951,4,,,,
+p,MAF Mix II,Mariva,RF USD corp loc,11.703,0.1385,6,,,,
+p,Balanz Crecimiento FCI Ab para Financ Infra y Econ Real,Balanz,INFRA,10.7026,0.1829,3,,,,

@@ -1,0 +1,61 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Adcap Balanceado XVI,,,,,,,,
+m,gerente,Adcap Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Lecap,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,36404013369,,,,,,,,
+m,aum_planilla,36404013369,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85956,,,,,,,,
+m,n_especies,10,,,,,,,,
+m,activos_pn,93.7,,,,,,,,
+m,pasivos_cnv,6.3,,,,,,,,
+m,liquidez,5.49,,,,,,,,
+m,top1,23.75,,,,,,,,
+m,top5,76.45,,,,,,,,
+m,top10,93.69,,,,,,,,
+m,hhi_especies,1348.4371,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,69.1,,,,,,,,
+m,hhi_emisores,4992.1923,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,69.1,6,,,,,,,
+t,Plazo fijo,18.01,2,,,,,,,
+t,Caución,5.49,1,,,,,,,
+t,Subsoberano,1.09,1,,,,,,,
+c,ARS,93.69,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,70.19,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,23.51,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,6.3,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-6.3,,,,,,,,
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,23.75,8645953175,,,Titulos de Deuda en Peso Argentina,80
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,14.79,5384153577,,,Titulos de Deuda en Peso Argentina,149
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,13.46,4899980199,,,Titulos de Deuda en Peso Argentina,166
+e,Pzo Fi $ Bco Sol,Plazo fijo,Banco Sol,ARS,12.46,4535940066,,,Operaciones a Plazo en Peso Argentina,31
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,11.99,4364841203,,,Titulos de Deuda en Peso Argentina,160
+e,Pzo Fi $ Bco Coinag,Plazo fijo,Banco Coinag,ARS,5.55,2020422742,,,Operaciones a Plazo en Peso Argentina,12
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,5.49,1998580334,,,Operaciones a Plazo en Peso Argentina,195
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,4.82,1754673444,,,Titulos de Deuda en Peso Argentina,250
+e,Letra Prov Bs As LBN26,Subsoberano,Prov. Buenos Aires,ARS,1.09,396803746,,,Titulos de Deuda en Peso Argentina,14
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,0.29,105571639,,,Titulos de Deuda en Peso Argentina,75
+p,Parakeet Blend,Parakeet,RM y Otros ARS,62.014,0.7942,5,,,,
+p,Champaquí Renta Plus,Bancor,RF ARS Lecap,61.0232,0.7622,4,,,,
+p,Alpha Renta Fija Serie 6,ICBC,T+1,59.2137,0.7547,4,,,,
+p,Consultatio Renta Local,Consultatio,RF ARS Lecap,58.9071,0.7541,5,,,,
+p,Adcap Moneda,Adcap,RF USD Linked,56.2812,0.702,5,,,,
+p,Pionero Renta Pesos,Macro,RF ARS Lecap,55.9263,0.7854,4,,,,
+p,Alpha Renta Crecimiento,ICBC,T+1,55.5022,0.787,3,,,,
+p,Adcap Ahorro Dinámico Fondo de Dinero,Adcap,MM ARS Dinámico,54.7441,0.6985,6,,,,

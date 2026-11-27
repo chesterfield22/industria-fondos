@@ -1,0 +1,68 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pionero Infraestructura,,,,,,,,
+m,gerente,Macro Fondos S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,INFRA,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,4442586880,,,,,,,,
+m,aum_planilla,4442586880,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83511,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,100.13,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.31,,,,,,,,
+m,top1,10.72,,,,,,,,
+m,top5,46.43,,,,,,,,
+m,top10,78.64,,,,,,,,
+m,hhi_especies,717.6226,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,20.18,,,,,,,,
+m,hhi_emisores,1252.7586,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,78.23,12,,,,,,,
+t,Soberano,20.18,4,,,,,,,
+t,FCI,1.41,1,,,,,,,
+c,ARS,98.41,,,,,,,,
+c,sin dato,1.41,,,,,,,,
+r,Disponibilidades,0.31,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,98.41,,,,,,,,
+r,Certificados de Participacion Argentina,1.41,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.13,,,,,,,,
+e,ON YPF C 17,ON,YPF,ARS,10.72,476245314,,,Titulos de Deuda en Peso Argentina,19
+e,ON Telecom C12 TLCDO,ON,Telecom,ARS,9.07,402942630,,,Titulos de Deuda en Peso Argentina,29
+e,ON Pampa Energia C13,ON,Pampa Energia,ARS,9.02,400721337,,,Titulos de Deuda en Peso Argentina,30
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,8.86,393613198,,,Titulos de Deuda en Peso Argentina,159
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,8.76,389170611,,,Titulos de Deuda en Peso Argentina,42
+e,ON Oldelval Clase 2,ON,Oldelval,ARS,8.28,367846194,,,Titulos de Deuda en Peso Argentina,16
+e,ON Oldelval Clase 3,ON,Oldelval,ARS,6.81,302540167,,,Titulos de Deuda en Peso Argentina,40
+e,ON Pan American C33,ON,Pan American,ARS,6.81,302540167,,,Titulos de Deuda en Peso Argentina,36
+e,ON Vista Gas y Oil Arg C17,ON,Vista Gas y Oil Arg,ARS,5.21,231458776,,,Titulos de Deuda en Peso Argentina,23
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,5.1,226571931,,,Titulos de Deuda en Peso Argentina,136
+e,ON Genneia Clase 50,ON,Genneia,ARS,4.11,182590321,,,Titulos de Deuda en Peso Argentina,19
+e,ON Genneia Clase 37,ON,Genneia,ARS,4.07,180813286,,,Titulos de Deuda en Peso Argentina,23
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,3.25,144384074,,,Titulos de Deuda en Peso Argentina,61
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,2.97,131944830,,,Titulos de Deuda en Peso Argentina,250
+e,ON Pan Amer. Energy C 12,ON,Pan Amer. Energy,ARS,2.94,130612054,,,Titulos de Deuda en Peso Argentina,34
+e,ON Pan Amer. Energy C 18,ON,Pan Amer. Energy,ARS,2.43,107954861,,,Titulos de Deuda en Peso Argentina,14
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,1.41,62640475,,,Certificados de Participacion Argentina,77
+p,Optimum Total Return,Santander,RF USD Linked,33.7207,0.5969,4,,,,
+p,SBS Tavelli Renta,SBS,RF MULT Disc,27.935,0.3277,4,,,,
+p,Optimum Global Balanced,Santander,RM y Otros ARS,27.5783,0.4112,4,,,,
+p,Superfondo Renta Mixta,Santander,RF MULT Disc,27.1498,0.3412,11,,,,
+p,SBS Patrimonio IX,SBS,RF MULT Disc,27.1469,0.2855,5,,,,
+p,Allaria Cobertura Dinamica,Allaria,RF USD Linked,25.7081,0.3071,6,,,,
+p,GSS Energia,Grupo SS,RF MULT Corp,24.1559,0.356,6,,,,
+p,Compass Renta Fija III,Investis,RF USD Linked,23.892,0.3003,6,,,,

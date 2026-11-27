@@ -1,0 +1,63 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MAF Ahorro,,,,,,,,
+m,gerente,Mariva Asset Management S.A.U.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Mariva S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,11274839927,,,,,,,,
+m,aum_planilla,11274839926,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63701,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,105.26,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,17.29,,,,,,,,
+m,top5,58.22,,,,,,,,
+m,top10,94.27,,,,,,,,
+m,hhi_especies,1033.6397,,,,,,,,
+m,n_emisores,1,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,74.94,,,,,,,,
+m,hhi_emisores,5616.0036,,,,,,,,
+m,sin_emisor_pct,30.31,,,,,,,,
+t,Soberano,74.94,10,,,,,,,
+t,Cheque,17.29,1,,,,,,,
+t,Pagaré,13.02,2,,,,,,,
+c,ARS,105.25,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,105.26,,,,,,,,
+r,Certificados de Participacion Argentina,,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),5.26,,,,,,,,
+e,Cheque Gar.MARV 00072,Cheque,,ARS,17.29,1949419823,,,Titulos de Deuda en Peso Argentina,2
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,10.58,1192878064,,,Titulos de Deuda en Peso Argentina,118
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,10.56,1190623096,,,Titulos de Deuda en Peso Argentina,142
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,10.19,1148906189,,,Titulos de Deuda en Peso Argentina,66
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,9.6,1082384633,,,Titulos de Deuda en Peso Argentina,103
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,9.19,1036157789,,,Titulos de Deuda en Peso Argentina,136
+e,Pagare #MAV101260089,Pagaré,,ARS,8.65,975273654,,,Titulos de Deuda en Peso Argentina,1
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,7.01,790366279,,,Titulos de Deuda en Peso Argentina,159
+e,Bono Boncer TX26,Soberano,Tesoro Nacional,ARS,6.83,770071567,,,Titulos de Deuda en Peso Argentina,63
+e,Pagare #MAV241160089,Pagaré,,ARS,4.37,492710505,,,Titulos de Deuda en Peso Argentina,1
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,4.2,473543277,,,Titulos de Deuda en Peso Argentina,158
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,3.87,436336305,,,Titulos de Deuda en Peso Argentina,112
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,2.91,328097842,,,Titulos de Deuda en Peso Argentina,160
+p,Supergestion Mix VI,Santander,T+1,44.488,0.5059,7,,,,
+p,Pionero Multiestrategia Mix,Macro,RF MULT Disc,41.9287,0.5306,5,,,,
+p,MEGAQM Estrategia 2,MegaQM,RF MULT Disc,41.9287,0.4898,5,,,,
+p,Pionero Desarrollo,Macro,RF MULT Disc,41.8731,0.4958,6,,,,
+p,Compass Ahorro,Investis,T+1,37.4408,0.4599,7,,,,
+p,Axis Estrategia 18,Axis,RF MULT Disc,37.3302,0.4634,5,,,,
+p,Pionero Integral,Macro,RF MULT Disc,33.1972,0.5469,4,,,,
+p,First Renta Mixta VIII,First Cap Mkts,RF MULT Disc,32.7796,0.3353,4,,,,

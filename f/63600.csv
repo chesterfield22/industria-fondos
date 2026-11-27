@@ -1,0 +1,63 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Stonex Renta Variable,,,,,,,,
+m,gerente,StoneX Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,RV ARG Otros,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,15885000924,,,,,,,,
+m,aum_planilla,15885000924,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63600,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,100.1,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.13,,,,,,,,
+m,top1,16.35,,,,,,,,
+m,top5,58.13,,,,,,,,
+m,top10,96.39,,,,,,,,
+m,hhi_especies,1018.6811,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Vista Oil Gas,,,,,,,,
+m,emisor_top_pct,16.35,,,,,,,,
+m,hhi_emisores,1018.6843,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,71.74,9,,,,,,,
+t,Cedear,28.15,2,,,,,,,
+t,BCRA,0.08,2,,,,,,,
+c,ARS,99.97,,,,,,,,
+r,Disponibilidades,0.13,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,0.08,,,,,,,,
+r,Participaciones Accionarias Argentina,99.89,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.1,,,,,,,,
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,16.35,2597197651,,,Participaciones Accionarias Argentina,50
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,11.8,1874430109,,,Participaciones Accionarias Argentina,52
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,10.55,1675867597,,,Participaciones Accionarias Argentina,129
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,9.72,1544022090,,,Participaciones Accionarias Argentina,117
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,9.71,1542433590,,,Participaciones Accionarias Argentina,104
+e,YPF S.A.,Acción,YPF,ARS,9.13,1450300584,,,Participaciones Accionarias Argentina,122
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,8.11,1288273575,,,Participaciones Accionarias Argentina,83
+e,Transener S.A.,Acción,Transener,ARS,7.88,1251738073,,,Participaciones Accionarias Argentina,84
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,7.63,1212025570,,,Participaciones Accionarias Argentina,104
+e,Inversiones y Representaciones S.A. (IRSA),Acción,Inversiones y Representaciones S.A. (IRSA),ARS,5.51,875263551,,,Participaciones Accionarias Argentina,35
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,3.5,555975032,,,Participaciones Accionarias Argentina,93
+e,Bono Bopreal 2027 Serie 1 Clase D BPOD7,BCRA,BCRA,ARS,0.04,6354000,,,Titulos de Deuda en Peso Argentina,22
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,ARS,0.04,6354000,,,Titulos de Deuda en Peso Argentina,33
+p,Superfondo Acciones,Santander,RV ARG Otros,61.7701,0.7946,10,,,,
+p,Ualintec Renta Variable Pesos,Ualá,RV ARG Rofex 20,61.2573,0.809,10,,,,
+p,Delta Recursos Naturales,Delta,RV ARG Otros,57.9951,0.7547,7,,,,
+p,Cocos Acciones,Cocos,RV ARG Rofex 20,57.7115,0.6293,10,,,,
+p,Galileo Acciones,Delta,RV ARG Otros,57.3843,0.7256,6,,,,
+p,Schroder Renta Variable,Schroder,RV ARG Merval,56.3174,0.6575,8,,,,
+p,CYC Renta Mixta,CYC,RV ARG Otros,56.1665,0.6607,8,,,,
+p,Balanz Equity Selection,Balanz,RV ARG Otros,55.5989,0.6781,8,,,,

@@ -1,0 +1,64 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,CMA Performance,,,,,,,,
+m,gerente,Capital Markets Argentina Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1449708102,,,,,,,,
+m,aum_planilla,1449708102,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63752,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,100.05,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,4.26,,,,,,,,
+m,top1,24.42,,,,,,,,
+m,top5,70.9,,,,,,,,
+m,top10,92.11,,,,,,,,
+m,hhi_especies,1298.2956,,,,,,,,
+m,n_emisores,8,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,37.21,,,,,,,,
+m,hhi_emisores,2428.8736,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,37.21,3,,,,,,,
+t,ON,29.12,6,,,,,,,
+t,BCRA,25.57,2,,,,,,,
+t,FCI,3.88,1,,,,,,,
+c,ARS,91.9,,,,,,,,
+c,sin dato,3.88,,,,,,,,
+r,Disponibilidades,4.26,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,91.91,,,,,,,,
+r,Certificados de Participacion Argentina,3.88,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.05,,,,,,,,
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,24.42,354018718,,,Titulos de Deuda en Peso Argentina,75
+e,Bono Bopreal 2027 Serie 1 Clase B BPOB7,BCRA,BCRA,ARS,17.22,249639735,,,Titulos de Deuda en Peso Argentina,13
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,10.66,154538884,,,Titulos de Deuda en Peso Argentina,103
+e,ON MSU S12,ON,MSU,ARS,9.46,137142386,,,Titulos de Deuda en Peso Argentina,2
+e,ON MSU S11,ON,MSU,ARS,9.14,132503320,,,Titulos de Deuda en Peso Argentina,11
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,ARS,8.35,121050626,,,Titulos de Deuda en Peso Argentina,33
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,3.88,56248674,,,Certificados de Participacion Argentina,93
+e,ON San Miguel Serie 13 CA,ON,San Miguel,ARS,3.19,46245688,,,Titulos de Deuda en Peso Argentina,19
+e,ON Rizobacter S 11 CA,ON,Rizobacter,ARS,3.16,45810776,,,Titulos de Deuda en Peso Argentina,5
+e,ON Capex C7,ON,Capex,ARS,2.63,38127323,,,Titulos de Deuda en Peso Argentina,21
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,2.13,30878783,,,Titulos de Deuda en Peso Argentina,149
+e,ON Genneia Clase 37,ON,Genneia,ARS,1.54,22325505,,,Titulos de Deuda en Peso Argentina,23
+p,Allaria Gestión Dinámica,Allaria,RF MULT Disc,45.3435,0.5788,3,,,,
+p,Stonex Renta Fija Proteccion Plus,StoneX,RF USD Linked,39.3836,0.5647,4,,,,
+p,Max Retorno Total Pesos III,Max Capital,RF MULT Disc,38.8494,0.6185,3,,,,
+p,FBA Horizonte,BBVA,RF USD Linked,37.789,0.6137,3,,,,
+p,First Renta Mixta VI,First Cap Mkts,RF MULT Disc,36.6456,0.6483,3,,,,
+p,Pionero Soja,Macro,RM y Otros ARS,36.6256,0.6786,2,,,,
+p,Max Cobertura,Max Capital,RF USD Linked,36.6256,0.6191,2,,,,
+p,Megainver Renta Global,MegaQM,T+1,36.6256,0.6163,2,,,,

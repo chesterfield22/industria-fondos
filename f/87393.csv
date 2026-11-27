@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MEGAQM Gestión Dólares 2,,,,,,,,
+m,gerente,MEGA QM S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,26021453,,,,,,,,
+m,aum_planilla,26021453,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87393,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,110.34,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.02,,,,,,,,
+m,top1,25.36,,,,,,,,
+m,top5,79.43,,,,,,,,
+m,top10,104.52,,,,,,,,
+m,hhi_especies,1592.0545,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,79.43,,,,,,,,
+m,hhi_emisores,6457.2971,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,79.43,5,,,,,,,
+t,ON,30.77,7,,,,,,,
+t,FCI,0.11,3,,,,,,,
+c,USD,110.3,,,,,,,,
+c,sin dato,0.01,,,,,,,,
+r,Disponibilidades,0.02,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,110.21,,,,,,,,
+r,Certificados de Participacion Argentina,0.11,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),10.34,,,,,,,,
+e,Bonos Rep Argentina GD30,Soberano,Tesoro Nacional,USD,25.36,6599041,,,Titulos de Deuda en Dolar Estadounidense,37
+e,Bono del Tesoro Nacional AN29,Soberano,Tesoro Nacional,USD,18.05,4696872,,,Titulos de Deuda en Dolar Estadounidense,25
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,USD,16.71,4348185,,,Titulos de Deuda en Dolar Estadounidense,72
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,USD,11.81,3073134,,,Titulos de Deuda en Dolar Estadounidense,74
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,USD,7.5,1951609,,,Titulos de Deuda en Dolar Estadounidense,40
+e,ON Pluspetrol Clase 5,ON,Pluspetrol,USD,5.94,1545674,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON YPF Clase 34,ON,YPF,USD,5.83,1517051,,,Titulos de Deuda en Dolar Estadounidense,46
+e,ON Pan American C43,ON,Pan American,USD,5.57,1449395,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,USD,3.96,1030450,,,Titulos de Deuda en Dolar Estadounidense,58
+e,ON Pampa Energia C23 (RegS),ON,Pampa Energia,USD,3.79,986213.0721,,,Titulos de Deuda en Dolar Estadounidense,36
+e,ON TGS C4 Reg S,ON,TGS,USD,3.76,978406.6362,,,Titulos de Deuda en Dolar Estadounidense,26
+e,ON Edenor C11,ON,Edenor,USD,1.92,499611.8993,,,Titulos de Deuda en Dolar Estadounidense,31
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,0.05,13010.7265,,,Certificados de Participacion Argentina,37
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,0.05,13010.7265,,,Certificados de Participacion Argentina,37
+e,FCI Balanz Capital Money Market Clase C,FCI,Balanz Capital Money Market,,0.01,2602.1453,,,Certificados de Participacion Argentina,47
+p,Crecer Renta Dólares,Ciudad,RF USD Disc,40.628,0.5866,3,,,,
+p,IAM Renta Global,BIND,RM y Otros USD,38.138,0.6282,2,,,,
+p,Pellegrini Renta Dolares,Pellegrini,RF USD Disc,33.8682,0.5215,3,,,,
+p,Novus Capital,Novus,RM y Otros USD,32.0515,0.4449,5,,,,
+p,Novus Income Dólares,Novus,RF USD Disc,30.8811,0.4351,3,,,,
+p,FBA Renta Fija Dólar Plus I,BBVA,RF USD Disc,29.4446,0.3649,4,,,,
+p,Balanz Capital Renta Fija en Dólares,Balanz,RF USD Disc,29.2286,0.3156,2,,,,
+p,MEGAQM Ahorro Dólares,MegaQM,RF USD Disc,28.9573,0.3464,5,,,,

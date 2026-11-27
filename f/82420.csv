@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,First Renta Mixta III,,,,,,,,
+m,gerente,First Capital Markets S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1067991698,,,,,,,,
+m,aum_planilla,1067991698,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/82420,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,100.18,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,2.19,,,,,,,,
+m,top1,27.78,,,,,,,,
+m,top5,89.91,,,,,,,,
+m,top10,97.95,,,,,,,,
+m,hhi_especies,1929.2202,,,,,,,,
+m,n_emisores,8,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,89.91,,,,,,,,
+m,hhi_emisores,8120.708,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,89.91,5,,,,,,,
+t,Subsoberano,5.93,1,,,,,,,
+t,FCI,1.2,5,,,,,,,
+t,Fideicomiso financiero,0.96,2,,,,,,,
+c,ARS,95.84,,,,,,,,
+c,sin dato,2.16,,,,,,,,
+r,Disponibilidades,2.19,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,95.83,,,,,,,,
+r,Certificados de Participacion Argentina,2.16,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.18,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,27.78,296688094,,,Titulos de Deuda en Peso Argentina,103
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,21.62,230899805,,,Titulos de Deuda en Peso Argentina,75
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,20.59,219899491,,,Titulos de Deuda en Peso Argentina,250
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,13.89,148344047,,,Titulos de Deuda en Peso Argentina,92
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,6.03,64399899,,,Titulos de Deuda en Peso Argentina,56
+e,Bono Prov de Buenos Aires TZV28,Subsoberano,Prov. Buenos Aires,ARS,5.93,63331908,,,Titulos de Deuda en Peso Argentina,46
+e,FF AMFAyS S50 Clase A,Fideicomiso financiero,AMFAyS,,0.92,9825524,,,Certificados de Participacion Argentina,12
+e,FCI Tango Money Market Dinámico - Clase B,FCI,Tango Money Market Dinámico,,0.85,9077929,,,Certificados de Participacion Argentina,13
+e,FCI Adcap Ahorro Pesos - Clase C,FCI,Adcap Ahorro Pesos,,0.3,3203975,,,Certificados de Participacion Argentina,15
+e,FF AMFAyS S49 Clase A,Fideicomiso financiero,AMFAyS,,0.04,427196.679,,,Certificados de Participacion Argentina,1
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.02,213598.3395,,,Certificados de Participacion Argentina,77
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.02,213598.3395,,,Certificados de Participacion Argentina,93
+e,FCI Axis Pesos - Clase B,FCI,Axis Pesos,,0.01,106799.1698,,,Certificados de Participacion Argentina,12
+p,Stonex Renta Fija Proteccion Plus,StoneX,RF USD Linked,69.0363,0.8989,3,,,,
+p,Pionero Renta Ahorro Plus,Macro,RF USD Linked,68.5426,0.8798,3,,,,
+p,Schroder Patrimonio Dos,Schroder,RF MULT Disc,67.1393,0.8757,4,,,,
+p,MEGAQM Performance II,MegaQM,MM ARS Clásico,65.953,0.8035,4,,,,
+p,Champaquí Estratégico,Bancor,RF USD Linked,65.5484,0.8811,3,,,,
+p,Megainver Renta Global,MegaQM,T+1,64.9742,0.8549,3,,,,
+p,Pellegrini Proteccion,Pellegrini,RF USD Linked,61.0453,0.8697,4,,,,
+p,Pionero Soja,Macro,RM y Otros ARS,59.4553,0.8448,3,,,,

@@ -1,0 +1,71 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Delta Crecimiento Infraestructura,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,INFRA,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5014661638,,,,,,,,
+m,aum_planilla,5014661638,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63669,,,,,,,,
+m,n_especies,18,,,,,,,,
+m,activos_pn,99.98,,,,,,,,
+m,pasivos_cnv,0.02,,,,,,,,
+m,liquidez,0.16,,,,,,,,
+m,top1,19.49,,,,,,,,
+m,top5,68.53,,,,,,,,
+m,top10,89.72,,,,,,,,
+m,hhi_especies,1143.9913,,,,,,,,
+m,n_emisores,17,,,,,,,,
+m,emisor_top,Vista Gas y Oil Arg,,,,,,,,
+m,emisor_top_pct,19.49,,,,,,,,
+m,hhi_emisores,1192.6453,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,82.16,10,,,,,,,
+t,Fideicomiso financiero,5.95,3,,,,,,,
+t,FCI,5.49,3,,,,,,,
+t,Soberano,3.44,1,,,,,,,
+t,Subsoberano,2.79,1,,,,,,,
+c,ARS,88.39,,,,,,,,
+c,sin dato,11.44,,,,,,,,
+r,Disponibilidades,0.16,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,88.38,,,,,,,,
+r,Certificados de Participacion Argentina,11.44,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.02,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.02,,,,,,,,
+e,ON Vista Gas y Oil Arg C25,ON,Vista Gas y Oil Arg,ARS,19.49,977357553,,,Titulos de Deuda en Peso Argentina,18
+e,ON Telecom C14 TLCFO,ON,Telecom,ARS,15.59,781785749,,,Titulos de Deuda en Peso Argentina,23
+e,ON Oldelval Clase 2,ON,Oldelval,ARS,15.55,779779885,,,Titulos de Deuda en Peso Argentina,16
+e,ON Pan Amer. Energy C 13,ON,Pan Amer. Energy,ARS,9.54,478398720,,,Titulos de Deuda en Peso Argentina,11
+e,ON Genneia Clase 39,ON,Genneia,ARS,8.36,419225713,,,Titulos de Deuda en Peso Argentina,9
+e,ON CGC C 27,ON,CGC,ARS,7.22,362058570,,,Titulos de Deuda en Peso Argentina,3
+e,FF Sion Conecta Infraestructura Privada S1,Fideicomiso financiero,Sion Conecta Infraestructura Privada,,4.2,210615789,,,Certificados de Participacion Argentina,16
+e,FCI Gainvest Pesos - Clase B,FCI,Gainvest Pesos,,3.54,177519022,,,Certificados de Participacion Argentina,36
+e,Boncer Mendoza C1,Soberano,Tesoro Nacional,ARS,3.44,172504360,,,Titulos de Deuda en Peso Argentina,49
+e,Bono Prov Cordoba Clase 6,Subsoberano,Prov. Cordoba,ARS,2.79,139909060,,,Titulos de Deuda en Peso Argentina,36
+e,ON Pan Amer. Energy C 17,ON,Pan Amer. Energy,ARS,2.55,127873872,,,Titulos de Deuda en Peso Argentina,15
+e,ON Pan American C26,ON,Pan American,ARS,2.02,101296165,,,Titulos de Deuda en Peso Argentina,38
+e,FF Proyecto VIDA CP,Fideicomiso financiero,Proyecto VIDA CP,,1.45,72712594,,,Certificados de Participacion Argentina,9
+e,ON Refi Pampa S3 B,ON,Refi Pampa,ARS,1.13,56665677,,,Titulos de Deuda en Peso Argentina,11
+e,FCI Terrazas del Volcan Inmobiliario FCIC,FCI,Terrazas del Volcan Inmobiliario FCIC,,1.02,51149549,,,Certificados de Participacion Argentina,5
+e,FCI Dracma FCIC Inmobiliario - Clase B,FCI,Dracma FCIC Inmobiliario,,0.93,46636353,,,Certificados de Participacion Argentina,7
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,0.71,35604098,,,Titulos de Deuda en Peso Argentina,67
+e,FF Nasa Clase 4,Fideicomiso financiero,Nasa,,0.3,15043985,,,Certificados de Participacion Argentina,5
+p,Ciclo Nova Estructurado II,Ciclo Nova,RM y Otros ARS,31.8364,0.4853,4,,,,
+p,GSS Energia,Grupo SS,RF MULT Corp,28.6677,0.4793,6,,,,
+p,Delta Gestion IX,Delta,RF USD Linked,26.005,0.3743,8,,,,
+p,Chaco FCI Abierto Infraestructura,Chaco,INFRA,24.236,0.2863,5,,,,
+p,Fima Cartera Sustentable FCI ASG,Galicia,ASG,23.9908,0.3539,2,,,,
+p,Alpha Infraestructura,ICBC,INFRA,21.5353,0.3915,6,,,,
+p,GSS Cobertura,Grupo SS,RF USD Linked,19.7834,0.2322,3,,,,
+p,Consultatio Infraestructura,Consultatio,INFRA,16.1734,0.174,5,,,,

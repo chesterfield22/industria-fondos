@@ -1,0 +1,61 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,FCIC Inmobiliario Puerto Nizuc,,,,,,,,
+m,gerente,Ciclo Nova Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Cerrado,,,,,,,,
+m,subtipo,MM ARS Clásico,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,66531969337,,,,,,,,
+m,aum_planilla,,,,,,,,,
+m,dif_pn_aum,,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,atipica,,,,,,,,
+m,aviso,"Datos atípicos: activos 43,48% del patrimonio, pasivos informados 56,52%. Se muestra como lo informa la CNV.",,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86195,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,43.48,,,,,,,,
+m,pasivos_cnv,56.52,,,,,,,,
+m,liquidez,0.14,,,,,,,,
+m,top1,14.64,,,,,,,,
+m,top5,34.49,,,,,,,,
+m,top10,42.01,,,,,,,,
+m,hhi_especies,340.2837,,,,,,,,
+m,n_emisores,3,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,39.23,,,,,,,,
+m,hhi_emisores,1548.8091,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,39.23,11,,,,,,,
+t,ON,4.1,2,,,,,,,
+c,ARS,43.33,,,,,,,,
+r,Disponibilidades,0.14,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,43.34,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,56.52,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-56.52,,,,,,,,
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,ARS,14.64,9740280311,,,Titulos de Deuda en Peso Argentina,72
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,8.03,5342517138,,,Titulos de Deuda en Peso Argentina,128
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,4.82,3206840922,,,Titulos de Deuda en Peso Argentina,67
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,4.11,2734463940,,,Titulos de Deuda en Peso Argentina,250
+e,ON Pan American C36,ON,Pan American,ARS,2.89,1922773914,,,Titulos de Deuda en Peso Argentina,11
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,2.13,1417130947,,,Titulos de Deuda en Peso Argentina,82
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,ARS,1.9,1264107417,,,Titulos de Deuda en Peso Argentina,40
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,1.34,891528389,,,Titulos de Deuda en Peso Argentina,64
+e,ON Cresud Clase 51,ON,Cresud,ARS,1.21,805036829,,,Titulos de Deuda en Peso Argentina,14
+e,Bono del Tesoro Nacional TY30P,Soberano,Tesoro Nacional,ARS,0.94,625400512,,,Titulos de Deuda en Peso Argentina,30
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,0.7,465723785,,,Titulos de Deuda en Peso Argentina,165
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,0.42,279434271,,,Titulos de Deuda en Peso Argentina,74
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,0.2,133063939,,,Titulos de Deuda en Peso Argentina,92
+p,Galileo Estrategia,Delta,T+1,40.0269,0.4553,5,,,,
+p,Balanz Performance XIII,Balanz,RF ARS Disc,39.132,0.4923,6,,,,
+p,IAM Renta Plus,BIND,T+1,38.3907,0.6568,6,,,,
+p,Pellegrini Integral,Pellegrini,RM y Otros ARS,37.7073,0.5085,4,,,,
+p,Chaco Fondos Renta Fija I,Chaco,RF ARS Disc,37.6195,0.3844,5,,,,
+p,Pionero Renta Estrategico,Macro,RM y Otros ARS,36.2413,0.3226,7,,,,
+p,Bell BAVSA Renta Plus,BAVSA,RF ARS CER,35.7066,0.4966,2,,,,
+p,Pionero Gestion,Macro,RF MULT Disc,34.8385,0.2965,8,,,,

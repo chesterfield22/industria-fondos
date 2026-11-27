@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,1822 Raices Ahorro Plus,,,,,,,,
+m,gerente,Provinfondos S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Provincia de Buenos Aires,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Lecap,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,32725195404,,,,,,,,
+m,aum_planilla,32725195404,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83938,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,100.05,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,18.1,,,,,,,,
+m,top5,63.85,,,,,,,,
+m,top10,91.7,,,,,,,,
+m,hhi_especies,1064.5101,,,,,,,,
+m,n_emisores,4,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,77.04,,,,,,,,
+m,hhi_emisores,6061.4097,,,,,,,,
+m,sin_emisor_pct,5.96,,,,,,,,
+t,Soberano,77.04,8,,,,,,,
+t,Fideicomiso financiero,14.79,3,,,,,,,
+t,Cheque,5.96,1,,,,,,,
+t,FCI,2.24,1,,,,,,,
+c,ARS,83,,,,,,,,
+c,sin dato,17.03,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,83.01,,,,,,,,
+r,Certificados de Participacion Argentina,17.03,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.05,,,,,,,,
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,18.1,5923260368,,,Titulos de Deuda en Peso Argentina,166
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,15.73,5147673237,,,Titulos de Deuda en Peso Argentina,149
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,10.9,3567046299,,,Titulos de Deuda en Peso Argentina,92
+e,Bono Boncer TX26,Soberano,Tesoro Nacional,ARS,10.55,3452508115,,,Titulos de Deuda en Peso Argentina,63
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,8.57,2804549246,,,Titulos de Deuda en Peso Argentina,80
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,7.1,2323488874,,,Titulos de Deuda en Peso Argentina,160
+e,FF Megabono 354 Clase A,Fideicomiso financiero,Megabono,,6.23,2038779674,,,Certificados de Participacion Argentina,7
+e,Cheque E *MAV091201805,Cheque,,ARS,5.96,1950421646,,,Titulos de Deuda en Peso Argentina,1
+e,FF Consubond S203 Clase A,Fideicomiso financiero,Consubond,,4.96,1623169692,,,Certificados de Participacion Argentina,11
+e,FF Megabono 361 Clase A,Fideicomiso financiero,Megabono,,3.6,1178107035,,,Certificados de Participacion Argentina,4
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,3.19,1043933733,,,Titulos de Deuda en Peso Argentina,82
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,2.9,949030667,,,Titulos de Deuda en Peso Argentina,112
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,2.24,733044377,,,Certificados de Participacion Argentina,77
+p,Consultatio Renta Local,Consultatio,RF ARS Lecap,55.4194,0.7902,5,,,,
+p,Valiant Renta Fija Balanceado VI,Valiant,RF ARS Lecap,54.8336,0.6594,5,,,,
+p,Allaria Dinámico III,Allaria,RF ARS Lecap,51.8145,0.8144,4,,,,
+p,Pionero Renta Pesos,Macro,RF ARS Lecap,51.7245,0.7735,5,,,,
+p,SBS Tavelli Mix,SBS,T+1,51.4646,0.7507,4,,,,
+p,Champaquí Renta Plus,Bancor,RF ARS Lecap,46.9991,0.658,4,,,,
+p,Consultatio Retorno Absoluto,Consultatio,RM y Otros ARS,46.636,0.7202,4,,,,
+p,Alpha Renta Fija Serie 6,ICBC,T+1,46.0988,0.6223,4,,,,

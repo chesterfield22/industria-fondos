@@ -1,0 +1,82 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Consultatio Infraestructura,,,,,,,,
+m,gerente,Consultatio Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,INFRA,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,4790600422,,,,,,,,
+m,aum_planilla,4790600422,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/81659,,,,,,,,
+m,n_especies,29,,,,,,,,
+m,activos_pn,100.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.37,,,,,,,,
+m,top1,12.9,,,,,,,,
+m,top5,48,,,,,,,,
+m,top10,71.65,,,,,,,,
+m,hhi_especies,692.796,,,,,,,,
+m,n_emisores,18,,,,,,,,
+m,emisor_top,Pampa Energia,,,,,,,,
+m,emisor_top_pct,17.6,,,,,,,,
+m,hhi_emisores,1145.3298,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,81.53,22,,,,,,,
+t,Soberano,17.38,3,,,,,,,
+t,FCI,0.73,4,,,,,,,
+c,ARS,96.37,,,,,,,,
+c,USD,2.54,,,,,,,,
+c,sin dato,0.73,,,,,,,,
+r,Disponibilidades,0.37,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,96.38,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,2.54,,,,,,,,
+r,Certificados de Participacion Argentina,0.73,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.02,,,,,,,,
+e,ON YPF Clase 31,ON,YPF,ARS,12.9,617987454,,,Titulos de Deuda en Peso Argentina,48
+e,ON Pampa Energia C21,ON,Pampa Energia,ARS,11.97,573434870,,,Titulos de Deuda en Peso Argentina,36
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,11.35,543733148,,,Titulos de Deuda en Peso Argentina,166
+e,ON Genneia Clase 39,ON,Genneia,ARS,6.04,289352265,,,Titulos de Deuda en Peso Argentina,9
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,5.74,274980464,,,Titulos de Deuda en Peso Argentina,42
+e,ON Tecpetrol C12,ON,Tecpetrol,ARS,5.61,268752684,,,Titulos de Deuda en Peso Argentina,60
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,5.3,253901822,,,Titulos de Deuda en Peso Argentina,250
+e,ON Aeropuertos 2000 Regs 2031,ON,Aeropuertos,ARS,4.69,224679160,,,Titulos de Deuda en Peso Argentina,22
+e,ON Tecpetrol C10,ON,Tecpetrol,ARS,4.16,199288978,,,Titulos de Deuda en Peso Argentina,33
+e,ON Pan Amer. Energy C 13,ON,Pan Amer. Energy,ARS,3.89,186354356,,,Titulos de Deuda en Peso Argentina,11
+e,ON CGC C 38,ON,CGC,ARS,3.67,175815035,,,Titulos de Deuda en Peso Argentina,21
+e,ON Pan Amer. Energy C 17,ON,Pan Amer. Energy,ARS,3.22,154257334,,,Titulos de Deuda en Peso Argentina,15
+e,ON Genneia Clase 42,ON,Genneia,ARS,3.19,152820153,,,Titulos de Deuda en Peso Argentina,12
+e,ON Pampa Energia C13,ON,Pampa Energia,ARS,3.09,148029553,,,Titulos de Deuda en Peso Argentina,30
+e,ON Vista Gas y Oil Arg C25,ON,Vista Gas y Oil Arg,ARS,3.01,144197073,,,Titulos de Deuda en Peso Argentina,18
+e,ON Pampa Energia C28,ON,Pampa Energia,USD,2.54,121681251,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Pan American C43,ON,Pan American,ARS,1.84,88147048,,,Titulos de Deuda en Peso Argentina,9
+e,ON Vaca Muerta C1,ON,Vaca Muerta,ARS,1.66,79523967,,,Titulos de Deuda en Peso Argentina,45
+e,ON San Miguel Serie 13 CA,ON,San Miguel,ARS,1.55,74254307,,,Titulos de Deuda en Peso Argentina,19
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,1.08,51738485,,,Titulos de Deuda en Peso Argentina,56
+e,ON Pan Amer. Energy C 12,ON,Pan Amer. Energy,ARS,0.79,37845743,,,Titulos de Deuda en Peso Argentina,34
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,0.73,34971383,,,Titulos de Deuda en Peso Argentina,159
+e,FCI Argenfunds Liquidez - Clase B,FCI,Argenfunds Liquidez,,0.69,33055143,,,Certificados de Participacion Argentina,50
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,0.63,30180783,,,Titulos de Deuda en Peso Argentina,67
+e,ON Red Surcos S11,ON,Red Surcos,ARS,0.2,9581201,,,Titulos de Deuda en Peso Argentina,6
+e,ON Red Surcos S9 Clase A,ON,Red Surcos,ARS,0.06,2874360,,,Titulos de Deuda en Peso Argentina,9
+e,FCI MEGAQM Pesos - Clase A,FCI,MEGAQM Pesos,,0.02,958120.0844,,,Certificados de Participacion Argentina,8
+e,FCI MAF Money Market - Clase B,FCI,MAF Money Market,,0.01,479060.0422,,,Certificados de Participacion Argentina,39
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.01,479060.0422,,,Certificados de Participacion Argentina,96
+p,MEGAQM Gestión Dólares I,MegaQM,RF USD GL Inc ARG,25.4452,0.366,4,,,,
+p,Axis Rosental USD Strategic Income,Axis,RM y Otros USD,19.2899,0.3443,5,,,,
+p,Balanz Ahorro en Dólares,Balanz,RF USD corp loc,18.727,0.3186,7,,,,
+p,Balanz Desarrollo FCI Ab para Financ Infra y Econ Real,Balanz,INFRA,18.4464,0.3095,3,,,,
+p,Consultatio Estrategia IV,Consultatio,RF USD Disc,18.3348,0.2584,3,,,,
+p,Balanz Capital Estrategia V USD,Balanz,RF USD corp loc,18.1176,0.2908,4,,,,
+p,Consultatio Multimercado III,Consultatio,RF USD corp loc,17.9298,0.2641,6,,,,
+p,Adcap Moneda,Adcap,RF USD Linked,16.9707,0.2559,5,,,,

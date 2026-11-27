@@ -1,0 +1,80 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Ciclo Nova Multiestrategia II,,,,,,,,
+m,gerente,Ciclo Nova Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,95962159059,,,,,,,,
+m,aum_planilla,95962159059,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85382,,,,,,,,
+m,n_especies,26,,,,,,,,
+m,activos_pn,100.16,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.04,,,,,,,,
+m,top1,22.92,,,,,,,,
+m,top5,57.24,,,,,,,,
+m,top10,79.91,,,,,,,,
+m,hhi_especies,974.777,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,88.29,,,,,,,,
+m,hhi_emisores,7798.4509,,,,,,,,
+m,sin_emisor_pct,8.51,,,,,,,,
+t,Soberano,88.29,15,,,,,,,
+t,Pagaré,8.51,7,,,,,,,
+t,FCI,1.24,2,,,,,,,
+t,Subsoberano,1.06,1,,,,,,,
+t,Caución,1.04,1,,,,,,,
+c,ARS,98.9,,,,,,,,
+c,sin dato,1.24,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,97.88,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,1.04,,,,,,,,
+r,Certificados de Participacion Argentina,1.24,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.16,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,22.92,21994526856,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,10.52,10095219133,,,Titulos de Deuda en Peso Argentina,84
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,9.11,8742152690,,,Titulos de Deuda en Peso Argentina,165
+e,Letra Tesoro Nac D31M7,Soberano,Tesoro Nacional,ARS,8.01,7686568941,,,Titulos de Deuda en Peso Argentina,30
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,6.68,6410272225,,,Titulos de Deuda en Peso Argentina,146
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,5.64,5412265771,,,Titulos de Deuda en Peso Argentina,103
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,5.61,5383477123,,,Titulos de Deuda en Peso Argentina,75
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,4.38,4203142567,,,Titulos de Deuda en Peso Argentina,64
+e,Bono Boncer TZXD8,Soberano,Tesoro Nacional,ARS,3.93,3771312851,,,Titulos de Deuda en Peso Argentina,26
+e,Pagare #MAV121160074,Pagaré,,ARS,3.11,2984423147,,,Titulos de Deuda en Peso Argentina,1
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,2.98,2859672340,,,Titulos de Deuda en Peso Argentina,66
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,2.71,2600574511,,,Titulos de Deuda en Peso Argentina,136
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,2.32,2226322090,,,Titulos de Deuda en Peso Argentina,112
+e,Pagare #MAV181160056,Pagaré,,ARS,2.06,1976820477,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV101260099,Pagaré,,ARS,2.03,1948031829,,,Titulos de Deuda en Peso Argentina,1
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,1.98,1900050749,,,Titulos de Deuda en Peso Argentina,51
+e,Bono Prov de Buenos Aires TZV28,Subsoberano,Prov. Buenos Aires,ARS,1.06,1017198886,,,Titulos de Deuda en Peso Argentina,46
+e,FCI Valiant Cerrado de Créditos II - Clase B,FCI,Valiant Cerrado de Créditos II,,1.04,998006454,,,Certificados de Participacion Argentina,1
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,1.04,998006454,,,Operaciones a Plazo en Peso Argentina,195
+e,Pagare #MAV161260045,Pagaré,,ARS,1.01,969217806,,,Titulos de Deuda en Peso Argentina,1
+e,Bono CER TZX27,Soberano,Tesoro Nacional,ARS,0.87,834870784,,,Titulos de Deuda en Peso Argentina,43
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,0.63,604561602,,,Titulos de Deuda en Peso Argentina,56
+e,FCI Argenfunds Liquidez - Clase B,FCI,Argenfunds Liquidez,,0.2,191924318,,,Certificados de Participacion Argentina,50
+e,Pagare *MAV151201882,Pagaré,,ARS,0.1,95962159,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare *MAV060101265,Pagaré,,ARS,0.1,95962159,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare *MAV270101301,Pagaré,,ARS,0.1,95962159,,,Titulos de Deuda en Peso Argentina,1
+p,Novus Performance,Novus,RF MULT Disc,49.4656,0.7352,5,,,,
+p,SBS Patrimonio VIII,SBS,RF ARS Disc,47.8169,0.783,6,,,,
+p,Fima Mix II,Galicia,RM y Otros ARS,45.711,0.6244,8,,,,
+p,IAM Renta Plus,BIND,T+1,44.3051,0.6146,5,,,,
+p,CMA Estrategia Pesos,Capital Mark..,RF MULT Disc,44.1419,0.6906,7,,,,
+p,Fima Mix I,Galicia,RM y Otros ARS,44.0075,0.6243,10,,,,
+p,Bull Market Ahorro Balanceado II,Bull Market,RF MULT Disc,42.3163,0.6693,6,,,,
+p,Fima Capital Plus,Galicia,RF USD Linked,42.2328,0.6218,9,,,,

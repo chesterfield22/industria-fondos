@@ -1,0 +1,71 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pellegrini Renta Publica Federal,,,,,,,,
+m,gerente,Pellegrini S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de La Nacion Argentina,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,20972305587,,,,,,,,
+m,aum_planilla,20972305587,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63913,,,,,,,,
+m,n_especies,20,,,,,,,,
+m,activos_pn,101.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,22.2,,,,,,,,
+m,top5,65.27,,,,,,,,
+m,top10,85.13,,,,,,,,
+m,hhi_especies,1091.7248,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Prov. Cordoba,,,,,,,,
+m,emisor_top_pct,34.24,,,,,,,,
+m,hhi_emisores,2434.5734,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Subsoberano,65.02,12,,,,,,,
+t,Soberano,32.6,5,,,,,,,
+t,FCI,3.4,3,,,,,,,
+c,ARS,97.62,,,,,,,,
+c,sin dato,3.4,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,97.61,,,,,,,,
+r,Certificados de Participacion Argentina,3.4,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.02,,,,,,,,
+e,Bono Prov Cordoba 2027 COY27,Subsoberano,Prov. Cordoba,ARS,22.2,4655851840,,,Titulos de Deuda en Peso Argentina,28
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,13.14,2755760954,,,Titulos de Deuda en Peso Argentina,166
+e,Bono Prov Cordoba Clase 4,Subsoberano,Prov. Cordoba,ARS,12.04,2525065593,,,Titulos de Deuda en Peso Argentina,37
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,10.44,2189508703,,,Titulos de Deuda en Peso Argentina,160
+e,Bono Prov Mendoza TAMAR C2,Subsoberano,Prov. Mendoza TAMAR,ARS,7.45,1562436766,,,Titulos de Deuda en Peso Argentina,24
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,4.96,1040226357,,,Titulos de Deuda en Peso Argentina,92
+e,Letra Prov Bs As PBA28,Subsoberano,Prov. Buenos Aires,ARS,4.56,956337135,,,Titulos de Deuda en Peso Argentina,28
+e,Letra Prov Rio Negro S1 031226,Subsoberano,Prov. Rio Negro,ARS,3.9,817919918,,,Titulos de Deuda en Peso Argentina,15
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,3.29,689988854,,,Certificados de Participacion Argentina,47
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,3.15,660627626,,,Titulos de Deuda en Peso Argentina,128
+e,Bono CABA 2028 BDC28,Subsoberano,Prov. CABA,ARS,3.08,645947012,,,Titulos de Deuda en Peso Argentina,18
+e,Letra Prov Chubut S119 C1,Subsoberano,Prov. Chubut,ARS,2.62,549474406,,,Titulos de Deuda en Peso Argentina,8
+e,Letra Muni Cordoba S53,Subsoberano,Muni. Cordoba,ARS,2.5,524307640,,,Titulos de Deuda en Peso Argentina,17
+e,Letra Prov Bs As LBN26,Subsoberano,Prov. Buenos Aires,ARS,2.13,446710109,,,Titulos de Deuda en Peso Argentina,14
+e,Letra Prov Bs As BBN26,Subsoberano,Prov. Buenos Aires,ARS,2.06,432029495,,,Titulos de Deuda en Peso Argentina,2
+e,Letra Prov Chubut S122 C1,Subsoberano,Prov. Chubut,ARS,1.49,312487353,,,Titulos de Deuda en Peso Argentina,12
+e,Letra Prov Rio Negro S1 240927,Subsoberano,Prov. Rio Negro,ARS,0.99,207625825,,,Titulos de Deuda en Peso Argentina,9
+e,Bono Boncer TX26,Soberano,Tesoro Nacional,ARS,0.91,190847981,,,Titulos de Deuda en Peso Argentina,63
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.06,12583383,,,Certificados de Participacion Argentina,93
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.05,10486153,,,Certificados de Participacion Argentina,96
+p,MAF Renta Balanceada,Mariva,RM y Otros ARS,39.9877,0.626,6,,,,
+p,Fima Infraestructura II,Galicia,INFRA,39.6273,0.6605,4,,,,
+p,Consultatio Retorno Absoluto,Consultatio,RM y Otros ARS,29.1526,0.4665,4,,,,
+p,Consultatio Multimercado II,Consultatio,RF MULT Disc,28.2518,0.475,3,,,,
+p,Consultatio Estrategia,Consultatio,RF MULT Disc,28.2518,0.4409,3,,,,
+p,Consultatio Renta Local,Consultatio,RF ARS Lecap,28.2518,0.44,3,,,,
+p,Allaria Dinámico III,Allaria,RF ARS Lecap,28.2518,0.4042,3,,,,
+p,FBA Renta Fija Pesos II,BBVA,T+1,28.2518,0.361,3,,,,

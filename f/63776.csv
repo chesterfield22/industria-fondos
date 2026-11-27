@@ -1,0 +1,90 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,IAM Renta Capital,,,,,,,,
+m,gerente,Industrial Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Industrial S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,10643536932,,,,,,,,
+m,aum_planilla,10643536932,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63776,,,,,,,,
+m,n_especies,32,,,,,,,,
+m,activos_pn,99.78,,,,,,,,
+m,pasivos_cnv,0.22,,,,,,,,
+m,liquidez,3.84,,,,,,,,
+m,top1,16.67,,,,,,,,
+m,top5,50.98,,,,,,,,
+m,top10,75.15,,,,,,,,
+m,hhi_especies,773.4681,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Banco Ciudad,,,,,,,,
+m,emisor_top_pct,16.67,,,,,,,,
+m,hhi_emisores,918.8606,,,,,,,,
+m,sin_emisor_pct,10.91,,,,,,,,
+t,ON,64.08,9,,,,,,,
+t,Fideicomiso financiero,19.27,4,,,,,,,
+t,Pagaré,10.91,15,,,,,,,
+t,Caución,3.76,1,,,,,,,
+t,ETF,1.16,1,,,,,,,
+t,FCI,0.53,2,,,,,,,
+c,ARS,67.84,,,,,,,,
+c,sin dato,20.96,,,,,,,,
+c,USD,10.91,,,,,,,,
+r,Disponibilidades,0.08,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,64.06,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,3.76,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,10.92,,,,,,,,
+r,Certificados de Participacion Argentina,19.8,,,,,,,,
+r,Certificados de Participacion Estados Unidos,1.16,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.22,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.22,,,,,,,,
+e,ON Bco Ciudad C23,ON,Banco Ciudad,ARS,16.67,1774277607,,,Titulos de Deuda en Peso Argentina,16
+e,ON Banco Nacion Argentina Clase 3,ON,Banco Nacion Argentina,ARS,13.14,1398560753,,,Titulos de Deuda en Peso Argentina,33
+e,ON Plaza Logistica C4 ZPC4O,ON,Plaza Logistica,ARS,7.98,849354247,,,Titulos de Deuda en Peso Argentina,5
+e,ON Telecom C18 TLCJO,ON,Telecom,ARS,7.69,818487990,,,Titulos de Deuda en Peso Argentina,11
+e,FF Mercado Credito 55 CA,Fideicomiso financiero,Mercado Credito,,5.5,585394531,,,Certificados de Participacion Argentina,30
+e,ON Credito Directo C31,ON,Credito Directo,ARS,5.28,561978750,,,Titulos de Deuda en Peso Argentina,14
+e,FF Mercado Credito 46 CA,Fideicomiso financiero,Mercado Credito,,5.2,553463920,,,Certificados de Participacion Argentina,28
+e,ON Pan American C26,ON,Pan American,ARS,4.82,513018480,,,Titulos de Deuda en Peso Argentina,38
+e,FF Mercado Credito 53 CA,Fideicomiso financiero,Mercado Credito,,4.68,498117528,,,Certificados de Participacion Argentina,25
+e,ON PSA Serie 34,ON,PSA,ARS,4.19,445964197,,,Titulos de Deuda en Peso Argentina,7
+e,FF Pedidos Ya S1,Fideicomiso financiero,Pedidos Ya,,3.89,414033587,,,Certificados de Participacion Argentina,14
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,3.76,400196989,,,Operaciones a Plazo en Peso Argentina,73
+e,ON Credicuotas Consumo S20,ON,Credicuotas Consumo,ARS,2.39,254380533,,,Titulos de Deuda en Peso Argentina,19
+e,Pagare #UPO210370001,Pagaré,,USD,2.11,224578629,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON CGC C 39,ON,CGC,ARS,1.92,204355909,,,Titulos de Deuda en Peso Argentina,34
+e,Pagare #UPO020470001,Pagaré,,USD,1.48,157524347,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Ishares Bitcoin Trust ETF,ETF,Ishares Bitcoin Trust ETF,,1.16,123465028,,,Certificados de Participacion Estados Unidos,3
+e,Pagare #UAC221260002,Pagaré,,USD,1.08,114950199,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAC140170001,Pagaré,,USD,1,106435369,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAC291260001,Pagaré,,USD,1,106435369,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO011260001,Pagaré,,USD,0.72,76633466,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO010170001,Pagaré,,USD,0.72,76633466,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO310870001,Pagaré,,USD,0.68,72376051,,,Titulos de Deuda en Dolar Estadounidense,1
+e,FCI Ciclo Nova Ahorro - Clase E,FCI,Ciclo Nova Ahorro,,0.52,55346392,,,Certificados de Participacion Argentina,38
+e,Pagare #UTD020870001,Pagaré,,USD,0.35,37252379,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UTD070970001,Pagaré,,USD,0.34,36188026,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UTD230870001,Pagaré,,USD,0.34,36188026,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO030470001,Pagaré,,USD,0.28,29801903,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO260370001,Pagaré,,USD,0.28,29801903,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO240270002,Pagaré,,USD,0.28,29801903,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UPO030170001,Pagaré,,USD,0.25,26608842,,,Titulos de Deuda en Dolar Estadounidense,1
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.01,1064354,,,Certificados de Participacion Argentina,93
+p,Balanz Performance III,Balanz,RF MULT Corp,20.2973,0.3301,5,,,,
+p,Balanz Infraestructura,Balanz,INFRA,15.1608,0.2168,3,,,,
+p,Parakeet Multimercado,Parakeet,RF MULT Disc,13.1782,0.2748,1,,,,
+p,Argenfunds Inversión Pesos,Argenfunds,RF ARS Disc,12.9039,0.1788,2,,,,
+p,1822 Raices Inversion,Provinfondos,RF ARS CER,12.7161,0.2548,4,,,,
+p,Allaria Ahorro Plus,Allaria,T+1,11.2614,0.0843,4,,,,
+p,Puente Renta Fija Pesos III,Puente,RF ARS Disc,11.147,0.1513,1,,,,
+p,Consultatio Multiestrategia,Consultatio,RF MULT Corp,10.3037,0.2049,1,,,,

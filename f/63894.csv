@@ -1,0 +1,60 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Schroder Retorno Total Dos,,,,,,,,
+m,gerente,Schroder S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Inc ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Latinoamerica,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,21822942,,,,,,,,
+m,aum_planilla,21822942,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63894,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,99.4,,,,,,,,
+m,pasivos_cnv,0.6,,,,,,,,
+m,liquidez,0.76,,,,,,,,
+m,top1,15.32,,,,,,,,
+m,top5,58.53,,,,,,,,
+m,top10,91.77,,,,,,,,
+m,hhi_especies,976.7496,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,YPF,,,,,,,,
+m,emisor_top_pct,15.32,,,,,,,,
+m,hhi_emisores,1067.6012,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,85.26,11,,,,,,,
+t,Soberano exterior,13.38,1,,,,,,,
+c,USD,98.64,,,,,,,,
+r,Disponibilidades,0.76,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,98.64,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.6,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.6,,,,,,,,
+e,ON YPF Clase 34,ON,YPF,USD,15.32,3343275,,,Titulos de Deuda en Dolar Estadounidense,46
+e,US Treasury Bill 080727,Soberano exterior,Tesoro EE.UU.,USD,13.38,2919910,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Tecpetrol C13,ON,Tecpetrol,USD,11.42,2492180,,,Titulos de Deuda en Dolar Estadounidense,24
+e,ON BBVA Frances Cl 49,ON,BBVA Frances,USD,9.26,2020804,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Pampa Energia C23 (RegS),ON,Pampa Energia,USD,9.15,1996799,,,Titulos de Deuda en Dolar Estadounidense,36
+e,ON Oldelval Clase 7,ON,Oldelval,USD,9.14,1994617,,,Titulos de Deuda en Dolar Estadounidense,41
+e,ON Banco de Galicia 33 BYZ1O,ON,Banco de Galicia,USD,8.25,1800393,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Transp Gas Sur Cl 3,ON,Transp Gas Sur,USD,6.18,1348658,,,Titulos de Deuda en Dolar Estadounidense,43
+e,ON Oldelval Clase 6,ON,Oldelval,USD,4.97,1084600,,,Titulos de Deuda en Dolar Estadounidense,41
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,USD,4.7,1025678,,,Titulos de Deuda en Dolar Estadounidense,58
+e,ON Pluspetrol Clase 5,ON,Pluspetrol,USD,4.65,1014767,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON YPF Luz C18 YFCJO,ON,YPF Luz,USD,2.22,484469.308,,,Titulos de Deuda en Dolar Estadounidense,41
+p,Balanz Capital Estrategia II USD,Balanz,RF USD Disc,30.3751,0.3246,4,,,,
+p,Balanz Capital Estrategia V USD,Balanz,RF USD corp loc,25.8933,0.2959,6,,,,
+p,MAF Mix II,Mariva,RF USD corp loc,24.4062,0.2979,5,,,,
+p,Axis Rosental USD Strategic Income,Axis,RM y Otros USD,22.5771,0.3467,9,,,,
+p,Tandem Dólares Retorno Total,Tandem Capi..,RF USD Disc,20.296,0.2548,2,,,,
+p,SBS Retorno Total,SBS,MM ARS Clásico,20.2416,0.2124,2,,,,
+p,MEGAQM Corporativo Dólares,MegaQM,RF USD corp loc,19.9742,0.3076,10,,,,
+p,Parakeet Income,Parakeet,RF USD corp loc,19.5686,0.2415,4,,,,

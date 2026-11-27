@@ -1,0 +1,70 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Blacktoro Ahorro,,,,,,,,
+m,gerente,Blacktoro Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,2975889677,,,,,,,,
+m,aum_planilla,2975889677,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63266,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,100.24,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.37,,,,,,,,
+m,top1,21.09,,,,,,,,
+m,top5,76.66,,,,,,,,
+m,top10,96.12,,,,,,,,
+m,hhi_especies,1411.4429,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,56.51,,,,,,,,
+m,hhi_emisores,3714.4999,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,56.51,4,,,,,,,
+t,Plazo fijo,20.15,1,,,,,,,
+t,ON,18.48,5,,,,,,,
+t,Fideicomiso financiero,4.73,3,,,,,,,
+t,Caución,0.37,1,,,,,,,
+t,FCI,0.01,1,,,,,,,
+c,ARS,95.51,,,,,,,,
+c,sin dato,4.74,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,74.99,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,20.51,,,,,,,,
+r,Certificados de Participacion Argentina,4.74,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.24,,,,,,,,
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,21.09,627615133,,,Titulos de Deuda en Peso Argentina,160
+e,Pzo Fi $ Bco Mariva,Plazo fijo,Banco Mariva,ARS,20.15,599641770,,,Operaciones a Plazo en Peso Argentina,32
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,16.85,501437411,,,Titulos de Deuda en Peso Argentina,112
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,10.62,316039484,,,Titulos de Deuda en Peso Argentina,159
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,7.95,236583229,,,Titulos de Deuda en Peso Argentina,142
+e,ON Mercado Pago C7,ON,Mercado Pago,ARS,7.13,212180934,,,Titulos de Deuda en Peso Argentina,17
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,5.06,150580018,,,Titulos de Deuda en Peso Argentina,61
+e,ON Pyme Urbano Express Argentina S1,ON,Pyme Urbano Express Argentina,ARS,3.44,102370605,,,Titulos de Deuda en Peso Argentina,20
+e,FF Mercado Credito 47 CA,Fideicomiso financiero,Mercado Credito,,2.05,61005738,,,Certificados de Participacion Argentina,35
+e,ON Arcor C4,ON,Arcor,ARS,1.78,52970836,,,Titulos de Deuda en Peso Argentina,28
+e,FF Mercado Credito 55 CA,Fideicomiso financiero,Mercado Credito,,1.66,49399769,,,Certificados de Participacion Argentina,30
+e,ON Credicuotas Consumo S20,ON,Credicuotas Consumo,ARS,1.07,31842020,,,Titulos de Deuda en Peso Argentina,19
+e,FF Mercado Credito 51 CA,Fideicomiso financiero,Mercado Credito,,1.02,30354075,,,Certificados de Participacion Argentina,34
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,0.37,11010792,,,Operaciones a Plazo en Peso Argentina,195
+e,FCI Pionero Pesos Plus - Clase B,FCI,Pionero Pesos Plus,,0.01,297588.9677,,,Certificados de Participacion Argentina,40
+p,Gainvest Renta Fija,StoneX,T+1,48.2296,0.589,4,,,,
+p,Delta Patrimonio I,Delta,RV Global,41.2316,0.5244,3,,,,
+p,Galileo Ahorro,Delta,RF ARS Lecap,37.8554,0.5149,3,,,,
+p,Novus Liquidez Plus,Novus,T+1,36.229,0.4763,3,,,,
+p,Blacktoro Total Return,BlackToro,RF ARS Disc,32.4206,0.393,7,,,,
+p,Galileo Renta,Delta,RM y Otros ARS,32.2284,0.4113,5,,,,
+p,Schroder Balanceado,Schroder,RM y Otros ARS,32,0.4963,3,,,,
+p,Compass Ahorro,Investis,T+1,31.8842,0.3768,4,,,,

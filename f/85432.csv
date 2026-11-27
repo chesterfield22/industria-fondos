@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Stonex Global V,,,,,,,,
+m,gerente,StoneX Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,8322142762,,,,,,,,
+m,aum_planilla,8322142762,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85432,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,104.05,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.67,,,,,,,,
+m,top1,33.54,,,,,,,,
+m,top5,90.89,,,,,,,,
+m,top10,100.8,,,,,,,,
+m,hhi_especies,2359.36,,,,,,,,
+m,n_emisores,9,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,87.19,,,,,,,,
+m,hhi_emisores,7638.7168,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,87.19,4,,,,,,,
+t,Cedear,8.13,5,,,,,,,
+t,ETF,3.12,1,,,,,,,
+t,FCI,2.41,1,,,,,,,
+t,Acción,1.21,1,,,,,,,
+c,ARS,96.53,,,,,,,,
+c,sin dato,5.53,,,,,,,,
+r,Disponibilidades,1.67,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,87.19,,,,,,,,
+r,Participaciones Accionarias Argentina,12.46,,,,,,,,
+r,Certificados de Participacion Argentina,2.41,,,,,,,,
+r,Otros Activos,0.32,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),4.05,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,33.54,2791246682,,,Titulos de Deuda en Peso Argentina,103
+e,Letra Tesoro Nac D31M7,Soberano,Tesoro Nacional,ARS,30.3,2521609257,,,Titulos de Deuda en Peso Argentina,30
+e,Bono del Tesoro Nacional AN29,Soberano,Tesoro Nacional,ARS,13.56,1128482558,,,Titulos de Deuda en Peso Argentina,25
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,ARS,9.79,814737776,,,Titulos de Deuda en Peso Argentina,62
+e,Cedear Facebook,Cedear,Facebook,ARS,3.7,307919282,,,Participaciones Accionarias Argentina,18
+e,Cedear Utilities Select Sectar SPDR Fund,ETF,Cedear Utilities Select Sectar SPDR Fund,,3.12,259650854,,,Participaciones Accionarias Argentina,8
+e,FCI Parakeet Pesos - Clase B,FCI,Parakeet Pesos,,2.41,200563641,,,Certificados de Participacion Argentina,8
+e,Cedear Amazon,Cedear,Amazon,ARS,1.74,144805284,,,Participaciones Accionarias Argentina,17
+e,Cedear Google,Cedear,Google,ARS,1.43,119006641,,,Participaciones Accionarias Argentina,30
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,1.21,100697927,,,Participaciones Accionarias Argentina,85
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,0.8,66577142,,,Participaciones Accionarias Argentina,38
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,0.46,38281857,,,Participaciones Accionarias Argentina,52
+p,Allaria Agro,Allaria,RF MULT Disc,61.1581,0.7549,2,,,,
+p,Allaria Gestión Dinámica,Allaria,RF MULT Disc,48.2744,0.6226,2,,,,
+p,Max Cobertura,Max Capital,RF USD Linked,46.2001,0.6557,2,,,,
+p,Lombard Ahorro Plus,Patagonia,RF USD Linked,45.82,0.6239,2,,,,
+p,Blacktoro Cobertura,BlackToro,RF USD Linked,41.0618,0.6851,2,,,,
+p,Compass Renta Mixta VI,Investis,RM y Otros ARS,38.0777,0.4665,11,,,,
+p,DXA Multicobertura,Dracma,RM y Otros ARS,36.1606,0.6551,3,,,,
+p,MAF Renta Argentina,Mariva,RF USD Linked,35.8015,0.6621,2,,,,

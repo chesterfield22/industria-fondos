@@ -1,0 +1,70 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Chimpay Ahorro en Dólares,,,,,,,,
+m,gerente,Chimpay S.A.,,,,,,,,
+m,depositaria,Banco Industrial S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,3057394,,,,,,,,
+m,aum_planilla,3057394,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88831,,,,,,,,
+m,n_especies,18,,,,,,,,
+m,activos_pn,100,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,11.52,,,,,,,,
+m,top5,42.43,,,,,,,,
+m,top10,73.63,,,,,,,,
+m,hhi_especies,665.9666,,,,,,,,
+m,n_emisores,16,,,,,,,,
+m,emisor_top,YPF,,,,,,,,
+m,emisor_top_pct,13.1,,,,,,,,
+m,hhi_emisores,756.4496,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,75.67,13,,,,,,,
+t,FCI,12.32,2,,,,,,,
+t,Subsoberano,8.1,2,,,,,,,
+t,Soberano,3.91,1,,,,,,,
+c,sin dato,87.68,,,,,,,,
+c,USD,12.32,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense MEP,87.68,,,,,,,,
+r,Certificados de Participacion Argentina,12.32,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0,,,,,,,,
+e,ON Pampa Energia C29,ON,Pampa Energia,,11.52,352211.7876,,,Titulos de Deuda en Dolar Estadounidense MEP,28
+e,FCI IAM Liquidez en Dólares - Clase B,FCI,IAM Liquidez en Dólares,USD,8.85,270579.3681,,,Certificados de Participacion Argentina,13
+e,ON Tecpetrol C10,ON,Tecpetrol,,7.87,240616.907,,,Titulos de Deuda en Dolar Estadounidense MEP,33
+e,ON Telecom C24,ON,Telecom,,7.37,225329.9371,,,Titulos de Deuda en Dolar Estadounidense MEP,33
+e,ON YPF Luz C18 YFCJO,ON,YPF Luz,,6.82,208514.2701,,,Titulos de Deuda en Dolar Estadounidense MEP,41
+e,ON Banco de Galicia 33 BYZ2O,ON,Banco de Galicia,,6.62,202399.4821,,,Titulos de Deuda en Dolar Estadounidense MEP,18
+e,ON YPF Clase 43,ON,YPF,,6.56,200565.0457,,,Titulos de Deuda en Dolar Estadounidense MEP,34
+e,ON Supervielle Clase W,ON,Supervielle,,6.56,200565.0457,,,Titulos de Deuda en Dolar Estadounidense MEP,22
+e,ON YPF Clase 44,ON,YPF,,6.54,199953.5669,,,Titulos de Deuda en Dolar Estadounidense MEP,13
+e,ON Tarj Naranja C68 S2,ON,Tarj Naranja,,4.92,150423.7843,,,Titulos de Deuda en Dolar Estadounidense MEP,9
+e,Bono Prov San Juan SJO35,Subsoberano,Prov. San Juan,,4.11,125658.893,,,Titulos de Deuda en Dolar Estadounidense MEP,33
+e,Bono Prov Cordoba 030235,Subsoberano,Prov. Cordoba,,3.99,121990.0202,,,Titulos de Deuda en Dolar Estadounidense MEP,29
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,,3.91,119544.105,,,Titulos de Deuda en Dolar Estadounidense MEP,74
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,3.47,106091.5715,,,Certificados de Participacion Argentina,37
+e,ON Vista Energy 31 Reapertura,ON,Vista Energy,,3.42,104562.8745,,,Titulos de Deuda en Dolar Estadounidense MEP,4
+e,ON Loma Negra C7,ON,Loma Negra,,3.39,103645.6563,,,Titulos de Deuda en Dolar Estadounidense MEP,30
+e,ON Oldelval Clase 7,ON,Oldelval,,3.39,103645.6563,,,Titulos de Deuda en Dolar Estadounidense MEP,41
+e,ON Oldelval Clase 6,ON,Oldelval,,0.69,21096.0185,,,Titulos de Deuda en Dolar Estadounidense MEP,41
+p,Galileo Multi Strategy,Delta,RF USD corp loc,26.6245,0.3441,8,,,,
+p,Consultatio Multimercado III,Consultatio,RF USD corp loc,25.8453,0.3165,8,,,,
+p,ConoSur Renta Fija Corporativa,Cono Sur,RF USD corp loc,23.3922,0.419,9,,,,
+p,Novus Renta Dólar,Novus,RF USD Disc,21.7946,0.3143,3,,,,
+p,Tango Ahorro USD,Tango,RF USD corp loc,20.2266,0.2413,4,,,,
+p,MAF Mix II,Mariva,RF USD corp loc,19.9863,0.232,3,,,,
+p,Balanz Capital Estrategia VII USD,Balanz,Sin clasificar,18.2511,0.2799,5,,,,
+p,Consultatio Multimercado V,Consultatio,RF USD Disc,17.8986,0.1248,4,,,,

@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Delta Gestion X,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,6335659377,,,,,,,,
+m,aum_planilla,6335659377,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/81508,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,88.25,,,,,,,,
+m,pasivos_cnv,11.75,,,,,,,,
+m,liquidez,0.25,,,,,,,,
+m,top1,22.61,,,,,,,,
+m,top5,68.79,,,,,,,,
+m,top10,85.42,,,,,,,,
+m,hhi_especies,1259.3785,,,,,,,,
+m,n_emisores,7,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,52.24,,,,,,,,
+m,hhi_emisores,3172.2167,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,52.24,5,,,,,,,
+t,Subsoberano,16.8,1,,,,,,,
+t,Fideicomiso financiero,11.94,3,,,,,,,
+t,ON,5.72,2,,,,,,,
+t,FCI,1.29,2,,,,,,,
+c,ARS,74.76,,,,,,,,
+c,sin dato,12.94,,,,,,,,
+c,USD,0.29,,,,,,,,
+r,Disponibilidades,0.25,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,74.77,,,,,,,,
+r,Certificados de Participacion Argentina,13.23,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,11.75,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-11.75,,,,,,,,
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,22.61,1432492585,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,18.56,1175898380,,,Titulos de Deuda en Peso Argentina,128
+e,Letra Prov Bs As LBN26,Subsoberano,Prov. Buenos Aires,ARS,16.8,1064390775,,,Titulos de Deuda en Peso Argentina,14
+e,FF Mercado Credito 49 CA,Fideicomiso financiero,Mercado Credito,,5.89,373170337,,,Certificados de Participacion Argentina,25
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,4.93,312348007,,,Titulos de Deuda en Peso Argentina,142
+e,FF Mercado Credito 50 CA,Fideicomiso financiero,Mercado Credito,,4.77,302210952,,,Certificados de Participacion Argentina,29
+e,Bono Boncer TZXD8,Soberano,Tesoro Nacional,ARS,3.71,235052963,,,Titulos de Deuda en Peso Argentina,26
+e,ON FCA Comp. Finac CL 22 S1,ON,FCA Comp. Finac,ARS,3.55,224915908,,,Titulos de Deuda en Peso Argentina,7
+e,Boncer TZXY7,Soberano,Tesoro Nacional,ARS,2.43,153956523,,,Titulos de Deuda en Peso Argentina,76
+e,ON GEMSA y CTR C35,ON,GEMSA y CTR,ARS,2.17,137483808,,,Titulos de Deuda en Peso Argentina,1
+e,FF Mercado Credito 45 CA,Fideicomiso financiero,Mercado Credito,,1.28,81096440,,,Certificados de Participacion Argentina,25
+e,FCI Gainvest Pesos - Clase B,FCI,Gainvest Pesos,,1,63356594,,,Certificados de Participacion Argentina,36
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,0.29,18373412,,,Certificados de Participacion Argentina,37
+p,Galileo Multimercado II,Delta,RF ARS CER,49.5511,0.7821,3,,,,
+p,Novus Estrategia,Novus,RF ARS CER,48.8471,0.7089,4,,,,
+p,Ualintec Renta Fija Pesos,Ualá,RF ARS Disc,47.2731,0.6661,3,,,,
+p,Balanz Institucional,Balanz,RF ARS CER,46.7894,0.7221,2,,,,
+p,Consultatio Renta Balanceada,Consultatio,RF ARS Disc,46.7894,0.6603,2,,,,
+p,Consultatio Retorno Total,Consultatio,RM y Otros ARS,46.7894,0.6557,2,,,,
+p,Balanz Performance I,Balanz,RF MULT Disc,44.8399,0.6416,2,,,,
+p,Delta Gestion VII,Delta,RM y Otros ARS,44.3368,0.7419,2,,,,

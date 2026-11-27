@@ -1,0 +1,74 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pionero Retorno,,,,,,,,
+m,gerente,Macro Fondos S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,26461546599,,,,,,,,
+m,aum_planilla,26461546599,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/84099,,,,,,,,
+m,n_especies,18,,,,,,,,
+m,activos_pn,100.01,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,6.66,,,,,,,,
+m,top1,16.64,,,,,,,,
+m,top5,57.51,,,,,,,,
+m,top10,84.38,,,,,,,,
+m,hhi_especies,897.972,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,50.88,,,,,,,,
+m,hhi_emisores,2947.4034,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,50.88,7,,,,,,,
+t,Acción,34.73,6,,,,,,,
+t,Caución,6.42,1,,,,,,,
+t,Cedear,4.58,2,,,,,,,
+t,ETF,2.78,1,,,,,,,
+t,FCI,0.37,1,,,,,,,
+c,ARS,96.61,,,,,,,,
+c,sin dato,3.15,,,,,,,,
+r,Disponibilidades,0.24,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,50.89,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,6.42,,,,,,,,
+r,Participaciones Accionarias Argentina,42.09,,,,,,,,
+r,Certificados de Participacion Argentina,0.37,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.01,,,,,,,,
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,16.64,4403201354,,,Titulos de Deuda en Peso Argentina,84
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,13.23,3500862615,,,Participaciones Accionarias Argentina,117
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,9.91,2622339268,,,Titulos de Deuda en Peso Argentina,82
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,ARS,9.16,2423877668,,,Titulos de Deuda en Peso Argentina,62
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,8.57,2267754544,,,Participaciones Accionarias Argentina,86
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,7.18,1899939046,,,Titulos de Deuda en Peso Argentina,51
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,6.42,1698831292,,,Operaciones a Plazo en Peso Argentina,73
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,5.25,1389231196,,,Participaciones Accionarias Argentina,129
+e,YPF S.A.,Acción,YPF,ARS,4.03,1066400328,,,Participaciones Accionarias Argentina,122
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,3.99,1055815709,,,Titulos de Deuda en Peso Argentina,67
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,3.56,942031059,,,Titulos de Deuda en Peso Argentina,165
+e,Cedear ETF VanEck Semiconductors,ETF,Cedear ETF VanEck Semiconductors,,2.78,735630995,,,Participaciones Accionarias Argentina,3
+e,Cedear Google,Cedear,Google,ARS,2.4,635077118,,,Participaciones Accionarias Argentina,30
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,2.18,576861716,,,Participaciones Accionarias Argentina,50
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,2.04,539815551,,,Participaciones Accionarias Argentina,104
+e,Grupo Supervielle S.A.,Acción,Grupo Supervielle,ARS,1.61,426030900,,,Participaciones Accionarias Argentina,64
+e,Bono Dual TXMJ0,Soberano,Tesoro Nacional,ARS,0.44,116430805,,,Titulos de Deuda en Peso Argentina,28
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.37,97907722,,,Certificados de Participacion Argentina,77
+p,Pionero Renta Mixta I,Macro,RM y Otros ARS,65.2914,0.741,13,,,,
+p,Pionero Gestion,Macro,RF MULT Disc,38.1534,0.4824,8,,,,
+p,Pionero Recovery,Macro,RM y Otros ARS,37.0395,0.4746,8,,,,
+p,Dracma Balanceado,Dracma,RM y Otros ARS,36.5364,0.4294,11,,,,
+p,Adcap Acciones,Adcap,RV ARG Rofex 20,36.1185,0.4828,7,,,,
+p,Fima PB Acciones,Galicia,RV ARG Merval,35.3857,0.4092,7,,,,
+p,Pionero Acciones,Macro,RV ARG Merval,35.1844,0.4865,7,,,,
+p,MAF Acciones Argentina,Mariva,RV ARG Merval,35.0309,0.4196,7,,,,

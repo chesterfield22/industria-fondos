@@ -1,0 +1,63 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Balanz Capital Estrategia II USD,,,,,,,,
+m,gerente,Balanz S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,7276681,,,,,,,,
+m,aum_planilla,7276681,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83673,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,100.86,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.03,,,,,,,,
+m,top1,19.12,,,,,,,,
+m,top5,71.5,,,,,,,,
+m,top10,98.57,,,,,,,,
+m,hhi_especies,1255.6025,,,,,,,,
+m,n_emisores,9,,,,,,,,
+m,emisor_top,Banco Nacion Argentina,,,,,,,,
+m,emisor_top_pct,19.12,,,,,,,,
+m,hhi_emisores,1323.9471,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,83.82,9,,,,,,,
+t,Soberano exterior,14.53,1,,,,,,,
+t,FCI,2.48,1,,,,,,,
+c,USD,86.3,,,,,,,,
+c,sin dato,14.53,,,,,,,,
+r,Disponibilidades,0.03,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,83.82,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Cable,14.53,,,,,,,,
+r,Certificados de Participacion Argentina,2.48,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.86,,,,,,,,
+e,ON Banco Nacion Argentina Clase 2,ON,Banco Nacion Argentina,USD,19.12,1391301,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON YPF Clase 34,ON,YPF,USD,14.77,1074766,,,Titulos de Deuda en Dolar Estadounidense,46
+e,US Treasury Bill 271126,Soberano exterior,Tesoro EE.UU.,,14.53,1057302,,,Titulos de Deuda en Dolar Estadounidense Cable,10
+e,ON Tecpetrol C10,ON,Tecpetrol,USD,14,1018735,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON Transp Gas Sur Cl 3,ON,Transp Gas Sur,USD,9.08,660722.6375,,,Titulos de Deuda en Dolar Estadounidense,43
+e,ON Telecom C24,ON,Telecom,USD,7.57,550844.754,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON Pluspetrol 8.5% 2032 (REGS),ON,Pluspetrol,USD,7.45,542112.7367,,,Titulos de Deuda en Dolar Estadounidense,34
+e,ON Pampa Energia C23 (RegS),ON,Pampa Energia,USD,7.28,529742.379,,,Titulos de Deuda en Dolar Estadounidense,36
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,2.48,180461.6895,,,Certificados de Participacion Argentina,37
+e,ON Telecom 9.5% 2031,ON,Telecom,USD,2.29,166635.9956,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON Pluspetrol Clase 5,ON,Pluspetrol,USD,2.26,164452.9913,,,Titulos de Deuda en Dolar Estadounidense,38
+p,Schroder Retorno Total Dos,Schroder,RF USD GL Inc ARG,30.3751,0.3246,4,,,,
+p,MAF Mix II,Mariva,RF USD corp loc,27.7578,0.2823,5,,,,
+p,Balanz Capital Estrategia V USD,Balanz,RF USD corp loc,25.3349,0.3609,5,,,,
+p,Tandem Global II,Tandem Capi..,RM y Otros USD,22.7631,0.3295,3,,,,
+p,Axis Rosental USD Strategic Income,Axis,RM y Otros USD,22.3949,0.3594,6,,,,
+p,SBS Retorno Total,SBS,MM ARS Clásico,19.3588,0.1903,2,,,,
+p,Galileo Multi Strategy II,Delta,RF USD corp loc,18.6651,0.1568,3,,,,
+p,Balanz Ahorro en Dólares,Balanz,RF USD corp loc,18.5862,0.203,8,,,,

@@ -1,0 +1,72 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Wise Capital Foreign Equity,,,,,,,,
+m,gerente,Wise Capital Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,804267756,,,,,,,,
+m,aum_planilla,804267756,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88341,,,,,,,,
+m,n_especies,19,,,,,,,,
+m,activos_pn,100.05,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.3,,,,,,,,
+m,top1,14.26,,,,,,,,
+m,top5,56.75,,,,,,,,
+m,top10,82.07,,,,,,,,
+m,hhi_especies,850.3668,,,,,,,,
+m,n_emisores,17,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,38.45,,,,,,,,
+m,hhi_emisores,1831.3816,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,38.45,3,,,,,,,
+t,Acción,26.66,8,,,,,,,
+t,ETF,18.3,2,,,,,,,
+t,Cedear,16.35,6,,,,,,,
+c,ARS,81.46,,,,,,,,
+c,sin dato,18.3,,,,,,,,
+r,Disponibilidades,0.3,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,38.44,,,,,,,,
+r,Participaciones Accionarias Argentina,52.37,,,,,,,,
+r,Participaciones Accionarias Estados Unidos,8.94,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.05,,,,,,,,
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,14.26,114688582,,,Titulos de Deuda en Peso Argentina,165
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,12.95,104152674,,,Titulos de Deuda en Peso Argentina,136
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,11.24,90399696,,,Titulos de Deuda en Peso Argentina,51
+e,Cedear Spdr SyP 500 ETF,ETF,Cedear Spdr SyP 500 ETF,,9.36,75279462,,,Participaciones Accionarias Argentina,13
+e,Cedear Invesco QQQ,ETF,Cedear Invesco QQQ,,8.94,71901537,,,Participaciones Accionarias Estados Unidos,6
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,7.96,64019713,,,Participaciones Accionarias Argentina,117
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,6.46,51955697,,,Participaciones Accionarias Argentina,129
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,3.86,31044735,,,Participaciones Accionarias Argentina,50
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,3.66,29436200,,,Participaciones Accionarias Argentina,77
+e,Cedear Micron Technology,Cedear,Micron Technology,ARS,3.38,27184250,,,Participaciones Accionarias Argentina,11
+e,Cedear Nebius Group,Cedear,Nebius Group,ARS,3.08,24771447,,,Participaciones Accionarias Argentina,1
+e,YPF S.A.,Acción,YPF,ARS,3.08,24771447,,,Participaciones Accionarias Argentina,122
+e,Cedear IREN Ltd,Cedear,IREN Ltd,ARS,2.94,23645472,,,Participaciones Accionarias Argentina,1
+e,Cedear Google,Cedear,Google,ARS,2.06,16567916,,,Participaciones Accionarias Argentina,30
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,1.56,12546577,,,Participaciones Accionarias Argentina,93
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,1.45,11661882,,,Participaciones Accionarias Argentina,104
+e,Transener S.A.,Acción,Transener,ARS,1.44,11581456,,,Participaciones Accionarias Argentina,84
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,1.05,8444811,,,Participaciones Accionarias Argentina,104
+e,Cedear Facebook,Cedear,Facebook,ARS,1.03,8283958,,,Participaciones Accionarias Argentina,18
+p,Pellegrini Renta Fija Ahorro,Pellegrini,RF ARS Disc,37.8359,0.5595,3,,,,
+p,Pionero Renta Estrategico,Macro,RM y Otros ARS,35.4657,0.5228,6,,,,
+p,Pionero Retorno,Macro,RM y Otros ARS,32.7987,0.3427,8,,,,
+p,Axis S&C Argentina Absolute Return,Axis,RM y Otros ARS,32.2278,0.372,8,,,,
+p,DXA PMKT Total Return,Dracma,RV ARG Otros,31.8979,0.4128,9,,,,
+p,Ualintec Renta Variable Pesos,Ualá,RV ARG Rofex 20,29.9142,0.3812,9,,,,
+p,Adcap Acciones,Adcap,RV ARG Rofex 20,28.7148,0.3618,8,,,,
+p,Galileo Multimercado IV,Delta,RM y Otros ARS,28.106,0.3504,10,,,,

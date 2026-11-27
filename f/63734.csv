@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,SBS Renta Dólar Latam,,,,,,,,
+m,gerente,SBS Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF USD GL Inc ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Latinoamerica,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,26923236,,,,,,,,
+m,aum_planilla,26923236,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63734,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,100.15,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,21.23,,,,,,,,
+m,top1,12.95,,,,,,,,
+m,top5,52.6,,,,,,,,
+m,top10,75.51,,,,,,,,
+m,hhi_especies,685.85,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Chile (soberano),,,,,,,,
+m,emisor_top_pct,14.83,,,,,,,,
+m,hhi_emisores,812.5012,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano exterior,27.78,3,,,,,,,
+t,ON,18.21,4,,,,,,,
+t,Corporativo exterior,17.1,3,,,,,,,
+t,Soberano,11.48,1,,,,,,,
+t,FCI,4.35,3,,,,,,,
+c,USD,78.92,,,,,,,,
+r,Disponibilidades,21.23,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,74.57,,,,,,,,
+r,Certificados de Participacion Argentina,4.35,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.15,,,,,,,,
+e,BR Bono Global 2027 10.12%,Soberano exterior,Brasil (soberano),USD,12.95,3486559,,,Titulos de Deuda en Dolar Estadounidense,11
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,11.48,3090788,,,Titulos de Deuda en Dolar Estadounidense,83
+e,CL Rep Chile 2027,Soberano exterior,Chile (soberano),USD,11.17,3007326,,,Titulos de Deuda en Dolar Estadounidense,22
+e,BC Inversiones CMPC 2027,Corporativo exterior,Inversiones CMPC,USD,8.74,2353091,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Aluar Serie 7,ON,Aluar,USD,8.26,2223859,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Pan American C38,ON,Pan American,USD,5.74,1545394,,,Titulos de Deuda en Dolar Estadounidense,15
+e,BC Bco Credito e Inv 2027,Corporativo exterior,Banco Credito e Inv,USD,5.51,1483470,,,Titulos de Deuda en Dolar Estadounidense,16
+e,FCI Cocos Dólar Money Market - Clase C,FCI,Cocos Dólar Money Market,USD,4.09,1101160,,,Certificados de Participacion Argentina,14
+e,ON Pan American C37,ON,Pan American,USD,3.91,1052699,,,Titulos de Deuda en Dolar Estadounidense,18
+e,CL Rep Chile 28,Soberano exterior,Chile (soberano),USD,3.66,985390.4526,,,Titulos de Deuda en Dolar Estadounidense,18
+e,BC Arco 32,Corporativo exterior,Arco,USD,2.85,767312.2377,,,Titulos de Deuda en Dolar Estadounidense,4
+e,ON Pan Amer. Energy C 12,ON,Pan Amer. Energy,USD,0.3,80769.7092,,,Titulos de Deuda en Dolar Estadounidense,34
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,0.19,51154.1492,,,Certificados de Participacion Argentina,37
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,0.07,18846.2655,,,Certificados de Participacion Argentina,37
+p,SBS Renta Mixta III,SBS,RF USD GL Inc ARG,37.6303,0.5182,6,,,,
+p,Fima Renta Fija Internacional,Galicia,RF USD GL Ex ARG,35.2002,0.5183,3,,,,
+p,Consultatio Gestion II,Consultatio,RM y Otros ARS,30.9427,0.4027,3,,,,
+p,Consultatio Gestion III,Consultatio,RF USD GL Ex ARG,30.5626,0.4645,2,,,,
+p,Schroder Retorno Total Cuatro,Schroder,RF USD CP,28.7886,0.4589,3,,,,
+p,Pionero Renta Dólares,Macro,RF USD GL Ex ARG,25.0843,0.3323,3,,,,
+p,Balanz Capital Sudamericano,Balanz,RF USD GL Ex ARG,24.6227,0.3254,4,,,,
+p,Lombard Renta Fija en Dolares,Patagonia,RF USD GL Ex ARG,24.4296,0.2361,6,,,,

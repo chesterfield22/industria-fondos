@@ -1,0 +1,68 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pellegrini Renta Fija Ahorro,,,,,,,,
+m,gerente,Pellegrini S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de La Nacion Argentina,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,34533104483,,,,,,,,
+m,aum_planilla,34533104483,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63606,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,100.29,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,18.05,,,,,,,,
+m,top5,67.85,,,,,,,,
+m,top10,94.05,,,,,,,,
+m,hhi_especies,1120.9096,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,91.42,,,,,,,,
+m,hhi_emisores,8393.3846,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,91.42,11,,,,,,,
+t,ON,8.36,2,,,,,,,
+t,FCI,0.5,2,,,,,,,
+c,ARS,80.81,,,,,,,,
+c,USD,18.97,,,,,,,,
+c,sin dato,0.5,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,80.81,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,18.97,,,,,,,,
+r,Certificados de Participacion Argentina,0.5,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.29,,,,,,,,
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,18.05,6233225359,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,13.84,4779381660,,,Titulos de Deuda en Peso Argentina,128
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,13.11,4527289998,,,Titulos de Deuda en Peso Argentina,136
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,12.26,4233758610,,,Titulos de Deuda en Peso Argentina,158
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,10.59,3657055765,,,Titulos de Deuda en Peso Argentina,51
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,7.65,2641782493,,,Titulos de Deuda en Peso Argentina,64
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,USD,7.43,2565809663,,,Titulos de Deuda en Dolar Estadounidense,72
+e,ON Profertil C4,ON,Profertil,USD,4.72,1629962532,,,Titulos de Deuda en Dolar Estadounidense,17
+e,ON CNH Arg. C12,ON,CNH Arg,USD,3.64,1257005003,,,Titulos de Deuda en Dolar Estadounidense,9
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,2.76,953113684,,,Titulos de Deuda en Peso Argentina,66
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,2.55,880594164,,,Titulos de Deuda en Peso Argentina,67
+e,Bonos Rep Argentina GD35,Soberano,Tesoro Nacional,USD,2.12,732101815,,,Titulos de Deuda en Dolar Estadounidense,54
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,USD,1.06,366050908,,,Titulos de Deuda en Dolar Estadounidense,40
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.49,169212212,,,Certificados de Participacion Argentina,96
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.01,3453310,,,Certificados de Participacion Argentina,93
+p,Pellegrini Crecimiento,Pellegrini,RF ARS CER,59.4347,0.7739,8,,,,
+p,Pellegrini Renta Fija Plus,Pellegrini,RF MULT Disc,58.9319,0.6133,13,,,,
+p,Pellegrini Renta Fija II,Pellegrini,T+1,55.2092,0.7232,9,,,,
+p,Parakeet Multimercado III,Parakeet,RM y Otros ARS,46.2888,0.6096,4,,,,
+p,Argenfunds Renta Balanceada,Argenfunds,RF ARS CER,46.1997,0.5854,4,,,,
+p,Alpha Renta Fija Serie 7,ICBC,RF ARS Disc,45.4454,0.5551,5,,,,
+p,Balanz Performance I,Balanz,RF MULT Disc,44.0267,0.7273,3,,,,
+p,Pionero Renta Estrategico,Macro,RM y Otros ARS,40.8931,0.5691,7,,,,

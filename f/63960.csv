@@ -1,0 +1,74 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,CMA Acciones,,,,,,,,
+m,gerente,Capital Markets Argentina Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,RV ARG Merval,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,6011547582,,,,,,,,
+m,aum_planilla,6011547582,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63960,,,,,,,,
+m,n_especies,18,,,,,,,,
+m,activos_pn,100.82,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,17.03,,,,,,,,
+m,top1,11.28,,,,,,,,
+m,top5,44.21,,,,,,,,
+m,top10,71.39,,,,,,,,
+m,hhi_especies,618.5674,,,,,,,,
+m,n_emisores,18,,,,,,,,
+m,emisor_top,Grupo Financiero Galicia,,,,,,,,
+m,emisor_top_pct,11.28,,,,,,,,
+m,hhi_emisores,618.5674,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,51.8,11,,,,,,,
+t,Cedear,22.63,4,,,,,,,
+t,Caución,8.35,1,,,,,,,
+t,FCI,5.32,1,,,,,,,
+t,ETF,4.04,1,,,,,,,
+c,ARS,80.24,,,,,,,,
+c,sin dato,11.9,,,,,,,,
+r,Disponibilidades,8.68,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,8.35,,,,,,,,
+r,Participaciones Accionarias Argentina,75.64,,,,,,,,
+r,Participaciones Accionarias Luxemburgo,2.54,,,,,,,,
+r,Participaciones Accionarias Estados Unidos,0.29,,,,,,,,
+r,Certificados de Participacion Argentina,5.32,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.82,,,,,,,,
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,11.28,678102567,,,Participaciones Accionarias Argentina,117
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,10,601154758,,,Participaciones Accionarias Argentina,52
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,8.35,501964223,,,Operaciones a Plazo en Peso Argentina,195
+e,Telecom Argentina S.A.,Acción,Telecom Argentina,ARS,7.78,467698402,,,Participaciones Accionarias Argentina,43
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,6.8,408785236,,,Participaciones Accionarias Argentina,104
+e,Cedear Bunge Ltd,Cedear,Bunge Ltd,ARS,6.7,402773688,,,Participaciones Accionarias Argentina,1
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,5.64,339051284,,,Participaciones Accionarias Argentina,50
+e,YPF S.A.,Acción,YPF,ARS,5.37,322820105,,,Participaciones Accionarias Argentina,122
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,5.32,319814331,,,Certificados de Participacion Argentina,93
+e,Transener S.A.,Acción,Transener,ARS,4.15,249479225,,,Participaciones Accionarias Argentina,84
+e,Cedear FCI SPDR Gold Trust,ETF,Cedear FCI SPDR Gold Trust,,4.04,242866522,,,Participaciones Accionarias Argentina,12
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,3.54,212808784,,,Participaciones Accionarias Argentina,77
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,3.21,192970677,,,Participaciones Accionarias Argentina,93
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,3.08,185155666,,,Participaciones Accionarias Argentina,104
+e,Corporacion America Airports,Acción,Corporacion America Airports,,2.54,152693309,,,Participaciones Accionarias Luxemburgo,2
+e,Matba Rofex S.A.,Acción,Matba Rofex,ARS,2.47,148485225,,,Participaciones Accionarias Argentina,8
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,1.58,94982452,,,Participaciones Accionarias Argentina,85
+e,Cedear Satellogic Inc.,Cedear,Satellogic Inc.,ARS,0.29,17433488,,,Participaciones Accionarias Estados Unidos,1
+p,Stonex Renta Variable,StoneX,RV ARG Otros,51.2358,0.6328,8,,,,
+p,Ualintec Renta Variable Pesos,Ualá,RV ARG Rofex 20,48.318,0.6262,12,,,,
+p,CYC Renta Mixta,CYC,RV ARG Otros,44.4806,0.5233,8,,,,
+p,Bull Market Acciones Argentinas,Bull Market,RV ARG Merval,44.2069,0.5517,13,,,,
+p,Superfondo Acciones,Santander,RV ARG Otros,44.1357,0.5248,10,,,,
+p,Parakeet Capital Plus,Parakeet,RV ARG Merval,43.4403,0.497,8,,,,
+p,1810 Renta Variable Argentina,Proahorro,RV ARG Merval,43.1467,0.5172,10,,,,
+p,Delta Acciones,Delta,RV ARG Merval,42.5667,0.5192,11,,,,

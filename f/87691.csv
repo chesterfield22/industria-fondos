@@ -1,0 +1,63 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Compass Renta Mixta IV,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,13017304452,,,,,,,,
+m,aum_planilla,13017304452,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87691,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,100.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.02,,,,,,,,
+m,top1,30.42,,,,,,,,
+m,top5,78.09,,,,,,,,
+m,top10,100,,,,,,,,
+m,hhi_especies,1688.2565,,,,,,,,
+m,n_emisores,4,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,39.9,,,,,,,,
+m,hhi_emisores,1861.3887,,,,,,,,
+m,sin_emisor_pct,38.94,,,,,,,,
+t,Soberano,39.9,2,,,,,,,
+t,Cheque,38.94,6,,,,,,,
+t,Subsoberano,15.35,1,,,,,,,
+t,Plazo fijo,5.81,1,,,,,,,
+t,Caución,0.01,1,,,,,,,
+c,ARS,100.01,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,94.2,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,5.81,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.02,,,,,,,,
+e,Bono Boncer TX26,Soberano,Tesoro Nacional,ARS,30.42,3959864014,,,Titulos de Deuda en Peso Argentina,63
+e,Letra Prov Bs As 171226,Subsoberano,Prov. Buenos Aires,ARS,15.35,1998156233,,,Titulos de Deuda en Peso Argentina,10
+e,Cheque E *MAV061101190,Cheque,,ARS,15.3,1991647581,,,Titulos de Deuda en Peso Argentina,1
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,9.48,1234040462,,,Titulos de Deuda en Peso Argentina,92
+e,Cheque #MAV021260023,Cheque,,ARS,7.54,981504756,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV101260036,Cheque,,ARS,7.5,976297834,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV161201656,Cheque,,ARS,7.47,972392643,,,Titulos de Deuda en Peso Argentina,1
+e,Pzo Fi $ Bco Sol,Plazo fijo,Banco Sol,ARS,5.81,756305389,,,Operaciones a Plazo en Peso Argentina,31
+e,Cheque E *MAV111101724,Cheque,,ARS,0.57,74198635,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201706,Cheque,,ARS,0.56,72896905,,,Titulos de Deuda en Peso Argentina,1
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,0.01,1301730,,,Operaciones a Plazo en Peso Argentina,195
+p,Compass Crecimiento II,Investis,RM y Otros ARS,52.9947,0.6759,4,,,,
+p,Wise Capital Focus II,Wise,RM y Otros ARS,39.906,0.7101,3,,,,
+p,Consultatio Multimercado VII,Consultatio,RF ARS Disc,34.7068,0.4898,2,,,,
+p,Consultatio Multimercado VI,Consultatio,RF ARS Disc,34.6328,0.4589,2,,,,
+p,Consultatio Multimercado VIII,Consultatio,RF ARS Disc,34.492,0.4856,2,,,,
+p,Consultatio Retorno Absoluto,Consultatio,RM y Otros ARS,32.4663,0.4448,2,,,,
+p,Optimum Renta Fija Estrategica,Santander,RF USD Linked,27.908,0.446,1,,,,
+p,Lombard Ahorro Plus II,Patagonia,Sin clasificar,21.2621,0.3235,1,,,,

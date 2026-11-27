@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Axis Estrategia 25,,,,,,,,
+m,gerente,Axis S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,10265463967,,,,,,,,
+m,aum_planilla,10265463967,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86699,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,97.7,,,,,,,,
+m,pasivos_cnv,2.3,,,,,,,,
+m,liquidez,12.49,,,,,,,,
+m,top1,28.57,,,,,,,,
+m,top5,76.09,,,,,,,,
+m,top10,93.55,,,,,,,,
+m,hhi_especies,1548.6604,,,,,,,,
+m,n_emisores,9,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,48.2,,,,,,,,
+m,hhi_emisores,2549.8784,,,,,,,,
+m,sin_emisor_pct,15.52,,,,,,,,
+t,Soberano,48.2,2,,,,,,,
+t,Cedear,18.9,6,,,,,,,
+t,Pagaré,15.52,2,,,,,,,
+t,Caución,12.37,1,,,,,,,
+t,ETF,2.59,1,,,,,,,
+c,ARS,94.99,,,,,,,,
+c,sin dato,2.59,,,,,,,,
+r,Disponibilidades,0.12,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,63.72,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,12.37,,,,,,,,
+r,Participaciones Accionarias Argentina,21.49,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,2.3,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-2.3,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,28.57,2932843055,,,Titulos de Deuda en Peso Argentina,250
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,19.63,2015110577,,,Titulos de Deuda en Peso Argentina,86
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,12.37,1269837893,,,Operaciones a Plazo en Peso Argentina,195
+e,Pagare #UMV270460026,Pagaré,,ARS,7.81,801732736,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV250360065,Pagaré,,ARS,7.71,791467272,,,Titulos de Deuda en Peso Argentina,1
+e,Cedear Facebook,Cedear,Facebook,ARS,4.8,492742270,,,Participaciones Accionarias Argentina,18
+e,Cedear Google,Cedear,Google,ARS,4.4,451680415,,,Participaciones Accionarias Argentina,30
+e,Cedear Nvidia Corp.,Cedear,Nvidia Corp.,ARS,3.15,323362115,,,Participaciones Accionarias Argentina,14
+e,Cedear Shares MSCI Brazil ETF,ETF,Cedear Shares MSCI Brazil ETF,,2.59,265875517,,,Participaciones Accionarias Argentina,23
+e,Cedear ASML,Cedear,ASML,ARS,2.52,258689692,,,Participaciones Accionarias Argentina,2
+e,Cedear Micron Technology,Cedear,Micron Technology,ARS,2.26,231999486,,,Participaciones Accionarias Argentina,11
+e,Cedear Oracle,Cedear,Oracle,ARS,1.77,181698712,,,Participaciones Accionarias Argentina,4
+p,Schroder Renta Global Cinco,Schroder,RM y Otros ARS,40.1705,0.6498,2,,,,
+p,Wise Capital Hedge,Wise,RM y Otros ARS,36.0745,0.536,2,,,,
+p,Puente Renta Fija Pesos IV,Puente,RF ARS Disc,35.9314,0.6269,2,,,,
+p,Allaria Diversificado,Allaria,RM y Otros ARS,34.8227,0.5305,3,,,,
+p,Champaquí Renta Futura,Bancor,RF ARS Disc,31.5495,0.6039,3,,,,
+p,Stonex Renta Fija Proteccion Plus,StoneX,RF USD Linked,30.0184,0.4383,2,,,,
+p,Schroder Retorno Absoluto,Schroder,RF ARS Disc,29.869,0.5182,2,,,,
+p,Toronto Trust Dinamico,Investis,RF MULT Disc,29.2785,0.6265,1,,,,

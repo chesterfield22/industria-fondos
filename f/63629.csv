@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MAF Renta Balanceada 2,,,,,,,,
+m,gerente,Mariva Asset Management S.A.U.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Mariva S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,4796695171,,,,,,,,
+m,aum_planilla,4796695167,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63629,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,100.04,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,25.62,,,,,,,,
+m,top1,25.61,,,,,,,,
+m,top5,72.64,,,,,,,,
+m,top10,100,,,,,,,,
+m,hhi_especies,1387.7539,,,,,,,,
+m,n_emisores,4,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,53.24,,,,,,,,
+m,hhi_emisores,3673.119,,,,,,,,
+m,sin_emisor_pct,3.47,,,,,,,,
+t,Soberano,53.24,7,,,,,,,
+t,Caución,25.61,1,,,,,,,
+t,Subsoberano,12.47,1,,,,,,,
+t,Plazo fijo,5.22,1,,,,,,,
+t,Cheque,3.47,1,,,,,,,
+c,ARS,100,,,,,,,,
+c,USD,0.01,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,69.18,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,30.84,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,0.01,,,,,,,,
+r,Certificados de Participacion Argentina,,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.04,,,,,,,,
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,25.61,1228433633,,,Operaciones a Plazo en Peso Argentina,73
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,13.7,657147238,,,Titulos de Deuda en Peso Argentina,160
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,12.84,615895660,,,Titulos de Deuda en Peso Argentina,75
+e,Bono Prov Cordoba 2027 COY27,Subsoberano,Prov. Cordoba,ARS,12.47,598147888,,,Titulos de Deuda en Peso Argentina,28
+e,Bono Boncer TX26,Soberano,Tesoro Nacional,ARS,8.02,384694953,,,Titulos de Deuda en Peso Argentina,63
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,7.15,342963705,,,Titulos de Deuda en Peso Argentina,158
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,6.93,332410975,,,Titulos de Deuda en Peso Argentina,51
+e,Pzo Fi $ Bco Galicia,Plazo fijo,Banco Galicia,ARS,5.22,250387488,,,Operaciones a Plazo en Peso Argentina,67
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,4.59,220168308,,,Titulos de Deuda en Peso Argentina,66
+e,Cheque E *MAV161101465,Cheque,,ARS,3.47,166445322,,,Titulos de Deuda en Peso Argentina,1
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,USD,0.01,479669.5171,,,Titulos de Deuda en Dolar Estadounidense,72
+p,MAF Ahorro Plus,Mariva,RF ARS Disc,38.8621,0.6003,3,,,,
+p,Pionero Pesos,Macro,MM ARS Clásico,37.8649,0.6411,3,,,,
+p,MAF Renta,Mariva,RM y Otros ARS,34.3876,0.3745,6,,,,
+p,Stonex Balanceado VI,StoneX,RF ARS Disc,32.7567,0.433,2,,,,
+p,MAF Pesos Plus,Mariva,T+1,32.2444,0.5919,3,,,,
+p,Delta Gestion XI,Delta,RF MULT Corp,32.2046,0.4672,2,,,,
+p,MAF Money Market,Mariva,MM ARS Clásico,30.7359,0.5879,2,,,,
+p,IAM Ahorro Pesos,BIND,MM ARS Clásico,29.6766,0.4346,2,,,,

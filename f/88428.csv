@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Argenfunds Calificado I,,,,,,,,
+m,gerente,Argenfunds S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Global,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,3638262355,,,,,,,,
+m,aum_planilla,3638262355,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88428,,,,,,,,
+m,n_especies,16,,,,,,,,
+m,activos_pn,100.08,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.02,,,,,,,,
+m,top1,8.88,,,,,,,,
+m,top5,44.4,,,,,,,,
+m,top10,79.05,,,,,,,,
+m,hhi_especies,749.6376,,,,,,,,
+m,n_emisores,1,,,,,,,,
+m,emisor_top,ST Zero,,,,,,,,
+m,emisor_top_pct,2.03,,,,,,,,
+m,hhi_emisores,4.1209,,,,,,,,
+m,sin_emisor_pct,98.03,,,,,,,,
+t,Pagaré,98.03,15,,,,,,,
+t,FCI,2.03,1,,,,,,,
+c,ARS,98.03,,,,,,,,
+c,sin dato,2.03,,,,,,,,
+r,Disponibilidades,0.02,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,98.03,,,,,,,,
+r,Certificados de Participacion Argentina,2.03,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.08,,,,,,,,
+e,Pagare #MAV021170016,Pagaré,,ARS,8.88,323077697,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV021170017,Pagaré,,ARS,8.88,323077697,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV021170021,Pagaré,,ARS,8.88,323077697,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV021170022,Pagaré,,ARS,8.88,323077697,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV021170023,Pagaré,,ARS,8.88,323077697,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV021170024,Pagaré,,ARS,8.88,323077697,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV021170025,Pagaré,,ARS,8.88,323077697,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV021170011,Pagaré,,ARS,5.63,204834171,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV021170012,Pagaré,,ARS,5.63,204834171,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV021170013,Pagaré,,ARS,5.63,204834171,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV021170015,Pagaré,,ARS,5.63,204834171,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV021170019,Pagaré,,ARS,5.63,204834171,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV021170020,Pagaré,,ARS,5.63,204834171,,,Titulos de Deuda en Peso Argentina,1
+e,FCI ST Zero - Clase B,FCI,ST Zero,,2.03,73856726,,,Certificados de Participacion Argentina,15
+e,Pagare #MAV021170014,Pagaré,,ARS,1.81,65852549,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV021170018,Pagaré,,ARS,0.28,10187135,,,Titulos de Deuda en Peso Argentina,1
+p,Allaria Patrimonio IV,Allaria,RF MULT Disc,2.0288,0.0089,1,,,,
+p,Allaria Equity Selection,Allaria,RV Global,1.8194,0.0049,1,,,,
+p,Argenfunds Calificado II,Argenfunds,RF MULT Disc,1.4681,0.002,1,,,,
+p,Allaria Abierto Pymes,Allaria,PYME,1.3579,0.0048,1,,,,
+p,Allaria Unicred Empresas,Allaria,RF ARS CER,0.7414,0.0056,1,,,,
+p,Allaria Unicred Cobertura,Allaria,RF MULT Disc,0.4102,0.0006,1,,,,
+p,Argenfunds Financiamiento Pesos II,Argenfunds,INFRA,0.21,0.0003,1,,,,
+p,Allaria Capital,Allaria,RM y Otros ARS,0.0699,0.0001,1,,,,

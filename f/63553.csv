@@ -1,0 +1,89 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Allaria Ahorro Plus,,,,,,,,
+m,gerente,Allaria Fondos Administrados S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,255323816578,,,,,,,,
+m,aum_planilla,255323816578,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63553,,,,,,,,
+m,n_especies,37,,,,,,,,
+m,activos_pn,101.22,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,17.87,,,,,,,,
+m,top5,46.23,,,,,,,,
+m,top10,68.96,,,,,,,,
+m,hhi_especies,698.5346,,,,,,,,
+m,n_emisores,20,,,,,,,,
+m,emisor_top,Mercado Credito,,,,,,,,
+m,emisor_top_pct,42.65,,,,,,,,
+m,hhi_emisores,2357.0426,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Fideicomiso financiero,43.23,15,,,,,,,
+t,ON,36.06,20,,,,,,,
+t,Soberano,17.87,1,,,,,,,
+t,FCI,4.06,1,,,,,,,
+c,ARS,53.93,,,,,,,,
+c,sin dato,47.29,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,53.93,,,,,,,,
+r,Certificados de Participacion Argentina,47.29,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.22,,,,,,,,
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,17.87,45626366023,,,Titulos de Deuda en Peso Argentina,160
+e,FF Mercado Credito 48 CA,Fideicomiso financiero,Mercado Credito,,7.91,20196113891,,,Certificados de Participacion Argentina,27
+e,FF Mercado Credito 47 CA,Fideicomiso financiero,Mercado Credito,,7.57,19328012915,,,Certificados de Participacion Argentina,35
+e,ON Tarj Naranja C67 S1,ON,Tarj Naranja,ARS,7.2,18383314794,,,Titulos de Deuda en Peso Argentina,40
+e,FF Mercado Credito 46 CA,Fideicomiso financiero,Mercado Credito,,5.68,14502392782,,,Certificados de Participacion Argentina,28
+e,FF Mercado Credito 49 CA,Fideicomiso financiero,Mercado Credito,,5.23,13353435607,,,Certificados de Participacion Argentina,25
+e,FF Mercado Credito 55 CA,Fideicomiso financiero,Mercado Credito,,4.97,12689593684,,,Certificados de Participacion Argentina,30
+e,FF Mercado Credito 54 CA,Fideicomiso financiero,Mercado Credito,,4.28,10927859350,,,Certificados de Participacion Argentina,28
+e,ON Mercado Pago C8,ON,Mercado Pago,ARS,4.16,10621470770,,,Titulos de Deuda en Peso Argentina,17
+e,FF Mercado Credito 50 CA,Fideicomiso financiero,Mercado Credito,,4.09,10442744098,,,Certificados de Participacion Argentina,29
+e,FCI BM Smart Money Market - Clase B,FCI,BM Smart Money Market,,4.06,10366146953,,,Certificados de Participacion Argentina,34
+e,ON Payway C1,ON,Payway,ARS,3.28,8374621184,,,Titulos de Deuda en Peso Argentina,21
+e,ON Santander Rio S 31,ON,Santander Rio,ARS,3.11,7940570696,,,Titulos de Deuda en Peso Argentina,40
+e,ON Mercado Pago C5,ON,Mercado Pago,ARS,2.99,7634182116,,,Titulos de Deuda en Peso Argentina,15
+e,ON Arcor C3,ON,Arcor,ARS,2.75,7021404956,,,Titulos de Deuda en Peso Argentina,35
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,2.06,5259670622,,,Titulos de Deuda en Peso Argentina,61
+e,ON Tarj Naranja C66 S1,ON,Tarj Naranja,ARS,1.56,3983051539,,,Titulos de Deuda en Peso Argentina,17
+e,ON Santander Rio S 32,ON,Santander Rio,ARS,1.54,3931986775,,,Titulos de Deuda en Peso Argentina,42
+e,ON Arcor C4,ON,Arcor,ARS,1.45,3702195340,,,Titulos de Deuda en Peso Argentina,28
+e,ON Mercado Pago C3,ON,Mercado Pago,ARS,1.08,2757497219,,,Titulos de Deuda en Peso Argentina,21
+e,ON Rowing S1,ON,Rowing,ARS,0.8,2042590533,,,Titulos de Deuda en Peso Argentina,12
+e,ON Pyme Urbano Express Argentina S1,ON,Pyme Urbano Express Argentina,ARS,0.8,2042590533,,,Titulos de Deuda en Peso Argentina,20
+e,FF Mercado Credito 51 CA,Fideicomiso financiero,Mercado Credito,,0.78,1991525769,,,Certificados de Participacion Argentina,34
+e,ON Banco Hipotecario C11,ON,Banco Hipotecario,ARS,0.78,1991525769,,,Titulos de Deuda en Peso Argentina,21
+e,FF Mercado Credito 53 CA,Fideicomiso financiero,Mercado Credito,,0.78,1991525769,,,Certificados de Participacion Argentina,25
+e,FF Mercado Credito 45 CA,Fideicomiso financiero,Mercado Credito,,0.63,1608540044,,,Certificados de Participacion Argentina,25
+e,ON BACS Clase 20,ON,BACS,ARS,0.59,1506410518,,,Titulos de Deuda en Peso Argentina,18
+e,ON Grupo ST C15,ON,Grupo ST,ARS,0.55,1404280991,,,Titulos de Deuda en Peso Argentina,4
+e,ON BBVA Frances Cl 47,ON,BBVA Frances,ARS,0.49,1251086701,,,Titulos de Deuda en Peso Argentina,45
+e,FF Mercado Credito 52 CA,Fideicomiso financiero,Mercado Credito,,0.39,995762885,,,Certificados de Participacion Argentina,21
+e,FF Pedidos Ya S1,Fideicomiso financiero,Pedidos Ya,,0.37,944698121,,,Certificados de Participacion Argentina,14
+e,FF Mercado Credito 44 CA,Fideicomiso financiero,Mercado Credito,,0.34,868100976,,,Certificados de Participacion Argentina,26
+e,ON ICBC Clase 4 281126,ON,ICBC,ARS,0.33,842568595,,,Titulos de Deuda en Peso Argentina,23
+e,ON Banco Comafi C22,ON,Banco Comafi,ARS,0.3,765971450,,,Titulos de Deuda en Peso Argentina,30
+e,ON Grupo ST C16,ON,Grupo ST,ARS,0.24,612777160,,,Titulos de Deuda en Peso Argentina,5
+e,FF Megabono 346 Clase A,Fideicomiso financiero,Megabono,,0.16,408518107,,,Certificados de Participacion Argentina,9
+e,FF Tarj Fertil S26 CA,Fideicomiso financiero,Tarj Fertil,,0.05,127661908,,,Certificados de Participacion Argentina,11
+p,SBS Gestion Renta Fija,SBS,T+1,36.8608,0.6773,23,,,,
+p,Lombard Capital,Patagonia,T+1,33.9027,0.5439,29,,,,
+p,1822 Raices Valores Fiduciarios,Provinfondos,RF ARS Disc,29.8006,0.3895,13,,,,
+p,FBA Renta Fija Pesos I,BBVA,T+1,28.4444,0.5517,20,,,,
+p,Delta Performance,Delta,T+1,28.2786,0.3247,8,,,,
+p,Balanz Capital Ahorro,Balanz,T+1,27.5378,0.4382,18,,,,
+p,Champaquí Ahorro Pesos,Bancor,T+1,27.5023,0.4461,12,,,,
+p,Blacktoro Ahorro,BlackToro,T+1,26.384,0.4202,7,,,,

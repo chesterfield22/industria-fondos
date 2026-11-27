@@ -1,0 +1,114 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Dracma Estrategia Dólar I,,,,,,,,
+m,gerente,Dracma Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Inc ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,21596599,,,,,,,,
+m,aum_planilla,21596599,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86393,,,,,,,,
+m,n_especies,57,,,,,,,,
+m,activos_pn,100.26,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,5.56,,,,,,,,
+m,top1,7.13,,,,,,,,
+m,top5,31.19,,,,,,,,
+m,top10,47.85,,,,,,,,
+m,hhi_especies,331.0188,,,,,,,,
+m,n_emisores,35,,,,,,,,
+m,emisor_top,Chile (soberano),,,,,,,,
+m,emisor_top_pct,15.99,,,,,,,,
+m,hhi_emisores,662.4263,,,,,,,,
+m,sin_emisor_pct,6.05,,,,,,,,
+t,ON,49.13,33,,,,,,,
+t,Soberano exterior,23.18,8,,,,,,,
+t,Soberano,14,3,,,,,,,
+t,Pagaré,6.05,10,,,,,,,
+t,Caución,5.56,1,,,,,,,
+t,FCI,1.36,1,,,,,,,
+t,Fideicomiso financiero,0.96,1,,,,,,,
+c,USD,92.09,,,,,,,,
+c,sin dato,8.15,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,85.2,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,5.56,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Cable,7.18,,,,,,,,
+r,Certificados de Participacion Argentina,2.32,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.26,,,,,,,,
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,USD,7.13,1539838,,,Titulos de Deuda en Dolar Estadounidense,62
+e,Bonos Rep Argentina AL35,Soberano,Tesoro Nacional,USD,6.62,1429695,,,Titulos de Deuda en Dolar Estadounidense,31
+e,BC Chile 270333,Soberano exterior,Chile (soberano),USD,5.94,1282838,,,Titulos de Deuda en Dolar Estadounidense,2
+e,Bono Chile 4.95 010536,Soberano exterior,Chile (soberano),USD,5.94,1282838,,,Titulos de Deuda en Dolar Estadounidense,3
+e,Caucion Colocadora U$S Merval,Caución,Caución Merval,USD,5.56,1200771,,,Operaciones a Plazo en Dolar Estadounidense,55
+e,Chile 4.85%,Soberano exterior,Chile (soberano),USD,4.11,887620.2329,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON YPF Clase 39,ON,YPF,USD,3.5,755880.9769,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Transp Gas Sur Cl 3,ON,Transp Gas Sur,USD,3.35,723486.0779,,,Titulos de Deuda en Dolar Estadounidense,43
+e,ON YPF Clase 31,ON,YPF,USD,3.05,658696.2799,,,Titulos de Deuda en Dolar Estadounidense,48
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,USD,2.65,572309.8825,,,Titulos de Deuda en Dolar Estadounidense,58
+e,ON Central Puerto Clase E,ON,Central Puerto,USD,2.49,537755.3236,,,Titulos de Deuda en Dolar Estadounidense,31
+e,ON Profertil C4,ON,Profertil,USD,2.46,531276.3438,,,Titulos de Deuda en Dolar Estadounidense,17
+e,ON Banco de Cordoba C4,ON,Banco de Cordoba,USD,2.41,520478.0441,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Capex C11,ON,Capex,USD,2.38,513999.0643,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Pan American C35,ON,Pan American,USD,1.94,418974.0272,,,Titulos de Deuda en Dolar Estadounidense,23
+e,Bono Paraguay 4.95,Soberano exterior,Paraguay (soberano),,1.92,414654.7073,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,ON Cresud Clase 53,ON,Cresud,USD,1.92,414654.7073,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON CNH Arg. C12,ON,CNH Arg,USD,1.85,399537.0878,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Pecom C3,ON,Pecom,USD,1.74,375780.8285,,,Titulos de Deuda en Dolar Estadounidense,26
+e,ON Central Dock Sud C1,ON,Central Dock Sud,USD,1.63,352024.5692,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Pluspetrol 8.5% 2032 (REGS),ON,Pluspetrol,USD,1.55,334747.2898,,,Titulos de Deuda en Dolar Estadounidense,34
+e,ON YPF Luz C18 YFCJO,ON,YPF Luz,USD,1.47,317470.0103,,,Titulos de Deuda en Dolar Estadounidense,41
+e,ON Telecom C30,ON,Telecom,USD,1.43,308831.3706,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Farmacity C1,ON,Farmacity,USD,1.42,306671.7106,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Plaza Logistica C6 ZPC6O,ON,Plaza Logistica,USD,1.39,300192.7308,,,Titulos de Deuda en Dolar Estadounidense,9
+e,FCI Bull Market Liquidez Dólar - Clase B,FCI,Bull Market Liquidez Dólar,USD,1.36,293713.751,,,Certificados de Participacion Argentina,10
+e,Pagare #UMV070570008,Pagaré,,USD,1.34,289394.4312,,,Titulos de Deuda en Dolar Estadounidense,1
+e,US Treasury Note 300930,Soberano exterior,Tesoro EE.UU.,,1.34,289394.4312,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,US Treasury Note 310728,Soberano exterior,Tesoro EE.UU.,,1.32,285075.1113,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,US Treasury Note 300928,Soberano exterior,Tesoro EE.UU.,,1.31,282915.4514,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,US Treasury Note 300929,Soberano exterior,Tesoro EE.UU.,,1.3,280755.7914,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,ON YPF Clase 43,ON,YPF,USD,1.17,252680.2123,,,Titulos de Deuda en Dolar Estadounidense,34
+e,ON Scania Credit C4,ON,Scania Credit,USD,1.17,252680.2123,,,Titulos de Deuda en Dolar Estadounidense,8
+e,ON Pan American C37,ON,Pan American,USD,0.97,209487.0136,,,Titulos de Deuda en Dolar Estadounidense,18
+e,FF Cites II,Fideicomiso financiero,Cites II,,0.96,207327.3537,,,Certificados de Participacion Argentina,1
+e,ON Inversora Juramento C6 JNC6O,ON,Inversora Juramento,USD,0.95,205167.6937,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON Telecom C28,ON,Telecom,USD,0.95,205167.6937,,,Titulos de Deuda en Dolar Estadounidense,21
+e,ON YPF Luz C24,ON,YPF Luz,USD,0.93,200848.3739,,,Titulos de Deuda en Dolar Estadounidense,16
+e,Pagare #UMV220470003,Pagaré,,USD,0.89,192209.7341,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON John Deere Cia. Fin C17,ON,John Deere Cia. Fin,USD,0.88,190050.0742,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Tecpetrol C9,ON,Tecpetrol,USD,0.85,183571.0944,,,Titulos de Deuda en Dolar Estadounidense,8
+e,Pagare #UMV290470002,Pagaré,,USD,0.84,181411.4345,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Banco Nacion Argentina Clase 5,ON,Banco Nacion Argentina,USD,0.71,153335.8553,,,Titulos de Deuda en Dolar Estadounidense,25
+e,Pagare #UMV301260006,Pagaré,,USD,0.68,146856.8755,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV190370005,Pagaré,,USD,0.67,144697.2156,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UCN020370001,Pagaré,,USD,0.47,101504.0169,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Pyme Indave S1,ON,Pyme Indave,USD,0.47,101504.0169,,,Titulos de Deuda en Dolar Estadounidense,8
+e,Pagare #UCN220370002,Pagaré,,USD,0.47,101504.0169,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Pyme Gar Hector Bertone S1 C3,ON,Pyme Gar Hector Bertone,USD,0.46,99344.357,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Genneia Clase 47,ON,Genneia,USD,0.38,82067.0775,,,Titulos de Deuda en Dolar Estadounidense,21
+e,ON Oldelval Clase 7,ON,Oldelval,USD,0.31,66949.458,,,Titulos de Deuda en Dolar Estadounidense,41
+e,Pagare #UMV290770007,Pagaré,,USD,0.28,60470.4782,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,USD,0.25,53991.4984,,,Titulos de Deuda en Dolar Estadounidense,40
+e,Pagare #UMV061160021,Pagaré,,USD,0.23,49672.1785,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Edenor C10 DNCAO,ON,Edenor,USD,0.21,45352.8586,,,Titulos de Deuda en Dolar Estadounidense,26
+e,Pagare #UMV090170013,Pagaré,,USD,0.18,38873.8788,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Pyme Edisur S1,ON,Pyme Edisur,USD,0.09,19436.9394,,,Titulos de Deuda en Dolar Estadounidense,3
+p,Dracma Estrategia Dólar,Dracma,RF USD GL Inc ARG,45.7866,0.6626,18,,,,
+p,Axis S&C Renta Fija Dolar,Axis,RF USD corp loc,22.785,0.4057,13,,,,
+p,Balanz Ahorro en Dólares,Balanz,RF USD corp loc,22.7009,0.295,16,,,,
+p,Mills Renta Fija Dólares,Mills Capital,RF USD Disc,20.9471,0.2885,8,,,,
+p,Max Renta Fija Dolares,Max Capital,RF USD corp loc,19.0221,0.285,15,,,,
+p,Axis Rosental USD Strategic Income,Axis,RM y Otros USD,16.006,0.188,10,,,,
+p,Chaco FCI Renta Fija Dólares,Chaco,RF USD corp loc,15.5094,0.26,13,,,,
+p,Axis Multiplo Bursatil Retorno Absoluto,Axis,RM y Otros ARS,15.2124,0.289,5,,,,

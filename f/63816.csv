@@ -1,0 +1,70 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Allaria Renta Mixta Dólares,,,,,,,,
+m,gerente,Allaria Fondos Administrados S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros USD,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1596210,,,,,,,,
+m,aum_planilla,1596210,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63816,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,100.19,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.93,,,,,,,,
+m,top1,20.49,,,,,,,,
+m,top5,68.39,,,,,,,,
+m,top10,90.31,,,,,,,,
+m,hhi_especies,1154.9005,,,,,,,,
+m,n_emisores,14,,,,,,,,
+m,emisor_top,Edenor,,,,,,,,
+m,emisor_top_pct,20.49,,,,,,,,
+m,hhi_emisores,1250.5167,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,68.69,8,,,,,,,
+t,Subsoberano,17.31,2,,,,,,,
+t,Cedear,9.52,3,,,,,,,
+t,Acción,2.67,1,,,,,,,
+t,FCI,1.08,1,,,,,,,
+c,USD,87.08,,,,,,,,
+c,ARS,12.19,,,,,,,,
+r,Disponibilidades,0.93,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,85.99,,,,,,,,
+r,Participaciones Accionarias Argentina,10.59,,,,,,,,
+r,Participaciones Accionarias Estados Unidos,1.6,,,,,,,,
+r,Certificados de Participacion Argentina,1.08,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.19,,,,,,,,
+e,ON Edenor C11,ON,Edenor,USD,20.49,327063.345,,,Titulos de Deuda en Dolar Estadounidense,31
+e,ON Central Puerto Clase D,ON,Central Puerto,USD,15.57,248529.8332,,,Titulos de Deuda en Dolar Estadounidense,24
+e,Bono Prov Cordoba 030235,Subsoberano,Prov. Cordoba,USD,13.2,210699.6659,,,Titulos de Deuda en Dolar Estadounidense,29
+e,ON Pampa Energia C26,ON,Pampa Energia,USD,12.29,196174.1586,,,Titulos de Deuda en Dolar Estadounidense,38
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,6.84,109180.736,,,Participaciones Accionarias Argentina,38
+e,ON Edemsa C3,ON,Edemsa,USD,6.45,102955.5186,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON YPF Clase 44,ON,YPF,USD,4.29,68477.3914,,,Titulos de Deuda en Dolar Estadounidense,13
+e,Bono Prov San Juan SJO35,Subsoberano,Prov. San Juan,USD,4.11,65604.2141,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON Pampa Energia C26 Prov,ON,Pampa Energia,USD,3.89,62092.5531,,,Titulos de Deuda en Dolar Estadounidense,2
+e,ON Pluspetrol Clase 7,ON,Pluspetrol,USD,3.18,50759.465,,,Titulos de Deuda en Dolar Estadounidense,7
+e,Sociedad Comercial del Plata S.A.,Acción,Sociedad Comercial del Plata,ARS,2.67,42618.7961,,,Participaciones Accionarias Argentina,31
+e,ON Vaca Muerta C1,ON,Vaca Muerta,USD,2.53,40384.1026,,,Titulos de Deuda en Dolar Estadounidense,45
+e,Cedear Coinbase Global,Cedear,Coinbase Global,ARS,1.6,25539.3534,,,Participaciones Accionarias Estados Unidos,1
+e,Cedear Google,Cedear,Google,ARS,1.08,17239.0636,,,Participaciones Accionarias Argentina,30
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,1.08,17239.0636,,,Certificados de Participacion Argentina,37
+p,Schroder Retorno Total,Schroder,RF USD corp loc,24.4649,0.3948,5,,,,
+p,Tandem Global II,Tandem Capi..,RM y Otros USD,20.6407,0.3107,1,,,,
+p,Galileo Multi Strategy,Delta,RF USD corp loc,19.5406,0.2431,4,,,,
+p,Balanz Capital Estrategia VII USD,Balanz,Sin clasificar,17.8628,0.2154,7,,,,
+p,Tandem Dólares Retorno Total,Tandem Capi..,RF USD Disc,16.044,0.3169,2,,,,
+p,MAF Mix I,Mariva,RF USD Disc,15.7737,0.2453,1,,,,
+p,Consultatio Multimercado III,Consultatio,RF USD corp loc,15.0385,0.2346,6,,,,
+p,Parakeet Income,Parakeet,RF USD corp loc,14.5127,0.2374,2,,,,

@@ -1,0 +1,75 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Dracma Estrategia Dólar,,,,,,,,
+m,gerente,Dracma Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Inc ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,9007378,,,,,,,,
+m,aum_planilla,9007378,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87360,,,,,,,,
+m,n_especies,24,,,,,,,,
+m,activos_pn,100.1,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,17.64,,,,,,,,
+m,top5,43.84,,,,,,,,
+m,top10,68.78,,,,,,,,
+m,hhi_especies,695.982,,,,,,,,
+m,n_emisores,18,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,29.21,,,,,,,,
+m,hhi_emisores,1341.272,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,54.97,17,,,,,,,
+t,Soberano,29.21,3,,,,,,,
+t,Soberano exterior,14.73,3,,,,,,,
+t,FCI,1.19,1,,,,,,,
+c,USD,100.1,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,98.9,,,,,,,,
+r,Certificados de Participacion Argentina,1.19,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.1,,,,,,,,
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,USD,17.64,1588901,,,Titulos de Deuda en Dolar Estadounidense,62
+e,Bono Chile 4.95 010536,Soberano exterior,Chile (soberano),USD,6.79,611600.9628,,,Titulos de Deuda en Dolar Estadounidense,3
+e,BC Chile 270333,Soberano exterior,Chile (soberano),USD,6.63,597189.1581,,,Titulos de Deuda en Dolar Estadounidense,2
+e,Bonos Rep Argentina AL35,Soberano,Tesoro Nacional,USD,6.48,583678.0912,,,Titulos de Deuda en Dolar Estadounidense,31
+e,ON Capex C11,ON,Capex,USD,6.3,567464.8109,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Cresud S31 C47,ON,Cresud,USD,5.89,530534.5613,,,Titulos de Deuda en Dolar Estadounidense,18
+e,ON Vaca Muerta C1,ON,Vaca Muerta,USD,5.58,502611.6896,,,Titulos de Deuda en Dolar Estadounidense,45
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,USD,5.09,458475.5377,,,Titulos de Deuda en Dolar Estadounidense,40
+e,ON YPF Luz C24,ON,YPF Luz,USD,4.48,403530.5322,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Central Dock Sud C1,ON,Central Dock Sud,USD,3.9,351287.74,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Pan American C35,ON,Pan American,USD,3.58,322464.1306,,,Titulos de Deuda en Dolar Estadounidense,23
+e,ON YPF Clase 33,ON,YPF,USD,3.56,320662.655,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Banco Nacion Argentina Clase 5,ON,Banco Nacion Argentina,USD,3.4,306250.8503,,,Titulos de Deuda en Dolar Estadounidense,25
+e,ON Profertil C4,ON,Profertil,USD,3.33,299945.6857,,,Titulos de Deuda en Dolar Estadounidense,17
+e,ON Banco Macro Clase H Reg S,ON,Banco Macro,USD,3.02,272022.8141,,,Titulos de Deuda en Dolar Estadounidense,23
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,USD,2.86,257611.0094,,,Titulos de Deuda en Dolar Estadounidense,58
+e,ON Cresud Clase 53,ON,Cresud,USD,2.31,208070.4306,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Banco de Cordoba C4,ON,Banco de Cordoba,USD,2.25,202666.0039,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON YPF Luz C20,ON,YPF Luz,USD,2.09,188254.1992,,,Titulos de Deuda en Dolar Estadounidense,20
+e,ON John Deere Cia. Fin C19,ON,John Deere Cia. Fin,USD,1.51,136011.407,,,Titulos de Deuda en Dolar Estadounidense,20
+e,Chile 4.85%,Soberano exterior,Chile (soberano),USD,1.31,117996.6511,,,Titulos de Deuda en Dolar Estadounidense,12
+e,FCI Bull Market Liquidez Dólar - Clase B,FCI,Bull Market Liquidez Dólar,USD,1.19,107187.7976,,,Certificados de Participacion Argentina,10
+e,ON Plaza Logistica C6 ZPC6O,ON,Plaza Logistica,USD,0.56,50441.3165,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Edenor C10 DNCAO,ON,Edenor,USD,0.35,31525.8228,,,Titulos de Deuda en Dolar Estadounidense,26
+p,Dracma Estrategia Dólar I,Dracma,RF USD GL Inc ARG,45.7866,0.6626,18,,,,
+p,Pionero Renta Dólares Plus,Macro,RF USD Disc,29.1808,0.544,3,,,,
+p,Fima Mix Dólares,Galicia,RF USD Disc,24.0959,0.5063,2,,,,
+p,MEGAQM Gestión Balanceada Dólares,MegaQM,RF USD Disc,24.0959,0.3997,2,,,,
+p,Ualintec Renta Dólares,Ualá,RF USD Disc,20.8002,0.402,3,,,,
+p,Axis S&C Renta Fija Dolar,Axis,RF USD corp loc,20.4056,0.4855,10,,,,
+p,Consultatio Multimercado V,Consultatio,RF USD Disc,19.3034,0.3014,3,,,,
+p,Mills Renta Fija Dólares,Mills Capital,RF USD Disc,18.2352,0.2683,5,,,,

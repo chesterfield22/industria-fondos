@@ -1,0 +1,109 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,CMA Dólar Dinamico,,,,,,,,
+m,gerente,Capital Markets Argentina Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Inc ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Latinoamerica,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,6901927,,,,,,,,
+m,aum_planilla,6901927,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87478,,,,,,,,
+m,n_especies,54,,,,,,,,
+m,activos_pn,100.47,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,7.39,,,,,,,,
+m,top1,8.59,,,,,,,,
+m,top5,28.85,,,,,,,,
+m,top10,46.96,,,,,,,,
+m,hhi_especies,313.5886,,,,,,,,
+m,n_emisores,32,,,,,,,,
+m,emisor_top,Tesoro EE.UU.,,,,,,,,
+m,emisor_top_pct,16.66,,,,,,,,
+m,hhi_emisores,600.9147,,,,,,,,
+m,sin_emisor_pct,3.25,,,,,,,,
+t,ON,55.53,39,,,,,,,
+t,Soberano exterior,19.72,5,,,,,,,
+t,Soberano,9.55,3,,,,,,,
+t,FCI,5.03,1,,,,,,,
+t,Pagaré,3.25,6,,,,,,,
+c,sin dato,84.8,,,,,,,,
+c,USD,5.03,,,,,,,,
+c,ARS,3.25,,,,,,,,
+r,Disponibilidades,7.39,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense MEP,66.22,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Cable,21.83,,,,,,,,
+r,Certificados de Participacion Argentina,5.03,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.47,,,,,,,,
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,,8.59,592875.5181,,,Titulos de Deuda en Dolar Estadounidense MEP,83
+e,US Treasury Bill 241226,Soberano exterior,Tesoro EE.UU.,,5.81,401001.9511,,,Titulos de Deuda en Dolar Estadounidense Cable,4
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,5.03,347166.9216,,,Certificados de Participacion Argentina,37
+e,US Treasury Bill 150427,Soberano exterior,Tesoro EE.UU.,,4.83,333363.0678,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,ON YPF Clase 42,ON,YPF,,4.59,316798.4433,,,Titulos de Deuda en Dolar Estadounidense MEP,48
+e,ON Scania Credit C2,ON,Scania Credit,,4.03,278147.6529,,,Titulos de Deuda en Dolar Estadounidense MEP,11
+e,ON Profertil C2,ON,Profertil,,3.99,275386.8821,,,Titulos de Deuda en Dolar Estadounidense MEP,20
+e,ON Pluspetrol Clase 3,ON,Pluspetrol,,3.71,256061.4869,,,Titulos de Deuda en Dolar Estadounidense MEP,18
+e,ON BBVA Frances Cl 40,ON,BBVA Frances,,3.24,223622.4306,,,Titulos de Deuda en Dolar Estadounidense MEP,19
+e,US Treasury Bill 271126,Soberano exterior,Tesoro EE.UU.,,3.14,216720.5037,,,Titulos de Deuda en Dolar Estadounidense Cable,10
+e,CL Rep Chile 2027,Soberano exterior,Chile (soberano),,3.06,211198.9622,,,Titulos de Deuda en Dolar Estadounidense Cable,22
+e,ON Tarj Naranja C68 S2,ON,Tarj Naranja,,2.88,198775.4939,,,Titulos de Deuda en Dolar Estadounidense MEP,9
+e,US Treasury Bill 180327,Soberano exterior,Tesoro EE.UU.,,2.88,198775.4939,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,ON Scania Credit C1,ON,Scania Credit,,2.52,173928.5571,,,Titulos de Deuda en Dolar Estadounidense MEP,11
+e,ON Credicuotas Consumo S23,ON,Credicuotas Consumo,,2.2,151842.3911,,,Titulos de Deuda en Dolar Estadounidense MEP,7
+e,ON Vista Energy 32,ON,Vista Energy,,2.11,145630.657,,,Titulos de Deuda en Dolar Estadounidense Cable,6
+e,ON YPF Energia Electrica C21,ON,YPF Energia Electrica,,1.49,102838.7104,,,Titulos de Deuda en Dolar Estadounidense MEP,17
+e,ON Arcor Clase 26,ON,Arcor,,1.47,101458.325,,,Titulos de Deuda en Dolar Estadounidense MEP,19
+e,ON Tarj Naranja C67 S2,ON,Tarj Naranja,,1.47,101458.325,,,Titulos de Deuda en Dolar Estadounidense MEP,22
+e,ON Banco de Galicia 34 BY34O,ON,Banco de Galicia,,1.45,100077.9396,,,Titulos de Deuda en Dolar Estadounidense MEP,11
+e,ON Banco Comafi C18,ON,Banco Comafi,,1.39,95936.7835,,,Titulos de Deuda en Dolar Estadounidense MEP,12
+e,ON Central Puerto Clase E,ON,Central Puerto,,1.3,89725.0493,,,Titulos de Deuda en Dolar Estadounidense MEP,31
+e,ON Banco Mariva S3 060727,ON,Banco Mariva,,1.16,80062.3517,,,Titulos de Deuda en Dolar Estadounidense MEP,19
+e,ON Pluspetrol Clase 1,ON,Pluspetrol,,1.06,73160.4248,,,Titulos de Deuda en Dolar Estadounidense MEP,13
+e,ON Bco Patagonia Cl 6,ON,Banco Patagonia,,1.02,70399.6541,,,Titulos de Deuda en Dolar Estadounidense MEP,7
+e,ON Tarj Naranja C64 S1,ON,Tarj Naranja,,0.97,66948.6906,,,Titulos de Deuda en Dolar Estadounidense MEP,3
+e,ON Grupo ST C17,ON,Grupo ST,,0.86,59356.5711,,,Titulos de Deuda en Dolar Estadounidense MEP,8
+e,ON Oiltanking S2,ON,Oiltanking,,0.84,57976.1857,,,Titulos de Deuda en Dolar Estadounidense MEP,13
+e,ON YPF Luz C24,ON,YPF Luz,,0.83,57285.993,,,Titulos de Deuda en Dolar Estadounidense MEP,16
+e,ON Oldelval Clase 5,ON,Oldelval,,0.78,53835.0296,,,Titulos de Deuda en Dolar Estadounidense MEP,34
+e,ON Scania Credit C3,ON,Scania Credit,,0.75,51764.4515,,,Titulos de Deuda en Dolar Estadounidense MEP,8
+e,ON Pan American C42,ON,Pan American,,0.74,51074.2588,,,Titulos de Deuda en Dolar Estadounidense MEP,16
+e,ON Supervielle Clase W,ON,Supervielle,,0.74,51074.2588,,,Titulos de Deuda en Dolar Estadounidense MEP,22
+e,ON ICBC Clase 6 220527,ON,ICBC,,0.73,50384.0662,,,Titulos de Deuda en Dolar Estadounidense MEP,18
+e,ON BBVA Frances Cl 50,ON,BBVA Frances,,0.73,50384.0662,,,Titulos de Deuda en Dolar Estadounidense MEP,30
+e,Pagare #UFD101260001,Pagaré,,ARS,0.72,49693.8735,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,ON Banco Hipotecario C15,ON,Banco Hipotecario,,0.72,49693.8735,,,Titulos de Deuda en Dolar Estadounidense MEP,18
+e,Pagare #UAC080170001,Pagaré,,ARS,0.71,49003.6808,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UDO260570001,Pagaré,,ARS,0.7,48313.4881,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,ON Pan American C34,ON,Pan American,,0.62,42791.9466,,,Titulos de Deuda en Dolar Estadounidense MEP,10
+e,ON Edenor Clase 3,ON,Edenor,,0.61,42101.7539,,,Titulos de Deuda en Dolar Estadounidense MEP,7
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,,0.61,42101.7539,,,Titulos de Deuda en Dolar Estadounidense MEP,74
+e,ON Pan American C37,ON,Pan American,,0.6,41411.5612,,,Titulos de Deuda en Dolar Estadounidense MEP,18
+e,ON Tecpetrol C13,ON,Tecpetrol,,0.59,40721.3685,,,Titulos de Deuda en Dolar Estadounidense MEP,24
+e,ON Credicuotas Consumo S21,ON,Credicuotas Consumo,,0.59,40721.3685,,,Titulos de Deuda en Dolar Estadounidense MEP,5
+e,ON Bco Provincia Cl 5 PVC5O,ON,Banco Provincia,,0.59,40721.3685,,,Titulos de Deuda en Dolar Estadounidense MEP,17
+e,ON BBVA Frances Cl 48,ON,BBVA Frances,,0.58,40031.1758,,,Titulos de Deuda en Dolar Estadounidense MEP,5
+e,ON Bco Serv Transac C28,ON,Banco Serv Transac,,0.57,39340.9832,,,Titulos de Deuda en Dolar Estadounidense MEP,12
+e,ON Irsa Clase 18,ON,Irsa,,0.57,39340.9832,,,Titulos de Deuda en Dolar Estadounidense MEP,5
+e,ON Banco Hipotecario C14,ON,Banco Hipotecario,,0.44,30368.4782,,,Titulos de Deuda en Dolar Estadounidense MEP,19
+e,Pagare #UFD051070002,Pagaré,,ARS,0.41,28297.9002,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UCN300170001,Pagaré,,ARS,0.36,24846.9367,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UCN080570001,Pagaré,,ARS,0.35,24156.744,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Bonos Rep Argentina 2029,Soberano,Tesoro Nacional,,0.35,24156.744,,,Titulos de Deuda en Dolar Estadounidense MEP,24
+p,Alpha Renta Fija Corporativa Dólar,ICBC,RF USD corp loc,25.701,0.4198,22,,,,
+p,Pionero Dólar Mix,Macro,RF USD Disc,23.0664,0.2543,7,,,,
+p,Superfondo Renta Fija Dólares,Santander,RF USD GL Inc ARG,22.4711,0.3424,16,,,,
+p,CMA Renta Dólar,Capital Mark..,RF USD GL Inc ARG,21.6261,0.3577,13,,,,
+p,SBS Renta Dólar Argentina,SBS,RF USD corp loc,21.4775,0.4628,12,,,,
+p,Schroder Retorno Total Cuatro,Schroder,RF USD CP,19.2352,0.4303,6,,,,
+p,Pionero Dólar Gestión,Macro,RF USD Disc,18.3269,0.4505,6,,,,
+p,IOL Dólar Ahorro Plus,Adcap,RF USD Disc,17.7771,0.4239,13,,,,

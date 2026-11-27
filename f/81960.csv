@@ -1,0 +1,86 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Balanz Performance III,,,,,,,,
+m,gerente,Balanz S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Corp,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,35893438500,,,,,,,,
+m,aum_planilla,35893438500,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/81960,,,,,,,,
+m,n_especies,33,,,,,,,,
+m,activos_pn,102.86,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,2.83,,,,,,,,
+m,top1,13.33,,,,,,,,
+m,top5,45.9,,,,,,,,
+m,top10,65.12,,,,,,,,
+m,hhi_especies,606.9595,,,,,,,,
+m,n_emisores,22,,,,,,,,
+m,emisor_top,Banco Nacion Argentina,,,,,,,,
+m,emisor_top_pct,17.14,,,,,,,,
+m,hhi_emisores,950.7139,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,95.8,30,,,,,,,
+t,Fideicomiso financiero,2.95,1,,,,,,,
+t,Caución,2.8,1,,,,,,,
+t,FCI,1.28,1,,,,,,,
+c,ARS,98.6,,,,,,,,
+c,sin dato,4.23,,,,,,,,
+r,Disponibilidades,0.03,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,95.8,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,2.8,,,,,,,,
+r,Certificados de Participacion Argentina,4.23,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),2.86,,,,,,,,
+e,ON Banco Nacion Argentina Clase 6,ON,Banco Nacion Argentina,ARS,13.33,4784595352,,,Titulos de Deuda en Peso Argentina,12
+e,ON Telecom C18 TLCJO,ON,Telecom,ARS,11.36,4077494614,,,Titulos de Deuda en Peso Argentina,11
+e,ON Capex C7,ON,Capex,ARS,7.95,2853528361,,,Titulos de Deuda en Peso Argentina,21
+e,ON Capex C10,ON,Capex,ARS,6.95,2494593976,,,Titulos de Deuda en Peso Argentina,17
+e,ON PSA Serie 34,ON,PSA,ARS,6.31,2264875969,,,Titulos de Deuda en Peso Argentina,7
+e,ON PCR Clase K,ON,PCR,ARS,4.3,1543417856,,,Titulos de Deuda en Peso Argentina,26
+e,ON Petroqui C Rivadavia Clase Q,ON,Petroqui C Rivadavia,ARS,4.25,1525471136,,,Titulos de Deuda en Peso Argentina,12
+e,ON Banco Nacion Argentina Clase 3,ON,Banco Nacion Argentina,ARS,3.81,1367540007,,,Titulos de Deuda en Peso Argentina,33
+e,ON Plaza Logistica C13,ON,Plaza Logistica,ARS,3.62,1299342474,,,Titulos de Deuda en Peso Argentina,3
+e,ON Bco Ciudad C23,ON,Banco Ciudad,ARS,3.24,1162947407,,,Titulos de Deuda en Peso Argentina,16
+e,ON Rombo Cia Fciera S66,ON,Rombo Cia Fciera,ARS,3.17,1137822000,,,Titulos de Deuda en Peso Argentina,15
+e,FF Milaires Clase A,Fideicomiso financiero,Milaires,,2.95,1058856436,,,Certificados de Participacion Argentina,3
+e,ON Edesa Clase 3,ON,Edesa,ARS,2.84,1019373653,,,Titulos de Deuda en Peso Argentina,21
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,2.8,1005016278,,,Operaciones a Plazo en Peso Argentina,195
+e,ON Bco Serv Transac C29,ON,Banco Serv Transac,ARS,2.18,782476959,,,Titulos de Deuda en Peso Argentina,15
+e,ON FCA Comp. Finac CL 20 S1,ON,FCA Comp. Finac,ARS,1.88,674796644,,,Titulos de Deuda en Peso Argentina,7
+e,ON Rombo Cia Fciera S65,ON,Rombo Cia Fciera,ARS,1.87,671207300,,,Titulos de Deuda en Peso Argentina,15
+e,ON FCA Comp. Finac CL 22 S1,ON,FCA Comp. Finac,ARS,1.78,638903205,,,Titulos de Deuda en Peso Argentina,7
+e,ON PSA Serie 38,ON,PSA,ARS,1.77,635313861,,,Titulos de Deuda en Peso Argentina,7
+e,ON NewSan Clase 23,ON,NewSan,ARS,1.72,617367142,,,Titulos de Deuda en Peso Argentina,13
+e,ON Credito Directo C31,ON,Credito Directo,ARS,1.57,563526984,,,Titulos de Deuda en Peso Argentina,14
+e,ON Petroqui C Rivadavia PQCOO,ON,Petroqui C Rivadavia PQCOO,ARS,1.55,556348297,,,Titulos de Deuda en Peso Argentina,13
+e,ON FCA Comp. Finac CL 22 S3,ON,FCA Comp. Finac,ARS,1.48,531222890,,,Titulos de Deuda en Peso Argentina,12
+e,ON Banco Prov Clase 6,ON,Banco Provincia,ARS,1.46,524044202,,,Titulos de Deuda en Peso Argentina,43
+e,ON FCA Comp. Finac CL 21 S1,ON,FCA Comp. Finac,ARS,1.45,520454858,,,Titulos de Deuda en Peso Argentina,2
+e,FCI Max Money Market - Clase B,FCI,Max Money Market,,1.28,459436013,,,Certificados de Participacion Argentina,12
+e,ON Volkswagen Financial Services C15,ON,Volkswagen Financial Services,ARS,1.2,430721262,,,Titulos de Deuda en Peso Argentina,19
+e,ON PSA Serie 31,ON,PSA,ARS,1.08,387649136,,,Titulos de Deuda en Peso Argentina,1
+e,ON Capex C4,ON,Capex,ARS,1.07,384059792,,,Titulos de Deuda en Peso Argentina,8
+e,ON Rombo Cia Fciera S60,ON,Rombo Cia Fciera,ARS,0.92,330219634,,,Titulos de Deuda en Peso Argentina,3
+e,ON Mirgor Clase 7,ON,Mirgor,ARS,0.73,262022101,,,Titulos de Deuda en Peso Argentina,7
+e,ON Rombo Cia Fciera S67,ON,Rombo Cia Fciera,ARS,0.54,193824568,,,Titulos de Deuda en Peso Argentina,11
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,0.42,150752442,,,Titulos de Deuda en Peso Argentina,52
+p,IAM Renta Capital,BIND,T+1,20.2973,0.3301,5,,,,
+p,Balanz Infraestructura,Balanz,INFRA,18.1363,0.2602,4,,,,
+p,Superfondo Renta Mixta,Santander,RF MULT Disc,12.5004,0.137,8,,,,
+p,GSS Cobertura,Grupo SS,RF USD Linked,12.2715,0.1178,3,,,,
+p,Stonex Infraestructura FCI Abierto,StoneX,INFRA,12.0423,0.1971,2,,,,
+p,1822 Raices Inversion,Provinfondos,RF ARS CER,11.8909,0.1296,6,,,,
+p,Delta Retorno Real,Delta,RF ARS CER,11.1983,0.1167,4,,,,
+p,Lombard Pesos Plus,Patagonia,RM y Otros ARS,10.5956,0.1253,3,,,,

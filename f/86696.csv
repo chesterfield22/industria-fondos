@@ -1,0 +1,96 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Axis Estrategia 22,,,,,,,,
+m,gerente,Axis S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,38953455525,,,,,,,,
+m,aum_planilla,38953455525,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86696,,,,,,,,
+m,n_especies,40,,,,,,,,
+m,activos_pn,100.04,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,15.43,,,,,,,,
+m,top5,60.34,,,,,,,,
+m,top10,79.94,,,,,,,,
+m,hhi_especies,851.1345,,,,,,,,
+m,n_emisores,22,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,52.9,,,,,,,,
+m,hhi_emisores,2812.5817,,,,,,,,
+m,sin_emisor_pct,34.14,,,,,,,,
+t,Soberano,52.9,13,,,,,,,
+t,Pagaré,34.14,3,,,,,,,
+t,ON,10.09,14,,,,,,,
+t,FCI,1.49,2,,,,,,,
+t,Fideicomiso financiero,0.61,5,,,,,,,
+t,Acción,0.51,2,,,,,,,
+t,Subsoberano,0.27,1,,,,,,,
+c,ARS,97.91,,,,,,,,
+c,sin dato,2.1,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,97.42,,,,,,,,
+r,Participaciones Accionarias Argentina,0.51,,,,,,,,
+r,Certificados de Participacion Argentina,2.1,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.04,,,,,,,,
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,15.43,6010518188,,,Titulos de Deuda en Peso Argentina,142
+e,Pagare #MAV110170024,Pagaré,,ARS,13.12,5110693365,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV090370006,Pagaré,,ARS,11.04,4300461490,,,Titulos de Deuda en Peso Argentina,1
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,10.77,4195287160,,,Titulos de Deuda en Peso Argentina,149
+e,Pagare #MAV230470008,Pagaré,,ARS,9.98,3887554861,,,Titulos de Deuda en Peso Argentina,1
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,5.54,2158021436,,,Titulos de Deuda en Peso Argentina,159
+e,Boncer TZXY7,Soberano,Tesoro Nacional,ARS,3.95,1538661493,,,Titulos de Deuda en Peso Argentina,76
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,3.8,1480231310,,,Titulos de Deuda en Peso Argentina,67
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,3.49,1359475598,,,Titulos de Deuda en Peso Argentina,112
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,2.82,1098487446,,,Titulos de Deuda en Peso Argentina,146
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,1.89,736220309,,,Titulos de Deuda en Peso Argentina,66
+e,Bono Boncer TZXA7,Soberano,Tesoro Nacional,ARS,1.67,650522707,,,Titulos de Deuda en Peso Argentina,17
+e,FCI Mercadolibre Cerrado De Créditos,FCI,Mercadolibre Cerrado De Créditos,,1.48,576511142,,,Certificados de Participacion Argentina,5
+e,ON Plaza Logistica C1 ZPC1O,ON,Plaza Logistica,ARS,1.47,572615796,,,Titulos de Deuda en Peso Argentina,9
+e,Bono del Tesoro Nacional TY30P,Soberano,Tesoro Nacional,ARS,1.36,529766995,,,Titulos de Deuda en Peso Argentina,30
+e,ON Bco Provincia Cl 4,ON,Banco Provincia,ARS,1.23,479127503,,,Titulos de Deuda en Peso Argentina,25
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,1.23,479127503,,,Titulos de Deuda en Peso Argentina,51
+e,ON Volkswagen Financial Services C12,ON,Volkswagen Financial Services,ARS,1.21,471336812,,,Titulos de Deuda en Peso Argentina,15
+e,ON BACS Clase 19,ON,BACS,ARS,1.1,428488011,,,Titulos de Deuda en Peso Argentina,19
+e,ON ICBC Clase 4 281126,ON,ICBC,ARS,0.95,370057827,,,Titulos de Deuda en Peso Argentina,23
+e,ON PSA Serie 35,ON,PSA,ARS,0.94,366162482,,,Titulos de Deuda en Peso Argentina,20
+e,ON P. Aconcagua Energia C18,ON,P. Aconcagua Energia,ARS,0.86,334999718,,,Titulos de Deuda en Peso Argentina,8
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,0.68,264883498,,,Titulos de Deuda en Peso Argentina,250
+e,ON P. Aconcagua Energia C20,ON,P. Aconcagua Energia,ARS,0.52,202557969,,,Titulos de Deuda en Peso Argentina,9
+e,ON PSA Serie 34,ON,PSA,ARS,0.51,198662623,,,Titulos de Deuda en Peso Argentina,7
+e,ON Lancioni S1,ON,Lancioni,ARS,0.4,155813822,,,Titulos de Deuda en Peso Argentina,17
+e,FF Provincia Leasing S 6A,Fideicomiso financiero,Provincia Leasing,,0.34,132441749,,,Certificados de Participacion Argentina,13
+e,YPF S.A.,Acción,YPF,ARS,0.3,116860367,,,Participaciones Accionarias Argentina,122
+e,Bono Prov Mendoza TAMAR C2,Subsoberano,Prov. Mendoza TAMAR,ARS,0.27,105174330,,,Titulos de Deuda en Peso Argentina,24
+e,ON Toyota Clase 34,ON,Toyota,ARS,0.27,105174330,,,Titulos de Deuda en Peso Argentina,22
+e,ON Rombo Cia Fciera S61,ON,Rombo Cia Fciera,ARS,0.27,105174330,,,Titulos de Deuda en Peso Argentina,14
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,0.27,105174330,,,Titulos de Deuda en Peso Argentina,82
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,0.21,81802257,,,Participaciones Accionarias Argentina,129
+e,ON Latamly S1,ON,Latamly,ARS,0.2,77906911,,,Titulos de Deuda en Peso Argentina,16
+e,ON Credicuotas Consumo S17,ON,Credicuotas Consumo,ARS,0.16,62325529,,,Titulos de Deuda en Peso Argentina,16
+e,FF AySA S1,Fideicomiso financiero,AySA,,0.13,50639492,,,Certificados de Participacion Argentina,10
+e,FF Megabono 333 Clase A,Fideicomiso financiero,Megabono,,0.09,35058110,,,Certificados de Participacion Argentina,14
+e,FF Megabono Crédito 328 Clase A,Fideicomiso financiero,Megabono Crédito,,0.03,11686037,,,Certificados de Participacion Argentina,4
+e,FF Megabono 335 Clase A,Fideicomiso financiero,Megabono,,0.02,7790691,,,Certificados de Participacion Argentina,11
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.01,3895346,,,Certificados de Participacion Argentina,93
+p,Galileo Renta,Delta,RM y Otros ARS,33.1538,0.4101,5,,,,
+p,Max Ahorro Pesos,Max Capital,T+1,30.8948,0.3935,3,,,,
+p,Novus Liquidez Plus,Novus,T+1,27.9082,0.3878,3,,,,
+p,BAVSA Global III,BAVSA,RF MULT Disc,27.5731,0.3326,5,,,,
+p,Galileo Ahorro Plus,Delta,T+1,27.1516,0.3042,7,,,,
+p,MEGAQM Acciones Latam,MegaQM,T+1,26.8073,0.4263,4,,,,
+p,Stonex Global VIII,StoneX,RM y Otros ARS,26.3969,0.4047,5,,,,
+p,Argenfunds Financiamiento Pesos,Argenfunds,RF ARS Disc,26.2074,0.4626,3,,,,

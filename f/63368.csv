@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,SBS Tavelli Renta,,,,,,,,
+m,gerente,SBS Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1044053639,,,,,,,,
+m,aum_planilla,1044053639,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63368,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,100.91,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.28,,,,,,,,
+m,top1,16.59,,,,,,,,
+m,top5,64.92,,,,,,,,
+m,top10,95.93,,,,,,,,
+m,hhi_especies,1096.2514,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Banco Santander Ri,,,,,,,,
+m,emisor_top_pct,16.59,,,,,,,,
+m,hhi_emisores,1202.7658,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,77.19,10,,,,,,,
+t,Plazo fijo,19.47,2,,,,,,,
+t,FCI,2.98,1,,,,,,,
+c,ARS,96.66,,,,,,,,
+c,sin dato,2.98,,,,,,,,
+r,Disponibilidades,1.28,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,77.19,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,19.46,,,,,,,,
+r,Certificados de Participacion Argentina,2.98,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.91,,,,,,,,
+e,Pzo Fi $ Bco Santander Ri,Plazo fijo,Banco Santander Ri,ARS,16.59,173208499,,,Operaciones a Plazo en Peso Argentina,68
+e,ON Pan American C26,ON,Pan American,ARS,13.89,145019050,,,Titulos de Deuda en Peso Argentina,38
+e,ON Vista Gas y Oil Arg C21,ON,Vista Gas y Oil Arg,ARS,12.34,128836219,,,Titulos de Deuda en Peso Argentina,27
+e,ON YPF C 17,ON,YPF,ARS,11.36,118604493,,,Titulos de Deuda en Peso Argentina,19
+e,ON Pampa Energia C13,ON,Pampa Energia,ARS,10.74,112131361,,,Titulos de Deuda en Peso Argentina,30
+e,ON YPF Luz C23,ON,YPF Luz,ARS,9.79,102212851,,,Titulos de Deuda en Peso Argentina,15
+e,ON Telecom C12 TLCDO,ON,Telecom,ARS,7.35,76737942,,,Titulos de Deuda en Peso Argentina,29
+e,ON Aluar Serie 6,ON,Aluar,ARS,6.94,72457323,,,Titulos de Deuda en Peso Argentina,28
+e,ON Pampa Energia C23 (RegS),ON,Pampa Energia,ARS,3.95,41240119,,,Titulos de Deuda en Peso Argentina,36
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,2.98,31112798,,,Certificados de Participacion Argentina,47
+e,Pzo Fi $ Bco Nacion,Plazo fijo,Banco Nacion,ARS,2.88,30068745,,,Operaciones a Plazo en Peso Argentina,84
+e,ON Pan American C33,ON,Pan American,ARS,0.78,8143618,,,Titulos de Deuda en Peso Argentina,36
+e,ON Impsa Clase 7 2036,ON,Impsa,ARS,0.05,522026.8196,,,Titulos de Deuda en Peso Argentina,17
+p,Pionero Infraestructura,Macro,INFRA,27.935,0.3277,4,,,,
+p,Adcap Desarrollo e Infraestructura,Adcap,INFRA,21.1812,0.2661,5,,,,
+p,Chaco FCI Abierto Infraestructura,Chaco,INFRA,20.3037,0.2493,3,,,,
+p,Balanz Infraestructura,Balanz,INFRA,20.162,0.2543,3,,,,
+p,Ciclo Nova Estructurado II,Ciclo Nova,RM y Otros ARS,20.0037,0.2405,3,,,,
+p,Pellegrini Desarrollo Arg. Infraest.,Pellegrini,INFRA,19.7776,0.3851,7,,,,
+p,SBS Tavelli Mix,SBS,T+1,19.6407,0.1991,2,,,,
+p,Tango Money Market,Tango,MM ARS Clásico,19.5403,0.392,2,,,,

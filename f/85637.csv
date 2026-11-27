@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Schroder Patrimonio Dos,,,,,,,,
+m,gerente,Schroder S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,123760974198,,,,,,,,
+m,aum_planilla,123760974198,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85637,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,100.12,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.11,,,,,,,,
+m,top1,27.52,,,,,,,,
+m,top5,81.04,,,,,,,,
+m,top10,98.36,,,,,,,,
+m,hhi_especies,1739.4715,,,,,,,,
+m,n_emisores,8,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,84.17,,,,,,,,
+m,hhi_emisores,7153.2837,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,84.17,6,,,,,,,
+t,Subsoberano,11.33,3,,,,,,,
+t,ON,2.47,1,,,,,,,
+t,FCI,2.04,3,,,,,,,
+c,ARS,97.97,,,,,,,,
+c,sin dato,2.04,,,,,,,,
+r,Disponibilidades,0.11,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,97.97,,,,,,,,
+r,Certificados de Participacion Argentina,2.04,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.12,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,27.52,34059020099,,,Titulos de Deuda en Peso Argentina,103
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,24.76,30643217211,,,Titulos de Deuda en Peso Argentina,250
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,12.46,15420617385,,,Titulos de Deuda en Peso Argentina,75
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,10.03,12413225712,,,Titulos de Deuda en Peso Argentina,56
+e,Bono Entre Rios 9.55% 040333,Subsoberano,Prov. Entre Rios,ARS,6.27,7759813082,,,Titulos de Deuda en Peso Argentina,11
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,5.11,6324185782,,,Titulos de Deuda en Peso Argentina,159
+e,Bono Prov Santa Fe 2027 SF27D,Subsoberano,Prov. Santa Fe,ARS,4.66,5767261398,,,Titulos de Deuda en Peso Argentina,20
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,4.29,5309345793,,,Titulos de Deuda en Peso Argentina,75
+e,ON Pampa Energia C26,ON,Pampa Energia,ARS,2.47,3056896063,,,Titulos de Deuda en Peso Argentina,38
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.79,977711696,,,Certificados de Participacion Argentina,96
+e,FCI Cocos Ahorro - Clase B,FCI,Cocos Ahorro,,0.63,779694137,,,Certificados de Participacion Argentina,3
+e,FCI Balanz Capital Money Market Clase C,FCI,Balanz Capital Money Market,,0.62,767318040,,,Certificados de Participacion Argentina,47
+e,Bono Prov Entre R 2025 ERF25,Subsoberano,Prov. Entre R,ARS,0.4,495043897,,,Titulos de Deuda en Peso Argentina,2
+p,MEGAQM Performance II,MegaQM,MM ARS Clásico,67.4133,0.8725,4,,,,
+p,First Renta Mixta III,First Cap Mkts,RF USD Linked,67.1393,0.8757,4,,,,
+p,Champaquí Estratégico,Bancor,RF USD Linked,64.1419,0.8915,3,,,,
+p,Stonex Renta Fija Proteccion Plus,StoneX,RF USD Linked,61.4275,0.8765,3,,,,
+p,Pionero Renta Ahorro Plus,Macro,RF USD Linked,58.1787,0.8265,3,,,,
+p,BAVSA Cobertura,BAVSA,RF USD Linked,56.6315,0.7557,3,,,,
+p,Dracma Multiestrategia,Dracma,RM y Otros ARS,54.8961,0.8765,4,,,,
+p,Megainver Renta Global,MegaQM,T+1,54.542,0.7878,3,,,,

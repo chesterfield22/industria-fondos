@@ -1,0 +1,101 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MEGAQM FCI Abierto Financiamiento de Infraestructura,,,,,,,,
+m,gerente,MEGA QM S.A.,,,,,,,,
+m,depositaria,Banco de Servicios y Transacciones S.A. (BST),,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,INFRA,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,67219457972,,,,,,,,
+m,aum_planilla,67219457972,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63737,,,,,,,,
+m,n_especies,47,,,,,,,,
+m,activos_pn,99.99,,,,,,,,
+m,pasivos_cnv,0.01,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,11.51,,,,,,,,
+m,top5,41.17,,,,,,,,
+m,top10,61.33,,,,,,,,
+m,hhi_especies,512.3935,,,,,,,,
+m,n_emisores,35,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,19.99,,,,,,,,
+m,hhi_emisores,800.5365,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,61.86,30,,,,,,,
+t,Soberano,19.99,4,,,,,,,
+t,Fideicomiso financiero,7.46,1,,,,,,,
+t,Subsoberano,6.05,1,,,,,,,
+t,FCI,4.63,11,,,,,,,
+c,ARS,87.9,,,,,,,,
+c,sin dato,7.9,,,,,,,,
+c,USD,4.19,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,87.89,,,,,,,,
+r,Certificados de Participacion Argentina,12.09,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.01,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.01,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,11.51,7736959613,,,Titulos de Deuda en Peso Argentina,103
+e,ON Pampa Energia C27,ON,Pampa Energia,ARS,9.17,6164024296,,,Titulos de Deuda en Peso Argentina,32
+e,FF Proyecto VIDA CP,Fideicomiso financiero,Proyecto VIDA CP,,7.46,5014571565,,,Certificados de Participacion Argentina,9
+e,ON YPF Clase 42,ON,YPF,ARS,6.98,4691918166,,,Titulos de Deuda en Peso Argentina,48
+e,Bono Prov Cordoba 2027 COY27,Subsoberano,Prov. Cordoba,ARS,6.05,4066777207,,,Titulos de Deuda en Peso Argentina,28
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,5.15,3461802086,,,Titulos de Deuda en Peso Argentina,75
+e,ON Pan Amer. Energy C 18,ON,Pan Amer. Energy,ARS,4.38,2944212259,,,Titulos de Deuda en Peso Argentina,14
+e,ON GEMSA y CTR C49,ON,GEMSA y CTR,ARS,4.11,2762719723,,,Titulos de Deuda en Peso Argentina,4
+e,ON Epec C1,ON,Epec,ARS,3.5,2352681029,,,Titulos de Deuda en Peso Argentina,14
+e,ON Oldelval Clase 6,ON,Oldelval,ARS,3.02,2030027631,,,Titulos de Deuda en Peso Argentina,41
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,2.89,1942642335,,,Titulos de Deuda en Peso Argentina,250
+e,ON Pan American C33,ON,Pan American,ARS,2.58,1734262016,,,Titulos de Deuda en Peso Argentina,36
+e,ON Oldelval Clase 5,ON,Oldelval,ARS,2.54,1707374232,,,Titulos de Deuda en Peso Argentina,34
+e,ON MSU S12,ON,MSU,ARS,2.42,1626710883,,,Titulos de Deuda en Peso Argentina,2
+e,ON Otamerica S7,ON,Otamerica,ARS,2.21,1485550021,,,Titulos de Deuda en Peso Argentina,23
+e,ON Pan Amer. Energy C 17,ON,Pan Amer. Energy,ARS,2.19,1472106130,,,Titulos de Deuda en Peso Argentina,15
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,2.17,1458662238,,,Certificados de Participacion Argentina,37
+e,ON Pan American C26,ON,Pan American,ARS,2.14,1438496401,,,Titulos de Deuda en Peso Argentina,38
+e,ON Genneia Clase 50,ON,Genneia,ARS,2.01,1351111105,,,Titulos de Deuda en Peso Argentina,19
+e,ON Capex C4,ON,Capex,ARS,1.71,1149452731,,,Titulos de Deuda en Peso Argentina,8
+e,FCI IAM Liquidez en Dólares - Clase B,FCI,IAM Liquidez en Dólares,USD,1.67,1122564948,,,Certificados de Participacion Argentina,13
+e,ON SPI Energy C2,ON,SPI Energy,ARS,1.58,1062067436,,,Titulos de Deuda en Peso Argentina,1
+e,ON GEMSA 19,ON,GEMSA,ARS,1.57,1055345490,,,Titulos de Deuda en Peso Argentina,1
+e,ON Vista Gas y Oil Arg C17,ON,Vista Gas y Oil Arg,ARS,1.47,988126032,,,Titulos de Deuda en Peso Argentina,23
+e,ON Tecpetrol C13,ON,Tecpetrol,ARS,1.2,806633496,,,Titulos de Deuda en Peso Argentina,24
+e,ON Plaza Logistica C6 ZPC6O,ON,Plaza Logistica,ARS,1.13,759579875,,,Titulos de Deuda en Peso Argentina,9
+e,ON YPF Luz Clase 14,ON,YPF Luz,ARS,1.12,752857929,,,Titulos de Deuda en Peso Argentina,8
+e,ON Generacion Litoral C1,ON,Generacion Litoral,ARS,0.96,645306797,,,Titulos de Deuda en Peso Argentina,12
+e,ON Central Puerto Clase F,ON,Central Puerto,ARS,0.93,625140959,,,Titulos de Deuda en Peso Argentina,14
+e,ON YPF Luz Cl10,ON,YPF Luz,ARS,0.91,611697068,,,Titulos de Deuda en Peso Argentina,8
+e,ON Petroqui C Rivadavia PQCOO,ON,Petroqui C Rivadavia PQCOO,ARS,0.53,356263127,,,Titulos de Deuda en Peso Argentina,13
+e,ON Vista Gas y Oil Arg C25,ON,Vista Gas y Oil Arg,ARS,0.45,302487561,,,Titulos de Deuda en Peso Argentina,18
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,0.44,295765615,,,Titulos de Deuda en Peso Argentina,56
+e,ON GEMSA y CTR C50,ON,GEMSA y CTR,ARS,0.43,289043669,,,Titulos de Deuda en Peso Argentina,3
+e,ON 360 Energy Solar C3,ON,360 Energy Solar,ARS,0.3,201658374,,,Titulos de Deuda en Peso Argentina,1
+e,ON YPF C 20,ON,YPF,ARS,0.21,141160862,,,Titulos de Deuda en Peso Argentina,6
+e,FCI IEB Corto Plazo Dólar - Clase B,FCI,IEB Corto Plazo Dólar,USD,0.21,141160862,,,Certificados de Participacion Argentina,12
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.21,141160862,,,Certificados de Participacion Argentina,96
+e,FCI MAF Money Market - Clase B,FCI,MAF Money Market,,0.16,107551133,,,Certificados de Participacion Argentina,39
+e,MAF Cash Dolares I - Clase B,FCI,Cash Dolares I,USD,0.13,87385295,,,Certificados de Participacion Argentina,6
+e,ON Genneia Clase 37,ON,Genneia,ARS,0.06,40331675,,,Titulos de Deuda en Peso Argentina,23
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,0.05,33609729,,,Titulos de Deuda en Peso Argentina,52
+e,FCI Argenfunds Liquidez - Clase B,FCI,Argenfunds Liquidez,,0.02,13443892,,,Certificados de Participacion Argentina,50
+e,FCI BM Smart Money Market - Clase B,FCI,BM Smart Money Market,,0.02,13443892,,,Certificados de Participacion Argentina,34
+e,FCI SBS Ahorro Pesos Cl B,FCI,SBS Ahorro Pesos Cl B,,0.02,13443892,,,Certificados de Participacion Argentina,46
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,0.01,6721946,,,Certificados de Participacion Argentina,37
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,0.01,6721946,,,Certificados de Participacion Argentina,47
+p,Pellegrini Desarrollo Arg. Infraest.,Pellegrini,INFRA,26.2598,0.3958,22,,,,
+p,MEGAQM Cobertura,MegaQM,RF USD Linked,24.9489,0.3769,11,,,,
+p,Pellegrini Proteccion,Pellegrini,RF USD Linked,23.9457,0.4915,9,,,,
+p,GSS Cobertura,Grupo SS,RF USD Linked,23.5623,0.4527,8,,,,
+p,SBS Patrimonio IX,SBS,RF MULT Disc,23.1902,0.4718,7,,,,
+p,Allaria Patrimonio II,Allaria,RF USD Linked,20.7121,0.4776,4,,,,
+p,Super Bonos,Santander,RF USD Linked,20.2831,0.385,10,,,,
+p,Schroder Patrimonio Dos,Schroder,RF MULT Disc,20.202,0.4841,5,,,,

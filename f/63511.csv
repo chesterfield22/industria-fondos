@@ -1,0 +1,113 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Compass Renta Fija III,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,45923201530,,,,,,,,
+m,aum_planilla,45922693082,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63511,,,,,,,,
+m,n_especies,54,,,,,,,,
+m,activos_pn,94.18,,,,,,,,
+m,pasivos_cnv,5.82,,,,,,,,
+m,liquidez,9.11,,,,,,,,
+m,top1,12.48,,,,,,,,
+m,top5,56.41,,,,,,,,
+m,top10,81.97,,,,,,,,
+m,hhi_especies,809.2877,,,,,,,,
+m,n_emisores,14,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,37.34,,,,,,,,
+m,hhi_emisores,1878.3278,,,,,,,,
+m,sin_emisor_pct,3.61,,,,,,,,
+t,ON,42.29,11,,,,,,,
+t,Soberano,37.34,4,,,,,,,
+t,Caución,7.03,1,,,,,,,
+t,Pagaré,2.55,22,,,,,,,
+t,FCI,1.84,2,,,,,,,
+t,Cheque,1.06,13,,,,,,,
+t,Fideicomiso financiero,0.02,1,,,,,,,
+c,ARS,86.66,,,,,,,,
+c,USD,3.61,,,,,,,,
+c,sin dato,1.86,,,,,,,,
+r,Disponibilidades,2.08,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,79.62,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,7.03,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense MEP,3.09,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Linked,0.5,,,,,,,,
+r,Certificados de Participacion Argentina,1.86,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,5.82,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-5.82,,,,,,,,
+e,Bonos Rep Argentina GD38,Soberano,Tesoro Nacional,ARS,12.48,5731215551,,,Titulos de Deuda en Peso Argentina,38
+e,Bonos Rep Argentina GD41,Soberano,Tesoro Nacional,ARS,11.93,5478637943,,,Titulos de Deuda en Peso Argentina,38
+e,ON Pan American C33,ON,Pan American,ARS,11.71,5377606899,,,Titulos de Deuda en Peso Argentina,36
+e,ON Telecom C19 TLCKO,ON,Telecom,ARS,10.71,4918374884,,,Titulos de Deuda en Peso Argentina,30
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,9.58,4399442707,,,Titulos de Deuda en Peso Argentina,250
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,8.82,4050426375,,,Titulos de Deuda en Peso Argentina,42
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,7.03,3228401068,,,Operaciones a Plazo en Peso Argentina,195
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,3.35,1538427251,,,Titulos de Deuda en Peso Argentina,75
+e,ON Capex C10,ON,Capex,ARS,3.29,1510873330,,,Titulos de Deuda en Peso Argentina,17
+e,ON Pampa Energia C13,ON,Pampa Energia,ARS,3.07,1409842287,,,Titulos de Deuda en Peso Argentina,30
+e,ON Telecom C12 TLCDO,ON,Telecom,ARS,1.68,771509786,,,Titulos de Deuda en Peso Argentina,29
+e,ON Telecom C14 TLCFO,ON,Telecom,ARS,1.63,748548185,,,Titulos de Deuda en Peso Argentina,23
+e,FCI Cocos Ahorro - Clase C,FCI,Cocos Ahorro,,1.46,670478742,,,Certificados de Participacion Argentina,32
+e,ON MSU C12,ON,MSU,ARS,0.6,275539209,,,Titulos de Deuda en Peso Argentina,8
+e,Pagare #UMV261160008,Pagaré,,USD,0.5,229616008,,,Titulos de Deuda en Dolar Estadounidense Linked,1
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,0.47,215839047,,,Titulos de Deuda en Peso Argentina,52
+e,FCI Fima Premium - Clase C,FCI,Fima Premium,,0.38,174508166,,,Certificados de Participacion Argentina,3
+e,ON YPF 2029,ON,YPF,ARS,0.16,73477122,,,Titulos de Deuda en Peso Argentina,15
+e,ON Pan Amer. Energy C 12,ON,Pan Amer. Energy,ARS,0.15,68884802,,,Titulos de Deuda en Peso Argentina,34
+e,Pagare #UMV221260003,Pagaré,,USD,0.1,45923202,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV100270022,Pagaré,,USD,0.1,45923202,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV160170001,Pagaré,,USD,0.1,45923202,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV040870002,Pagaré,,USD,0.1,45923202,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV271160012,Pagaré,,USD,0.1,45923202,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV260470002,Pagaré,,USD,0.1,45923202,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV100770013,Pagaré,,USD,0.1,45923202,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV250770008,Pagaré,,USD,0.1,45923202,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV210570003,Pagaré,,USD,0.1,45923202,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV230970003,Pagaré,,USD,0.1,45923202,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV290870001,Pagaré,,USD,0.1,45923202,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV130370004,Cheque,,USD,0.1,45923202,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV150670040,Pagaré,,USD,0.1,45923202,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV010470003,Pagaré,,USD,0.1,45923202,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV070370002,Pagaré,,USD,0.1,45923202,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV300670008,Pagaré,,USD,0.1,45923202,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV050670006,Pagaré,,USD,0.1,45923202,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV190270014,Cheque,,USD,0.1,45923202,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV260180002,Pagaré,,USD,0.09,41330881,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV020570002,Cheque,,USD,0.09,41330881,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV080470017,Cheque,,USD,0.09,41330881,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV181070004,Pagaré,,USD,0.09,41330881,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV010180001,Pagaré,,USD,0.09,41330881,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV071270004,Pagaré,,USD,0.09,41330881,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Pagare #UMV121170003,Pagaré,,USD,0.09,41330881,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV231160002,Cheque,,USD,0.08,36738561,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV220470001,Cheque,,USD,0.08,36738561,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV170570044,Cheque,,USD,0.08,36738561,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV181260006,Cheque,,USD,0.08,36738561,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV280370001,Cheque,,USD,0.08,36738561,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV190970001,Cheque,,USD,0.07,32146241,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV250870007,Cheque,,USD,0.07,32146241,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV310770004,Cheque,,USD,0.07,32146241,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,Cheque #UMV281270001,Cheque,,USD,0.07,32146241,,,Titulos de Deuda en Dolar Estadounidense MEP,1
+e,FF Vicentin Export S8 A,Fideicomiso financiero,Vicentin Export,,0.02,9184640,,,Certificados de Participacion Argentina,13
+p,Optimum Global Balanced,Santander,RM y Otros ARS,35.7321,0.5183,4,,,,
+p,Galileo Premium,Delta,RF USD Linked,34.8835,0.4208,5,,,,
+p,Superfondo Renta Mixta,Santander,RF MULT Disc,32.4999,0.3747,10,,,,
+p,Consultatio Renta Fija Argentina F.C.I.,Consultatio,RF USD Linked,28.8577,0.4007,5,,,,
+p,Pionero Renta Fija Dólares,Macro,RF USD Disc,26.4952,0.4848,2,,,,
+p,Compass Ahorro en Dolares,Investis,RF USD Disc,26.4952,0.4643,2,,,,
+p,Toronto Trust Crecimiento,Investis,RF USD Disc,26.4952,0.423,2,,,,
+p,SBS Retorno Total,SBS,MM ARS Clásico,26.4952,0.3439,2,,,,

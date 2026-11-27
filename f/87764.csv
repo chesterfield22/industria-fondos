@@ -1,0 +1,63 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Consultatio Estrategia IV,,,,,,,,
+m,gerente,Consultatio Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense Billete,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,43907739,,,,,,,,
+m,aum_planilla,43907739,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87764,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,99.51,,,,,,,,
+m,pasivos_cnv,0.49,,,,,,,,
+m,liquidez,1.6,,,,,,,,
+m,top1,17.54,,,,,,,,
+m,top5,60.8,,,,,,,,
+m,top10,87.56,,,,,,,,
+m,hhi_especies,986.284,,,,,,,,
+m,n_emisores,9,,,,,,,,
+m,emisor_top,YPF,,,,,,,,
+m,emisor_top_pct,18.82,,,,,,,,
+m,hhi_emisores,1272.6414,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,97.92,13,,,,,,,
+c,USD,80.38,,,,,,,,
+c,sin dato,17.54,,,,,,,,
+r,Disponibilidades,1.6,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,80.37,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Billete,17.54,,,,,,,,
+r,Certificados de Participacion Argentina,,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.49,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.49,,,,,,,,
+e,ON Banco Nacion Argentina Clase 7,ON,Banco Nacion Argentina,,17.54,7701417,,,Titulos de Deuda en Dolar Estadounidense Billete,17
+e,ON YPF Clase 31,ON,YPF,USD,14.47,6353450,,,Titulos de Deuda en Dolar Estadounidense,48
+e,ON Profertil C3,ON,Profertil,USD,11.64,5110861,,,Titulos de Deuda en Dolar Estadounidense,30
+e,ON YPF Luz C24,ON,YPF Luz,USD,8.98,3942915,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,USD,8.17,3587262,,,Titulos de Deuda en Dolar Estadounidense,58
+e,ON Transp Gas Sur Cl 3,ON,Transp Gas Sur,USD,7.4,3249173,,,Titulos de Deuda en Dolar Estadounidense,43
+e,ON YPF Luz C18 YFCJO,ON,YPF Luz,USD,5.62,2467615,,,Titulos de Deuda en Dolar Estadounidense,41
+e,ON Pampa Energia C27,ON,Pampa Energia,USD,4.64,2037319,,,Titulos de Deuda en Dolar Estadounidense,32
+e,ON Pecom C3,ON,Pecom,USD,4.62,2028538,,,Titulos de Deuda en Dolar Estadounidense,26
+e,ON Pampa Energia C28,ON,Pampa Energia,USD,4.48,1967067,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON YPF C 17,ON,YPF,USD,4.35,1909987,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Tecpetrol C13,ON,Tecpetrol,USD,3.23,1418220,,,Titulos de Deuda en Dolar Estadounidense,24
+e,ON Tecpetrol C12,ON,Tecpetrol,USD,2.78,1220635,,,Titulos de Deuda en Dolar Estadounidense,60
+p,Stonex Estrategia I,StoneX,RF USD Disc,37.7399,0.4785,3,,,,
+p,Balanz Capital Estrategia V USD,Balanz,RF USD corp loc,31.0111,0.3254,7,,,,
+p,Balanz Ahorro en Dólares,Balanz,RF USD corp loc,30.4494,0.4062,9,,,,
+p,MAF Mix II,Mariva,RF USD corp loc,25.6749,0.2599,4,,,,
+p,Consultatio Multimercado III,Consultatio,RF USD corp loc,24.1471,0.3415,7,,,,
+p,Novus Renta Dólar,Novus,RF USD Disc,22.8929,0.3375,4,,,,
+p,Axis Rosental USD Strategic Income,Axis,RM y Otros USD,22.1556,0.3184,7,,,,
+p,Bull Market Ahorro Dólares,Bull Market,RF USD corp loc,21.2222,0.2488,6,,,,

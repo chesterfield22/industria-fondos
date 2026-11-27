@@ -1,0 +1,69 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Tandem Global,,,,,,,,
+m,gerente,Tandem Capital S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,2829250,,,,,,,,
+m,aum_planilla,2829250,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88204,,,,,,,,
+m,n_especies,19,,,,,,,,
+m,activos_pn,91.96,,,,,,,,
+m,pasivos_cnv,8.04,,,,,,,,
+m,liquidez,0.86,,,,,,,,
+m,top1,16.3,,,,,,,,
+m,top5,56.96,,,,,,,,
+m,top10,80.12,,,,,,,,
+m,hhi_especies,860.7786,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,BCRA,,,,,,,,
+m,emisor_top_pct,26.56,,,,,,,,
+m,hhi_emisores,1285.6378,,,,,,,,
+m,sin_emisor_pct,5.62,,,,,,,,
+t,ON,42.62,9,,,,,,,
+t,BCRA,26.56,2,,,,,,,
+t,Soberano,16.3,1,,,,,,,
+t,Pagaré,5.62,7,,,,,,,
+c,USD,91.1,,,,,,,,
+r,Disponibilidades,0.86,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,91.1,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,8.04,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-8.04,,,,,,,,
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,USD,16.3,461167.7777,,,Titulos de Deuda en Dolar Estadounidense,74
+e,Bono Bopreal 2028 Serie 4 Clase B BPOB8,BCRA,BCRA,USD,15.17,429197.2508,,,Titulos de Deuda en Dolar Estadounidense,16
+e,Bono Bopreal 2028 Serie 4 Clase A BPOA8,BCRA,BCRA,USD,11.39,322251.5944,,,Titulos de Deuda en Dolar Estadounidense,6
+e,ON Oldelval Clase 7,ON,Oldelval,USD,7.07,200027.987,,,Titulos de Deuda en Dolar Estadounidense,41
+e,ON YPF Clase 31,ON,YPF,USD,7.03,198896.287,,,Titulos de Deuda en Dolar Estadounidense,48
+e,ON Pluspetrol Clase 5,ON,Pluspetrol,USD,6.33,179091.5358,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON YPF Clase 34,ON,YPF,USD,5.98,169189.1602,,,Titulos de Deuda en Dolar Estadounidense,46
+e,ON Pecom C3,ON,Pecom,USD,3.7,104682.2563,,,Titulos de Deuda en Dolar Estadounidense,26
+e,ON Mirgor Clase 4,ON,Mirgor,USD,3.58,101287.1561,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Mastellone Clase 2,ON,Mastellone,USD,3.57,101004.2311,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON Edenor C11,ON,Edenor,USD,3.57,101004.2311,,,Titulos de Deuda en Dolar Estadounidense,31
+e,ON Luz De Tres Picos C5,ON,Luz De Tres Picos,USD,1.79,50643.578,,,Titulos de Deuda en Dolar Estadounidense,17
+e,Pagare #UMV260270023,Pagaré,,USD,1.03,29141.2768,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV190370010,Pagaré,,USD,1.02,28858.3517,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV300470011,Pagaré,,USD,1.01,28575.4267,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV040370007,Pagaré,,USD,0.73,20653.5262,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV040370008,Pagaré,,USD,0.73,20653.5262,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV170270029,Pagaré,,USD,0.55,15560.8759,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV170270030,Pagaré,,USD,0.55,15560.8759,,,Titulos de Deuda en Dolar Estadounidense,1
+p,Ualintec Renta Dólares,Ualá,RF USD Disc,29.1102,0.442,6,,,,
+p,Tandem Global II,Tandem Capi..,RM y Otros USD,26.41,0.3618,3,,,,
+p,Bull Market Renta Fija Dólar,Bull Market,RF USD Disc,24.4362,0.5284,4,,,,
+p,MEGAQM Gestión Dólares 2,MegaQM,RF USD Disc,23.1167,0.2322,4,,,,
+p,Novus Income Dólares,Novus,RF USD Disc,22.4758,0.4534,2,,,,
+p,Axis S&C Renta Fija Dólar Low Volatility,Axis,RF USD Disc,22.0363,0.4957,7,,,,
+p,Pionero Dólar Dinámico,Macro,RF USD Disc,20.5857,0.4225,2,,,,
+p,Tandem Dólares Retorno Total,Tandem Capi..,RF USD Disc,20.4255,0.2492,4,,,,

@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Adcap Balanceado I,,,,,,,,
+m,gerente,Adcap Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,46702601444,,,,,,,,
+m,aum_planilla,46702601444,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63641,,,,,,,,
+m,n_especies,18,,,,,,,,
+m,activos_pn,97.9,,,,,,,,
+m,pasivos_cnv,2.1,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,15.09,,,,,,,,
+m,top5,57.52,,,,,,,,
+m,top10,75.12,,,,,,,,
+m,hhi_especies,854.5458,,,,,,,,
+m,n_emisores,1,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,57.58,,,,,,,,
+m,hhi_emisores,3315.4564,,,,,,,,
+m,sin_emisor_pct,40.32,,,,,,,,
+t,Soberano,57.58,6,,,,,,,
+t,Pagaré,40.32,12,,,,,,,
+c,ARS,97.9,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,97.9,,,,,,,,
+r,Certificados de Participacion Argentina,,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,2.1,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-2.1,,,,,,,,
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,15.09,7047422558,,,Titulos de Deuda en Peso Argentina,149
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,14.02,6547704723,,,Titulos de Deuda en Peso Argentina,86
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,13.41,6262818854,,,Titulos de Deuda en Peso Argentina,80
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,8.54,3988402163,,,Titulos de Deuda en Peso Argentina,92
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,6.46,3016988053,,,Titulos de Deuda en Peso Argentina,159
+e,Pagare #MAV101260020,Pagaré,,ARS,3.52,1643931571,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV101260021,Pagaré,,ARS,3.52,1643931571,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV101260022,Pagaré,,ARS,3.52,1643931571,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV101260023,Pagaré,,ARS,3.52,1643931571,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV101260024,Pagaré,,ARS,3.52,1643931571,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV101260025,Pagaré,,ARS,3.52,1643931571,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV110270014,Pagaré,,ARS,3.2,1494483246,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV110270015,Pagaré,,ARS,3.2,1494483246,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV110270016,Pagaré,,ARS,3.2,1494483246,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV110270017,Pagaré,,ARS,3.2,1494483246,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV110270018,Pagaré,,ARS,3.2,1494483246,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV110270019,Pagaré,,ARS,3.2,1494483246,,,Titulos de Deuda en Peso Argentina,1
+e,Bono Boncer TX26,Soberano,Tesoro Nacional,ARS,0.06,28021561,,,Titulos de Deuda en Peso Argentina,63
+p,Adcap Gestión Estratégica I,Adcap,RF ARS Disc,52.034,0.7985,5,,,,
+p,Pionero Patrimonio I,Macro,RF ARS Lecap,43.4321,0.8004,3,,,,
+p,Alpha Renta Fija Serie 6,ICBC,T+1,43.4321,0.7154,3,,,,
+p,Champaquí Renta Plus,Bancor,RF ARS Lecap,43.4321,0.665,3,,,,
+p,Alpha Renta Crecimiento,ICBC,T+1,42.7962,0.67,3,,,,
+p,ConoSur Ahorro,Cono Sur,T+1,41.0002,0.6258,3,,,,
+p,Consultatio Renta Nacional,Consultatio,T+1,40.2348,0.7013,5,,,,
+p,Consultatio Ahorro Plus Argentina F.C.I.,Consultatio,RF ARS Lecap,36.333,0.6512,3,,,,

@@ -1,0 +1,71 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Novus Retorno Total,,,,,,,,
+m,gerente,Novus Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,6996435062,,,,,,,,
+m,aum_planilla,6996435062,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86793,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,100.13,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.14,,,,,,,,
+m,top1,30.5,,,,,,,,
+m,top5,83.24,,,,,,,,
+m,top10,94.96,,,,,,,,
+m,hhi_especies,1756.7995,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,74.44,,,,,,,,
+m,hhi_emisores,5690.1469,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,74.44,5,,,,,,,
+t,Subsoberano,10.81,1,,,,,,,
+t,Acción,6.72,5,,,,,,,
+t,Cedear,4.42,2,,,,,,,
+t,ETF,3.49,1,,,,,,,
+t,FCI,0.11,1,,,,,,,
+c,ARS,96.39,,,,,,,,
+c,sin dato,3.6,,,,,,,,
+r,Disponibilidades,0.14,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,85.25,,,,,,,,
+r,Participaciones Accionarias Argentina,11.14,,,,,,,,
+r,Participaciones Accionarias Estados Unidos,3.49,,,,,,,,
+r,Certificados de Participacion Argentina,0.11,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.13,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,30.5,2133912694,,,Titulos de Deuda en Peso Argentina,250
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,20.14,1409082021,,,Titulos de Deuda en Peso Argentina,142
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,ARS,14.81,1036172033,,,Titulos de Deuda en Peso Argentina,72
+e,Letra Prov Bs As PBA27,Subsoberano,Prov. Buenos Aires,ARS,10.81,756314630,,,Titulos de Deuda en Peso Argentina,38
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,6.98,488351167,,,Titulos de Deuda en Peso Argentina,136
+e,Cedear Invesco QQQ,ETF,Cedear Invesco QQQ,,3.49,244175584,,,Participaciones Accionarias Estados Unidos,6
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,2.54,177709451,,,Participaciones Accionarias Argentina,38
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,2.01,140628345,,,Titulos de Deuda en Peso Argentina,74
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,1.88,131532979,,,Participaciones Accionarias Argentina,52
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,1.8,125935831,,,Participaciones Accionarias Argentina,117
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,1.57,109844030,,,Participaciones Accionarias Argentina,129
+e,Edenor S.A.,Acción,Edenor,ARS,1.57,109844030,,,Participaciones Accionarias Argentina,49
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,1.04,72762925,,,Participaciones Accionarias Argentina,104
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,0.74,51773619,,,Participaciones Accionarias Argentina,77
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.11,7696079,,,Certificados de Participacion Argentina,77
+p,Allaria Renta Mixta,Allaria,RM y Otros ARS,56.4301,0.772,3,,,,
+p,MEGAQM Estrategia 7,MegaQM,RF ARS Disc,55.9741,0.6967,3,,,,
+p,Allaria Estrategico,Allaria,RM y Otros ARS,54.7935,0.7812,3,,,,
+p,Novus Gestion,Novus,RF ARS Disc,45.6926,0.7204,3,,,,
+p,Allaria Gestion II,Allaria,RF ARS Disc,44.8101,0.5932,2,,,,
+p,Pampa BAVSA Pesos Plus,BAVSA,RM y Otros ARS,44.4978,0.5916,2,,,,
+p,Galileo Ahorro Plus,Delta,T+1,42.8942,0.7065,3,,,,
+p,BAVSA Renta Balanceado XI,BAVSA,RV ARG Otros,42.156,0.6528,3,,,,

@@ -1,0 +1,73 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Allaria Gestion IV,,,,,,,,
+m,gerente,Allaria Fondos Administrados S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,3414259907,,,,,,,,
+m,aum_planilla,3414259907,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86294,,,,,,,,
+m,n_especies,18,,,,,,,,
+m,activos_pn,120.6,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.05,,,,,,,,
+m,top1,18.1,,,,,,,,
+m,top5,68.8,,,,,,,,
+m,top10,103.11,,,,,,,,
+m,hhi_especies,1323.9431,,,,,,,,
+m,n_emisores,17,,,,,,,,
+m,emisor_top,Megabono,,,,,,,,
+m,emisor_top_pct,20.81,,,,,,,,
+m,hhi_emisores,1536.5791,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,61.96,9,,,,,,,
+t,Fideicomiso financiero,23.66,3,,,,,,,
+t,Soberano,17.94,1,,,,,,,
+t,Cedear,11.83,1,,,,,,,
+t,ETF,5.13,1,,,,,,,
+t,FCI,0.03,3,,,,,,,
+c,ARS,91.73,,,,,,,,
+c,sin dato,28.82,,,,,,,,
+r,Disponibilidades,0.05,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,17.94,,,,,,,,
+r,Participaciones Accionarias Argentina,78.92,,,,,,,,
+r,Certificados de Participacion Argentina,23.69,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),20.6,,,,,,,,
+e,YPF S.A.,Acción,YPF,ARS,18.1,617981043,,,Participaciones Accionarias Argentina,122
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,17.94,612518227,,,Titulos de Deuda en Peso Argentina,146
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,11.83,403906947,,,Participaciones Accionarias Argentina,50
+e,FF Megabono 359 Clase B,Fideicomiso financiero,Megabono,,11.8,402882669,,,Certificados de Participacion Argentina,3
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,9.13,311721929,,,Participaciones Accionarias Argentina,129
+e,FF Megabono 354 Clase B,Fideicomiso financiero,Megabono,,9.01,307624818,,,Certificados de Participacion Argentina,2
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,8.49,289870666,,,Participaciones Accionarias Argentina,117
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,6.5,221926894,,,Participaciones Accionarias Argentina,104
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,5.18,176858663,,,Participaciones Accionarias Argentina,93
+e,Cedear Shares MSCI Brazil ETF,ETF,Cedear Shares MSCI Brazil ETF,,5.13,175151533,,,Participaciones Accionarias Argentina,23
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,4.65,158763086,,,Participaciones Accionarias Argentina,77
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,3.76,128376172,,,Participaciones Accionarias Argentina,104
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,3.57,121889079,,,Participaciones Accionarias Argentina,85
+e,FF Gocreditos Clase B,Fideicomiso financiero,Gocreditos,,2.85,97306407,,,Certificados de Participacion Argentina,3
+e,Transener S.A.,Acción,Transener,ARS,2.58,88087906,,,Participaciones Accionarias Argentina,84
+e,FCI Adcap Ahorro Pesos - Clase C,FCI,Adcap Ahorro Pesos,,0.01,341425.9907,,,Certificados de Participacion Argentina,15
+e,FCI Cocos Ahorro - Clase C,FCI,Cocos Ahorro,,0.01,341425.9907,,,Certificados de Participacion Argentina,32
+e,FCI Schroder Liquidez - Clase B,FCI,Schroder Liquidez,,0.01,341425.9907,,,Certificados de Participacion Argentina,44
+p,Superfondo Acciones,Santander,RV ARG Otros,56.1096,0.6447,10,,,,
+p,Ualintec Renta Variable Pesos,Ualá,RV ARG Rofex 20,55.625,0.6585,10,,,,
+p,1810 Renta Variable Argentina,Proahorro,RV ARG Merval,55.1738,0.6794,10,,,,
+p,FBA Acciones Argentinas,BBVA,RV ARG Merval,52.6977,0.6392,10,,,,
+p,Premier Renta Variable,Supervielle,RV ARG Merval,51.5963,0.6423,10,,,,
+p,ConoSur Visus,Cono Sur,RM y Otros ARS,51.3978,0.6369,9,,,,
+p,Alpha Mega,ICBC,RV ARG Merval,51.3978,0.6159,9,,,,
+p,Balanz Acciones,Balanz,RV ARG Merval,51.3132,0.6106,9,,,,

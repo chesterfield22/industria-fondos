@@ -1,0 +1,96 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Axis Estrategia Dólar 3,,,,,,,,
+m,gerente,Axis S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,3397685,,,,,,,,
+m,aum_planilla,3397685,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87325,,,,,,,,
+m,n_especies,44,,,,,,,,
+m,activos_pn,98.55,,,,,,,,
+m,pasivos_cnv,1.45,,,,,,,,
+m,liquidez,8.65,,,,,,,,
+m,top1,10.19,,,,,,,,
+m,top5,36.01,,,,,,,,
+m,top10,54.08,,,,,,,,
+m,hhi_especies,405.7254,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,10.19,,,,,,,,
+m,hhi_emisores,238.8538,,,,,,,,
+m,sin_emisor_pct,53.92,,,,,,,,
+t,Pagaré,53.92,32,,,,,,,
+t,ON,17.82,9,,,,,,,
+t,Soberano,10.19,1,,,,,,,
+t,FCI,5,1,,,,,,,
+t,BCRA,3.01,1,,,,,,,
+c,USD,89.94,,,,,,,,
+r,Disponibilidades,8.65,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,84.9,,,,,,,,
+r,Certificados de Participacion Argentina,5,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,1.45,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-1.45,,,,,,,,
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,10.19,346224.0556,,,Titulos de Deuda en Dolar Estadounidense,83
+e,Pagare #UMV171160025,Pagaré,,USD,7.34,249390.046,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV131160028,Pagaré,,USD,7.34,249390.046,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV051260189,Pagaré,,USD,6.14,208617.8314,,,Titulos de Deuda en Dolar Estadounidense,1
+e,FCI Megaqm Liquidez Dólar - Clase B,FCI,Megaqm Liquidez Dólar,USD,5,169884.2275,,,Certificados de Participacion Argentina,20
+e,ON YPF Clase 31,ON,YPF,USD,4.75,161390.0161,,,Titulos de Deuda en Dolar Estadounidense,48
+e,ON YPF Clase 43,ON,YPF,USD,4.43,150517.4256,,,Titulos de Deuda en Dolar Estadounidense,34
+e,Bono Bopreal 2027 Serie 1 Clase D BPOD7,BCRA,BCRA,USD,3.01,102270.305,,,Titulos de Deuda en Dolar Estadounidense,22
+e,Pagare #UMV051160172,Pagaré,,USD,2.94,99891.9258,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV101160054,Pagaré,,USD,2.94,99891.9258,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV041160056,Pagaré,,USD,2.94,99891.9258,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UFI310170001,Pagaré,,USD,2.9,98532.8519,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV180170049,Pagaré,,USD,2.89,98193.0835,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV250170088,Pagaré,,USD,2.89,98193.0835,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV101260080,Pagaré,,USD,1.79,60818.5534,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Pluspetrol 8.5% 2032 (REGS),ON,Pluspetrol,USD,1.6,54362.9528,,,Titulos de Deuda en Dolar Estadounidense,34
+e,Pagare #UMV161160083,Pagaré,,USD,1.59,54023.1843,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV161160082,Pagaré,,USD,1.59,54023.1843,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV161160081,Pagaré,,USD,1.59,54023.1843,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Pluspetrol Clase 5,ON,Pluspetrol,USD,1.59,54023.1843,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON Irsa 2035,ON,Irsa,USD,1.52,51644.8052,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Vaca Muerta C1,ON,Vaca Muerta,USD,1.47,49945.9629,,,Titulos de Deuda en Dolar Estadounidense,45
+e,Pagare #UMV141260022,Pagaré,,USD,1.46,49606.1944,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV170270039,Pagaré,,USD,1.44,48926.6575,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Pan American C35,ON,Pan American,USD,0.93,31598.4663,,,Titulos de Deuda en Dolar Estadounidense,23
+e,ON Telecom 9.5% 2031,ON,Telecom,USD,0.8,27181.4764,,,Titulos de Deuda en Dolar Estadounidense,38
+e,Pagare #UMV160270040,Pagaré,,USD,0.75,25482.6341,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV170370022,Pagaré,,USD,0.74,25142.8657,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON John Deere Cia. Fin C20,ON,John Deere Cia. Fin,USD,0.73,24803.0972,,,Titulos de Deuda en Dolar Estadounidense,19
+e,Pagare #UMV130670001,Pagaré,,USD,0.33,11212.359,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV140570007,Pagaré,,USD,0.33,11212.359,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV130770027,Pagaré,,USD,0.33,11212.359,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV120870007,Pagaré,,USD,0.32,10872.5906,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV110970002,Pagaré,,USD,0.32,10872.5906,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV111070002,Pagaré,,USD,0.32,10872.5906,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV080280019,Pagaré,,USD,0.31,10532.8221,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV101270020,Pagaré,,USD,0.31,10532.8221,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV090180001,Pagaré,,USD,0.31,10532.8221,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV101170037,Pagaré,,USD,0.31,10532.8221,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV190370017,Pagaré,,USD,0.3,10193.0536,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV210170059,Pagaré,,USD,0.3,10193.0536,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV220270027,Pagaré,,USD,0.3,10193.0536,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV140470015,Pagaré,,USD,0.28,9513.5167,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV150370074,Pagaré,,USD,0.28,9513.5167,,,Titulos de Deuda en Dolar Estadounidense,1
+p,SBS Renta Dólar Argentina,SBS,RF USD corp loc,18.911,0.4461,5,,,,
+p,Mills Renta Fija Dólares,Mills Capital,RF USD Disc,18.3648,0.2984,5,,,,
+p,Premier Renta Mixta en Dólares,Supervielle,RF USD corp loc,17.6451,0.2752,3,,,,
+p,1822 Raices Gestion,Provinfondos,RM y Otros ARS,16.3549,0.2787,3,,,,
+p,CMA Renta Dólar,Capital Mark..,RF USD GL Inc ARG,15.875,0.3033,6,,,,
+p,Fundcorp Performance Plus,CMF,RF USD Disc,15.7661,0.3023,4,,,,
+p,Superfondo Renta Fija Dólares,Santander,RF USD GL Inc ARG,15.6466,0.3219,3,,,,
+p,Alpha Renta Fija Corporativa Dólar,ICBC,RF USD corp loc,15.6426,0.3695,4,,,,

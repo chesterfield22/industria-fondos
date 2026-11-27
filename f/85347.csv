@@ -1,0 +1,70 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pellegrini Renta Fija III,,,,,,,,
+m,gerente,Pellegrini S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de La Nacion Argentina,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,90379041847,,,,,,,,
+m,aum_planilla,90379041847,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85347,,,,,,,,
+m,n_especies,20,,,,,,,,
+m,activos_pn,100.16,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,10.66,,,,,,,,
+m,top5,46.24,,,,,,,,
+m,top10,75.37,,,,,,,,
+m,hhi_especies,690.127,,,,,,,,
+m,n_emisores,4,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,98.65,,,,,,,,
+m,hhi_emisores,9733.1742,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,98.65,17,,,,,,,
+t,FCI,1.53,3,,,,,,,
+c,ARS,98.65,,,,,,,,
+c,sin dato,1.53,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,98.63,,,,,,,,
+r,Certificados de Participacion Argentina,1.53,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.16,,,,,,,,
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,10.66,9634405861,,,Titulos de Deuda en Peso Argentina,160
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,9.22,8332947658,,,Titulos de Deuda en Peso Argentina,166
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,9.06,8188341191,,,Titulos de Deuda en Peso Argentina,61
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,8.82,7971431491,,,Titulos de Deuda en Peso Argentina,165
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,8.48,7664142749,,,Titulos de Deuda en Peso Argentina,112
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,7.52,6796503947,,,Titulos de Deuda en Peso Argentina,136
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,7.4,6688049097,,,Titulos de Deuda en Peso Argentina,67
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,5.02,4537027901,,,Titulos de Deuda en Peso Argentina,146
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,4.87,4401459338,,,Titulos de Deuda en Peso Argentina,250
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,4.32,3904374608,,,Titulos de Deuda en Peso Argentina,92
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,4.06,3669389099,,,Titulos de Deuda en Peso Argentina,61
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,3.93,3551896345,,,Titulos de Deuda en Peso Argentina,158
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,3.74,3380176165,,,Titulos de Deuda en Peso Argentina,51
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,3.17,2865015627,,,Titulos de Deuda en Peso Argentina,66
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,2.91,2630030118,,,Titulos de Deuda en Peso Argentina,118
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,2.91,2630030118,,,Titulos de Deuda en Peso Argentina,64
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,2.56,2313703471,,,Titulos de Deuda en Peso Argentina,149
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,1.08,976093652,,,Certificados de Participacion Argentina,96
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.43,388629880,,,Certificados de Participacion Argentina,93
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,0.02,18075808,,,Certificados de Participacion Argentina,47
+p,Valiant Renta Fija,Valiant,T+1,51.0311,0.6537,8,,,,
+p,CMA Estrategia Pesos,Capital Mark..,RF MULT Disc,48.8915,0.5885,10,,,,
+p,Galileo Multimercado VII,Delta,RF ARS Disc,48.8568,0.5932,9,,,,
+p,Bull Market Ahorro Balanceado II,Bull Market,RF MULT Disc,44.9391,0.5811,7,,,,
+p,Balanz Performance XI,Balanz,RF ARS Disc,44.3468,0.5075,10,,,,
+p,Pellegrini Renta Fija II,Pellegrini,T+1,44.175,0.545,12,,,,
+p,Toronto Trust Retorno Total,Investis,RF ARS CER,43.5393,0.5814,8,,,,
+p,Fima Ahorro Plus,Galicia,T+1,43.0194,0.4979,9,,,,

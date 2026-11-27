@@ -1,0 +1,68 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Toronto Trust Gestión,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Credito y Securitizacion S.A. (BACS),,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,10578794663,,,,,,,,
+m,aum_planilla,10578794663,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85720,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,100.07,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,18.44,,,,,,,,
+m,top1,27.03,,,,,,,,
+m,top5,83.3,,,,,,,,
+m,top10,96.89,,,,,,,,
+m,hhi_especies,1701.2417,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,65.44,,,,,,,,
+m,hhi_emisores,4658.3139,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,65.44,4,,,,,,,
+t,Caución,17.02,1,,,,,,,
+t,ON,12.51,3,,,,,,,
+t,Acción,1.64,4,,,,,,,
+t,FCI,0.46,1,,,,,,,
+c,ARS,96.61,,,,,,,,
+c,sin dato,0.46,,,,,,,,
+r,Disponibilidades,1.42,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,77.96,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,17.02,,,,,,,,
+r,Participaciones Accionarias Argentina,1.64,,,,,,,,
+r,Certificados de Participacion Argentina,0.46,,,,,,,,
+r,Otros Activos,1.57,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.07,,,,,,,,
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,27.03,2859448198,,,Titulos de Deuda en Peso Argentina,92
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,20.9,2210968085,,,Titulos de Deuda en Peso Argentina,159
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,17.02,1800510852,,,Operaciones a Plazo en Peso Argentina,73
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,10.27,1086442212,,,Titulos de Deuda en Peso Argentina,84
+e,ON CNH Arg. C10,ON,CNH Arg,ARS,8.08,854766609,,,Titulos de Deuda en Peso Argentina,13
+e,Bono Boncer TX26,Soberano,Tesoro Nacional,ARS,7.24,765904734,,,Titulos de Deuda en Peso Argentina,63
+e,ON CGC C 39,ON,CGC,ARS,4.42,467582724,,,Titulos de Deuda en Peso Argentina,34
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,0.97,102614308,,,Participaciones Accionarias Argentina,129
+e,Telecom Argentina S.A.,Acción,Telecom Argentina,ARS,0.5,52893973,,,Participaciones Accionarias Argentina,43
+e,FCI SBS Ahorro Pesos Cl B,FCI,SBS Ahorro Pesos Cl B,,0.46,48662455,,,Certificados de Participacion Argentina,46
+e,Cresud S.A.,Acción,Cresud,ARS,0.09,9520915,,,Participaciones Accionarias Argentina,38
+e,GCDI S.A.,Acción,GCDI,ARS,0.08,8463036,,,Participaciones Accionarias Argentina,1
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,0.01,1057879,,,Titulos de Deuda en Peso Argentina,42
+p,Consultatio Multimercado VII,Consultatio,RF ARS Disc,54.1871,0.6744,3,,,,
+p,Consultatio Multimercado VIII,Consultatio,RF ARS Disc,53.9713,0.6688,3,,,,
+p,Consultatio Multimercado VI,Consultatio,RF ARS Disc,48.7538,0.6442,3,,,,
+p,Consultatio Estrategia,Consultatio,RF MULT Disc,47.62,0.5749,2,,,,
+p,Adcap Gestion Estrategica VI,Adcap,RM y Otros ARS,45.1436,0.565,2,,,,
+p,Schroder Corto Plazo,Schroder,RF MULT Disc,43.6671,0.4984,2,,,,
+p,Adcap Gestion Estrategica VIII,Adcap,RF ARS Disc,43.5982,0.5745,2,,,,
+p,Lombard Abierto Plus,Patagonia,RF ARS CER,41.4406,0.5622,3,,,,

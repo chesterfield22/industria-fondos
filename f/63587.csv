@@ -1,0 +1,88 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MAF Renta,,,,,,,,
+m,gerente,Mariva Asset Management S.A.U.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Mariva S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,13975437518,,,,,,,,
+m,aum_planilla,13975438142,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63587,,,,,,,,
+m,n_especies,31,,,,,,,,
+m,activos_pn,100.04,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,10.97,,,,,,,,
+m,top5,41.61,,,,,,,,
+m,top10,70.99,,,,,,,,
+m,hhi_especies,604.6308,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,68.24,,,,,,,,
+m,hhi_emisores,4759.5958,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,68.24,14,,,,,,,
+t,ON,15.86,9,,,,,,,
+t,Acción,8.32,3,,,,,,,
+t,Subsoberano,3.62,2,,,,,,,
+t,FCI,2.48,1,,,,,,,
+t,Cedear,1.52,2,,,,,,,
+c,ARS,92.75,,,,,,,,
+c,USD,4.81,,,,,,,,
+c,sin dato,2.48,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,82.9,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,4.81,,,,,,,,
+r,Participaciones Accionarias Argentina,9.84,,,,,,,,
+r,Certificados de Participacion Argentina,2.48,,,,,,,,
+r,Otros Activos,0.01,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.04,,,,,,,,
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,10.97,1533105496,,,Titulos de Deuda en Peso Argentina,160
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,9.97,1393351121,,,Titulos de Deuda en Peso Argentina,112
+e,Bonos Rep Argentina GD41,Soberano,Tesoro Nacional,ARS,7.3,1020206939,,,Titulos de Deuda en Peso Argentina,38
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,6.8,950329751,,,Titulos de Deuda en Peso Argentina,51
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,6.57,918186245,,,Titulos de Deuda en Peso Argentina,128
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,6.52,911198526,,,Titulos de Deuda en Peso Argentina,158
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,6.16,860886951,,,Titulos de Deuda en Peso Argentina,66
+e,Bonos Rep Argentina GD35,Soberano,Tesoro Nacional,ARS,5.61,784022045,,,Titulos de Deuda en Peso Argentina,54
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,5.58,779829413,,,Participaciones Accionarias Argentina,129
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,5.51,770046607,,,Titulos de Deuda en Peso Argentina,75
+e,ON Tarj Naranja C66 S1,ON,Tarj Naranja,ARS,3.8,531066626,,,Titulos de Deuda en Peso Argentina,17
+e,ON CGC C 39,ON,CGC,ARS,3.38,472369788,,,Titulos de Deuda en Peso Argentina,34
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,3.05,426250844,,,Titulos de Deuda en Peso Argentina,42
+e,FCI Schroder Liquidez - Clase B,FCI,Schroder Liquidez,,2.48,346590850,,,Certificados de Participacion Argentina,44
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,2.46,343795763,,,Participaciones Accionarias Argentina,93
+e,ON Edenor C11,ON,Edenor,USD,2.21,308857169,,,Titulos de Deuda en Dolar Estadounidense,31
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,2.2,307459625,,,Titulos de Deuda en Peso Argentina,166
+e,Bono Prov Cordoba 030235,Subsoberano,Prov. Cordoba,ARS,1.98,276713663,,,Titulos de Deuda en Peso Argentina,29
+e,Bono Prov Cordoba 2032,Subsoberano,Prov. Cordoba,ARS,1.64,229197175,,,Titulos de Deuda en Peso Argentina,16
+e,ON Central Dock Sud C1,ON,Central Dock Sud,USD,1.42,198451213,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Pan American C33,ON,Pan American,ARS,1.09,152332269,,,Titulos de Deuda en Peso Argentina,36
+e,Cedear Micron Technology,Cedear,Micron Technology,ARS,0.88,122983850,,,Participaciones Accionarias Argentina,11
+e,Cedear Microsoft,Cedear,Microsoft,ARS,0.64,89442800,,,Participaciones Accionarias Argentina,14
+e,ON Edesa Clase 4,ON,Edesa,USD,0.58,81057538,,,Titulos de Deuda en Dolar Estadounidense,10
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,USD,0.41,57299294,,,Titulos de Deuda en Dolar Estadounidense,72
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,0.28,39131225,,,Participaciones Accionarias Argentina,104
+e,ON Vista Gas y Oil Arg C19,ON,Vista Gas y Oil Arg,ARS,0.21,29348419,,,Titulos de Deuda en Peso Argentina,8
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,USD,0.19,26553331,,,Titulos de Deuda en Dolar Estadounidense,74
+e,ON Pan American C26,ON,Pan American,ARS,0.12,16770525,,,Titulos de Deuda en Peso Argentina,38
+e,Bonos Rep Argentina GD38,Soberano,Tesoro Nacional,ARS,0.02,2795088,,,Titulos de Deuda en Peso Argentina,38
+e,Bonos Rep Argentina GD30,Soberano,Tesoro Nacional,ARS,0.01,1397544,,,Titulos de Deuda en Peso Argentina,37
+p,MAF Renta Balanceada 2,Mariva,RM y Otros ARS,34.3876,0.3745,6,,,,
+p,Pellegrini Renta Fija III,Pellegrini,T+1,32.1253,0.4526,6,,,,
+p,Schroder Renta Global Dos,Schroder,RF MULT Disc,30.5466,0.4671,8,,,,
+p,Alpha Renta Fija Serie 7,ICBC,RF ARS Disc,29.8481,0.4977,4,,,,
+p,Balanz Performance XI,Balanz,RF ARS Disc,29.6612,0.4065,6,,,,
+p,Gainvest Renta Fija,StoneX,T+1,29.6481,0.4259,4,,,,
+p,MAF Renta Balanceada,Mariva,RM y Otros ARS,29.1348,0.3275,8,,,,
+p,Argenfunds Ahorro Pesos,Argenfunds,T+1,29.1108,0.3642,4,,,,

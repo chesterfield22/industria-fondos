@@ -1,0 +1,72 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MEGAQM Cobertura,,,,,,,,
+m,gerente,MEGA QM S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,25341521156,,,,,,,,
+m,aum_planilla,25341521156,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63628,,,,,,,,
+m,n_especies,20,,,,,,,,
+m,activos_pn,100.01,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.08,,,,,,,,
+m,top1,28.85,,,,,,,,
+m,top5,72.14,,,,,,,,
+m,top10,93.99,,,,,,,,
+m,hhi_especies,1437.1477,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,66.1,,,,,,,,
+m,hhi_emisores,4584.2061,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,66.1,5,,,,,,,
+t,FCI,20.21,7,,,,,,,
+t,ON,13.62,8,,,,,,,
+c,ARS,79.72,,,,,,,,
+c,USD,18.61,,,,,,,,
+c,sin dato,1.6,,,,,,,,
+r,Disponibilidades,0.08,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,79.72,,,,,,,,
+r,Certificados de Participacion Argentina,20.21,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.01,,,,,,,,
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,28.85,7311028854,,,Titulos de Deuda en Peso Argentina,75
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,15.27,3869650281,,,Titulos de Deuda en Peso Argentina,142
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,10.36,2625381592,,,Titulos de Deuda en Peso Argentina,103
+e,ON GEMSA y CTR C49,ON,GEMSA y CTR,ARS,9.28,2351693163,,,Titulos de Deuda en Peso Argentina,4
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,8.38,2123619473,,,Certificados de Participacion Argentina,37
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,5.85,1482478988,,,Titulos de Deuda en Peso Argentina,56
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,5.77,1462205771,,,Titulos de Deuda en Peso Argentina,112
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,3.99,1011126694,,,Certificados de Participacion Argentina,37
+e,MAF Cash Dolares I - Clase B,FCI,Cash Dolares I,USD,3.27,828667742,,,Certificados de Participacion Argentina,6
+e,FCI IAM Liquidez en Dólares - Clase B,FCI,IAM Liquidez en Dólares,USD,2.97,752643178,,,Certificados de Participacion Argentina,13
+e,ON Futuros y Opciones.com S4 CB,ON,Futuros y Opciones.com,ARS,1.26,319303167,,,Titulos de Deuda en Peso Argentina,7
+e,ON GEMSA y CTR C50,ON,GEMSA y CTR,ARS,0.98,248346907,,,Titulos de Deuda en Peso Argentina,3
+e,FCI Balanz Capital Money Market Clase C,FCI,Balanz Capital Money Market,,0.95,240744451,,,Certificados de Participacion Argentina,47
+e,ON Red Surcos S9 Clase A,ON,Red Surcos,ARS,0.83,210334626,,,Titulos de Deuda en Peso Argentina,9
+e,ON GEMSA 17,ON,GEMSA,ARS,0.7,177390648,,,Titulos de Deuda en Peso Argentina,6
+e,FCI MAF Money Market - Clase B,FCI,MAF Money Market,,0.45,114036845,,,Certificados de Participacion Argentina,39
+e,ON YPF Luz Cl10,ON,YPF Luz,ARS,0.31,78558716,,,Titulos de Deuda en Peso Argentina,8
+e,ON TGLT Clase 16,ON,TGLT,ARS,0.25,63353803,,,Titulos de Deuda en Peso Argentina,14
+e,FCI Cocos Ahorro - Clase C,FCI,Cocos Ahorro,,0.2,50683042,,,Certificados de Participacion Argentina,32
+e,ON Nexo Emprend. CL C,ON,Nexo Emprend. CL C,ARS,0.01,2534152,,,Titulos de Deuda en Peso Argentina,1
+p,Pionero Renta Ahorro Plus,Macro,RF USD Linked,47.7023,0.7174,3,,,,
+p,Pionero Desarrollo,Macro,RF MULT Disc,46.3563,0.7209,3,,,,
+p,Max Cobertura,Max Capital,RF USD Linked,45.1717,0.6897,4,,,,
+p,Max Retorno Total Pesos III,Max Capital,RF MULT Disc,41.2171,0.6391,4,,,,
+p,Megainver Renta Global,MegaQM,T+1,39.6379,0.6552,3,,,,
+p,Allaria Agro,Allaria,RF MULT Disc,39.2487,0.5945,3,,,,
+p,Pionero Soja,Macro,RM y Otros ARS,39.2375,0.7225,2,,,,
+p,First Renta Mixta VI,First Cap Mkts,RF MULT Disc,39.2375,0.6881,2,,,,

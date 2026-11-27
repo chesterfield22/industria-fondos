@@ -1,0 +1,89 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Delta Ahorro Dolares,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD CP,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense Billete,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5698535,,,,,,,,
+m,aum_planilla,5698535,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86322,,,,,,,,
+m,n_especies,36,,,,,,,,
+m,activos_pn,100.34,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,10.09,,,,,,,,
+m,top1,9.74,,,,,,,,
+m,top5,36,,,,,,,,
+m,top10,54.89,,,,,,,,
+m,hhi_especies,407.4757,,,,,,,,
+m,n_emisores,29,,,,,,,,
+m,emisor_top,Banco Nacion,,,,,,,,
+m,emisor_top_pct,9.74,,,,,,,,
+m,hhi_emisores,449.7707,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,73.44,32,,,,,,,
+t,Plazo fijo,12.29,3,,,,,,,
+t,FCI,4.52,1,,,,,,,
+c,USD,75.89,,,,,,,,
+c,sin dato,14.36,,,,,,,,
+r,Disponibilidades,10.09,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,59.09,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,12.29,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Cable,14.35,,,,,,,,
+r,Certificados de Participacion Argentina,4.52,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.34,,,,,,,,
+e,Pzo Fi U$S Bco Nacion,Plazo fijo,Banco Nacion,USD,9.74,555037.273,,,Operaciones a Plazo en Dolar Estadounidense,40
+e,ON Vista Energy 32,ON,Vista Energy,,8.42,479816.6158,,,Titulos de Deuda en Dolar Estadounidense Cable,6
+e,ON Profertil C3,ON,Profertil,USD,6.24,355588.5609,,,Titulos de Deuda en Dolar Estadounidense,30
+e,ON YPF Clase 32,ON,YPF,USD,6.12,348750.3194,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON Oldelval Clase 5,ON,Oldelval,USD,5.48,312279.6977,,,Titulos de Deuda en Dolar Estadounidense,34
+e,FCI Allaria Dólar Ahorro - Clase B,FCI,Allaria Dólar Ahorro,USD,4.52,257573.7653,,,Certificados de Participacion Argentina,37
+e,ON Pan American C37,ON,Pan American,USD,4.09,233070.0664,,,Titulos de Deuda en Dolar Estadounidense,18
+e,ON AES Argentina Gen 060828,ON,AES Argentina Gen,USD,3.61,205717.1001,,,Titulos de Deuda en Dolar Estadounidense,24
+e,ON Telecom C28,ON,Telecom,USD,3.59,204577.3932,,,Titulos de Deuda en Dolar Estadounidense,21
+e,ON Tecpetrol C12,ON,Tecpetrol,,3.08,175514.8666,,,Titulos de Deuda en Dolar Estadounidense Cable,60
+e,ON Banco Macro Clase G,ON,Banco Macro,,2.86,162978.0904,,,Titulos de Deuda en Dolar Estadounidense Cable,32
+e,ON Arcor Clase 26,ON,Arcor,USD,2.68,152720.7281,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Banco Mariva S3 060727,ON,Banco Mariva,USD,2.63,149871.4608,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Loma Negra C7,ON,Loma Negra,USD,2.12,120808.9342,,,Titulos de Deuda en Dolar Estadounidense,30
+e,Pzo Fi U$S Bco Galicia,Plazo fijo,Banco Galicia,USD,2.02,115110.3995,,,Operaciones a Plazo en Dolar Estadounidense,20
+e,ON YPF Clase 38,ON,YPF,USD,1.83,104283.1837,,,Titulos de Deuda en Dolar Estadounidense,26
+e,ON Pampa Energia C22,ON,Pampa Energia,USD,1.83,104283.1837,,,Titulos de Deuda en Dolar Estadounidense,18
+e,ON Otamerica S6,ON,Otamerica,USD,1.81,103143.4768,,,Titulos de Deuda en Dolar Estadounidense,16
+e,ON BBVA Frances Cl 44,ON,BBVA Frances,USD,1.8,102573.6233,,,Titulos de Deuda en Dolar Estadounidense,24
+e,ON BBVA Frances Cl 49,ON,BBVA Frances,USD,1.76,100294.2095,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Pampa Energia C29,ON,Pampa Energia,USD,1.75,99724.356,,,Titulos de Deuda en Dolar Estadounidense,28
+e,ON Central Puerto Clase F,ON,Central Puerto,USD,1.4,79779.4848,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON Banco Hipotecario C16,ON,Banco Hipotecario,USD,1.39,79209.6314,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Tarj Naranja C67 S2,ON,Tarj Naranja,USD,1.33,75790.5106,,,Titulos de Deuda en Dolar Estadounidense,22
+e,ON Irsa Clase 25,ON,Irsa,USD,1.25,71231.6829,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON Aluar Serie 7,ON,Aluar,USD,1.2,68382.4156,,,Titulos de Deuda en Dolar Estadounidense,15
+e,ON PCR Clase R,ON,PCR,USD,0.9,51286.8117,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Banco Comafi C21,ON,Banco Comafi,USD,0.88,50147.1047,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON Banco Nacion Argentina Clase 7,ON,Banco Nacion Argentina,USD,0.87,49577.2513,,,Titulos de Deuda en Dolar Estadounidense,17
+e,ON Telecom C29,ON,Telecom,USD,0.71,40459.5959,,,Titulos de Deuda en Dolar Estadounidense,7
+e,Pzo Fi U$S Bco Patagonia,Plazo fijo,Banco Patagonia,USD,0.53,30202.2335,,,Operaciones a Plazo en Dolar Estadounidense,23
+e,ON Banco Comafi C26,ON,Banco Comafi,USD,0.53,30202.2335,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON Bco CMF Serie 20,ON,Banco CMF,USD,0.36,20514.7247,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Banco de Galicia 30 BYCWO,ON,Banco de Galicia,USD,0.36,20514.7247,,,Titulos de Deuda en Dolar Estadounidense,11
+e,ON Banco Hipotecario C15,ON,Banco Hipotecario,USD,0.35,19944.8712,,,Titulos de Deuda en Dolar Estadounidense,18
+e,ON Banco de Galicia 33 BYZ1O,ON,Banco de Galicia,USD,0.21,11966.9227,,,Titulos de Deuda en Dolar Estadounidense,19
+p,MEGAQM Corporativo Dólares,MegaQM,RF USD corp loc,24.7542,0.3059,15,,,,
+p,Fima Renta Fija Dólares,Galicia,RF USD corp loc,24.183,0.3848,23,,,,
+p,Balanz Capital Estrategia I USD,Balanz,RF USD CP,23.1614,0.3291,18,,,,
+p,Toronto Trust Renta Dólar,Investis,RF USD corp loc,19.867,0.2317,18,,,,
+p,FBA Renta Fija Dólar I,BBVA,RF USD GL Inc ARG,19.7247,0.2388,11,,,,
+p,1810 Renta Dólar,Proahorro,RF USD corp loc,19.5955,0.2646,15,,,,
+p,Chaco FCI Renta Fija Dólares,Chaco,RF USD corp loc,18.8952,0.1695,14,,,,
+p,Schroder Retorno Total Cuatro,Schroder,RF USD CP,18.7749,0.1746,7,,,,

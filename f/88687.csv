@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Vinci Compass Renta Mixta Dólares IV,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Inc ARG,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,7189092,,,,,,,,
+m,aum_planilla,11110742072,,,,,,,,
+m,dif_pn_aum,-0.9994,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,"El patrimonio de la CNV difiere -99,9% del AUM de la planilla diaria del mismo día.",,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88687,,,,,,,,
+m,n_especies,16,,,,,,,,
+m,activos_pn,107.94,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,6.25,,,,,,,,
+m,top1,12.83,,,,,,,,
+m,top5,51.14,,,,,,,,
+m,top10,83.55,,,,,,,,
+m,hhi_especies,813.0767,,,,,,,,
+m,n_emisores,16,,,,,,,,
+m,emisor_top,Latam Airlines,,,,,,,,
+m,emisor_top_pct,12.83,,,,,,,,
+m,hhi_emisores,813.0767,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Corporativo exterior,73.21,12,,,,,,,
+t,Otro título de deuda,15.85,2,,,,,,,
+t,ON,12.63,2,,,,,,,
+c,USD,101.69,,,,,,,,
+r,Disponibilidades,6.25,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,101.69,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),7.94,,,,,,,,
+e,Latam Airlines 2031,Otro título de deuda,Latam Airlines,USD,12.83,922360.5357,,,Titulos de Deuda en Dolar Estadounidense,4
+e,BC Samarco 9% 2031,Corporativo exterior,Samarco,USD,11.08,796551.4213,,,Titulos de Deuda en Dolar Estadounidense,5
+e,BC CAP 3.9%,Corporativo exterior,CAP,USD,10.32,741914.3202,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BC Nova Securitisation 5.75% 030231,Corporativo exterior,Nova Securitisation,USD,9.3,668585.5793,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BC Nutresa 120535,Corporativo exterior,Nutresa,USD,7.61,547089.9202,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BC Yinson Production,Corporativo exterior,Yinson Production,USD,7.34,527679.3711,,,Titulos de Deuda en Dolar Estadounidense,4
+e,BC Pretorio 6.75% 101530,Corporativo exterior,Pretorio,USD,6.84,491733.9099,,,Titulos de Deuda en Dolar Estadounidense,5
+e,ON CGC C 38,ON,CGC,USD,6.57,472323.3608,,,Titulos de Deuda en Dolar Estadounidense,21
+e,ON Edemsa C8,ON,Edemsa,USD,6.06,435658.9903,,,Titulos de Deuda en Dolar Estadounidense,8
+e,BC Compañia Minera Volcan S2,Corporativo exterior,Compañia Minera Volcan,USD,5.6,402589.166,,,Titulos de Deuda en Dolar Estadounidense,4
+e,BC Rede 6.45% 090935,Corporativo exterior,Rede,USD,5.35,384616.4354,,,Titulos de Deuda en Dolar Estadounidense,2
+e,Ecopetrol 8.875% 2033,Otro título de deuda,Ecopetrol,USD,3.02,217110.586,,,Titulos de Deuda en Dolar Estadounidense,4
+e,BC Bco de Crédito 7.5%,Corporativo exterior,Banco de Crédito,USD,2.87,206326.9476,,,Titulos de Deuda en Dolar Estadounidense,3
+e,BC Aesdom 7.75% 030833,Corporativo exterior,Aesdom,USD,2.83,203451.3107,,,Titulos de Deuda en Dolar Estadounidense,3
+e,BC BRF 2030,Corporativo exterior,BRF,USD,2.59,186197.4893,,,Titulos de Deuda en Dolar Estadounidense,5
+e,BC BCICI 8.75% Perp,Corporativo exterior,BCICI,USD,1.48,106398.5653,,,Titulos de Deuda en Dolar Estadounidense,5
+p,Compass Renta Mixta Dólares,Investis,RF USD GL Inc ARG,24.5127,0.4846,14,,,,
+p,Galileo Event Driven,Delta,RF USD GL Inc ARG,13.0247,0.1869,7,,,,
+p,Galileo Fixed Income,Delta,RF USD GL Inc ARG,10.3142,0.1586,4,,,,
+p,Compass Best Ideas,Investis,RF USD corp loc,7.9082,0.0818,2,,,,
+p,Bull Market Renta Fija,Bull Market,RM y Otros ARS,6.4608,0.0545,1,,,,
+p,Compass Renta Mixta Dólares III,Investis,RM y Otros USD,4.228,0.081,2,,,,
+p,Consultatio Infraestructura,Consultatio,INFRA,3.6833,0.0321,1,,,,
+p,Axis S&C Renta Fija Dólar Low Volatility,Axis,RF USD Disc,3.1267,0.0347,3,,,,

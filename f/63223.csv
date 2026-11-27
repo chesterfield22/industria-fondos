@@ -1,0 +1,81 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Compass Opportunity,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,27429618997,,,,,,,,
+m,aum_planilla,27429391197,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63223,,,,,,,,
+m,n_especies,27,,,,,,,,
+m,activos_pn,98.51,,,,,,,,
+m,pasivos_cnv,1.49,,,,,,,,
+m,liquidez,0.64,,,,,,,,
+m,top1,15.24,,,,,,,,
+m,top5,53.43,,,,,,,,
+m,top10,74.57,,,,,,,,
+m,hhi_especies,735.9836,,,,,,,,
+m,n_emisores,17,,,,,,,,
+m,emisor_top,ICBC,,,,,,,,
+m,emisor_top_pct,17.65,,,,,,,,
+m,hhi_emisores,1010.8297,,,,,,,,
+m,sin_emisor_pct,10.71,,,,,,,,
+t,ON,66.03,16,,,,,,,
+t,Plazo fijo,17.75,2,,,,,,,
+t,Cheque,10.71,6,,,,,,,
+t,FCI,3.37,2,,,,,,,
+t,Caución,0.56,1,,,,,,,
+c,ARS,95.05,,,,,,,,
+c,sin dato,3.37,,,,,,,,
+r,Disponibilidades,0.08,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,76.75,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,18.31,,,,,,,,
+r,Certificados de Participacion Argentina,3.37,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,1.49,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-1.49,,,,,,,,
+e,Pzo Fi $ Bco Coinag,Plazo fijo,Banco Coinag,ARS,15.24,4180273935,,,Operaciones a Plazo en Peso Argentina,12
+e,ON Santander Rio S 31,ON,Santander Rio,ARS,11.04,3028229937,,,Titulos de Deuda en Peso Argentina,40
+e,ON Arcor C3,ON,Arcor,ARS,9.5,2605813805,,,Titulos de Deuda en Peso Argentina,35
+e,ON ICBC Clase 4 281126,ON,ICBC,ARS,9.25,2537239757,,,Titulos de Deuda en Peso Argentina,23
+e,ON ICBC Clase 5 110327,ON,ICBC,ARS,8.4,2304087996,,,Titulos de Deuda en Peso Argentina,36
+e,ON Banco Hipotecario C11,ON,Banco Hipotecario,ARS,4.65,1275477283,,,Titulos de Deuda en Peso Argentina,21
+e,ON Santander Rio S 32,ON,Santander Rio,ARS,4.52,1239818779,,,Titulos de Deuda en Peso Argentina,42
+e,ON Banco Comafi C22,ON,Banco Comafi,ARS,4.45,1220618045,,,Titulos de Deuda en Peso Argentina,30
+e,ON BBVA Frances Cl 47,ON,BBVA Frances,ARS,3.94,1080726988,,,Titulos de Deuda en Peso Argentina,45
+e,Cheque #MAV031260047,Cheque,,ARS,3.58,981980360,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Cocos Ahorro - Clase C,FCI,Cocos Ahorro,,2.9,795458951,,,Certificados de Participacion Argentina,32
+e,ON BBVA Frances Cl 38,ON,BBVA Frances,ARS,2.52,691226399,,,Titulos de Deuda en Peso Argentina,29
+e,Pzo Fi $ Bco Sol,Plazo fijo,Banco Sol,ARS,2.51,688483437,,,Operaciones a Plazo en Peso Argentina,31
+e,ON BBVA Frances Cl 46,ON,BBVA Frances,ARS,1.93,529391647,,,Titulos de Deuda en Peso Argentina,35
+e,ON BACS Clase 20,ON,BACS,ARS,1.84,504704990,,,Titulos de Deuda en Peso Argentina,18
+e,Cheque E *MAV211201301,Cheque,,ARS,1.76,482761294,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV181201622,Cheque,,ARS,1.76,482761294,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221201524,Cheque,,ARS,1.75,480018332,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221201522,Cheque,,ARS,1.75,480018332,,,Titulos de Deuda en Peso Argentina,1
+e,ON Banco de Galicia 32 BYY1O,ON,Banco de Galicia,ARS,1.53,419673171,,,Titulos de Deuda en Peso Argentina,44
+e,ON Aeropuertos 2000 Regs 2031,ON,Aeropuertos,ARS,1.15,315440618,,,Titulos de Deuda en Peso Argentina,22
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,0.56,153605866,,,Operaciones a Plazo en Peso Argentina,195
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.47,128919209,,,Certificados de Participacion Argentina,77
+e,ON YPF 2047,ON,YPF,ARS,0.46,126176247,,,Titulos de Deuda en Peso Argentina,6
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,0.46,126176247,,,Titulos de Deuda en Peso Argentina,52
+e,ON Pampa Energia 2026 9.5%,ON,Pampa Energia,ARS,0.39,106975514,,,Titulos de Deuda en Peso Argentina,2
+e,Cheque E *MAV010200921,Cheque,,ARS,0.11,30172581,,,Titulos de Deuda en Peso Argentina,1
+p,GSS II,Grupo SS,RF ARS Disc,27.5119,0.2636,12,,,,
+p,Premier Renta Plus en Pesos,Supervielle,RF MULT Corp,23.6307,0.2572,8,,,,
+p,GSS I,Grupo SS,RF ARS Disc,22.7158,0.2103,9,,,,
+p,GMC Retorno Total IV,GMC,RM y Otros ARS,21.6148,0.2717,5,,,,
+p,Adcap Balanceado XIII,Adcap,RF ARS Disc,20.717,0.2425,7,,,,
+p,Pionero Renta Ahorro,Macro,T+1,20.5163,0.2081,9,,,,
+p,IOL Cash Management,Adcap,T+1,19.8849,0.2119,10,,,,
+p,Cocos Rendimiento,Cocos,T+1,19.8631,0.2825,8,,,,

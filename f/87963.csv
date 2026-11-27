@@ -1,0 +1,85 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,GMC Retorno Total III,,,,,,,,
+m,gerente,GMC Asset Management S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,14637859547,,,,,,,,
+m,aum_planilla,14637859547,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87963,,,,,,,,
+m,n_especies,27,,,,,,,,
+m,activos_pn,106.93,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,5.21,,,,,,,,
+m,top1,9.61,,,,,,,,
+m,top5,31.48,,,,,,,,
+m,top10,47.3,,,,,,,,
+m,hhi_especies,310.0421,,,,,,,,
+m,n_emisores,21,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,28.78,,,,,,,,
+m,hhi_emisores,981.0665,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,28.78,5,,,,,,,
+t,ON,24.53,12,,,,,,,
+t,Subsoberano,8.23,2,,,,,,,
+t,FCI,7.26,3,,,,,,,
+t,Cedear,1.89,4,,,,,,,
+t,Fideicomiso financiero,1.06,1,,,,,,,
+c,ARS,61.84,,,,,,,,
+c,sin dato,8.32,,,,,,,,
+c,USD,1.59,,,,,,,,
+r,Disponibilidades,5.21,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,59.97,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,1.59,,,,,,,,
+r,Participaciones Accionarias Argentina,1.6,,,,,,,,
+r,Participaciones Accionarias Chile,0.29,,,,,,,,
+r,Certificados de Participacion Argentina,8.32,,,,,,,,
+r,Otros Activos,29.95,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),6.93,,,,,,,,
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,9.61,1406698302,,,Titulos de Deuda en Peso Argentina,160
+e,Letra Tamar TEM TMF28,Soberano,Tesoro Nacional,ARS,6.03,882662931,,,Titulos de Deuda en Peso Argentina,12
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,5.67,829966636,,,Titulos de Deuda en Peso Argentina,64
+e,Letra Prov Chubut S121 C1,Subsoberano,Prov. Chubut,ARS,5.39,788980630,,,Titulos de Deuda en Peso Argentina,7
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,4.78,699689686,,,Titulos de Deuda en Peso Argentina,80
+e,ON Mercado Pago C7,ON,Mercado Pago,ARS,3.62,529890516,,,Titulos de Deuda en Peso Argentina,17
+e,ON Rowing S1,ON,Rowing,ARS,3.47,507933726,,,Titulos de Deuda en Peso Argentina,12
+e,ON Pyme Urbano Express Argentina S1,ON,Pyme Urbano Express Argentina,ARS,3.14,459628790,,,Titulos de Deuda en Peso Argentina,20
+e,Letra Prov Chubut S122 C1,Subsoberano,Prov. Chubut,ARS,2.84,415715211,,,Titulos de Deuda en Peso Argentina,12
+e,FCI Toronto T Ahorro B,FCI,Toronto T Ahorro B,,2.75,402541138,,,Certificados de Participacion Argentina,10
+e,FCI ST Zero - Clase C,FCI,ST Zero,,2.73,399613566,,,Certificados de Participacion Argentina,14
+e,Bonos Rep Argentina GD38,Soberano,Tesoro Nacional,ARS,2.69,393758422,,,Titulos de Deuda en Peso Argentina,38
+e,ON PSA Serie 37,ON,PSA,ARS,2.54,371801632,,,Titulos de Deuda en Peso Argentina,8
+e,ON Banco Prov Clase 7,ON,Banco Provincia,ARS,2.13,311786408,,,Titulos de Deuda en Peso Argentina,16
+e,ON Grupo ST C18,ON,Grupo ST,ARS,2.07,303003693,,,Titulos de Deuda en Peso Argentina,14
+e,FCI Unico Liquidez Pesos - Clase B,FCI,Unico Liquidez Pesos,,1.78,260553900,,,Certificados de Participacion Argentina,7
+e,ON Lab. Richmond S8 Clase C,ON,Lab. Richmond,ARS,1.77,259090114,,,Titulos de Deuda en Peso Argentina,2
+e,ON Morixe C4,ON,Morixe,ARS,1.73,253234970,,,Titulos de Deuda en Peso Argentina,10
+e,ON Bco Serv Transac C31,ON,Banco Serv Transac,USD,1.59,232741967,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON PyMe Colgas C1,ON,PyMe Colgas,ARS,1.41,206393820,,,Titulos de Deuda en Peso Argentina,15
+e,FF AMFAyS S53 Clase A,Fideicomiso financiero,AMFAyS,,1.06,155161311,,,Certificados de Participacion Argentina,3
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,0.8,117102876,,,Participaciones Accionarias Argentina,38
+e,ON Banco Prov Clase 6,ON,Banco Provincia,ARS,0.72,105392589,,,Titulos de Deuda en Peso Argentina,43
+e,Cedear Alibaba Group Holding L.,Cedear,Alibaba Group Holding L.,ARS,0.59,86363371,,,Participaciones Accionarias Argentina,1
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,0.34,49768722,,,Titulos de Deuda en Peso Argentina,52
+e,Cedear Geopark,Cedear,Geopark,ARS,0.29,42449793,,,Participaciones Accionarias Chile,3
+e,Cedear NIO Inc,Cedear,NIO Inc,ARS,0.21,30739505,,,Participaciones Accionarias Argentina,1
+p,Blacktoro Ahorro,BlackToro,T+1,21.8704,0.3617,3,,,,
+p,Champaquí Renta Plus,Bancor,RF ARS Lecap,20.0659,0.3816,3,,,,
+p,Adcap Moneda,Adcap,RF USD Linked,20.0592,0.3078,3,,,,
+p,Alpha Renta Fija Serie 4,ICBC,RF ARS Lecap,20.0557,0.446,2,,,,
+p,Adcap Balanceado XI,Adcap,RF ARS Disc,20.0557,0.3851,2,,,,
+p,Parakeet Blend,Parakeet,RM y Otros ARS,20.0557,0.3775,2,,,,
+p,CMA Proteccion,Capital Mark..,T+1,20.0557,0.3772,2,,,,
+p,Adcap Ahorro Dinámico Fondo de Dinero,Adcap,MM ARS Dinámico,20.0557,0.3608,2,,,,

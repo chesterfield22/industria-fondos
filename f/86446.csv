@@ -1,0 +1,135 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Ciclo Nova Estructurado,,,,,,,,
+m,gerente,Ciclo Nova Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,12611591493,,,,,,,,
+m,aum_planilla,12611591493,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86446,,,,,,,,
+m,n_especies,73,,,,,,,,
+m,activos_pn,104.36,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.14,,,,,,,,
+m,top1,9.47,,,,,,,,
+m,top5,32.47,,,,,,,,
+m,top10,48.47,,,,,,,,
+m,hhi_especies,351.9247,,,,,,,,
+m,n_emisores,39,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,30.66,,,,,,,,
+m,hhi_emisores,1116.9161,,,,,,,,
+m,sin_emisor_pct,8.48,,,,,,,,
+t,ON,36.77,20,,,,,,,
+t,Soberano,30.66,6,,,,,,,
+t,Subsoberano,10.6,6,,,,,,,
+t,Pagaré,8.27,17,,,,,,,
+t,Cedear,5.14,8,,,,,,,
+t,ETF,3.55,4,,,,,,,
+t,FCI,2.98,2,,,,,,,
+t,Fideicomiso financiero,1.57,2,,,,,,,
+t,Cheque,0.21,7,,,,,,,
+t,VCP,0.14,1,,,,,,,
+c,ARS,84.4,,,,,,,,
+c,sin dato,7.82,,,,,,,,
+c,USD,7.67,,,,,,,,
+r,Disponibilidades,0.14,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,79.26,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,7.39,,,,,,,,
+r,Participaciones Accionarias Argentina,6.96,,,,,,,,
+r,Participaciones Accionarias Estados Unidos,1.73,,,,,,,,
+r,Certificados de Participacion Argentina,4.55,,,,,,,,
+r,Otros Activos,4.33,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),4.36,,,,,,,,
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,9.47,1194317714,,,Titulos de Deuda en Peso Argentina,128
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,7.37,929474293,,,Titulos de Deuda en Peso Argentina,74
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,5.96,751650853,,,Titulos de Deuda en Peso Argentina,166
+e,Bono del Tesoro Nacional AN29,Soberano,Tesoro Nacional,ARS,4.98,628057256,,,Titulos de Deuda en Peso Argentina,25
+e,ON Bco Ciudad C24,ON,Banco Ciudad,ARS,4.69,591483641,,,Titulos de Deuda en Peso Argentina,6
+e,ON Mercado Pago C3,ON,Mercado Pago,ARS,4.21,530948002,,,Titulos de Deuda en Peso Argentina,21
+e,ON BACS Clase 20,ON,BACS,ARS,3.19,402309769,,,Titulos de Deuda en Peso Argentina,18
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,3.1,390959336,,,Titulos de Deuda en Peso Argentina,56
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,2.8,353124562,,,Titulos de Deuda en Peso Argentina,165
+e,FCI Argenfunds Liquidez - Clase B,FCI,Argenfunds Liquidez,,2.7,340512970,,,Certificados de Participacion Argentina,50
+e,ON Grupo ST C18,ON,Grupo ST,ARS,2.4,302678196,,,Titulos de Deuda en Peso Argentina,14
+e,Bono Prov Cordoba Clase 6,Subsoberano,Prov. Cordoba,ARS,2.22,279977331,,,Titulos de Deuda en Peso Argentina,36
+e,ON NBD Chaco Clase 1,ON,NBD Chaco,ARS,2.1,264843421,,,Titulos de Deuda en Peso Argentina,12
+e,ON Mercado Pago C6,ON,Mercado Pago,ARS,2.1,264843421,,,Titulos de Deuda en Peso Argentina,19
+e,Bono Prov de Buenos Aires PBM27,Subsoberano,Prov. Buenos Aires,ARS,2.08,262321103,,,Titulos de Deuda en Peso Argentina,17
+e,ON Grupo ST C16,ON,Grupo ST,ARS,2.02,254754148,,,Titulos de Deuda en Peso Argentina,5
+e,Letra Entre Rios ERE27,Subsoberano,Prov. Entre Rios,ARS,1.95,245926034,,,Titulos de Deuda en Peso Argentina,11
+e,ON AES Argentina Gen 060828,ON,AES Argentina Gen,ARS,1.91,240881398,,,Titulos de Deuda en Peso Argentina,24
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,1.83,230792124,,,Titulos de Deuda en Peso Argentina,67
+e,Letra Prov Chubut S123 C1,Subsoberano,Prov. Chubut,ARS,1.83,230792124,,,Titulos de Deuda en Peso Argentina,14
+e,ON Scania Credit C4,ON,Scania Credit,ARS,1.79,225747488,,,Titulos de Deuda en Peso Argentina,8
+e,Cedear Invesco QQQ,ETF,Cedear Invesco QQQ,,1.73,218180533,,,Participaciones Accionarias Estados Unidos,6
+e,Letra Prov Chaco BLN26,Subsoberano,Prov. Chaco,ARS,1.7,214397055,,,Titulos de Deuda en Peso Argentina,12
+e,ON Bco Serv Transac C29,ON,Banco Serv Transac,ARS,1.68,211874737,,,Titulos de Deuda en Peso Argentina,15
+e,Pagare #UAC301160001,Pagaré,,USD,1.58,199263146,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON Central Puerto Clase E,ON,Central Puerto,ARS,1.25,157644894,,,Titulos de Deuda en Peso Argentina,31
+e,Pagare #UAC201160001,Pagaré,,USD,1.22,153861416,,,Titulos de Deuda en Dolar Estadounidense,1
+e,FF Sion Conecta Infraestructura Privada S1,Fideicomiso financiero,Sion Conecta Infraestructura Privada,,1.22,153861416,,,Certificados de Participacion Argentina,16
+e,Cedear The Coca Cola,Cedear,The Coca Cola,ARS,1.07,134944029,,,Participaciones Accionarias Argentina,12
+e,ON Camuzzi Gas C1 USD,ON,Camuzzi Gas,ARS,1.05,132421711,,,Titulos de Deuda en Peso Argentina,13
+e,Pagare #USO251070001,Pagaré,,USD,1,126115915,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON NewSan Clase 23,ON,NewSan,ARS,0.92,116026642,,,Titulos de Deuda en Peso Argentina,13
+e,ON Credito Directo C31,ON,Credito Directo,ARS,0.89,112243164,,,Titulos de Deuda en Peso Argentina,14
+e,Cedear Nvidia Corp.,Cedear,Nvidia Corp.,ARS,0.89,112243164,,,Participaciones Accionarias Argentina,14
+e,Cedear Ishares Bitcoin Trust,ETF,Cedear Ishares Bitcoin Trust,,0.86,108459687,,,Participaciones Accionarias Argentina,4
+e,Letra Prov Rio Negro S1 240927,Subsoberano,Prov. Rio Negro,ARS,0.82,103415050,,,Titulos de Deuda en Peso Argentina,9
+e,Cedear Microsoft,Cedear,Microsoft,ARS,0.63,79453026,,,Participaciones Accionarias Argentina,14
+e,ON TGLT Clase 16,ON,TGLT,ARS,0.6,75669549,,,Titulos de Deuda en Peso Argentina,14
+e,Cedear Berkshire Hath Inc,Cedear,Berkshire Hath Inc,ARS,0.58,73147231,,,Participaciones Accionarias Argentina,4
+e,Cedear Facebook,Cedear,Facebook,ARS,0.58,73147231,,,Participaciones Accionarias Argentina,18
+e,Cedear Tesla,Cedear,Tesla,ARS,0.57,71886072,,,Participaciones Accionarias Argentina,5
+e,ON IEB Construcciones C1,ON,IEB Construcciones,ARS,0.54,68102594,,,Titulos de Deuda en Peso Argentina,5
+e,Cedear SPDR Dow Jones Industrial,ETF,Cedear SPDR Dow Jones Industrial,,0.51,64319117,,,Participaciones Accionarias Argentina,3
+e,Cedear Shares MSCI Brazil ETF,ETF,Cedear Shares MSCI Brazil ETF,,0.45,56752162,,,Participaciones Accionarias Argentina,23
+e,Cedear Google,Cedear,Google,ARS,0.43,54229843,,,Participaciones Accionarias Argentina,30
+e,Pagare #UAC100370001,Pagaré,,USD,0.42,52968684,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAC050370001,Pagaré,,USD,0.42,52968684,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAC200270001,Pagaré,,USD,0.42,52968684,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAC151260002,Pagaré,,USD,0.42,52968684,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAC150270001,Pagaré,,USD,0.42,52968684,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAC251260002,Pagaré,,USD,0.42,52968684,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAC100270001,Pagaré,,USD,0.42,52968684,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UAC200370001,Pagaré,,USD,0.41,51707525,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,0.39,49185207,,,Participaciones Accionarias Argentina,52
+e,FF Provincia Leasing S 6A,Fideicomiso financiero,Provincia Leasing,,0.35,44140570,,,Certificados de Participacion Argentina,13
+e,ON P. Aconcagua Energia C18,ON,P. Aconcagua Energia,ARS,0.31,39095934,,,Titulos de Deuda en Peso Argentina,8
+e,Pagare *SOL141200004,Pagaré,,ARS,0.29,36573615,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare *SOL161100007,Pagaré,,ARS,0.29,36573615,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Max Money Market Dólares - Clase B,FCI,Max Money Market Dólares,USD,0.28,35312456,,,Certificados de Participacion Argentina,11
+e,Pagare #UAC150170002,Pagaré,,USD,0.24,30267820,,,Titulos de Deuda en Dolar Estadounidense,1
+e,ON P. Aconcagua Energia C20,ON,P. Aconcagua Energia,ARS,0.19,23962024,,,Titulos de Deuda en Peso Argentina,9
+e,VCP Unicred S3,VCP,VCP Unicred,ARS,0.14,17656228,,,Titulos de Deuda en Peso Argentina,10
+e,Pagare *SOL241100007,Pagaré,,ARS,0.1,12611591,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare *SOL261100006,Pagaré,,ARS,0.1,12611591,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare *SOL251100010,Pagaré,,ARS,0.1,12611591,,,Titulos de Deuda en Peso Argentina,1
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,0.08,10089273,,,Titulos de Deuda en Peso Argentina,159
+e,Cheque E *SOL280800010,Cheque,,ARS,0.03,3783477,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *SOL120400004,Cheque,,ARS,0.03,3783477,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *SOL280700005,Cheque,,ARS,0.03,3783477,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *SOL120800004,Cheque,,ARS,0.03,3783477,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *SOL120700004,Cheque,,ARS,0.03,3783477,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *SOL120500007,Cheque,,ARS,0.03,3783477,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *SOL300600059,Cheque,,ARS,0.03,3783477,,,Titulos de Deuda en Peso Argentina,1
+p,Toronto Trust Estrategico,Investis,RF ARS Disc,22.4392,0.2704,4,,,,
+p,Ualintec Retorno Total,Ualá,RM y Otros ARS,19.7818,0.445,7,,,,
+p,Ualintec Renta Fija Pesos,Ualá,RF ARS Disc,19.6616,0.5667,3,,,,
+p,Balanz Excalibur Regisseur,Balanz,RM y Otros ARS,19.2087,0.3008,7,,,,
+p,Pellegrini Retorno Total,Pellegrini,RF MULT Disc,18.2501,0.4261,3,,,,
+p,Consultatio Renta Pesos,Consultatio,RF MULT Disc,17.525,0.3396,8,,,,
+p,Balanz Performance XI,Balanz,RF ARS Disc,17.4176,0.2927,3,,,,
+p,Parakeet Dinámico,Parakeet,RM y Otros ARS,17.2283,0.3178,9,,,,

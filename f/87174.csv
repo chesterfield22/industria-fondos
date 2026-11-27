@@ -1,0 +1,92 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Balanz Capital Estrategia VII USD,,,,,,,,
+m,gerente,Balanz S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,Sin clasificar,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,8988695,,,,,,,,
+m,aum_planilla,,,,,,,,,
+m,dif_pn_aum,,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87174,,,,,,,,
+m,n_especies,35,,,,,,,,
+m,activos_pn,100.36,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.2,,,,,,,,
+m,top1,17.9,,,,,,,,
+m,top5,42.08,,,,,,,,
+m,top10,66.09,,,,,,,,
+m,hhi_especies,648.5513,,,,,,,,
+m,n_emisores,32,,,,,,,,
+m,emisor_top,YPF,,,,,,,,
+m,emisor_top_pct,17.9,,,,,,,,
+m,hhi_emisores,723.7127,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,63.9,10,,,,,,,
+t,Cedear,15.29,16,,,,,,,
+t,Soberano,9.57,3,,,,,,,
+t,ETF,8.27,4,,,,,,,
+t,Subsoberano,2.69,1,,,,,,,
+t,FCI,0.01,1,,,,,,,
+c,USD,76.17,,,,,,,,
+c,ARS,15.29,,,,,,,,
+c,sin dato,8.27,,,,,,,,
+r,Disponibilidades,0.2,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,76.17,,,,,,,,
+r,Participaciones Accionarias Argentina,21.64,,,,,,,,
+r,Certificados de Participacion Estados Unidos,1.92,,,,,,,,
+r,Certificados de Participacion Argentina,0.01,,,,,,,,
+r,Otros Activos,0.42,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.36,,,,,,,,
+e,ON YPF Clase 44,ON,YPF,USD,17.9,1608976,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON CGC C 41,ON,CGC,USD,6.41,576175.3758,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON Pluspetrol Clase 7,ON,Pluspetrol,USD,6.05,543816.0723,,,Titulos de Deuda en Dolar Estadounidense,7
+e,ON Pampa Energia C26,ON,Pampa Energia,USD,5.94,533928.5074,,,Titulos de Deuda en Dolar Estadounidense,38
+e,ON Vista Energy 31,ON,Vista Energy,USD,5.78,519546.5947,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Telecom C24,ON,Telecom,USD,5.08,456625.7268,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON Luz De Tres Picos C1,ON,Luz De Tres Picos,USD,5.07,455726.8573,,,Titulos de Deuda en Dolar Estadounidense,6
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,USD,4.69,421569.8147,,,Titulos de Deuda en Dolar Estadounidense,74
+e,ON Aeropuertos 2000 C12,ON,Aeropuertos,USD,4.63,416176.5975,,,Titulos de Deuda en Dolar Estadounidense,4
+e,ON TGS C4 Reg S,ON,TGS,USD,4.54,408086.7716,,,Titulos de Deuda en Dolar Estadounidense,26
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,USD,4.43,398199.2067,,,Titulos de Deuda en Dolar Estadounidense,40
+e,Bono Prov San Juan SJO35,Subsoberano,Prov. San Juan,USD,2.69,241795.9065,,,Titulos de Deuda en Dolar Estadounidense,33
+e,ON Telecom C27,ON,Telecom,USD,2.5,224717.3853,,,Titulos de Deuda en Dolar Estadounidense,8
+e,Cedear Utilities Select Sectar SPDR Fund,ETF,Cedear Utilities Select Sectar SPDR Fund,,2.2,197751.299,,,Participaciones Accionarias Argentina,8
+e,Cedear iShares Core MSCI Europe ETF,ETF,Cedear iShares Core MSCI Europe ETF,,2.18,195953.5599,,,Participaciones Accionarias Argentina,1
+e,Cedear Shares MSCI Brazil ETF,ETF,Cedear Shares MSCI Brazil ETF,,1.97,177077.2996,,,Participaciones Accionarias Argentina,23
+e,ETF Vanguard FTSE Emerging Markets,ETF,ETF Vanguard FTSE Emerging Markets,,1.92,172582.9519,,,Certificados de Participacion Estados Unidos,1
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,1.75,157302.1697,,,Participaciones Accionarias Argentina,52
+e,Cedear Apple Inc,Cedear,Apple Inc,ARS,1.16,104268.8668,,,Participaciones Accionarias Argentina,6
+e,Cedear Microsoft,Cedear,Microsoft,ARS,1.15,103369.9972,,,Participaciones Accionarias Argentina,14
+e,Cedear Mc Donalds,Cedear,Mc Donalds,ARS,1.14,102471.1277,,,Participaciones Accionarias Argentina,6
+e,Cedear JP Morgan,Cedear,JP Morgan,ARS,1.02,91684.6932,,,Participaciones Accionarias Argentina,9
+e,Cedear Petrobras,Cedear,Petrobras,ARS,1,89886.9541,,,Participaciones Accionarias Argentina,10
+e,Cedear Microstrategy,Cedear,Microstrategy,ARS,0.97,87190.3455,,,Participaciones Accionarias Argentina,1
+e,Cedear Uber,Cedear,Uber,ARS,0.97,87190.3455,,,Participaciones Accionarias Argentina,5
+e,Cedear Google,Cedear,Google,ARS,0.88,79100.5196,,,Participaciones Accionarias Argentina,30
+e,Cedear Nvidia Corp.,Cedear,Nvidia Corp.,ARS,0.84,75505.0414,,,Participaciones Accionarias Argentina,14
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,0.83,74606.1719,,,Participaciones Accionarias Argentina,50
+e,Cedear Vale R Doce ON ADR,Cedear,Vale R Doce ON ADR,ARS,0.8,71909.5633,,,Participaciones Accionarias Argentina,12
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,0.79,71010.6937,,,Participaciones Accionarias Argentina,38
+e,Cedear Oracle,Cedear,Oracle,ARS,0.79,71010.6937,,,Participaciones Accionarias Argentina,4
+e,Cedear Visa,Cedear,Visa,ARS,0.6,53932.1725,,,Participaciones Accionarias Argentina,7
+e,Cedear Mastercard,Cedear,Mastercard,ARS,0.6,53932.1725,,,Participaciones Accionarias Argentina,3
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,0.45,40449.1293,,,Titulos de Deuda en Dolar Estadounidense,83
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,0.01,898.8695,,,Certificados de Participacion Argentina,37
+p,Galileo Multi Strategy,Delta,RF USD corp loc,30.4624,0.5439,8,,,,
+p,MAF Mix II,Mariva,RF USD corp loc,29.4642,0.4109,6,,,,
+p,Chimpay Ahorro en Dólares,Chimpay,RF USD Disc,18.2511,0.2799,5,,,,
+p,Allaria Renta Mixta Dólares,Allaria,RM y Otros USD,17.8628,0.2154,7,,,,
+p,Axis S&C Renta Fija Dolar,Axis,RF USD corp loc,17.2978,0.2004,9,,,,
+p,CYC Dólares Renta Fija,CYC,RF USD Disc,14.3164,0.1797,4,,,,
+p,BAVSA Estrategia Dolar,BAVSA,RM y Otros ARS,14.1382,0.1408,8,,,,
+p,Compass Best Ideas,Investis,RF USD corp loc,14.1327,0.1485,5,,,,

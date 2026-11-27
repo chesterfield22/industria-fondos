@@ -1,0 +1,71 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Intervalores Total Return,,,,,,,,
+m,gerente,Allaria Fondos Administrados S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,16043203,,,,,,,,
+m,aum_planilla,,,,,,,,,
+m,dif_pn_aum,,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,No vinculado a la planilla diaria (nombre distinto): sin subtipo ni control de patrimonio.,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63994,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,100.16,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.9,,,,,,,,
+m,top1,24.7,,,,,,,,
+m,top5,77.96,,,,,,,,
+m,top10,93.38,,,,,,,,
+m,hhi_especies,1426.8051,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,BCRA,,,,,,,,
+m,emisor_top_pct,24.7,,,,,,,,
+m,hhi_emisores,1510.5008,,,,,,,,
+m,sin_emisor_pct,2.95,,,,,,,,
+t,Soberano exterior,27.97,2,,,,,,,
+t,BCRA,24.7,1,,,,,,,
+t,Corporativo exterior,20.81,4,,,,,,,
+t,Soberano,17.64,2,,,,,,,
+t,ON,3.54,2,,,,,,,
+t,Pagaré,2.95,5,,,,,,,
+t,FCI,1.64,1,,,,,,,
+c,USD,99.25,,,,,,,,
+r,Disponibilidades,0.9,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,97.62,,,,,,,,
+r,Certificados de Participacion Argentina,1.64,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.16,,,,,,,,
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,USD,24.7,3962671,,,Titulos de Deuda en Dolar Estadounidense,33
+e,US Treasury Note 310131,Soberano exterior,Tesoro EE.UU.,USD,16.96,2720927,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,15.05,2414502,,,Titulos de Deuda en Dolar Estadounidense,83
+e,BR Brasil 2036,Soberano exterior,Brasil (soberano),USD,11.01,1766357,,,Titulos de Deuda en Dolar Estadounidense,4
+e,BC Banco do Brasil 231031,Corporativo exterior,Banco do Brasil,USD,10.24,1642824,,,Titulos de Deuda en Dolar Estadounidense,2
+e,BC Petrobras 5.6% 2031,Corporativo exterior,Petrobras,USD,7.32,1174362,,,Titulos de Deuda en Dolar Estadounidense,3
+e,Bonos Rep Argentina AL41,Soberano,Tesoro Nacional,USD,2.59,415518.9549,,,Titulos de Deuda en Dolar Estadounidense,14
+e,ON Codelco 080134,ON,Codelco,USD,2.01,322468.3781,,,Titulos de Deuda en Dolar Estadounidense,1
+e,BC Codelco 300929,Corporativo exterior,Codelco,USD,1.86,298403.5738,,,Titulos de Deuda en Dolar Estadounidense,9
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,1.64,263108.5274,,,Certificados de Participacion Argentina,37
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,USD,1.53,245461.0042,,,Titulos de Deuda en Dolar Estadounidense,58
+e,BC Vale Overseas Limited 3.75%,Corporativo exterior,Vale Overseas Limited,USD,1.39,223000.5202,,,Titulos de Deuda en Dolar Estadounidense,6
+e,Pagare #UMV070970011,Pagaré,,USD,0.59,94654.8971,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV140970004,Pagaré,,USD,0.59,94654.8971,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV210970008,Pagaré,,USD,0.59,94654.8971,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV240970006,Pagaré,,USD,0.59,94654.8971,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Pagare #UMV300970008,Pagaré,,USD,0.59,94654.8971,,,Titulos de Deuda en Dolar Estadounidense,1
+p,Novus Ahorro Dólares,Novus,RF USD Disc,40.0504,0.6275,2,,,,
+p,Allaria Dólar Performance II,Allaria,RF USD Disc,39.0049,0.5956,3,,,,
+p,Max Estrategico IV,Max Capital,RF USD GL Inc ARG,35.467,0.5359,2,,,,
+p,Consultatio Estrategia III,Consultatio,RM y Otros USD,27.4885,0.5385,2,,,,
+p,Allaria Dólar Global,Allaria,RF USD Disc,25.9526,0.3467,2,,,,
+p,Parakeet Cobalto Advanced Strategy Fund,Parakeet,RF USD Disc,24.8867,0.4206,1,,,,
+p,Allaria Gestión Dinámica,Allaria,RF MULT Disc,24.6405,0.3179,1,,,,
+p,Allaria Dólar Retorno Total,Allaria,RM y Otros USD,24.4713,0.3633,1,,,,

@@ -1,0 +1,63 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,SBS Estrategia,,,,,,,,
+m,gerente,SBS Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Corp,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,3456644361,,,,,,,,
+m,aum_planilla,3456644361,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63561,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,100.5,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.04,,,,,,,,
+m,top1,16.45,,,,,,,,
+m,top5,63.63,,,,,,,,
+m,top10,95.78,,,,,,,,
+m,hhi_especies,1075.8914,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,FCA Comp. Finac,,,,,,,,
+m,emisor_top_pct,16.45,,,,,,,,
+m,hhi_emisores,1087.613,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,98.26,12,,,,,,,
+t,FCI,1.22,1,,,,,,,
+c,ARS,98.26,,,,,,,,
+c,sin dato,1.22,,,,,,,,
+r,Disponibilidades,1.04,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,98.24,,,,,,,,
+r,Certificados de Participacion Argentina,1.22,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.5,,,,,,,,
+e,ON FCA Comp. Finac CL 22 S1,ON,FCA Comp. Finac,ARS,16.45,568617997,,,Titulos de Deuda en Peso Argentina,7
+e,ON Banco Prov Clase 6,ON,Banco Provincia,ARS,15.17,524372950,,,Titulos de Deuda en Peso Argentina,43
+e,ON Pampa Energia C21,ON,Pampa Energia,ARS,12.01,415142988,,,Titulos de Deuda en Peso Argentina,36
+e,ON Mercado Pago C3,ON,Mercado Pago,ARS,10.74,371243604,,,Titulos de Deuda en Peso Argentina,21
+e,ON Banco Nacion Argentina Clase 3,ON,Banco Nacion Argentina,ARS,9.26,320085268,,,Titulos de Deuda en Peso Argentina,33
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,8.15,281716515,,,Titulos de Deuda en Peso Argentina,52
+e,ON Mastellone Clase 3,ON,Mastellone,ARS,7.51,259593992,,,Titulos de Deuda en Peso Argentina,8
+e,ON Santander Rio S 32,ON,Santander Rio,ARS,7.49,258902663,,,Titulos de Deuda en Peso Argentina,42
+e,ON Rombo Cia Fciera S64,ON,Rombo Cia Fciera,ARS,6.04,208781319,,,Titulos de Deuda en Peso Argentina,10
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,2.96,102316673,,,Titulos de Deuda en Peso Argentina,56
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,1.98,68441558,,,Titulos de Deuda en Peso Argentina,67
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,1.22,42171061,,,Certificados de Participacion Argentina,47
+e,ON Agrofina Clase 11,ON,Agrofina,ARS,0.5,17283222,,,Titulos de Deuda en Peso Argentina,9
+p,GMC Retorno Total IV,GMC,RM y Otros ARS,15.5799,0.216,2,,,,
+p,Premier Renta Plus en Pesos,Supervielle,RF MULT Corp,15.1377,0.1374,3,,,,
+p,Consultatio Infraestructura,Consultatio,INFRA,13.7294,0.1717,3,,,,
+p,Argenfunds Inversión Pesos,Argenfunds,RF ARS Disc,12.8883,0.1554,2,,,,
+p,Champaquí Renta Pesos,Bancor,T+1,12.0098,0.1179,2,,,,
+p,MEGAQM Gestión Dólares I,MegaQM,RF USD GL Inc ARG,11.809,0.1534,1,,,,
+p,SBS Retorno Total,SBS,MM ARS Clásico,10.6843,0.0917,1,,,,
+p,Toronto Trust Balanceado,Investis,RF ARS Disc,10.5885,0.1903,3,,,,

@@ -1,0 +1,68 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Adcap Balanceado XX,,,,,,,,
+m,gerente,Adcap Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,64409105593,,,,,,,,
+m,aum_planilla,64409105593,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86581,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,95.48,,,,,,,,
+m,pasivos_cnv,4.52,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,16.59,,,,,,,,
+m,top5,55.92,,,,,,,,
+m,top10,90.86,,,,,,,,
+m,hhi_especies,943.3755,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,San Miguel,,,,,,,,
+m,emisor_top_pct,4.3,,,,,,,,
+m,hhi_emisores,30.7647,,,,,,,,
+m,sin_emisor_pct,86.56,,,,,,,,
+t,Pagaré,86.56,9,,,,,,,
+t,ON,7.73,5,,,,,,,
+t,FCI,1.2,1,,,,,,,
+c,ARS,54.04,,,,,,,,
+c,USD,40.25,,,,,,,,
+c,sin dato,1.2,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,54.04,,,,,,,,
+r,Titulos de Deuda en Dolar 3500 BCRA,40.24,,,,,,,,
+r,Certificados de Participacion Argentina,1.2,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,4.52,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-4.52,,,,,,,,
+e,Pagare #UMV220170004,Pagaré,,USD,16.59,10685470618,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV250170067,Pagaré,,USD,11.85,7632479013,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV170270025,Pagaré,,USD,11.81,7606715371,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #MAV200170034,Pagaré,,ARS,7.87,5068996610,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV310170004,Pagaré,,ARS,7.8,5023910236,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV180270018,Pagaré,,ARS,7.7,4959501131,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV250270028,Pagaré,,ARS,7.68,4946619310,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV190370017,Pagaré,,ARS,7.66,4933737488,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV300370022,Pagaré,,ARS,7.6,4895092025,,,Titulos de Deuda en Peso Argentina,1
+e,ON San Miguel Serie 13 CA,ON,San Miguel,ARS,4.3,2769591541,,,Titulos de Deuda en Peso Argentina,19
+e,ON Rizobacter S 11 CA,ON,Rizobacter,ARS,3.29,2119059574,,,Titulos de Deuda en Peso Argentina,5
+e,FCI SBS Ahorro Pesos Cl B,FCI,SBS Ahorro Pesos Cl B,,1.2,772909267,,,Certificados de Participacion Argentina,46
+e,ON Refi Pampa S3 B,ON,Refi Pampa,ARS,0.09,57968195,,,Titulos de Deuda en Peso Argentina,11
+e,ON Agrofina Clase 11,ON,Agrofina,ARS,0.04,25763642,,,Titulos de Deuda en Peso Argentina,9
+e,ON Agrofina Clase 12,ON,Agrofina,ARS,0.01,6440911,,,Titulos de Deuda en Peso Argentina,10
+p,Special Situations Fund,CMF,RM y Otros ARS,7.9485,0.0754,2,,,,
+p,CMA Performance,Capital Mark..,RF USD Linked,6.6298,0.0218,2,,,,
+p,Adcap Verde y Sustentable ASG,Adcap,ASG,5.7598,0.0622,2,,,,
+p,Delta Moneda,Delta,RF USD Linked,4.5031,0.0198,1,,,,
+p,Stonex Renta Fija Proteccion Plus,StoneX,RF USD Linked,4.37,0.0142,1,,,,
+p,Consultatio Global,Consultatio,RF MULT Disc,3.9604,0.0137,1,,,,
+p,Superfondo Sustentable ASG,Santander,ASG,3.4972,0.013,1,,,,
+p,Galileo Premium,Delta,RF USD Linked,3.4454,0.0144,1,,,,

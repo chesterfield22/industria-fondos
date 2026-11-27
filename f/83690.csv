@@ -1,0 +1,107 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Stonex Balanceado III,,,,,,,,
+m,gerente,StoneX Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,16664920995,,,,,,,,
+m,aum_planilla,16664920995,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83690,,,,,,,,
+m,n_especies,44,,,,,,,,
+m,activos_pn,100.09,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,19.17,,,,,,,,
+m,top1,18,,,,,,,,
+m,top5,58.61,,,,,,,,
+m,top10,75.19,,,,,,,,
+m,hhi_especies,931.0403,,,,,,,,
+m,n_emisores,31,,,,,,,,
+m,emisor_top,Caución BYMA,,,,,,,,
+m,emisor_top_pct,18,,,,,,,,
+m,hhi_emisores,662.4404,,,,,,,,
+m,sin_emisor_pct,40.21,,,,,,,,
+t,Pagaré,28.22,3,,,,,,,
+t,Caución,18,1,,,,,,,
+t,Soberano,16.99,9,,,,,,,
+t,Cheque,11.99,1,,,,,,,
+t,Cedear,6.44,12,,,,,,,
+t,FCI,5,3,,,,,,,
+t,ON,4.53,3,,,,,,,
+t,ETF,3.93,4,,,,,,,
+t,Acción,2.8,6,,,,,,,
+t,Fideicomiso financiero,1.01,2,,,,,,,
+c,ARS,83.98,,,,,,,,
+c,sin dato,10.45,,,,,,,,
+c,USD,4.48,,,,,,,,
+r,Disponibilidades,1.17,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,57.27,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,18,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,4.47,,,,,,,,
+r,Participaciones Accionarias Argentina,12.66,,,,,,,,
+r,Participaciones Accionarias Brasil,0.51,,,,,,,,
+r,Certificados de Participacion Argentina,6.01,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.09,,,,,,,,
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,18,2999685779,,,Operaciones a Plazo en Peso Argentina,73
+e,Pagare #MAV221260056,Pagaré,,ARS,17.9,2983020858,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV061101232,Cheque,,ARS,11.99,1998124027,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV101260102,Pagaré,,ARS,5.85,974897878,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Unico Liquidez Pesos - Clase B,FCI,Unico Liquidez Pesos,,4.87,811581652,,,Certificados de Participacion Argentina,7
+e,Pagare #MAV111160056,Pagaré,,ARS,4.47,744921968,,,Titulos de Deuda en Peso Argentina,1
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,4.02,669929824,,,Titulos de Deuda en Peso Argentina,74
+e,ON Banco Comafi C17,ON,Banco Comafi,USD,3.68,613269093,,,Titulos de Deuda en Dolar Estadounidense,4
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,2.53,421622501,,,Titulos de Deuda en Peso Argentina,158
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,1.88,313300515,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Dual TXMJ8,Soberano,Tesoro Nacional,ARS,1.86,309967531,,,Titulos de Deuda en Peso Argentina,45
+e,Bono Disc ARS Ley AR DICP,Soberano,Tesoro Nacional,ARS,1.8,299968578,,,Titulos de Deuda en Peso Argentina,59
+e,Cedear Global X Uranium ETF,ETF,Cedear Global X Uranium ETF,,1.71,284970149,,,Participaciones Accionarias Argentina,2
+e,Bonos Rep Argentina GD41,Soberano,Tesoro Nacional,ARS,1.7,283303657,,,Titulos de Deuda en Peso Argentina,38
+e,Bonos Rep Argentina GD35,Soberano,Tesoro Nacional,ARS,1.32,219976957,,,Titulos de Deuda en Peso Argentina,54
+e,YPF S.A.,Acción,YPF,ARS,1.11,184980623,,,Participaciones Accionarias Argentina,122
+e,Bonos Rep Argentina GD38,Soberano,Tesoro Nacional,ARS,1.08,179981147,,,Titulos de Deuda en Peso Argentina,38
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,0.99,164982718,,,Participaciones Accionarias Argentina,129
+e,Cedear Shares MSCI Brazil ETF,ETF,Cedear Shares MSCI Brazil ETF,,0.92,153317273,,,Participaciones Accionarias Argentina,23
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,0.91,151650781,,,Participaciones Accionarias Argentina,52
+e,Cedear Barrick Gold,Cedear,Barrick Gold,ARS,0.89,148317797,,,Participaciones Accionarias Argentina,3
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,USD,0.8,133319368,,,Titulos de Deuda en Dolar Estadounidense,40
+e,FF Comafi Leasing 17 Cl A,Fideicomiso financiero,Comafi Leasing,,0.79,131652876,,,Certificados de Participacion Argentina,16
+e,Cedear Spdr SyP 500 ETF,ETF,Cedear Spdr SyP 500 ETF,,0.76,126653400,,,Participaciones Accionarias Argentina,13
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,0.71,118320939,,,Participaciones Accionarias Argentina,50
+e,Cedear Eli Lilly,Cedear,Eli Lilly,ARS,0.58,96656542,,,Participaciones Accionarias Argentina,2
+e,Cedear ADR Itau Unibanco Holding,Cedear,ADR Itau Unibanco Holding,ARS,0.57,94990050,,,Participaciones Accionarias Argentina,8
+e,Cedear SPDR Dow Jones Industrial,ETF,Cedear SPDR Dow Jones Industrial,,0.54,89990573,,,Participaciones Accionarias Argentina,3
+e,ON Aluar Serie 7,ON,Aluar,ARS,0.53,88324081,,,Titulos de Deuda en Peso Argentina,15
+e,Cedear Banco Bradesco,Cedear,Banco Bradesco,ARS,0.52,86657589,,,Participaciones Accionarias Argentina,10
+e,Petroleo Brasileiro S.A.,Acción,Petroleo Brasileiro,,0.51,84991097,,,Participaciones Accionarias Brasil,5
+e,Cedear Google,Cedear,Google,ARS,0.5,83324605,,,Participaciones Accionarias Argentina,30
+e,Cedear JP Morgan,Cedear,JP Morgan,ARS,0.46,76658637,,,Participaciones Accionarias Argentina,9
+e,Cedear Cameco,Cedear,Cameco,ARS,0.43,71659160,,,Participaciones Accionarias Argentina,1
+e,Cedear Amazon,Cedear,Amazon,ARS,0.38,63326700,,,Participaciones Accionarias Argentina,17
+e,ON Club Atletico River Plate S1,ON,Club Atletico River Plate,ARS,0.32,53327747,,,Titulos de Deuda en Peso Argentina,18
+e,Cedear The Coca Cola,Cedear,The Coca Cola,ARS,0.32,53327747,,,Participaciones Accionarias Argentina,12
+e,FF Comafi Leasing 18 Cl A,Fideicomiso financiero,Comafi Leasing,,0.22,36662826,,,Certificados de Participacion Argentina,14
+e,Cedear Microsoft,Cedear,Microsoft,ARS,0.17,28330366,,,Participaciones Accionarias Argentina,14
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,0.1,16664921,,,Participaciones Accionarias Argentina,77
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,0.1,16664921,,,Certificados de Participacion Argentina,47
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,0.08,13331937,,,Participaciones Accionarias Argentina,104
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.03,4999476,,,Certificados de Participacion Argentina,96
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,0.01,1666492,,,Participaciones Accionarias Argentina,85
+p,Stonex Balanceado VI,StoneX,RF ARS Disc,22.8794,0.3545,4,,,,
+p,MAF Renta Balanceada 2,Mariva,RM y Otros ARS,20.7562,0.4215,2,,,,
+p,Toronto Trust Gestión,Investis,RM y Otros ARS,18.533,0.2442,2,,,,
+p,MAF Liquidez,Mariva,MM ARS Dinámico,18.1984,0.4967,1,,,,
+p,MAF Money Market,Mariva,MM ARS Clásico,18.1984,0.4884,1,,,,
+p,Pionero Pesos,Macro,MM ARS Clásico,18.1984,0.4665,1,,,,
+p,IAM Ahorro Pesos,BIND,MM ARS Clásico,18.1984,0.3615,1,,,,
+p,Argenfunds Renta Total,Argenfunds,RF USD Linked,18.1984,0.3001,1,,,,

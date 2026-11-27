@@ -1,0 +1,75 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Argenfunds Renta Argentina,,,,,,,,
+m,gerente,Argenfunds S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,67780838796,,,,,,,,
+m,aum_planilla,67780838796,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63675,,,,,,,,
+m,n_especies,23,,,,,,,,
+m,activos_pn,98.82,,,,,,,,
+m,pasivos_cnv,1.18,,,,,,,,
+m,liquidez,0.32,,,,,,,,
+m,top1,22.03,,,,,,,,
+m,top5,67.11,,,,,,,,
+m,top10,85.47,,,,,,,,
+m,hhi_especies,1196.4556,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,71.27,,,,,,,,
+m,hhi_emisores,5195.3954,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,71.27,9,,,,,,,
+t,ON,14.99,9,,,,,,,
+t,Subsoberano,8.51,3,,,,,,,
+t,Plazo fijo,3.73,1,,,,,,,
+t,Caución,0.32,1,,,,,,,
+c,ARS,98.82,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,94.77,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,4.05,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,1.18,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-1.18,,,,,,,,
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,22.03,14932118787,,,Titulos de Deuda en Peso Argentina,64
+e,Bono Par ARS Ley AR PARP,Soberano,Tesoro Nacional,ARS,20.44,13854403450,,,Titulos de Deuda en Peso Argentina,17
+e,Boncer Mendoza C1,Soberano,Tesoro Nacional,ARS,10.11,6852642802,,,Titulos de Deuda en Peso Argentina,49
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,7.52,5097119077,,,Titulos de Deuda en Peso Argentina,136
+e,Letra Prov Bs As PBA28,Subsoberano,Prov. Buenos Aires,ARS,7.01,4751436800,,,Titulos de Deuda en Peso Argentina,28
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,3.89,2636674629,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Boncer TX28,Soberano,Tesoro Nacional,ARS,3.87,2623118461,,,Titulos de Deuda en Peso Argentina,40
+e,Pzo Fi $ Bco Sol,Plazo fijo,Banco Sol,ARS,3.73,2528225287,,,Operaciones a Plazo en Peso Argentina,31
+e,ON Genneia Clase 42,ON,Genneia,ARS,3.62,2453666364,,,Titulos de Deuda en Peso Argentina,12
+e,ON Banco Nacion Argentina Clase 3,ON,Banco Nacion Argentina,ARS,3.25,2202877261,,,Titulos de Deuda en Peso Argentina,33
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,2.13,1443731866,,,Titulos de Deuda en Peso Argentina,61
+e,ON Telecom C19 TLCKO,ON,Telecom,ARS,1.75,1186164679,,,Titulos de Deuda en Peso Argentina,30
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,1.51,1023490666,,,Titulos de Deuda en Peso Argentina,142
+e,ON Arcor C6,ON,Arcor,ARS,1.43,969265995,,,Titulos de Deuda en Peso Argentina,31
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,1.26,854038569,,,Titulos de Deuda en Peso Argentina,61
+e,Bono Muni Cordoba S2 13022027,Subsoberano,Muni. Cordoba,ARS,1.23,833704317,,,Titulos de Deuda en Peso Argentina,29
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,1.05,711698807,,,Titulos de Deuda en Peso Argentina,56
+e,Bono del Tesoro 2.5% 2031,Soberano,Tesoro Nacional,ARS,0.64,433797368,,,Titulos de Deuda en Peso Argentina,24
+e,ON ICBC Clase 5 110327,ON,ICBC,ARS,0.62,420241201,,,Titulos de Deuda en Peso Argentina,36
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,0.61,413463117,,,Titulos de Deuda en Peso Argentina,67
+e,ON Santander Rio S 32,ON,Santander Rio,ARS,0.53,359238446,,,Titulos de Deuda en Peso Argentina,42
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,0.32,216898684,,,Operaciones a Plazo en Peso Argentina,73
+e,Bono Muni Cordoba S1 26032027,Subsoberano,Muni. Cordoba,ARS,0.27,183008265,,,Titulos de Deuda en Peso Argentina,20
+p,Argenfunds Gestión Pesos,Argenfunds,RF ARS Disc,65.5797,0.875,12,,,,
+p,Argenfunds Renta Dinamica,Argenfunds,RF MULT Disc,34.9837,0.2999,13,,,,
+p,1810 Renta Mixta,Proahorro,RM y Otros ARS,28.0814,0.4867,4,,,,
+p,Premier Capital,Supervielle,RF ARS CER,23.179,0.3396,2,,,,
+p,Chaco Fondos Renta Fija I,Chaco,RF ARS Disc,22.4155,0.357,2,,,,
+p,Argenfunds Abierto Pymes,Argenfunds,PYME,21.8861,0.598,8,,,,
+p,SBS Desarrollo Infraestructura II,SBS,INFRA,21.777,0.2615,3,,,,
+p,SBS Multiactivos,SBS,RF MULT Disc,21.6425,0.3641,1,,,,

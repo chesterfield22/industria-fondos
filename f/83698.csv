@@ -1,0 +1,72 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Consultatio ST Fondo Comun De Inversión ASG,,,,,,,,
+m,gerente,Consultatio Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,ASG,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,4177709355,,,,,,,,
+m,aum_planilla,4177709355,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83698,,,,,,,,
+m,n_especies,21,,,,,,,,
+m,activos_pn,100.03,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.34,,,,,,,,
+m,top1,15.6,,,,,,,,
+m,top5,48.61,,,,,,,,
+m,top10,75.89,,,,,,,,
+m,hhi_especies,752.152,,,,,,,,
+m,n_emisores,13,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,27.33,,,,,,,,
+m,hhi_emisores,1467.4174,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,72.3,16,,,,,,,
+t,Soberano,27.33,4,,,,,,,
+t,FCI,0.07,1,,,,,,,
+c,ARS,99.63,,,,,,,,
+c,sin dato,0.07,,,,,,,,
+r,Disponibilidades,0.34,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.62,,,,,,,,
+r,Certificados de Participacion Argentina,0.07,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.03,,,,,,,,
+e,ON Genneia Clase 39,ON,Genneia,ARS,15.6,651722659,,,Titulos de Deuda en Peso Argentina,9
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,9.65,403148953,,,Titulos de Deuda en Peso Argentina,86
+e,ON BBVA Frances Cl 47,ON,BBVA Frances,ARS,8.75,365549569,,,Titulos de Deuda en Peso Argentina,45
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,7.76,324190246,,,Titulos de Deuda en Peso Argentina,250
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,6.85,286173091,,,Titulos de Deuda en Peso Argentina,149
+e,ON Telecom C18 TLCJO,ON,Telecom,ARS,6.46,269880024,,,Titulos de Deuda en Peso Argentina,11
+e,ON Banco de Galicia 32 BYY1O,ON,Banco de Galicia,ARS,6.26,261524606,,,Titulos de Deuda en Peso Argentina,44
+e,ON YPF Clase 34,ON,YPF,ARS,5.76,240636059,,,Titulos de Deuda en Peso Argentina,46
+e,ON YPF Energia Electrica C21,ON,YPF Energia Electrica,ARS,4.57,190921318,,,Titulos de Deuda en Peso Argentina,17
+e,ON Banco Hipotecario C13,ON,Banco Hipotecario,ARS,4.23,176717106,,,Titulos de Deuda en Peso Argentina,13
+e,ON Telecom C19 TLCKO,ON,Telecom,ARS,3.95,165019520,,,Titulos de Deuda en Peso Argentina,30
+e,ON YPF Luz C18 YFCJO,ON,YPF Luz,ARS,3.84,160424039,,,Titulos de Deuda en Peso Argentina,41
+e,ON Supervielle Clase X,ON,Supervielle,ARS,3.82,159588497,,,Titulos de Deuda en Peso Argentina,18
+e,ON YPF Clase 43,ON,YPF,ARS,3.8,158752955,,,Titulos de Deuda en Peso Argentina,34
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,3.07,128255677,,,Titulos de Deuda en Peso Argentina,166
+e,ON BBVA Frances Cl 39,ON,BBVA Frances,ARS,2.72,113633694,,,Titulos de Deuda en Peso Argentina,10
+e,ON BBVA Frances Cl 40,ON,BBVA Frances,ARS,1.55,64754495,,,Titulos de Deuda en Peso Argentina,19
+e,ON Sumatoria C7 S2,ON,Sumatoria,ARS,0.65,27155111,,,Titulos de Deuda en Peso Argentina,13
+e,ON Red Surcos S9 Clase A,ON,Red Surcos,ARS,0.19,7937648,,,Titulos de Deuda en Peso Argentina,9
+e,ON Red Surcos S14 Clase A,ON,Red Surcos,ARS,0.15,6266564,,,Titulos de Deuda en Peso Argentina,8
+e,FCI GMC Money Market - Clase C,FCI,GMC Money Market,,0.07,2924397,,,Certificados de Participacion Argentina,22
+p,Fima Cartera Sustentable FCI ASG,Galicia,ASG,24.4233,0.4399,2,,,,
+p,Consultatio Crecimiento,Consultatio,RF MULT Disc,22.6294,0.3036,3,,,,
+p,GSS I,Grupo SS,RF ARS Disc,22.2796,0.2799,4,,,,
+p,Tango Ahorro Plus,Tango,T+1,19.6289,0.3493,3,,,,
+p,Alpha Renta Fija Serie 1,ICBC,RF MULT Disc,19.6289,0.3348,3,,,,
+p,Champaquí Renta Plus,Bancor,RF ARS Lecap,19.6289,0.3238,3,,,,
+p,Alpha Renta Fija Serie 6,ICBC,T+1,19.6289,0.3172,3,,,,
+p,Alpha Renta Crecimiento,ICBC,T+1,19.6289,0.2941,3,,,,

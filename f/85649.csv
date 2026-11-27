@@ -1,0 +1,72 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pionero Recovery,,,,,,,,
+m,gerente,Macro Fondos S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,3667353892,,,,,,,,
+m,aum_planilla,3667353892,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85649,,,,,,,,
+m,n_especies,20,,,,,,,,
+m,activos_pn,100.72,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.62,,,,,,,,
+m,top1,16.79,,,,,,,,
+m,top5,44.9,,,,,,,,
+m,top10,72.64,,,,,,,,
+m,hhi_especies,724.5008,,,,,,,,
+m,n_emisores,20,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,16.79,,,,,,,,
+m,hhi_emisores,724.5008,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,78.15,18,,,,,,,
+t,Soberano,16.79,1,,,,,,,
+t,FCI,5.16,1,,,,,,,
+c,ARS,94.94,,,,,,,,
+c,sin dato,5.16,,,,,,,,
+r,Disponibilidades,0.62,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,16.79,,,,,,,,
+r,Participaciones Accionarias Argentina,78.15,,,,,,,,
+r,Certificados de Participacion Argentina,5.16,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.72,,,,,,,,
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,ARS,16.79,615748719,,,Titulos de Deuda en Peso Argentina,62
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,7.46,273584600,,,Participaciones Accionarias Argentina,117
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,7.08,259648656,,,Participaciones Accionarias Argentina,86
+e,YPF S.A.,Acción,YPF,ARS,6.82,250113535,,,Participaciones Accionarias Argentina,122
+e,Inversiones y Representaciones S.A. (IRSA),Acción,Inversiones y Representaciones S.A. (IRSA),ARS,6.75,247546388,,,Participaciones Accionarias Argentina,35
+e,Metrogas S.A.,Acción,Metrogas,ARS,6.49,238011268,,,Participaciones Accionarias Argentina,54
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,5.49,201337729,,,Participaciones Accionarias Argentina,129
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,5.39,197670375,,,Participaciones Accionarias Argentina,83
+e,Transener S.A.,Acción,Transener,ARS,5.21,191069138,,,Participaciones Accionarias Argentina,84
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,5.16,189235461,,,Certificados de Participacion Argentina,77
+e,Cresud S.A.,Acción,Cresud,ARS,4.91,180067076,,,Participaciones Accionarias Argentina,38
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,4.11,150728245,,,Participaciones Accionarias Argentina,104
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,3.9,143026802,,,Participaciones Accionarias Argentina,104
+e,Transportadora de Gas del Norte S.A.,Acción,Transportadora de Gas del Norte,ARS,3.21,117722060,,,Participaciones Accionarias Argentina,70
+e,Banco Hipotecario S.A.,Acción,Banco Hipotecario,ARS,2.49,91317112,,,Participaciones Accionarias Argentina,8
+e,Banco de Valores S.A.,Acción,Banco de Valores,ARS,2.38,87283023,,,Participaciones Accionarias Argentina,31
+e,Grupo Supervielle S.A.,Acción,Grupo Supervielle,ARS,2.14,78481373,,,Participaciones Accionarias Argentina,64
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,1.88,68946253,,,Participaciones Accionarias Argentina,77
+e,Autopistas del Sol S.A.,Acción,Autopistas del Sol,ARS,1.53,56110515,,,Participaciones Accionarias Argentina,12
+e,Mirgor S.A.,Acción,Mirgor,ARS,0.91,33372920,,,Participaciones Accionarias Argentina,9
+p,Toronto Trust Multimercado,Investis,RV ARG Otros,55.7722,0.5912,16,,,,
+p,Compass Crecimiento,Investis,RV ARG Merval,51.7247,0.5878,15,,,,
+p,Ciclo Nova Value,Ciclo Nova,RV ARG Rofex 20,50.3902,0.5569,14,,,,
+p,Pionero Acciones,Macro,RV ARG Merval,49.9676,0.5894,16,,,,
+p,Alpha Mega,ICBC,RV ARG Merval,48.5049,0.5386,14,,,,
+p,Max Acciones Argentinas,Max Capital,RV ARG Merval,48.2024,0.539,14,,,,
+p,Lombard Acciones Lideres,Patagonia,RV ARG Merval,47.9698,0.546,16,,,,
+p,1822 Raices Valores Negociables,Provinfondos,RV ARG Merval,47.4154,0.5184,15,,,,

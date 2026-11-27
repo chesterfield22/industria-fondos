@@ -1,0 +1,81 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Consultatio Estrategico,,,,,,,,
+m,gerente,Consultatio Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,26093010406,,,,,,,,
+m,aum_planilla,26093010406,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63554,,,,,,,,
+m,n_especies,26,,,,,,,,
+m,activos_pn,100,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.07,,,,,,,,
+m,top1,26.22,,,,,,,,
+m,top5,66.41,,,,,,,,
+m,top10,84.03,,,,,,,,
+m,hhi_especies,1300.9649,,,,,,,,
+m,n_emisores,13,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,66.16,,,,,,,,
+m,hhi_emisores,4562.0096,,,,,,,,
+m,sin_emisor_pct,5.77,,,,,,,,
+t,Soberano,66.16,7,,,,,,,
+t,ON,19.14,8,,,,,,,
+t,Subsoberano,8.82,4,,,,,,,
+t,Pagaré,5.77,5,,,,,,,
+t,FCI,0.02,2,,,,,,,
+c,ARS,98.92,,,,,,,,
+c,USD,0.97,,,,,,,,
+c,sin dato,0.02,,,,,,,,
+r,Disponibilidades,0.07,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,98.94,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Billete,0.97,,,,,,,,
+r,Certificados de Participacion Argentina,0.02,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0,,,,,,,,
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,26.22,6841587329,,,Titulos de Deuda en Peso Argentina,165
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,19.28,5030732406,,,Titulos de Deuda en Peso Argentina,84
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,8.61,2246608196,,,Titulos de Deuda en Peso Argentina,146
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,6.64,1732575891,,,Titulos de Deuda en Peso Argentina,56
+e,Bono Disc ARS Ley AR DICP,Soberano,Tesoro Nacional,ARS,5.66,1476864389,,,Titulos de Deuda en Peso Argentina,59
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,4.84,1262901704,,,Titulos de Deuda en Peso Argentina,67
+e,Bono Prov Cordoba Clase 4,Subsoberano,Prov. Cordoba,ARS,4.5,1174185468,,,Titulos de Deuda en Peso Argentina,37
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,3.48,908036762,,,Titulos de Deuda en Peso Argentina,250
+e,Pagare #MAV241160032,Pagaré,,ARS,2.44,636669454,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV011260016,Pagaré,,ARS,2.36,615795046,,,Titulos de Deuda en Peso Argentina,1
+e,Boncer Mendoza C1,Soberano,Tesoro Nacional,ARS,2.23,581874132,,,Titulos de Deuda en Peso Argentina,49
+e,ON Generacion Litoral C1,ON,Generacion Litoral,ARS,1.92,500985800,,,Titulos de Deuda en Peso Argentina,12
+e,ON Telecom C24,ON,Telecom,ARS,1.64,427925371,,,Titulos de Deuda en Peso Argentina,33
+e,Bono Prov Cordoba Clase 6,Subsoberano,Prov. Cordoba,ARS,1.61,420097468,,,Titulos de Deuda en Peso Argentina,36
+e,ON Pampa Energia C23 (RegS),ON,Pampa Energia,ARS,1.6,417488167,,,Titulos de Deuda en Peso Argentina,36
+e,Bono Prov San Juan SJO35,Subsoberano,Prov. San Juan,ARS,1.52,396613758,,,Titulos de Deuda en Peso Argentina,33
+e,ON Bco Ciudad C23,ON,Banco Ciudad,ARS,1.28,333990533,,,Titulos de Deuda en Peso Argentina,16
+e,ON Banco de Galicia 32 BYY1O,ON,Banco de Galicia,ARS,1.2,313116125,,,Titulos de Deuda en Peso Argentina,44
+e,Bono Prov Mendoza TAMAR C2,Subsoberano,Prov. Mendoza TAMAR,ARS,1.19,310506824,,,Titulos de Deuda en Peso Argentina,24
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,ARS,0.68,177432471,,,Titulos de Deuda en Peso Argentina,72
+e,Pagare #UMV181260001,Pagaré,,USD,0.53,138292955,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,Pagare #UMV250670001,Pagaré,,USD,0.37,96544139,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,Pagare #UMV041160039,Pagaré,,USD,0.07,18265107,,,Titulos de Deuda en Dolar Estadounidense Billete,1
+e,ON Red Surcos S11,ON,Red Surcos,ARS,0.02,5218602,,,Titulos de Deuda en Peso Argentina,6
+e,FCI Argenfunds Liquidez - Clase B,FCI,Argenfunds Liquidez,,0.01,2609301,,,Certificados de Participacion Argentina,50
+e,FCI MEGAQM Pesos - Clase A,FCI,MEGAQM Pesos,,0.01,2609301,,,Certificados de Participacion Argentina,8
+p,Consultatio Deuda Argentina,Consultatio,RF ARS CER,65.5114,0.8763,8,,,,
+p,Consultatio Tactico,Consultatio,RF MULT Disc,63.317,0.8871,6,,,,
+p,Consultatio Global,Consultatio,RF MULT Disc,61.2623,0.8819,6,,,,
+p,Consultatio Balance Fund,Consultatio,RF MULT Disc,59.0351,0.8626,15,,,,
+p,Consultatio One Ahorro,Consultatio,RF ARS CER,57.4883,0.7717,6,,,,
+p,Consultatio Renta Dolares,Consultatio,RM y Otros ARS,55.3171,0.7876,11,,,,
+p,Fima Renta Pesos,Galicia,RF ARS CER,54.1587,0.8173,3,,,,
+p,Fima Renta Plus,Galicia,RF ARS CER,53.508,0.7215,3,,,,

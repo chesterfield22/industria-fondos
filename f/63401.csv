@@ -1,0 +1,130 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Galileo Event Driven,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF USD GL Inc ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Latinoamerica,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,277422113,,,,,,,,
+m,aum_planilla,277422113,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63401,,,,,,,,
+m,n_especies,73,,,,,,,,
+m,activos_pn,100.35,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,7.59,,,,,,,,
+m,top1,2.95,,,,,,,,
+m,top5,12.54,,,,,,,,
+m,top10,22.96,,,,,,,,
+m,hhi_especies,142.4411,,,,,,,,
+m,n_emisores,66,,,,,,,,
+m,emisor_top,Ecopetrol,,,,,,,,
+m,emisor_top_pct,4.23,,,,,,,,
+m,hhi_emisores,158.1391,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Corporativo exterior,62.58,52,,,,,,,
+t,ON,13.03,10,,,,,,,
+t,Otro título de deuda,6.87,4,,,,,,,
+t,Soberano exterior,3.91,3,,,,,,,
+t,Soberano,2.41,1,,,,,,,
+t,Acción,2.04,1,,,,,,,
+t,FCI,1.82,1,,,,,,,
+t,Fideicomiso financiero,0.01,1,,,,,,,
+c,sin dato,90.85,,,,,,,,
+c,USD,1.82,,,,,,,,
+r,Disponibilidades,7.59,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Cable,88.77,,,,,,,,
+r,Participaciones Accionarias Chile,2.04,,,,,,,,
+r,Certificados de Participacion Argentina,1.83,,,,,,,,
+r,Otros Activos,0.12,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.35,,,,,,,,
+e,BC Adecoagro 7.5% 2032,Corporativo exterior,Adecoagro,,2.95,8183952,,,Titulos de Deuda en Dolar Estadounidense Cable,6
+e,Ecopetrol 8.875% 2033,Otro título de deuda,Ecopetrol,,2.62,7268459,,,Titulos de Deuda en Dolar Estadounidense Cable,4
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,,2.41,6685873,,,Titulos de Deuda en Dolar Estadounidense Cable,83
+e,BC Cosan 2015,Corporativo exterior,Cosan,,2.34,6491677,,,Titulos de Deuda en Dolar Estadounidense Cable,3
+e,BC Usiminas International,Corporativo exterior,Usiminas International,,2.22,6158771,,,Titulos de Deuda en Dolar Estadounidense Cable,8
+e,BC AES Clase 8.15% 2055,Corporativo exterior,AES,,2.2,6103286,,,Titulos de Deuda en Dolar Estadounidense Cable,3
+e,BC Samarco 9% 2031,Corporativo exterior,Samarco,,2.15,5964575,,,Titulos de Deuda en Dolar Estadounidense Cable,5
+e,BC Forsea 7.5%,Corporativo exterior,Forsea,,2.04,5659411,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,Banco de Chile,Acción,Banco de Chile,,2.04,5659411,,,Participaciones Accionarias Chile,11
+e,BC Davivienda 6.65% Perp,Corporativo exterior,Davivienda,,1.99,5520700,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,ON Aeropuertos 2000 Regs 2031,ON,Aeropuertos,,1.98,5492958,,,Titulos de Deuda en Dolar Estadounidense Cable,22
+e,BC Bco de Crédito 7.5%,Corporativo exterior,Banco de Crédito,,1.86,5160051,,,Titulos de Deuda en Dolar Estadounidense Cable,3
+e,FCI Megaqm Liquidez Dólar - Clase B,FCI,Megaqm Liquidez Dólar,USD,1.82,5049082,,,Certificados de Participacion Argentina,20
+e,BC 3R Petroleum 9.75% 050231,Corporativo exterior,3R Petroleum,,1.8,4993598,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,BC Banorte Perp.,Corporativo exterior,Banorte Perp,,1.79,4965856,,,Titulos de Deuda en Dolar Estadounidense Cable,3
+e,BC Brasil 110630,Soberano exterior,Brasil (soberano),,1.77,4910371,,,Titulos de Deuda en Dolar Estadounidense Cable,9
+e,BC Latam Airlines 7.875%,Corporativo exterior,Latam Airlines,,1.74,4827145,,,Titulos de Deuda en Dolar Estadounidense Cable,15
+e,BC Pretorio 6.75% 101530,Corporativo exterior,Pretorio,,1.7,4716176,,,Titulos de Deuda en Dolar Estadounidense Cable,5
+e,Ecopetrol 8.375% 2036,Otro título de deuda,Ecopetrol,,1.61,4466496,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC Nova Securitisation 6.5% 030236,Corporativo exterior,Nova Securitisation,,1.58,4383269,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC Bancomer 2028,Corporativo exterior,Bancomer,,1.55,4300043,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,ON Telecom C24,ON,Telecom,,1.49,4133589,,,Titulos de Deuda en Dolar Estadounidense Cable,33
+e,BC Mercado Libre 2036,Corporativo exterior,Mercado Libre,,1.48,4105847,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,ON Gpo Televisa 310146,ON,Gpo Televisa,,1.45,4022621,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC Aesdom 7.75% 030833,Corporativo exterior,Aesdom,,1.42,3939394,,,Titulos de Deuda en Dolar Estadounidense Cable,3
+e,ON Tecpetrol C12,ON,Tecpetrol,,1.4,3883910,,,Titulos de Deuda en Dolar Estadounidense Cable,60
+e,BC Promigas 240656,Corporativo exterior,Promigas,,1.39,3856167,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,MV24 Capital 6.748%,Otro título de deuda,MV24 Capital,,1.36,3772941,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,BC Tupy 160231,Corporativo exterior,Tupy,,1.29,3578745,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,ON Banco Macro Clase G,ON,Banco Macro,,1.29,3578745,,,Titulos de Deuda en Dolar Estadounidense Cable,32
+e,BC Pemex 2047,Corporativo exterior,Pemex,,1.29,3578745,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,Yinson MQ 8.498% 2045,Otro título de deuda,Yinson MQ,,1.28,3551003,,,Titulos de Deuda en Dolar Estadounidense Cable,3
+e,BC Yinson Production,Corporativo exterior,Yinson Production,,1.27,3523261,,,Titulos de Deuda en Dolar Estadounidense Cable,4
+e,BC Banorte 8.375% Perp,Corporativo exterior,Banorte,,1.26,3495519,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC BTG Pactual 2030,Corporativo exterior,BTG Pactual,,1.25,3467776,,,Titulos de Deuda en Dolar Estadounidense Cable,6
+e,BC Al Candelaria 5.75% 130633,Corporativo exterior,Al Candelaria,,1.24,3440034,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,BC Braskem Idesa 2032,Corporativo exterior,Braskem Idesa,,1.2,3329065,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,ON MSU C12,ON,MSU,,1.13,3134870,,,Titulos de Deuda en Dolar Estadounidense Cable,8
+e,ON Codelco 130135,ON,Codelco,,1.11,3079385,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC COS 7.7% 030833,Corporativo exterior,COS,,1.11,3079385,,,Titulos de Deuda en Dolar Estadounidense Cable,3
+e,BC ACUPET 7.5%,Corporativo exterior,ACUPET,,1.11,3079385,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,ON Vista Gas y Oil Arg C29,ON,Vista Gas y Oil Arg,,1.1,3051643,,,Titulos de Deuda en Dolar Estadounidense Cable,58
+e,ON Genneia Clase 47,ON,Genneia,,1.09,3023901,,,Titulos de Deuda en Dolar Estadounidense Cable,21
+e,BC Peru LNG 2030,Soberano exterior,Perú (soberano),,1.08,2996159,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC Vale Overseas 2056,Corporativo exterior,Vale Overseas,,1.07,2968417,,,Titulos de Deuda en Dolar Estadounidense Cable,3
+e,CO Colombia 2036,Soberano exterior,Colombia (soberano),,1.06,2940674,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC BCICI 8.75% Perp,Corporativo exterior,BCICI,,1.05,2912932,,,Titulos de Deuda en Dolar Estadounidense Cable,5
+e,BC JBS 2037,Corporativo exterior,JBS,,1.04,2885190,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC Rede 6.55% 280436,Corporativo exterior,Rede,,1.02,2829706,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC Bioenergia 2033,Corporativo exterior,Bioenergia,,1,2774221,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,BC Auna 110632,Corporativo exterior,Auna,,0.99,2746479,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,ON Pampa Energia C23 (RegS),ON,Pampa Energia,,0.99,2746479,,,Titulos de Deuda en Dolar Estadounidense Cable,36
+e,BC Raizen 6.7% 2037,Corporativo exterior,Raizen,,0.98,2718737,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,BC Azul 9.875% 150231,Corporativo exterior,Azul,,0.94,2607768,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,BC Sierracol 9% 141130,Corporativo exterior,Sierracol,,0.87,2413572,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC Codelco 6.44% 260136,Corporativo exterior,Codelco,,0.86,2385830,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC Aeromexico 8.625% 151131,Corporativo exterior,Aeromexico,,0.86,2385830,,,Titulos de Deuda en Dolar Estadounidense Cable,5
+e,BC Raizen 5.7% 2035,Corporativo exterior,Raizen,,0.85,2358088,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC Banco Nac Mexico 070836,Corporativo exterior,Banco Nac Mexico,,0.81,2247119,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,BC Minerva Luxembourg 130933,Corporativo exterior,Minerva Luxembourg,,0.8,2219377,,,Titulos de Deuda en Dolar Estadounidense Cable,5
+e,BC Sierracol 6% 150628,Corporativo exterior,Sierracol,,0.73,2025181,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC Oceanica 080531,Corporativo exterior,Oceanica,,0.72,1997439,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,BC El Salvador 9.25% 2030,Corporativo exterior,El Salvador,,0.68,1886470,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC Rumo Lux 4.2% 180132,Corporativo exterior,Rumo Lux,,0.62,1720017,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,BC WOM Mobile 010431,Corporativo exterior,WOM Mobile,,0.61,1692275,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC Pemex 28012060,Corporativo exterior,Pemex,,0.57,1581306,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC Bco Brasil 6.25% 180430,Corporativo exterior,Banco Brasil,,0.54,1498079,,,Titulos de Deuda en Dolar Estadounidense Cable,6
+e,BC Avianca 9% 2031,Corporativo exterior,Avianca,,0.42,1165173,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,BC Banco do Brasil 231031,Corporativo exterior,Banco do Brasil,,0.35,970977.3944,,,Titulos de Deuda en Dolar Estadounidense Cable,2
+e,BC Avianca 2030,Corporativo exterior,Avianca,,0.34,943235.1831,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC Bioenergia 2036,Corporativo exterior,Bioenergia,,0.33,915492.9719,,,Titulos de Deuda en Dolar Estadounidense Cable,1
+e,BC Bradesco 2030,Corporativo exterior,Bradesco,,0.31,860008.5493,,,Titulos de Deuda en Dolar Estadounidense Cable,6
+e,FF Vicentin Export S8 A,Fideicomiso financiero,Vicentin Export,,0.01,27742.2113,,,Certificados de Participacion Argentina,13
+p,Galileo Fixed Income,Delta,RF USD GL Inc ARG,40.9188,0.5302,26,,,,
+p,Compass Renta Mixta Dólares,Investis,RF USD GL Inc ARG,36.8959,0.4643,30,,,,
+p,Vinci Compass Renta Mixta Dólares IV,Investis,RF USD GL Inc ARG,13.0247,0.1869,7,,,,
+p,MEGAQM Corporativo Dólares,MegaQM,RF USD corp loc,8.9349,0.1253,6,,,,
+p,Allaria Dólar Performance,Allaria,RF USD GL Inc ARG,8.7482,0.1216,6,,,,
+p,Balanz Ahorro en Dólares,Balanz,RF USD corp loc,8.09,0.1444,6,,,,
+p,Delta Renta Dólares Plus,Delta,RF USD corp loc,7.8343,0.1464,5,,,,
+p,Parakeet Global,Parakeet,RF USD GL Inc ARG,7.6073,0.1703,5,,,,

@@ -1,0 +1,62 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Compass Renta Plus,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Global,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1249557929,,,,,,,,
+m,aum_planilla,1249557929,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63573,,,,,,,,
+m,n_especies,10,,,,,,,,
+m,activos_pn,98.23,,,,,,,,
+m,pasivos_cnv,1.77,,,,,,,,
+m,liquidez,2.38,,,,,,,,
+m,top1,26.73,,,,,,,,
+m,top5,82.19,,,,,,,,
+m,top10,95.84,,,,,,,,
+m,hhi_especies,1617.141,,,,,,,,
+m,n_emisores,6,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,59.48,,,,,,,,
+m,hhi_emisores,4297.5242,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,59.48,5,,,,,,,
+t,ON,28.72,2,,,,,,,
+t,Subsoberano,6.32,1,,,,,,,
+t,FCI,1.32,2,,,,,,,
+c,ARS,94.52,,,,,,,,
+c,sin dato,1.32,,,,,,,,
+r,Disponibilidades,2.38,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,94.53,,,,,,,,
+r,Certificados de Participacion Argentina,1.32,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,1.77,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-1.77,,,,,,,,
+e,ON Pampa Energia C13,ON,Pampa Energia,ARS,26.73,334006834,,,Titulos de Deuda en Peso Argentina,30
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,19.72,246412824,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,15.84,197929976,,,Titulos de Deuda en Peso Argentina,84
+e,Boncer TZXY7,Soberano,Tesoro Nacional,ARS,11.28,140950134,,,Titulos de Deuda en Peso Argentina,76
+e,Bonos Rep Argentina GD38,Soberano,Tesoro Nacional,ARS,8.62,107711893,,,Titulos de Deuda en Peso Argentina,38
+e,Bono Prov Neuquen 2025,Subsoberano,Prov. Neuquen,ARS,6.32,78972061,,,Titulos de Deuda en Peso Argentina,5
+e,Bonos Rep Argentina GD30,Soberano,Tesoro Nacional,ARS,4.02,50232229,,,Titulos de Deuda en Peso Argentina,37
+e,ON Refi Pampa S3 B,ON,Refi Pampa,ARS,1.99,24866203,,,Titulos de Deuda en Peso Argentina,11
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,1.1,13745137,,,Certificados de Participacion Argentina,77
+e,FCI BM Smart Money Market - Clase B,FCI,BM Smart Money Market,,0.22,2749027,,,Certificados de Participacion Argentina,34
+p,Optimum FAE (Fondo de Aplicaciones Especiales),SAM Arg,RF MULT Disc,38.1205,0.4351,3,,,,
+p,Consultatio Renta Balanceada,Consultatio,RF ARS Disc,37.1035,0.5,2,,,,
+p,Fima Renta Plus,Galicia,RF ARS CER,37.1035,0.4982,2,,,,
+p,Argenfunds Renta Balanceada,Argenfunds,RF ARS CER,35.7443,0.4047,3,,,,
+p,Fima Renta Pesos,Galicia,RF ARS CER,34.4476,0.3813,2,,,,
+p,Arpenta Ahorro Pesos,Mercofond,T+1,34.0328,0.3839,2,,,,
+p,Novus Estrategia,Novus,RF ARS CER,32.9513,0.4447,3,,,,
+p,Axis Estrategia 15,Axis,RF MULT Disc,32.6395,0.3719,2,,,,

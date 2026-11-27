@@ -1,0 +1,79 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pionero Ahorro Dolár Plus,,,,,,,,
+m,gerente,Macro Fondos S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,79977246,,,,,,,,
+m,aum_planilla,79977246,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86898,,,,,,,,
+m,n_especies,21,,,,,,,,
+m,activos_pn,100.36,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,14.21,,,,,,,,
+m,top1,23.39,,,,,,,,
+m,top5,62.86,,,,,,,,
+m,top10,77.03,,,,,,,,
+m,hhi_especies,1051.2223,,,,,,,,
+m,n_emisores,20,,,,,,,,
+m,emisor_top,Banco de Valores,,,,,,,,
+m,emisor_top_pct,15.66,,,,,,,,
+m,hhi_emisores,504.1302,,,,,,,,
+m,sin_emisor_pct,23.39,,,,,,,,
+t,Acción,50.88,14,,,,,,,
+t,Pagaré,23.39,1,,,,,,,
+t,Soberano,9.65,1,,,,,,,
+t,Cedear,1.3,4,,,,,,,
+t,ETF,0.33,1,,,,,,,
+c,USD,33.04,,,,,,,,
+c,sin dato,26.7,,,,,,,,
+c,ARS,25.81,,,,,,,,
+r,Disponibilidades,14.21,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,33.04,,,,,,,,
+r,Participaciones Accionarias Argentina,25.81,,,,,,,,
+r,Participaciones Accionarias Estados Unidos,13.66,,,,,,,,
+r,Participaciones Accionarias Brasil,12.71,,,,,,,,
+r,Certificados de Participacion Estados Unidos,0.33,,,,,,,,
+r,Certificados de Participacion Argentina,,,,,,,,,
+r,Otros Activos,0.6,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.36,,,,,,,,
+e,Pagare #UMV130170001,Pagaré,,USD,23.39,18706678,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Banco de Valores S.A.,Acción,Banco de Valores,ARS,15.66,12524437,,,Participaciones Accionarias Argentina,31
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,9.65,7717804,,,Titulos de Deuda en Dolar Estadounidense,83
+e,PagSeguro Digital Ltd,Acción,PagSeguro Digital Ltd,,9.27,7413891,,,Participaciones Accionarias Brasil,1
+e,YPF S.A.,Acción,YPF,ARS,4.89,3910887,,,Participaciones Accionarias Argentina,122
+e,ADR Banco Bradesco - Pref,Acción,ADR Banco Bradesco - Pref,,4.63,3702946,,,Participaciones Accionarias Estados Unidos,2
+e,NU Holdings Ltd,Acción,NU Holdings Ltd,,3.44,2751217,,,Participaciones Accionarias Brasil,3
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,2.25,1799488,,,Participaciones Accionarias Argentina,117
+e,ADR Vale,Acción,ADR Vale,,2.06,1647531,,,Participaciones Accionarias Estados Unidos,2
+e,ADR Vista Oil y Gas,Acción,ADR Vista Oil y Gas,,1.79,1431593,,,Participaciones Accionarias Estados Unidos,3
+e,Advanced Micro Devices Incorporated,Acción,Advanced Micro Devices Incorporated,,1.68,1343618,,,Participaciones Accionarias Estados Unidos,1
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,1.39,1111684,,,Participaciones Accionarias Argentina,83
+e,ADR Sid Nacional ON,Acción,ADR Sid Nacional ON,,1.38,1103686,,,Participaciones Accionarias Estados Unidos,1
+e,BlackRock Fund Advisors,Acción,BlackRock Fund Advisors,,1.3,1039704,,,Participaciones Accionarias Estados Unidos,1
+e,Cedear Banco Bradesco,Cedear,Banco Bradesco,ARS,0.91,727792.9348,,,Participaciones Accionarias Argentina,10
+e,ADR Banco Do Brasil,Acción,ADR Banco Do Brasil,,0.82,655813.4138,,,Participaciones Accionarias Estados Unidos,1
+e,Ishares MSCI Brasil,ETF,Ishares MSCI Brasil,,0.33,263924.9104,,,Certificados de Participacion Estados Unidos,5
+e,Grupo Supervielle S.A.,Acción,Grupo Supervielle,ARS,0.32,255927.1859,,,Participaciones Accionarias Argentina,64
+e,Cedear Vale R Doce ON ADR,Cedear,Vale R Doce ON ADR,ARS,0.28,223936.2876,,,Participaciones Accionarias Argentina,12
+e,Cedear PagSeguro Digital,Cedear,PagSeguro Digital,ARS,0.08,63981.7965,,,Participaciones Accionarias Argentina,2
+e,Cedear Companhia Siderurgica Nacional,Cedear,Companhia Siderurgica Nacional,ARS,0.03,23993.1737,,,Participaciones Accionarias Argentina,3
+p,1822 Raices Gestion,Provinfondos,RM y Otros ARS,14.5353,0.1521,6,,,,
+p,Max Acciones Argentinas,Max Capital,RV ARG Merval,12.6164,0.1552,5,,,,
+p,Champaquí Renta Variable,Bancor,RV ARG Rofex 20,12.5726,0.1557,5,,,,
+p,Argenfunds Renta Variable,Argenfunds,RV ARG Rofex 20,12.5376,0.1608,5,,,,
+p,MP Empresas Argentinas,Mercado Pago,RV ARG Rofex 20,12.5104,0.1576,5,,,,
+p,Crecer Acciones,Ciudad,RV ARG Merval,12.4146,0.1376,5,,,,
+p,gForce MSCI MERVAL FCIA ETF,Galicia,RV ARG Merval,12.4061,0.1372,5,,,,
+p,BAVSA Retorno Total,BAVSA,RM y Otros ARS,12.3437,0.1456,2,,,,

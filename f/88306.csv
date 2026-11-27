@@ -1,0 +1,81 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Tango Performance I,,,,,,,,
+m,gerente,Tango Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,Sin clasificar,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,2501071163,,,,,,,,
+m,aum_planilla,2501071163,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88306,,,,,,,,
+m,n_especies,28,,,,,,,,
+m,activos_pn,59.87,,,,,,,,
+m,pasivos_cnv,40.13,,,,,,,,
+m,liquidez,32,,,,,,,,
+m,top1,31.99,,,,,,,,
+m,top5,57.2,,,,,,,,
+m,top10,58.46,,,,,,,,
+m,hhi_especies,1254.3836,,,,,,,,
+m,n_emisores,2,,,,,,,,
+m,emisor_top,Caución Merval,,,,,,,,
+m,emisor_top_pct,31.99,,,,,,,,
+m,hhi_emisores,1043.5202,,,,,,,,
+m,sin_emisor_pct,23.42,,,,,,,,
+t,Caución,31.99,1,,,,,,,
+t,Cheque,15.61,25,,,,,,,
+t,Pagaré,7.81,1,,,,,,,
+t,FCI,4.49,1,,,,,,,
+c,ARS,55.41,,,,,,,,
+c,sin dato,4.49,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,23.38,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,31.99,,,,,,,,
+r,Certificados de Participacion Argentina,4.49,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,40.13,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-40.13,,,,,,,,
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,31.99,800092665,,,Operaciones a Plazo en Peso Argentina,195
+e,Cheque E *MAV080101415,Cheque,,ARS,12.2,305130682,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV101260088,Pagaré,,ARS,7.81,195333658,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Ciclo Nova Ahorro - Clase E,FCI,Ciclo Nova Ahorro,,4.49,112298095,,,Certificados de Participacion Argentina,38
+e,Cheque E *MAV141201309,Cheque,,ARS,0.71,17757605,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201345,Cheque,,ARS,0.44,11004713,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121201690,Cheque,,ARS,0.36,9003856,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201226,Cheque,,ARS,0.2,5002142,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201227,Cheque,,ARS,0.13,3251393,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201230,Cheque,,ARS,0.13,3251393,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121201662,Cheque,,ARS,0.1,2501071,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV121201685,Cheque,,ARS,0.1,2501071,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201224,Cheque,,ARS,0.09,2250964,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201229,Cheque,,ARS,0.09,2250964,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201293,Cheque,,ARS,0.09,2250964,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201294,Cheque,,ARS,0.09,2250964,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201297,Cheque,,ARS,0.09,2250964,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201298,Cheque,,ARS,0.09,2250964,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201295,Cheque,,ARS,0.09,2250964,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201296,Cheque,,ARS,0.09,2250964,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201300,Cheque,,ARS,0.09,2250964,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201299,Cheque,,ARS,0.09,2250964,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201301,Cheque,,ARS,0.09,2250964,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201302,Cheque,,ARS,0.09,2250964,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201660,Cheque,,ARS,0.08,2000857,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201225,Cheque,,ARS,0.04,1000428,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201231,Cheque,,ARS,0.03,750321.3488,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201228,Cheque,,ARS,0.01,250107.1163,,,Titulos de Deuda en Peso Argentina,1
+p,Conosur Financiamiento III,Cono Sur,Sin clasificar,53.4057,0.9032,1,,,,
+p,Wise Capital Money Markets,Wise,MM ARS Clásico,53.4057,0.9032,1,,,,
+p,Adcap Ahorro Dólares,Adcap,MM USD Clásico,50.5073,0.8378,1,,,,
+p,Schroder Corto Plazo,Schroder,RF MULT Disc,43.5088,0.7061,1,,,,
+p,Schroder Multiactivos,Schroder,RF MULT Disc,40.2799,0.7026,1,,,,
+p,Alpha Pesos Plus,ICBC,MM ARS Clásico,40.0925,0.6637,1,,,,
+p,Cocos Ahorro,Cocos,MM ARS Clásico,39.8218,0.6848,1,,,,
+p,CYC Liquidez,CYC,MM ARS Clásico,36.376,0.6956,1,,,,

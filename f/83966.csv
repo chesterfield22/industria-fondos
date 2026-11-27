@@ -1,0 +1,61 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Argenfunds Infraestructura,,,,,,,,
+m,gerente,Argenfunds S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,INFRA,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,7474539135,,,,,,,,
+m,aum_planilla,7474539135,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83966,,,,,,,,
+m,n_especies,10,,,,,,,,
+m,activos_pn,99.91,,,,,,,,
+m,pasivos_cnv,0.09,,,,,,,,
+m,liquidez,2.63,,,,,,,,
+m,top1,18.45,,,,,,,,
+m,top5,73.55,,,,,,,,
+m,top10,99.92,,,,,,,,
+m,hhi_especies,1296.6952,,,,,,,,
+m,n_emisores,9,,,,,,,,
+m,emisor_top,Aluar,,,,,,,,
+m,emisor_top_pct,18.45,,,,,,,,
+m,hhi_emisores,1351.528,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,57.64,4,,,,,,,
+t,Subsoberano,28.82,3,,,,,,,
+t,Soberano,10.84,2,,,,,,,
+t,Caución,2.62,1,,,,,,,
+c,ARS,99.92,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,97.28,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,2.62,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.09,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.09,,,,,,,,
+e,ON Aluar Serie 6,ON,Aluar,ARS,18.45,1379052470,,,Titulos de Deuda en Peso Argentina,28
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,17.29,1292347816,,,Titulos de Deuda en Peso Argentina,67
+e,Bonos de Infra.Vial Prov. de Santa Fe,Subsoberano,Prov. Santa Fe,ARS,15.91,1189199176,,,Titulos de Deuda en Peso Argentina,21
+e,ON CGC C 39,ON,CGC,ARS,13.34,997103521,,,Titulos de Deuda en Peso Argentina,34
+e,ON Telecom C14 TLCFO,ON,Telecom,ARS,8.56,639820550,,,Titulos de Deuda en Peso Argentina,23
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,6.82,509763569,,,Titulos de Deuda en Peso Argentina,136
+e,Bono CABA 2028 BDC28,Subsoberano,Prov. CABA,ARS,6.7,500794122,,,Titulos de Deuda en Peso Argentina,18
+e,Letra Prov Bs As PBA28,Subsoberano,Prov. Buenos Aires,ARS,6.21,464168880,,,Titulos de Deuda en Peso Argentina,28
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,4.02,300476473,,,Titulos de Deuda en Peso Argentina,75
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,2.62,195832925,,,Operaciones a Plazo en Peso Argentina,73
+p,Galileo Multimercado V,Delta,RF MULT Corp,25.4629,0.3436,2,,,,
+p,Ciclo Nova Estructurado II,Ciclo Nova,RM y Otros ARS,24.0534,0.3315,3,,,,
+p,Galileo Premium,Delta,RF USD Linked,24.0154,0.3503,3,,,,
+p,Fima Infraestructura II,Galicia,INFRA,23.7854,0.1986,4,,,,
+p,Argenfunds Abierto Pymes II,Argenfunds,PYME,18.7162,0.378,4,,,,
+p,Delta Gestion IX,Delta,RF USD Linked,16.9091,0.2647,4,,,,
+p,1822 Raices Infraestructura,Provinfondos,INFRA,16.4947,0.177,5,,,,
+p,Argenfunds Gestión Pesos,Argenfunds,RF ARS Disc,15.4854,0.1353,4,,,,

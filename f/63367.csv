@@ -1,0 +1,63 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,SBS Tavelli Plus,,,,,,,,
+m,gerente,SBS Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,RV ARG Otros,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,3866536321,,,,,,,,
+m,aum_planilla,3866536321,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63367,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,99.98,,,,,,,,
+m,pasivos_cnv,0.02,,,,,,,,
+m,liquidez,0.93,,,,,,,,
+m,top1,16.84,,,,,,,,
+m,top5,68.18,,,,,,,,
+m,top10,98.01,,,,,,,,
+m,hhi_especies,1174.8603,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Grupo Financiero Galicia,,,,,,,,
+m,emisor_top_pct,16.84,,,,,,,,
+m,hhi_emisores,1174.8603,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,77.37,9,,,,,,,
+t,Cedear,21.19,2,,,,,,,
+t,FCI,0.49,1,,,,,,,
+c,ARS,98.56,,,,,,,,
+c,sin dato,0.49,,,,,,,,
+r,Disponibilidades,0.93,,,,,,,,
+r,Participaciones Accionarias Argentina,98.56,,,,,,,,
+r,Certificados de Participacion Argentina,0.49,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.02,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.02,,,,,,,,
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,16.84,651124717,,,Participaciones Accionarias Argentina,117
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,15.74,608592817,,,Participaciones Accionarias Argentina,129
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,14.41,557167884,,,Participaciones Accionarias Argentina,104
+e,Cedear Petrobras,Cedear,Petrobras,ARS,11.43,441945102,,,Participaciones Accionarias Argentina,10
+e,Cedear Banco Bradesco,Cedear,Banco Bradesco,ARS,9.76,377373945,,,Participaciones Accionarias Argentina,10
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,9.72,375827330,,,Participaciones Accionarias Argentina,77
+e,Holcim Argentina S.A.,Acción,Holcim Argentina,ARS,7.35,284190420,,,Participaciones Accionarias Argentina,7
+e,Molinos Rio de la Plata S.A.,Acción,Molinos Rio de la Plata,ARS,5.69,220005917,,,Participaciones Accionarias Argentina,1
+e,Telecom Argentina S.A.,Acción,Telecom Argentina,ARS,4.87,188300319,,,Participaciones Accionarias Argentina,43
+e,Aluar Aluminio Argentino S.A.I.C.,Acción,Aluar Aluminio Argentino S.A.I.C,ARS,2.2,85063799,,,Participaciones Accionarias Argentina,56
+e,Rigolleau S.A.,Acción,Rigolleau,ARS,0.55,21265950,,,Participaciones Accionarias Argentina,2
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,0.49,18946028,,,Certificados de Participacion Argentina,47
+p,Parakeet Capital Plus,Parakeet,RV ARG Merval,50.4514,0.6312,5,,,,
+p,Axis Brio Valores I,Axis,RV ARG Otros,49.6427,0.6683,5,,,,
+p,DXA Retorno Total,Dracma,RM y Otros ARS,47.4407,0.6494,3,,,,
+p,ConoSur Visus,Cono Sur,RM y Otros ARS,46.7674,0.6143,5,,,,
+p,Superfondo Renta Variable,Santander,RV ARG Merval,45.8331,0.6455,6,,,,
+p,Champaquí Renta Variable,Bancor,RV ARG Rofex 20,44.859,0.6044,6,,,,
+p,Allaria Acciones,Allaria,RV ARG Merval,44.7747,0.6152,6,,,,
+p,Pionero Acciones,Macro,RV ARG Merval,44.7038,0.601,7,,,,

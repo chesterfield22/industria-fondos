@@ -1,0 +1,74 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,1822 Raices Renta en Dolares,,,,,,,,
+m,gerente,Provinfondos S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Provincia de Buenos Aires,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,16527263,,,,,,,,
+m,aum_planilla,16527263,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86765,,,,,,,,
+m,n_especies,23,,,,,,,,
+m,activos_pn,101.1,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,5.02,,,,,,,,
+m,top1,16.27,,,,,,,,
+m,top5,45.72,,,,,,,,
+m,top10,71.54,,,,,,,,
+m,hhi_especies,698.1485,,,,,,,,
+m,n_emisores,16,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,21.85,,,,,,,,
+m,hhi_emisores,1266.6415,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,71.87,18,,,,,,,
+t,Soberano,21.85,2,,,,,,,
+t,Caución,5.01,1,,,,,,,
+t,BCRA,2.32,2,,,,,,,
+c,USD,101.05,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,96.08,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,5.01,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.1,,,,,,,,
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,USD,16.27,2688986,,,Titulos de Deuda en Dolar Estadounidense,83
+e,ON Banco de Galicia 32 BYY2O,ON,Banco de Galicia,USD,9.19,1518856,,,Titulos de Deuda en Dolar Estadounidense,13
+e,ON BBVA Frances Cl 50,ON,BBVA Frances,USD,7.98,1318876,,,Titulos de Deuda en Dolar Estadounidense,30
+e,ON Banco Comafi C24,ON,Banco Comafi,USD,6.18,1021385,,,Titulos de Deuda en Dolar Estadounidense,10
+e,ON Pampa Energia C27,ON,Pampa Energia,USD,6.1,1008163,,,Titulos de Deuda en Dolar Estadounidense,32
+e,ON Banco de Galicia 33 BYZ1O,ON,Banco de Galicia,USD,6.06,1001552,,,Titulos de Deuda en Dolar Estadounidense,19
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,USD,5.58,922221.2977,,,Titulos de Deuda en Dolar Estadounidense,72
+e,Caucion Colocadora U$S BYMA,Caución,Caución BYMA,USD,5.01,828015.8963,,,Operaciones a Plazo en Dolar Estadounidense,35
+e,ON BBVA Frances Cl 40,ON,BBVA Frances,USD,4.93,814794.0856,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON AES Argentina Gen 060828,ON,AES Argentina Gen,USD,4.24,700755.9682,,,Titulos de Deuda en Dolar Estadounidense,24
+e,ON Scania Credit C3,ON,Scania Credit,USD,3.16,522261.5234,,,Titulos de Deuda en Dolar Estadounidense,8
+e,ON Pecom C2,ON,Pecom,USD,3.16,522261.5234,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Plaza Logistica C15,ON,Plaza Logistica,USD,3.08,509039.7127,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON BBVA Frances Cl 49,ON,BBVA Frances,USD,3.05,504081.5337,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Banco de Galicia 33 BYZ2O,ON,Banco de Galicia,USD,3.02,499123.3547,,,Titulos de Deuda en Dolar Estadounidense,18
+e,ON Pluspetrol Clase 3,ON,Pluspetrol,USD,2.53,418139.764,,,Titulos de Deuda en Dolar Estadounidense,18
+e,ON Tecpetrol C11,ON,Tecpetrol,USD,2.47,408223.406,,,Titulos de Deuda en Dolar Estadounidense,27
+e,ON Pampa Energia C25,ON,Pampa Energia,USD,1.91,315670.7309,,,Titulos de Deuda en Dolar Estadounidense,19
+e,ON Bco Serv Transac C28,ON,Banco Serv Transac,USD,1.8,297490.7412,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Bco CMF Serie 20,ON,Banco CMF,USD,1.79,295838.0149,,,Titulos de Deuda en Dolar Estadounidense,12
+e,ON Ledesma Clase 15,ON,Ledesma,USD,1.22,201632.6135,,,Titulos de Deuda en Dolar Estadounidense,6
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,USD,1.16,191716.2554,,,Titulos de Deuda en Dolar Estadounidense,33
+e,Bono Bopreal 2027 Serie 1 Clase D BPOD7,BCRA,BCRA,USD,1.16,191716.2554,,,Titulos de Deuda en Dolar Estadounidense,22
+p,1822 Raices Dólares Plus,Provinfondos,RF USD Disc,28.1493,0.5325,5,,,,
+p,Argenfunds Renta Crecimiento,Argenfunds,RF USD Disc,26.6212,0.4513,4,,,,
+p,Pionero Dólar Gestión,Macro,RF USD Disc,24.6512,0.557,4,,,,
+p,Novus Capital,Novus,RM y Otros USD,24.0531,0.5054,6,,,,
+p,FBA Renta Fija Dólar Plus I,BBVA,RF USD Disc,23.9189,0.4747,4,,,,
+p,MAF Mix I,Mariva,RF USD Disc,22.0513,0.5342,3,,,,
+p,IOL Dólar Ahorro Plus,Adcap,RF USD Disc,21.9919,0.5332,9,,,,
+p,Consultatio Estrategia III,Consultatio,RM y Otros USD,21.7219,0.4376,3,,,,

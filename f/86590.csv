@@ -1,0 +1,99 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Argentaria BAVSA Global,,,,,,,,
+m,gerente,BAVSA Fondos S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,32236912334,,,,,,,,
+m,aum_planilla,32236912334,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86590,,,,,,,,
+m,n_especies,39,,,,,,,,
+m,activos_pn,100.2,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,11.44,,,,,,,,
+m,top1,20.91,,,,,,,,
+m,top5,73.68,,,,,,,,
+m,top10,86.91,,,,,,,,
+m,hhi_especies,1312.6084,,,,,,,,
+m,n_emisores,25,,,,,,,,
+m,emisor_top,Globant,,,,,,,,
+m,emisor_top_pct,20.91,,,,,,,,
+m,hhi_emisores,1328.9769,,,,,,,,
+m,sin_emisor_pct,0.27,,,,,,,,
+t,Cedear,57.84,11,,,,,,,
+t,Acción,26.28,10,,,,,,,
+t,Caución,11.42,1,,,,,,,
+t,Soberano,3.11,4,,,,,,,
+t,ETF,0.96,2,,,,,,,
+t,ON,0.3,1,,,,,,,
+t,Cheque,0.27,10,,,,,,,
+c,ARS,98.64,,,,,,,,
+c,sin dato,0.96,,,,,,,,
+c,USD,0.58,,,,,,,,
+r,Disponibilidades,0.02,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,3.1,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,11.42,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,0.58,,,,,,,,
+r,Participaciones Accionarias Argentina,65.5,,,,,,,,
+r,Participaciones Accionarias Chile,19.56,,,,,,,,
+r,Participaciones Accionarias Irlanda,0.02,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.2,,,,,,,,
+e,Cedear Globant,Cedear,Globant,ARS,20.91,6740738369,,,Participaciones Accionarias Argentina,4
+e,Cedear Geopark,Cedear,Geopark,ARS,19.56,6305540053,,,Participaciones Accionarias Chile,3
+e,Mirgor S.A.,Acción,Mirgor,ARS,16.95,5464156641,,,Participaciones Accionarias Argentina,9
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,11.42,3681455389,,,Operaciones a Plazo en Peso Argentina,195
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,4.84,1560266557,,,Participaciones Accionarias Argentina,52
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,3.47,1118620858,,,Participaciones Accionarias Argentina,129
+e,Cedear Tesla,Cedear,Tesla,ARS,3.41,1099278711,,,Participaciones Accionarias Argentina,5
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,2.28,735001601,,,Participaciones Accionarias Argentina,38
+e,Cedear Nike,Cedear,Nike,ARS,2.22,715659454,,,Participaciones Accionarias Argentina,2
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,1.85,596382878,,,Participaciones Accionarias Argentina,85
+e,Cedear Vale R Doce ON ADR,Cedear,Vale R Doce ON ADR,ARS,1.56,502895832,,,Participaciones Accionarias Argentina,12
+e,Transener S.A.,Acción,Transener,ARS,1.53,493224759,,,Participaciones Accionarias Argentina,84
+e,Bonos Rep Argentina 2029,Soberano,Tesoro Nacional,ARS,1.46,470658920,,,Titulos de Deuda en Peso Argentina,24
+e,Cedear Netflix,Cedear,Netflix,ARS,1.43,460987846,,,Participaciones Accionarias Argentina,4
+e,Cedear Google,Cedear,Google,ARS,1.12,361053418,,,Participaciones Accionarias Argentina,30
+e,YPF S.A.,Acción,YPF,ARS,1.12,361053418,,,Participaciones Accionarias Argentina,122
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,ARS,1.08,348158653,,,Titulos de Deuda en Peso Argentina,72
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,0.84,270790064,,,Participaciones Accionarias Argentina,83
+e,Cedear FCI SPDR Gold Trust,ETF,Cedear FCI SPDR Gold Trust,,0.59,190197783,,,Participaciones Accionarias Argentina,12
+e,Cedear Micron Technology,Cedear,Micron Technology,ARS,0.49,157960870,,,Participaciones Accionarias Argentina,11
+e,Cedear iShares Silver Trust,ETF,Cedear iShares Silver Trust,,0.37,119276576,,,Participaciones Accionarias Argentina,7
+e,ON Mirgor Clase 4,ON,Mirgor,USD,0.3,96710737,,,Titulos de Deuda en Dolar Estadounidense,9
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,ARS,0.29,93487046,,,Titulos de Deuda en Peso Argentina,62
+e,Bonos Rep Argentina 2029,Soberano,Tesoro Nacional,USD,0.28,90263355,,,Titulos de Deuda en Dolar Estadounidense,24
+e,Distribuidora de Gas Cuyana S.A.,Acción,Distribuidora de Gas Cuyana,ARS,0.23,74144898,,,Participaciones Accionarias Argentina,8
+e,Autopistas del Sol S.A.,Acción,Autopistas del Sol,ARS,0.21,67697516,,,Participaciones Accionarias Argentina,12
+e,Cheque E *NEU181200033,Cheque,,ARS,0.09,29013221,,,Titulos de Deuda en Peso Argentina,1
+e,Aluar Aluminio Argentino S.A.I.C.,Acción,Aluar Aluminio Argentino S.A.I.C,ARS,0.06,19342147,,,Participaciones Accionarias Argentina,56
+e,Cheque E *CMF091200099,Cheque,,ARS,0.05,16118456,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NEU041200013,Cheque,,ARS,0.03,9671074,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MOV151200152,Cheque,,ARS,0.02,6447382,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *CMF041200107,Cheque,,ARS,0.02,6447382,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *CMF081200104,Cheque,,ARS,0.02,6447382,,,Titulos de Deuda en Peso Argentina,1
+e,Grimoldi S.A.,Acción,Grimoldi,ARS,0.02,6447382,,,Participaciones Accionarias Argentina,6
+e,Cedear Accenture PCL,Cedear,Accenture PCL,ARS,0.02,6447382,,,Participaciones Accionarias Irlanda,1
+e,Cheque E *CMF201100183,Cheque,,ARS,0.01,3223691,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *CMF191100173,Cheque,,ARS,0.01,3223691,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *CMF251100146,Cheque,,ARS,0.01,3223691,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *CMF201100184,Cheque,,ARS,0.01,3223691,,,Titulos de Deuda en Peso Argentina,1
+p,Fundcorp Crecimiento,CMF,RM y Otros ARS,25.1584,0.2596,10,,,,
+p,Benedit Multiestrategia,Axis,RM y Otros ARS,21.4639,0.233,6,,,,
+p,Valiant Renta Variable,Valiant,RV ARG Merval,20.2535,0.2888,7,,,,
+p,Insider Retorno Estratégico,Dracma,RM y Otros ARS,19.0303,0.2315,9,,,,
+p,CMA Acciones,Capital Mark..,RV ARG Merval,18.8426,0.1791,6,,,,
+p,DXA PMKT Total Return,Dracma,RV ARG Otros,14.5792,0.1738,6,,,,
+p,Puente Renta Fija Pesos IV,Puente,RF ARS Disc,14.5079,0.1713,3,,,,
+p,Fima PB Acciones,Galicia,RV ARG Merval,13.6945,0.1726,8,,,,

@@ -1,0 +1,76 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Desarrollo Argentino III FCI Abierto para el Fin. de la Infra. y la Econ. Real,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,INFRA,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,14250784651,,,,,,,,
+m,aum_planilla,14250784651,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87113,,,,,,,,
+m,n_especies,24,,,,,,,,
+m,activos_pn,102.6,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.96,,,,,,,,
+m,top1,11.05,,,,,,,,
+m,top5,50.47,,,,,,,,
+m,top10,71.38,,,,,,,,
+m,hhi_especies,681.1193,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Vista Gas y Oil Arg,,,,,,,,
+m,emisor_top_pct,18.61,,,,,,,,
+m,hhi_emisores,835.6675,,,,,,,,
+m,sin_emisor_pct,23.6,,,,,,,,
+t,ON,73.74,14,,,,,,,
+t,Cheque,23.6,9,,,,,,,
+t,Subsoberano,4.31,1,,,,,,,
+c,ARS,97.34,,,,,,,,
+c,USD,4.31,,,,,,,,
+r,Disponibilidades,0.96,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,97.33,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,4.31,,,,,,,,
+r,Certificados de Participacion Argentina,,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),2.6,,,,,,,,
+e,ON CGC C 36,ON,CGC,ARS,11.05,1574711704,,,Titulos de Deuda en Peso Argentina,15
+e,ON Pan American C26,ON,Pan American,ARS,10.79,1537659664,,,Titulos de Deuda en Peso Argentina,38
+e,ON Aeropuertos 2000 C5,ON,Aeropuertos,ARS,10.73,1529109193,,,Titulos de Deuda en Peso Argentina,3
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,9.3,1325322973,,,Titulos de Deuda en Peso Argentina,42
+e,ON YPF Clase 34,ON,YPF,ARS,8.6,1225567480,,,Titulos de Deuda en Peso Argentina,46
+e,ON Vista Gas y Oil Arg C25,ON,Vista Gas y Oil Arg,ARS,5.34,760991900,,,Titulos de Deuda en Peso Argentina,18
+e,Letra Prov Chubut S36,Subsoberano,Prov. Chubut,USD,4.31,614208818,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Aluar Serie 6,ON,Aluar,ARS,4.1,584282171,,,Titulos de Deuda en Peso Argentina,28
+e,ON Luz De Tres Picos C3,ON,Luz De Tres Picos,ARS,3.66,521578718,,,Titulos de Deuda en Peso Argentina,3
+e,Cheque #MAV091160019,Cheque,,ARS,3.5,498777463,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV111160028,Cheque,,ARS,3.49,497352384,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV111160029,Cheque,,ARS,3.49,497352384,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV141260024,Cheque,,ARS,3.41,485951757,,,Titulos de Deuda en Peso Argentina,1
+e,ON Vista Gas y Oil Arg C21,ON,Vista Gas y Oil Arg,ARS,2.67,380495950,,,Titulos de Deuda en Peso Argentina,27
+e,ON Oldelval Clase 2,ON,Oldelval,ARS,2.59,369095322,,,Titulos de Deuda en Peso Argentina,16
+e,Cheque E *MAV211201300,Cheque,,ARS,2.37,337743596,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV221201521,Cheque,,ARS,2.36,336318518,,,Titulos de Deuda en Peso Argentina,1
+e,ON Genneia Clase 36,ON,Genneia,ARS,2.04,290716007,,,Titulos de Deuda en Peso Argentina,2
+e,Cheque E *MAV171201086,Cheque,,ARS,2.04,290716007,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV211201333,Cheque,,ARS,1.63,232287790,,,Titulos de Deuda en Peso Argentina,1
+e,ON Epec C2,ON,Epec,ARS,1.43,203786221,,,Titulos de Deuda en Peso Argentina,12
+e,Cheque E *MAV100201797,Cheque,,ARS,1.31,186685279,,,Titulos de Deuda en Peso Argentina,1
+e,ON Vista Gas y Oil Arg C17,ON,Vista Gas y Oil Arg,ARS,1.3,185260200,,,Titulos de Deuda en Peso Argentina,23
+e,ON Cresud S30 C46,ON,Cresud,ARS,0.14,19951099,,,Titulos de Deuda en Peso Argentina,7
+p,Toronto Trust Infraestructura,Investis,INFRA,23.5815,0.3188,5,,,,
+p,Pellegrini Desarrollo Arg. Infraest.,Pellegrini,INFRA,22.8334,0.4185,10,,,,
+p,GSS Energia,Grupo SS,RF MULT Corp,22.5727,0.3042,6,,,,
+p,Alpha Infraestructura,ICBC,INFRA,20.2811,0.2558,6,,,,
+p,Delta Gestion IX,Delta,RF USD Linked,19.7625,0.1863,6,,,,
+p,Ciclo Nova Estructurado II,Ciclo Nova,RM y Otros ARS,18.1781,0.2796,3,,,,
+p,SBS Patrimonio IX,SBS,RF MULT Disc,17.353,0.1844,4,,,,
+p,SBS Tavelli Renta,SBS,RF MULT Disc,17.275,0.2445,3,,,,

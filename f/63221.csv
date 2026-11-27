@@ -1,0 +1,75 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Compass Crecimiento,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,RV ARG Merval,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,55151680903,,,,,,,,
+m,aum_planilla,54023208855,,,,,,,,
+m,dif_pn_aum,0.0209,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63221,,,,,,,,
+m,n_especies,24,,,,,,,,
+m,activos_pn,100.34,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.12,,,,,,,,
+m,top1,13.38,,,,,,,,
+m,top5,55.6,,,,,,,,
+m,top10,84.83,,,,,,,,
+m,hhi_especies,842.9704,,,,,,,,
+m,n_emisores,24,,,,,,,,
+m,emisor_top,Grupo Financiero Galicia,,,,,,,,
+m,emisor_top_pct,13.38,,,,,,,,
+m,hhi_emisores,842.9704,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,99.57,22,,,,,,,
+t,Soberano,0.43,1,,,,,,,
+t,FCI,0.22,1,,,,,,,
+c,ARS,99.57,,,,,,,,
+c,sin dato,0.65,,,,,,,,
+r,Disponibilidades,0.12,,,,,,,,
+r,Participaciones Accionarias Argentina,100,,,,,,,,
+r,Certificados de Participacion Argentina,0.22,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.34,,,,,,,,
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,13.38,7379294905,,,Participaciones Accionarias Argentina,117
+e,YPF S.A.,Acción,YPF,ARS,12.37,6822262928,,,Participaciones Accionarias Argentina,122
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,10.66,5879169184,,,Participaciones Accionarias Argentina,129
+e,Metrogas S.A.,Acción,Metrogas,ARS,10.49,5785411327,,,Participaciones Accionarias Argentina,54
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,8.7,4798196239,,,Participaciones Accionarias Argentina,86
+e,Transener S.A.,Acción,Transener,ARS,7.32,4037103042,,,Participaciones Accionarias Argentina,84
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,6.9,3805465982,,,Participaciones Accionarias Argentina,77
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,6.29,3469040729,,,Participaciones Accionarias Argentina,93
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,4.65,2564553162,,,Participaciones Accionarias Argentina,85
+e,Telecom Argentina S.A.,Acción,Telecom Argentina,ARS,4.07,2244673413,,,Participaciones Accionarias Argentina,43
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,3.84,2117824547,,,Participaciones Accionarias Argentina,104
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,3,1654550427,,,Participaciones Accionarias Argentina,104
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,1.97,1086488114,,,Participaciones Accionarias Argentina,77
+e,Cresud S.A.,Acción,Cresud,ARS,1.22,672850507,,,Participaciones Accionarias Argentina,38
+e,Grupo Supervielle S.A.,Acción,Grupo Supervielle,ARS,0.91,501880296,,,Participaciones Accionarias Argentina,64
+e,Transportadora de Gas del Norte S.A.,Acción,Transportadora de Gas del Norte,ARS,0.89,490849960,,,Participaciones Accionarias Argentina,70
+e,Consultatio S.A.,Acción,Consultatio,ARS,0.82,452243783,,,Participaciones Accionarias Argentina,4
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,0.61,336425254,,,Participaciones Accionarias Argentina,83
+e,Banco de Valores S.A.,Acción,Banco de Valores,ARS,0.55,303334245,,,Participaciones Accionarias Argentina,31
+e,Ledesma S.A.,Soberano,Tesoro Nacional,,0.43,237152228,,,Participaciones Accionarias Argentina,3
+e,Aluar Aluminio Argentino S.A.I.C.,Acción,Aluar Aluminio Argentino S.A.I.C,ARS,0.38,209576387,,,Participaciones Accionarias Argentina,56
+e,Inversiones y Representaciones S.A. (IRSA),Acción,Inversiones y Representaciones S.A. (IRSA),ARS,0.34,187515715,,,Participaciones Accionarias Argentina,35
+e,FCI Zofingen Pesos Ya - Clase A,FCI,Zofingen Pesos Ya,,0.22,121333698,,,Certificados de Participacion Argentina,7
+e,Edenor S.A.,Acción,Edenor,ARS,0.21,115818530,,,Participaciones Accionarias Argentina,49
+p,Toronto Trust Multimercado,Investis,RV ARG Otros,75.4446,0.8977,21,,,,
+p,Balanz Acciones,Balanz,RV ARG Merval,74.1755,0.8809,17,,,,
+p,Alpha Acciones,ICBC,RV ARG Merval,73.9028,0.8832,20,,,,
+p,1822 Raices Valores Negociables,Provinfondos,RV ARG Merval,73.56,0.8661,19,,,,
+p,MAF Acciones Argentina,Mariva,RV ARG Merval,73.1866,0.8666,18,,,,
+p,Max Acciones Argentinas,Max Capital,RV ARG Merval,73.0709,0.8746,19,,,,
+p,Superfondo Renta Variable,Santander,RV ARG Merval,72.8862,0.8581,17,,,,
+p,Alpha Mega,ICBC,RV ARG Merval,72.4176,0.8889,20,,,,

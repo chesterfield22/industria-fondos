@@ -1,0 +1,77 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Ualintec Pesos Plus,,,,,,,,
+m,gerente,Ualá Fondos S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Lecap,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,12688507528,,,,,,,,
+m,aum_planilla,12688507528,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86939,,,,,,,,
+m,n_especies,22,,,,,,,,
+m,activos_pn,114.85,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.19,,,,,,,,
+m,top1,24.37,,,,,,,,
+m,top5,93.42,,,,,,,,
+m,top10,107.8,,,,,,,,
+m,hhi_especies,2053.2854,,,,,,,,
+m,n_emisores,14,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,62.23,,,,,,,,
+m,hhi_emisores,4689.9788,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,62.23,6,,,,,,,
+t,Plazo fijo,39.68,2,,,,,,,
+t,ON,8.2,5,,,,,,,
+t,Fideicomiso financiero,3.39,7,,,,,,,
+t,Caución,1.18,1,,,,,,,
+t,FCI,0.16,1,,,,,,,
+c,ARS,111.29,,,,,,,,
+c,sin dato,3.55,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,70.43,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,40.86,,,,,,,,
+r,Certificados de Participacion Argentina,3.55,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),14.85,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,24.37,3092189285,,,Titulos de Deuda en Peso Argentina,103
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,24.32,3085845031,,,Titulos de Deuda en Peso Argentina,149
+e,Pzo Fi $ Bco Wilobank,Plazo fijo,Banco Wilobank,ARS,19.96,2532626103,,,Operaciones a Plazo en Peso Argentina,7
+e,Pzo Fi $ Bco Sol,Plazo fijo,Banco Sol,ARS,19.72,2502173685,,,Operaciones a Plazo en Peso Argentina,31
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,5.05,640769630,,,Titulos de Deuda en Peso Argentina,166
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,4.39,557025480,,,Titulos de Deuda en Peso Argentina,112
+e,ON Credicuotas Consumo S22,ON,Credicuotas Consumo,ARS,4.21,534186167,,,Titulos de Deuda en Peso Argentina,8
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,2.51,318481539,,,Titulos de Deuda en Peso Argentina,80
+e,ON Mercado Pago C6,ON,Mercado Pago,ARS,1.67,211898076,,,Titulos de Deuda en Peso Argentina,19
+e,FF Mercado Credito 47 CA,Fideicomiso financiero,Mercado Credito,,1.6,203016120,,,Certificados de Participacion Argentina,35
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,1.59,201747270,,,Titulos de Deuda en Peso Argentina,86
+e,Caucion Colocadora $ MAE,Caución,Caución MAE,ARS,1.18,149724389,,,Operaciones a Plazo en Peso Argentina,15
+e,ON Volkswagen Financial Services C16,ON,Volkswagen Financial Services,ARS,0.85,107852314,,,Titulos de Deuda en Peso Argentina,7
+e,ON Toyota Clase 40,ON,Toyota,ARS,0.84,106583463,,,Titulos de Deuda en Peso Argentina,5
+e,ON Rombo Cia Fciera S65,ON,Rombo Cia Fciera,ARS,0.63,79937597,,,Titulos de Deuda en Peso Argentina,15
+e,FF Coppel S1 CA,Fideicomiso financiero,Coppel,,0.55,69786791,,,Certificados de Participacion Argentina,8
+e,FF Mercado Credito 46 CA,Fideicomiso financiero,Mercado Credito,,0.5,63442538,,,Certificados de Participacion Argentina,28
+e,FF Cuotas Cencosud S58 VDFA,Fideicomiso financiero,Cuotas Cencosud,,0.33,41872075,,,Certificados de Participacion Argentina,6
+e,FF Mercado Credito 45 CA,Fideicomiso financiero,Mercado Credito,,0.21,26645866,,,Certificados de Participacion Argentina,25
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.16,20301612,,,Certificados de Participacion Argentina,93
+e,FF Mercado Credito 44 CA,Fideicomiso financiero,Mercado Credito,,0.13,16495060,,,Certificados de Participacion Argentina,26
+e,FF Comafi Leasing 18 Cl A,Fideicomiso financiero,Comafi Leasing,,0.07,8881955,,,Certificados de Participacion Argentina,14
+p,Argenfunds Financiamiento Pesos II,Argenfunds,INFRA,36.3639,0.5033,3,,,,
+p,Adcap Balanceado XVI,Adcap,RF ARS Lecap,35.6684,0.4405,4,,,,
+p,BM Smart Corto Plazo,Bull Market,RF ARS Lecap,34.9035,0.456,6,,,,
+p,Fundcorp Performance,CMF,T+1,34.6634,0.5174,5,,,,
+p,Axis Pesos,Axis,MM ARS Clásico,34.5524,0.5211,2,,,,
+p,Ualintec Ahorro Pesos,Ualá,MM ARS Clásico,34.5524,0.475,2,,,,
+p,Pellegrini Renta Fija Publica,Pellegrini,RF ARS Lecap,32.9676,0.441,5,,,,
+p,Max Retorno Total Pesos III,Max Capital,RF MULT Disc,31.3788,0.5306,2,,,,

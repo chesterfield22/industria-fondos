@@ -1,0 +1,70 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Chimpay Agresivo,,,,,,,,
+m,gerente,Chimpay S.A.,,,,,,,,
+m,depositaria,Banco Industrial S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,RV ARG Merval,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,7015880005,,,,,,,,
+m,aum_planilla,7015880005,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88235,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,100.08,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,20.58,,,,,,,,
+m,top5,69.66,,,,,,,,
+m,top10,93.3,,,,,,,,
+m,hhi_especies,1319.6908,,,,,,,,
+m,n_emisores,17,,,,,,,,
+m,emisor_top,Banco Macro,,,,,,,,
+m,emisor_top_pct,20.58,,,,,,,,
+m,hhi_emisores,1319.6908,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,82,10,,,,,,,
+t,Cedear,11.15,4,,,,,,,
+t,ETF,5.98,1,,,,,,,
+t,FCI,0.95,2,,,,,,,
+c,ARS,93.15,,,,,,,,
+c,sin dato,6.93,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Participaciones Accionarias Argentina,97.33,,,,,,,,
+r,Participaciones Accionarias Luxemburgo,1.8,,,,,,,,
+r,Certificados de Participacion Argentina,0.95,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.08,,,,,,,,
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,20.58,1443868105,,,Participaciones Accionarias Argentina,93
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,18.92,1327404497,,,Participaciones Accionarias Argentina,117
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,18.69,1311267973,,,Participaciones Accionarias Argentina,86
+e,Cedear iShares Silver Trust,ETF,Cedear iShares Silver Trust,,5.98,419549624,,,Participaciones Accionarias Argentina,7
+e,Inversiones y Representaciones S.A. (IRSA),Acción,Inversiones y Representaciones S.A. (IRSA),ARS,5.49,385171812,,,Participaciones Accionarias Argentina,35
+e,Grupo Supervielle S.A.,Acción,Grupo Supervielle,ARS,5.41,379559108,,,Participaciones Accionarias Argentina,64
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,5.29,371140052,,,Participaciones Accionarias Argentina,83
+e,Cedear Broadcom Inc,Cedear,Broadcom Inc,ARS,5.14,360616232,,,Participaciones Accionarias Argentina,8
+e,Cedear Adecoagro,Cedear,Adecoagro,ARS,3.91,274320908,,,Participaciones Accionarias Argentina,9
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,3.89,272917732,,,Participaciones Accionarias Argentina,104
+e,Cedear Corporacion America Airports,Cedear,Corporacion America Airports,ARS,1.8,126285840,,,Participaciones Accionarias Luxemburgo,5
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,1.76,123479488,,,Participaciones Accionarias Argentina,104
+e,Transener S.A.,Acción,Transener,ARS,1.13,79279444,,,Participaciones Accionarias Argentina,84
+e,Edenor S.A.,Acción,Edenor,ARS,0.84,58933392,,,Participaciones Accionarias Argentina,49
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,0.57,39990516,,,Certificados de Participacion Argentina,47
+e,FCI IAM Ahorro Pesos C B,FCI,IAM Ahorro Pesos C B,,0.38,26660344,,,Certificados de Participacion Argentina,5
+e,Cedear Amazon,Cedear,Amazon,ARS,0.3,21047640,,,Participaciones Accionarias Argentina,17
+p,Chimpay Retorno Total,Chimpay,RM y Otros ARS,57.4045,0.8072,12,,,,
+p,1822 Raices Valores Negociables,Provinfondos,RV ARG Merval,49.4543,0.6891,9,,,,
+p,DXA Retorno Total,Dracma,RM y Otros ARS,47.6287,0.6259,5,,,,
+p,Novus Renta Variable,Novus,RV ARG Merval,46.9446,0.599,9,,,,
+p,MAF Acciones Argentina,Mariva,RV ARG Merval,46.6705,0.6595,8,,,,
+p,Allaria Acciones,Allaria,RV ARG Merval,45.177,0.5417,9,,,,
+p,Fima PB Acciones,Galicia,RV ARG Merval,44.776,0.6322,11,,,,
+p,Pellegrini Acciones,Pellegrini,RV ARG Merval,44.4782,0.5836,11,,,,

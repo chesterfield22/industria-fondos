@@ -1,0 +1,100 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,BAVSA Renta Balanceado III,,,,,,,,
+m,gerente,BAVSA Fondos S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,25694039317,,,,,,,,
+m,aum_planilla,25694039317,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88001,,,,,,,,
+m,n_especies,51,,,,,,,,
+m,activos_pn,100.04,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,4.84,,,,,,,,
+m,top5,23.57,,,,,,,,
+m,top10,46.21,,,,,,,,
+m,hhi_especies,306.219,,,,,,,,
+m,n_emisores,1,,,,,,,,
+m,emisor_top,Parakeet Pesos,,,,,,,,
+m,emisor_top_pct,3.97,,,,,,,,
+m,hhi_emisores,15.7609,,,,,,,,
+m,sin_emisor_pct,96.03,,,,,,,,
+t,Cheque,96.03,50,,,,,,,
+t,FCI,3.97,1,,,,,,,
+c,ARS,96.03,,,,,,,,
+c,sin dato,3.97,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,96.06,,,,,,,,
+r,Certificados de Participacion Argentina,3.97,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.04,,,,,,,,
+e,Cheque E *MAV130701848,Cheque,,ARS,4.84,1243591503,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140701901,Cheque,,ARS,4.83,1241022099,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150702296,Cheque,,ARS,4.82,1238452695,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV020701192,Cheque,,ARS,4.54,1166509385,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050701153,Cheque,,ARS,4.54,1166509385,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060701326,Cheque,,ARS,4.54,1166509385,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010701566,Cheque,,ARS,4.54,1166509385,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV070701558,Cheque,,ARS,4.52,1161370577,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120701336,Cheque,,ARS,4.52,1161370577,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080701721,Cheque,,ARS,4.52,1161370577,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Parakeet Pesos - Clase B,FCI,Parakeet Pesos,,3.97,1020053361,,,Certificados de Participacion Argentina,8
+e,Cheque E *MAV171101929,Cheque,,ARS,3.87,994359322,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010601320,Cheque,,ARS,1.81,465062112,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV070601139,Cheque,,ARS,1.8,462492708,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV030601296,Cheque,,ARS,1.8,462492708,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV090601550,Cheque,,ARS,1.8,462492708,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV110601341,Cheque,,ARS,1.79,459923304,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160601772,Cheque,,ARS,1.79,459923304,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140601267,Cheque,,ARS,1.79,459923304,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160701555,Cheque,,ARS,1.57,403396417,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220701851,Cheque,,ARS,1.57,403396417,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV200701734,Cheque,,ARS,1.57,403396417,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV190701108,Cheque,,ARS,1.57,403396417,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV210701735,Cheque,,ARS,1.57,403396417,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010300889,Cheque,,ARS,1.28,328883703,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171200982,Cheque,,ARS,1.27,326314299,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV110301330,Cheque,,ARS,1.26,323744895,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV230300853,Cheque,,ARS,1.25,321175491,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050401004,Cheque,,ARS,1.24,318606088,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV160401169,Cheque,,ARS,1.22,313467280,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV011201398,Cheque,,ARS,1.21,310897876,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV101201336,Cheque,,ARS,1.2,308328472,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV151201726,Cheque,,ARS,1.2,308328472,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041200907,Cheque,,ARS,1.2,308328472,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080300955,Cheque,,ARS,1,256940393,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV050301101,Cheque,,ARS,0.98,251801585,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV220300955,Cheque,,ARS,0.98,251801585,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010401161,Cheque,,ARS,0.97,249232181,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV170301311,Cheque,,ARS,0.97,249232181,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV140401422,Cheque,,ARS,0.96,246662777,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV300301205,Cheque,,ARS,0.96,246662777,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV030301172,Cheque,,ARS,0.95,244093374,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120401129,Cheque,,ARS,0.95,244093374,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150301315,Cheque,,ARS,0.94,241523970,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV290300917,Cheque,,ARS,0.92,236385162,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV070401105,Cheque,,ARS,0.92,236385162,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV241101179,Cheque,,ARS,0.4,102776157,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150301321,Cheque,,ARS,0.35,89929138,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010300890,Cheque,,ARS,0.35,89929138,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV080300956,Cheque,,ARS,0.35,89929138,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV010401171,Cheque,,ARS,0.24,61665694,,,Titulos de Deuda en Peso Argentina,1
+p,Stonex Global V,StoneX,RM y Otros ARS,2.3614,0.0113,1,,,,
+p,SBS Balanceado,SBS,RM y Otros ARS,0.8119,0.0073,1,,,,
+p,Compass Renta Mixta VI,Investis,RM y Otros ARS,0.7086,0.0062,1,,,,
+p,SBS Patrimonio IV,SBS,RM y Otros ARS,0.6927,0.0035,1,,,,
+p,Compass Renta Mixta VII,Investis,RM y Otros ARS,0.3299,0.0024,1,,,,
+p,Champaquí Ahorro Pesos,Bancor,T+1,0.299,0.0031,1,,,,
+p,Axis Brio Valores I,Axis,RV ARG Otros,0.2203,0.0016,1,,,,

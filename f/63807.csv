@@ -1,0 +1,73 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Fima Retorno Total,,,,,,,,
+m,gerente,Galicia Asset Management S.A.U.,,,,,,,,
+m,depositaria,Banco de Galicia y Buenos Aires S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,115622977663,,,,,,,,
+m,aum_planilla,115622977663,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63807,,,,,,,,
+m,n_especies,21,,,,,,,,
+m,activos_pn,100.01,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,21.6,,,,,,,,
+m,top5,70.08,,,,,,,,
+m,top10,88.32,,,,,,,,
+m,hhi_especies,1243.7146,,,,,,,,
+m,n_emisores,8,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,89.52,,,,,,,,
+m,hhi_emisores,8030.1244,,,,,,,,
+m,sin_emisor_pct,3.4,,,,,,,,
+t,Soberano,89.52,11,,,,,,,
+t,ON,5.05,7,,,,,,,
+t,Pagaré,3.4,2,,,,,,,
+t,FCI,2.03,1,,,,,,,
+c,ARS,97.97,,,,,,,,
+c,sin dato,2.03,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,97.97,,,,,,,,
+r,Certificados de Participacion Argentina,2.03,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.01,,,,,,,,
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,21.6,24974563175,,,Titulos de Deuda en Peso Argentina,159
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,20.46,23656461230,,,Titulos de Deuda en Peso Argentina,158
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,10.89,12591342268,,,Titulos de Deuda en Peso Argentina,136
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,10.17,11758856828,,,Titulos de Deuda en Peso Argentina,250
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,6.96,8047359245,,,Titulos de Deuda en Peso Argentina,61
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,4,4624919107,,,Titulos de Deuda en Peso Argentina,149
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,3.87,4474609236,,,Titulos de Deuda en Peso Argentina,142
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,3.79,4382110853,,,Titulos de Deuda en Peso Argentina,160
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,3.64,4208676387,,,Titulos de Deuda en Peso Argentina,118
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,2.94,3399315543,,,Titulos de Deuda en Peso Argentina,146
+e,ON BBVA Frances Cl 47,ON,BBVA Frances,ARS,2.9,3353066352,,,Titulos de Deuda en Peso Argentina,45
+e,FCI Pionero Pesos - Clase A,FCI,Pionero Pesos,,2.03,2347146447,,,Certificados de Participacion Argentina,14
+e,Pagare MAVE171160113,Pagaré,,ARS,1.71,1977152918,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV101260106,Pagaré,,ARS,1.69,1954028323,,,Titulos de Deuda en Peso Argentina,1
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,1.2,1387475732,,,Titulos de Deuda en Peso Argentina,112
+e,ON Tarj Naranja C67 S1,ON,Tarj Naranja,ARS,0.74,855610035,,,Titulos de Deuda en Peso Argentina,40
+e,ON BBVA Frances Cl 41,ON,BBVA Frances,ARS,0.46,531865697,,,Titulos de Deuda en Peso Argentina,18
+e,ON ICBC Clase 5 110327,ON,ICBC,ARS,0.45,520303399,,,Titulos de Deuda en Peso Argentina,36
+e,ON Toyota Clase 38,ON,Toyota,ARS,0.34,393118124,,,Titulos de Deuda en Peso Argentina,9
+e,ON Petroqui C Rivadavia PQCOO,ON,Petroqui C Rivadavia PQCOO,ARS,0.13,150309871,,,Titulos de Deuda en Peso Argentina,13
+e,ON Pan American C33,ON,Pan American,ARS,0.03,34686893,,,Titulos de Deuda en Peso Argentina,36
+p,GSS Retorno Total,Grupo SS,RF MULT Disc,58.81,0.8143,5,,,,
+p,Schroder Crecimiento,Schroder,RF ARS Disc,56.18,0.7703,5,,,,
+p,GSS Renta Fija Argentina,Grupo SS,RF ARS CER,51.5082,0.7463,5,,,,
+p,Fima Ahorro Plus,Galicia,T+1,50.5775,0.7031,14,,,,
+p,MAF Ahorro Pesos,Mariva,RF ARS CER,49.5098,0.6961,5,,,,
+p,Toronto Trust Estrategico,Investis,RF ARS Disc,48.1673,0.6072,6,,,,
+p,Allaria Estructurado,Allaria,RF ARS Disc,48.0938,0.7084,5,,,,
+p,ACA Valores Retorno Total,Schroder,RF MULT Disc,47.6577,0.7289,3,,,,

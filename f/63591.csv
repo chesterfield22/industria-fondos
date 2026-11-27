@@ -1,0 +1,78 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Balanz Capital Renta Fija,,,,,,,,
+m,gerente,Balanz S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,198697606333,,,,,,,,
+m,aum_planilla,198697606333,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63591,,,,,,,,
+m,n_especies,24,,,,,,,,
+m,activos_pn,98.06,,,,,,,,
+m,pasivos_cnv,1.94,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,20.38,,,,,,,,
+m,top5,71.12,,,,,,,,
+m,top10,87.46,,,,,,,,
+m,hhi_especies,1174.444,,,,,,,,
+m,n_emisores,16,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,58.84,,,,,,,,
+m,hhi_emisores,3832.049,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,58.84,5,,,,,,,
+t,ON,19.17,14,,,,,,,
+t,Subsoberano,17.23,1,,,,,,,
+t,Plazo fijo,1.54,1,,,,,,,
+t,FCI,1.26,3,,,,,,,
+c,ARS,96.78,,,,,,,,
+c,sin dato,1.26,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,95.25,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,1.54,,,,,,,,
+r,Certificados de Participacion Argentina,1.26,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,1.94,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-1.94,,,,,,,,
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,20.38,40494572171,,,Titulos de Deuda en Peso Argentina,56
+e,Bono Prov de Buenos Aires TZV28,Subsoberano,Prov. Buenos Aires,ARS,17.23,34235597571,,,Titulos de Deuda en Peso Argentina,46
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,14.18,28175320578,,,Titulos de Deuda en Peso Argentina,75
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,10.23,20326765128,,,Titulos de Deuda en Peso Argentina,103
+e,Bono del Tesoro Nacional TY30P,Soberano,Tesoro Nacional,ARS,9.1,18081482176,,,Titulos de Deuda en Peso Argentina,30
+e,Letra Tesoro Nac D31M7,Soberano,Tesoro Nacional,ARS,4.95,9835531513,,,Titulos de Deuda en Peso Argentina,30
+e,ON Capex C10,ON,Capex,ARS,3.54,7033895264,,,Titulos de Deuda en Peso Argentina,17
+e,ON Telecom C12 TLCDO,ON,Telecom,ARS,2.98,5921188669,,,Titulos de Deuda en Peso Argentina,29
+e,ON Genneia Clase 42,ON,Genneia,ARS,2.57,5106528483,,,Titulos de Deuda en Peso Argentina,12
+e,ON Telecom C19 TLCKO,ON,Telecom,ARS,2.3,4570044946,,,Titulos de Deuda en Peso Argentina,30
+e,ON Pan American C33,ON,Pan American,ARS,2.3,4570044946,,,Titulos de Deuda en Peso Argentina,36
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,1.81,3596426675,,,Titulos de Deuda en Peso Argentina,42
+e,Pzo Fi $ Bco Santander Ri,Plazo fijo,Banco Santander Ri,ARS,1.54,3059943138,,,Operaciones a Plazo en Peso Argentina,68
+e,ON Capex C7,ON,Capex,ARS,1.43,2841375771,,,Titulos de Deuda en Peso Argentina,21
+e,ON PCR Clase K,ON,PCR,ARS,1.41,2801636249,,,Titulos de Deuda en Peso Argentina,26
+e,FCI Max Money Market - Clase B,FCI,Max Money Market,,0.76,1510101808,,,Certificados de Participacion Argentina,12
+e,ON GEMSA y CTR C43,ON,GEMSA y CTR,ARS,0.35,695441622,,,Titulos de Deuda en Peso Argentina,52
+e,ON Petroqui C Rivadavia Clase Q,ON,Petroqui C Rivadavia,ARS,0.27,536483537,,,Titulos de Deuda en Peso Argentina,12
+e,FCI Ciclo Nova Ahorro - Clase E,FCI,Ciclo Nova Ahorro,,0.25,496744016,,,Certificados de Participacion Argentina,38
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.25,496744016,,,Certificados de Participacion Argentina,93
+e,ON Red Surcos S9 Clase A,ON,Red Surcos,ARS,0.08,158958085,,,Titulos de Deuda en Peso Argentina,9
+e,ON Agrofina Clase 12,ON,Agrofina,ARS,0.07,139088324,,,Titulos de Deuda en Peso Argentina,10
+e,ON Red Surcos S14 Clase A,ON,Red Surcos,ARS,0.04,79479043,,,Titulos de Deuda en Peso Argentina,8
+e,ON Agrofina Clase 11,ON,Agrofina,ARS,0.02,39739521,,,Titulos de Deuda en Peso Argentina,9
+p,First Renta Mixta VII,First Cap Mkts,RF MULT Disc,48.8164,0.7,4,,,,
+p,Delta Moneda,Delta,RF USD Linked,45.1722,0.714,5,,,,
+p,Balanz Soja,Balanz,RV ARG Rofex 20,44.8184,0.6636,4,,,,
+p,Superfondo Renta Mixta,Santander,RF MULT Disc,43.0952,0.6081,15,,,,
+p,SBS Patrimonio V,SBS,RM y Otros ARS,42.4725,0.6906,3,,,,
+p,Super Bonos,Santander,RF USD Linked,41.5776,0.5164,12,,,,
+p,Max Cobertura,Max Capital,RF USD Linked,39.6896,0.6263,4,,,,
+p,Dracma Multiestrategia,Dracma,RM y Otros ARS,37.8902,0.5739,5,,,,

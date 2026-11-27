@@ -1,0 +1,79 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,BAVSA Pesos Plus,,,,,,,,
+m,gerente,BAVSA Fondos S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,28409229412,,,,,,,,
+m,aum_planilla,28409229412,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86165,,,,,,,,
+m,n_especies,25,,,,,,,,
+m,activos_pn,105.38,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.1,,,,,,,,
+m,top1,20.92,,,,,,,,
+m,top5,76.68,,,,,,,,
+m,top10,96.06,,,,,,,,
+m,hhi_especies,1413.2115,,,,,,,,
+m,n_emisores,4,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,85.71,,,,,,,,
+m,hhi_emisores,7347.3767,,,,,,,,
+m,sin_emisor_pct,18.22,,,,,,,,
+t,Soberano,85.71,7,,,,,,,
+t,Pagaré,16.15,9,,,,,,,
+t,Cheque,2.07,6,,,,,,,
+t,Fideicomiso financiero,1.06,1,,,,,,,
+t,FCI,0.21,1,,,,,,,
+t,ON,0.07,1,,,,,,,
+c,ARS,104,,,,,,,,
+c,sin dato,1.27,,,,,,,,
+r,Disponibilidades,0.1,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,104.01,,,,,,,,
+r,Certificados de Participacion Argentina,1.27,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),5.38,,,,,,,,
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,20.92,5943210793,,,Titulos de Deuda en Peso Argentina,136
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,19.2,5454572047,,,Titulos de Deuda en Peso Argentina,112
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,17.88,5079570219,,,Titulos de Deuda en Peso Argentina,142
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,12.59,3576721983,,,Titulos de Deuda en Peso Argentina,118
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,6.09,1730122071,,,Titulos de Deuda en Peso Argentina,149
+e,Bono CER TZX27,Soberano,Tesoro Nacional,ARS,5.53,1571030386,,,Titulos de Deuda en Peso Argentina,43
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,3.5,994323029,,,Titulos de Deuda en Peso Argentina,61
+e,Pagare #MAV101160028,Pagaré,,ARS,3.5,994323029,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV261160104,Pagaré,,ARS,3.47,985800261,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV301260029,Pagaré,,ARS,3.38,960231954,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV101160035,Pagaré,,ARS,1.75,497161515,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque POTE151200312,Cheque,,ARS,1.71,485797823,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV151260052,Pagaré,,ARS,1.71,485797823,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV050170080,Pagaré,,ARS,1.68,477275054,,,Titulos de Deuda en Peso Argentina,1
+e,FF AMFAyS S52 Clase A,Fideicomiso financiero,AMFAyS,,1.06,301137832,,,Certificados de Participacion Argentina,3
+e,Pagare #MAV140150033,Pagaré,,ARS,0.22,62500305,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV301240030,Pagaré,,ARS,0.22,62500305,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV250350086,Pagaré,,ARS,0.22,62500305,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.21,59659382,,,Certificados de Participacion Argentina,96
+e,Cheque E *POT231100086,Cheque,,ARS,0.14,39772921,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *POT161100111,Cheque,,ARS,0.12,34091075,,,Titulos de Deuda en Peso Argentina,1
+e,ON Arcor C3,ON,Arcor,ARS,0.07,19886461,,,Titulos de Deuda en Peso Argentina,35
+e,Cheque E *NOV191200045,Cheque,,ARS,0.04,11363692,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NOV191100044,Cheque,,ARS,0.03,8522769,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NOV180100051,Cheque,,ARS,0.03,8522769,,,Titulos de Deuda en Peso Argentina,1
+p,Pionero Capital,Macro,T+1,49.9445,0.6811,4,,,,
+p,Novus Gestion II,Novus,T+1,46.3484,0.6715,4,,,,
+p,Adcap Balance Multiactivo,Adcap,RF ARS Disc,44.932,0.6535,3,,,,
+p,Pionero Multiestrategia Mix,Macro,RF MULT Disc,43.0732,0.6116,3,,,,
+p,MEGAQM Estrategia 4,MegaQM,RM y Otros ARS,41.1595,0.55,3,,,,
+p,Valiant Renta Fija Balanceado VI,Valiant,RF ARS Lecap,39.4086,0.566,3,,,,
+p,Dracma Renta Ahorro,Dracma,RF ARS Disc,37.4694,0.601,4,,,,
+p,Adcap Pesos Plus,Adcap,T+1,37.3684,0.6935,7,,,,

@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MEGAQM Estrategia 6,,,,,,,,
+m,gerente,MEGA QM S.A.,,,,,,,,
+m,depositaria,Banco de Servicios y Transacciones S.A. (BST),,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,21871027992,,,,,,,,
+m,aum_planilla,21871027992,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63736,,,,,,,,
+m,n_especies,16,,,,,,,,
+m,activos_pn,100.05,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.04,,,,,,,,
+m,top1,17.01,,,,,,,,
+m,top5,63.37,,,,,,,,
+m,top10,90.56,,,,,,,,
+m,hhi_especies,1074.9343,,,,,,,,
+m,n_emisores,1,,,,,,,,
+m,emisor_top,Cocos Ahorro,,,,,,,,
+m,emisor_top_pct,0.1,,,,,,,,
+m,hhi_emisores,0.01,,,,,,,,
+m,sin_emisor_pct,99.91,,,,,,,,
+t,Pagaré,99.91,15,,,,,,,
+t,FCI,0.1,1,,,,,,,
+c,ARS,99.91,,,,,,,,
+c,sin dato,0.1,,,,,,,,
+r,Disponibilidades,0.04,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.91,,,,,,,,
+r,Certificados de Participacion Argentina,0.1,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.05,,,,,,,,
+e,Pagare MAV211260054,Pagaré,,ARS,17.01,3720261861,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare MAV211260053,Pagaré,,ARS,15.78,3451248217,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare MAV221260071,Pagaré,,ARS,15.76,3446874012,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare MAV221260062,Pagaré,,ARS,7.41,1620643174,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare MAV221260064,Pagaré,,ARS,7.41,1620643174,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare MAV221260070,Pagaré,,ARS,7.12,1557217193,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare MAV221260065,Pagaré,,ARS,5.63,1231338876,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare MAV221260066,Pagaré,,ARS,5.63,1231338876,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare MAV221260067,Pagaré,,ARS,5.63,1231338876,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare MAV040170039,Pagaré,,ARS,3.18,695498690,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare MAV221260063,Pagaré,,ARS,3.17,693311587,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare MAV040170040,Pagaré,,ARS,3,656130840,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare MAV221260073,Pagaré,,ARS,1.24,271200747,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare MAV211260055,Pagaré,,ARS,1.06,231832897,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare MAV221260072,Pagaré,,ARS,0.88,192465046,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Cocos Ahorro - Clase C,FCI,Cocos Ahorro,,0.1,21871028,,,Certificados de Participacion Argentina,32
+p,Compass Argentina Abierto PyMes,Investis,PYME,0.1,0.0018,1,,,,
+p,Allaria Patrimonio IV,Allaria,RF MULT Disc,0.1,0.001,1,,,,
+p,SBS Abierto Pymes,SBS,PYME,0.1,0.0005,1,,,,
+p,Desarrollo Argentino II FCI Abierto para el Fin. de la Infra. y la Econ. Real,Investis,INFRA,0.1,0.0004,1,,,,
+p,Compass Opportunity,Investis,RF MULT Disc,0.1,0.0003,1,,,,
+p,SBS Renta Pesos,SBS,RF ARS Disc,0.1,0.0003,1,,,,
+p,SBS Gestion Renta Fija,SBS,T+1,0.1,0.0002,1,,,,
+p,Compass Renta Fija III,Investis,RF USD Linked,0.1,0.0002,1,,,,

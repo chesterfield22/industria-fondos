@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Stonex Global I,,,,,,,,
+m,gerente,StoneX Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Ex ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Latinoamerica,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,21502929,,,,,,,,
+m,aum_planilla,21502929,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63888,,,,,,,,
+m,n_especies,12,,,,,,,,
+m,activos_pn,101.9,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,20.74,,,,,,,,
+m,top1,16.02,,,,,,,,
+m,top5,64.21,,,,,,,,
+m,top10,87.2,,,,,,,,
+m,hhi_especies,1014.8046,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Chile (soberano),,,,,,,,
+m,emisor_top_pct,38.39,,,,,,,,
+m,hhi_emisores,1946.7194,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano exterior,42.81,4,,,,,,,
+t,Corporativo exterior,33.71,6,,,,,,,
+t,Caución,13.95,1,,,,,,,
+t,FCI,4.65,1,,,,,,,
+c,USD,81.17,,,,,,,,
+c,sin dato,13.95,,,,,,,,
+r,Disponibilidades,6.79,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,76.51,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense Billete,13.95,,,,,,,,
+r,Certificados de Participacion Argentina,4.65,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.9,,,,,,,,
+e,CL Rep Chile 28,Soberano exterior,Chile (soberano),USD,16.02,3444769,,,Titulos de Deuda en Dolar Estadounidense,18
+e,CL Rep Chile 2027,Soberano exterior,Chile (soberano),USD,15.37,3305000,,,Titulos de Deuda en Dolar Estadounidense,22
+e,Caucion Colocadora USB Merval,Caución,Caución Merval,,13.95,2999659,,,Operaciones a Plazo en Dolar Estadounidense Billete,5
+e,BC Cencosud 5.95%,Corporativo exterior,Cencosud,USD,11.87,2552398,,,Titulos de Deuda en Dolar Estadounidense,16
+e,Chile 4.85%,Soberano exterior,Chile (soberano),USD,7,1505205,,,Titulos de Deuda en Dolar Estadounidense,12
+e,BC Itau Unibanco 270230,Corporativo exterior,Itau Unibanco,USD,4.72,1014938,,,Titulos de Deuda en Dolar Estadounidense,6
+e,FCI Schroder Liquidez Dolares - Clase B,FCI,Schroder Liquidez Dolares,USD,4.65,999886.1832,,,Certificados de Participacion Argentina,6
+e,BC Bco Brasil 6.25% 180430,Corporativo exterior,Banco Brasil,USD,4.64,997735.8903,,,Titulos de Deuda en Dolar Estadounidense,6
+e,BC Petrobras 100930,Corporativo exterior,Petrobras,USD,4.56,980533.5474,,,Titulos de Deuda en Dolar Estadounidense,5
+e,BR Rep Brasil 2030,Soberano exterior,Brasil (soberano),USD,4.42,950429.4472,,,Titulos de Deuda en Dolar Estadounidense,5
+e,BC Codelco 300929,Corporativo exterior,Codelco,USD,4.35,935377.3971,,,Titulos de Deuda en Dolar Estadounidense,9
+e,BC Bradesco 2030,Corporativo exterior,Bradesco,USD,3.57,767654.5535,,,Titulos de Deuda en Dolar Estadounidense,6
+p,Consultatio Income Fund,Consultatio,RF USD GL Ex ARG,34.4708,0.5045,7,,,,
+p,Fima Renta Fija Internacional,Galicia,RF USD GL Ex ARG,33.0004,0.4971,2,,,,
+p,Pionero Renta Dólares,Macro,RF USD GL Ex ARG,33.0004,0.4371,2,,,,
+p,Schroder Retorno Total Cuatro,Schroder,RF USD CP,28.986,0.4104,2,,,,
+p,MEGAQM Renta Fija LATAM,MegaQM,RF USD GL Ex ARG,28.9836,0.4021,9,,,,
+p,Schroder Income,Schroder,RF USD GL Ex ARG,27.9969,0.3671,5,,,,
+p,Balanz Capital Estrategia IV USD,Balanz,RF USD GL Inc ARG,27.647,0.345,2,,,,
+p,Toronto Trust Liquidez Dólar,Investis,RF USD GL Ex ARG,22.5886,0.2945,3,,,,

@@ -1,0 +1,83 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Champaquí Estratégico,,,,,,,,
+m,gerente,Bancor Fondos S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,Banco de Cordoba S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,17344124137,,,,,,,,
+m,aum_planilla,17344124137,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/81848,,,,,,,,
+m,n_especies,31,,,,,,,,
+m,activos_pn,101.92,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.05,,,,,,,,
+m,top1,27.63,,,,,,,,
+m,top5,84.56,,,,,,,,
+m,top10,92.53,,,,,,,,
+m,hhi_especies,1854.5865,,,,,,,,
+m,n_emisores,3,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,83.14,,,,,,,,
+m,hhi_emisores,6922.7741,,,,,,,,
+m,sin_emisor_pct,15.38,,,,,,,,
+t,Soberano,83.14,5,,,,,,,
+t,Pagaré,15.38,24,,,,,,,
+t,FCI,3.24,1,,,,,,,
+t,ON,0.13,1,,,,,,,
+c,ARS,98.65,,,,,,,,
+c,sin dato,3.24,,,,,,,,
+r,Disponibilidades,0.05,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,98.63,,,,,,,,
+r,Certificados de Participacion Argentina,3.24,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.92,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,27.63,4792181499,,,Titulos de Deuda en Peso Argentina,103
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,25.03,4341234271,,,Titulos de Deuda en Peso Argentina,250
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,17.75,3078582034,,,Titulos de Deuda en Peso Argentina,75
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,10.91,1892243943,,,Titulos de Deuda en Peso Argentina,158
+e,FCI Argenfunds Liquidez - Clase B,FCI,Argenfunds Liquidez,,3.24,561949622,,,Certificados de Participacion Argentina,50
+e,Pagare #UPO290170003,Pagaré,,ARS,2.62,454416052,,,Titulos de Deuda en Peso Argentina,1
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,1.82,315663059,,,Titulos de Deuda en Peso Argentina,118
+e,Pagare #UBI160970001,Pagaré,,ARS,1.4,242817738,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UBI300770003,Pagaré,,ARS,1.12,194254190,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UBI200770002,Pagaré,,ARS,1.01,175175654,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UPO300770007,Pagaré,,ARS,0.95,164769179,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UPO280570004,Pagaré,,ARS,0.87,150893880,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UBI200770003,Pagaré,,ARS,0.86,149159468,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR200470014,Pagaré,,ARS,0.78,135284168,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR200770003,Pagaré,,ARS,0.76,131815343,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR060870003,Pagaré,,ARS,0.62,107533570,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR050870003,Pagaré,,ARS,0.56,97127095,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UPO260270003,Pagaré,,ARS,0.44,76314146,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UFT02087000,Pagaré,,ARS,0.43,74579734,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR180670011,Pagaré,,ARS,0.43,74579734,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR140770005,Pagaré,,ARS,0.43,74579734,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR240670004,Pagaré,,ARS,0.43,74579734,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR280770002,Pagaré,,ARS,0.42,72845321,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR300770006,Pagaré,,ARS,0.28,48563548,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR230770007,Pagaré,,ARS,0.28,48563548,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR300670007,Pagaré,,ARS,0.17,29485011,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR300570003,Pagaré,,ARS,0.17,29485011,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR300770005,Pagaré,,ARS,0.17,29485011,,,Titulos de Deuda en Peso Argentina,1
+e,ON Red Surcos S10 Clase A,ON,Red Surcos,ARS,0.13,22547361,,,Titulos de Deuda en Peso Argentina,7
+e,Pagare #UAR040670005,Pagaré,,ARS,0.09,15609712,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UAR310570004,Pagaré,,ARS,0.09,15609712,,,Titulos de Deuda en Peso Argentina,1
+p,Stonex Renta Fija Proteccion Plus,StoneX,RF USD Linked,66.3895,0.9207,3,,,,
+p,First Renta Mixta III,First Cap Mkts,RF USD Linked,65.5484,0.8811,3,,,,
+p,Pionero Renta Ahorro Plus,Macro,RF USD Linked,64.5272,0.8869,4,,,,
+p,Schroder Patrimonio Dos,Schroder,RF MULT Disc,64.1419,0.8915,3,,,,
+p,Megainver Renta Global,MegaQM,T+1,59.1042,0.8446,3,,,,
+p,Pellegrini Proteccion,Pellegrini,RF USD Linked,56.546,0.8817,3,,,,
+p,BAVSA Cobertura,BAVSA,RF USD Linked,56.4397,0.7577,3,,,,
+p,Premier Renta Mixta,Supervielle,RF USD Linked,56.2465,0.7892,3,,,,

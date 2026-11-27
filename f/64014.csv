@@ -1,0 +1,73 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MEGAQM Estrategia 1,,,,,,,,
+m,gerente,MEGA QM S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,3199119076,,,,,,,,
+m,aum_planilla,3199119076,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/64014,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,100.03,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.09,,,,,,,,
+m,top1,26.75,,,,,,,,
+m,top5,87.64,,,,,,,,
+m,top10,94.3,,,,,,,,
+m,hhi_especies,1738.8101,,,,,,,,
+m,n_emisores,7,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,26.75,,,,,,,,
+m,hhi_emisores,1732.6335,,,,,,,,
+m,sin_emisor_pct,5.06,,,,,,,,
+t,Subsoberano,38.99,3,,,,,,,
+t,Soberano,26.75,1,,,,,,,
+t,Cedear,16.85,1,,,,,,,
+t,ETF,8,1,,,,,,,
+t,Cheque,5.06,10,,,,,,,
+t,FCI,0.78,1,,,,,,,
+c,ARS,87.65,,,,,,,,
+c,sin dato,8.78,,,,,,,,
+r,Disponibilidades,0.09,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,70.79,,,,,,,,
+r,Participaciones Accionarias Argentina,16.85,,,,,,,,
+r,Certificados de Participacion Estados Unidos,8,,,,,,,,
+r,Certificados de Participacion Argentina,0.78,,,,,,,,
+r,Otros Activos,3.52,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.03,,,,,,,,
+e,Bono Cuasipar ARS CUAP,Soberano,Tesoro Nacional,ARS,26.75,855764353,,,Titulos de Deuda en Peso Argentina,6
+e,Bono Prov Entre R 2025 ERF25,Subsoberano,Prov. Entre R,ARS,20.3,649421172,,,Titulos de Deuda en Peso Argentina,2
+e,Cedear Berkshire Hathaway,Cedear,Berkshire Hathaway,ARS,16.85,539051564,,,Participaciones Accionarias Argentina,2
+e,Bono Prov La Rioja 2025 RIF25,Subsoberano,Prov. La Rioja,ARS,15.74,503541342,,,Titulos de Deuda en Peso Argentina,1
+e,Ishares Silver Trust,ETF,Ishares Silver Trust,,8,255929526,,,Certificados de Participacion Estados Unidos,1
+e,Bono Prov Salta SA24D,Subsoberano,Prov. Salta,ARS,2.95,94374013,,,Titulos de Deuda en Peso Argentina,3
+e,Cheque E *MAV111101521,Cheque,,ARS,2.31,73899651,,,Titulos de Deuda en Peso Argentina,1
+e,FCI MAF Money Market - Clase B,FCI,MAF Money Market,,0.78,24953129,,,Certificados de Participacion Argentina,39
+e,Cheque E *CRE211100153,Cheque,,ARS,0.31,9917269,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *CRE271100132,Cheque,,ARS,0.31,9917269,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *CRE241100136,Cheque,,ARS,0.31,9917269,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *CRE211100154,Cheque,,ARS,0.31,9917269,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *CRE301100333,Cheque,,ARS,0.31,9917269,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *CRE231200152,Cheque,,ARS,0.3,9597357,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *CRE201200219,Cheque,,ARS,0.3,9597357,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *CRE171200140,Cheque,,ARS,0.3,9597357,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *CRE261200162,Cheque,,ARS,0.3,9597357,,,Titulos de Deuda en Peso Argentina,1
+p,Quiron Renta Mixta,Quiron,RV ARG Otros,3.8438,0.0467,1,,,,
+p,Alpha Renta Fija Serie 7,ICBC,RF ARS Disc,3.6822,0.0695,1,,,,
+p,Arpenta (ex Mercosur),Mercofond,RM y Otros ARS,2.2588,0.0517,1,,,,
+p,Novus Performance,Novus,RF MULT Disc,0.8592,0.015,1,,,,
+p,Consultatio Gestion IX,Consultatio,RF MULT Disc,0.8089,0.0161,1,,,,
+p,Champaquí FCI Abierto Pymes,Bancor,PYME,0.8089,0.0049,1,,,,
+p,MEGAQM Provincial,MegaQM,T+1,0.8089,0.0029,1,,,,
+p,IAM Renta Mixta,BIND,RM y Otros ARS,0.8089,0.0017,1,,,,

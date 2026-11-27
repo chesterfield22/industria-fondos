@@ -1,0 +1,71 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Novus Multiestrategia,,,,,,,,
+m,gerente,Novus Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5904216881,,,,,,,,
+m,aum_planilla,5904216881,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85872,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,102.64,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.21,,,,,,,,
+m,top1,21.64,,,,,,,,
+m,top5,68.13,,,,,,,,
+m,top10,93.61,,,,,,,,
+m,hhi_especies,1197.6791,,,,,,,,
+m,n_emisores,8,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,14.72,,,,,,,,
+m,hhi_emisores,381.27,,,,,,,,
+m,sin_emisor_pct,55.91,,,,,,,,
+t,Pagaré,55.91,4,,,,,,,
+t,Soberano,14.72,2,,,,,,,
+t,Fideicomiso financiero,14.59,2,,,,,,,
+t,ON,8.39,2,,,,,,,
+t,Acción,3.14,1,,,,,,,
+t,Cedear,3.03,1,,,,,,,
+t,FCI,0.05,1,,,,,,,
+c,ARS,81.11,,,,,,,,
+c,sin dato,14.64,,,,,,,,
+c,USD,4.08,,,,,,,,
+r,Disponibilidades,0.21,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,74.95,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,4.08,,,,,,,,
+r,Participaciones Accionarias Argentina,6.17,,,,,,,,
+r,Certificados de Participacion Argentina,14.64,,,,,,,,
+r,Otros Activos,2.59,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),2.64,,,,,,,,
+e,Pagare #MAV190170017,Pagaré,,ARS,21.64,1277672533,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV031260030,Pagaré,,ARS,16.53,975967051,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV260170017,Pagaré,,ARS,11.73,692564640,,,Titulos de Deuda en Peso Argentina,1
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,9.54,563262290,,,Titulos de Deuda en Peso Argentina,142
+e,FF Milaires Clase A,Fideicomiso financiero,Milaires,,8.69,513076447,,,Certificados de Participacion Argentina,3
+e,Pagare #MAV120170016,Pagaré,,ARS,6.01,354843435,,,Titulos de Deuda en Peso Argentina,1
+e,FF River Plate S1,Fideicomiso financiero,River Plate,,5.9,348348796,,,Certificados de Participacion Argentina,6
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,5.18,305838434,,,Titulos de Deuda en Peso Argentina,160
+e,ON Epec C2,ON,Epec,ARS,4.31,254471748,,,Titulos de Deuda en Peso Argentina,12
+e,ON Cresud Clase 50,ON,Cresud,USD,4.08,240892049,,,Titulos de Deuda en Dolar Estadounidense,19
+e,YPF S.A.,Acción,YPF,ARS,3.14,185392410,,,Participaciones Accionarias Argentina,122
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,3.03,178897772,,,Participaciones Accionarias Argentina,50
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.05,2952108,,,Certificados de Participacion Argentina,77
+p,Novus Liquidez Plus,Novus,T+1,14.7952,0.2252,3,,,,
+p,Gainvest Renta Fija,StoneX,T+1,14.7451,0.2225,2,,,,
+p,Parakeet Renta Pesos,Parakeet,T+1,14.7451,0.2141,2,,,,
+p,Axis Capital 1,Axis,RF MULT Disc,14.7451,0.2107,2,,,,
+p,First Renta Pesos,First Cap Mkts,T+1,14.7451,0.2031,2,,,,
+p,Delta Performance,Delta,T+1,14.7451,0.2018,2,,,,
+p,Delta Patrimonio I,Delta,RV Global,14.7451,0.189,2,,,,
+p,Adcap Pesos Plus,Adcap,T+1,14.7451,0.185,2,,,,

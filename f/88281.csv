@@ -1,0 +1,68 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Mills Renta Fija Pesos,,,,,,,,
+m,gerente,Mills Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,16972263404,,,,,,,,
+m,aum_planilla,16972263404,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88281,,,,,,,,
+m,n_especies,18,,,,,,,,
+m,activos_pn,94.28,,,,,,,,
+m,pasivos_cnv,5.72,,,,,,,,
+m,liquidez,7.97,,,,,,,,
+m,top1,12.67,,,,,,,,
+m,top5,43.67,,,,,,,,
+m,top10,67.5,,,,,,,,
+m,hhi_especies,625.5627,,,,,,,,
+m,n_emisores,3,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,68.56,,,,,,,,
+m,hhi_emisores,5077.6305,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,68.56,12,,,,,,,
+t,Subsoberano,17.75,5,,,,,,,
+t,Caución,7.88,1,,,,,,,
+c,ARS,94.19,,,,,,,,
+r,Disponibilidades,0.09,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,86.31,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,7.88,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,5.72,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-5.72,,,,,,,,
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,12.67,2150385773,,,Titulos de Deuda en Peso Argentina,92
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,11.28,1914471312,,,Titulos de Deuda en Peso Argentina,160
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,7.88,1337414356,,,Operaciones a Plazo en Peso Argentina,195
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,6.53,1108288800,,,Titulos de Deuda en Peso Argentina,159
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,5.31,901227187,,,Titulos de Deuda en Peso Argentina,75
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,5.28,896135508,,,Titulos de Deuda en Peso Argentina,142
+e,Letra Prov Bs As 172226,Subsoberano,Prov. Buenos Aires,ARS,5.17,877466018,,,Titulos de Deuda en Peso Argentina,2
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,4.74,804485285,,,Titulos de Deuda en Peso Argentina,136
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,4.35,738293458,,,Titulos de Deuda en Peso Argentina,146
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,4.29,728110100,,,Titulos de Deuda en Peso Argentina,165
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,4.1,695862800,,,Titulos de Deuda en Peso Argentina,112
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,3.86,655129367,,,Titulos de Deuda en Peso Argentina,82
+e,Letra Prov Bs As 180227,Subsoberano,Prov. Buenos Aires,ARS,3.6,611001483,,,Titulos de Deuda en Peso Argentina,5
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,3.1,526140166,,,Titulos de Deuda en Peso Argentina,118
+e,Bono Dual TXMJ8,Soberano,Tesoro Nacional,ARS,3.05,517654034,,,Titulos de Deuda en Peso Argentina,45
+e,Letra Prov Bs As BBA27,Subsoberano,Prov. Buenos Aires,ARS,3,509167902,,,Titulos de Deuda en Peso Argentina,4
+e,Letra Prov Bs As XBM27,Subsoberano,Prov. Buenos Aires,ARS,3,509167902,,,Titulos de Deuda en Peso Argentina,4
+e,Letra Prov Bs As 210127,Subsoberano,Prov. Buenos Aires,ARS,2.98,505773449,,,Titulos de Deuda en Peso Argentina,1
+p,FBA Renta Fija Pesos II,BBVA,T+1,45.662,0.6597,7,,,,
+p,Premier Renta Fija Ahorro,Supervielle,T+1,40.5143,0.6128,7,,,,
+p,FBA Renta Fija Pesos Plus I,BBVA,RF ARS Disc,40.182,0.5313,7,,,,
+p,Supergestion Mix VI,Santander,T+1,38.7743,0.5692,8,,,,
+p,FBA Renta Mixta,BBVA,RM y Otros ARS,38.2326,0.5726,6,,,,
+p,Crecer Renta Plus,Ciudad,RF ARS Disc,37.3688,0.4496,7,,,,
+p,Blacktoro Gestion Calificado I,BlackToro,RF ARS Disc,37.1692,0.4779,6,,,,
+p,Fima Ahorro Plus,Galicia,T+1,37.1582,0.562,6,,,,

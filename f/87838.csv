@@ -1,0 +1,70 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Numancia Pesos II,,,,,,,,
+m,gerente,Zofingen Investment S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Plazo Fijo,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,143143505733,,,,,,,,
+m,aum_planilla,143143505733,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87838,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,100.01,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,51.37,,,,,,,,
+m,top5,78.81,,,,,,,,
+m,top10,88.48,,,,,,,,
+m,hhi_especies,2982.0579,,,,,,,,
+m,n_emisores,2,,,,,,,,
+m,emisor_top,Crown Point Energy,,,,,,,,
+m,emisor_top_pct,76.87,,,,,,,,
+m,hhi_emisores,5909.0005,,,,,,,,
+m,sin_emisor_pct,23.1,,,,,,,,
+t,ON,76.87,4,,,,,,,
+t,Pagaré,23.1,12,,,,,,,
+t,FCI,0.06,1,,,,,,,
+c,ARS,76.87,,,,,,,,
+c,USD,23.1,,,,,,,,
+c,sin dato,0.06,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,76.87,,,,,,,,
+r,Titulos de Deuda en Dolar 3500 BCRA,23.08,,,,,,,,
+r,Certificados de Participacion Argentina,0.06,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.01,,,,,,,,
+e,ON Crown Point Energy C11,ON,Crown Point Energy,ARS,51.37,73532818895,,,Titulos de Deuda en Peso Argentina,1
+e,ON Crown Point Energy C9,ON,Crown Point Energy,ARS,14.82,21213867550,,,Titulos de Deuda en Peso Argentina,2
+e,ON Crown Point Energy C6,ON,Crown Point Energy,ARS,8.66,12396227596,,,Titulos de Deuda en Peso Argentina,2
+e,ON Crown Point Energy C10,ON,Crown Point Energy,ARS,2.02,2891498816,,,Titulos de Deuda en Peso Argentina,4
+e,Pagare #UMV220970006,Pagaré,,USD,1.94,2776984011,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV220770010,Pagaré,,USD,1.94,2776984011,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV220870004,Pagaré,,USD,1.94,2776984011,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV220170012,Pagaré,,USD,1.93,2762669661,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV220270005,Pagaré,,USD,1.93,2762669661,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV220370013,Pagaré,,USD,1.93,2762669661,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV220470007,Pagaré,,USD,1.92,2748355310,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV220570003,Pagaré,,USD,1.92,2748355310,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV220670007,Pagaré,,USD,1.92,2748355310,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV220970005,Pagaré,,USD,1.91,2734040960,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV220770005,Pagaré,,USD,1.91,2734040960,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV220870003,Pagaré,,USD,1.91,2734040960,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.06,85886103,,,Certificados de Participacion Argentina,93
+p,Zofingen Infraestructura,Zofingen Inv.,INFRA,7.9305,0.0947,1,,,,
+p,SBS Desarrollo Infraestructura,SBS,INFRA,2.0646,0.0035,2,,,,
+p,Chaco FCI Renta Fija Dólares,Chaco,RF USD corp loc,2.0194,0.0049,1,,,,
+p,Toronto Trust Renta Dólar,Investis,RF USD corp loc,0.2461,0.003,1,,,,
+p,Axis Rosental FCI Abierto Pymes,Axis,PYME,0.06,0.0005,1,,,,
+p,Allaria Selection II Abierto Pymes,Allaria,PYME,0.06,0.0005,1,,,,
+p,Numancia Pesos III,Zofingen Inv.,RF MULT Disc,0.06,0.0004,1,,,,
+p,Axis Estrategia 16,Axis,RF MULT Disc,0.06,0.0003,1,,,,

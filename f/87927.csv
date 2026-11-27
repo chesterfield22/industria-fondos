@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Max Retorno Total Pesos IV,,,,,,,,
+m,gerente,Max Capital Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,33752246692,,,,,,,,
+m,aum_planilla,33752246692,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87927,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,100.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,24.99,,,,,,,,
+m,top5,76.71,,,,,,,,
+m,top10,99.02,,,,,,,,
+m,hhi_especies,1464.4377,,,,,,,,
+m,n_emisores,3,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,67.95,,,,,,,,
+m,hhi_emisores,4617.3547,,,,,,,,
+m,sin_emisor_pct,31.66,,,,,,,,
+t,Soberano,67.95,4,,,,,,,
+t,Pagaré,24.58,4,,,,,,,
+t,Cheque,7.08,3,,,,,,,
+t,FCI,0.4,2,,,,,,,
+c,ARS,99.61,,,,,,,,
+c,sin dato,0.4,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.62,,,,,,,,
+r,Certificados de Participacion Argentina,0.4,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.02,,,,,,,,
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,24.99,8434686448,,,Titulos de Deuda en Peso Argentina,142
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,17.91,6045027382,,,Titulos de Deuda en Peso Argentina,86
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,12.91,4357415048,,,Titulos de Deuda en Peso Argentina,149
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,12.14,4097522748,,,Titulos de Deuda en Peso Argentina,118
+e,Pagare #MAV241160038,Pagaré,,ARS,8.76,2956696810,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV050170060,Pagaré,,ARS,7.09,2393034290,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV061101229,Cheque,,ARS,5.9,1991382555,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV241160095,Pagaré,,ARS,5.84,1971131207,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV101260085,Pagaré,,ARS,2.89,975439929,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131101937,Cheque,,ARS,0.59,199138255,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV131101935,Cheque,,ARS,0.59,199138255,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Balanz Capital Money Market Clase C,FCI,Balanz Capital Money Market,,0.39,131633762,,,Certificados de Participacion Argentina,47
+e,FCI Ciclo Nova Ahorro - Clase E,FCI,Ciclo Nova Ahorro,,0.01,3375225,,,Certificados de Participacion Argentina,38
+p,Max Ahorro Pesos,Max Capital,T+1,56.0979,0.7633,5,,,,
+p,ConoSur Ahorro,Cono Sur,T+1,55.8044,0.7805,3,,,,
+p,MEGAQM Estrategia 4,MegaQM,RM y Otros ARS,51.1454,0.7474,3,,,,
+p,Max Dinamico V,Max Capital,RF MULT Disc,48.293,0.5869,3,,,,
+p,Alpha Renta Fija Serie 1,ICBC,RF MULT Disc,42.3564,0.4815,3,,,,
+p,Pionero Integral,Macro,RF MULT Disc,40.006,0.5272,3,,,,
+p,Max Dinamico III,Max Capital,RM y Otros ARS,39.6203,0.48,6,,,,
+p,Novus Renta Fija,Novus,RF MULT Disc,39.4747,0.4156,3,,,,

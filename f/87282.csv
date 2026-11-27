@@ -1,0 +1,76 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Parakeet Premium,,,,,,,,
+m,gerente,Parakeet S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,4299806855,,,,,,,,
+m,aum_planilla,4299806855,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87282,,,,,,,,
+m,n_especies,20,,,,,,,,
+m,activos_pn,110.9,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,15.47,,,,,,,,
+m,top5,53.5,,,,,,,,
+m,top10,82.7,,,,,,,,
+m,hhi_especies,875.6506,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Prov. Buenos Aires,,,,,,,,
+m,emisor_top_pct,20.36,,,,,,,,
+m,hhi_emisores,1136.5283,,,,,,,,
+m,sin_emisor_pct,21.87,,,,,,,,
+t,Subsoberano,67.51,10,,,,,,,
+t,Pagaré,21.87,5,,,,,,,
+t,ETF,10.85,1,,,,,,,
+t,ON,5.72,2,,,,,,,
+t,Soberano,2.98,1,,,,,,,
+t,Cedear,1.99,1,,,,,,,
+c,ARS,79.42,,,,,,,,
+c,USD,20.65,,,,,,,,
+c,sin dato,10.85,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,77.42,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,20.64,,,,,,,,
+r,Participaciones Accionarias Argentina,12.84,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),10.9,,,,,,,,
+e,Letra Prov Bs As PBA27,Subsoberano,Prov. Buenos Aires,ARS,15.47,665180121,,,Titulos de Deuda en Peso Argentina,38
+e,Cedear Ishares Bitcoin Trust,ETF,Cedear Ishares Bitcoin Trust,,10.85,466529044,,,Participaciones Accionarias Argentina,4
+e,Letra Prov Chubut S122 C2,Subsoberano,Prov. Chubut,ARS,9.71,417511246,,,Titulos de Deuda en Peso Argentina,6
+e,Letra Municipalidad Rio Cuarto S40,Subsoberano,Muni. Rio Cuarto,ARS,9.63,414071400,,,Titulos de Deuda en Peso Argentina,10
+e,Letra Prov Rio Negro S1 031226,Subsoberano,Prov. Rio Negro,ARS,7.84,337104857,,,Titulos de Deuda en Peso Argentina,15
+e,Pagare #UMV230670012,Pagaré,,USD,7.35,316035804,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Bono Muni Cordoba S2 13022027,Subsoberano,Muni. Cordoba,ARS,7.05,303136383,,,Titulos de Deuda en Peso Argentina,29
+e,Pagare #UMV170270037,Pagaré,,USD,5.07,218000208,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Bono Prov de Buenos Aires PBM27,Subsoberano,Prov. Buenos Aires,ARS,4.89,210260555,,,Titulos de Deuda en Peso Argentina,17
+e,Pagare #UMV240270043,Pagaré,,USD,4.84,208110652,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Letra Prov Chubut S123 C1,Subsoberano,Prov. Chubut,ARS,4.67,200800980,,,Titulos de Deuda en Peso Argentina,14
+e,Bono Muni Cordoba S1 26032027,Subsoberano,Muni. Cordoba,ARS,4.64,199511038,,,Titulos de Deuda en Peso Argentina,20
+e,ON Edenor Clase 3,ON,Edenor,USD,3.39,145763452,,,Titulos de Deuda en Dolar Estadounidense,7
+e,Pagare #MAV270170008,Pagaré,,ARS,3.39,145763452,,,Titulos de Deuda en Peso Argentina,1
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,2.98,128134244,,,Titulos de Deuda en Peso Argentina,74
+e,Letra Prov Chubut S122 C1,Subsoberano,Prov. Chubut,ARS,2.42,104055326,,,Titulos de Deuda en Peso Argentina,12
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,2.33,100185500,,,Titulos de Deuda en Peso Argentina,61
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,1.99,85566156,,,Participaciones Accionarias Argentina,38
+e,Pagare #MAV270170010,Pagaré,,ARS,1.22,52457644,,,Titulos de Deuda en Peso Argentina,1
+e,Letra Entre Rios ERE27,Subsoberano,Prov. Entre Rios,ARS,1.19,51167702,,,Titulos de Deuda en Peso Argentina,11
+p,Novus Renta Capital,Novus,RF ARS Disc,42.9529,0.5256,12,,,,
+p,Novus Balanceado,Novus,RM y Otros ARS,42.497,0.5667,11,,,,
+p,Novus Income,Novus,RF MULT Disc,34.6048,0.4705,12,,,,
+p,Novus Renta Balanceado,Novus,RM y Otros ARS,30.3136,0.4389,6,,,,
+p,BAVSA Multiestrategia I,BAVSA,RM y Otros ARS,22.7275,0.2489,6,,,,
+p,Axis Estrategia 28,Axis,RM y Otros ARS,21.4742,0.4085,4,,,,
+p,GMC Retorno Total II,GMC,RF ARS Disc,18.0638,0.2097,6,,,,
+p,Novus Retorno Total,Novus,RF MULT Disc,14.6154,0.1437,3,,,,

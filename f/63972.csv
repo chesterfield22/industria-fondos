@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,CYC Renta Mixta,,,,,,,,
+m,gerente,C y C Administradora de Fondos S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RV ARG Otros,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,21878162630,,,,,,,,
+m,aum_planilla,21878162630,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63972,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,103.89,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,4.47,,,,,,,,
+m,top1,11.25,,,,,,,,
+m,top5,47.95,,,,,,,,
+m,top10,83.7,,,,,,,,
+m,hhi_especies,821.8258,,,,,,,,
+m,n_emisores,15,,,,,,,,
+m,emisor_top,Distribuidora de Gas del Centro,,,,,,,,
+m,emisor_top_pct,11.25,,,,,,,,
+m,hhi_emisores,821.8258,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,78.89,10,,,,,,,
+t,Cedear,19.05,3,,,,,,,
+t,Caución,4.42,1,,,,,,,
+t,Soberano,1.48,1,,,,,,,
+c,ARS,103.84,,,,,,,,
+r,Disponibilidades,0.05,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,1.48,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,4.42,,,,,,,,
+r,Participaciones Accionarias Argentina,97.94,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),3.89,,,,,,,,
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,11.25,2461293296,,,Participaciones Accionarias Argentina,77
+e,Transportadora de Gas del Norte S.A.,Acción,Transportadora de Gas del Norte,ARS,10.94,2393470992,,,Participaciones Accionarias Argentina,70
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,8.9,1947156474,,,Participaciones Accionarias Argentina,129
+e,YPF S.A.,Acción,YPF,ARS,8.6,1881521986,,,Participaciones Accionarias Argentina,122
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,8.26,1807136233,,,Participaciones Accionarias Argentina,117
+e,Inversiones y Representaciones S.A. (IRSA),Acción,Inversiones y Representaciones S.A. (IRSA),ARS,7.93,1734938297,,,Participaciones Accionarias Argentina,35
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,7.34,1605857137,,,Participaciones Accionarias Argentina,104
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,7.09,1551161730,,,Participaciones Accionarias Argentina,50
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,7.09,1551161730,,,Participaciones Accionarias Argentina,77
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,6.3,1378324246,,,Participaciones Accionarias Argentina,52
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,6.11,1336755737,,,Participaciones Accionarias Argentina,104
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,5.66,1238304005,,,Participaciones Accionarias Argentina,38
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,4.42,967014788,,,Operaciones a Plazo en Peso Argentina,195
+e,Raghsa S.A.,Acción,Raghsa,ARS,2.47,540390617,,,Participaciones Accionarias Argentina,1
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,1.48,323796807,,,Titulos de Deuda en Peso Argentina,160
+p,Cocos Acciones,Cocos,RV ARG Rofex 20,58.1854,0.6698,10,,,,
+p,Stonex Renta Variable,StoneX,RV ARG Otros,56.1665,0.6607,8,,,,
+p,Ualintec Renta Variable Pesos,Ualá,RV ARG Rofex 20,52.0822,0.6867,10,,,,
+p,Axis Brio Valores I,Axis,RV ARG Otros,49.3977,0.6408,9,,,,
+p,Superfondo Acciones,Santander,RV ARG Otros,48.3248,0.6048,9,,,,
+p,Toronto Trust Multimercado,Investis,RV ARG Otros,47.3245,0.6263,9,,,,
+p,Puente Acciones Argentinas,Puente,RV ARG Merval,46.2576,0.5883,9,,,,
+p,MAF Acciones Argentina,Mariva,RV ARG Merval,46.1854,0.576,11,,,,

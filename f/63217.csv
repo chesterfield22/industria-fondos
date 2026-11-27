@@ -1,0 +1,101 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Superfondo Latinoamerica,,,,,,,,
+m,gerente,Santander Asset Management G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Santander Argentina S.A.,,,,,,,,
+m,clasificacion,Renta Variable,,,,,,,,
+m,subtipo,RV Global,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Latinoamerica,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,4611909,,,,,,,,
+m,aum_planilla,4713295,,,,,,,,
+m,dif_pn_aum,-0.0215,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63217,,,,,,,,
+m,n_especies,48,,,,,,,,
+m,activos_pn,98.98,,,,,,,,
+m,pasivos_cnv,1.02,,,,,,,,
+m,liquidez,7.47,,,,,,,,
+m,top1,15.69,,,,,,,,
+m,top5,39.91,,,,,,,,
+m,top10,53.63,,,,,,,,
+m,hhi_especies,505.6059,,,,,,,,
+m,n_emisores,48,,,,,,,,
+m,emisor_top,Petroleo Brasileiro,,,,,,,,
+m,emisor_top_pct,15.69,,,,,,,,
+m,hhi_emisores,505.6059,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,87.48,46,,,,,,,
+t,Cedear,4.03,2,,,,,,,
+c,sin dato,80.4,,,,,,,,
+c,ARS,11.11,,,,,,,,
+r,Disponibilidades,7.47,,,,,,,,
+r,Participaciones Accionarias Brasil,55.79,,,,,,,,
+r,Participaciones Accionarias Mexico,12.34,,,,,,,,
+r,Participaciones Accionarias Argentina,11.11,,,,,,,,
+r,Participaciones Accionarias Chile,7.4,,,,,,,,
+r,Participaciones Accionarias Estados Unidos,4.87,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,1.02,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-1.02,,,,,,,,
+e,Petroleo Brasileiro S.A.,Acción,Petroleo Brasileiro,,15.69,723608.5001,,,Participaciones Accionarias Brasil,5
+e,Vale S.A.,Acción,Vale,,9.98,460268.5042,,,Participaciones Accionarias Brasil,4
+e,Banco Itau Holding Financiera S.A.,Acción,Banco Itau Holding Financiera,,5.91,272563.8136,,,Participaciones Accionarias Brasil,4
+e,Grupo Mexico S.A. de C.V.,Acción,Grupo Mexico S.A. de C.V,,4.24,195544.9357,,,Participaciones Accionarias Mexico,1
+e,Banco Bradesco Brasil S.A.,Acción,Banco Bradesco Brasil,,4.09,188627.0724,,,Participaciones Accionarias Brasil,4
+e,Companhia Saneamento Basico Sao Paulo,Acción,Companhia Saneamento Basico Sao Paulo,,3.45,159110.8557,,,Participaciones Accionarias Brasil,3
+e,Grupo Financiero Banorte S.A. de C.V.,Acción,Grupo Financiero Banorte S.A. de C.V,,2.67,123137.9666,,,Participaciones Accionarias Mexico,1
+e,Weg S.A.,Acción,Weg,,2.67,123137.9666,,,Participaciones Accionarias Brasil,4
+e,Ambev S.A.,Acción,Ambev,,2.51,115758.9124,,,Participaciones Accionarias Brasil,3
+e,Fomento Economico Mexico S.A.,Acción,Fomento Economico Mexico,,2.42,111608.1944,,,Participaciones Accionarias Mexico,1
+e,ADR Cemex CPO,Acción,ADR Cemex CPO,,2.18,100539.6131,,,Participaciones Accionarias Estados Unidos,1
+e,Cedear America Movil ADR,Cedear,America Movil ADR,ARS,2.08,95927.7043,,,Participaciones Accionarias Argentina,4
+e,Telefonica Brasil,Acción,Telefonica Brasil,,2.02,93160.559,,,Participaciones Accionarias Brasil,3
+e,Equatorial Energia,Acción,Equatorial Energia,,1.97,90854.6045,,,Participaciones Accionarias Brasil,3
+e,Cedear Cemex ADR,Cedear,Cemex ADR,ARS,1.95,89932.2228,,,Participaciones Accionarias Argentina,3
+e,Bolsa de Sao Pablo,Acción,Bolsa de Sao Pablo,,1.63,75174.1144,,,Participaciones Accionarias Brasil,3
+e,Wal Mart Mexico,Acción,Wal Mart Mexico,,1.6,73790.5418,,,Participaciones Accionarias Mexico,1
+e,Banco de Chile,Acción,Banco de Chile,,1.59,73329.3509,,,Participaciones Accionarias Chile,11
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,1.5,69178.6329,,,Participaciones Accionarias Argentina,117
+e,Rumo Logistica,Acción,Rumo Logistica,,1.43,65950.2967,,,Participaciones Accionarias Brasil,2
+e,Grupo Aeroportuario del Pacifico SAB de CV,Acción,Grupo Aeroportuario del Pacifico SAB de CV,,1.41,65027.9149,,,Participaciones Accionarias Mexico,1
+e,BDR Ternium S.A.,Acción,BDR Ternium,ARS,1.4,64566.724,,,Participaciones Accionarias Argentina,1
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,1.38,63644.3423,,,Participaciones Accionarias Argentina,129
+e,Enersis S.A.,Acción,Enersis,,1.29,59493.6243,,,Participaciones Accionarias Chile,2
+e,Soquimich Comercial S.A.,Acción,Soquimich Comercial,,1.29,59493.6243,,,Participaciones Accionarias Chile,2
+e,ADR America Movil,Acción,ADR America Movil,,1.23,56726.479,,,Participaciones Accionarias Estados Unidos,2
+e,Banco do Brasil S.A.,Acción,Banco do Brasil,,1.07,49347.4248,,,Participaciones Accionarias Brasil,9
+e,Banco de Credito e Inversiones (BCI),Acción,Banco de Credito e Inversiones (BCI),,1.07,49347.4248,,,Participaciones Accionarias Chile,1
+e,Falabella S.A.C.I.,Acción,Falabella S.A.C.I,,0.93,42890.7524,,,Participaciones Accionarias Chile,2
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,0.83,38278.8435,,,Participaciones Accionarias Argentina,85
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,0.82,37817.6527,,,Participaciones Accionarias Argentina,104
+e,Localiza Rent a Car S.A.,Acción,Localiza Rent a Car,,0.8,36895.2709,,,Participaciones Accionarias Brasil,2
+e,ADR Petrobras ON,Acción,ADR Petrobras ON,,0.77,35511.6982,,,Participaciones Accionarias Estados Unidos,3
+e,YPF S.A.,Acción,YPF,ARS,0.6,27671.4532,,,Participaciones Accionarias Argentina,122
+e,JBS S.A.,Acción,JBS,,0.58,26749.0714,,,Participaciones Accionarias Brasil,2
+e,Empresas Copec S.A.,Acción,Empresas Copec,,0.55,25365.4987,,,Participaciones Accionarias Chile,2
+e,Lojas Renner S.A.,Acción,Lojas Renner,,0.51,23520.7352,,,Participaciones Accionarias Brasil,1
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,0.5,23059.5443,,,Participaciones Accionarias Argentina,104
+e,Magazine Luisa S.A.,Acción,Magazine Luisa,,0.49,22598.3534,,,Participaciones Accionarias Brasil,2
+e,Suzano Bahia Sul Papel e Celulose S.A.,Acción,Suzano Bahia Sul Papel e Celulose,,0.48,22137.1625,,,Participaciones Accionarias Brasil,2
+e,CMPC S.A.,Acción,CMPC,,0.36,16602.8719,,,Participaciones Accionarias Chile,2
+e,ADR Itau Unibanco Holding,Acción,ADR Itau Unibanco Holding,,0.35,16141.681,,,Participaciones Accionarias Estados Unidos,2
+e,ADR Banco Bradesco - Pref,Acción,ADR Banco Bradesco - Pref,,0.34,15680.4901,,,Participaciones Accionarias Estados Unidos,2
+e,Cencosud S.A.,Acción,Cencosud,,0.32,14758.1084,,,Participaciones Accionarias Chile,2
+e,Natura Cosmeticos S.A.,Acción,Natura Cosmeticos,,0.22,10146.1995,,,Participaciones Accionarias Brasil,2
+e,Companhia Siderurgica Nacional S.A.,Acción,Companhia Siderurgica Nacional,,0.22,10146.1995,,,Participaciones Accionarias Brasil,2
+e,Hapvida Paticipacoes,Acción,Hapvida Paticipacoes,,0.07,3228.3362,,,Participaciones Accionarias Brasil,2
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,0.05,2305.9544,,,Participaciones Accionarias Argentina,77
+p,Fima Acciones Latinoamerica,Galicia,RV Global,49.8628,0.8062,17,,,,
+p,Superfondo Acciones Brasil,Santander,RV Global,49.0596,0.7138,18,,,,
+p,Alpha Latam,ICBC,RV Global,29.919,0.4248,10,,,,
+p,Alpha Mercosur,ICBC,RV Global,7.0484,0.0736,8,,,,
+p,ConoSur Visus,Cono Sur,RM y Otros ARS,6.207,0.0972,7,,,,
+p,Allaria Acciones,Allaria,RV ARG Merval,6.207,0.0945,7,,,,
+p,Champaquí Renta Variable,Bancor,RV ARG Rofex 20,6.207,0.094,7,,,,
+p,Pionero Acciones,Macro,RV ARG Merval,6.207,0.093,7,,,,

@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,CYC Renta Fija en Dolares,,,,,,,,
+m,gerente,C y C Administradora de Fondos S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,541237022,,,,,,,,
+m,aum_planilla,541237022,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63971,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,100.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,15.9,,,,,,,,
+m,top1,27.05,,,,,,,,
+m,top5,68.19,,,,,,,,
+m,top10,83.29,,,,,,,,
+m,hhi_especies,1271.5154,,,,,,,,
+m,n_emisores,3,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,66.5,,,,,,,,
+m,hhi_emisores,4700.4526,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,66.5,9,,,,,,,
+t,BCRA,16.65,1,,,,,,,
+t,Fideicomiso financiero,0.99,1,,,,,,,
+c,ARS,78.19,,,,,,,,
+c,USD,4.11,,,,,,,,
+c,sin dato,1.84,,,,,,,,
+r,Disponibilidades,15.9,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,78.17,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,4.11,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense Cable,0.85,,,,,,,,
+r,Certificados de Participacion Argentina,0.99,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.02,,,,,,,,
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,27.05,146404614,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,ARS,16.65,90115964,,,Titulos de Deuda en Peso Argentina,33
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,9.13,49414940,,,Titulos de Deuda en Peso Argentina,250
+e,Letra Tamar TEM TMF28,Soberano,Tesoro Nacional,ARS,8.95,48440713,,,Titulos de Deuda en Peso Argentina,12
+e,Bono del Tesoro 2.5% 2031,Soberano,Tesoro Nacional,ARS,6.41,34693293,,,Titulos de Deuda en Peso Argentina,24
+e,Bono Boncer TZXD8,Soberano,Tesoro Nacional,ARS,5.35,28956181,,,Titulos de Deuda en Peso Argentina,26
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,USD,4.11,22244842,,,Titulos de Deuda en Dolar Estadounidense,62
+e,Bono Boncer TX26,Soberano,Tesoro Nacional,ARS,2.41,13043812,,,Titulos de Deuda en Peso Argentina,63
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,2.24,12123709,,,Titulos de Deuda en Peso Argentina,51
+e,FF Vicentin Export S8 A,Fideicomiso financiero,Vicentin Export,,0.99,5358247,,,Certificados de Participacion Argentina,13
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,,0.85,4600515,,,Titulos de Deuda en Dolar Estadounidense Cable,83
+p,Consultatio Retorno Total,Consultatio,RM y Otros ARS,49.9506,0.628,3,,,,
+p,Delta Gestion V,Delta,RM y Otros ARS,44.274,0.7048,4,,,,
+p,Galileo Renta Fija,Delta,RF MULT Disc,41.3272,0.6245,4,,,,
+p,Consultatio Tactico,Consultatio,RF MULT Disc,40.0494,0.6041,2,,,,
+p,Consultatio Multimercado I,Consultatio,RF MULT Disc,38.5875,0.6483,2,,,,
+p,Delta Renta,Delta,RF MULT Disc,38.5529,0.6241,4,,,,
+p,Delta Retorno Real,Delta,RF ARS CER,35.3914,0.634,2,,,,
+p,Superfondo Renta $,Santander,RF ARS Disc,34.8697,0.5987,2,,,,

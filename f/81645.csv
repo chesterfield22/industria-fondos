@@ -1,0 +1,69 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MEGAQM Estrategia 2,,,,,,,,
+m,gerente,MEGA QM S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,49592025242,,,,,,,,
+m,aum_planilla,49592025242,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/81645,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,101.17,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.1,,,,,,,,
+m,top1,20.2,,,,,,,,
+m,top5,79.21,,,,,,,,
+m,top10,98.73,,,,,,,,
+m,hhi_especies,1449.3415,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,93.28,,,,,,,,
+m,hhi_emisores,8715.1753,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,93.28,7,,,,,,,
+t,ON,6.53,6,,,,,,,
+t,FCI,1.26,4,,,,,,,
+c,ARS,99.81,,,,,,,,
+c,sin dato,1.18,,,,,,,,
+c,USD,0.08,,,,,,,,
+r,Disponibilidades,0.1,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.81,,,,,,,,
+r,Certificados de Participacion Argentina,1.26,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.17,,,,,,,,
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,20.2,10017589099,,,Titulos de Deuda en Peso Argentina,158
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,19.21,9526628049,,,Titulos de Deuda en Peso Argentina,118
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,ARS,17.14,8500073126,,,Titulos de Deuda en Peso Argentina,83
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,12.64,6268431991,,,Titulos de Deuda en Peso Argentina,142
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,10.02,4969120929,,,Titulos de Deuda en Peso Argentina,103
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,8.9,4413690246,,,Titulos de Deuda en Peso Argentina,136
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,5.17,2563907705,,,Titulos de Deuda en Peso Argentina,75
+e,ON Genneia Clase 49,ON,Genneia,ARS,2.19,1086065353,,,Titulos de Deuda en Peso Argentina,20
+e,ON Pluspetrol Clase 2,ON,Pluspetrol,ARS,2.16,1071187745,,,Titulos de Deuda en Peso Argentina,13
+e,ON YPF Clase 42,ON,YPF,ARS,1.1,545512278,,,Titulos de Deuda en Peso Argentina,48
+e,FCI Balanz Capital Money Market Clase C,FCI,Balanz Capital Money Market,,1.02,505838657,,,Certificados de Participacion Argentina,47
+e,ON YPF Clase 40,ON,YPF,ARS,0.74,366980987,,,Titulos de Deuda en Peso Argentina,11
+e,ON Banco de Galicia 34 BY34O,ON,Banco de Galicia,ARS,0.32,158694481,,,Titulos de Deuda en Peso Argentina,11
+e,FCI MAF Money Market - Clase B,FCI,MAF Money Market,,0.14,69428835,,,Certificados de Participacion Argentina,39
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,0.08,39673620,,,Certificados de Participacion Argentina,37
+e,ON Pyme Gar Milkynet S1,ON,Pyme Gar Milkynet,ARS,0.02,9918405,,,Titulos de Deuda en Peso Argentina,7
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.02,9918405,,,Certificados de Participacion Argentina,96
+p,Pionero Integral,Macro,RF MULT Disc,54.4112,0.7151,5,,,,
+p,Pionero Multiestrategia Mix,Macro,RF MULT Disc,53.2037,0.6524,5,,,,
+p,Pionero Desarrollo,Macro,RF MULT Disc,50.2459,0.6209,6,,,,
+p,Alpha Retorno Total,ICBC,RM y Otros ARS,43.7937,0.6271,4,,,,
+p,Argenfunds Financiamiento Pesos II,Argenfunds,INFRA,42.3461,0.5663,3,,,,
+p,SBS Patrimonio IV,SBS,RM y Otros ARS,42.3085,0.5496,3,,,,
+p,MAF Ahorro,Mariva,T+1,41.9287,0.4898,5,,,,
+p,Compass Ahorro,Investis,T+1,41.3077,0.5773,3,,,,

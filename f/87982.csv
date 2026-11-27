@@ -1,0 +1,105 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Compass Renta Mixta VI,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,199744167941,,,,,,,,
+m,aum_planilla,199744167941,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87982,,,,,,,,
+m,n_especies,40,,,,,,,,
+m,activos_pn,113.16,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,2.61,,,,,,,,
+m,top1,17.52,,,,,,,,
+m,top5,51.88,,,,,,,,
+m,top10,68.59,,,,,,,,
+m,hhi_especies,753.0638,,,,,,,,
+m,n_emisores,28,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,53.79,,,,,,,,
+m,hhi_emisores,3050.6716,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,53.79,9,,,,,,,
+t,Cedear,23.22,9,,,,,,,
+t,ON,8.61,10,,,,,,,
+t,ETF,8.34,3,,,,,,,
+t,Soberano exterior,2.39,1,,,,,,,
+t,Subsoberano,2.31,3,,,,,,,
+t,Otro título de deuda,2.3,1,,,,,,,
+t,BCRA,2.19,1,,,,,,,
+t,Acción,1.47,1,,,,,,,
+t,FCI,0.75,1,,,,,,,
+t,Caución,0.47,1,,,,,,,
+c,ARS,92.06,,,,,,,,
+c,sin dato,9.09,,,,,,,,
+c,USD,4.69,,,,,,,,
+r,Disponibilidades,2.14,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,66.9,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,0.47,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,4.69,,,,,,,,
+r,Participaciones Accionarias Argentina,26.77,,,,,,,,
+r,Participaciones Accionarias Corea del Sur,3.41,,,,,,,,
+r,Participaciones Accionarias Estados Unidos,2.85,,,,,,,,
+r,Certificados de Participacion Argentina,0.75,,,,,,,,
+r,Otros Activos,5.18,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),13.16,,,,,,,,
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,17.52,34995178223,,,Titulos de Deuda en Peso Argentina,166
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,12,23969300153,,,Titulos de Deuda en Peso Argentina,103
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,ARS,10.17,20313981880,,,Titulos de Deuda en Peso Argentina,62
+e,Cedear Facebook,Cedear,Facebook,ARS,6.9,13782347588,,,Participaciones Accionarias Argentina,18
+e,Bono del Tesoro Nacional AN29,Soberano,Tesoro Nacional,ARS,5.29,10566466484,,,Titulos de Deuda en Peso Argentina,25
+e,Cedear Amazon,Cedear,Amazon,ARS,4.22,8429203887,,,Participaciones Accionarias Argentina,17
+e,Cedear SK Hynix Inc.,Cedear,SK Hynix Inc.,ARS,3.41,6811276127,,,Participaciones Accionarias Corea del Sur,1
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,ARS,3.06,6112171539,,,Titulos de Deuda en Peso Argentina,83
+e,Cedear FCI SPDR Gold Trust,ETF,Cedear FCI SPDR Gold Trust,,3.03,6052248289,,,Participaciones Accionarias Argentina,12
+e,Cedear Taiwan Semiconduct,Cedear,Taiwan Semiconduct,ARS,2.99,5972350621,,,Participaciones Accionarias Argentina,4
+e,Cedear Invesco QQQ,ETF,Cedear Invesco QQQ,,2.85,5692708786,,,Participaciones Accionarias Estados Unidos,6
+e,ON Telecom C12 TLCDO,ON,Telecom,ARS,2.61,5213322783,,,Titulos de Deuda en Peso Argentina,29
+e,Cedear Utilities Select Sectar SPDR Fund,ETF,Cedear Utilities Select Sectar SPDR Fund,,2.46,4913706531,,,Participaciones Accionarias Argentina,8
+e,BC Brasil 270145,Soberano exterior,Brasil (soberano),USD,2.39,4773885614,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Bono Estado Mexicano 270451,Otro título de deuda,Bono Estado Mexicano,USD,2.3,4594115863,,,Titulos de Deuda en Dolar Estadounidense,1
+e,Bono Bopreal 2027 Serie 1 Clase C BPOC7,BCRA,BCRA,ARS,2.19,4374397278,,,Titulos de Deuda en Peso Argentina,33
+e,Cedear Google,Cedear,Google,ARS,2.03,4054806609,,,Participaciones Accionarias Argentina,30
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,1.9,3795139191,,,Titulos de Deuda en Peso Argentina,160
+e,Cedear AMD,Cedear,AMD,ARS,1.87,3735215940,,,Participaciones Accionarias Argentina,1
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,1.79,3575420606,,,Titulos de Deuda en Peso Argentina,142
+e,ON Pan American C33,ON,Pan American,ARS,1.77,3535471773,,,Titulos de Deuda en Peso Argentina,36
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,1.77,3535471773,,,Titulos de Deuda en Peso Argentina,75
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,1.47,2936239269,,,Participaciones Accionarias Argentina,85
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,0.96,1917544012,,,Participaciones Accionarias Argentina,38
+e,ON Telecom C19 TLCKO,ON,Telecom,ARS,0.95,1897569595,,,Titulos de Deuda en Peso Argentina,30
+e,Bono Prov Santa Fe 8.1% 111234,Subsoberano,Prov. Santa Fe,ARS,0.79,1577978927,,,Titulos de Deuda en Peso Argentina,37
+e,Bono Prov Cordoba 030235,Subsoberano,Prov. Cordoba,ARS,0.77,1538030093,,,Titulos de Deuda en Peso Argentina,29
+e,ON Pan Amer. Energy C 18,ON,Pan Amer. Energy,ARS,0.77,1538030093,,,Titulos de Deuda en Peso Argentina,14
+e,Bono Entre Rios 9.55% 040333,Subsoberano,Prov. Entre Rios,ARS,0.75,1498081260,,,Titulos de Deuda en Peso Argentina,11
+e,FCI Parakeet Pesos - Clase B,FCI,Parakeet Pesos,,0.75,1498081260,,,Certificados de Participacion Argentina,8
+e,ON Oldelval Clase 7,ON,Oldelval,ARS,0.61,1218439424,,,Titulos de Deuda en Peso Argentina,41
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,0.47,938797589,,,Operaciones a Plazo en Peso Argentina,195
+e,ON Cresud S30 C46,ON,Cresud,ARS,0.46,918823173,,,Titulos de Deuda en Peso Argentina,7
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,0.44,878874339,,,Participaciones Accionarias Argentina,52
+e,Cedear Vistra Corporation,Cedear,Vistra Corporation,ARS,0.4,798976672,,,Participaciones Accionarias Argentina,2
+e,ON Cresud Clase 40,ON,Cresud,ARS,0.39,779002255,,,Titulos de Deuda en Peso Argentina,7
+e,ON Oldelval Clase 3,ON,Oldelval,ARS,0.38,759027838,,,Titulos de Deuda en Peso Argentina,40
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,0.38,759027838,,,Titulos de Deuda en Peso Argentina,42
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,ARS,0.29,579258087,,,Titulos de Deuda en Peso Argentina,40
+e,ON Vista Gas y Oil Arg C17,ON,Vista Gas y Oil Arg,ARS,0.29,579258087,,,Titulos de Deuda en Peso Argentina,23
+p,Stonex Global V,StoneX,RM y Otros ARS,38.0777,0.4665,11,,,,
+p,Superfondo Multirenta,Santander,RF MULT Disc,30.7729,0.6218,5,,,,
+p,Ualintec Retorno Total,Ualá,RM y Otros ARS,27.1677,0.4085,7,,,,
+p,Adcap Moneda,Adcap,RF USD Linked,26.2792,0.4122,3,,,,
+p,Alpha Renta Fija Serie 1,ICBC,RF MULT Disc,25.2689,0.4358,2,,,,
+p,BM Smart Corto Plazo,Bull Market,RF ARS Lecap,23.5579,0.462,4,,,,
+p,MAF Estrategia,Mariva,RM y Otros ARS,22.5727,0.4117,4,,,,
+p,First Renta Mixta VIII,First Cap Mkts,RF MULT Disc,22.4912,0.3894,4,,,,

@@ -1,0 +1,69 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Champaquí Fondo Inmediato Plus,,,,,,,,
+m,gerente,Bancor Fondos S.G.F.C.I.S.A.U.,,,,,,,,
+m,depositaria,Banco de Cordoba S.A.,,,,,,,,
+m,clasificacion,Plazo Fijo,,,,,,,,
+m,subtipo,MM ARS Dinámico,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,193108890496,,,,,,,,
+m,aum_planilla,193108890496,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85421,,,,,,,,
+m,n_especies,19,,,,,,,,
+m,activos_pn,84.49,,,,,,,,
+m,pasivos_cnv,15.51,,,,,,,,
+m,liquidez,12.56,,,,,,,,
+m,top1,9.92,,,,,,,,
+m,top5,40.6,,,,,,,,
+m,top10,61.49,,,,,,,,
+m,hhi_especies,469.1627,,,,,,,,
+m,n_emisores,18,,,,,,,,
+m,emisor_top,Banco Santander Ri,,,,,,,,
+m,emisor_top_pct,9.92,,,,,,,,
+m,hhi_emisores,483.9213,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Plazo fijo,65.24,14,,,,,,,
+t,ON,6.71,4,,,,,,,
+t,Caución,6.68,1,,,,,,,
+c,ARS,78.63,,,,,,,,
+r,Disponibilidades,5.88,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,6.7,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,71.91,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,15.51,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-15.51,,,,,,,,
+e,Pzo Fi $ Bco Santander Ri,Plazo fijo,Banco Santander Ri,ARS,9.92,19156401937,,,Operaciones a Plazo en Peso Argentina,68
+e,Pzo Fi $ Bco Nacion,Plazo fijo,Banco Nacion,ARS,9.41,18171546596,,,Operaciones a Plazo en Peso Argentina,84
+e,Pzo Fi $ Bco BBVA,Plazo fijo,Banco BBVA,ARS,7.82,15101115237,,,Operaciones a Plazo en Peso Argentina,46
+e,Pzo Fi $ Bco Provincia,Plazo fijo,Banco Provincia,ARS,6.77,13073471887,,,Operaciones a Plazo en Peso Argentina,33
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,6.68,12899673885,,,Operaciones a Plazo en Peso Argentina,195
+e,Pzo Fi $ Bco Macro Bansud,Plazo fijo,Banco Macro Bansud,ARS,6.27,12107927434,,,Operaciones a Plazo en Peso Argentina,21
+e,Pzo Fi $ Bco Supervielle,Plazo fijo,Banco Supervielle,ARS,4.17,8052640734,,,Operaciones a Plazo en Peso Argentina,37
+e,Pzo Fi $ Bco BACS,Plazo fijo,Banco BACS,ARS,3.68,7106407170,,,Operaciones a Plazo en Peso Argentina,19
+e,Pzo Fi $ Bco Galicia,Plazo fijo,Banco Galicia,ARS,3.65,7048474503,,,Operaciones a Plazo en Peso Argentina,67
+e,Pzo Fi $ Nvo Bco Santa Fe,Plazo fijo,Nvo Bco Santa Fe,ARS,3.12,6024997383,,,Operaciones a Plazo en Peso Argentina,18
+e,ON BBVA Frances Cl 38,ON,BBVA Frances,ARS,3.02,5831888493,,,Titulos de Deuda en Peso Argentina,29
+e,Pzo Fi $ Bco Comafi,Plazo fijo,Banco Comafi,ARS,2.6,5020831153,,,Operaciones a Plazo en Peso Argentina,14
+e,Pzo Fi $ Bco Mariva,Plazo fijo,Banco Mariva,ARS,2.6,5020831153,,,Operaciones a Plazo en Peso Argentina,32
+e,Pzo Fi $ Nvo Bco Indus,Plazo fijo,Nvo Bco Indus,ARS,2.1,4055286700,,,Operaciones a Plazo en Peso Argentina,44
+e,Pzo Fi $ Bco Credicoop,Plazo fijo,Banco Credicoop,ARS,2.09,4035975811,,,Operaciones a Plazo en Peso Argentina,15
+e,ON ICBC Clase 4 281126,ON,ICBC,ARS,1.64,3166985804,,,Titulos de Deuda en Peso Argentina,23
+e,ON Bco Provincia Cl 4,ON,Banco Provincia,ARS,1.09,2104886906,,,Titulos de Deuda en Peso Argentina,25
+e,Pzo Fi $ Banco de Serv y Transacciones (BST),Plazo fijo,Banco de Serv y Transacciones (BST),ARS,1.04,2008332461,,,Operaciones a Plazo en Peso Argentina,20
+e,ON Banco Hipotecario C11,ON,Banco Hipotecario,ARS,0.96,1853845349,,,Titulos de Deuda en Peso Argentina,21
+p,Champaquí Fondo Inmediato,Bancor,MM ARS Clásico,70.8714,0.8775,15,,,,
+p,FBA Money Market Pesos,BBVA,MM ARS Clásico,59.8646,0.7567,10,,,,
+p,SBS Ahorro Pesos,SBS,MM ARS Clásico,59.5361,0.8259,9,,,,
+p,Super Ahorro $,Santander,MM ARS Clásico,55.486,0.7082,10,,,,
+p,Novus Liquidez Fondo de Dinero,Novus,MM ARS Clásico,54.7183,0.721,6,,,,
+p,Alpha Pesos,ICBC,MM ARS Clásico,54.1847,0.8141,8,,,,
+p,Premier Renta CP en Pesos,Supervielle,MM ARS Clásico,53.5556,0.7054,9,,,,
+p,1810 Ahorro,Proahorro,MM ARS Clásico,53.0148,0.746,8,,,,

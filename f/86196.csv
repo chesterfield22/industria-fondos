@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Stonex Balanceado VI,,,,,,,,
+m,gerente,StoneX Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,17579235198,,,,,,,,
+m,aum_planilla,17579235198,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86196,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,100.17,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,27.3,,,,,,,,
+m,top1,30.05,,,,,,,,
+m,top5,91.04,,,,,,,,
+m,top10,98.19,,,,,,,,
+m,hhi_especies,2078.2008,,,,,,,,
+m,n_emisores,6,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,43.3,,,,,,,,
+m,hhi_emisores,2531.8632,,,,,,,,
+m,sin_emisor_pct,27.28,,,,,,,,
+t,Soberano,43.3,3,,,,,,,
+t,Pagaré,27.28,3,,,,,,,
+t,Caución,25.6,1,,,,,,,
+t,ON,1.28,2,,,,,,,
+t,Fideicomiso financiero,0.63,1,,,,,,,
+t,Cedear,0.39,1,,,,,,,
+c,ARS,97.85,,,,,,,,
+c,sin dato,0.63,,,,,,,,
+r,Disponibilidades,1.7,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,71.85,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,25.6,,,,,,,,
+r,Participaciones Accionarias Argentina,0.39,,,,,,,,
+r,Certificados de Participacion Argentina,0.63,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.17,,,,,,,,
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,30.05,5282560177,,,Titulos de Deuda en Peso Argentina,159
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,25.6,4500284211,,,Operaciones a Plazo en Peso Argentina,73
+e,Pagare #MAV221260057,Pagaré,,ARS,18.7,3287316982,,,Titulos de Deuda en Peso Argentina,1
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,11.14,1958326801,,,Titulos de Deuda en Peso Argentina,158
+e,Pagare #MAV101260104,Pagaré,,ARS,5.55,975647553,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV111160055,Pagaré,,ARS,3.03,532650826,,,Titulos de Deuda en Peso Argentina,1
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,2.11,370921863,,,Titulos de Deuda en Peso Argentina,250
+e,ON Pyme Gar Latitud 45 S2 C1,ON,Pyme Gar Latitud,ARS,0.99,174034428,,,Titulos de Deuda en Peso Argentina,9
+e,FF Comafi Leasing 18 Cl A,Fideicomiso financiero,Comafi Leasing,,0.63,110749182,,,Certificados de Participacion Argentina,14
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,0.39,68559017,,,Participaciones Accionarias Argentina,38
+e,ON Pan American C26,ON,Pan American,ARS,0.29,50979782,,,Titulos de Deuda en Peso Argentina,38
+p,GSS Inmobiliario I FCIC,Grupo SS,MM ARS Clásico,41.8258,0.6742,2,,,,
+p,Pionero Renta Balanceado,Macro,RF ARS CER,41.6396,0.499,3,,,,
+p,Schroder Multiactivos,Schroder,RF MULT Disc,41.1741,0.4227,3,,,,
+p,MEGAQM Acciones Latam,MegaQM,T+1,40.0814,0.5247,2,,,,
+p,Toronto Trust Gestión,Investis,RM y Otros ARS,39.0646,0.5657,2,,,,
+p,FBA Cobertura Pesos,BBVA,RF ARS CER,38.2625,0.4829,2,,,,
+p,ACA Valores Retorno Total,Schroder,RF MULT Disc,36.4034,0.4977,3,,,,
+p,GSS Renta Fija Argentina,Grupo SS,RF ARS CER,35.8339,0.543,2,,,,

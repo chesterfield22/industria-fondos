@@ -1,0 +1,93 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MEGAQM Ahorro,,,,,,,,
+m,gerente,MEGA QM S.A.,,,,,,,,
+m,depositaria,Banco de Servicios y Transacciones S.A. (BST),,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,67155490141,,,,,,,,
+m,aum_planilla,67155490141,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63431,,,,,,,,
+m,n_especies,36,,,,,,,,
+m,activos_pn,123.26,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,21.55,,,,,,,,
+m,top1,25.4,,,,,,,,
+m,top5,81.75,,,,,,,,
+m,top10,101.56,,,,,,,,
+m,hhi_especies,1723.3707,,,,,,,,
+m,n_emisores,19,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,60.33,,,,,,,,
+m,hhi_emisores,4020.4091,,,,,,,,
+m,sin_emisor_pct,10.78,,,,,,,,
+t,Soberano,60.33,4,,,,,,,
+t,Caución,21.55,2,,,,,,,
+t,Fideicomiso financiero,12.06,13,,,,,,,
+t,ON,10.97,8,,,,,,,
+t,Pagaré,10.78,4,,,,,,,
+t,Plazo fijo,4.57,1,,,,,,,
+t,Subsoberano,1.63,1,,,,,,,
+t,FCI,1.38,3,,,,,,,
+c,ARS,109.83,,,,,,,,
+c,sin dato,13.44,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,83.7,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,26.12,,,,,,,,
+r,Certificados de Participacion Argentina,13.44,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),23.26,,,,,,,,
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,25.4,17057494496,,,Titulos de Deuda en Peso Argentina,112
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,24.61,16526966124,,,Titulos de Deuda en Peso Argentina,86
+e,Caucion Colocadora $ BYMA,Caución,Caución BYMA,ARS,14.1,9468924110,,,Operaciones a Plazo en Peso Argentina,73
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,10.19,6843144445,,,Titulos de Deuda en Peso Argentina,158
+e,Caucion Colocadora $ MAE,Caución,Caución MAE,ARS,7.45,5003084016,,,Operaciones a Plazo en Peso Argentina,15
+e,Pzo Fi $ Bco Nacion,Plazo fijo,Banco Nacion,ARS,4.57,3069005899,,,Operaciones a Plazo en Peso Argentina,84
+e,Pagare #MAV171160052,Pagaré,,ARS,4.43,2974988213,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV101260028,Pagaré,,ARS,4.35,2921263821,,,Titulos de Deuda en Peso Argentina,1
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,3.74,2511615331,,,Titulos de Deuda en Peso Argentina,61
+e,FF Mercado Credito 48 CA,Fideicomiso financiero,Mercado Credito,,2.72,1826629332,,,Certificados de Participacion Argentina,27
+e,ON Tarj Naranja C67 S1,ON,Tarj Naranja,ARS,2.7,1813198234,,,Titulos de Deuda en Peso Argentina,40
+e,FF Mercado Credito 49 CA,Fideicomiso financiero,Mercado Credito,,2.56,1719180548,,,Certificados de Participacion Argentina,25
+e,FF Mercado Credito 51 CA,Fideicomiso financiero,Mercado Credito,,1.81,1215514372,,,Certificados de Participacion Argentina,34
+e,Bono Muni Cordoba S2 13022027,Subsoberano,Muni. Cordoba,ARS,1.63,1094634489,,,Titulos de Deuda en Peso Argentina,29
+e,ON Banco de Galicia 32 BYY1O,ON,Banco de Galicia,ARS,1.56,1047625646,,,Titulos de Deuda en Peso Argentina,44
+e,ON BBVA Frances Cl 47,ON,BBVA Frances,ARS,1.55,1040910097,,,Titulos de Deuda en Peso Argentina,45
+e,Pagare MAV221260074,Pagaré,,ARS,1.43,960323509,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Argenfunds Liquidez - Clase B,FCI,Argenfunds Liquidez,,1.36,913314666,,,Certificados de Participacion Argentina,50
+e,FF Megabono 349 Clase A,Fideicomiso financiero,Megabono,,1.1,738710392,,,Certificados de Participacion Argentina,12
+e,FF Megabono 351 Clase A,Fideicomiso financiero,Megabono,,0.96,644692705,,,Certificados de Participacion Argentina,13
+e,FF Megabono 353 Clase A,Fideicomiso financiero,Megabono,,0.89,597683862,,,Certificados de Participacion Argentina,11
+e,ON NBD Chaco Clase 1,ON,NBD Chaco,ARS,0.79,530528372,,,Titulos de Deuda en Peso Argentina,12
+e,FF Megabono 344 Clase A,Fideicomiso financiero,Megabono,,0.7,470088431,,,Certificados de Participacion Argentina,13
+e,FF Megabono 346 Clase A,Fideicomiso financiero,Megabono,,0.63,423079588,,,Certificados de Participacion Argentina,9
+e,Pagare MAV221260076,Pagaré,,ARS,0.57,382786294,,,Titulos de Deuda en Peso Argentina,1
+e,ON Credicuotas Consumo S22,ON,Credicuotas Consumo,ARS,0.34,228328666,,,Titulos de Deuda en Peso Argentina,8
+e,FF Megabono 343 Clase A,Fideicomiso financiero,Megabono,,0.32,214897568,,,Certificados de Participacion Argentina,7
+e,ON PSA Serie 38,ON,PSA,ARS,0.19,127595431,,,Titulos de Deuda en Peso Argentina,7
+e,FF Waynimovil S13 CA,Fideicomiso financiero,Waynimovil,,0.15,100733235,,,Certificados de Participacion Argentina,7
+e,Boncer Mendoza C1,Soberano,Tesoro Nacional,ARS,0.13,87302137,,,Titulos de Deuda en Peso Argentina,49
+e,FF Mercado Credito 45 CA,Fideicomiso financiero,Mercado Credito,,0.12,80586588,,,Certificados de Participacion Argentina,25
+e,ON Plaza Logistica C1 ZPC1O,ON,Plaza Logistica,ARS,0.1,67155490,,,Titulos de Deuda en Peso Argentina,9
+e,FF Megabono 322 Clase A,Fideicomiso financiero,Megabono,,0.08,53724392,,,Certificados de Participacion Argentina,17
+e,FF Megabono 329 Clase A,Fideicomiso financiero,Megabono,,0.02,13431098,,,Certificados de Participacion Argentina,5
+e,FCI BM Smart Money Market - Clase B,FCI,BM Smart Money Market,,0.01,6715549,,,Certificados de Participacion Argentina,34
+e,FCI Cocos Ahorro - Clase C,FCI,Cocos Ahorro,,0.01,6715549,,,Certificados de Participacion Argentina,32
+p,MEGAQM Balanceado,MegaQM,RF ARS Lecap,55.444,0.8035,5,,,,
+p,Delta Patrimonio I,Delta,RV Global,39.398,0.5594,2,,,,
+p,Galileo Ahorro,Delta,RF ARS Lecap,36.8849,0.5284,2,,,,
+p,MEGAQM Estrategia 4,MegaQM,RM y Otros ARS,32.1792,0.4875,2,,,,
+p,Blacktoro Gestion Calificado I,BlackToro,RF ARS Disc,31.9417,0.5426,3,,,,
+p,Balanz Lecaps,Balanz,RF ARS Lecap,31.0671,0.4979,3,,,,
+p,Adcap Balance Multiactivo,Adcap,RF ARS Disc,28.8716,0.4037,2,,,,
+p,Pellegrini Renta Fija Publica,Pellegrini,RF ARS Lecap,25.1014,0.413,2,,,,

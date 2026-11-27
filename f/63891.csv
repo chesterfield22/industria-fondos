@@ -1,0 +1,57 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pionero Renta Dólares,,,,,,,,
+m,gerente,Macro Fondos S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Macro S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Ex ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,33989154,,,,,,,,
+m,aum_planilla,33989154,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63891,,,,,,,,
+m,n_especies,9,,,,,,,,
+m,activos_pn,100.4,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,25.09,,,,,,,,
+m,top1,16.6,,,,,,,,
+m,top5,58.96,,,,,,,,
+m,top10,75.32,,,,,,,,
+m,hhi_especies,823.7904,,,,,,,,
+m,n_emisores,4,,,,,,,,
+m,emisor_top,Chile (soberano),,,,,,,,
+m,emisor_top_pct,25.46,,,,,,,,
+m,hhi_emisores,1728.2896,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano exterior,71.5,8,,,,,,,
+t,Otro título de deuda,3.82,1,,,,,,,
+c,USD,75.32,,,,,,,,
+r,Disponibilidades,25.09,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,75.31,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.4,,,,,,,,
+e,BR Rep Brasil 28,Soberano exterior,Brasil (soberano),USD,16.6,5642199,,,Titulos de Deuda en Dolar Estadounidense,11
+e,CL Rep Chile 28,Soberano exterior,Chile (soberano),USD,12.78,4343814,,,Titulos de Deuda en Dolar Estadounidense,18
+e,CL Rep Chile 2027,Soberano exterior,Chile (soberano),USD,12.68,4309825,,,Titulos de Deuda en Dolar Estadounidense,22
+e,US Treasury Bill 070127,Soberano exterior,Tesoro EE.UU.,USD,8.68,2950259,,,Titulos de Deuda en Dolar Estadounidense,7
+e,US Treasury Bill 011226,Soberano exterior,Tesoro EE.UU.,USD,8.22,2793908,,,Titulos de Deuda en Dolar Estadounidense,7
+e,US Treasury Bill 191126,Soberano exterior,Tesoro EE.UU.,USD,6.52,2216093,,,Titulos de Deuda en Dolar Estadounidense,5
+e,BR Bono Global 2027 10.12%,Soberano exterior,Brasil (soberano),USD,4.74,1611086,,,Titulos de Deuda en Dolar Estadounidense,11
+e,Bono Corporativo 3.625% 010827,Otro título de deuda,Bono Corporativo,USD,3.82,1298386,,,Titulos de Deuda en Dolar Estadounidense,24
+e,US Treasury Bill 101226,Soberano exterior,Tesoro EE.UU.,USD,1.28,435061.1654,,,Titulos de Deuda en Dolar Estadounidense,11
+p,Fima Renta Fija Internacional,Galicia,RF USD GL Ex ARG,58.3464,0.7011,6,,,,
+p,Balanz Capital Estrategia IV USD,Balanz,RF USD GL Inc ARG,53.6042,0.6342,4,,,,
+p,Balanz Capital Sudamericano,Balanz,RF USD GL Ex ARG,36.9979,0.5016,5,,,,
+p,Stonex Global I,StoneX,RF USD GL Ex ARG,33.0004,0.4371,2,,,,
+p,Toronto Trust Liquidez Dólar,Investis,RF USD GL Ex ARG,31.3257,0.3896,4,,,,
+p,Consultatio Income Fund,Consultatio,RF USD GL Ex ARG,31.1047,0.5668,5,,,,
+p,Consultatio Gestion III,Consultatio,RF USD GL Ex ARG,28.1997,0.3907,3,,,,
+p,SBS Renta Dólar Latam,SBS,RF USD GL Inc ARG,25.0843,0.3323,3,,,,

@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,DXA Multicobertura,,,,,,,,
+m,gerente,Dracma Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1905695532,,,,,,,,
+m,aum_planilla,1905695532,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88439,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,101.67,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,2.67,,,,,,,,
+m,top1,22.86,,,,,,,,
+m,top5,57.8,,,,,,,,
+m,top10,93.43,,,,,,,,
+m,hhi_especies,1126.9981,,,,,,,,
+m,n_emisores,3,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,98.91,,,,,,,,
+m,hhi_emisores,9790.0625,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,98.91,11,,,,,,,
+t,Caución,2.62,1,,,,,,,
+t,FCI,0.1,1,,,,,,,
+c,ARS,101.53,,,,,,,,
+c,sin dato,0.1,,,,,,,,
+r,Disponibilidades,0.05,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,98.9,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,2.62,,,,,,,,
+r,Certificados de Participacion Argentina,0.1,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.67,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,22.86,435641999,,,Titulos de Deuda en Peso Argentina,103
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,10.71,204099992,,,Titulos de Deuda en Peso Argentina,250
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,8.08,153980199,,,Titulos de Deuda en Peso Argentina,75
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,8.08,153980199,,,Titulos de Deuda en Peso Argentina,84
+e,Letra Tesoro Nac D31M7,Soberano,Tesoro Nacional,ARS,8.07,153789629,,,Titulos de Deuda en Peso Argentina,30
+e,Bono del Tesoro Nacional D10Y7,Soberano,Tesoro Nacional,ARS,8.01,152646212,,,Titulos de Deuda en Peso Argentina,1
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,7.93,151121656,,,Titulos de Deuda en Peso Argentina,86
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,6.99,133208118,,,Titulos de Deuda en Peso Argentina,80
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,6.88,131111853,,,Titulos de Deuda en Peso Argentina,82
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,ARS,5.82,110911480,,,Titulos de Deuda en Peso Argentina,62
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,5.48,104432115,,,Titulos de Deuda en Peso Argentina,112
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,2.62,49929223,,,Operaciones a Plazo en Peso Argentina,195
+e,FCI BM Smart Money Market - Clase B,FCI,BM Smart Money Market,,0.1,1905696,,,Certificados de Participacion Argentina,34
+p,Dracma Multiestrategia,Dracma,RM y Otros ARS,67.0092,0.858,10,,,,
+p,Megainver Renta Global,MegaQM,T+1,47.0887,0.71,4,,,,
+p,Blacktoro Cobertura,BlackToro,RF USD Linked,46.9151,0.693,5,,,,
+p,Max Cobertura,Max Capital,RF USD Linked,45.1131,0.7034,4,,,,
+p,Lombard Ahorro Plus,Patagonia,RF USD Linked,44.7888,0.5781,4,,,,
+p,Stonex Renta Fija Proteccion Plus,StoneX,RF USD Linked,43.56,0.7238,4,,,,
+p,Fundcorp Performance Multiestrategia,CMF,RM y Otros ARS,43.1192,0.6472,7,,,,
+p,Champaquí Estratégico,Bancor,RF USD Linked,40.982,0.7215,3,,,,

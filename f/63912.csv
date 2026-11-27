@@ -1,0 +1,64 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Pellegrini Renta Dolares,,,,,,,,
+m,gerente,Pellegrini S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de La Nacion Argentina,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,7900216,,,,,,,,
+m,aum_planilla,7900216,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63912,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,100.45,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,2.44,,,,,,,,
+m,top1,30.16,,,,,,,,
+m,top5,78.89,,,,,,,,
+m,top10,97.7,,,,,,,,
+m,hhi_especies,1755.8586,,,,,,,,
+m,n_emisores,6,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,81.69,,,,,,,,
+m,hhi_emisores,6761.9596,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,81.69,6,,,,,,,
+t,ON,12.75,2,,,,,,,
+t,Subsoberano,2.63,1,,,,,,,
+t,Fideicomiso financiero,0.63,1,,,,,,,
+t,FCI,0.32,1,,,,,,,
+c,USD,97.39,,,,,,,,
+c,sin dato,0.63,,,,,,,,
+r,Disponibilidades,2.44,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,97.06,,,,,,,,
+r,Certificados de Participacion Argentina,0.95,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.45,,,,,,,,
+e,Bono del Tesoro Nacional AN29,Soberano,Tesoro Nacional,USD,30.16,2382705,,,Titulos de Deuda en Dolar Estadounidense,25
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,USD,21.84,1725407,,,Titulos de Deuda en Dolar Estadounidense,40
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,USD,13.87,1095760,,,Titulos de Deuda en Dolar Estadounidense,74
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,USD,6.59,520624.2133,,,Titulos de Deuda en Dolar Estadounidense,62
+e,ON CNH Arg. C12,ON,CNH Arg,USD,6.43,507983.8682,,,Titulos de Deuda en Dolar Estadounidense,9
+e,ON Pampa Energia C29,ON,Pampa Energia,USD,6.32,499293.631,,,Titulos de Deuda en Dolar Estadounidense,28
+e,Bonos Rep Argentina AL35,Soberano,Tesoro Nacional,USD,5.65,446362.1859,,,Titulos de Deuda en Dolar Estadounidense,31
+e,Bonos Rep Argentina 2029,Soberano,Tesoro Nacional,USD,3.58,282827.7213,,,Titulos de Deuda en Dolar Estadounidense,24
+e,Bono Prov Cordoba 010924,Subsoberano,Prov. Cordoba,USD,2.63,207775.6724,,,Titulos de Deuda en Dolar Estadounidense,4
+e,FF Vicentin Export S8 A,Fideicomiso financiero,Vicentin Export,,0.63,49771.3588,,,Certificados de Participacion Argentina,13
+e,FCI Cocos Dólar Money Market - Clase C,FCI,Cocos Dólar Money Market,USD,0.32,25280.6902,,,Certificados de Participacion Argentina,14
+p,MEGAQM Ahorro Dólares,MegaQM,RF USD Disc,41.5106,0.5554,4,,,,
+p,Novus Income Dólares,Novus,RF USD Disc,36.4648,0.6063,3,,,,
+p,MEGAQM Gestión Dólares 2,MegaQM,RF USD Disc,33.8682,0.5215,3,,,,
+p,Pionero Dólar Dinámico,Macro,RF USD Disc,32.9527,0.492,2,,,,
+p,Pionero Dólar Mix,Macro,RF USD Disc,32.1076,0.4978,2,,,,
+p,Pionero Inversión Dólar,Macro,RF USD GL Inc ARG,31.1444,0.4578,2,,,,
+p,Mills Renta Fija Dólares,Mills Capital,RF USD Disc,30.8355,0.4927,6,,,,
+p,Ualintec Renta Dólares,Ualá,RF USD Disc,29.0335,0.4907,3,,,,

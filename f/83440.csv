@@ -1,0 +1,72 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,BM Smart Corto Plazo,,,,,,,,
+m,gerente,Bull Market Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Lecap,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,15346178714,,,,,,,,
+m,aum_planilla,15346178714,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83440,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,100.25,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,13.49,,,,,,,,
+m,top1,21.31,,,,,,,,
+m,top5,73.71,,,,,,,,
+m,top10,93.67,,,,,,,,
+m,hhi_especies,1299.1986,,,,,,,,
+m,n_emisores,9,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,68.18,,,,,,,,
+m,hhi_emisores,4904.1094,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,68.18,6,,,,,,,
+t,Caución,13.03,1,,,,,,,
+t,Plazo fijo,9.84,2,,,,,,,
+t,Fideicomiso financiero,6.2,5,,,,,,,
+t,Subsoberano,1.32,1,,,,,,,
+t,FCI,1.23,2,,,,,,,
+c,ARS,92.37,,,,,,,,
+c,sin dato,7.43,,,,,,,,
+r,Disponibilidades,0.46,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,69.49,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,22.87,,,,,,,,
+r,Certificados de Participacion Argentina,7.43,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.25,,,,,,,,
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,21.31,3270270684,,,Titulos de Deuda en Peso Argentina,166
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,16.51,2533654106,,,Titulos de Deuda en Peso Argentina,149
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,16.33,2506030984,,,Titulos de Deuda en Peso Argentina,160
+e,Caucion Colocadora U$S Merval,Caución,Caución Merval,ARS,13.03,1999607086,,,Operaciones a Plazo en Peso Argentina,55
+e,Pzo Fi $ Bco Sol,Plazo fijo,Banco Sol,ARS,6.53,1002105470,,,Operaciones a Plazo en Peso Argentina,31
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,5.76,883939894,,,Titulos de Deuda en Peso Argentina,75
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,4.74,727408871,,,Titulos de Deuda en Peso Argentina,112
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,3.53,541720109,,,Titulos de Deuda en Peso Argentina,103
+e,Pzo Fi $ Banco VOII,Plazo fijo,Banco VOII,ARS,3.31,507958515,,,Operaciones a Plazo en Peso Argentina,13
+e,FF Mercado Credito 54 CA,Fideicomiso financiero,Mercado Credito,,2.62,402069882,,,Certificados de Participacion Argentina,28
+e,Bono Muni Cordoba S2 13022027,Subsoberano,Muni. Cordoba,ARS,1.32,202569559,,,Titulos de Deuda en Peso Argentina,29
+e,FF Mercado Credito 51 CA,Fideicomiso financiero,Mercado Credito,,1.32,202569559,,,Certificados de Participacion Argentina,34
+e,FF Mercado Credito 53 CA,Fideicomiso financiero,Mercado Credito,,1.31,201034941,,,Certificados de Participacion Argentina,25
+e,FCI Wise Capital Money Markets - Clase D,FCI,Wise Capital Money Markets,,1.22,187223380,,,Certificados de Participacion Argentina,9
+e,FF AySA S2,Fideicomiso financiero,AySA,,0.89,136580991,,,Certificados de Participacion Argentina,11
+e,FF Mercado Credito 44 CA,Fideicomiso financiero,Mercado Credito,,0.06,9207707,,,Certificados de Participacion Argentina,26
+e,FCI Toronto T Ahorro B,FCI,Toronto T Ahorro B,,0.01,1534618,,,Certificados de Participacion Argentina,10
+p,Allaria Dinámico III,Allaria,RF ARS Lecap,55.481,0.7847,4,,,,
+p,BAVSA Global III,BAVSA,RF MULT Disc,54.3607,0.7261,5,,,,
+p,Pionero Renta Pesos,Macro,RF ARS Lecap,54.2585,0.8241,3,,,,
+p,Compass Renta Mixta III,Investis,RF ARS Lecap,54.2585,0.7648,3,,,,
+p,SBS Tavelli Mix,SBS,T+1,54.2585,0.763,3,,,,
+p,Consultatio Renta Local,Consultatio,RF ARS Lecap,52.1584,0.7724,3,,,,
+p,Alpha Renta Fija Serie 4,ICBC,RF ARS Lecap,50.3704,0.7429,4,,,,
+p,Adcap Balanceado XVI,Adcap,RF ARS Lecap,49.8028,0.6119,5,,,,

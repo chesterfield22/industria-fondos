@@ -1,0 +1,89 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Consultatio Renta Nacional,,,,,,,,
+m,gerente,Consultatio Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,T+1,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,102191949921,,,,,,,,
+m,aum_planilla,102191949921,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63625,,,,,,,,
+m,n_especies,33,,,,,,,,
+m,activos_pn,100.61,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.12,,,,,,,,
+m,top1,21.16,,,,,,,,
+m,top5,65.77,,,,,,,,
+m,top10,79.15,,,,,,,,
+m,hhi_especies,1076.9329,,,,,,,,
+m,n_emisores,20,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,74.41,,,,,,,,
+m,hhi_emisores,5588.6785,,,,,,,,
+m,sin_emisor_pct,1.52,,,,,,,,
+t,Soberano,74.41,9,,,,,,,
+t,Plazo fijo,12.27,5,,,,,,,
+t,ON,8.49,10,,,,,,,
+t,Fideicomiso financiero,2.16,3,,,,,,,
+t,Subsoberano,1.57,4,,,,,,,
+t,Pagaré,1.52,1,,,,,,,
+t,FCI,0.09,1,,,,,,,
+c,ARS,98.26,,,,,,,,
+c,sin dato,2.25,,,,,,,,
+r,Disponibilidades,0.12,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,85.98,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,12.26,,,,,,,,
+r,Certificados de Participacion Argentina,2.25,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.61,,,,,,,,
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,21.16,21623816603,,,Titulos de Deuda en Peso Argentina,149
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,16.67,17035398052,,,Titulos de Deuda en Peso Argentina,92
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,13.31,13601748534,,,Titulos de Deuda en Peso Argentina,75
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,8.09,8267328749,,,Titulos de Deuda en Peso Argentina,86
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,6.54,6683353525,,,Titulos de Deuda en Peso Argentina,80
+e,Pzo Fi $ BNP Paribas,Plazo fijo,BNP Paribas,ARS,3.49,3566499052,,,Operaciones a Plazo en Peso Argentina,2
+e,Bono del Tesoro Nacional TY30P,Soberano,Tesoro Nacional,ARS,2.69,2748963453,,,Titulos de Deuda en Peso Argentina,30
+e,Pzo Fi $ Bco Patagonia,Plazo fijo,Banco Patagonia,ARS,2.47,2524141163,,,Operaciones a Plazo en Peso Argentina,42
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,2.39,2442387603,,,Titulos de Deuda en Peso Argentina,146
+e,Pzo Fi $ Bco Santander Ri,Plazo fijo,Banco Santander Ri,ARS,2.34,2391291628,,,Operaciones a Plazo en Peso Argentina,68
+e,ON Arcor C8,ON,Arcor,ARS,2.01,2054058193,,,Titulos de Deuda en Peso Argentina,22
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,2.01,2054058193,,,Titulos de Deuda en Peso Argentina,84
+e,Pzo Fi $ Bco Supervielle,Plazo fijo,Banco Supervielle,ARS,1.99,2033619803,,,Operaciones a Plazo en Peso Argentina,37
+e,Pzo Fi $ Bco Galicia,Plazo fijo,Banco Galicia,ARS,1.98,2023400608,,,Operaciones a Plazo en Peso Argentina,67
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,1.55,1583975224,,,Titulos de Deuda en Peso Argentina,159
+e,Pagare #MAV281260023,Pagaré,,ARS,1.52,1553317639,,,Titulos de Deuda en Peso Argentina,1
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,1.05,1073015474,,,Titulos de Deuda en Peso Argentina,61
+e,ON BBVA Frances Cl 46,ON,BBVA Frances,ARS,1.04,1062796279,,,Titulos de Deuda en Peso Argentina,35
+e,ON Banco de Galicia 32 BYY1O,ON,Banco de Galicia,ARS,1.02,1042357889,,,Titulos de Deuda en Peso Argentina,44
+e,FF Mercado Credito 47 CA,Fideicomiso financiero,Mercado Credito,,0.99,1011700304,,,Certificados de Participacion Argentina,35
+e,FF Mercado Credito 53 CA,Fideicomiso financiero,Mercado Credito,,0.98,1001481109,,,Certificados de Participacion Argentina,25
+e,ON Arcor C6,ON,Arcor,ARS,0.96,981042719,,,Titulos de Deuda en Peso Argentina,31
+e,Letra Prov Bs As 171226,Subsoberano,Prov. Buenos Aires,ARS,0.86,878850769,,,Titulos de Deuda en Peso Argentina,10
+e,ON Banco Prov Clase 6,ON,Banco Provincia,ARS,0.77,786878014,,,Titulos de Deuda en Peso Argentina,43
+e,ON Tarj Naranja C67 S1,ON,Tarj Naranja,ARS,0.52,531398140,,,Titulos de Deuda en Peso Argentina,40
+e,ON BBVA Frances Cl 47,ON,BBVA Frances,ARS,0.51,521178945,,,Titulos de Deuda en Peso Argentina,45
+e,ON Santander Rio S 32,ON,Santander Rio,ARS,0.51,521178945,,,Titulos de Deuda en Peso Argentina,42
+e,Bono Prov Mendoza TAMAR C2,Subsoberano,Prov. Mendoza TAMAR,ARS,0.51,521178945,,,Titulos de Deuda en Peso Argentina,24
+e,FF Mercado Credito 55 CA,Fideicomiso financiero,Mercado Credito,,0.19,194164705,,,Certificados de Participacion Argentina,30
+e,Letra Muni Rosario 42993,Subsoberano,Muni. Rosario,ARS,0.11,112411145,,,Titulos de Deuda en Peso Argentina,6
+e,ON Credicuotas Consumo S20,ON,Credicuotas Consumo,ARS,0.1,102191950,,,Titulos de Deuda en Peso Argentina,19
+e,Letra Municipalidad Rio Cuarto S40,Subsoberano,Muni. Rio Cuarto,ARS,0.09,91972755,,,Titulos de Deuda en Peso Argentina,10
+e,FCI Ciclo Nova Ahorro - Clase E,FCI,Ciclo Nova Ahorro,,0.09,91972755,,,Certificados de Participacion Argentina,38
+p,Consultatio Ahorro Plus Argentina F.C.I.,Consultatio,RF ARS Lecap,54.9619,0.6746,11,,,,
+p,MP Ahorro,Mercado Pago,T+1,51.6346,0.7522,9,,,,
+p,Allaria Capital,Allaria,RM y Otros ARS,45.1039,0.6106,4,,,,
+p,Pionero Patrimonio I,Macro,RF ARS Lecap,40.394,0.6472,5,,,,
+p,Adcap Balanceado I,Adcap,RF ARS Disc,40.2348,0.7013,5,,,,
+p,Valiant Renta Fija Balanceado VI,Valiant,RF ARS Lecap,38.8665,0.4992,3,,,,
+p,IAM Renta Crecimiento,BIND,T+1,37.8825,0.6466,8,,,,
+p,Allaria Dinámico III,Allaria,RF ARS Lecap,37.638,0.6029,2,,,,

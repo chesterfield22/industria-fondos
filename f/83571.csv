@@ -1,0 +1,71 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,CYC Pesos Renta Fija,,,,,,,,
+m,gerente,C y C Administradora de Fondos S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,17293859498,,,,,,,,
+m,aum_planilla,17293859498,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83571,,,,,,,,
+m,n_especies,22,,,,,,,,
+m,activos_pn,98.7,,,,,,,,
+m,pasivos_cnv,1.3,,,,,,,,
+m,liquidez,0.02,,,,,,,,
+m,top1,13.02,,,,,,,,
+m,top5,44.26,,,,,,,,
+m,top10,69.83,,,,,,,,
+m,hhi_especies,642.6905,,,,,,,,
+m,n_emisores,6,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,69.57,,,,,,,,
+m,hhi_emisores,5265.5707,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,69.57,16,,,,,,,
+t,Subsoberano,27.69,3,,,,,,,
+t,ON,1.41,3,,,,,,,
+c,ARS,98.67,,,,,,,,
+r,Disponibilidades,0.02,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,98.68,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,1.3,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-1.3,,,,,,,,
+e,Letra Prov Bs As PBA27,Subsoberano,Prov. Buenos Aires,ARS,13.02,2251660507,,,Titulos de Deuda en Peso Argentina,38
+e,Letra Prov Chubut S120 C2,Subsoberano,Prov. Chubut,ARS,9.31,1610058319,,,Titulos de Deuda en Peso Argentina,7
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,8.94,1546071039,,,Titulos de Deuda en Peso Argentina,61
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,6.61,1143124113,,,Titulos de Deuda en Peso Argentina,142
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,6.38,1103348236,,,Titulos de Deuda en Peso Argentina,61
+e,Letra Prov Bs As PBA28,Subsoberano,Prov. Buenos Aires,ARS,5.36,926950869,,,Titulos de Deuda en Peso Argentina,28
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,5.3,916574553,,,Titulos de Deuda en Peso Argentina,51
+e,Bono Dual TXMD9,Soberano,Tesoro Nacional,ARS,5.2,899280694,,,Titulos de Deuda en Peso Argentina,67
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,5.19,897551308,,,Titulos de Deuda en Peso Argentina,66
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,4.52,781682449,,,Titulos de Deuda en Peso Argentina,166
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,4.47,773035520,,,Titulos de Deuda en Peso Argentina,160
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,3.93,679648678,,,Titulos de Deuda en Peso Argentina,149
+e,Bono Dual TXMJ0,Soberano,Tesoro Nacional,ARS,3.61,624308328,,,Titulos de Deuda en Peso Argentina,28
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,3.34,577614907,,,Titulos de Deuda en Peso Argentina,136
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,3.07,530921487,,,Titulos de Deuda en Peso Argentina,80
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,2.69,465204821,,,Titulos de Deuda en Peso Argentina,75
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,2.34,404676312,,,Titulos de Deuda en Peso Argentina,165
+e,Letra Tamar TEM TMF28,Soberano,Tesoro Nacional,ARS,2.3,397758768,,,Titulos de Deuda en Peso Argentina,12
+e,Bono Boncer TX26,Soberano,Tesoro Nacional,ARS,1.68,290536840,,,Titulos de Deuda en Peso Argentina,63
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,1,172938595,,,Titulos de Deuda en Peso Argentina,42
+e,ON Telecom C14 TLCFO,ON,Telecom,ARS,0.23,39775877,,,Titulos de Deuda en Peso Argentina,23
+e,ON ICBC Clase 5 110327,ON,ICBC,ARS,0.18,31128947,,,Titulos de Deuda en Peso Argentina,36
+p,Galileo Multimercado VII,Delta,RF ARS Disc,51.408,0.5841,12,,,,
+p,Pellegrini Renta Fija III,Pellegrini,T+1,42.6872,0.4907,10,,,,
+p,Alpha Renta Plus,ICBC,RF ARS Disc,33.7144,0.4173,11,,,,
+p,Novus Liquidez Plus,Novus,T+1,32.9888,0.5942,5,,,,
+p,Mills M1000 Balanceado Pesos,Mills Capital,RM y Otros ARS,32.6102,0.3616,7,,,,
+p,Parakeet Renta Pesos,Parakeet,T+1,31.3368,0.4749,5,,,,
+p,Crecer Renta Plus,Ciudad,RF ARS Disc,30.5926,0.3141,8,,,,
+p,Fundcorp Performance Balanceado,CMF,RF ARS Disc,28.0213,0.2742,9,,,,

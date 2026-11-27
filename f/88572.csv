@@ -1,0 +1,70 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,FCIC Inmobiliario Reit Ciclo Nova,,,,,,,,
+m,gerente,Ciclo Nova Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Cerrado,,,,,,,,
+m,subtipo,MM ARS Clásico,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,72420288101,,,,,,,,
+m,aum_planilla,,,,,,,,,
+m,dif_pn_aum,,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88572,,,,,,,,
+m,n_especies,16,,,,,,,,
+m,activos_pn,54.79,,,,,,,,
+m,pasivos_cnv,45.21,,,,,,,,
+m,liquidez,0.58,,,,,,,,
+m,top1,12.07,,,,,,,,
+m,top5,38.05,,,,,,,,
+m,top10,50.01,,,,,,,,
+m,hhi_especies,377.9962,,,,,,,,
+m,n_emisores,5,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,45.32,,,,,,,,
+m,hhi_emisores,2088.3242,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,45.32,12,,,,,,,
+t,FCI,6.13,2,,,,,,,
+t,ON,2.77,1,,,,,,,
+t,Caución,0.02,1,,,,,,,
+c,ARS,48.11,,,,,,,,
+c,USD,5.06,,,,,,,,
+c,sin dato,1.07,,,,,,,,
+r,Disponibilidades,0.56,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,48.08,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,0.02,,,,,,,,
+r,Certificados de Participacion Argentina,6.13,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,45.21,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-45.21,,,,,,,,
+e,Bonos Rep Argentina 2030,Soberano,Tesoro Nacional,ARS,12.07,8741128774,,,Titulos de Deuda en Peso Argentina,72
+e,Bono del Tesoro Nacional AO27,Soberano,Tesoro Nacional,ARS,10.92,7908295461,,,Titulos de Deuda en Peso Argentina,83
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,5.54,4012083961,,,Titulos de Deuda en Peso Argentina,74
+e,FCI Max Money Market Dólares - Clase B,FCI,Max Money Market Dólares,USD,5.06,3664466578,,,Certificados de Participacion Argentina,11
+e,Bono del Tesoro Nacional TZV27,Soberano,Tesoro Nacional,ARS,4.46,3229944849,,,Titulos de Deuda en Peso Argentina,21
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,3.85,2788181092,,,Titulos de Deuda en Peso Argentina,112
+e,ON IEB Construcciones C1,ON,IEB Construcciones,ARS,2.77,2006041980,,,Titulos de Deuda en Peso Argentina,5
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,2.26,1636698511,,,Titulos de Deuda en Peso Argentina,61
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,ARS,1.76,1274597071,,,Titulos de Deuda en Peso Argentina,40
+e,Bono Dual TXMD8,Soberano,Tesoro Nacional,ARS,1.32,955947803,,,Titulos de Deuda en Peso Argentina,66
+e,Bono Dual TXMJ0,Soberano,Tesoro Nacional,ARS,1.19,861801428,,,Titulos de Deuda en Peso Argentina,28
+e,Bono Boncer TZXD8,Soberano,Tesoro Nacional,ARS,1.11,803865198,,,Titulos de Deuda en Peso Argentina,26
+e,FCI Toronto T Ahorro B,FCI,Toronto T Ahorro B,,1.07,774897083,,,Certificados de Participacion Argentina,10
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,0.8,579362305,,,Titulos de Deuda en Peso Argentina,250
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,0.04,28968115,,,Titulos de Deuda en Peso Argentina,166
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,0.02,14484058,,,Operaciones a Plazo en Peso Argentina,195
+p,Ualintec Cobertura,Ualá,RF USD Linked,50.9474,0.6888,3,,,,
+p,Novus Capital,Novus,RM y Otros USD,49.4392,0.8295,4,,,,
+p,FBA Renta Fija Dólar Plus I,BBVA,RF USD Disc,40.075,0.6759,4,,,,
+p,Crecer Renta Dólares,Ciudad,RF USD Disc,36.9846,0.5344,3,,,,
+p,Alpha Renta Capital Dólar,ICBC,RF USD Disc,32.9952,0.6156,2,,,,
+p,MEGAQM Ahorro Dólares,MegaQM,RF USD Disc,31.7382,0.4485,3,,,,
+p,Pionero Inversión Dólar,Macro,RF USD GL Inc ARG,31.4956,0.5013,3,,,,
+p,Consultatio Multimercado V,Consultatio,RF USD Disc,31.1251,0.5792,2,,,,

@@ -1,0 +1,62 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,DXA Retorno Total,,,,,,,,
+m,gerente,Dracma Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5360571078,,,,,,,,
+m,aum_planilla,5360571078,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88438,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,100.48,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,20.07,,,,,,,,
+m,top5,82.33,,,,,,,,
+m,top10,100.45,,,,,,,,
+m,hhi_especies,1506.6652,,,,,,,,
+m,n_emisores,11,,,,,,,,
+m,emisor_top,Grupo Financiero Galicia,,,,,,,,
+m,emisor_top_pct,20.07,,,,,,,,
+m,hhi_emisores,1506.6652,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,91.14,8,,,,,,,
+t,Cedear,9.31,2,,,,,,,
+t,FCI,0.03,1,,,,,,,
+c,ARS,100.45,,,,,,,,
+c,sin dato,0.03,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Participaciones Accionarias Argentina,100.45,,,,,,,,
+r,Certificados de Participacion Argentina,0.03,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.48,,,,,,,,
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,20.07,1075866615,,,Participaciones Accionarias Argentina,117
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,18.45,989025364,,,Participaciones Accionarias Argentina,104
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,18.39,985809021,,,Participaciones Accionarias Argentina,93
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,16.53,886102399,,,Participaciones Accionarias Argentina,129
+e,Grupo Supervielle S.A.,Acción,Grupo Supervielle,ARS,8.89,476554769,,,Participaciones Accionarias Argentina,64
+e,Cedear Google,Cedear,Google,ARS,5.69,305016494,,,Participaciones Accionarias Argentina,30
+e,Transener S.A.,Acción,Transener,ARS,3.96,212278615,,,Participaciones Accionarias Argentina,84
+e,Cedear Vista Oil Gas,Cedear,Vista Oil Gas,ARS,3.62,194052673,,,Participaciones Accionarias Argentina,50
+e,YPF S.A.,Acción,YPF,ARS,2.61,139910905,,,Participaciones Accionarias Argentina,122
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,2.24,120076792,,,Participaciones Accionarias Argentina,77
+e,FCI BM Smart Money Market - Clase B,FCI,BM Smart Money Market,,0.03,1608171,,,Certificados de Participacion Argentina,34
+p,Schroder Renta Variable,Schroder,RV ARG Merval,60.0542,0.7889,6,,,,
+p,Puente Acciones Argentinas,Puente,RV ARG Merval,59.536,0.8033,8,,,,
+p,ConoSur Visus,Cono Sur,RM y Otros ARS,58.9756,0.7477,8,,,,
+p,SBS Acciones Argentina,SBS,RV ARG Merval,58.7677,0.7669,8,,,,
+p,gForce MSCI MERVAL FCIA ETF,Galicia,RV ARG Merval,57.7706,0.8101,8,,,,
+p,Allaria Acciones,Allaria,RV ARG Merval,57.7405,0.7588,8,,,,
+p,Crecer Acciones,Ciudad,RV ARG Merval,57.5996,0.8086,8,,,,
+p,FBA Acciones Argentinas,BBVA,RV ARG Merval,56.9777,0.7534,8,,,,

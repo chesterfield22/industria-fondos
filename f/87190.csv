@@ -1,0 +1,98 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Cocos Pesos Plus,,,,,,,,
+m,gerente,Cocos Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,551246025630,,,,,,,,
+m,aum_planilla,551246025630,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87190,,,,,,,,
+m,n_especies,41,,,,,,,,
+m,activos_pn,101.24,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,11.88,,,,,,,,
+m,top1,21.53,,,,,,,,
+m,top5,56.89,,,,,,,,
+m,top10,77.96,,,,,,,,
+m,hhi_especies,945.3085,,,,,,,,
+m,n_emisores,17,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,26.53,,,,,,,,
+m,hhi_emisores,1103.4952,,,,,,,,
+m,sin_emisor_pct,21.39,,,,,,,,
+t,Plazo fijo,28.81,5,,,,,,,
+t,Soberano,26.53,4,,,,,,,
+t,Pagaré,21.39,21,,,,,,,
+t,Caución,11.83,1,,,,,,,
+t,ON,7.07,4,,,,,,,
+t,FCI,4.97,4,,,,,,,
+t,Subsoberano,0.52,1,,,,,,,
+t,VCP,0.05,1,,,,,,,
+c,ARS,97.11,,,,,,,,
+c,sin dato,4.06,,,,,,,,
+r,Disponibilidades,0.05,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,55.58,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,40.64,,,,,,,,
+r,Certificados de Participacion Argentina,4.97,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.24,,,,,,,,
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,21.53,118683269318,,,Titulos de Deuda en Peso Argentina,160
+e,Pzo Fi $ Bco Galicia,Plazo fijo,Banco Galicia,ARS,11.87,65432903242,,,Operaciones a Plazo en Peso Argentina,67
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,11.83,65212404832,,,Operaciones a Plazo en Peso Argentina,195
+e,Pagare #MAV031260095,Pagaré,,ARS,6.06,33405509153,,,Titulos de Deuda en Peso Argentina,1
+e,Pzo Fi $ Nvo Bco Indus,Plazo fijo,Nvo Bco Indus,ARS,5.6,30869777435,,,Operaciones a Plazo en Peso Argentina,44
+e,Pzo Fi $ Bco Nacion,Plazo fijo,Banco Nacion,ARS,5.49,30263406807,,,Operaciones a Plazo en Peso Argentina,84
+e,Pzo Fi $ Bco BBVA,Plazo fijo,Banco BBVA,ARS,4.56,25136818769,,,Operaciones a Plazo en Peso Argentina,46
+e,ON Banco de Galicia 32 BYY1O,ON,Banco de Galicia,ARS,3.89,21443470397,,,Titulos de Deuda en Peso Argentina,44
+e,Pagare #MAV261160110,Pagaré,,ARS,3.58,19734607718,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV101260100,Pagaré,,ARS,3.55,19569233910,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,3.1,17088626795,,,Certificados de Participacion Argentina,96
+e,ON BBVA Frances Cl 47,ON,BBVA Frances,ARS,2.84,15655387128,,,Titulos de Deuda en Peso Argentina,45
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,2.56,14111898256,,,Titulos de Deuda en Peso Argentina,86
+e,Boncer Bsas 191126,Soberano,Tesoro Nacional,ARS,2.03,11190294320,,,Titulos de Deuda en Peso Argentina,3
+e,Pagare #MAV111160080,Pagaré,,ARS,1.81,9977553064,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV121160081,Pagaré,,ARS,1.8,9922428461,,,Titulos de Deuda en Peso Argentina,1
+e,Pzo Fi $ Banco VOII,Plazo fijo,Banco VOII,ARS,1.29,7111073731,,,Operaciones a Plazo en Peso Argentina,13
+e,FCI Schroder Liquidez - Clase B,FCI,Schroder Liquidez,,0.94,5181712641,,,Certificados de Participacion Argentina,44
+e,FCI Premier Renta CP $ CA,FCI,Premier Renta CP $ CA,ARS,0.91,5016338833,,,Certificados de Participacion Argentina,2
+e,Pagare #MAV101260045,Pagaré,,ARS,0.88,4850965026,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV101260044,Pagaré,,ARS,0.88,4850965026,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV121160046,Pagaré,,ARS,0.54,2976728538,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV121160047,Pagaré,,ARS,0.54,2976728538,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV111160078,Pagaré,,ARS,0.54,2976728538,,,Titulos de Deuda en Peso Argentina,1
+e,Bono Muni San Isidro,Subsoberano,Muni. San Isidro,ARS,0.52,2866479333,,,Titulos de Deuda en Peso Argentina,10
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,0.41,2260108705,,,Titulos de Deuda en Peso Argentina,136
+e,Pagare #MAV111160061,Pagaré,,ARS,0.18,992242846,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV111160068,Pagaré,,ARS,0.18,992242846,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV111160065,Pagaré,,ARS,0.18,992242846,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV111160064,Pagaré,,ARS,0.18,992242846,,,Titulos de Deuda en Peso Argentina,1
+e,ON Morixe C4,ON,Morixe,ARS,0.18,992242846,,,Titulos de Deuda en Peso Argentina,10
+e,Pagare #MAV111160059,Pagaré,,ARS,0.18,992242846,,,Titulos de Deuda en Peso Argentina,1
+e,ON Credito Directo C31,ON,Credito Directo,ARS,0.16,881993641,,,Titulos de Deuda en Peso Argentina,14
+e,Pagare #MAV160170005,Pagaré,,ARS,0.1,551246026,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV041260014,Pagaré,,ARS,0.09,496121423,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #MAV270570002,Pagaré,,ARS,0.09,496121423,,,Titulos de Deuda en Peso Argentina,1
+e,VCP Unicred S3,VCP,VCP Unicred,ARS,0.05,275623013,,,Titulos de Deuda en Peso Argentina,10
+e,FCI IAM Ahorro Pesos C B,FCI,IAM Ahorro Pesos C B,,0.02,110249205,,,Certificados de Participacion Argentina,5
+e,Pagare #UGA290370001,Pagaré,,ARS,0.01,55124603,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UGA290170001,Pagaré,,ARS,0.01,55124603,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UGA310570001,Pagaré,,ARS,0.01,55124603,,,Titulos de Deuda en Peso Argentina,1
+p,Super Ahorro Plus,Santander,MM ARS Dinámico,38.1755,0.6815,7,,,,
+p,SBS Pesos Plus,SBS,RF ARS Lecap,37.2669,0.5292,4,,,,
+p,Crecer Liquidez,Ciudad,MM ARS Clásico,37.0286,0.4133,5,,,,
+p,Super Ahorro $,Santander,MM ARS Clásico,36.0045,0.4563,5,,,,
+p,Adcap Ahorro Dinámico Fondo de Dinero,Adcap,MM ARS Dinámico,33.1596,0.5088,3,,,,
+p,Schroder Balanceado,Schroder,RM y Otros ARS,32.9742,0.6221,2,,,,
+p,Mercado Fondo,Mercado Pago,MM ARS Clásico,32.6827,0.4626,4,,,,
+p,Alpha Pesos,ICBC,MM ARS Clásico,31.3728,0.4231,5,,,,

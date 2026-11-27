@@ -1,0 +1,80 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Stonex Global VIII,,,,,,,,
+m,gerente,StoneX Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,8098698074,,,,,,,,
+m,aum_planilla,8098698074,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85732,,,,,,,,
+m,n_especies,25,,,,,,,,
+m,activos_pn,100.12,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.05,,,,,,,,
+m,top1,15.08,,,,,,,,
+m,top5,50.58,,,,,,,,
+m,top10,74.47,,,,,,,,
+m,hhi_especies,720.1089,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,77.72,,,,,,,,
+m,hhi_emisores,6099.3009,,,,,,,,
+m,sin_emisor_pct,2.54,,,,,,,,
+t,Soberano,77.72,12,,,,,,,
+t,ETF,11.08,6,,,,,,,
+t,Fideicomiso financiero,5.71,2,,,,,,,
+t,Acción,2.83,3,,,,,,,
+t,Cheque,2.54,1,,,,,,,
+t,FCI,0.19,1,,,,,,,
+c,ARS,83.09,,,,,,,,
+c,sin dato,16.98,,,,,,,,
+r,Disponibilidades,0.05,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,80.26,,,,,,,,
+r,Participaciones Accionarias Argentina,13.91,,,,,,,,
+r,Certificados de Participacion Argentina,5.9,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.12,,,,,,,,
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,15.08,1221283670,,,Titulos de Deuda en Peso Argentina,142
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,10.14,821207985,,,Titulos de Deuda en Peso Argentina,84
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,9.21,745890093,,,Titulos de Deuda en Peso Argentina,128
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,8.61,697297904,,,Titulos de Deuda en Peso Argentina,250
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,7.54,610641835,,,Titulos de Deuda en Peso Argentina,159
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,6.79,549901599,,,Titulos de Deuda en Peso Argentina,136
+e,FF Megabono 352 Clase A,Fideicomiso financiero,Megabono,,4.42,357962455,,,Certificados de Participacion Argentina,7
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,4.32,349863757,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,4.2,340145319,,,Titulos de Deuda en Peso Argentina,146
+e,Bonos Rep Argentina AL35,Soberano,Tesoro Nacional,ARS,4.16,336905840,,,Titulos de Deuda en Peso Argentina,31
+e,Bono Bocon 2029 PR17,Soberano,Tesoro Nacional,ARS,3.28,265637297,,,Titulos de Deuda en Peso Argentina,15
+e,Cedear IShares MSCI Emerging Market,ETF,Cedear IShares MSCI Emerging Market,,3.05,247010291,,,Participaciones Accionarias Argentina,3
+e,Cheque E *MAV211101395,Cheque,,ARS,2.54,205706931,,,Titulos de Deuda en Peso Argentina,1
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,2.29,185460186,,,Titulos de Deuda en Peso Argentina,149
+e,Cedear Fncial Select Sector SPDR,ETF,Cedear Fncial Select Sector SPDR,,2.11,170882529,,,Participaciones Accionarias Argentina,2
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,2.1,170072660,,,Titulos de Deuda en Peso Argentina,158
+e,Cedear Utilities Select Sectar SPDR Fund,ETF,Cedear Utilities Select Sectar SPDR Fund,,2.08,168452920,,,Participaciones Accionarias Argentina,8
+e,Cedear Health Care Select Sector SPDR Fund,ETF,Cedear Health Care Select Sector SPDR Fund,,1.72,139297607,,,Participaciones Accionarias Argentina,1
+e,Cedear ETF VanEck Semiconductors,ETF,Cedear ETF VanEck Semiconductors,,1.3,105283075,,,Participaciones Accionarias Argentina,3
+e,FF Megabono 361 Clase A,Fideicomiso financiero,Megabono,,1.29,104473205,,,Certificados de Participacion Argentina,4
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,1.22,98804116,,,Participaciones Accionarias Argentina,83
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,1,80986981,,,Participaciones Accionarias Argentina,93
+e,Cedear Shares MSCI Brazil ETF,ETF,Cedear Shares MSCI Brazil ETF,,0.82,66409324,,,Participaciones Accionarias Argentina,23
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,0.61,49402058,,,Participaciones Accionarias Argentina,77
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,0.19,15387526,,,Certificados de Participacion Argentina,47
+p,Toronto Trust Estrategico,Investis,RF ARS Disc,43.3183,0.606,7,,,,
+p,BM Active Renta Fija Argentina,Bull Market,RF ARS CER,40.4205,0.5903,6,,,,
+p,Ciclo Nova Balanceado,Ciclo Nova,RM y Otros ARS,39.9341,0.5946,4,,,,
+p,Allaria Renta Mixta,Allaria,RM y Otros ARS,39.6622,0.7172,4,,,,
+p,Galileo Ahorro Plus,Delta,T+1,38.6898,0.5774,6,,,,
+p,Allaria Estructurado,Allaria,RF ARS Disc,38.6829,0.5645,6,,,,
+p,Consultatio Gestion I,Consultatio,RM y Otros ARS,38.5319,0.5177,9,,,,
+p,Toronto Trust Special Opportunities,Investis,RF MULT Disc,37.797,0.5947,5,,,,

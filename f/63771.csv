@@ -1,0 +1,93 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Fima Mix I,,,,,,,,
+m,gerente,Galicia Asset Management S.A.U.,,,,,,,,
+m,depositaria,Banco de Galicia y Buenos Aires S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,23982949579,,,,,,,,
+m,aum_planilla,23982949579,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63771,,,,,,,,
+m,n_especies,39,,,,,,,,
+m,activos_pn,107.51,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.3,,,,,,,,
+m,top1,11.61,,,,,,,,
+m,top5,48.49,,,,,,,,
+m,top10,72.16,,,,,,,,
+m,hhi_especies,649.4591,,,,,,,,
+m,n_emisores,26,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,71.75,,,,,,,,
+m,hhi_emisores,5255.4997,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,71.75,13,,,,,,,
+t,Cedear,14.48,19,,,,,,,
+t,ON,10.65,5,,,,,,,
+t,Subsoberano,2.61,1,,,,,,,
+t,FCI,1.08,1,,,,,,,
+c,ARS,99.49,,,,,,,,
+c,sin dato,1.08,,,,,,,,
+r,Disponibilidades,0.3,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,85.02,,,,,,,,
+r,Participaciones Accionarias Argentina,14.48,,,,,,,,
+r,Certificados de Participacion Argentina,1.08,,,,,,,,
+r,Otros Activos,6.63,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),7.51,,,,,,,,
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,11.61,2784420446,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,11.58,2777225561,,,Titulos de Deuda en Peso Argentina,146
+e,Letra Tesoro Nac D31M7,Soberano,Tesoro Nacional,ARS,8.7,2086516613,,,Titulos de Deuda en Peso Argentina,30
+e,Bono del Tesoro Nacional TZV27,Soberano,Tesoro Nacional,ARS,8.65,2074525139,,,Titulos de Deuda en Peso Argentina,21
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,7.95,1906644492,,,Titulos de Deuda en Peso Argentina,250
+e,Boncer TZXY7,Soberano,Tesoro Nacional,ARS,5.93,1422188910,,,Titulos de Deuda en Peso Argentina,76
+e,Cedear Barrick Gold,Cedear,Barrick Gold,ARS,5.03,1206342364,,,Participaciones Accionarias Argentina,3
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,4.81,1153579875,,,Titulos de Deuda en Peso Argentina,42
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,4.03,966512868,,,Titulos de Deuda en Peso Argentina,61
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,3.87,928140149,,,Titulos de Deuda en Peso Argentina,103
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,3.21,769852681,,,Titulos de Deuda en Peso Argentina,75
+e,ON Vista Gas y Oil Arg C21,ON,Vista Gas y Oil Arg,ARS,3.17,760259502,,,Titulos de Deuda en Peso Argentina,27
+e,Bono del Tesoro Nacional TML27,Soberano,Tesoro Nacional,ARS,3.07,736276552,,,Titulos de Deuda en Peso Argentina,136
+e,Bono Prov de Buenos Aires TZV28,Subsoberano,Prov. Buenos Aires,ARS,2.61,625954984,,,Titulos de Deuda en Peso Argentina,46
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,1.61,386125488,,,Titulos de Deuda en Peso Argentina,149
+e,Cedear Amazon,Cedear,Amazon,ARS,1.61,386125488,,,Participaciones Accionarias Argentina,17
+e,Cedear Chevron,Cedear,Chevron,ARS,1.11,266210740,,,Participaciones Accionarias Argentina,5
+e,FCI Pionero Pesos - Clase A,FCI,Pionero Pesos,,1.08,259015855,,,Certificados de Participacion Argentina,14
+e,Cedear The Coca Cola,Cedear,The Coca Cola,ARS,1.01,242227791,,,Participaciones Accionarias Argentina,12
+e,ON Pampa Energia C13,ON,Pampa Energia,ARS,0.99,237431201,,,Titulos de Deuda en Peso Argentina,30
+e,ON Pan American C33,ON,Pan American,ARS,0.95,227838021,,,Titulos de Deuda en Peso Argentina,36
+e,Cedear Visa,Cedear,Visa,ARS,0.88,211049956,,,Participaciones Accionarias Argentina,7
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,0.88,211049956,,,Titulos de Deuda en Peso Argentina,64
+e,Cedear Netflix,Cedear,Netflix,ARS,0.86,206253366,,,Participaciones Accionarias Argentina,4
+e,Cedear Exxon,Cedear,Exxon,ARS,0.81,194261892,,,Participaciones Accionarias Argentina,4
+e,ON Aluar Serie 6,ON,Aluar,ARS,0.73,175075532,,,Titulos de Deuda en Peso Argentina,28
+e,Bono Boncer TZXS8,Soberano,Tesoro Nacional,ARS,0.66,158287467,,,Titulos de Deuda en Peso Argentina,84
+e,Cedear Wal Mart,Cedear,Wal Mart,ARS,0.47,112719863,,,Participaciones Accionarias Argentina,3
+e,Cedear Intel Corp,Cedear,Intel Corp,ARS,0.44,105524978,,,Participaciones Accionarias Argentina,1
+e,Cedear Pfizer,Cedear,Pfizer,ARS,0.4,95931798,,,Participaciones Accionarias Argentina,2
+e,Cedear Tesla,Cedear,Tesla,ARS,0.36,86338618,,,Participaciones Accionarias Argentina,5
+e,Cedear JP Morgan,Cedear,JP Morgan,ARS,0.35,83940324,,,Participaciones Accionarias Argentina,9
+e,Cedear Halliburton Co,Cedear,Halliburton Co,ARS,0.26,62355669,,,Participaciones Accionarias Argentina,1
+e,Cedear IBM Corp,Cedear,IBM Corp,ARS,0.26,62355669,,,Participaciones Accionarias Argentina,2
+e,Cedear Goldman Sachs Group,Cedear,Goldman Sachs Group,ARS,0.16,38372719,,,Participaciones Accionarias Argentina,2
+e,Cedear Citigroup,Cedear,Citigroup,ARS,0.16,38372719,,,Participaciones Accionarias Argentina,4
+e,Cedear AT y T,Cedear,AT y T,ARS,0.14,33576129,,,Participaciones Accionarias Argentina,1
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,0.1,23982950,,,Participaciones Accionarias Argentina,52
+e,Cedear Baidu,Cedear,Baidu,ARS,0.07,16788065,,,Participaciones Accionarias Argentina,1
+p,Fima Capital Plus,Galicia,RF USD Linked,69.8926,0.8801,18,,,,
+p,Fima Mix II,Galicia,RM y Otros ARS,62.9062,0.8576,12,,,,
+p,Ciclo Nova Multiestrategia II,Ciclo Nova,RF MULT Disc,44.0075,0.6243,10,,,,
+p,Fima Balanceado,Galicia,RF MULT Disc,40.9446,0.487,7,,,,
+p,Pellegrini Renta Fija II,Pellegrini,T+1,40.7238,0.5898,7,,,,
+p,Consultatio Crecimiento,Consultatio,RF MULT Disc,38.4608,0.5503,5,,,,
+p,Bull Market Ahorro Balanceado II,Bull Market,RF MULT Disc,34.66,0.5638,5,,,,
+p,Blacktoro Cobertura,BlackToro,RF USD Linked,34.507,0.5451,6,,,,

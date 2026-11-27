@@ -1,0 +1,78 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Compass Renta Plus II,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,37179293883,,,,,,,,
+m,aum_planilla,37179293883,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/82092,,,,,,,,
+m,n_especies,26,,,,,,,,
+m,activos_pn,100.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,2.86,,,,,,,,
+m,top1,30.93,,,,,,,,
+m,top5,48.62,,,,,,,,
+m,top10,66.24,,,,,,,,
+m,hhi_especies,1164.6499,,,,,,,,
+m,n_emisores,2,,,,,,,,
+m,emisor_top,Fondo de Inv Arg Private Debt,,,,,,,,
+m,emisor_top_pct,30.93,,,,,,,,
+m,hhi_emisores,956.709,,,,,,,,
+m,sin_emisor_pct,66.03,,,,,,,,
+t,Cheque,66.03,24,,,,,,,
+t,Otro certificado de participación,30.93,1,,,,,,,
+t,FCI,0.21,1,,,,,,,
+c,ARS,66.03,,,,,,,,
+c,sin dato,31.14,,,,,,,,
+r,Disponibilidades,2.86,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,66.02,,,,,,,,
+r,Certificados de Participacion Chile,30.93,,,,,,,,
+r,Certificados de Participacion Argentina,0.21,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.02,,,,,,,,
+e,Fondo de Inv Arg Private Debt,Otro certificado de participación,Fondo de Inv Arg Private Debt,,30.93,11499555598,,,Certificados de Participacion Chile,1
+e,Cheque #MAV100270027,Cheque,,ARS,4.67,1736273024,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV221260032,Cheque,,ARS,4.65,1728837166,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV251160032,Cheque,,ARS,4.28,1591273778,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV261260004,Cheque,,ARS,4.09,1520633120,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV270170007,Cheque,,ARS,3.83,1423966956,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV200170026,Cheque,,ARS,3.83,1423966956,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV240270014,Cheque,,ARS,3.36,1249224274,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV091260027,Cheque,,ARS,3.32,1234352557,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV251160039,Cheque,,ARS,3.28,1219480839,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV091260028,Cheque,,ARS,3.11,1156276040,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV091260015,Cheque,,ARS,2.69,1000123005,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV251160035,Cheque,,ARS,2.67,992687147,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV251160040,Cheque,,ARS,2.51,933200276,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV091260014,Cheque,,ARS,2.37,881149265,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV060170016,Cheque,,ARS,2.24,832816183,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV190170025,Cheque,,ARS,1.98,736150019,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV220470009,Cheque,,ARS,1.98,736150019,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV190170026,Cheque,,ARS,1.94,721278301,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV040270018,Cheque,,ARS,1.87,695252796,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV151260032,Cheque,,ARS,1.71,635765925,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV221260031,Cheque,,ARS,1.65,613458349,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV251160034,Cheque,,ARS,1.36,505638397,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV091260026,Cheque,,ARS,1.34,498202538,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque #MAV151260030,Cheque,,ARS,1.3,483330820,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Fima Premium Clase B,FCI,Fima Premium,,0.21,78076517,,,Certificados de Participacion Argentina,77
+p,Novus Low Volatility,Novus,Sin clasificar,0.2161,0.0013,1,,,,
+p,Pionero Recovery,Macro,RM y Otros ARS,0.2161,0.0012,1,,,,
+p,Compass Renta Mixta II,Investis,RV Global,0.2161,0.0012,1,,,,
+p,Novus Renta Balanceado,Novus,RM y Otros ARS,0.2161,0.0011,1,,,,
+p,1822 Raices Renta en Pesos,Provinfondos,T+1,0.2161,0.001,1,,,,
+p,Pionero Moneda,Macro,RF MULT Disc,0.2161,0.0006,1,,,,
+p,Pionero Desarrollo,Macro,RF MULT Disc,0.2161,0.0006,1,,,,
+p,Pionero Empresas FCI Abierto Pymes,Macro,PYME,0.2161,0.0005,1,,,,

@@ -1,0 +1,79 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Ualintec Renta Dólares,,,,,,,,
+m,gerente,Ualá Fondos S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Disc,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,38339723,,,,,,,,
+m,aum_planilla,38339723,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86937,,,,,,,,
+m,n_especies,26,,,,,,,,
+m,activos_pn,101.78,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,1.89,,,,,,,,
+m,top1,26.38,,,,,,,,
+m,top5,66.55,,,,,,,,
+m,top10,81.16,,,,,,,,
+m,hhi_especies,1347.4377,,,,,,,,
+m,n_emisores,17,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,55.73,,,,,,,,
+m,hhi_emisores,3378.8237,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,55.73,3,,,,,,,
+t,ON,44.09,21,,,,,,,
+t,Caución,1.7,1,,,,,,,
+t,FCI,0.07,1,,,,,,,
+c,sin dato,99.82,,,,,,,,
+c,USD,1.77,,,,,,,,
+r,Disponibilidades,0.19,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense MEP,99.82,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense MEP,1.7,,,,,,,,
+r,Certificados de Participacion Argentina,0.07,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),1.78,,,,,,,,
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,,26.38,10114019,,,Titulos de Deuda en Dolar Estadounidense MEP,74
+e,Bonos Rep Argentina AE38,Soberano,Tesoro Nacional,,21.06,8074346,,,Titulos de Deuda en Dolar Estadounidense MEP,62
+e,Bono del Tesoro Nacional AN29,Soberano,Tesoro Nacional,,8.29,3178363,,,Titulos de Deuda en Dolar Estadounidense MEP,25
+e,ON Plaza Logistica C3 ZPC3O,ON,Plaza Logistica,,6.75,2587931,,,Titulos de Deuda en Dolar Estadounidense MEP,8
+e,ON Capex C12,ON,Capex,,4.07,1560427,,,Titulos de Deuda en Dolar Estadounidense MEP,20
+e,ON Mastellone Clase 2,ON,Mastellone,,3.56,1364894,,,Titulos de Deuda en Dolar Estadounidense MEP,11
+e,ON Plaza Logistica C5 ZPC5O,ON,Plaza Logistica,,3.12,1196199,,,Titulos de Deuda en Dolar Estadounidense MEP,14
+e,ON Capex C11,ON,Capex,,2.66,1019837,,,Titulos de Deuda en Dolar Estadounidense MEP,19
+e,ON Luz De Tres Picos C5,ON,Luz De Tres Picos,,2.66,1019837,,,Titulos de Deuda en Dolar Estadounidense MEP,17
+e,ON AES Argentina Gen 060828,ON,AES Argentina Gen,,2.61,1000667,,,Titulos de Deuda en Dolar Estadounidense MEP,24
+e,ON Central Puerto Clase D,ON,Central Puerto,,2.46,943157.1974,,,Titulos de Deuda en Dolar Estadounidense MEP,24
+e,ON Edenor C11,ON,Edenor,,2.35,900983.5015,,,Titulos de Deuda en Dolar Estadounidense MEP,31
+e,ON Oldelval Clase 7,ON,Oldelval,,2.16,828138.027,,,Titulos de Deuda en Dolar Estadounidense MEP,41
+e,ON Plaza Logistica C6 ZPC6O,ON,Plaza Logistica,,1.88,720786.8012,,,Titulos de Deuda en Dolar Estadounidense MEP,9
+e,Caucion Colocadora U$S BYMA,Caución,Caución BYMA,USD,1.7,651775.299,,,Operaciones a Plazo en Dolar Estadounidense MEP,35
+e,ON CNH Arg. C10,ON,CNH Arg,,1.4,536756.1286,,,Titulos de Deuda en Dolar Estadounidense MEP,13
+e,ON Luz De Tres Picos C1,ON,Luz De Tres Picos,,1.37,525254.2115,,,Titulos de Deuda en Dolar Estadounidense MEP,6
+e,ON Pecom C3,ON,Pecom,,1.33,509918.3222,,,Titulos de Deuda en Dolar Estadounidense MEP,26
+e,ON Loma Negra C7,ON,Loma Negra,,1.31,502250.3775,,,Titulos de Deuda en Dolar Estadounidense MEP,30
+e,ON Edemsa C8,ON,Edemsa,,1.25,479246.5434,,,Titulos de Deuda en Dolar Estadounidense MEP,8
+e,ON Central Puerto Clase E,ON,Central Puerto,,0.96,368061.3453,,,Titulos de Deuda en Dolar Estadounidense MEP,31
+e,ON Plaza Logistica C15,ON,Plaza Logistica,,0.82,314385.7325,,,Titulos de Deuda en Dolar Estadounidense MEP,19
+e,ON CNH Arg. C11,ON,CNH Arg,,0.55,210868.4791,,,Titulos de Deuda en Dolar Estadounidense MEP,9
+e,ON Minas Argentinas C1,ON,Minas Argentinas,,0.43,164860.8109,,,Titulos de Deuda en Dolar Estadounidense MEP,4
+e,ON Profertil C3,ON,Profertil,,0.39,149524.9215,,,Titulos de Deuda en Dolar Estadounidense MEP,30
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,0.07,26837.8064,,,Certificados de Participacion Argentina,37
+p,Novus Income Dólares,Novus,RF USD Disc,49.2067,0.8399,5,,,,
+p,Ualintec Cobertura,Ualá,RF USD Linked,46.6975,0.6998,2,,,,
+p,MEGAQM Ahorro Dólares,MegaQM,RF USD Disc,30.667,0.4639,4,,,,
+p,Tandem Global,Tandem Capi..,RF USD Disc,29.1102,0.442,6,,,,
+p,Pellegrini Renta Dolares,Pellegrini,RF USD Disc,29.0335,0.4907,3,,,,
+p,Novus Capital,Novus,RM y Otros USD,26.7609,0.4164,8,,,,
+p,Pionero Dólar Dinámico,Macro,RF USD Disc,25.9671,0.5252,1,,,,
+p,Allaria Dólar Retorno Total,Allaria,RM y Otros USD,25.9671,0.4698,1,,,,

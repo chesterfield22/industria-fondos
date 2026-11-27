@@ -1,0 +1,72 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Fundcorp Long Performance,,,,,,,,
+m,gerente,CMF Asset Management S.A.U.,,,,,,,,
+m,depositaria,Banco C.M.F. S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS CER,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,7709681654,,,,,,,,
+m,aum_planilla,7709681654,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63979,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,106.91,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,6.84,,,,,,,,
+m,top1,19.98,,,,,,,,
+m,top5,67.13,,,,,,,,
+m,top10,97.09,,,,,,,,
+m,hhi_especies,1234.4996,,,,,,,,
+m,n_emisores,7,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,90.03,,,,,,,,
+m,hhi_emisores,8187.9172,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,90.03,11,,,,,,,
+t,Pase,6.84,1,,,,,,,
+t,Plazo fijo,5.23,1,,,,,,,
+t,FCI,2.56,1,,,,,,,
+t,ON,1.31,2,,,,,,,
+t,Fideicomiso financiero,0.93,1,,,,,,,
+c,ARS,105.97,,,,,,,,
+c,sin dato,0.93,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,91.34,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,12.08,,,,,,,,
+r,Certificados de Participacion Argentina,3.49,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),6.91,,,,,,,,
+e,Bono del Tesoro Nacional TZXO7,Soberano,Tesoro Nacional,ARS,19.98,1540394395,,,Titulos de Deuda en Peso Argentina,84
+e,Bono Boncer TZXD7,Soberano,Tesoro Nacional,ARS,18.8,1449420151,,,Titulos de Deuda en Peso Argentina,165
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,11.4,878903709,,,Titulos de Deuda en Peso Argentina,146
+e,Bono Boncer TZXA7,Soberano,Tesoro Nacional,ARS,10.11,779448815,,,Titulos de Deuda en Peso Argentina,17
+e,Pase Colocador ARS BYMA,Pase,Pase BYMA,ARS,6.84,527342225,,,Operaciones a Plazo en Peso Argentina,11
+e,Bono Boncer 2028 TZXM8,Soberano,Tesoro Nacional,ARS,6.82,525800289,,,Titulos de Deuda en Peso Argentina,64
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,6.79,523487384,,,Titulos de Deuda en Peso Argentina,82
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,6.35,489564785,,,Titulos de Deuda en Peso Argentina,61
+e,Pzo Fi $ Bco Bibank,Plazo fijo,Banco Bibank,ARS,5.23,403216351,,,Operaciones a Plazo en Peso Argentina,12
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,4.77,367751815,,,Titulos de Deuda en Peso Argentina,128
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,3.08,237458195,,,Titulos de Deuda en Peso Argentina,159
+e,FCI Lombard Renta en $,FCI,Lombard Renta en $,ARS,2.56,197367850,,,Certificados de Participacion Argentina,29
+e,Bono Boncer TXMJ9,Soberano,Tesoro Nacional,ARS,1.22,94058116,,,Titulos de Deuda en Peso Argentina,51
+e,FF Cedulas Hipotecarias Arg. S1B,Fideicomiso financiero,Cedulas Hipotecarias Arg,,0.93,71700039,,,Certificados de Participacion Argentina,2
+e,ON FCA Comp. Finac CL 22 S1,ON,FCA Comp. Finac,ARS,0.88,67845199,,,Titulos de Deuda en Peso Argentina,7
+e,Bono del Tesoro Nacional TMG28,Soberano,Tesoro Nacional,ARS,0.71,54738740,,,Titulos de Deuda en Peso Argentina,61
+e,ON GEMSA 18,ON,GEMSA,ARS,0.43,33151631,,,Titulos de Deuda en Peso Argentina,9
+p,Consultatio Global,Consultatio,RF MULT Disc,57.7549,0.8449,5,,,,
+p,Fima Renta Plus,Galicia,RF ARS CER,52.6987,0.6849,5,,,,
+p,Consultatio Deuda Argentina,Consultatio,RF ARS CER,51.4032,0.8075,4,,,,
+p,Consultatio One Ahorro,Consultatio,RF ARS CER,51.4032,0.7603,4,,,,
+p,Consultatio Tactico,Consultatio,RF MULT Disc,51.4032,0.7556,4,,,,
+p,Superfondo Renta $,Santander,RF ARS Disc,49.7788,0.7211,5,,,,
+p,Fima Renta Pesos,Galicia,RF ARS CER,49.0198,0.7875,4,,,,
+p,Consultatio SMSV Renta en Pesos,Consultatio,RF MULT Disc,45.8114,0.6433,5,,,,

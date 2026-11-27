@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Allaria Patrimonio IV,,,,,,,,
+m,gerente,Allaria Fondos Administrados S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,171374388534,,,,,,,,
+m,aum_planilla,171374388534,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/83991,,,,,,,,
+m,n_especies,16,,,,,,,,
+m,activos_pn,169.58,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,29.51,,,,,,,,
+m,top5,106.99,,,,,,,,
+m,top10,144.92,,,,,,,,
+m,hhi_especies,2879.9703,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,81.84,,,,,,,,
+m,hhi_emisores,7608.3465,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,FCI,87.73,11,,,,,,,
+t,Soberano,81.84,5,,,,,,,
+c,ARS,87.68,,,,,,,,
+c,sin dato,81.89,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,81.85,,,,,,,,
+r,Certificados de Participacion Argentina,87.73,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),69.58,,,,,,,,
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,29.51,50572582056,,,Titulos de Deuda en Peso Argentina,80
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,27.42,46990857336,,,Titulos de Deuda en Peso Argentina,103
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,17.96,30778840181,,,Titulos de Deuda en Peso Argentina,75
+e,FCI Cocos Ahorro - Clase C,FCI,Cocos Ahorro,,17.51,30007655432,,,Certificados de Participacion Argentina,32
+e,FCI Adcap Ahorro Pesos - Clase C,FCI,Adcap Ahorro Pesos,,14.59,25003523287,,,Certificados de Participacion Argentina,15
+e,FCI Schroder Liquidez - Clase B,FCI,Schroder Liquidez,,11.67,19999391142,,,Certificados de Participacion Argentina,44
+e,FCI Toronto T Ahorro B,FCI,Toronto T Ahorro B,,7,11996207197,,,Certificados de Participacion Argentina,10
+e,FCI SBS Ahorro Pesos Cl B,FCI,SBS Ahorro Pesos Cl B,,7,11996207197,,,Certificados de Participacion Argentina,46
+e,FCI ST Zero - Clase B,FCI,ST Zero,,6.42,11002235744,,,Certificados de Participacion Argentina,15
+e,FCI Premier Renta CP $ CC,FCI,Premier Renta CP $ CC,ARS,5.84,10008264290,,,Certificados de Participacion Argentina,27
+e,FCI Max Money Market - Clase B,FCI,Max Money Market,,5.32,9117117470,,,Certificados de Participacion Argentina,12
+e,FCI Gainvest Pesos - Clase B,FCI,Gainvest Pesos,,4.79,8208833211,,,Certificados de Participacion Argentina,36
+e,FCI BAVSA Ahorro - Clase B,FCI,BAVSA Ahorro,,4.67,8003183945,,,Certificados de Participacion Argentina,18
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,3.48,5963828721,,,Titulos de Deuda en Peso Argentina,149
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,3.47,5946691282,,,Titulos de Deuda en Peso Argentina,166
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,2.92,5004132145,,,Certificados de Participacion Argentina,93
+p,Adcap Moneda,Adcap,RF USD Linked,42.8615,0.5459,6,,,,
+p,Allaria Patrimonio II,Allaria,RF USD Linked,33.6439,0.5709,3,,,,
+p,Allaria Agro,Allaria,RF MULT Disc,32.6224,0.5097,10,,,,
+p,DXA Multicobertura,Dracma,RM y Otros ARS,30.9986,0.543,3,,,,
+p,FBA Horizonte,BBVA,RF USD Linked,30.8604,0.5664,4,,,,
+p,Argenfunds Financiamiento Pesos II,Argenfunds,INFRA,30.4001,0.4826,4,,,,
+p,Delta Gestion XI,Delta,RF MULT Corp,29.383,0.4632,3,,,,
+p,Pionero Desarrollo,Macro,RF MULT Disc,29.2663,0.5369,3,,,,

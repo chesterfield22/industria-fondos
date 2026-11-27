@@ -1,0 +1,72 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Optimum Renta Mixta Flexible,,,,,,,,
+m,gerente,Santander Asset Management G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Santander Argentina S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,32849620399,,,,,,,,
+m,aum_planilla,32849620399,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63413,,,,,,,,
+m,n_especies,21,,,,,,,,
+m,activos_pn,100.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.02,,,,,,,,
+m,top1,19.25,,,,,,,,
+m,top5,58.01,,,,,,,,
+m,top10,81.76,,,,,,,,
+m,hhi_especies,912.6215,,,,,,,,
+m,n_emisores,16,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,32.37,,,,,,,,
+m,hhi_emisores,1532.8821,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,66.68,17,,,,,,,
+t,Soberano,32.37,3,,,,,,,
+t,FCI,0.94,1,,,,,,,
+c,ARS,99.05,,,,,,,,
+c,sin dato,0.94,,,,,,,,
+r,Disponibilidades,0.02,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,99.06,,,,,,,,
+r,Certificados de Participacion Argentina,0.94,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.02,,,,,,,,
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,19.25,6323551927,,,Titulos de Deuda en Peso Argentina,159
+e,ON PCR Clase K,ON,PCR,ARS,11.56,3797416118,,,Titulos de Deuda en Peso Argentina,26
+e,ON Telecom C19 TLCKO,ON,Telecom,ARS,9.4,3087864317,,,Titulos de Deuda en Peso Argentina,30
+e,ON Oldelval Clase 3,ON,Oldelval,ARS,9.14,3002455304,,,Titulos de Deuda en Peso Argentina,40
+e,Bono del Tesoro Nacional TZVD8,Soberano,Tesoro Nacional,ARS,8.66,2844777127,,,Titulos de Deuda en Peso Argentina,56
+e,ON Genneia Clase 42,ON,Genneia,ARS,5.37,1764024615,,,Titulos de Deuda en Peso Argentina,12
+e,ON CNH Arg. C10,ON,CNH Arg,ARS,4.69,1540647197,,,Titulos de Deuda en Peso Argentina,13
+e,ON Petroqui C Rivadavia Clase Q,ON,Petroqui C Rivadavia,ARS,4.65,1527507349,,,Titulos de Deuda en Peso Argentina,12
+e,ON Cresud Clase 50,ON,Cresud,ARS,4.58,1504512614,,,Titulos de Deuda en Peso Argentina,19
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,4.46,1465093070,,,Titulos de Deuda en Peso Argentina,250
+e,ON CGC C 39,ON,CGC,ARS,4.25,1396108867,,,Titulos de Deuda en Peso Argentina,34
+e,ON P. Aconcagua Energia C19,ON,P. Aconcagua Energia,ARS,4.11,1350119398,,,Titulos de Deuda en Peso Argentina,56
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,2.15,706266839,,,Titulos de Deuda en Peso Argentina,67
+e,ON Rizobacter S 11 CA,ON,Rizobacter,ARS,1.54,505884154,,,Titulos de Deuda en Peso Argentina,5
+e,ON Vista Gas y Oil Arg C18,ON,Vista Gas y Oil Arg,ARS,1.4,459894686,,,Titulos de Deuda en Peso Argentina,42
+e,ON Genneia Clase 37,ON,Genneia,ARS,1.06,348205976,,,Titulos de Deuda en Peso Argentina,23
+e,ON Refi Pampa S3 B,ON,Refi Pampa,ARS,1.01,331781166,,,Titulos de Deuda en Peso Argentina,11
+e,ON Loma Negra C7,ON,Loma Negra,ARS,0.97,318641318,,,Titulos de Deuda en Peso Argentina,30
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,0.94,308786432,,,Certificados de Participacion Argentina,93
+e,ON Telecom C12 TLCDO,ON,Telecom,ARS,0.47,154393216,,,Titulos de Deuda en Peso Argentina,29
+e,ON Pampa Energia C25,ON,Pampa Energia,ARS,0.33,108403747,,,Titulos de Deuda en Peso Argentina,19
+p,Superfondo Renta Mixta,Santander,RF MULT Disc,40.0481,0.6005,16,,,,
+p,Optimum Global Balanced,Santander,RM y Otros ARS,32.9455,0.3428,6,,,,
+p,Toronto Trust Gestión,Investis,RM y Otros ARS,28.2031,0.3684,4,,,,
+p,Super Bonos,Santander,RF USD Linked,27.6765,0.3561,12,,,,
+p,BM Active Renta Fija Argentina,Bull Market,RF ARS CER,23.7124,0.4873,2,,,,
+p,ACA Valores Retorno Total,Schroder,RF MULT Disc,23.7124,0.4407,2,,,,
+p,Fima Retorno Total,Galicia,RF ARS Disc,23.7124,0.4329,2,,,,
+p,GSS Retorno Total,Grupo SS,RF MULT Disc,23.7124,0.4165,2,,,,

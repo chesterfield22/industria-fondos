@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,GMC Retorno Total IV,,,,,,,,
+m,gerente,GMC Asset Management S.A.U.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,4482042492,,,,,,,,
+m,aum_planilla,4482042492,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87964,,,,,,,,
+m,n_especies,13,,,,,,,,
+m,activos_pn,71.62,,,,,,,,
+m,pasivos_cnv,28.38,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,10.28,,,,,,,,
+m,top5,43.62,,,,,,,,
+m,top10,65.22,,,,,,,,
+m,hhi_especies,498.9858,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Banco Provincia,,,,,,,,
+m,emisor_top_pct,10.28,,,,,,,,
+m,hhi_emisores,523.689,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,53.97,9,,,,,,,
+t,Subsoberano,7.95,1,,,,,,,
+t,Soberano,7.83,2,,,,,,,
+t,FCI,1.87,1,,,,,,,
+c,ARS,69.75,,,,,,,,
+c,sin dato,1.87,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,69.75,,,,,,,,
+r,Certificados de Participacion Argentina,1.87,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,28.38,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-28.38,,,,,,,,
+e,ON Banco Prov Clase 6,ON,Banco Provincia,ARS,10.28,460753968,,,Titulos de Deuda en Peso Argentina,43
+e,ON Banco de Galicia 32 BYY1O,ON,Banco de Galicia,ARS,9.35,419070973,,,Titulos de Deuda en Peso Argentina,44
+e,ON BBVA Frances Cl 47,ON,BBVA Frances,ARS,9.32,417726360,,,Titulos de Deuda en Peso Argentina,45
+e,Letra Prov Bs As PBA27,Subsoberano,Prov. Buenos Aires,ARS,7.95,356322378,,,Titulos de Deuda en Peso Argentina,38
+e,ON Banco Nacion Argentina Clase 1,ON,Banco Nacion Argentina,ARS,6.72,301193255,,,Titulos de Deuda en Peso Argentina,61
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,5.64,252787197,,,Titulos de Deuda en Peso Argentina,159
+e,ON Arcor C3,ON,Arcor,ARS,4.65,208414976,,,Titulos de Deuda en Peso Argentina,35
+e,ON Santander Rio S 31,ON,Santander Rio,ARS,4.51,202140116,,,Titulos de Deuda en Peso Argentina,40
+e,ON Pyme Urbano Express Argentina S1,ON,Pyme Urbano Express Argentina,ARS,3.42,153285853,,,Titulos de Deuda en Peso Argentina,20
+e,ON Grupo ST C18,ON,Grupo ST,ARS,3.38,151493036,,,Titulos de Deuda en Peso Argentina,14
+e,ON ICBC Clase 5 110327,ON,ICBC,ARS,2.34,104879794,,,Titulos de Deuda en Peso Argentina,36
+e,Bono del Tesoro Nacional TMG27,Soberano,Tesoro Nacional,ARS,2.19,98156731,,,Titulos de Deuda en Peso Argentina,61
+e,FCI Adcap Ahorro Pesos - Clase I,FCI,Adcap Ahorro Pesos,,1.87,83814195,,,Certificados de Participacion Argentina,47
+p,Adcap Balanceado XIII,Adcap,RF ARS Disc,32.9467,0.4639,6,,,,
+p,GSS II,Grupo SS,RF ARS Disc,28.8577,0.374,5,,,,
+p,Cocos Rendimiento,Cocos,T+1,25.834,0.4759,5,,,,
+p,Toronto Trust Balanceado,Investis,RF ARS Disc,24.1739,0.4753,5,,,,
+p,GSS I,Grupo SS,RF ARS Disc,24.1459,0.2708,5,,,,
+p,Consultatio Multiestrategia,Consultatio,RF MULT Corp,21.9363,0.2934,4,,,,
+p,Compass Opportunity,Investis,RF MULT Disc,21.6148,0.2717,5,,,,
+p,MEGAQM Sustentable ASG,MegaQM,ASG,20.9299,0.3229,2,,,,

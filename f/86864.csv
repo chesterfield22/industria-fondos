@@ -1,0 +1,57 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Delta Dólares,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Plazo Fijo,,,,,,,,
+m,subtipo,MM USD Clásico,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,62948750,,,,,,,,
+m,aum_planilla,62948750,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86864,,,,,,,,
+m,n_especies,9,,,,,,,,
+m,activos_pn,100.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,48.53,,,,,,,,
+m,top1,16.88,,,,,,,,
+m,top5,63.45,,,,,,,,
+m,top10,71.56,,,,,,,,
+m,hhi_especies,939.8152,,,,,,,,
+m,n_emisores,9,,,,,,,,
+m,emisor_top,Caución BYMA,,,,,,,,
+m,emisor_top_pct,16.88,,,,,,,,
+m,hhi_emisores,939.8152,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Plazo fijo,51.5,7,,,,,,,
+t,Caución,20.06,2,,,,,,,
+c,USD,71.56,,,,,,,,
+r,Disponibilidades,28.47,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,71.55,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.02,,,,,,,,
+e,Caucion Colocadora U$S BYMA,Caución,Caución BYMA,USD,16.88,10625749,,,Operaciones a Plazo en Dolar Estadounidense,35
+e,Pzo Fi U$S Bco Patagonia,Plazo fijo,Banco Patagonia,USD,15.89,10002556,,,Operaciones a Plazo en Dolar Estadounidense,23
+e,Pzo Fi U$S Bco Galicia,Plazo fijo,Banco Galicia,USD,13.99,8806530,,,Operaciones a Plazo en Dolar Estadounidense,20
+e,Pzo Fi U$S Bco Nacion,Plazo fijo,Banco Nacion,USD,13.19,8302940,,,Operaciones a Plazo en Dolar Estadounidense,40
+e,Pzo Fi U$S Bco Supervielle,Plazo fijo,Banco Supervielle,USD,3.5,2203206,,,Operaciones a Plazo en Dolar Estadounidense,30
+e,Caucion Colocadora U$S MAE,Caución,Caución MAE,USD,3.18,2001770,,,Operaciones a Plazo en Dolar Estadounidense,4
+e,Pzo Fi U$S Bco Hipotecario,Plazo fijo,Banco Hipotecario,USD,2.54,1598898,,,Operaciones a Plazo en Dolar Estadounidense,9
+e,Pzo Fi U$S Nvo Bco Indus,Plazo fijo,Nvo Bco Indus,USD,1.91,1202321,,,Operaciones a Plazo en Dolar Estadounidense,16
+e,Pzo Fi U$S Bco CMF,Plazo fijo,Banco CMF,USD,0.48,302154.0008,,,Operaciones a Plazo en Dolar Estadounidense,12
+p,Stonex Dólares Premium,StoneX,MM USD Clásico,79.9974,0.9457,5,,,,
+p,IAM Liquidez en Dólares,BIND,MM USD Clásico,65.1227,0.8417,6,,,,
+p,Pionero Money Market Dólar,Macro,MM USD Clásico,63.827,0.8767,6,,,,
+p,IAM Retorno Dólares,BIND,MM USD Clásico,63.7598,0.7972,5,,,,
+p,Fima Premium Dólares,Galicia,MM USD Clásico,61.98,0.7507,8,,,,
+p,Bull Market Liquidez Dólar,Bull Market,MM USD Clásico,61.2142,0.7449,4,,,,
+p,Toronto Trust Money Market Dólar,Investis,MM USD Clásico,60.3269,0.7625,4,,,,
+p,1822 Raices Ahorro Dólares,Provinfondos,MM USD Clásico,55.5763,0.7478,8,,,,

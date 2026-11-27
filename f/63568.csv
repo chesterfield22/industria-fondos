@@ -1,0 +1,124 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Quiron PYMEs,,,,,,,,
+m,gerente,Quiron Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,PYME,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1161580166,,,,,,,,
+m,aum_planilla,1161580166,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63568,,,,,,,,
+m,n_especies,68,,,,,,,,
+m,activos_pn,100.92,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,11.66,,,,,,,,
+m,top1,13.12,,,,,,,,
+m,top5,34.42,,,,,,,,
+m,top10,55.01,,,,,,,,
+m,hhi_especies,434.6219,,,,,,,,
+m,n_emisores,7,,,,,,,,
+m,emisor_top,Caución Merval,,,,,,,,
+m,emisor_top_pct,8.64,,,,,,,,
+m,hhi_emisores,81.4329,,,,,,,,
+m,sin_emisor_pct,84.44,,,,,,,,
+t,Cheque,71.32,60,,,,,,,
+t,Pagaré,13.12,1,,,,,,,
+t,Caución,8.64,1,,,,,,,
+t,Soberano,2.24,1,,,,,,,
+t,FCI,1.12,1,,,,,,,
+t,ON,1.07,3,,,,,,,
+t,Acción,0.12,1,,,,,,,
+c,ARS,97.63,,,,,,,,
+r,Disponibilidades,3.02,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,87.79,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,8.64,,,,,,,,
+r,Participaciones Accionarias Argentina,0.12,,,,,,,,
+r,Certificados de Participacion Argentina,1.12,,,,,,,,
+r,Otros Activos,0.23,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.92,,,,,,,,
+e,Pagare #UMV110370022,Pagaré,,ARS,13.12,152399318,,,Titulos de Deuda en Peso Argentina,1
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,8.64,100360526,,,Operaciones a Plazo en Peso Argentina,195
+e,Cheque E *MAV201101812,Cheque,,ARS,4.23,49134841,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251101927,Cheque,,ARS,4.22,49018683,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV301102216,Cheque,,ARS,4.21,48902525,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171201172,Cheque,,ARS,4.13,47973261,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV211201169,Cheque,,ARS,4.13,47973261,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV191201358,Cheque,,ARS,4.13,47973261,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV261201635,Cheque,,ARS,4.1,47624787,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV241200633,Cheque,,ARS,4.1,47624787,,,Titulos de Deuda en Peso Argentina,1
+e,Lecer X30N6,Soberano,Tesoro Nacional,ARS,2.24,26019396,,,Titulos de Deuda en Peso Argentina,92
+e,Cheque E *AFD080200016,Cheque,,ARS,2,23231603,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV211101462,Cheque,,ARS,1.89,21953865,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FIN010100021,Cheque,,ARS,1.75,20327653,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NEU280100023,Cheque,,ARS,1.73,20095337,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NEU280100022,Cheque,,ARS,1.73,20095337,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171101378,Cheque,,ARS,1.61,18701441,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV171101377,Cheque,,ARS,1.61,18701441,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque Gar.ARPY 00011,Cheque,,ARS,1.55,18004493,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV281101769,Cheque,,ARS,1.54,17888335,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV051201614,Cheque,,ARS,1.46,16959070,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *AVU290100043,Cheque,,ARS,1.42,16494438,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ACI310300508,Cheque,,ARS,1.16,13474330,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Premier Renta CP $ CC,FCI,Premier Renta CP $ CC,ARS,1.12,13009698,,,Certificados de Participacion Argentina,27
+e,Cheque E *NEU151100043,Cheque,,ARS,0.85,9873431,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NEU271100025,Cheque,,ARS,0.85,9873431,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NEU291100025,Cheque,,ARS,0.84,9757273,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NEU301100042,Cheque,,ARS,0.84,9757273,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NEU011200017,Cheque,,ARS,0.84,9757273,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *RIG180100047,Cheque,,ARS,0.81,9408799,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *RIG190100044,Cheque,,ARS,0.81,9408799,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ARP190300289,Cheque,,ARS,0.78,9060325,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *DOM301200030,Cheque,,ARS,0.62,7201797,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *DOM301100026,Cheque,,ARS,0.62,7201797,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *DOM300100019,Cheque,,ARS,0.62,7201797,,,Titulos de Deuda en Peso Argentina,1
+e,ON Telecom 9.5% 2031,ON,Telecom,ARS,0.6,6969481,,,Titulos de Deuda en Peso Argentina,38
+e,Cheque E *NOV191200048,Cheque,,ARS,0.56,6504849,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NOV191200049,Cheque,,ARS,0.56,6504849,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NOV191200047,Cheque,,ARS,0.56,6504849,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAVR211200063,Cheque,,ARS,0.5,5807901,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *POT110300113,Cheque,,ARS,0.49,5691743,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *POT090300070,Cheque,,ARS,0.49,5691743,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAVR200100141,Cheque,,ARS,0.48,5575585,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAVR220200052,Cheque,,ARS,0.47,5459427,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAVR220300041,Cheque,,ARS,0.45,5227111,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NOV191100047,Cheque,,ARS,0.44,5110953,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NOV191100045,Cheque,,ARS,0.44,5110953,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAVR220400124,Cheque,,ARS,0.44,5110953,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NOV191100046,Cheque,,ARS,0.44,5110953,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ARP200200478,Cheque,,ARS,0.4,4646321,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ACI070400240,Cheque,,ARS,0.39,4530163,,,Titulos de Deuda en Peso Argentina,1
+e,ON Impsa Clase 7 2036,ON,Impsa,ARS,0.35,4065531,,,Titulos de Deuda en Peso Argentina,17
+e,Cheque E *ARP060200246,Cheque,,ARS,0.32,3717057,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ARP300100378,Cheque,,ARS,0.32,3717057,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *NEU201200030,Cheque,,ARS,0.25,2903950,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FIN170100041,Cheque,,ARS,0.25,2903950,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FIN170200043,Cheque,,ARS,0.24,2787792,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FIN150300049,Cheque,,ARS,0.23,2671634,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FIN140400042,Cheque,,ARS,0.22,2555476,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *FIN170300043,Cheque,,ARS,0.21,2439318,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *INP220200086,Cheque,,ARS,0.2,2323160,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *INP230200117,Cheque,,ARS,0.2,2323160,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *INP190200060,Cheque,,ARS,0.2,2323160,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *INP180200061,Cheque,,ARS,0.2,2323160,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *ARP240200323,Cheque,,ARS,0.16,1858528,,,Titulos de Deuda en Peso Argentina,1
+e,ON MSU S11,ON,MSU,ARS,0.12,1393896,,,Titulos de Deuda en Peso Argentina,11
+e,Ovoprot International S.A.,Acción,Ovoprot International,ARS,0.12,1393896,,,Participaciones Accionarias Argentina,2
+e,Cheque E *FIN150100069,Cheque,,ARS,0.03,348474.0497,,,Titulos de Deuda en Peso Argentina,1
+p,Schroder Corto Plazo,Schroder,RF MULT Disc,11.1441,0.3667,2,,,,
+p,Super Ahorro Plus,Santander,MM ARS Dinámico,11.1441,0.3099,2,,,,
+p,GMC Multiestrategia II,GMC,RM y Otros ARS,11.1441,0.2471,2,,,,
+p,Wise Capital Saving,Wise,T+1,11.1441,0.2462,2,,,,
+p,Superfondo Renta Balance III,Santander,RM y Otros ARS,11.1441,0.235,2,,,,
+p,Insider Retorno Estratégico,Dracma,RM y Otros ARS,10.9188,0.2797,2,,,,
+p,Quiron Fixed Income,Quiron,RF MULT Disc,9.6752,0.3522,2,,,,
+p,Allaria Dinámico,Allaria,RM y Otros ARS,9.5163,0.2083,2,,,,

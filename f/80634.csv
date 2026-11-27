@@ -1,0 +1,70 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,MEGAQM Latam Corporativo,,,,,,,,
+m,gerente,MEGA QM S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD GL Ex ARG,,,,,,,,
+m,moneda_fondo,Dolar Estadounidense,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,8007012,,,,,,,,
+m,aum_planilla,8248773,,,,,,,,
+m,dif_pn_aum,-0.0293,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/80634,,,,,,,,
+m,n_especies,18,,,,,,,,
+m,activos_pn,105.77,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,26.03,,,,,,,,
+m,top1,25.6,,,,,,,,
+m,top5,53.37,,,,,,,,
+m,top10,81.66,,,,,,,,
+m,hhi_especies,1090.5962,,,,,,,,
+m,n_emisores,17,,,,,,,,
+m,emisor_top,Caución BYMA,,,,,,,,
+m,emisor_top_pct,25.6,,,,,,,,
+m,hhi_emisores,1109.8228,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Corporativo exterior,68.79,14,,,,,,,
+t,Caución,25.6,1,,,,,,,
+t,Otro título de deuda,7.23,1,,,,,,,
+t,FCI,3.7,2,,,,,,,
+c,USD,105.32,,,,,,,,
+r,Disponibilidades,0.43,,,,,,,,
+r,Titulos de Deuda en Dolar Estadounidense,76.04,,,,,,,,
+r,Operaciones a Plazo en Dolar Estadounidense,25.6,,,,,,,,
+r,Certificados de Participacion Argentina,3.7,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),5.77,,,,,,,,
+e,Caucion Colocadora U$S BYMA,Caución,Caución BYMA,USD,25.6,2049795,,,Operaciones a Plazo en Dolar Estadounidense,35
+e,BC BTG 080429,Corporativo exterior,BTG,USD,7.26,581309.0937,,,Titulos de Deuda en Dolar Estadounidense,13
+e,Bono Corporativo 3.625% 010827,Otro título de deuda,Bono Corporativo,USD,7.23,578906.99,,,Titulos de Deuda en Dolar Estadounidense,24
+e,BC Bco Credito e Inv 2027,Corporativo exterior,Banco Credito e Inv,USD,6.97,558088.758,,,Titulos de Deuda en Dolar Estadounidense,16
+e,BC Enel Chile 160628,Corporativo exterior,Enel Chile,USD,6.31,505242.4768,,,Titulos de Deuda en Dolar Estadounidense,12
+e,BC Banco BTG Pactual 270131,Corporativo exterior,Banco BTG Pactual,USD,6.07,486025.6472,,,Titulos de Deuda en Dolar Estadounidense,4
+e,BC Banco Do Brasil 2029,Corporativo exterior,Banco Do Brasil,USD,5.94,475616.5312,,,Titulos de Deuda en Dolar Estadounidense,15
+e,BC Cel Arauco 110227,Corporativo exterior,Cel Arauco,USD,5.9,472413.7263,,,Titulos de Deuda en Dolar Estadounidense,7
+e,BC Inversiones CMPC 2027,Corporativo exterior,Inversiones CMPC,USD,5.63,450794.7931,,,Titulos de Deuda en Dolar Estadounidense,9
+e,BC Celulosa Arauco y Constitución 4.25%,Corporativo exterior,Celulosa Arauco y Constitución,USD,4.75,380333.0847,,,Titulos de Deuda en Dolar Estadounidense,5
+e,BC Centrales Elec. Brasileras 2030,Corporativo exterior,Centrales Elec. Brasileras,USD,4.73,378731.6823,,,Titulos de Deuda en Dolar Estadounidense,8
+e,BC Banco Santander Chile 3.177% 271031,Corporativo exterior,Banco Santander Chile,USD,3.91,313074.1813,,,Titulos de Deuda en Dolar Estadounidense,7
+e,BC Bradesco 2030,Corporativo exterior,Bradesco,USD,3.83,306668.5715,,,Titulos de Deuda en Dolar Estadounidense,6
+e,FCI Adcap Ahorro Dólares - Clase E,FCI,Adcap Ahorro Dólares,USD,3.03,242612.473,,,Certificados de Participacion Argentina,37
+e,BC Bradesco 2027,Corporativo exterior,Bradesco,USD,2.51,200976.009,,,Titulos de Deuda en Dolar Estadounidense,10
+e,BC Banco Votorantim 5.875%,Corporativo exterior,Banco Votorantim,USD,2.51,200976.009,,,Titulos de Deuda en Dolar Estadounidense,5
+e,BC Enap 2029,Corporativo exterior,Enap,USD,2.47,197773.2041,,,Titulos de Deuda en Dolar Estadounidense,10
+e,FCI IAM Liquidez en Dólares - Clase B,FCI,IAM Liquidez en Dólares,USD,0.67,53646.9825,,,Certificados de Participacion Argentina,13
+p,Lombard Renta Fija en Dolares,Patagonia,RF USD GL Ex ARG,46.4015,0.5326,11,,,,
+p,MEGAQM Renta Fija LATAM,MegaQM,RF USD GL Ex ARG,43.2627,0.4656,16,,,,
+p,Compass Renta Fija,Investis,RF USD GL Ex ARG,36.368,0.3087,10,,,,
+p,MAF Global,Mariva,RF USD GL Ex ARG,30.0565,0.5108,4,,,,
+p,Argenfunds Renta Capital,Argenfunds,RF USD GL Inc ARG,29.8426,0.2481,7,,,,
+p,Schroder Income,Schroder,RF USD GL Ex ARG,28.9608,0.2636,5,,,,
+p,Alpha Renta Fija Global,ICBC,RF USD GL Inc ARG,27.7293,0.2959,8,,,,
+p,Pellegrini Renta Dolares III,Pellegrini,RF USD corp loc,26.4314,0.4637,2,,,,

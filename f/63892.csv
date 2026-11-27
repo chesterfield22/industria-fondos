@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Toronto Trust Argentina 2021,,,,,,,,
+m,gerente,Investis Asset Management S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Banco Credito y Securitizacion S.A. (BACS),,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,7666909740,,,,,,,,
+m,aum_planilla,7666909740,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63892,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,100.83,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,2.48,,,,,,,,
+m,top1,17.81,,,,,,,,
+m,top5,66.77,,,,,,,,
+m,top10,94.85,,,,,,,,
+m,hhi_especies,1129.3033,,,,,,,,
+m,n_emisores,12,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,21.13,,,,,,,,
+m,hhi_emisores,1371.2071,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Acción,76.64,10,,,,,,,
+t,Soberano,21.13,3,,,,,,,
+t,FCI,0.48,1,,,,,,,
+c,ARS,97.77,,,,,,,,
+c,sin dato,0.48,,,,,,,,
+r,Disponibilidades,2.48,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,21.13,,,,,,,,
+r,Participaciones Accionarias Argentina,76.64,,,,,,,,
+r,Certificados de Participacion Argentina,0.48,,,,,,,,
+r,Otros Activos,0.1,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.83,,,,,,,,
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,17.81,1365476625,,,Participaciones Accionarias Argentina,129
+e,YPF S.A.,Acción,YPF,ARS,16.77,1285740763,,,Participaciones Accionarias Argentina,122
+e,Bonos Rep Argentina GD35,Soberano,Tesoro Nacional,ARS,12.69,972930846,,,Titulos de Deuda en Peso Argentina,54
+e,Cresud S.A.,Acción,Cresud,ARS,11.39,873261019,,,Participaciones Accionarias Argentina,38
+e,Inversiones y Representaciones S.A. (IRSA),Acción,Inversiones y Representaciones S.A. (IRSA),ARS,8.11,621786380,,,Participaciones Accionarias Argentina,35
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,7.3,559684411,,,Participaciones Accionarias Argentina,85
+e,Aluar Aluminio Argentino S.A.I.C.,Acción,Aluar Aluminio Argentino S.A.I.C,ARS,6.29,482248623,,,Participaciones Accionarias Argentina,56
+e,Bonos Rep Argentina GD38,Soberano,Tesoro Nacional,ARS,6.21,476115095,,,Titulos de Deuda en Peso Argentina,38
+e,Loma Negra S.A.,Acción,Loma Negra,ARS,5.38,412479744,,,Participaciones Accionarias Argentina,83
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,2.9,222340382,,,Participaciones Accionarias Argentina,104
+e,Bonos Rep Argentina GD41,Soberano,Tesoro Nacional,ARS,2.23,170972087,,,Titulos de Deuda en Peso Argentina,38
+e,Banco Hipotecario S.A.,Acción,Banco Hipotecario,ARS,0.59,45234767,,,Participaciones Accionarias Argentina,8
+e,FCI GMC Money Market - Clase C,FCI,GMC Money Market,,0.48,36801167,,,Certificados de Participacion Argentina,22
+e,San Miguel S.A.,Acción,San Miguel,ARS,0.1,7666910,,,Participaciones Accionarias Argentina,4
+p,Gainvest Capital,StoneX,RF MULT Disc,49.7744,0.6318,5,,,,
+p,Axis Brio Valores I,Axis,RV ARG Otros,49.2315,0.6142,9,,,,
+p,ConoSur Visus,Cono Sur,RM y Otros ARS,47.1848,0.589,6,,,,
+p,1810 Renta Variable Argentina,Proahorro,RV ARG Merval,46.871,0.6316,7,,,,
+p,Allaria Acciones,Allaria,RV ARG Merval,45.0672,0.5882,6,,,,
+p,Schroder Renta Variable,Schroder,RV ARG Merval,44.3593,0.5646,5,,,,
+p,Pionero Acciones,Macro,RV ARG Merval,44.3018,0.5929,8,,,,
+p,Delta Select,Delta,RV ARG Merval,44.1828,0.5979,7,,,,

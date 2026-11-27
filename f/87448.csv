@@ -1,0 +1,71 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,IOL Portafolio Potenciado,,,,,,,,
+m,gerente,Adcap Asset Management S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,25932255021,,,,,,,,
+m,aum_planilla,25932255021,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87448,,,,,,,,
+m,n_especies,17,,,,,,,,
+m,activos_pn,110.83,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.33,,,,,,,,
+m,top1,21.19,,,,,,,,
+m,top5,57.57,,,,,,,,
+m,top10,84.04,,,,,,,,
+m,hhi_especies,1059.5234,,,,,,,,
+m,n_emisores,14,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,24.55,,,,,,,,
+m,hhi_emisores,1357.2121,,,,,,,,
+m,sin_emisor_pct,7.41,,,,,,,,
+t,Acción,30.2,6,,,,,,,
+t,Cedear,27.15,6,,,,,,,
+t,Soberano,24.55,3,,,,,,,
+t,FCI,21.19,1,,,,,,,
+t,Pagaré,7.41,1,,,,,,,
+c,ARS,89.31,,,,,,,,
+c,sin dato,21.19,,,,,,,,
+r,Disponibilidades,0.33,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,31.96,,,,,,,,
+r,Participaciones Accionarias Argentina,57.35,,,,,,,,
+r,Certificados de Participacion Argentina,21.19,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),10.83,,,,,,,,
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,21.19,5495044839,,,Certificados de Participacion Argentina,96
+e,Bono del Tesoro Nacional T31Y7,Soberano,Tesoro Nacional,ARS,13.91,3607176673,,,Titulos de Deuda en Peso Argentina,82
+e,Cedear Google,Cedear,Google,ARS,8.04,2084953304,,,Participaciones Accionarias Argentina,30
+e,Pagare #MAV050170082,Pagaré,,ARS,7.41,1921580097,,,Titulos de Deuda en Peso Argentina,1
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,7.02,1820444302,,,Participaciones Accionarias Argentina,93
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,6.46,1675223674,,,Participaciones Accionarias Argentina,117
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,5.4,1400341771,,,Titulos de Deuda en Peso Argentina,74
+e,Bonos Rep Argentina AL35,Soberano,Tesoro Nacional,ARS,5.24,1358850163,,,Titulos de Deuda en Peso Argentina,31
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,4.75,1231782114,,,Participaciones Accionarias Argentina,129
+e,Cedear Taiwan Semiconduct,Cedear,Taiwan Semiconduct,ARS,4.62,1198070182,,,Participaciones Accionarias Argentina,4
+e,YPF S.A.,Acción,YPF,ARS,4.58,1187697280,,,Participaciones Accionarias Argentina,122
+e,BBVA Argentina S.A.,Acción,BBVA Argentina,ARS,4.38,1135832770,,,Participaciones Accionarias Argentina,86
+e,Cedear NU Holdings Ltd,Cedear,NU Holdings Ltd,ARS,4.36,1130646319,,,Participaciones Accionarias Argentina,38
+e,Cedear Micron Technology,Cedear,Micron Technology,ARS,4.16,1078781809,,,Participaciones Accionarias Argentina,11
+e,Cedear Nvidia Corp.,Cedear,Nvidia Corp.,ARS,4.12,1068408907,,,Participaciones Accionarias Argentina,14
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,3.01,780560876,,,Participaciones Accionarias Argentina,104
+e,Cedear Mercado Libre,Cedear,Mercado Libre,ARS,1.85,479746718,,,Participaciones Accionarias Argentina,52
+p,BAVSA Renta Balanceado IX,BAVSA,RV ARG Merval,36.9969,0.3291,10,,,,
+p,MP Empresas Argentinas,Mercado Pago,RV ARG Rofex 20,31.4636,0.4201,7,,,,
+p,Delta Internacional,Delta,RV ARG Merval,30.5548,0.3187,8,,,,
+p,Pionero Retorno,Macro,RM y Otros ARS,30.4879,0.3317,6,,,,
+p,Superfondo Acciones,Santander,RV ARG Otros,29.5541,0.3089,8,,,,
+p,Ciclo Nova Value,Ciclo Nova,RV ARG Rofex 20,29.4244,0.351,8,,,,
+p,Bull Market Acciones Argentinas,Bull Market,RV ARG Merval,29.0045,0.3537,7,,,,
+p,Lombard Acciones Lideres,Patagonia,RV ARG Merval,28.9911,0.3434,7,,,,

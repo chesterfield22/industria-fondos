@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Axis Estrategia 13,,,,,,,,
+m,gerente,Axis S.G.F.C.I.S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,5966287638,,,,,,,,
+m,aum_planilla,5966287638,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86409,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,100.22,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.09,,,,,,,,
+m,top1,31.61,,,,,,,,
+m,top5,88.64,,,,,,,,
+m,top10,98.78,,,,,,,,
+m,hhi_especies,2273.0894,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,84.57,,,,,,,,
+m,hhi_emisores,7195.102,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,84.57,5,,,,,,,
+t,ON,5.96,2,,,,,,,
+t,Acción,5.92,6,,,,,,,
+t,FCI,3.69,1,,,,,,,
+c,ARS,96.45,,,,,,,,
+c,sin dato,3.69,,,,,,,,
+r,Disponibilidades,0.09,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,90.52,,,,,,,,
+r,Participaciones Accionarias Argentina,5.92,,,,,,,,
+r,Certificados de Participacion Argentina,3.69,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.22,,,,,,,,
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,31.61,1885943522,,,Titulos de Deuda en Peso Argentina,159
+e,Bono Boncer TZX28,Soberano,Tesoro Nacional,ARS,30.09,1795255950,,,Titulos de Deuda en Peso Argentina,128
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,17.11,1020831815,,,Titulos de Deuda en Peso Argentina,146
+e,Bono Boncer TX26,Soberano,Tesoro Nacional,ARS,5.72,341271653,,,Titulos de Deuda en Peso Argentina,63
+e,ON Bco Galicia Clase 16,ON,Banco Galicia,ARS,4.11,245214422,,,Titulos de Deuda en Peso Argentina,23
+e,FCI MEGAQM Pesos - Clase B,FCI,MEGAQM Pesos,,3.69,220156014,,,Certificados de Participacion Argentina,93
+e,YPF S.A.,Acción,YPF,ARS,2.43,144980790,,,Participaciones Accionarias Argentina,122
+e,ON Albanesi Energia Clase 17,ON,Albanesi Energia,ARS,1.85,110376321,,,Titulos de Deuda en Peso Argentina,1
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,1.3,77561739,,,Participaciones Accionarias Argentina,104
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,0.87,51906702,,,Participaciones Accionarias Argentina,117
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,0.76,45343786,,,Participaciones Accionarias Argentina,129
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,0.29,17302234,,,Participaciones Accionarias Argentina,93
+e,Ternium Argentina S.A.,Acción,Ternium Argentina,ARS,0.27,16108977,,,Participaciones Accionarias Argentina,85
+e,Bonos Rep Argentina GD38,Soberano,Tesoro Nacional,ARS,0.04,2386515,,,Titulos de Deuda en Peso Argentina,38
+p,Schroder Renta Fija,Schroder,RF ARS Disc,58.7786,0.7575,2,,,,
+p,Puente Retorno Pesos,Puente,RF ARS Disc,49.5166,0.6697,3,,,,
+p,Lombard Abierto Plus,Patagonia,RF ARS CER,43.6364,0.5987,3,,,,
+p,Consultatio Renta Mixta,Consultatio,RF MULT Disc,41.5699,0.7017,3,,,,
+p,Consultatio Renta Balanceada,Consultatio,RF ARS Disc,40.2806,0.4291,2,,,,
+p,Balanz Institucional,Balanz,RF ARS CER,40.1433,0.4987,3,,,,
+p,GSS Retorno Total,Grupo SS,RF MULT Disc,38.1124,0.6206,3,,,,
+p,Axis Estrategia 15,Axis,RF MULT Disc,37.5712,0.4913,2,,,,

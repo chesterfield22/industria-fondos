@@ -1,0 +1,62 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,BAVSA Global III,,,,,,,,
+m,gerente,BAVSA Fondos S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,21480104829,,,,,,,,
+m,aum_planilla,21480104829,,,,,,,,
+m,dif_pn_aum,-0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/86731,,,,,,,,
+m,n_especies,11,,,,,,,,
+m,activos_pn,100.18,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.01,,,,,,,,
+m,top1,21.63,,,,,,,,
+m,top5,76.54,,,,,,,,
+m,top10,100,,,,,,,,
+m,hhi_especies,1393.7778,,,,,,,,
+m,n_emisores,3,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,83.37,,,,,,,,
+m,hhi_emisores,7227.1394,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,83.37,8,,,,,,,
+t,ON,16.63,2,,,,,,,
+t,FCI,0.16,1,,,,,,,
+c,ARS,100,,,,,,,,
+c,sin dato,0.16,,,,,,,,
+r,Disponibilidades,0.01,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,100.01,,,,,,,,
+r,Certificados de Participacion Argentina,0.16,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.18,,,,,,,,
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,21.63,4646146674,,,Titulos de Deuda en Peso Argentina,166
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,14.94,3209127661,,,Titulos de Deuda en Peso Argentina,75
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,14.21,3052322896,,,Titulos de Deuda en Peso Argentina,142
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,13.39,2876186037,,,Titulos de Deuda en Peso Argentina,160
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,12.37,2657088967,,,Titulos de Deuda en Peso Argentina,149
+e,ON Credicuotas Consumo S20,ON,Credicuotas Consumo,ARS,9.69,2081422158,,,Titulos de Deuda en Peso Argentina,19
+e,ON Credicuotas Consumo S22,ON,Credicuotas Consumo,ARS,6.94,1490719275,,,Titulos de Deuda en Peso Argentina,8
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,4.89,1050377126,,,Titulos de Deuda en Peso Argentina,250
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,1.52,326497593,,,Titulos de Deuda en Peso Argentina,112
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,0.42,90216440,,,Titulos de Deuda en Peso Argentina,146
+e,FCI Allaria Ahorro - Clase C,FCI,Allaria Ahorro,,0.16,34368168,,,Certificados de Participacion Argentina,96
+p,BM Smart Corto Plazo,Bull Market,RF ARS Lecap,54.3607,0.7261,5,,,,
+p,Galileo Renta,Delta,RM y Otros ARS,52.9597,0.6976,7,,,,
+p,Cocos Crecimiento,Cocos,T+1,51.8742,0.6514,5,,,,
+p,Lombard Ahorro Plus II,Patagonia,Sin clasificar,51.3003,0.7033,4,,,,
+p,Alpha Renta Fija Serie 4,ICBC,RF ARS Lecap,47.619,0.6859,4,,,,
+p,Fima Ahorro Pesos,Galicia,T+1,47.537,0.7097,4,,,,
+p,Pionero Renta Pesos,Macro,RF ARS Lecap,47.3143,0.6928,3,,,,
+p,Consultatio Renta Local,Consultatio,RF ARS Lecap,47.3143,0.6776,3,,,,

@@ -1,0 +1,75 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Galileo Renta,,,,,,,,
+m,gerente,Delta Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,15432974719,,,,,,,,
+m,aum_planilla,15432974719,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/64008,,,,,,,,
+m,n_especies,22,,,,,,,,
+m,activos_pn,100.05,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.29,,,,,,,,
+m,top1,20.15,,,,,,,,
+m,top5,64.8,,,,,,,,
+m,top10,93.02,,,,,,,,
+m,hhi_especies,1095.897,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,92.92,,,,,,,,
+m,hhi_emisores,8644.098,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,92.92,13,,,,,,,
+t,Acción,3.63,6,,,,,,,
+t,ON,2.99,2,,,,,,,
+t,FCI,0.22,1,,,,,,,
+c,ARS,99.54,,,,,,,,
+c,sin dato,0.22,,,,,,,,
+r,Disponibilidades,0.29,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,95.91,,,,,,,,
+r,Participaciones Accionarias Argentina,3.63,,,,,,,,
+r,Certificados de Participacion Argentina,0.22,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.05,,,,,,,,
+e,Bono Dual TTD26,Soberano,Tesoro Nacional,ARS,20.15,3109744406,,,Titulos de Deuda en Peso Argentina,75
+e,Letra Tesoro Nac T30A7,Soberano,Tesoro Nacional,ARS,12.9,1990853739,,,Titulos de Deuda en Peso Argentina,112
+e,Letra Tamar TEM TMF27,Soberano,Tesoro Nacional,ARS,12.7,1959987789,,,Titulos de Deuda en Peso Argentina,142
+e,Bono del Tesoro Nacional T15E7,Soberano,Tesoro Nacional,ARS,9.71,1498541845,,,Titulos de Deuda en Peso Argentina,149
+e,Bono Boncer TZXS7,Soberano,Tesoro Nacional,ARS,9.34,1441439839,,,Titulos de Deuda en Peso Argentina,146
+e,Bono Boncer 2027 TZXM7,Soberano,Tesoro Nacional,ARS,7.51,1159016401,,,Titulos de Deuda en Peso Argentina,158
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,6.96,1074135040,,,Titulos de Deuda en Peso Argentina,160
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,6.65,1026292819,,,Titulos de Deuda en Peso Argentina,166
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,4.37,674420995,,,Titulos de Deuda en Peso Argentina,159
+e,ON NBD Chaco Clase 1,ON,NBD Chaco,ARS,2.73,421320210,,,Titulos de Deuda en Peso Argentina,12
+e,Lecap S29E7,Soberano,Tesoro Nacional,ARS,1.1,169762722,,,Titulos de Deuda en Peso Argentina,80
+e,Lecap S26F7,Soberano,Tesoro Nacional,ARS,1.04,160502937,,,Titulos de Deuda en Peso Argentina,86
+e,Bolsas y Mercados Argentinos S.A.,Acción,Bolsas y Mercados Argentinos,ARS,0.89,137353475,,,Participaciones Accionarias Argentina,77
+e,Banco Macro S.A.,Acción,Banco Macro,ARS,0.67,103400931,,,Participaciones Accionarias Argentina,93
+e,Grupo Financiero Galicia S.A.,Acción,Grupo Financiero Galicia,ARS,0.64,98771038,,,Participaciones Accionarias Argentina,117
+e,Capex S.A.,Acción,Capex,ARS,0.59,91054551,,,Participaciones Accionarias Argentina,10
+e,Transener S.A.,Acción,Transener,ARS,0.58,89511253,,,Participaciones Accionarias Argentina,84
+e,Bono Disc ARS Ley AR DICP,Soberano,Tesoro Nacional,ARS,0.48,74078279,,,Titulos de Deuda en Peso Argentina,59
+e,ON CGC C 39,ON,CGC,ARS,0.26,40125734,,,Titulos de Deuda en Peso Argentina,34
+e,Distribuidora de Gas del Centro S.A.,Acción,Distribuidora de Gas del Centro,ARS,0.26,40125734,,,Participaciones Accionarias Argentina,77
+e,FCI Pionero Pesos Plus - Clase B,FCI,Pionero Pesos Plus,,0.22,33952544,,,Certificados de Participacion Argentina,40
+e,Bonos Rep Argentina GD38,Soberano,Tesoro Nacional,ARS,0.01,1543297,,,Titulos de Deuda en Peso Argentina,38
+p,Argenfunds Ahorro Pesos,Argenfunds,T+1,62.6709,0.7935,7,,,,
+p,Argenfunds Renta Mixta,Argenfunds,RF ARS Lecap,57.7789,0.7847,6,,,,
+p,BAVSA Global III,BAVSA,RF MULT Disc,52.9597,0.6976,7,,,,
+p,Gainvest Renta Fija,StoneX,T+1,51.2129,0.6438,6,,,,
+p,Schroder Renta Plus,Schroder,T+1,44.8648,0.6036,5,,,,
+p,MP Ahorro,Mercado Pago,T+1,44.749,0.6754,6,,,,
+p,Chimpay Pesos Conservador,Chimpay,RF ARS Disc,44.1364,0.5181,9,,,,
+p,Crecer Renta Plus,Ciudad,RF ARS Disc,43.3804,0.4823,10,,,,

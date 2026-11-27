@@ -1,0 +1,66 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Numancia Pesos IV,,,,,,,,
+m,gerente,Zofingen Investment S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF MULT Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,39289343522,,,,,,,,
+m,aum_planilla,39289343522,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/87977,,,,,,,,
+m,n_especies,16,,,,,,,,
+m,activos_pn,100.04,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0,,,,,,,,
+m,top1,7.57,,,,,,,,
+m,top5,37.85,,,,,,,,
+m,top10,71.93,,,,,,,,
+m,hhi_especies,704.908,,,,,,,,
+m,n_emisores,1,,,,,,,,
+m,emisor_top,Ciclo Nova Ahorro,,,,,,,,
+m,emisor_top_pct,0.11,,,,,,,,
+m,hhi_emisores,0.0121,,,,,,,,
+m,sin_emisor_pct,99.93,,,,,,,,
+t,Pagaré,99.93,15,,,,,,,
+t,FCI,0.11,1,,,,,,,
+c,USD,99.93,,,,,,,,
+c,sin dato,0.11,,,,,,,,
+r,Disponibilidades,,,,,,,,,
+r,Titulos de Deuda en Dolar 3500 BCRA,99.93,,,,,,,,
+r,Certificados de Participacion Argentina,0.11,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.04,,,,,,,,
+e,Pagare #UMV231080001,Pagaré,,USD,7.57,2974203305,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV241080001,Pagaré,,USD,7.57,2974203305,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV251080004,Pagaré,,USD,7.57,2974203305,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV191080003,Pagaré,,USD,7.57,2974203305,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV201080015,Pagaré,,USD,7.57,2974203305,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV061080002,Pagaré,,USD,6.82,2679533228,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV091080003,Pagaré,,USD,6.82,2679533228,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV101080008,Pagaré,,USD,6.82,2679533228,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV111080001,Pagaré,,USD,6.81,2675604294,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV121080002,Pagaré,,USD,6.81,2675604294,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV131080001,Pagaré,,USD,6.81,2675604294,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV161080042,Pagaré,,USD,6.81,2675604294,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV171080001,Pagaré,,USD,6.81,2675604294,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV181080002,Pagaré,,USD,6.81,2675604294,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,Pagare #UMV251080005,Pagaré,,USD,0.76,298599011,,,Titulos de Deuda en Dolar 3500 BCRA,1
+e,FCI Ciclo Nova Ahorro - Clase E,FCI,Ciclo Nova Ahorro,,0.11,43218278,,,Certificados de Participacion Argentina,38
+p,Tango Multiestrategia,Tango,Sin clasificar,0.11,0.0041,1,,,,
+p,Abierto Momentum Pymes,Zofingen Inv.,PYME,0.11,0.0014,1,,,,
+p,Novus Income,Novus,RF MULT Disc,0.11,0.0012,1,,,,
+p,Abierto Pymes Veta,Zofingen Inv.,PYME,0.11,0.0008,1,,,,
+p,Tango Performance I,Tango,Sin clasificar,0.11,0.0005,1,,,,
+p,Alpha Planeamiento Dinamico,ICBC,RM y Otros ARS,0.11,0.0005,1,,,,
+p,Tango Ahorro Plus,Tango,T+1,0.11,0.0004,1,,,,
+p,Alpha Planeamiento Equilibrado,ICBC,RM y Otros ARS,0.11,0.0004,1,,,,

@@ -1,0 +1,65 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Novus Balanceado,,,,,,,,
+m,gerente,Novus Asset Management S.A.,,,,,,,,
+m,depositaria,Banco de Valores S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,RM y Otros ARS,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,1808755058,,,,,,,,
+m,aum_planilla,1808755058,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/85288,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,114.34,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,0.24,,,,,,,,
+m,top1,20.01,,,,,,,,
+m,top5,80.98,,,,,,,,
+m,top10,108.09,,,,,,,,
+m,hhi_especies,1534.8669,,,,,,,,
+m,n_emisores,10,,,,,,,,
+m,emisor_top,Prov. Chubut,,,,,,,,
+m,emisor_top_pct,31.23,,,,,,,,
+m,hhi_emisores,2277.4005,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Subsoberano,71.01,9,,,,,,,
+t,Soberano,25.18,2,,,,,,,
+t,ON,17.9,4,,,,,,,
+c,ARS,114.09,,,,,,,,
+r,Disponibilidades,0.24,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,114.1,,,,,,,,
+r,Certificados de Participacion Argentina,,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),14.34,,,,,,,,
+e,Bono del Tesoro Nacional AO28,Soberano,Tesoro Nacional,ARS,20.01,361931887,,,Titulos de Deuda en Peso Argentina,74
+e,Letra Prov Chubut S123 C1,Subsoberano,Prov. Chubut,ARS,19.43,351441108,,,Titulos de Deuda en Peso Argentina,14
+e,Letra Prov Bs As PBA27,Subsoberano,Prov. Buenos Aires,ARS,16.58,299891589,,,Titulos de Deuda en Peso Argentina,38
+e,Letra Prov Rio Negro S1 031226,Subsoberano,Prov. Rio Negro,ARS,15.01,271494134,,,Titulos de Deuda en Peso Argentina,15
+e,ON Edenor Clase 3,ON,Edenor,ARS,9.95,179971128,,,Titulos de Deuda en Peso Argentina,7
+e,Letra Prov Chubut S122 C1,Subsoberano,Prov. Chubut,ARS,6.32,114313320,,,Titulos de Deuda en Peso Argentina,12
+e,ON Credicuotas Consumo S17,ON,Credicuotas Consumo,ARS,5.91,106897424,,,Titulos de Deuda en Peso Argentina,16
+e,Letra Prov Chubut S122 C2,Subsoberano,Prov. Chubut,ARS,5.48,99119777,,,Titulos de Deuda en Peso Argentina,6
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,5.17,93512637,,,Titulos de Deuda en Peso Argentina,166
+e,Letra Entre Rios ERE27,Subsoberano,Prov. Entre Rios,ARS,4.23,76510339,,,Titulos de Deuda en Peso Argentina,11
+e,Bono Muni Cordoba S1 26032027,Subsoberano,Muni. Cordoba,ARS,1.72,31110587,,,Titulos de Deuda en Peso Argentina,20
+e,Bono Muni Cordoba S2 13022027,Subsoberano,Muni. Cordoba,ARS,1.68,30387085,,,Titulos de Deuda en Peso Argentina,29
+e,ON Bco Provincia Cl 4,ON,Banco Provincia,ARS,1.17,21162434,,,Titulos de Deuda en Peso Argentina,25
+e,ON Banco Prov Clase 6,ON,Banco Provincia,ARS,0.87,15736169,,,Titulos de Deuda en Peso Argentina,43
+e,Letra Municipalidad Rio Cuarto S40,Subsoberano,Muni. Rio Cuarto,ARS,0.56,10129028,,,Titulos de Deuda en Peso Argentina,10
+p,Novus Renta Capital,Novus,RF ARS Disc,43.7339,0.5773,11,,,,
+p,Parakeet Premium,Parakeet,RF ARS Disc,42.497,0.5667,11,,,,
+p,Novus Renta Balanceado,Novus,RM y Otros ARS,40.9459,0.4712,9,,,,
+p,Novus Income,Novus,RF MULT Disc,28.1389,0.4569,11,,,,
+p,BAVSA Multiestrategia I,BAVSA,RM y Otros ARS,25.9399,0.3418,6,,,,
+p,Axis Estrategia 28,Axis,RM y Otros ARS,25.2727,0.4349,4,,,,
+p,Puente Renta Fija Pesos III,Puente,RF ARS Disc,22.5699,0.3355,2,,,,
+p,Novus Liquidez Plus,Novus,T+1,19.0639,0.2693,2,,,,

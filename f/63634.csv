@@ -1,0 +1,70 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Stonex Renta Fija Proteccion Plus,,,,,,,,
+m,gerente,StoneX Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF USD Linked,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,33486499207,,,,,,,,
+m,aum_planilla,33486499207,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63634,,,,,,,,
+m,n_especies,15,,,,,,,,
+m,activos_pn,100.08,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,9.01,,,,,,,,
+m,top1,25.43,,,,,,,,
+m,top5,82.22,,,,,,,,
+m,top10,93.04,,,,,,,,
+m,hhi_especies,1784.9864,,,,,,,,
+m,n_emisores,6,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,70.98,,,,,,,,
+m,hhi_emisores,5125.0768,,,,,,,,
+m,sin_emisor_pct,9.44,,,,,,,,
+t,Soberano,70.98,3,,,,,,,
+t,Pagaré,9.44,7,,,,,,,
+t,Caución,6.87,1,,,,,,,
+t,ON,5.67,2,,,,,,,
+t,FCI,4.37,1,,,,,,,
+t,Fideicomiso financiero,0.61,1,,,,,,,
+c,ARS,97.33,,,,,,,,
+c,sin dato,0.61,,,,,,,,
+r,Disponibilidades,2.14,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,86.09,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,6.87,,,,,,,,
+r,Certificados de Participacion Argentina,4.98,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.08,,,,,,,,
+e,Lelink D30N6,Soberano,Tesoro Nacional,ARS,25.43,8515616748,,,Titulos de Deuda en Peso Argentina,103
+e,Letra Tesoro Nac D15E7,Soberano,Tesoro Nacional,ARS,23.02,7708592117,,,Titulos de Deuda en Peso Argentina,75
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,22.53,7544508271,,,Titulos de Deuda en Peso Argentina,250
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,6.87,2300522496,,,Operaciones a Plazo en Peso Argentina,195
+e,FCI Delta $ - Clase B,FCI,Delta $,ARS,4.37,1463360015,,,Certificados de Participacion Argentina,5
+e,ON San Miguel Serie 13 CA,ON,San Miguel,ARS,4.28,1433222166,,,Titulos de Deuda en Peso Argentina,19
+e,Pagare #UMV160670010,Pagaré,,ARS,1.97,659684034,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV240370006,Pagaré,,ARS,1.69,565921837,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV020670010,Pagaré,,ARS,1.49,498948838,,,Titulos de Deuda en Peso Argentina,1
+e,ON MSU S11,ON,MSU,ARS,1.39,465462339,,,Titulos de Deuda en Peso Argentina,11
+e,Pagare #UMV120370004,Pagaré,,ARS,1.29,431975840,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV190370004,Pagaré,,ARS,1.28,428627190,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV260370012,Pagaré,,ARS,1.11,371700141,,,Titulos de Deuda en Peso Argentina,1
+e,Pagare #UMV300370008,Pagaré,,ARS,0.61,204267645,,,Titulos de Deuda en Peso Argentina,1
+e,FF Metalcred 15A,Fideicomiso financiero,Metalcred,,0.61,204267645,,,Certificados de Participacion Argentina,10
+p,First Renta Mixta III,First Cap Mkts,RF USD Linked,69.0363,0.8989,3,,,,
+p,Pionero Renta Ahorro Plus,Macro,RF USD Linked,67.6718,0.9191,3,,,,
+p,Champaquí Estratégico,Bancor,RF USD Linked,66.3895,0.9207,3,,,,
+p,Megainver Renta Global,MegaQM,T+1,64.0351,0.8893,3,,,,
+p,Schroder Patrimonio Dos,Schroder,RF MULT Disc,61.4275,0.8765,3,,,,
+p,Pellegrini Proteccion,Pellegrini,RF USD Linked,61.3252,0.914,4,,,,
+p,Pionero Soja,Macro,RM y Otros ARS,58.5162,0.8714,3,,,,
+p,First Renta Mixta VI,First Cap Mkts,RF MULT Disc,56.2058,0.8477,3,,,,

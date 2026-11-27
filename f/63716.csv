@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Chaco FCI Abierto Infraestructura,,,,,,,,
+m,gerente,Nuevo Chaco Fondos S.A.S.G.F.C.I.,,,,,,,,
+m,depositaria,Nuevo Banco del Chaco S.A.,,,,,,,,
+m,clasificacion,Renta Mixta,,,,,,,,
+m,subtipo,INFRA,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,2398949980,,,,,,,,
+m,aum_planilla,2398949980,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:31,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/63716,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,99.97,,,,,,,,
+m,pasivos_cnv,0.03,,,,,,,,
+m,liquidez,5.78,,,,,,,,
+m,top1,14.54,,,,,,,,
+m,top5,58.94,,,,,,,,
+m,top10,89.06,,,,,,,,
+m,hhi_especies,937.9083,,,,,,,,
+m,n_emisores,13,,,,,,,,
+m,emisor_top,Vista Gas y Oil Arg,,,,,,,,
+m,emisor_top_pct,19.13,,,,,,,,
+m,hhi_emisores,1091.1647,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,ON,73.54,11,,,,,,,
+t,Fideicomiso financiero,14.54,1,,,,,,,
+t,Soberano,6.12,1,,,,,,,
+t,Pase,4.17,1,,,,,,,
+c,ARS,83.83,,,,,,,,
+c,sin dato,14.54,,,,,,,,
+r,Disponibilidades,1.61,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,79.65,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,4.17,,,,,,,,
+r,Certificados de Participacion Argentina,14.54,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,0.03,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),-0.03,,,,,,,,
+e,FF Infraestructura Elec 14,Fideicomiso financiero,Infraestructura Elec,,14.54,348807327,,,Certificados de Participacion Argentina,9
+e,ON Vista Gas y Oil Arg C21,ON,Vista Gas y Oil Arg,ARS,13.42,321939087,,,Titulos de Deuda en Peso Argentina,27
+e,ON Pan Amer. Energy C 13,ON,Pan Amer. Energy,ARS,12.95,310664022,,,Titulos de Deuda en Peso Argentina,11
+e,ON Oldelval Clase 3,ON,Oldelval,ARS,9.46,226940668,,,Titulos de Deuda en Peso Argentina,40
+e,ON Luz De Tres Picos C3,ON,Luz De Tres Picos,ARS,8.57,205590013,,,Titulos de Deuda en Peso Argentina,3
+e,ON GEMSA 18,ON,GEMSA,ARS,7.47,179201564,,,Titulos de Deuda en Peso Argentina,9
+e,ON Genneia Clase 39,ON,Genneia,ARS,6.24,149694479,,,Titulos de Deuda en Peso Argentina,9
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,6.12,146815739,,,Titulos de Deuda en Peso Argentina,250
+e,ON Vista Gas y Oil Arg C25,ON,Vista Gas y Oil Arg,ARS,5.71,136980044,,,Titulos de Deuda en Peso Argentina,18
+e,ON Pan American C26,ON,Pan American,ARS,4.58,109871909,,,Titulos de Deuda en Peso Argentina,38
+e,Pase Colocador ARS MAE,Pase,Pase MAE,ARS,4.17,100036214,,,Operaciones a Plazo en Peso Argentina,14
+e,ON Telecom C12 TLCDO,ON,Telecom,ARS,3.21,77006294,,,Titulos de Deuda en Peso Argentina,29
+e,ON YPF C 20,ON,YPF,ARS,1.43,34304985,,,Titulos de Deuda en Peso Argentina,6
+e,ON P. Aconcagua Energia C21,ON,P. Aconcagua Energia,ARS,0.5,11994750,,,Titulos de Deuda en Peso Argentina,67
+p,Delta Crecimiento Infraestructura,Delta,INFRA,24.236,0.2863,5,,,,
+p,Allaria Desarrollo e Infraestructura,Allaria,INFRA,22.7634,0.2789,4,,,,
+p,Balanz Infraestructura,Balanz,INFRA,20.989,0.2907,5,,,,
+p,SBS Tavelli Renta,SBS,RF MULT Disc,20.3037,0.2493,3,,,,
+p,Delta Gestion IX,Delta,RF USD Linked,20.1368,0.2279,6,,,,
+p,Toronto Trust Infraestructura,Investis,INFRA,19.8844,0.2881,3,,,,
+p,GSS Cobertura,Grupo SS,RF USD Linked,19.3773,0.2077,4,,,,
+p,GSS Energia,Grupo SS,RF MULT Corp,19.3087,0.1575,5,,,,

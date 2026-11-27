@@ -1,0 +1,86 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,BAVSA Fiel,,,,,,,,
+m,gerente,BAVSA Fondos S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Lecap,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,4531864043,,,,,,,,
+m,aum_planilla,4531864043,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-25 23:58,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88631,,,,,,,,
+m,n_especies,32,,,,,,,,
+m,activos_pn,100.06,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,3.03,,,,,,,,
+m,top1,42.76,,,,,,,,
+m,top5,70.81,,,,,,,,
+m,top10,83.3,,,,,,,,
+m,hhi_especies,2103.2437,,,,,,,,
+m,n_emisores,4,,,,,,,,
+m,emisor_top,Pyme Urbano Express Argentina,,,,,,,,
+m,emisor_top_pct,11.44,,,,,,,,
+m,hhi_emisores,205.7606,,,,,,,,
+m,sin_emisor_pct,76.01,,,,,,,,
+t,Cheque,76.01,27,,,,,,,
+t,ON,11.44,1,,,,,,,
+t,Fideicomiso financiero,7.95,2,,,,,,,
+t,Caución,3.01,1,,,,,,,
+t,FCI,1.62,1,,,,,,,
+c,ARS,90.46,,,,,,,,
+c,sin dato,9.57,,,,,,,,
+r,Disponibilidades,0.02,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,87.46,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,3.01,,,,,,,,
+r,Certificados de Participacion Argentina,9.57,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.06,,,,,,,,
+e,Cheque E *MAV101202052,Cheque,,ARS,42.76,1937825065,,,Titulos de Deuda en Peso Argentina,1
+e,ON Pyme Urbano Express Argentina S1,ON,Pyme Urbano Express Argentina,ARS,11.44,518445247,,,Titulos de Deuda en Peso Argentina,20
+e,Cheque MAVR200100140,Cheque,,ARS,6.18,280069198,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque MAVR050200078,Cheque,,ARS,6.08,275537334,,,Titulos de Deuda en Peso Argentina,1
+e,FF AMFAyS S53 Clase B,Fideicomiso financiero,AMFAyS,,4.35,197136086,,,Certificados de Participacion Argentina,1
+e,FF AMFAyS S53 Clase C,Fideicomiso financiero,AMFAyS,,3.6,163147106,,,Certificados de Participacion Argentina,1
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,3.01,136409108,,,Operaciones a Plazo en Peso Argentina,195
+e,Cheque E *MAV151202069,Cheque,,ARS,2.13,96528704,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV161201462,Cheque,,ARS,2.13,96528704,,,Titulos de Deuda en Peso Argentina,1
+e,FCI Zofingen Pesos Ya - Clase A,FCI,Zofingen Pesos Ya,,1.62,73416198,,,Certificados de Participacion Argentina,7
+e,Cheque E *MAV101201841,Cheque,,ARS,1.18,53475996,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV111201500,Cheque,,ARS,1.18,53475996,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV041201253,Cheque,,ARS,1.18,53475996,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV241101558,Cheque,,ARS,1.08,48944132,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV251101936,Cheque,,ARS,1.08,48944132,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV261101396,Cheque,,ARS,1.08,48944132,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV271101579,Cheque,,ARS,1.08,48944132,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV091201711,Cheque,,ARS,1.07,48490945,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV141201358,Cheque,,ARS,1.07,48490945,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130201294,Cheque,,ARS,1.02,46225013,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130201295,Cheque,,ARS,1.02,46225013,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130201296,Cheque,,ARS,1.02,46225013,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV130201297,Cheque,,ARS,1.02,46225013,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV310101618,Cheque,,ARS,0.4,18127456,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV120201197,Cheque,,ARS,0.4,18127456,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV070201083,Cheque,,ARS,0.4,18127456,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150201210,Cheque,,ARS,0.39,17674270,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV100201742,Cheque,,ARS,0.25,11329660,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV150201211,Cheque,,ARS,0.21,9516914,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV060201234,Cheque,,ARS,0.2,9063728,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV180201182,Cheque,,ARS,0.2,9063728,,,Titulos de Deuda en Peso Argentina,1
+e,Cheque E *MAV110201055,Cheque,,ARS,0.2,9063728,,,Titulos de Deuda en Peso Argentina,1
+p,Parakeet Dinámico II,Parakeet,RM y Otros ARS,6.9994,0.0464,1,,,,
+p,Premier Estrategico,Supervielle,RF MULT Disc,5.5685,0.0509,2,,,,
+p,GMC Retorno Total IV,GMC,RM y Otros ARS,4.7752,0.0382,1,,,,
+p,GMC Retorno Total III,GMC,RM y Otros ARS,4.3763,0.0445,1,,,,
+p,Allaria Selection II Abierto Pymes,Allaria,PYME,4.0468,0.0366,1,,,,
+p,Max Retorno Total Pesos II,Max Capital,RF ARS Disc,3.509,0.0603,2,,,,
+p,Conosur Financiamiento III,Cono Sur,Sin clasificar,3.0091,0.0656,1,,,,
+p,Wise Capital Money Markets,Wise,MM ARS Clásico,3.0091,0.0656,1,,,,

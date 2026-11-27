@@ -1,0 +1,67 @@
+s,a,b,c,d,e,f,g,h,i,j
+m,fondo,Puente Renta Fija Pesos IV,,,,,,,,
+m,gerente,Puente Asset Management S.A.,,,,,,,,
+m,depositaria,Banco Comafi S.A.,,,,,,,,
+m,clasificacion,Renta Fija,,,,,,,,
+m,subtipo,RF ARS Disc,,,,,,,,
+m,moneda_fondo,Peso Argentina,,,,,,,,
+m,region,Argentina,,,,,,,,
+m,horizonte,Mediano Plazo,,,,,,,,
+m,cartera_al,2026-11-05,,,,,,,,
+m,dias,21,,,,,,,,
+m,fecha_anterior,,,,,,,,,
+m,pn,13420071666,,,,,,,,
+m,aum_planilla,13420071666,,,,,,,,
+m,dif_pn_aum,0,,,,,,,,
+m,relevado,2026-11-26 00:25,,,,,,,,
+m,estado,ok,,,,,,,,
+m,aviso,,,,,,,,,
+m,url,https://www.cnv.gov.ar/SitioWeb/FondosComunesInversion/DetallesFCI/88806,,,,,,,,
+m,n_especies,14,,,,,,,,
+m,activos_pn,100.02,,,,,,,,
+m,pasivos_cnv,,,,,,,,,
+m,liquidez,19.08,,,,,,,,
+m,top1,23.25,,,,,,,,
+m,top5,71.91,,,,,,,,
+m,top10,94.84,,,,,,,,
+m,hhi_especies,1330.156,,,,,,,,
+m,n_emisores,9,,,,,,,,
+m,emisor_top,Tesoro Nacional,,,,,,,,
+m,emisor_top_pct,66.33,,,,,,,,
+m,hhi_emisores,4803.592,,,,,,,,
+m,sin_emisor_pct,0,,,,,,,,
+t,Soberano,66.33,6,,,,,,,
+t,Caución,19.04,1,,,,,,,
+t,Acción,9.66,5,,,,,,,
+t,ON,4.55,1,,,,,,,
+t,Subsoberano,0.4,1,,,,,,,
+c,ARS,99.98,,,,,,,,
+r,Disponibilidades,0.04,,,,,,,,
+r,Titulos de Deuda en Peso Argentina,71.28,,,,,,,,
+r,Operaciones a Plazo en Peso Argentina,19.04,,,,,,,,
+r,Participaciones Accionarias Argentina,9.66,,,,,,,,
+r,Otros Activos,,,,,,,,,
+r,Pasivos,,,,,,,,,
+r,Activos − 100% (financiamiento / pasivos netos),0.02,,,,,,,,
+e,Bono del Tesoro Nacional TMVE8,Soberano,Tesoro Nacional,ARS,23.25,3120166662,,,Titulos de Deuda en Peso Argentina,250
+e,Caucion Colocadora $ Merval,Caución,Caución Merval,ARS,19.04,2555181645,,,Operaciones a Plazo en Peso Argentina,195
+e,Lecap S13N6,Soberano,Tesoro Nacional,ARS,11.18,1500364012,,,Titulos de Deuda en Peso Argentina,160
+e,Bono Boncer TZXD6,Soberano,Tesoro Nacional,ARS,9.41,1262828744,,,Titulos de Deuda en Peso Argentina,159
+e,Bono Bonar 2029 AO29,Soberano,Tesoro Nacional,ARS,9.03,1211832471,,,Titulos de Deuda en Peso Argentina,40
+e,Lecer X29E7,Soberano,Tesoro Nacional,ARS,6.77,908538852,,,Titulos de Deuda en Peso Argentina,118
+e,Lecap S30N6,Soberano,Tesoro Nacional,ARS,6.69,897802794,,,Titulos de Deuda en Peso Argentina,166
+e,ON MSU C14,ON,MSU,ARS,4.55,610613261,,,Titulos de Deuda en Peso Argentina,5
+e,Transportadora Gas del Sur S.A.,Acción,Transportadora Gas del Sur,ARS,2.93,393208100,,,Participaciones Accionarias Argentina,104
+e,Pampa Energia S.A.,Acción,Pampa Energia,ARS,1.99,267059426,,,Participaciones Accionarias Argentina,129
+e,YPF S.A.,Acción,YPF,ARS,1.88,252297347,,,Participaciones Accionarias Argentina,122
+e,Central Puerto S.A.,Acción,Central Puerto,ARS,1.86,249613333,,,Participaciones Accionarias Argentina,104
+e,Transportadora de Gas del Norte S.A.,Acción,Transportadora de Gas del Norte,ARS,1,134200717,,,Participaciones Accionarias Argentina,70
+e,Bono Prov San Juan SJO35,Subsoberano,Prov. San Juan,ARS,0.4,53680287,,,Titulos de Deuda en Peso Argentina,33
+p,Schroder Balanceado,Schroder,RM y Otros ARS,52.706,0.7276,4,,,,
+p,Schroder Retorno Absoluto,Schroder,RF ARS Disc,45.6479,0.7161,3,,,,
+p,Schroder Renta Global Cinco,Schroder,RM y Otros ARS,43.7203,0.7519,4,,,,
+p,Wise Capital Hedge,Wise,RM y Otros ARS,42.2985,0.6364,2,,,,
+p,Intervalores Ahorro,Allaria,RF ARS Disc,38.7941,0.4621,3,,,,
+p,Alamerica Renta Fija Argentina,Allaria,RM y Otros ARS,38.0424,0.5327,4,,,,
+p,First Renta Mixta II,First Cap Mkts,RV ARG Rofex 20,36.3687,0.5836,7,,,,
+p,Schroder Multiactivos,Schroder,RF MULT Disc,36.3385,0.6471,3,,,,
