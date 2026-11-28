@@ -1,0 +1,19 @@
+clave,valor
+fecha_corte,2026-11-27
+ultima_fecha_datos,2026-11-27
+ultima_fecha_completa,2026-11-26
+clases_con_dato,2434
+estado_corte,preliminar
+cobertura_aum,0.887068
+aum_arrastrado_pct,0.113286
+gerentes_con_money_market,49
+fx_usado,A3500
+a3500,1605.0
+mep,1666.4
+ccl,1767.9
+generado_utc,2026-11-28 03:35
+fuente_fondos,"CNV planilla diaria de cuotapartes (últimas 10 fechas, directo) + historia ArgentinaDatos"
+cnv_ultima_planilla,2026-11-27
+cnv_recibida,2026-11-27 20:23:00
+fuente_a3500,BCRA
+fuente_mep_ccl,ArgentinaDatos / dolarapi (venta)
